@@ -1,0 +1,1226 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Μουσική — Musica Greca</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f7f4ef;--sur:#fff;--s2:#f0ece4;
+  --bor:#e0d8cc;--b2:#c8bfb0;
+  --txt:#1a1814;--t2:#5a5448;--t3:#8a7f72;
+  --acc:#2244aa;--abg:#e6f1fb;
+  --grn:#1a6a2a;--gbg:#e1f5ee;
+  --amb:#854f0b;--ambg:#faeeda;
+  --pur:#534ab7;--pbg:#eeedfe;
+  --cor:#993c1d;--cbg:#faece7;
+  --rad:6px
+}
+body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-size:14px;line-height:1.6;min-height:100vh}
+
+/* NAV */
+.topbar{background:var(--sur);border-bottom:1px solid var(--b2);padding:0 .8rem;display:flex;align-items:center;gap:.3rem;position:sticky;top:0;z-index:100;box-shadow:0 1px 4px rgba(0,0,0,.06);flex-wrap:wrap}
+.tb-brand{font-size:14px;font-weight:700;color:var(--acc);padding:.6rem .7rem .6rem 0;border-right:1px solid var(--bor);margin-right:.3rem;cursor:pointer;white-space:nowrap}
+.bc-sep{color:var(--t3);font-size:12px;padding:0 2px}
+.bc-cur{font-size:12px;color:var(--txt);font-weight:700;padding:.6rem .4rem}
+.bc-lnk{font-size:12px;color:var(--t2);padding:.6rem .4rem;cursor:pointer}
+.bc-lnk:hover{color:var(--acc)}
+.tb-back{margin-left:auto;font-size:11.5px;padding:3px 9px;border-radius:20px;border:1px solid var(--b2);background:var(--sur);color:var(--t2);cursor:pointer}
+.tb-back:hover{background:var(--s2)}
+
+/* PAGES */
+.page{display:none;min-height:80vh}
+.page.active{display:block}
+.wrap{padding:1rem .9rem;max-width:980px;margin:0 auto}
+
+/* HOME */
+.hero{background:linear-gradient(135deg,#1a2a5e 0%,#2244aa 60%,#3a1a5e 100%);color:#fff;padding:3.5rem 2rem 2.5rem;text-align:center}
+.hero-title{font-size:clamp(2rem,6vw,3.5rem);font-weight:700;letter-spacing:.04em;margin-bottom:.3rem}
+.hero-sub{font-size:clamp(.9rem,3vw,1.2rem);opacity:.85;margin-bottom:1.5rem;font-style:italic}
+.hero-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:2rem}
+.hero-btn{padding:.65rem 1.4rem;border-radius:30px;font-size:.95rem;font-weight:700;cursor:pointer;border:2px solid transparent;font-family:'Arial',sans-serif}
+.hero-btn.prim{background:#fff;color:var(--acc)}
+.hero-btn.out{background:transparent;color:#fff;border-color:rgba(255,255,255,.6)}
+.hero-stats{display:flex;gap:2rem;justify-content:center;flex-wrap:wrap}
+.stat-n{font-size:1.8rem;font-weight:700;line-height:1}
+.stat-l{font-size:.75rem;opacity:.7;text-transform:uppercase;letter-spacing:.06em;margin-top:2px}
+.home-arg{background:var(--sur);border-top:3px solid var(--acc);padding:1.2rem 1.5rem;max-width:720px;margin:1.5rem auto 0;border-radius:var(--rad);box-shadow:0 2px 12px rgba(0,0,0,.08)}
+.arg-lbl{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--acc);margin-bottom:.3rem}
+.arg-ttl{font-size:1rem;font-weight:700;margin-bottom:.35rem}
+.arg-body{font-size:12.5px;color:var(--t2);line-height:1.7;white-space:pre-wrap}
+.home-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.9rem;padding:2rem 1.5rem;max-width:960px;margin:0 auto}
+.hcard{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);padding:1.1rem;cursor:pointer;text-align:center;transition:all .18s}
+.hcard:hover{border-color:var(--acc);box-shadow:0 4px 14px rgba(34,68,170,.12);transform:translateY(-2px)}
+.hcard-ico{font-size:1.8rem;margin-bottom:.4rem}
+.hcard-ttl{font-size:.9rem;font-weight:700;color:var(--txt)}
+.hcard-sub{font-size:.75rem;color:var(--t3);margin-top:.15rem}
+.home-footer{background:var(--s2);border-top:1px solid var(--bor);padding:.65rem 1.5rem;text-align:center;font-size:.75rem;color:var(--t3)}
+
+/* ELENCHI */
+.el-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:.9rem}
+.el-card{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);overflow:hidden;cursor:pointer;transition:all .18s}
+.el-card:hover{border-color:var(--acc);box-shadow:0 3px 12px rgba(34,68,170,.1)}
+.el-card-hdr{padding:.6rem .85rem;display:flex;align-items:center;gap:7px;border-bottom:1px solid var(--bor)}
+.el-card-ico{font-size:1.1rem}
+.el-card-ttl{font-size:.87rem;font-weight:700}
+.el-card-cnt{margin-left:auto;font-size:10px;background:var(--acc);color:#fff;padding:1px 6px;border-radius:10px}
+.el-rows{padding:.35rem 0;max-height:240px;overflow-y:auto}
+.el-row{padding:.35rem .85rem;font-size:12px;color:var(--t2);cursor:pointer;border-bottom:1px solid var(--bor);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.el-row:hover{background:var(--abg);color:var(--acc)}
+.el-row:last-child{border-bottom:none}
+
+/* LISTA */
+.list-item{padding:.55rem .2rem;border-bottom:1px solid var(--bor);display:flex;align-items:center;gap:6px}
+.list-item:hover{background:var(--s2)}
+.list-num{font-size:10px;color:var(--t3);min-width:18px;flex-shrink:0}
+.list-main{flex:1;overflow:hidden;cursor:pointer}
+.list-title{font-weight:700;font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.list-sub{font-size:11px;color:var(--t3)}
+.list-actions{display:flex;gap:4px;flex-shrink:0;align-items:center}
+.lbtn{display:inline-flex;align-items:center;font-size:12px;padding:2px 7px;border-radius:16px;border:1px solid var(--b2);background:var(--sur);color:var(--acc);text-decoration:none;cursor:pointer}
+.lbtn:hover{background:var(--abg)}
+
+/* ALPHA BAR */
+.alpha-bar{display:flex;flex-wrap:wrap;gap:3px;margin-bottom:.65rem}
+.alpha-btn{font-size:11px;padding:2px 6px;border:1px solid var(--b2);border-radius:var(--rad);background:var(--sur);color:var(--t2);cursor:pointer;min-width:24px;text-align:center}
+.alpha-btn:hover,.alpha-btn.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+
+/* SEARCH */
+.search-bar{position:relative;margin-bottom:.8rem}
+.search-bar input{width:100%;padding:7px 10px 7px 32px;border:1px solid var(--b2);border-radius:var(--rad);font-size:13px;font-family:'Arial',sans-serif;color:var(--txt);background:var(--sur)}
+.search-bar::before{content:'🔍';position:absolute;left:9px;top:50%;transform:translateY(-50%);font-size:13px;pointer-events:none}
+
+/* SONG CARD */
+.song-card{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);overflow:hidden}
+.s-hdr{padding:.8rem 1rem;border-bottom:1px solid var(--bor);background:var(--s2)}
+.s-title{font-size:1.15rem;font-weight:700}
+.s-tit-it{font-size:12px;color:var(--t3);font-style:italic;margin-top:1px}
+.s-meta{font-size:11.5px;color:var(--t3);display:flex;gap:7px;flex-wrap:wrap;margin-top:.3rem}
+.s-meta .plnk{color:var(--acc);text-decoration:underline;cursor:pointer}
+.s-links{display:flex;gap:4px;margin-top:.4rem;flex-wrap:wrap;align-items:center}
+.itabs{display:flex;border-bottom:1px solid var(--bor);padding:0 1rem;background:var(--sur);flex-wrap:wrap}
+.itab{padding:.45rem .7rem;font-size:11.5px;color:var(--t2);cursor:pointer;border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-1px;font-family:'Arial',sans-serif}
+.itab.on{color:var(--acc);border-bottom-color:var(--acc);font-weight:700}
+.s-body{padding:.85rem 1rem}
+.text-blk{font-size:13.5px;line-height:1.85;white-space:pre-wrap;word-break:break-word}
+.notes-blk{font-size:12.5px;line-height:1.7;padding:.6rem;background:var(--ambg);border-left:3px solid var(--amb);border-radius:0 var(--rad) var(--rad) 0;color:var(--t2)}
+
+/* SEMI */
+.semi-ctrl{display:flex;align-items:center;gap:5px;flex-wrap:wrap;background:var(--s2);border:1px solid var(--bor);border-radius:var(--rad);padding:.45rem .7rem;margin-bottom:.6rem}
+.semi-ctrl label{font-size:11.5px;font-weight:700;color:var(--txt)}
+.sbtn{width:26px;height:26px;border-radius:var(--rad);border:1px solid var(--b2);background:var(--sur);cursor:pointer;font-size:13px;display:flex;align-items:center;justify-content:center}
+.sbtn:hover{background:var(--s2)}
+.semi-val{font-size:12px;font-weight:700;padding:1px 8px;border-radius:12px;background:var(--acc);color:#fff;min-width:54px;text-align:center}
+.nseg{display:flex;gap:2px}
+.nseg button{height:22px;padding:0 6px;font-size:11px;border:1px solid var(--b2);border-radius:var(--rad);background:var(--sur);color:var(--t2);cursor:pointer;font-family:'Arial',sans-serif}
+.nseg button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+
+/* CANZONIERE */
+.songbook{font-family:'Courier New',monospace;font-size:14px}
+.sb-lbl{font-size:10px;font-weight:700;color:var(--t3);text-transform:uppercase;letter-spacing:.08em;display:block;margin:.25rem 0 .1rem}
+.sb-pair{margin-bottom:2px;padding-top:22px;position:relative}
+.sb-chrow{position:absolute;top:0;left:0;right:0;height:20px;overflow:visible}
+.sb-ch{position:absolute;top:0;font-family:'Courier New',monospace;font-size:14px;font-weight:700;color:#000;white-space:nowrap}
+.sb-txt{font-family:'Courier New',monospace;font-size:14px;color:var(--txt);line-height:1.1;white-space:pre;display:block;padding-bottom:2px}
+.sb-txtonly{font-family:'Courier New',monospace;font-size:14px;color:var(--txt);white-space:pre;display:block;margin-bottom:2px}
+
+/* PERSONA */
+.p-card{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);overflow:hidden}
+.p-hdr{padding:.8rem 1rem;border-bottom:1px solid var(--bor);background:var(--s2)}
+.p-name{font-size:1.15rem;font-weight:700}
+.p-nameit{font-size:12px;color:var(--t3);margin-top:1px}
+.p-roles{display:flex;gap:4px;flex-wrap:wrap;margin-top:.3rem}
+.rp{font-size:10px;padding:2px 7px;border-radius:10px;font-weight:700}
+.rp-at{background:var(--ambg);color:var(--amb);border:1px solid #fac775}
+.rp-am{background:var(--pbg);color:var(--pur);border:1px solid #afa9ec}
+.rp-ar{background:var(--gbg);color:var(--grn);border:1px solid #9fe1cb}
+.p-body{padding:.85rem 1rem}
+.p-mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:6px 12px;margin-bottom:.7rem}
+.pm-i{display:flex;flex-direction:column;gap:1px}
+.pm-l{font-size:9.5px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--t3)}
+.pm-v{font-size:12.5px;color:var(--txt)}
+.pm-v a{color:var(--acc);font-size:12px}
+.p-bio{font-size:13.5px;line-height:1.75;color:var(--t2);white-space:pre-wrap;margin-bottom:.7rem}
+.linked{display:flex;flex-direction:column;gap:4px;margin-top:.35rem}
+.ln-row{background:var(--s2);border:1px solid var(--bor);border-radius:var(--rad);padding:.4rem .7rem;cursor:pointer;display:flex;align-items:center;gap:7px;transition:background .1s}
+.ln-row:hover{background:var(--abg)}
+.ln-ttl{font-size:13px;font-weight:700}
+.ln-sub{font-size:11px;color:var(--t3)}
+.divider{height:1px;background:var(--bor);margin:.7rem 0}
+.sec-hdr{font-size:11.5px;font-weight:700;color:var(--t2);margin:.5rem 0 .3rem}
+
+/* ARGOMENTO */
+.arg-card{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);padding:1rem;margin-bottom:.9rem}
+.arg-card-ttl{font-size:1rem;font-weight:700;margin-bottom:.5rem}
+.arg-card-body{font-size:13px;line-height:1.75;color:var(--t2);white-space:pre-wrap}
+.tag{font-size:10px;padding:2px 6px;border-radius:10px;background:var(--s2);border:1px solid var(--bor);color:var(--t3)}
+
+/* MU NOTE */
+.mu-note{font-size:12px;color:var(--t3);background:var(--s2);border:1px solid var(--bor);border-radius:var(--rad);padding:.4rem .7rem;margin-bottom:.65rem}
+
+@media(max-width:600px){.el-grid,.home-cards{grid-template-columns:1fr}}
+
+.info-blk{margin-bottom:1.5rem}
+.info-h{font-size:.95rem;font-weight:700;color:var(--acc);margin-bottom:.5rem;padding-bottom:.25rem;border-bottom:1px solid var(--bor)}
+.info-blk p{font-size:13.5px;line-height:1.8;color:var(--t2);margin-bottom:.5rem}
+.info-list{font-size:13.5px;line-height:1.8;color:var(--t2);padding-left:1.2rem;margin-bottom:.5rem}
+.info-list li{margin-bottom:.25rem}
+.info-list a{color:var(--acc)}
+@media print{
+  body,html{margin:0;padding:0}
+  .topbar,.hero,.home-cards,.home-footer,.s-links,.semi-ctrl,.itabs,
+  .search-bar,.alpha-bar,.tb-back,.hero-btns,.hero-stats,.home-arg{display:none!important}
+  .page{display:none!important}
+  #print-frame{display:block!important}
+  @page{margin:1.8cm}
+}
+#print-frame{display:none}
+.srch-gbtn{font-size:11px;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:var(--sur);color:var(--t2);cursor:pointer;font-family:'Arial',sans-serif}
+.srch-gbtn:hover{background:var(--s2)}
+.srch-gbtn.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+</style>
+</head>
+<body>
+
+<!-- HOME -->
+<div class="page active" id="pg-home">
+<div class="hero">
+  <div class="hero-title">Μουσική</div>
+  <div class="hero-sub">Archivio di musica greca</div>
+  <div class="hero-btns">
+    <button class="hero-btn prim" onclick="go('elenchi')">📋 Esplora gli elenchi</button>
+    <button class="hero-btn out" onclick="go('argomento')">📖 Approfondimenti</button>
+  </div>
+  <div class="hero-stats" id="home-stats"></div>
+</div>
+<div style="max-width:720px;margin:0 auto;padding:0 1rem">
+  <div id="home-img-wrap" style="margin-top:1.2rem;display:none;text-align:center">
+    <img id="home-img" src="" alt="" style="max-width:100%;max-height:340px;border-radius:8px;box-shadow:0 4px 18px rgba(0,0,0,.18)">
+  </div>
+</div>
+<div class="home-cards" id="home-cards">
+  <div class="hcard" onclick="go('elenco-canzoni')"><div class="hcard-ico">♪</div><div class="hcard-ttl">Canzoni</div><div class="hcard-sub">Testi, accordi e trascrizioni</div></div>
+  <div class="hcard" onclick="go('elenco-cantanti')"><div class="hcard-ico">🎤</div><div class="hcard-ttl">Cantanti</div><div class="hcard-sub">Biografie degli esecutori</div></div>
+  <div class="hcard" onclick="go('elenco-autori-musica')"><div class="hcard-ico">♫</div><div class="hcard-ttl">Autori musica</div><div class="hcard-sub">I compositori</div></div>
+  <div class="hcard" onclick="go('elenco-autori-testo')"><div class="hcard-ico">✍</div><div class="hcard-ttl">Autori testo</div><div class="hcard-sub">I poeti e parolieri</div></div>
+  <div class="hcard" onclick="go('elenco-musicisti')"><div class="hcard-ico">🎸</div><div class="hcard-ttl">Musicisti</div><div class="hcard-sub">Strumentisti — solo schede biografiche</div></div>
+  <div class="hcard" onclick="go('elenco-generi')"><div class="hcard-ico">🎼</div><div class="hcard-ttl">Generi</div><div class="hcard-sub">Per dromos e stile</div></div>
+  <div class="hcard" onclick="go('elenco-balli')"><div class="hcard-ico">💃</div><div class="hcard-ttl">Balli</div><div class="hcard-sub">Per tipo di ballo</div></div>
+  <div class="hcard" onclick="go('argomento')"><div class="hcard-ico">📖</div><div class="hcard-ttl">Approfondimenti</div><div class="hcard-sub">Approfondimenti e curiosità</div></div>
+  <div class="hcard" onclick="go('info')"><div class="hcard-ico">ℹ</div><div class="hcard-ttl">Informazioni</div><div class="hcard-sub">Fonti e note sul sito</div></div>
+</div>
+<div class="home-footer">Μουσική — Archivio di musica greca &nbsp;·&nbsp; <span onclick="go('info')" style="cursor:pointer;text-decoration:underline">Informazioni e fonti</span></div>
+</div>
+
+<!-- ELENCHI -->
+<div class="page" id="pg-elenchi">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Elenchi</span>
+  <button class="tb-back" onclick="go('home')">← Home</button>
+</div>
+<div class="wrap">
+  <h1 style="font-size:1.2rem;font-weight:700;margin-bottom:1rem">Tutti gli elenchi</h1>
+  <div class="el-grid" id="el-grid"></div>
+</div>
+</div>
+
+<!-- ELENCO CANZONI -->
+<div class="page" id="pg-elenco-canzoni">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-lnk" onclick="go('elenchi')">Elenchi</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Canzoni</span>
+  <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
+</div>
+<div class="wrap">
+  <div class="search-bar"><input type="text" id="srch-c" placeholder="Cerca canzone…" oninput="renderElencoCanzoni()"></div>
+  <div id="list-canzoni"></div>
+</div>
+</div>
+
+<!-- ELENCO CANTANTI -->
+<div class="page" id="pg-elenco-cantanti">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-lnk" onclick="go('elenchi')">Elenchi</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Cantanti</span>
+  <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
+</div>
+<div class="wrap">
+  <div class="alpha-bar" id="alpha-cantanti"></div>
+  <div id="list-cantanti"></div>
+</div>
+</div>
+
+<!-- ELENCO AUTORI MUSICA -->
+<div class="page" id="pg-elenco-autori-musica">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-lnk" onclick="go('elenchi')">Elenchi</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Autori musica</span>
+  <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
+</div>
+<div class="wrap">
+  <div class="alpha-bar" id="alpha-autori-musica"></div>
+  <div id="list-autori-musica"></div>
+</div>
+</div>
+
+<!-- ELENCO AUTORI TESTO -->
+<div class="page" id="pg-elenco-autori-testo">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-lnk" onclick="go('elenchi')">Elenchi</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Autori testo</span>
+  <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
+</div>
+<div class="wrap">
+  <div class="alpha-bar" id="alpha-autori-testo"></div>
+  <div id="list-autori-testo"></div>
+</div>
+</div>
+
+<!-- ELENCO MUSICISTI -->
+<div class="page" id="pg-elenco-musicisti">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-lnk" onclick="go('elenchi')">Elenchi</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Musicisti</span>
+  <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
+</div>
+<div class="wrap">
+  <div class="mu-note">🎸 I musicisti e strumentisti sono citati nelle note biografiche e negli arrangiamenti. Non compaiono come autori o esecutori vocali.</div>
+  <div class="alpha-bar" id="alpha-musicisti"></div>
+  <div id="list-musicisti"></div>
+</div>
+</div>
+
+<!-- ELENCO GENERI -->
+<div class="page" id="pg-elenco-generi">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-lnk" onclick="go('elenchi')">Elenchi</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Generi</span>
+  <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
+</div>
+<div class="wrap">
+  <div id="list-generi-nav"></div>
+  <div id="list-generi-canzoni" style="margin-top:1rem"></div>
+</div>
+</div>
+
+<!-- ELENCO BALLI -->
+<div class="page" id="pg-elenco-balli">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-lnk" onclick="go('elenchi')">Elenchi</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Balli</span>
+  <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
+</div>
+<div class="wrap">
+  <div id="list-balli-nav"></div>
+  <div id="list-balli-canzoni" style="margin-top:1rem"></div>
+</div>
+</div>
+
+<!-- SCHEDA CANZONE -->
+<div class="page" id="pg-canzone">
+<div class="topbar" id="tb-canzone"></div>
+<div class="wrap" id="wrap-canzone"></div>
+</div>
+
+<!-- SCHEDA PERSONA -->
+<div class="page" id="pg-persona">
+<div class="topbar" id="tb-persona"></div>
+<div class="wrap" id="wrap-persona"></div>
+</div>
+
+<!-- ARGOMENTO -->
+<div class="page" id="pg-argomento">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Approfondimenti</span>
+  <button class="tb-back" onclick="go('home')">← Home</button>
+</div>
+<div class="wrap" id="wrap-argomento"></div>
+</div>
+
+<!-- INFO -->
+<div class="page" id="pg-info">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Informazioni</span>
+  <button class="tb-back" onclick="go('home')">← Home</button>
+</div>
+<div class="wrap" style="max-width:720px">
+  <h1 style="font-size:1.2rem;font-weight:700;margin-bottom:1.2rem;color:var(--txt)">Informazioni su questo sito</h1>
+
+  <!-- ═══ SEZIONE MODIFICABILE ═══ -->
+  <!-- Per aggiungere testo basta modificare questa sezione -->
+
+  <div class="info-blk">
+    <h2 class="info-h">Cosa è questo sito</h2>
+    <p>Questo sito è un archivio personale dedicato alla musica greca, con particolare attenzione al rembetiko e alle sue radici. Raccoglie testi di canzoni con accordi, trascrizioni fonetiche, traduzioni italiane e note storico-biografiche sugli artisti.</p>
+    <p>Non ha carattere di ricerca scientifica: è un tentativo di divulgazione in lingua italiana di un patrimonio musicale poco conosciuto nel nostro paese.</p>
+  </div>
+
+  <div class="info-blk">
+    <h2 class="info-h">Fonti</h2>
+    <p>Le informazioni pubblicate provengono da diverse fonti, tra cui:</p>
+    <ul class="info-list">
+      <li><a href="https://it.wikipedia.org" target="_blank">Wikipedia</a> — in lingua greca, italiana e inglese</li>
+      <li><a href="https://kithara.to" target="_blank">kithara.to</a> — database di accordi e testi di canzoni greche</li>
+      <li><a href="https://rebetiko.sealabs.net" target="_blank">rebetiko.sealabs.net</a> — archivio del rembetiko</li>
+      <li><a href="https://vmrebetiko.gr/en/d-home-en/" target="_blank">vmrebetiko.gr</a> — Virtual Museum of Rebetiko, Archivio Kounadis</li>
+      <li><a href="https://www.stixoi.info" target="_blank">stixoi.info</a> — testi di canzoni greche</li>
+      <li>Ilias Petropoulos, <em>Rembetika Tragoudia</em> — il testo fondamentale sul rembetiko</li>
+      <li><a href="https://fourtounis.gr" target="_blank">fourtounis.gr</a> — articoli di storia e cultura greca</li>
+      <li><a href="https://www.newsbreak.gr" target="_blank">newsbreak.gr</a> — notizie e approfondimenti sulla musica greca</li>
+      <li><a href="https://maxmag.gr" target="_blank">maxmag.gr</a> — approfondimenti biografici su artisti greci</li>
+      <li>Altri siti e fonti che verranno indicati di volta in volta</li>
+    </ul>
+  </div>
+
+  <div class="info-blk">
+    <h2 class="info-h">Accuratezza</h2>
+    <p>Le informazioni vengono verificate per quanto possibile. Gli accordi delle canzoni sono controllati prima della pubblicazione. Nonostante l'impegno nella verifica, possono esserci imprecisioni: chiunque noti un errore è benvenuto a segnalarlo.</p>
+  </div>
+
+  <div class="info-blk">
+    <h2 class="info-h">Copyright</h2>
+    <p>I testi delle canzoni e le informazioni biografiche sono tratti da fonti pubblicamente disponibili su internet. Se qualcuno ritiene che un contenuto violi i propri diritti, o per qualsiasi segnalazione, può scrivere a <strong style="font-family:'Courier New',monospace;font-size:13px;white-space:nowrap">musicagreca [at] libero [punto] it</strong>.</p>
+  </div>
+
+  <!-- ═══ FINE SEZIONE MODIFICABILE ═══ -->
+
+</div>
+</div>
+
+<!-- PRINT FRAME -->
+<div id="print-frame"></div>
+
+<canvas id="ruler" style="display:none" width="200" height="20"></canvas>
+
+<script>
+/* ── CH WIDTH ── */
+var CH = 8;
+(function(){
+  var c = document.getElementById('ruler');
+  var ctx = c.getContext('2d');
+  ctx.font = '14px "Courier New",monospace';
+  CH = ctx.measureText('M').width;
+})();
+
+/* ── DATA ── */
+var SK='mousg_songs', AK='mousg_args', PK='mousg_persons';
+var songs=[], args=[], persons=[];
+
+function loadData() {
+  // Dati incorporati — fonte primaria sempre affidabile
+  var builtIn = {"version":1,"songs":[],"args":[],"persons":[]}
+
+  function useBuiltIn(){
+    songs=builtIn.songs||[]; args=builtIn.args||[]; persons=builtIn.persons||[];
+    if(!songs.length) initDemoSongs();
+    if(!args.length)  initDemoArgs();
+    if(!persons.length) initDemoPersons();
+    init();
+  }
+
+  if(window.location.protocol==='http:'||window.location.protocol==='https:'){
+    fetch('dati.json?v='+Date.now())
+      .then(function(r){ if(!r.ok) throw 0; return r.json(); })
+      .then(function(d){
+        songs=d.songs||[]; args=d.args||[]; persons=d.persons||[];
+        if(!songs.length) initDemoSongs();
+        if(!args.length)  initDemoArgs();
+        if(!persons.length) initDemoPersons();
+        init();
+      })
+      .catch(function(){ useBuiltIn(); });
+  } else {
+    try{songs=JSON.parse(localStorage.getItem(SK)||'[]')}catch(e){songs=[]}
+    try{args=JSON.parse(localStorage.getItem(AK)||'[]')}catch(e){args=[]}
+    try{persons=JSON.parse(localStorage.getItem(PK)||'[]')}catch(e){persons=[]}
+    if(songs.length){ init(); return; }
+    useBuiltIn();
+  }
+}
+
+/* ── UTILS ── */
+function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function el(id){ return document.getElementById(id); }
+
+function lastName(name){
+  var w=(name||'').trim().split(/\s+/);
+  return w.length>1?w[w.length-1]:name;
+}
+function invertName(name){
+  var w=(name||'').trim().split(/\s+/);
+  return w.length>1?w[w.length-1]+' '+w.slice(0,-1).join(' '):name;
+}
+function hideImg(el){el.style.display='none';}
+/* ── NOTE ENGINE ── */
+var ITS=['DO','DO#','RE','RE#','MI','FA','FA#','SOL','SOL#','LA','LA#','SI'];
+var ITF=['DO','REB','RE','MIB','MI','FA','SOLB','SOL','LAB','LA','SIB','SI'];
+var ENS=['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
+var ITM={do:0,'do#':1,dob:11,reb:1,re:2,'re#':3,mib:3,mi:4,'mi#':5,fa:5,'fa#':6,fab:4,solb:6,sol:7,'sol#':8,lab:8,la:9,'la#':10,sib:10,si:11,'si#':0};
+// Alias maiuscolo (l'utente può scrivere DO RE MI ecc.)
+['DO','DO#','DOB','REB','RE','RE#','MIB','MI','MI#','FA','FA#','FAB','SOLB','SOL','SOL#','LAB','LA','LA#','SIB','SI','SI#'].forEach(function(k){ ITM[k]=ITM[k.toLowerCase()]; });
+var ENM={c:0,'c#':1,cb:11,db:1,d:2,'d#':3,eb:3,e:4,'e#':5,f:5,'f#':6,fb:4,gb:6,g:7,'g#':8,ab:8,a:9,'a#':10,bb:10,b:11,'b#':0};
+var notation='it';
+
+function pNote(str){
+  var s=str.toLowerCase();
+  var it=['sol#','solb','sol','do#','dob','re#','mib','fa#','fab','la#','sib','lab','si#','mi#','reb','do','re','mi','fa','la','si'];
+  for(var i=0;i<it.length;i++) if(s.indexOf(it[i])===0&&ITM[it[i]]!==undefined) return {idx:ITM[it[i]],len:it[i].length};
+  var en=['c#','cb','db','d#','eb','e#','f#','fb','gb','g#','ab','a#','bb','b#','c','d','e','f','g','a','b'];
+  for(var i=0;i<en.length;i++) if(s.indexOf(en[i])===0&&ENM[en[i]]!==undefined) return {idx:ENM[en[i]],len:en[i].length};
+  return null;
+}
+function nOut(i){ return notation==='it'?ITS[i]:notation==='flat'?ITF[i]:ENS[i]; }
+function trTok(tok,st){
+  var p=pNote(tok); if(!p) return tok;
+  var rest=tok.slice(p.len);
+  var bm=rest.match(/^(.*)(\/[A-Za-z][A-Za-z0-9#b]*)$/);
+  var q=rest,bs=''; if(bm){q=bm[1];bs=bm[2];}
+  var ni=((p.idx+st)%12+12)%12;
+  var r=nOut(ni)+q;
+  if(bs){var pb=pNote(bs.slice(1)); r+='/'+(pb?nOut(((pb.idx+st)%12+12)%12):bs.slice(1));}
+  return r;
+}
+function isChTok(w){
+  var c=w.replace(/[.,;:!?()\[\]]+$/,'').replace(/^[.,;:!?()\[\]]+/,'');
+  if(!c) return false;
+  var p=pNote(c); if(!p) return false;
+  return /^(m(?:aj|in)?|M(?:AJ)?|sus|aug|dim|add|dom|mmaj)?[0-9]*(\/[A-Za-z][A-Za-z0-9#b]*)?$/i.test(c.slice(p.len));
+}
+function isChLine(line){
+  var ws=line.trim().split(/\s+/).filter(function(w){return w;});
+  if(!ws.length) return false;
+  var n=ws.filter(isChTok).length;
+  return n/ws.length>=0.55;
+}
+function parseRaw(raw){
+  var lines=(raw||'').split('\n'), blocks=[], i=0;
+  while(i<lines.length){
+    var line=lines[i];
+    if(!line.trim()){blocks.push({type:'spacer'});i++;continue;}
+    if(/^\[[^\]]+\]$/.test(line.trim())){blocks.push({type:'label',text:line.trim().slice(1,-1)});i++;continue;}
+    if(isChLine(line)&&i+1<lines.length&&lines[i+1].trim()&&!isChLine(lines[i+1])&&!/^\[[^\]]+\]$/.test(lines[i+1].trim())){
+      blocks.push({type:'pair',chLine:line,txLine:lines[i+1]});i+=2;continue;
+    }
+    if(isChLine(line)){blocks.push({type:'pair',chLine:line,txLine:''});i++;continue;}
+    blocks.push({type:'text',text:line});i++;
+  }
+  return blocks;
+}
+function extractChords(chLine){
+  var re=/(\S+)/g, m, out=[];
+  while((m=re.exec(chLine))!==null){ if(isChTok(m[1])) out.push({col:m.index,raw:m[1]}); }
+  return out;
+}
+function renderSB(song,st,CH2){
+  var blocks=parseRaw(song.ch||''), offsets=song.offsets||{};
+  var html='<div class="songbook">', pi=0;
+  for(var bi=0;bi<blocks.length;bi++){
+    var b=blocks[bi];
+    if(b.type==='spacer'){html+='<div style="height:.6rem"></div>';continue;}
+    if(b.type==='label'){html+='<span class="sb-lbl">'+esc(b.text)+'</span>';continue;}
+    if(b.type==='text'){html+='<div class="sb-txtonly">'+esc(b.text)+'</div>';continue;}
+    if(b.type==='pair'){
+      var pIdx=pi++, tokens=extractChords(b.chLine), cH='';
+      for(var ti=0;ti<tokens.length;ti++){
+        var t=tokens[ti], oKey='p'+pIdx+':'+ti;
+        var offset=offsets[oKey]||0;
+        var col=Math.max(0,t.col+offset);
+        var leftPx=(col*(CH2||CH)).toFixed(2);
+        var tc=trTok(t.raw,st);
+        cH+='<span class="sb-ch" style="left:'+leftPx+'px">'+esc(tc)+'</span>';
+      }
+      html+='<div class="sb-pair"><div class="sb-chrow">'+cH+'</div><div class="sb-txt">'+esc(b.txLine||'')+'</div></div>';
+    }
+  }
+  return html+'</div>';
+}
+
+function formatDate(d){
+  if(!d) return '';
+  var p=d.split('-');
+  if(p.length===3) return p[2]+'/'+p[1]+'/'+p[0];
+  return d;
+}
+/* ── STATE ── */
+var curPage='home', prevPage='home';
+var curSongId=null, curPersonId=null;
+var songSemi=0, songTab='chords';
+var alphaF={};
+
+/* ── NAVIGATION ── */
+function go(pageId) {
+  prevPage = curPage;
+  var pages = document.querySelectorAll('.page');
+  for(var i=0;i<pages.length;i++) pages[i].classList.remove('active');
+  var target = el('pg-'+pageId);
+  if(!target){ console.error('Page not found: pg-'+pageId); return; }
+  target.classList.add('active');
+  curPage = pageId;
+  window.scrollTo(0,0);
+
+  if(pageId==='home') renderHome();
+  else if(pageId==='elenchi') renderElenchi();
+  else if(pageId==='elenco-canzoni') renderElencoCanzoni();
+  else if(pageId==='elenco-cantanti') renderElencoPersone('cantanti','ar');
+  else if(pageId==='elenco-autori-musica') renderElencoPersone('autori-musica','am');
+  else if(pageId==='elenco-autori-testo') renderElencoPersone('autori-testo','at');
+  else if(pageId==='elenco-musicisti') renderElencoPersone('musicisti','mu');
+  else if(pageId==='elenco-generi') renderElencoGeneri();
+  else if(pageId==='elenco-balli') renderElencoBalli();
+  else if(pageId==='argomento') renderArgomento();
+  else if(pageId==='info') {}
+}
+function goSong(id){ prevPage=curPage; curSongId=id; songSemi=0; songTab='chords'; notation='it'; var pages=document.querySelectorAll('.page'); for(var i=0;i<pages.length;i++) pages[i].classList.remove('active'); el('pg-canzone').classList.add('active'); curPage='canzone'; window.scrollTo(0,0); renderCanzone(); }
+function goPersona(id){ prevPage=curPage; curPersonId=id; var pages=document.querySelectorAll('.page'); for(var i=0;i<pages.length;i++) pages[i].classList.remove('active'); el('pg-persona').classList.add('active'); curPage='persona'; window.scrollTo(0,0); renderPersona(); }
+function goBack(){ go(prevPage); }
+
+/* ── HOME ── */
+function renderHome(){
+  el('home-stats').innerHTML='<div style="text-align:center"><div class="stat-n">'+songs.length+'</div><div class="stat-l">Canzoni</div></div><div style="text-align:center"><div class="stat-n">'+persons.length+'</div><div class="stat-l">Artisti</div></div><div style="text-align:center"><div class="stat-n">'+args.length+'</div><div class="stat-l">Approfondimenti</div></div>';
+  // Immagine home da localStorage
+  var homeImg='';
+  try{ homeImg=localStorage.getItem('mousg_home_img')||''; }catch(e){}
+  var imgWrap=el('home-img-wrap');
+  if(imgWrap){
+    if(homeImg){ el('home-img').src=homeImg; imgWrap.style.display='block'; }
+    else { imgWrap.style.display='none'; }
+  }
+}
+
+
+/* ── ELENCHI ── */
+function renderElenchi(){
+  function cnt(role){ return persons.filter(function(p){return(p.roles||[]).indexOf(role)>=0;}).length; }
+  var cntMu=persons.filter(function(p){var r=p.roles||[];return r.indexOf('mu')>=0;}).length;
+  var generi=buildGeneriMap();
+  var nGeneri=Object.keys(generi).length;
+  var dromoiMap=buildDromoiMap();
+  var nDromoi=Object.keys(dromoiMap).length;
+  var dromoi=buildDromoiMap();
+  var cards=[
+    {page:'elenco-canzoni',      ico:'&#9834;', ttl:'Canzoni',            cnt:songs.length, sub:'Testi, accordi e trascrizioni'},
+    {page:'elenco-cantanti',     ico:'&#127908;',ttl:'Cantanti',          cnt:cnt('ar'),    sub:'Biografie degli esecutori'},
+    {page:'elenco-autori-musica',ico:'&#9835;',  ttl:'Autori musica',     cnt:cnt('am'),    sub:'I compositori'},
+    {page:'elenco-autori-testo', ico:'&#9997;',  ttl:'Autori testo',      cnt:cnt('at'),    sub:'I poeti e parolieri'},
+    {page:'elenco-musicisti',    ico:'&#127928;',ttl:'Musicisti',         cnt:cntMu,        sub:'Strumentisti &mdash; solo schede biografiche'},
+    {page:'elenco-generi',       ico:'&#127932;',ttl:'Generi',            cnt:nGeneri,      sub:'Per dromos e stile'},
+    {page:'argomento',           ico:'&#128216;',ttl:'Approfondimenti',cnt:args.length,sub:'Approfondimenti e curiosit&agrave;'}
+  ];
+  var h='<div class="el-grid">';
+  cards.forEach(function(c){
+    h+='<div class="el-card" data-page="'+c.page+'">';
+    h+='<div class="el-card-hdr">';
+    h+='<span class="el-card-ico">'+c.ico+'</span>';
+    h+='<span class="el-card-ttl">'+c.ttl+'</span>';
+    h+='<span class="el-card-cnt">'+c.cnt+'</span>';
+    h+='</div>';
+    h+='<div style="padding:.5rem .85rem .7rem;font-size:12px;color:var(--t3)">'+c.sub+'</div>';
+    h+='</div>';
+  });
+  h+='</div>';
+  el('el-grid').innerHTML=h;
+  var ecards=document.querySelectorAll('.el-card[data-page]');
+  for(var i=0;i<ecards.length;i++){
+    ecards[i].addEventListener('click',function(){ go(this.getAttribute('data-page')); });
+  }
+}
+
+/* ── ELENCO CANZONI ── */
+var srchGenere=null;
+var srchDromos=null;
+var srchAlpha=null;
+function renderElencoCanzoni(){
+  var q=(el('srch-c')?el('srch-c').value.toLowerCase():'');
+
+  // Lettere alfabetiche
+  var grLetters=[], itLetters=[];
+  songs.forEach(function(s){
+    var lg=(s.tgr||'?')[0].toUpperCase();
+    if(grLetters.indexOf(lg)<0) grLetters.push(lg);
+    var li=(s.tit||'')[0];
+    if(li){ li=li.toUpperCase(); if(itLetters.indexOf(li)<0) itLetters.push(li); }
+  });
+  grLetters.sort(function(a,b){return a.localeCompare(b,'el');});
+  itLetters.sort(function(a,b){return a.localeCompare(b,'it');});
+
+  // Generi e dromoi unici
+  var generiSet=[], dromoiSet=[];
+  songs.forEach(function(s){
+    if(s.gn&&generiSet.indexOf(s.gn.trim())<0) generiSet.push(s.gn.trim());
+    if(s.dr&&dromoiSet.indexOf(s.dr.trim())<0) dromoiSet.push(s.dr.trim());
+  });
+  generiSet.sort(function(a,b){return a.localeCompare(b,'it');});
+  dromoiSet.sort(function(a,b){return a.localeCompare(b,'el');});
+
+  // Filtro
+  var list=songs.filter(function(s){
+    var alias=(s.alias||'').toLowerCase();
+    var matchQ=!q
+      ||(s.tgr||'').toLowerCase().indexOf(q)>=0
+      ||(s.tit||'').toLowerCase().indexOf(q)>=0
+      ||(s.at||'').toLowerCase().indexOf(q)>=0
+      ||(s.am||'').toLowerCase().indexOf(q)>=0
+      ||(s.ar||'').toLowerCase().indexOf(q)>=0
+      ||(s.gn||'').toLowerCase().indexOf(q)>=0
+      ||(s.dr||'').toLowerCase().indexOf(q)>=0
+      ||(s.yr||'').toLowerCase().indexOf(q)>=0
+      ||alias.indexOf(q)>=0;
+    var matchG=!srchGenere||(s.gn||'')===srchGenere;
+    var matchD=!srchDromos||(s.dr||'')===srchDromos;
+    var matchA=!srchAlpha||(
+      (s.tgr||'')[0].toUpperCase()===srchAlpha||
+      (s.tit||'')[0].toUpperCase()===srchAlpha
+    );
+    return matchQ&&matchG&&matchD&&matchA;
+  });
+
+  // Barre alfabetiche
+  var alphaH='<div style="margin-bottom:.35rem">';
+  alphaH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">ΕΛ</span>';
+  alphaH+=grLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
+  alphaH+='</div><div style="margin-bottom:.5rem">';
+  alphaH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">IT</span>';
+  alphaH+=itLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
+  alphaH+='<button class="alpha-btn'+(srchAlpha===null?' on':'')+'" data-l="" style="margin-left:6px">Tutti</button>';
+  alphaH+='</div>';
+
+  // Filtro generi
+  var gH='';
+  if(generiSet.length){
+    gH='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.4rem"><span style="font-size:10px;font-weight:700;color:var(--t3);align-self:center;margin-right:2px">Genere</span>';
+    gH+='<button class="srch-gbtn'+(srchGenere===null?' on':'')+'" data-g="" data-type="g">Tutti</button>';
+    generiSet.forEach(function(g){ gH+='<button class="srch-gbtn'+(srchGenere===g?' on':'')+'" data-g="'+esc(g)+'" data-type="g">'+esc(g)+'</button>'; });
+    gH+='</div>';
+  }
+
+  // Filtro dromoi
+  var dH='';
+  if(dromoiSet.length){
+    dH='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem"><span style="font-size:10px;font-weight:700;color:var(--t3);align-self:center;margin-right:2px">Dromos</span>';
+    dH+='<button class="srch-gbtn'+(srchDromos===null?' on':'')+'" data-g="" data-type="d">Tutti</button>';
+    dromoiSet.forEach(function(d){ dH+='<button class="srch-gbtn'+(srchDromos===d?' on':'')+'" data-g="'+esc(d)+'" data-type="d">'+esc(d)+'</button>'; });
+    dH+='</div>';
+  }
+
+  // Lista principale + voci alias ordinate insieme
+  var allItems=[];
+  for(var i=0;i<list.length;i++){
+    allItems.push({type:'song',s:list[i],sortKey:list[i].tgr||''});
+    if(list[i].alias){
+      list[i].alias.split(',').map(function(a){return a.trim();}).filter(Boolean).forEach(function(al){
+        allItems.push({type:'alias',s:list[i],aliasName:al,sortKey:al});
+      });
+    }
+  }
+  allItems.sort(function(a,b){return a.sortKey.localeCompare(b.sortKey,'el');});
+
+  var h=''; var num=0;
+  for(var i=0;i<allItems.length;i++){
+    var item=allItems[i]; var s=item.s;
+    if(item.type==='alias'){
+      h+='<div class="list-item" style="background:var(--s2)">';
+      h+='<span class="list-num" style="color:var(--t3)">&#8627;</span>';
+      h+='<div class="list-main c-song-row" data-sid="'+s.id+'">';
+      h+='<div class="list-title" style="font-style:italic">'+esc(item.aliasName)+'</div>';
+      h+='<div class="list-sub">&#8594; '+esc(s.tgr)+'</div>';
+      h+='</div><span class="c-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer">&rarr;</span></div>';
+    } else {
+      num++;
+      var links='';
+      if(s.ll) links+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank" onclick="event.stopPropagation()">&#9654;</a>';
+      if(s.li) links+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">&#9432;</a>';
+      var subMeta=[s.at?'&#9997; '+s.at:'',s.am&&s.am!==s.at?'&#9835; '+s.am:'',s.ar?'&#127908; '+s.ar:''].filter(Boolean).join('  &middot;  ');
+      var gndr=[s.tit,s.yr,s.gn,s.dr].filter(Boolean).join(' · ');
+      h+='<div class="list-item"><span class="list-num">'+num+'</span>';
+      h+='<div class="list-main c-song-row" data-sid="'+s.id+'">';
+      h+='<div class="list-title">'+esc(s.tgr)+'</div>';
+      h+='<div class="list-sub">'+esc(gndr)+'</div>';
+      if(subMeta) h+='<div class="list-sub" style="margin-top:1px">'+subMeta+'</div>';
+      h+='</div>';
+      h+='<div class="list-actions">'+links+'<span class="c-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer">&rarr;</span></div>';
+      h+='</div>';
+    }
+  }
+
+
+  el('list-canzoni').innerHTML=alphaH+gH+dH+(h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna canzone trovata</div>');
+
+  // Listener barra alfabetica
+  document.querySelectorAll('.c-alpha-btn').forEach(function(btn){
+    btn.addEventListener('click',function(){
+      srchAlpha=this.getAttribute('data-l')||null;
+      renderElencoCanzoni();
+    });
+  });
+  // Listener filtri genere e dromos
+  document.querySelectorAll('.srch-gbtn').forEach(function(btn){
+    btn.addEventListener('click',function(){
+      var type=this.getAttribute('data-type');
+      var val=this.getAttribute('data-g')||null;
+      if(type==='g') srchGenere=val;
+      else srchDromos=val;
+      renderElencoCanzoni();
+    });
+  });
+  // Listener righe
+  document.querySelectorAll('.c-song-row').forEach(function(row){
+    row.addEventListener('click',function(e){
+      e.stopPropagation();
+      goSong(this.getAttribute('data-sid'));
+    });
+  });
+}
+
+/* ── ELENCO PERSONE ── */
+function renderElencoPersone(slug,role,selId){
+  var list;
+  if(role==='mu'){
+    list=persons.filter(function(p){return(p.roles||[]).indexOf('mu')>=0;});
+  } else {
+    var fromPersons=persons.filter(function(p){return(p.roles||[]).indexOf(role)>=0;});
+    var fromSongs=[];
+    var field=role==='ar'?'ar':role==='am'?'am':'at';
+    var seen={};
+    fromPersons.forEach(function(p){ seen[p.name]=true; if(p.nameit) seen[p.nameit]=true; });
+    songs.forEach(function(s){
+      var val=s[field]||'';
+      var names=field==='ar'?val.split(',').map(function(n){return n.trim();}).filter(Boolean):[val.trim()].filter(Boolean);
+      names.forEach(function(name){
+        if(name&&!seen[name]){
+          seen[name]=true;
+          var existing=persons.filter(function(p){return p.name===name||p.nameit===name;})[0];
+          if(existing){ fromSongs.push(existing); }
+          else { fromSongs.push({id:null,name:name,nameit:'',roles:[role],_virtual:true}); }
+        }
+      });
+    });
+    list=fromPersons.concat(fromSongs);
+  }
+  // Ordina per cognome (ultima parola del nome greco)
+  list=list.slice().sort(function(a,b){
+    return lastName(a.name).localeCompare(lastName(b.name),'el');
+  });
+
+  var af=alphaF[slug]||null;
+
+  // Barra alfabetica sulle iniziali dei cognomi
+  var letters=[];
+  list.forEach(function(p){
+    var l=lastName(p.name||'?')[0].toUpperCase();
+    if(letters.indexOf(l)<0) letters.push(l);
+  });
+  letters.sort(function(a,b){return a.localeCompare(b,'el');});
+
+  // Dropdown
+  var ddH='<select id="dd-'+slug+'" style="width:100%;padding:7px 10px;border:1px solid var(--b2);border-radius:var(--rad);font-size:13px;font-family:Arial,sans-serif;color:var(--txt);background:var(--sur);margin-bottom:.6rem"><option value="">— Scegli un artista —</option>';
+  list.forEach(function(p){
+    var inv=invertName(p.name);
+    var it=p.nameit?(' — '+p.nameit):'';
+    var sel=(selId&&(p.id===selId||(p._virtual&&p.name===selId)))?'selected':'';
+    var val=p.id||('v:'+p.name);
+    ddH+='<option value="'+esc(val)+'" '+sel+'>'+esc(inv)+esc(it)+'</option>';
+  });
+  ddH+='</select>';
+
+  // Barra lettere
+  var barH='<div class="alpha-bar" style="margin-bottom:.5rem">';
+  barH+=letters.map(function(l){
+    return '<button class="alpha-btn'+(af===l?' on':'')+'" data-letter="'+l+'" data-slug="'+slug+'" data-role="'+role+'">'+l+'</button>';
+  }).join('');
+  barH+='<button class="alpha-btn'+(af===null?' on':'')+'" data-letter="" data-slug="'+slug+'" data-role="'+role+'" style="margin-left:4px">Tutti</button>';
+  barH+='</div>';
+
+  // Lista filtrata
+  var displayed=af?list.filter(function(p){return lastName(p.name||'?')[0].toUpperCase()===af;}):list;
+  var h='';
+  for(var i=0;i<displayed.length;i++){
+    var p=displayed[i];
+    var inv=invertName(p.name);
+    var fn=p.id?'goPersona(\''+p.id+'\')':'goPersonaByName(\''+p.name.replace(/\'/g,"\\'")+'\')'
+    h+='<div class="list-item"><div class="list-main" onclick="'+fn+'"><div class="list-title">'+esc(inv)+(p._virtual?'<span style="font-size:9px;color:var(--t3);margin-left:5px">(solo canzoni)</span>':'')+'</div>'+(p.nameit?'<div class="list-sub">'+esc(p.nameit)+'</div>':'')+'</div><span style="font-size:11px;color:var(--t3);cursor:pointer" onclick="'+fn+'">→</span></div>';
+  }
+
+  var container=el('list-'+slug);
+  if(container) container.innerHTML=ddH+barH+h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna persona in questa categoria</div>';
+
+  // Listener dropdown
+  var dd=el('dd-'+slug);
+  if(dd) dd.addEventListener('change',function(){
+    var v=this.value;
+    if(!v) return;
+    if(v.indexOf('v:')=== 0) goPersonaByName(v.slice(2));
+    else goPersona(v);
+  });
+
+  // Listener barra alfabetica
+  var btns=document.querySelectorAll('[data-slug="'+slug+'"]');
+  for(var bi=0;bi<btns.length;bi++){
+    btns[bi].addEventListener('click',function(){
+      var l=this.getAttribute('data-letter');
+      var s=this.getAttribute('data-slug');
+      var r=this.getAttribute('data-role');
+      alphaF[s]=l||null;
+      renderElencoPersone(s,r);
+    });
+  }
+}
+
+/* ── SCHEDA CANZONE ── */
+function renderCanzone(){
+  var s=songs.filter(function(x){return x.id===curSongId;})[0];
+  if(!s) return;
+  var prevLbl={home:'Home',elenchi:'Elenchi','elenco-canzoni':'Canzoni','elenco-cantanti':'Cantanti','elenco-autori-musica':'Autori musica','elenco-autori-testo':'Autori testo','elenco-musicisti':'Musicisti',persona:'Persona'}[prevPage]||'Indietro';
+  el('tb-canzone').innerHTML='<span class="tb-brand" onclick="go(\'home\')">Μουσική</span><span class="bc-sep">›</span><span class="bc-lnk" onclick="go(\'elenchi\')">Elenchi</span><span class="bc-sep">›</span><span class="bc-lnk" onclick="go(\'elenco-canzoni\')">Canzoni</span><span class="bc-sep">›</span><span class="bc-cur">'+esc(s.tgr.slice(0,28))+'</span><button class="tb-back" onclick="goBack()">← '+prevLbl+'</button>';
+
+  var sg=songSemi>=0?'+':'';
+  var semVal=songSemi===0?'originale':sg+songSemi+' st.';
+  var metaH='';
+  if(s.at) metaH+='<span>✍ <span class="plnk" onclick="goPersonaByName(\''+esc(s.at)+'\')">'+esc(s.at)+'</span></span>';
+  if(s.am&&s.am!==s.at) metaH+='<span>♪ <span class="plnk" onclick="goPersonaByName(\''+esc(s.am)+'\')">'+esc(s.am)+'</span></span>';
+  if(s.ar){ s.ar.split(',').forEach(function(a){ a=a.trim(); metaH+='<span>🎤 <span class="plnk" onclick="goPersonaByName(\''+esc(a)+'\')">'+esc(a)+'</span></span>'; }); }
+  if(s.yr) metaH+='<span>'+esc(s.yr)+'</span>';
+  if(s.gn) metaH+='<span>'+esc(s.gn)+'</span>';
+  if(s.dr) metaH+='<span>'+esc(s.dr)+'</span>';
+  if(s.bal) metaH+='<span>&#128378; '+esc(s.bal)+'</span>';
+
+  var tabs=[['chords','Testo + Accordi'],['trans','Trascrizione'],['it','Traduzione'],['notes','Note'],['exec','Versioni']];
+  var tabsH=tabs.map(function(t){ return s[t[0]==='chords'?'ch':t[0]==='trans'?'tr':t[0]==='it'?'ti':t[0]==='notes'?'no':'exec']||(t[0]==='exec'&&(s.executions||[]).length)?'<button class="itab'+(songTab===t[0]?' on':'')+'" onclick="setTab(\''+t[0]+'\')">'+t[1]+'</button>':''; }).join('');
+  // costruisci tabs solo per contenuti esistenti
+  var tabsH2='';
+  if(s.ch) tabsH2+='<button class="itab'+(songTab==='chords'?' on':'')+'" onclick="setTab(\'chords\')">Testo + Accordi</button>';
+  if(s.tr) tabsH2+='<button class="itab'+(songTab==='trans'?' on':'')+'" onclick="setTab(\'trans\')">Trascrizione</button>';
+  if(s.ti) tabsH2+='<button class="itab'+(songTab==='it'?' on':'')+'" onclick="setTab(\'it\')">Traduzione</button>';
+  if(s.no) tabsH2+='<button class="itab'+(songTab==='notes'?' on':'')+'" onclick="setTab(\'notes\')">Note</button>';
+  if((s.executions||[]).length) tabsH2+='<button class="itab'+(songTab==='exec'?' on':'')+'" onclick="setTab(\'exec\')">Versioni</button>';
+
+  var linksH='';
+  if(s.ll) linksH+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank">▶ Ascolta</a>';
+  if(s.li) linksH+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank">ℹ Info</a>';
+  linksH+='<button class="lbtn" style="margin-left:auto;color:var(--t2)" onclick="doPrint()">🖨 Stampa</button>';
+
+  el('wrap-canzone').innerHTML='<div class="song-card"><div class="s-hdr"><div class="s-title">'+esc(s.tgr)+'</div>'+(s.tit?'<div class="s-tit-it">'+esc(s.tit)+'</div>':'')+'<div class="s-meta">'+metaH+'</div><div class="s-links">'+linksH+'</div></div><div class="itabs">'+tabsH2+'</div><div class="s-body" id="song-content"></div></div>';
+  renderTab();
+}
+function setTab(tab){ songTab=tab; renderCanzone(); }
+function renderTab(){
+  var s=songs.filter(function(x){return x.id===curSongId;})[0];
+  if(!s) return;
+  var e=el('song-content'); if(!e) return;
+  var sg=songSemi>=0?'+':'';
+  var semVal=songSemi===0?'originale':sg+songSemi+' st.';
+  if(songTab==='chords'){
+    e.innerHTML='<div class="semi-ctrl"><label>🎵 Tonalità:</label><button class="sbtn" onclick="chSemi(-6)" style="font-size:10px;width:28px">-6</button><button class="sbtn" onclick="chSemi(-1)">−</button><span class="semi-val">'+semVal+'</span><button class="sbtn" onclick="chSemi(+1)">+</button><button class="sbtn" onclick="chSemi(+6)" style="font-size:10px;width:28px">+6</button><button onclick="chSemi(0,true)" style="height:24px;padding:0 8px;font-size:11px;border:1px solid var(--b2);border-radius:var(--rad);background:var(--sur);cursor:pointer;margin-left:2px">Reset</button><div style="width:1px;background:var(--b2);margin:0 2px;align-self:stretch"></div><span style="font-size:11px;color:var(--t2)">Notaz.:</span><div class="nseg"><button class="'+(notation==='it'?'on':'')+'" onclick="notation=\'it\';renderTab()">Do Re Mi</button><button class="'+(notation==='en'?'on':'')+'" onclick="notation=\'en\';renderTab()">C D E</button><button class="'+(notation==='flat'?'on':'')+'" onclick="notation=\'flat\';renderTab()">b</button></div></div>'+renderSB(s,songSemi);
+  } else if(songTab==='trans'){
+    e.innerHTML=s.tr?'<div class="text-blk">'+esc(s.tr)+'</div>':'<p style="color:var(--t3)">Nessuna trascrizione.</p>';
+  } else if(songTab==='it'){
+    e.innerHTML=s.ti?'<div class="text-blk">'+esc(s.ti)+'</div>':'<p style="color:var(--t3)">Nessuna traduzione.</p>';
+  } else if(songTab==='notes'){
+    e.innerHTML=s.no?'<div class="notes-blk">'+esc(s.no)+'</div>':'<p style="color:var(--t3)">Nessuna nota.</p>';
+  } else if(songTab==='exec'){
+    var ex=s.executions||[];
+    e.innerHTML=ex.length?ex.map(function(x){
+      var lnk=x.link?'<a class="lbtn" href="'+esc(x.link)+'" target="_blank" style="margin-left:auto">&#9654; Ascolta</a>':'';
+      return '<div style="padding:.4rem .6rem;background:var(--s2);border-radius:var(--rad);border:1px solid var(--bor);font-size:12px;margin-bottom:4px;display:flex;align-items:center;gap:8px"><div style="flex:1"><strong>'+esc(x.who)+'</strong>'+(x.year?' · '+x.year:'')+(x.note?' — '+esc(x.note):'')+'</div>'+lnk+'</div>';
+    }).join(''):'<p style="color:var(--t3)">Nessuna versione.</p>';
+  }
+}
+function chSemi(d,reset){
+  if(reset) songSemi=0;
+  else songSemi=Math.max(-11,Math.min(11,songSemi+d));
+  renderTab();
+}
+function goPersonaByName(name){
+  var p=persons.filter(function(x){return x.name===name||x.nameit===name;})[0];
+  if(p){
+    goPersona(p.id);
+  } else {
+    // Persona non in rubrica — mostra scheda virtuale con le canzoni
+    prevPage=curPage;
+    var pages=document.querySelectorAll('.page');
+    for(var i=0;i<pages.length;i++) pages[i].classList.remove('active');
+    el('pg-persona').classList.add('active');
+    curPage='persona';
+    window.scrollTo(0,0);
+    renderPersonaVirtuale(name);
+  }
+}
+function renderPersonaVirtuale(name){
+  var prevLbl={home:'Home',elenchi:'Elenchi','elenco-canzoni':'Canzoni','elenco-cantanti':'Cantanti','elenco-autori-musica':'Autori musica','elenco-autori-testo':'Autori testo',canzone:'Canzone'}[prevPage]||'Indietro';
+  el('tb-persona').innerHTML='<span class="tb-brand" onclick="go(\'home\')">Μουσική</span><span class="bc-sep">›</span><span class="bc-cur">'+esc(name)+'</span><button class="tb-back" onclick="goBack()">← '+prevLbl+'</button>';
+  // Trova canzoni collegate per nome
+  var linked=[];
+  songs.forEach(function(s){
+    var roles=[];
+    if(s.at===name) roles.push('at');
+    if(s.am===name) roles.push('am');
+    if(s.ar){ var ars=s.ar.split(',').map(function(a){return a.trim();}); if(ars.indexOf(name)>=0) roles.push('ar'); }
+    if(roles.length) linked.push({s:s,roles:roles});
+  });
+  var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore'};
+  var RC={at:'rp-at',am:'rp-am',ar:'rp-ar'};
+  var linkedH='';
+  if(linked.length){
+    linkedH='<div class="divider"></div><div class="sec-hdr">Canzoni nel database ('+linked.length+')</div><div class="linked">';
+    for(var i=0;i<linked.length;i++){
+      var s=linked[i].s, roles=linked[i].roles;
+      var songLinks='';
+      if(s.ll) songLinks+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank" onclick="event.stopPropagation()">▶</a>';
+      if(s.li) songLinks+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">ℹ</a>';
+      var pills=roles.map(function(r){return '<span class="rp '+(RC[r]||'')+'" style="font-size:9px">'+RL[r]+'</span>';}).join('');
+      linkedH+='<div class="ln-row" onclick="goSong(\''+s.id+'\')"><div style="flex:1"><div class="ln-ttl">'+esc(s.tgr)+'</div><div class="ln-sub">'+esc([s.tit,s.yr,s.gn].filter(Boolean).join(' · '))+'</div></div><div style="display:flex;gap:4px;align-items:center">'+songLinks+pills+'</div></div>';
+    }
+    linkedH+='</div>';
+  }
+  el('wrap-persona').innerHTML='<div class="p-card"><div class="p-hdr"><div class="p-name">'+esc(name)+'</div><div style="font-size:11px;color:var(--t3);margin-top:2px">Scheda non ancora compilata in rubrica</div></div><div class="p-body">'+linkedH+'</div></div>';
+}
+
+/* ── STAMPA ── */
+function doPrint(){
+  var s=songs.filter(function(x){return x.id===curSongId;})[0];
+  if(!s) return;
+  var sg=songSemi>=0?'+':'';
+  var sn=songSemi!==0?' ('+sg+songSemi+' semitoni)':'';
+  var metaRow=[s.at?'✍ '+s.at:'',s.am&&s.am!==s.at?'♪ '+s.am:'',s.ar?'🎤 '+s.ar:'',s.yr||'',s.gn||''].filter(Boolean).join('  ·  ');
+  var meta='<div style="border-bottom:1pt solid #ccc;padding-bottom:6pt;margin-bottom:10pt"><div style="font-size:16pt;font-weight:700">'+esc(s.tgr)+'</div>'+(s.tit?'<div style="font-size:10pt;color:#444;font-style:italic">'+esc(s.tit)+'</div>':'')+'<div style="font-size:9pt;color:#555;margin-top:3pt">'+esc(metaRow)+'</div></div>';
+  var contenuto='';
+  if(songTab==='chords'){
+    /* calcola CH per 12pt */
+    var tmpC=document.createElement('canvas');
+    var tmpCtx=tmpC.getContext('2d');
+    tmpCtx.font='12pt "Courier New",monospace';
+    var CH12=tmpCtx.measureText('M').width;
+    contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Testo + Accordi'+sn+'</div>'+renderSB(s,songSemi,CH12);
+  } else if(songTab==='trans'){
+    contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Trascrizione fonetica</div><div style="font-size:11pt;line-height:1.85;white-space:pre-wrap">'+esc(s.tr||'')+'</div>';
+  } else if(songTab==='it'){
+    contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Traduzione italiana</div><div style="font-size:11pt;line-height:1.85;white-space:pre-wrap">'+esc(s.ti||'')+'</div>';
+  } else if(songTab==='notes'){
+    contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Note</div><div style="font-size:10.5pt;line-height:1.7;padding:.5rem .7rem;background:#f9f7f3;border-left:3pt solid #999">'+esc(s.no||'')+'</div>';
+  } else if(songTab==='exec'){
+    var ex=s.executions||[];
+    contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Versioni ed esecuzioni</div>'+ex.map(function(x){return '<div style="margin-bottom:.4rem;font-size:10.5pt"><strong>'+esc(x.who)+'</strong>'+(x.year?' ('+x.year+')':'')+(x.note?' — '+esc(x.note):'')+'</div>';}).join('');
+  }
+  var win=window.open('','_blank','width=800,height=600');
+  if(!win){alert('Consenti i popup per questo file e riprova.');return;}
+  win.document.write('<!DOCTYPE html><html><head><meta charset="UTF-8"><title>'+esc(s.tgr)+'</title><style>body{font-family:Arial,sans-serif;font-size:11pt;line-height:1.7;color:#000;padding:1.5cm 2cm}.songbook{font-family:"Courier New",monospace;font-size:12pt}.sb-lbl{font-size:8pt;font-weight:700;color:#888;text-transform:uppercase;letter-spacing:.08em;display:block;margin:.3rem 0 .1rem}.sb-pair{margin-bottom:2pt;padding-top:18pt;position:relative}.sb-chrow{position:absolute;top:0;left:0;right:0;height:16pt;overflow:visible}.sb-ch{position:absolute;top:0;font-family:"Courier New",monospace;font-size:12pt;font-weight:700;color:#000;white-space:nowrap}.sb-txt{font-family:"Courier New",monospace;font-size:12pt;color:#000;line-height:1;white-space:pre;display:block}.sb-txtonly{font-family:"Courier New",monospace;font-size:12pt;color:#000;white-space:pre;display:block;margin-bottom:1pt}@page{margin:1.5cm 2cm}@media print{body{padding:0}}</style></head><body>'+contenuto+'<script>window.onload=function(){window.print();window.close();}<\/script></body></html>');
+  win.document.close();
+}
+
+/* ── SCHEDA PERSONA ── */
+var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore'};
+var RC={at:'rp-at',am:'rp-am',ar:'rp-ar'};
+function renderPersona(){
+  var p=persons.filter(function(x){return x.id===curPersonId;})[0];
+  if(!p) return;
+  var prevLbl={home:'Home',elenchi:'Elenchi','elenco-cantanti':'Cantanti','elenco-autori-musica':'Autori musica','elenco-autori-testo':'Autori testo','elenco-musicisti':'Musicisti',canzone:'Canzone'}[prevPage]||'Indietro';
+  el('tb-persona').innerHTML='<span class="tb-brand" onclick="go(\'home\')">Μουσική</span><span class="bc-sep">›</span><span class="bc-lnk" onclick="go(\'elenchi\')">Elenchi</span><span class="bc-sep">›</span><span class="bc-cur">'+esc(p.name.slice(0,28))+'</span><button class="tb-back" onclick="goBack()">← '+prevLbl+'</button>';
+
+  var isOnlyMu=(p.roles||[]).length>0&&(p.roles||[]).every(function(r){return r==='mu';});
+  var linked=[];
+  if(!isOnlyMu){
+    songs.forEach(function(s){
+      var roles=[];
+      if(s.at&&(s.at===p.name||s.at===p.nameit)) roles.push('at');
+      if(s.am&&(s.am===p.name||s.am===p.nameit)) roles.push('am');
+      if(s.ar){ var ars=s.ar.split(',').map(function(a){return a.trim();}); if(ars.indexOf(p.name)>=0||ars.indexOf(p.nameit||'')>=0) roles.push('ar'); }
+      if(roles.length) linked.push({s:s,roles:roles.filter(function(r,i,a){return a.indexOf(r)===i;})});
+    });
+  }
+
+  var metaH='';
+  if(p.born) metaH+='<div class="pm-i"><div class="pm-l">Nato/a</div><div class="pm-v">'+esc(p.born)+'</div></div>';
+  if(p.died) metaH+='<div class="pm-i"><div class="pm-l">Morto/a</div><div class="pm-v">'+esc(p.died)+'</div></div>';
+  if(p.nat)  metaH+='<div class="pm-i"><div class="pm-l">Nazionalità</div><div class="pm-v">'+esc(p.nat)+'</div></div>';
+  if(p.link) metaH+='<div class="pm-i"><div class="pm-l">Link</div><div class="pm-v"><a href="'+esc(p.link)+'" target="_blank">Apri pagina</a></div></div>';
+  if(p.listen) metaH+='<div class="pm-i"><div class="pm-l">Ascolto</div><div class="pm-v"><a href="'+esc(p.listen)+'" target="_blank">Ascolta</a></div></div>';
+
+  var linkedH='';
+  if(isOnlyMu){
+    linkedH='<div class="divider"></div><div style="font-size:12px;color:var(--t3);background:var(--s2);border:1px solid var(--bor);border-radius:var(--rad);padding:.4rem .7rem">🎸 Musicista / strumentista — citato nelle note dei brani, non come autore o esecutore vocale.</div>';
+  } else if(linked.length){
+    linkedH='<div class="divider"></div><div class="sec-hdr">Canzoni nel database ('+linked.length+')</div><div class="linked">';
+    for(var i=0;i<linked.length;i++){
+      var s=linked[i].s, roles=linked[i].roles;
+      var songLinks='';
+      if(s.ll) songLinks+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank" onclick="event.stopPropagation()">▶</a>';
+      if(s.li) songLinks+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">ℹ</a>';
+      var pills=roles.map(function(r){return '<span class="rp '+(RC[r]||'')+'" style="font-size:9px">'+RL[r]+'</span>';}).join('');
+      linkedH+='<div class="ln-row" onclick="goSong(\''+s.id+'\')"><div style="flex:1"><div class="ln-ttl">'+esc(s.tgr)+'</div><div class="ln-sub">'+esc([s.tit,s.yr,s.gn].filter(Boolean).join(' · '))+'</div></div><div style="display:flex;gap:4px;align-items:center">'+songLinks+pills+'</div></div>';
+    }
+    linkedH+='</div>';
+  }
+
+  var photoH=p.photo?'<div style="flex-shrink:0"><img src="'+esc(p.photo)+'" alt="" style="width:110px;height:110px;object-fit:cover;border-radius:50%;border:3px solid var(--bor);display:block" onerror="hideImg(this)"></div>':'';
+  el('wrap-persona').innerHTML='<div class="p-card"><div class="p-hdr" style="display:flex;align-items:flex-start;gap:1rem">'+photoH+'<div style="flex:1"><div class="p-name">'+esc(p.name)+'</div>'+(p.nameit?'<div class="p-nameit">'+esc(p.nameit)+'</div>':'')+'<div class="p-roles">'+(p.roles||[]).map(function(r){return '<span class="rp '+(RC[r]||'')+'">'+esc(RL[r]||r)+'</span>';}).join('')+'</div></div></div><div class="p-body"><div class="p-mgrid">'+metaH+'</div>'+(p.bio?'<div class="p-bio">'+esc(p.bio)+'</div>':'')+linkedH+'</div></div>';
+}
+
+/* ── GENERI ── */
+function buildDromoiMap(){
+  var map={};
+  songs.forEach(function(s){
+    if(!s.dr) return;
+    var k=s.dr.trim();
+    if(!map[k]) map[k]=[];
+    var already=map[k].filter(function(x){return x.id===s.id;}).length;
+    if(!already) map[k].push(s);
+  });
+  return map;
+}
+function buildBalliMap(){
+  var map={};
+  songs.forEach(function(s){
+    if(!s.bal) return;
+    var k=s.bal.trim();
+    if(!map[k]) map[k]=[];
+    var already=map[k].filter(function(x){return x.id===s.id;}).length;
+    if(!already) map[k].push(s);
+  });
+  return map;
+}
+function buildGeneriMap(){
+  var map={};
+  songs.forEach(function(s){
+    if(!s.gn) return;
+    // Separa generi multipli (es "Ρεμπέτικο / Dromos Ousak") in voci singole
+    var parts=s.gn.split('/').map(function(g){return g.trim();}).filter(Boolean);
+    // Usa anche il genere completo come voce
+    var keys=parts.length>1?[s.gn].concat(parts):[s.gn];
+    keys.forEach(function(k){
+      if(!map[k]) map[k]=[];
+      // evita duplicati
+      var already=map[k].filter(function(x){return x.id===s.id;}).length;
+      if(!already) map[k].push(s);
+    });
+  });
+  return map;
+}
+var curGenere=null;
+function renderElencoGeneri(genere){
+  var map=buildGeneriMap();
+  var keys=Object.keys(map).sort(function(a,b){return a.localeCompare(b,'it');});
+  // Barra generi — usa data-genere per evitare apici annidati
+  var navH=keys.map(function(k){
+    var isOn=curGenere===k;
+    return '<button data-genere="'+k.replace(/"/g,'&quot;')+'" class="genere-btn" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:4px 10px;border-radius:20px;border:1px solid var(--b2);background:'+(isOn?'var(--acc)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:12px;font-family:Arial,sans-serif">'+esc(k)+'<span style="font-size:10px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+map[k].length+'</span></button>';
+  }).join('');
+  el('list-generi-nav').innerHTML='<div style="margin-bottom:.3rem;font-size:11px;color:var(--t3)">Seleziona un genere:</div><div style="display:flex;flex-wrap:wrap">'+navH+'</div>';
+  // Aggiungi listener ai pulsanti
+  var btns=document.querySelectorAll('.genere-btn');
+  for(var bi=0;bi<btns.length;bi++){
+    btns[bi].addEventListener('click',function(){ renderElencoGeneri(this.getAttribute('data-genere')); });
+  }
+  // Lista canzoni del genere selezionato
+  if(genere!==undefined) curGenere=genere;
+  if(!curGenere&&keys.length) curGenere=keys[0];
+  var list=curGenere?(map[curGenere]||[]):[];
+  var h='<div style="font-size:13px;font-weight:700;color:var(--txt);margin-bottom:.6rem">'+esc(curGenere||'')+' <span style="font-size:11px;color:var(--t3);font-weight:400">('+list.length+' canzoni)</span></div>';
+  for(var i=0;i<list.length;i++){
+    var s=list[i];
+    var links='';
+    if(s.ll) links+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank" onclick="event.stopPropagation()">▶</a>';
+    if(s.li) links+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">ℹ</a>';
+    var smeta=[s.at?'✍ '+s.at:'',s.ar?'🎤 '+s.ar:''].filter(Boolean).join(' · ');
+    h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(s.tgr)+'</div><div class="list-sub">'+esc([s.tit,s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+'</div><div class="list-actions">'+links+'<span class="g-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer">→</span></div></div>';
+  }
+  el('list-generi-canzoni').innerHTML=h||'<div style="padding:1rem;color:var(--t3)">Nessuna canzone in questo genere.</div>';
+  var rows=document.querySelectorAll('.g-song-row');
+  for(var ri=0;ri<rows.length;ri++){
+    rows[ri].addEventListener('click',function(e){ e.stopPropagation(); goSong(this.getAttribute('data-sid')); });
+  }
+}
+
+/* ── BALLI ── */
+var curBallo=null;
+function renderElencoBalli(ballo){
+  var map=buildBalliMap();
+  var keys=Object.keys(map).sort(function(a,b){return a.localeCompare(b,'el');});
+  if(!keys.length){ el('list-balli-nav').innerHTML='<p style="color:var(--t3)">Nessun ballo inserito.</p>'; return; }
+  var navH=keys.map(function(k){
+    var isOn=curBallo===k;
+    return '<button class="genere-btn" data-genere="'+k.replace(/"/g,'&quot;')+'" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:4px 10px;border-radius:20px;border:1px solid var(--b2);background:'+(isOn?'var(--acc)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:12px;font-family:Arial,sans-serif">'+esc(k)+'<span style="font-size:10px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+map[k].length+'</span></button>';
+  }).join('');
+  el('list-balli-nav').innerHTML='<div style="margin-bottom:.3rem;font-size:11px;color:var(--t3)">Seleziona un ballo:</div><div style="display:flex;flex-wrap:wrap">'+navH+'</div>';
+  if(ballo!==undefined) curBallo=ballo;
+  if(!curBallo&&keys.length) curBallo=keys[0];
+  var list=curBallo?(map[curBallo]||[]):[];
+  var h='<div style="font-size:13px;font-weight:700;color:var(--txt);margin-bottom:.6rem">'+esc(curBallo||'')+' <span style="font-size:11px;color:var(--t3);font-weight:400">('+list.length+' canzoni)</span></div>';
+  for(var i=0;i<list.length;i++){
+    var s=list[i];
+    var links='';
+    if(s.ll) links+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank" onclick="event.stopPropagation()">&#9654;</a>';
+    var smeta=[s.at?'&#9997; '+s.at:'',s.ar?'&#127908; '+s.ar:''].filter(Boolean).join(' · ');
+    h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(s.tgr)+'</div><div class="list-sub">'+esc([s.tit,s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+'</div><div class="list-actions">'+links+'<span class="g-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer">→</span></div></div>';
+  }
+  el('list-balli-canzoni').innerHTML=h;
+  var btns=document.querySelectorAll('.genere-btn');
+  for(var bi=0;bi<btns.length;bi++){
+    btns[bi].addEventListener('click',function(){ renderElencoBalli(this.getAttribute('data-genere')); });
+  }
+  var rows=document.querySelectorAll('.g-song-row');
+  for(var ri=0;ri<rows.length;ri++){
+    rows[ri].addEventListener('click',function(e){ e.stopPropagation(); goSong(this.getAttribute('data-sid')); });
+  }
+}
+
+/* ── ARGOMENTO ── */
+var curArgId=null;
+function renderArgomento(){
+  var e=el('wrap-argomento');
+  if(!args.length){e.innerHTML='<p style="color:var(--t3);padding:2rem;text-align:center">Nessun argomento ancora pubblicato.</p>';return;}
+  // Ordina per data (più recente prima)
+  var sortedArgs=args.slice().sort(function(a,b){
+    var da=a.date||''; var db=b.date||'';
+    return db.localeCompare(da);
+  });
+  var h='';
+  for(var i=0;i<sortedArgs.length;i++){
+    var a=sortedArgs[i];
+    var aid=String(a.id||i);
+    var isOpen=(curArgId===aid);
+    h+='<div style="border:1px solid var(--bor);border-radius:var(--rad);margin-bottom:6px;overflow:hidden">';
+    h+='<div class="arg-hdr" data-aid="'+esc(aid)+'" style="display:flex;align-items:center;padding:.55rem .85rem;cursor:pointer;background:'+(isOpen?'var(--abg)':'var(--sur)')+(isOpen?';border-bottom:1px solid var(--bor)':'')+'">';
+    h+='<div style="flex:1">';
+    h+='<div style="font-size:11px;color:var(--t3);margin-bottom:2px">'+esc(formatDate(a.date))+(a.tag?' &nbsp;<span class="tag">'+esc(a.tag)+'</span>':'')+'</div>';
+    h+='<div style="font-size:13px;font-weight:700;color:var(--txt)">'+esc(a.title)+'</div>';
+    h+='</div>';
+    h+='<span style="font-size:14px;color:var(--t3);margin-left:8px;flex-shrink:0">'+(isOpen?'&#9650;':'&#9660;')+'</span>';
+    h+='</div>';
+    if(isOpen){
+      h+='<div style="padding:.75rem .85rem;background:var(--sur)">';
+      h+='<div class="arg-card-body">'+esc(a.body)+'</div>';
+      if(a.link) h+='<div style="margin-top:.65rem"><a class="lbtn" href="'+esc(a.link)+'" target="_blank">&rarr; Leggi di pi&ugrave;</a></div>';
+      h+='</div>';
+    }
+    h+='</div>';
+  }
+  e.innerHTML=h;
+  var hdrs=document.querySelectorAll('#wrap-argomento .arg-hdr');
+  for(var j=0;j<hdrs.length;j++){
+    hdrs[j].addEventListener('click',function(){
+      var aid=this.getAttribute('data-aid');
+      curArgId=(curArgId===aid)?null:aid;
+      renderArgomento();
+    });
+  }
+}
+
+/* ── INIT ── */
+function init(){
+  renderHome();
+}
+
+loadData();
+</script>
+</body>
+</html>
