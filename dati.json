@@ -1,7 +1,135 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-01T06:31:51.414Z",
+  "exportedAt": "2026-08-01T18:04:22.087Z",
   "songs": [
+    {
+      "id": "s_1785606925001",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιάννης Καλατζής",
+          "year": "1968",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=jNO6SsgD0RQ"
+        },
+        {
+          "who": "Quartetto Cetra",
+          "year": "1971",
+          "note": "",
+          "link": "https://archive.org/download/07-prati-verdi-e-fiori-rossi/07%20Prati%20Verdi%20E%20Fiori%20Rossi.mp3"
+        }
+      ],
+      "date": "2026-08-01",
+      "tgr": "Κυρά Γιώργαινα",
+      "tit": "Kirá Ghiórghena",
+      "alias": "",
+      "at": "Πυθαγόρας",
+      "am": "Γιώργος Κατσαρός",
+      "yr": "1968",
+      "ar": "Γιάννης Καλατζής, Λίτσα Διαμάντη",
+      "lb": "",
+      "gn": "",
+      "dr": "maggiore",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "LA                   REm             LA\nΚυρά Γιώργαινα, ο Γιώργος σου πού πάει\nLA                   REm             LA\nγια πού το 'βαλε και πού το ξενυχτάει\nMI                   RE\nΈβαλε το σκούρο του, άναψε το πούρο του\n  MI                  LA\nμπήκε στο αμάξι του και εντάξει του\n \nLA                FA#  SIm\nΟ Γιώργος είναι πονηρός        \n             MI           LA\nκι αυτά που λέει μην τα τρως   \n           FA#           SIm\nκι από τις έντεκα και μπρος    \n        RE            LA\nκυκλοφοράει για γαμπρός    \nLA                FA#  SIm\nΟ Γιώργος είναι πονηρός        \n             MI           LA\nκι αυτά που λέει μην τα τρως   \n           FA#           SIm\nκι από τις έντεκα και μπρος    \n        RE            LA\nκυκλοφοράει για γαμπρός       \n \nLA                   REm             LA\nΚυρά Γιώργαινα, στο λέω υπευθύνως\nLA                   REm             LA\nο Γιωργάκης σου είν' ένας θεατρίνος\nMI                   RE\nΓια δουλειά σου μίλησε, πονηρά σε φίλησε\n MI                  LA\nη αυγούλα μύρισε και δεν γύρισε\n \nLA                FA#  SIm\nΟ Γιώργος είναι πονηρός        \n             MI           LA\nκι αυτά που λέει μην τα τρως   \n           FA#           SIm\nκι από τις έντεκα και μπρος    \n        RE            LA\nκυκλοφοράει για γαμπρός",
+      "tr": "Kirá Ghiórghena\n\nKirá Ghiórghena, o Ghiórghos su pu pái\nghia pu to 'vale ke pu to ksenichatái\nÉvale to skúro tu, ánapse to púro tu\nbéke sto amáksi tu ke entáksi tu\n\nO Ghiórghos íne ponirós\nki aftá pu léi min ta tros\nki apó tis éndeka ke bros\nkikloforáei ghia ghambrós\n\nKirá Ghiórghena, sto léo ipefthínos\no Ghiorghákis su in' énas theatrínos\nGhia duliá su mílise, ponirá se fílise\ni avghúla mírise ke den ghírise",
+      "ti": "Signora Giorgena\n\nSignora Giorgena, il tuo Giorgio dove va, \ndove l'ha messa e dove passa la notte? \nHa messo il suo abito scuro, ha acceso il suo sigaro, \nè salito sulla sua macchina e via tranquillo.\n\nGiorgio è furbo, e quello che dice non berlo — \ndalle undici in poi gira da futuro genero.\n\nSignora Giorgena, te lo dico con certezza: il tuo Giorgino è un attore. Ti ha parlato di lavoro, ti ha baciato con malizia —\n è spuntata l'alba e non è tornato.\n\nNote: Κυρά Γιώργαινα è \"Signora moglie di Giorgio\" — il suffisso -αινα indica la moglie di qualcuno, tipico del greco popolare. Σκούρο è l'abito scuro elegante. Πούρο è il sigaro. Θεατρίνος è l'attore, il commediante — nel senso di uno che recita, fa finta. Η αυγούλα μύρισε — \"è profumata l'albetta\" — modo poetico per dire che è spuntata l'alba. Κυκλοφοράει για γαμπρός — \"gira da genero\" — cioè fa il cascamorto, cerca conquiste.",
+      "no": ""
+    },
+    {
+      "id": "s_1785576920474",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-01",
+      "tgr": "Τα παιδιά της άμυνας",
+      "tit": "Ta pedià tis àminas",
+      "alias": "",
+      "at": "Νίκος Γκάτσος",
+      "am": "Σταύρος Ξαρχάκος",
+      "yr": "1988",
+      "ar": "Νίκος Δημητράτος",
+      "lb": "",
+      "gn": "",
+      "dr": "χιτζάζ",
+      "bal": "Chasaposèrvikos",
+      "ll": "https://www.youtube.com/watch?v=PXWVz97p-k0",
+      "li": "",
+      "ch": "RE               RE#          RE\nΜια μέρα θα το γράψει η ιστορία\n RE                    DOm   RE#  RE\nπου έδιωξε από την Αθήνα τα θηρία\n                 SOLm            DOm\nπου έδιωξε βασιλείς και βουλευτάδες  \n           RE      RE#           RE\nτους ψευταράδες και τους μασκαράδες   \n                 SOLm            DOm\nπου έδιωξε βασιλείς και βουλευτάδες  \n           RE      RE#           RE\nτους ψευταράδες και τους μασκαράδες\n \nSOL                                   RE\nΚαι στην Άμυνα εκεί, όλοι οι αξιωματικοί\n SOLm                        RE\nπολεμάει κι ο Βενιζέλος, που αυτός θα φέρει τέλος   \nRE                      RE#                 RE\nκαι ο κάθε πατριώτης θα μάς φέρουν την ισότης   \n SOLm                        RE\nπολεμάει κι ο Βενιζέλος, που αυτός θα φέρει τέλος   \nRE                      RE#                 RE\nκαι ο κάθε πατριώτης θα μάς φέρουν την ισότης     \n \nRE               RE#          RE\nΗ Παναγιά που στέκει στο πλευρό μας\n RE                    DOm   RE#  RE\nδείχνει το δρόμο στο νέο στρατηγό μας\n SOLm                        RE\nτον ήρωα της εθνικής αμύνης             \n           RE      RE#           RE\nπου πολεμάει και διώχνει τους εχθρούς \n SOLm                        RE\nτον ήρωα της εθνικής αμύνης             \n           RE      RE#           RE\nπου πολεμάει και διώχνει τους εχθρούς   \n \nSOL                                   RE\nΤης Αμύνης τα παιδιά διώξανε το βασιλιά\n SOLm                        RE\nκαι του δώσαν τα πανιά του για να πάει στη δουλειά του   \nRE                      RE#                 RE\nτον περίδρομο να τρώει με το ξένο του το σόι\n SOLm                        RE\nκαι του δώσαν τα πανιά του για να πάει στη δουλειά του   \nRE                      RE#                 RE\nτον περίδρομο να τρώει με το ξένο του το σόι             \n \nRE               RE#          RE\nΈλα να δεις σπαθιά και γιαταγάνια\n RE                    DOm   RE#  RE\nπου βγάζουν φλόγες και φτάνουν στα ουράνια\n SOLm                        RE\nΕκεί ψηλά, ψηλά στα σύνορά μας     \n           RE      RE#           RE\nτρέχει ποτάμι το αίμα του εχθρού \n SOLm                        RE\nΕκεί ψηλά, ψηλά στα σύνορά μας     \n           RE      RE#           RE\nτρέχει ποτάμι το αίμα του εχθρού   \n \nSOL                                   RE\nΤης Αμύνης τα παιδιά διώξανε το βασιλιά\n SOLm                        RE\nΤης Αμύνης το καπέλο έφερε το Βενιζέλο      \nRE                      RE#                 RE\nΤης Αμύνης το σκουφάκι έφερε το Λευτεράκη   \n SOLm                        RE\nΤης Αμύνης το καπέλο έφερε το Βενιζέλο      \nRE                      RE#                 RE\nΤης Αμύνης το σκουφάκι έφερε το Λευτεράκη \n \nΤης Αμύνης τα παιδιά...",
+      "tr": "Mia méra tha to ghráfsi i istoría\npu édhiokse apó tin Athína ta thiría\npu édhiokse vasilís ke vulevtádes\ntus pseftarádes ke tus maskarádes\n\nKe stin Ámina eki, óli i aksioMatikí\npolemái ki o Venizélos, pu aftós tha féri télos\nke o káthe patriótis tha mas férun tin isótis\n\nI Panaghiá pu stéki sto flerό mas\ndhíchni to dhrómo ston néo stratigó mas\nton íroa tis ethnikís amínis\npu polemái ke dhióchni tus echthrús\n\nTis Amínas ta pediá dhioksane to vasilyá\nke tu dhósane ta paniá tu ghia na pái sti dhuliá tu\nton perídhro mo na trói me to ksénō tu to sói\n\nÉla na dhis spathiá ke ghiataghánía\npu vghánun flóghe s ke ftánun sta urán ia\neki psilá, psilá sta sínorá mas\ntréchi potámi to éma tu echthrú\n\nTis Amínas ta pediá dhioksane to vasilyá\nTis Amínas to kapélo éfere ton Venizélo\nTis Amínas to skufáki éfere ton Lefteráki",
+      "ti": "I ragazzi della difesa\n\nUn giorno la storia lo scriverà — che cacciò da Atene le belve, che cacciò re e deputati, i bugiardi e i mascherati.\n\nE nella Difesa lì, tutti gli ufficiali, combatte anche Venizelos che lui porterà la fine — e ogni patriota ci porterà l'uguaglianza.\n\nLa Madonna che sta al nostro fianco mostra la via al nostro nuovo generale, all'eroe della Difesa Nazionale che combatte e scaccia i nemici.\n\nI ragazzi della Difesa hanno cacciato il re e gli hanno dato le vele per andarsene al suo lavoro — a mangiare il pane raffermo con i suoi parenti stranieri.\n\nVieni a vedere spade e scimitarre che mandano fiamme e arrivano ai cieli. Lassù, lassù ai nostri confini scorre come un fiume il sangue del nemico.\n\nI ragazzi della Difesa hanno cacciato il re — il cappello della Difesa ha portato Venizelos — il berrettino della Difesa ha portato la Libertà\n\nτον περίδρομο να τρώει — letteralmente \"a mangiare il corridoio\" — espressione idiomatica per mangiare il pane raffermo, vivere di stenti, che deride il re esiliato. La Madonna che \"mostra la via\" è un elemento tipico della propaganda greca del periodo, che mescolava nazionalismo e religiosità ortodossa..",
+      "no": "Gli autori hanno solo ricostruito e adattato la musica e il testo dalla versione del 1916"
+    },
+    {
+      "id": "s_1785575459654",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-01",
+      "tgr": "Ο Μακεδών",
+      "tit": "O makedòn",
+      "alias": "Της αμύνης τα παιδιά",
+      "at": "sconosciuto",
+      "am": "sconosciuto",
+      "yr": "1916",
+      "ar": "Ελλινική Εσουδιαντίνα",
+      "lb": "",
+      "gn": "canzone tradizionale",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=1OQ1ul5U2QY",
+      "li": "",
+      "ch": "Για τα παιδιά, τη νέα τριανδρία\n\nπου έδιωξε από την Αθήνα τα θηρία,\n\nπου έδιωξε βασιλείς και βουλευτάδες,\n\nτους ψευταράδες και τους μασκαράδες.\n\n\nΚαι στην ΄Αμυνα εκεί πολεμούν όλοι μαζί\n\nπολεμάει κι ο Βενιζέλος που αυτός θα φέρει τέλος\n\nο Δαγκλής κι ο Κουντουριώτης θα μας φέρουν την ισότης.\n\n\nΛοιπόν παιδιά του Ελληνικού στρατού μας\n\nδείχτε το δρόμο στον νέο στρατηγό μας\n\nτον ήρωα της Εθνικής Αμύνης\n\nπου πολεμάει κατά των Γερμανών.\n\n\nΤης Αμύνης τα παιδιά διώξανε τον βασιλιά\n\nκαι του δώσαν τα πανιά του για να πάει στη δουλειά του\n\nγια να πάει στη Γερμανία να τον κάνουνε λοχία.\n\n\n΄Έλα να δεις σπαθιά και γιαταγάνια\n\nκαι κάμποσα Βουλγάρικα κεφάλια\n\nεκεί ψηλά, ψηλά στο Σκρα επάνω\n\nπου πολεμάνε κατά του Γερμανού.\n\n\nΤης Αμύνης τα παιδιά διώξανε το βασιλιά\n\nτης Αμύνης το καπέλο έφερε τον Βενιζέλο\n\nτης Αμύνης το σκουφάκι έφερε το Λευτεράκι.",
+      "tr": "Ghia ta pediá, tin néa triandhría pu édhiokse apó tin Athína ta thiría, pu édhiokse vasilís ke vulevtádes, tus pseftarádes ke tus maskarádes.\n\nKe stin Ámina eki polemún óli mazí, polemái ki o Venizélos pu aftós tha féri télos — o Dagklís ki o Kounduriotis tha mas férun tin isótis.\n\nLipón pediá tu Elinikú stratú mas dínkste to drómo ston néo stratigó mas, ton iroa tis Ethnikís Amínas pu polemái katá ton Ghermanón.\n\nTis Amínas ta pediá dhioksane ton vasilyá ke tu dhósane ta paniá tu ghia na pái sti dhuliá tu, ghia na pái sti Ghermanía na ton kánune lochía.\n\nÉla na dhis spathiá ke ghiataghánια ke kámbbosa Vulgárika kefália eki psilá, psilá sto Skra epáno pu polemáne katá tu Ghermanú.\n\nTis Amínas ta pediá dhioksane to vasilyá — tis Amínas to kapélo éfere ton Venizélo — tis Amínas to skufáki éfere to Lefteráki.",
+      "ti": "Per i ragazzi, la nuova triarchia che cacciò da Atene le belve, che cacciò re e deputati, i bugiardi e i mascherati.\n\nE nella Difesa lì combattono tutti insieme, combatte anche Venizelos che lui porterà la fine — Danglis e Koundouriotis ci porteranno l'uguaglianza.\n\nDunque ragazzi dell'esercito greco, mostrate la via al nostro nuovo generale, all'eroe della Difesa Nazionale che combatte contro i Tedeschi.\n\nI ragazzi della Difesa hanno cacciato il re e gli hanno dato le vele per andarsene al lavoro suo, per andarsene in Germania a farlo caporale.\n\nVieni a vedere spade e scimitarre e qualche testa bulgara lassù, lassù sul Skra in cima, dove combattono contro il Tedesco.\n\nI ragazzi della Difesa hanno cacciato il re — il cappello della Difesa ha portato Venizelos — il berrettino della Difesa ha portato la Libertà.\n\n\nNote: Τριανδρία — la triarchia era il triumvirato formato da Venizelos, dall'ammiraglio Pavlos Koundouriotis e dal generale Panagiotis Danglis, che guidò il governo provvisorio di Salonicco. Σκρα — la battaglia dello Skra di Gen (maggio 1918) fu una vittoria decisiva dell'esercito greco di Venizelos contro le forze bulgaro-tedesche in Macedonia. Λευτεράκι — diminutivo affettuoso di Λευτέρης (Eleftherios), nome di Venizelos — \"ha portato la Libertà\" è un gioco di parole sul suo nome. Il re citato è Costantino I, che aveva mantenuto la Grecia neutrale con tendenze filo-tedesche — la canzone lo deride augurandogli di diventare semplice caporale in Germania.",
+      "no": "Prima dimenticata versione della famosa Ta pedià tis amìnas (scheda separata)"
+    },
+    {
+      "id": "s_1785572554275",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-01",
+      "tgr": "Γερακίνα",
+      "tit": "Gherakìna",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "tradizionale",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "maggiore",
+      "bal": "kalamatianòs (7/8)",
+      "ll": "https://www.youtube.com/watch?v=yBuNkpd7JNI",
+      "li": "",
+      "ch": "DO                       REm  SOL    DO\nΚίνησε η Γερακίνα για νερό κρύο να φέρει\nDO                   SOL           DO\nΝτρουμ, ντρουμ, ντρουμ, ντρουμ, ντρουμ\nDO           SOL       DO\nτα βραχιόλια της βροντούν\nDO           SOL       DO\nΤα βραχιόλια της βροντούν\nDO           SOL       DO\nντρουμ, ντρουμ, ντρουμ, ντρουμ, ντρουμ\n \nDO                       REm  SOL    DO\nΚι έπεσε μες στο πηγάδι κι έβγαλε ορέ φωνή μεγάλη\nDO           SOL       DO\nτα βραχιόλια της βροντούν\nDO           SOL       DO\nΤα βραχιόλια της βροντούν\nDO           SOL       DO\nντρουμ, ντρουμ, ντρουμ, ντρουμ, ντρουμ\n \nDO                       REm  SOL    DO\nΚι έτρεξε ο κόσμος όλος, κι έτρεξα κι εγώ ο καημένος\nDO           SOL       DO\nτα βραχιόλια της βροντούν\nDO           SOL       DO\nΤα βραχιόλια της βροντούν\nDO           SOL       DO\nντρουμ, ντρουμ, ντρουμ, ντρουμ, ντρουμ\n \nDO                       REm  SOL    DO\nΓερακίνα, θα σε βγάλω και γυναίκα θα σε πάρω\nDO           SOL       DO\nτα βραχιόλια της βροντούν\nDO           SOL       DO\nΤα βραχιόλια της βροντούν\nDO           SOL       DO\nντρουμ, ντρουμ, ντρουμ, ντρουμ, ντρουμ",
+      "tr": "Gherakìna\n\nKínise i Gherakína ghia neró krío na féri\nDrom, drom, drom, drom, drom\nta vrachiólia tis vrondún\nta vrachiólia tis vrondún\ndrom, drom, drom, drom, drom\n\nKi épese mes sto pighádhi ki évghale oré foní megháli\nDrom, drom...\n\nKi étrekse o kósmos ólos, ki étreksa ki eghó o kaiménos\nDrom, drom...\n\nGherakína, tha se vghalo ke ghineká tha se páro\nDrom, drom...",
+      "ti": "Gherakina \n\nSi avviò  Gherakina per portare acqua fresca\nDrom, drom, drom, drom, drom\ni suoi braccialetti rimbombano\ni suoi braccialetti rimbombano\ndrom, drom, drom, drom, drom\n\nE cadde nel pozzo e lanciò un gran grido\nDrom, drom...\n\nE corse tutta la gente, e corsi anch'io il poveretto\nDrom, drom...\n\nGherakina, ti tirerò fuori e ti prenderò in moglie\nDrom, drom...\n\nNote: Γερακίνα è un nome femminile che deriva da γεράκι (falco) — la ragazza falco, nome tipico della tradizione popolare greca. Ντρουμ è l'onomatopea del rimbombo dei braccialetti — uno dei suoni più riconoscibili di tutta la musica tradizionale greca, riprodotto spesso dal bouzouki o dal violino. Πηγάδι è il pozzo. Ορέ è un'interiezione tipica del canto popolare — un'esclamazione di sorpresa o intensità. La struttura è tipica del dimotiká narrativo: un evento (la caduta nel pozzo) che diventa pretesto per una dichiarazione d'amore. La logica del protagonista è che anche davanti a un'emergenza pensa prima al matrimonio.\n\nTrascrizione fonetica:\n\nKínise i Gherakína ghia neró krío na féri\nDrom, drom, drom, drom, drom\nta vrachiólia tis vrondún\nta vrachiólia tis vrondún\ndrom, drom, drom, drom, drom\n\nKi épese mes sto pighádhi ki évghale oré foní megháli\nDrom, drom...\n\nKi étrekse o kósmos ólos, ki étreksa ki eghó o kaiménos\nDrom, drom...\n\nGherakína, tha se vghalo ke ghineká tha se páro\nDrom, drom...\n\nNote: Γερακίνα è un nome femminile che deriva da γεράκι (falco) — la ragazza falco, nome tipico della tradizione popolare greca. Ντρουμ è l'onomatopea del rimbombo dei braccialetti — uno dei suoni più riconoscibili di tutta la musica tradizionale greca, riprodotto spesso dal bouzouki o dal violino. Πηγάδι è il pozzo. Ορέ è un'interiezione tipica del canto popolare — un'esclamazione di sorpresa o intensità. La struttura è tipica del dimotiká narrativo: un evento (la caduta nel pozzo) che diventa pretesto per una dichiarazione d'amore. La logica del protagonista è impeccabilmente rembetika — anche davanti a un'emergenza pensa prima al\nVuoi ricevere una not",
+      "no": "La storia vera di Γερακίνα\n\nNel 1854, nella città di Nigrita in Macedonia — allora sotto il giogo ottomano — nasce nella famiglia Rokani una bambina che viene chiamata Gerakina. Cresce amata da tutti per la sua bellezza, la bontà e la dolcezza.\n\nNel 1870, a 16 anni, si innamora del giovane Triadafyllos Gostinos, suo vicino di quartiere. L'amore rimane platonico — come imponeva il carattere conservatore della piccola città di provincia — limitato a sguardi rubati e sorrisi dolci.\n\nIl 6 agosto 1870 Gerakina va al pozzo del quartiere a prendere l'acqua per il pranzo. Il pozzo è recintato, ma la recinzione è bassa e precaria. Con la mente rivolta al suo Triadafyllos, non si appoggia bene, perde l'equilibrio e cade sul fondo.\n\nIl suo grido disperato squarcia la quiete del mezzogiorno. I vicini accorrono — tra loro anche Triadafyllos, che scende con una corda sul fondo del pozzo per salvarla. Invano: Gerakina è già morta.\n\nTutta Nigrita pianse la sventurata ragazza e la accompagnò all'ultima dimora adornandola di monete d'oro e braccialetti. Triadafyllos morì di dolore tre mesi dopo.\n\nLa leggenda si cristallizzò nella canzone tradizionale Κίνησε η Γερακίνα — e i braccialetti con cui fu sepolta diventarono il ντρουμ ντρουμ che risuona in ogni strofa. Ogni anno a fine agosto a Nigrita si tengono manifestazioni folkloristiche in suo onore."
+    },
+    {
+      "id": "s_1785572100003",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-01",
+      "tgr": "Μήλο μου κόκκινο",
+      "tit": "Mìlo mu kòkkino",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "tradizionale",
+      "lb": "",
+      "gn": "dimotikò macedonia",
+      "dr": "maggiore",
+      "bal": "kalamatianòs (7/8)",
+      "ll": "https://www.youtube.com/watch?v=8ZDUsvUC8LU",
+      "li": "",
+      "ch": "DO                  FA       DO\nΜήλο μου κόκκινο, ρόδο βαμμένο  \nDO                  FA       DO\nΜήλο μου κόκκινο, ρόδο βαμμένο  \nDO         SOL               DO\nγιατί με μάρανες, τον πικραμένο \nDO         SOL               DO\nγιατί με μάρανες, τον πικραμένο   \n \nDO                  FA       DO\nΠηγαίνω κι έρχομαι, μα δε σε βρίσκω   \nDO                  FA       DO\nΠηγαίνω κι έρχομαι, μα δε σε βρίσκω \nDO         SOL               DO\nΒρίσκω την πόρτα σου μανταλωμένη\nDO         SOL               DO\nτα παραθύρια σου φεγγοβολούνε\n \nDO                  FA       DO\nΡωτώ την πόρτα σου, πού είν' η κυρά σου   \nDO                  FA       DO\nΡωτώ την πόρτα σου, πού είν' η κυρά σου\nDO         SOL               DO\nΚυρά μ' δεν είναι δω, πάησε στη βρύση\nDO         SOL               DO\nπάησε να πιει νερό και να γιομίσει",
+      "tr": "Mílo mu kókino\n\nMílo mu kókino, ródho vaméno\nghiatí me máranes, ton pikraméno\n\nPigéno ki érchome, ma de se vrisko\nVrisko tin pórta su mandalomeni\nta parathíria su fenghovolúne\n\nRotó tin pórta su, pu in i kirá su\nKirá m' den íne dho, páise sti vrísi\npáise na pi neró ke na ghiomísi",
+      "ti": "Mia mela rossa\n\nMela mia rossa, tinta di rosa\nperché mi hai fatto appassire, l'amareggiato\n\nVado e vengo, ma non ti trovo\ntrovo la tua porta sprangata\nle tue finestre brillano di luce\n\nChiedo alla tua porta, dov'è la tua padrona\nPadrona mia non è qui, è andata alla fonte\nè andata a bere acqua e a riempirsi\n\nNote: Μανταλωμένη è sprangata, chiusa col catenaccio — da μάνταλο (chiavistello). Φεγγοβολούνε è un verbo poetico composto da φεγγάρι (luna) e βολή (lancio) — brillano, mandano luce come la luna. Βρύση è la fonte, la fontana pubblica del villaggio. Γιομίσει è forma dialettale di γεμίσει (riempirsi). Il testo ha la struttura classica del dimotiká — la canzone popolare greca tradizionale: la porta personificata che risponde, la ragazza alla fonte, l'amante che cerca invano.",
+      "no": ""
+    },
     {
       "id": "s_1785563408994",
       "offsets": {},
@@ -147,13 +275,15 @@
       "yr": "1934",
       "ar": "Κάκια Μένδρη",
       "lb": "",
-      "gn": "Smirneiko",
+      "gn": "Smirneico",
       "ll": "",
       "li": "",
       "ch": "RE                RE#        RE\nΤώρα που πήρα το πρώτο το λαχείο\n      SOLm                     RE\nτις τετρακόσιες χιλιάδες μια χαρά\n      DOm                      SOLm\nτώρα θα δείτε πως γλεντάνε μεγαλείο\n          LA                  RE\nκαι πως μασάνε τις χήνες μια φορά\n      DOm                      SOLm\nτώρα θα δείτε πως γλεντάνε μεγαλείο\n          LA                  RE\nκαι πως μασάνε τις χήνες μια φορά\n \nRE              LA\nΕίμαι το Μαριανθάκι\n         SOLm                  RE\nπου δεν αγάπησα ποτέ μου τα λεφτά\nDOm              SOL\nε, ρε, να δεις μεράκι\n           LA                       RE\nκουβαρνταλίκι με τους μάγκες στα γερά\n \nRE              LA\nΕίμαι το Μαριανθάκι\n         SOLm                  RE\nπου δεν αγάπησα ποτέ μου τα λεφτά\nDOm           SOL\nΤώρα, ρε αδερφάκι,\n           LA                       RE\nκουβαρνταλίκι με τους μάγκες στα γερά\n \nRE                RE#        RE\nθα αγοράσω φωνόγραφο και πλάκες\n      SOLm                     RE\nμε τα τραγούδια του Τούντα θα γλεντώ\n      DOm                      SOLm\nτα ξημερώματα θα παίρνω όλους τους μάγκες\n           LA                       RE\nκαι στη Γλυφάδα θα κάνουμε λουτρό\n     DOm                      SOLm\nτα ξημερώματα θα παίρνω όλους τους μάγκες\n           LA                       RE\nκαι στη Γλυφάδα θα κάνουμε λουτρό\n\nRE              LA\nΕίμαι το Μαριανθάκι\n         SOLm                  RE\nπου δεν αγάπησα ποτέ μου τα λεφτά\nDOm              SOL\nε, ρε, να δεις μεράκι\n           LA                       RE\nκουβαρνταλίκι με τους μάγκες στα γερά\n \nRE              LA\nΕίμαι το Μαριανθάκι\n         SOLm                  RE\nπου δεν αγάπησα ποτέ μου τα λεφτά\nDOm           SOL\nΤώρα, ρε αδερφάκι,\n           LA                       RE\nκουβαρνταλίκι με τους μάγκες στα γερά\n\n-Ώωωπα!\n \nRE                RE#        RE\nΈτσι γλεντάνε τα όμορφα κορίτσια\n      SOLm                     RE\nκαι δε με νοιάζει ο κόσμος τι θα πει\n      DOm                      SOLm\nεγώ ψοφάω για γλέντια, για καπρίτσια\n           LA             RE\nκαι θα πεθάνω στη μόρτικια ζωή\n\nRE              LA\nΕίμαι το Μαριανθάκι\n         SOLm                  RE\nπου δεν αγάπησα ποτέ μου τα λεφτά\nDOm              SOL\nε, ρε, να δεις μεράκι\n           LA                       RE\nκουβαρνταλίκι με τους μάγκες στα γερά\n \nRE              LA\nΕίμαι το Μαριανθάκι\n         SOLm                  RE\nπου δεν αγάπησα ποτέ μου τα λεφτά\nDOm           SOL\nΤώρα, ρε αδερφάκι,\n           LA                       RE\nκουβαρνταλίκι με τους μάγκες στα γερά",
       "tr": "To Marianthàki\n\nTóra pu píra to próto to lachío, tis tetrakósies chiliádes, mia chará.\nTóra tha díte pos ghendáne meghaléo ke pos masáne tis chínes, mia forá.\n\nÍme to Mariantháki, pu den agápisa poté mu ta leftá!\nE re, na dis meráki, kuvarndalíki me tus mánghes sta gherá!\n\nTha aghoráso fonóghafo ke plákes, me ta traghúdia tu Túnda tha ghendó.\nTa ksimeromáta tha pérno ólus tus mánghes ke sti Ghlifáda tha kánume lutró.\n\nÉtsi ghendáne ta ómorfa korítsia ke de me nját o kósmos ti tha pi.\nEgó psofáo ghia ghéntia, ghia kaprírtsia ke tha petháno sti mórtikia zoí.",
       "ti": "Mariolina\n\nOra che ho vinto il primo premio alla lotteria, le quattrocentomila, che gioia. Adesso vedrete come si fa festa in grande e come si sgranocchiano le oche, per una volta.\n\nSono la Marianthaki, che non ho mai amato i soldi nella mia vita! Eh, vedrai che passione, che generosità con i μάγκες per davvero!\n\nComprerò un fonografo e dischi, con le canzoni di Tountas farò festa. All'alba prenderò tutti i μάγκες e a Glyfada faremo il bagno.\n\nCosì festeggiano le belle ragazze e non mi importa cosa dirà la gente. Io schiatto per i festini, per i capricci e morirò nella vita da μόρτισσα.\n\nNote: Χήνες sono le oche — mangiarsi le oche è un'espressione per \"vivere in grande, senza badare a spese\". Κουβαρνταλίκι è la generosità ostentata, lo spendere a mani larghe con gli amici — dal turco kavalır. Φωνόγραφο και πλάκες — il fonografo e i dischi a 78 giri, lusso dell'epoca. Τούντας è Παναγιώτης Τούντας, grande compositore, si autocita. Μόρτικια ζωή è la vita da μόρτης al femminile — la vita spericolata e spavalderia tutta stile.",
-      "no": ""
+      "no": "",
+      "dr": "",
+      "bal": ""
     },
     {
       "id": "s_1785419747676",
@@ -479,6 +609,14 @@
     }
   ],
   "args": [
+    {
+      "id": "a_1785606725791",
+      "title": "Da una presa in giro bonaria a un grande successo",
+      "tag": "storia delle canzoni",
+      "date": "2026-08-01",
+      "body": "Il testo di Kirà Ghiòrghena fu scritto da Pithagòras per prendere in giro la moglie del suo amico Ghiorgos Katsaròs Mirela perché lui era sempre lontano da casa. Era solito chiamarla e dirle per scherzo “Signora Ghiorghena dove sta andando il suo Ghiorgos? Ha indossato il suo abito buono, ha acceso il suo sigaro, è salito in macchina e se n’è andato”.Katsaròs aveva incontrato sua moglie Mirela quando lei aveva  17 anni ed era una ballerina di danza classica. Non appena si sposarono lasciò il suo il suo lavoro per dedicarsi alla famiglia. In quel periodo Katsaròs lavorava sette giorni su sette e stava lontano da casa per molte ore. Di giorno dormiva su un divano dello studio e di sera usciva alle 23 per andare a lavorare nei centri con il vestito buono e fumando un sigaro. Pithagòra era un stretto collaboratore e un buon amico di sua moglie e scrisse Il testo della canzone per farla sorridere.Il testo piacque tanto a Katsaròs che decise di musicarlo. Non appena la canzone fu pubblicata divenne un grande successo e venne cantata in cinque lingue. \nSiccome in Grecia in quel periodo il Ghiorgos più famoso era il dittatore Ghiorgos Papadòpulos, e visto che in quell’anno, 1968, Papadopulos aveva divorziato dalla moglie Niki Vasiliadis per sposare un ex funzionaria politica del servizio di sicurezza greco, il mondo associò la canzone al dittatore piuttosto che all’autore. \n\nNella scheda canzoni trovate il link per ascoltare la versione italiana, Prati verdi e fiori rossi, interpretata nel 1970 dal Quartetto Cetra",
+      "link": ""
+    },
     {
       "id": "a_1785565873469",
       "title": "Una storia nuvolosa",
@@ -992,6 +1130,96 @@
         "am",
         "ar"
       ]
+    },
+    {
+      "id": "p_1785567964804",
+      "name": "Πρόδρομος Τσαουσάκης",
+      "nameit": "Pròdromos Tsausàkis",
+      "born": "15 settembre 1919, Constantinopoli",
+      "died": "23 ottobre 1979 Atene",
+      "bio": "Prodromos Tsaousakis era un cantante, paroliere e compositore del rembetiko e della canzone popolare greca del dopoguerra. Riuscì a collegare la nuova canzone popolare con il passato rembetiko. Vasilis Tsitsanis lo definì il gigante del dopoguerra della canzone popolare con la voce rimbombante rembetika.\n\nNacque nel quartiere del Fanar di Costantinopoli nel 1919. Il suo vero cognome era Moutafoglou. Nel 1922, quando aveva 3 anni, con la diaspora la famiglia arrivò in Grecia e si stabilì a Salonicco.\n\nDa giovane divenne lottatore professionista — il pehlivan, come si chiamavano i lottatori che si ungevano il corpo d'olio. Lavorò come lottatore fino al 1940.\n\nFu Tsitsanis stesso a battezzarlo Tsaousakis quando seppe che in guerra era stato caporale — e i caporali si chiamavano tsaousides in turco. Così Prodromos Moutafoglou diventò Prodromos Tsaousakis.\n\n\nNel 1948 fu incisa per la prima volta la Domenica Nuvolosa di Tsitsanis, scritta durante l'occupazione. I primi interpreti furono Prodromos Tsaousakis e Sotiria Bellou.\n\nStélios Kazantzidis, allora quindicenne, ebbe come primo modello canoro Prodromos Tsaousakis. Nei primi tre anni di carriera (1952–1955) portava forte il segno dell'influenza della sua voce.\n\n\nMorì il 23 ottobre 1979 a Kallithea, all'età di 60 anni. Suo figlio Dimitris continuò la tradizione del padre e morì anche lui giovane, a 66 anni, il 19 settembre 2017.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZt0xKl9JdOd3__9DWNMFH6PpV6GnL_un0vJXP-IqepuahEayRogWlm49LiM7esVFCZajAozMsOlX-MmlmVN-zHsfPaxsG_a65xpbqOBmA&s=10",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1785568823664",
+      "name": "Στέλιος Καζαντζίδης",
+      "nameit": "Stèlios Kazantzìdis",
+      "born": "il 29 agosto 1931 Nea Ionia",
+      "died": "14 settembre 2001, Atene",
+      "bio": "Stelios Kazantzidis nacque il 29 agosto 1931 a Nea Ionia, figlio di un padre pontico di Kotýora e di una madre di Alanya in Asia Minore. Il padre, muratore e partigiano dell'ELAS, fu picchiato a morte dai paramilitari nel 1946, lasciando la famiglia in povertà. A 15 anni Stelios era già operaio, venditore e facchino in piazza Omonia per mantenere i fratelli.\n\nLe origini musicali\n\nNel 1949 lavorava alla fabbrica Lanatex quando un datore di lavoro lo sentì cantare e gli regalò una chitarra. I suoi primi modelli furono Prodromos Tsaousakis e Takis Binis. Nel 1952 esordì discograficamente con il brano Gia banio pao.\n\nIl fenomeno commerciale\n\nIl disco Mantoubala / Dio portes echei i zoi vendette 100.000 copie quando in Grecia esistevano meno di 40.000 giradischi. Kazantzidis fu il primo cantante a rivendicare le royalties sulle vendite — una battaglia che aprì la strada a tutti i colleghi. Da solo rappresentava il 25-30% delle vendite totali della Columbia.\n\nLa carriera e le battaglie\n\nNel 1966, al culmine del successo, abbandonò i locali notturni per protesta contro le condizioni che vi regnava — l'unica forma di protesta silenziosa che conosceva. Nel 1967 la giunta militare gli impose una tassazione retroattiva di 7.800.000 dracme e censurò il 90% dei suoi brani — non canzoni politiche, ma popolari ed erotiche. Dal 1976 al 1987 fu bloccato da un contratto capestro con la Minos e non poté incidere nulla.\n\nLa voce\n\nFrank Sinatra e il cantante turco Zeki Müren elogiarono pubblicamente la sua voce. Il Guardian gli dedicò un lungo profilo. Manos Hadjidakis, Mikis Theodorakis, Lefteris Papadopoulos, Grigoris Bithikotsis lo celebrarono. La sua voce era profonda, mediterranea, capace di rendere il dolore senza esagerazioni — con il caratteristico lygisma, l'ornamentazione vocale della tradizione microasiatica.\n\nGli ultimi anni e la morte\n\nNel 1987 tornò con l'album O dromos tis epistrofis. Morì il 14 settembre 2001, a 70 anni, di cancro. Rifiutò i funerali di Stato. Fu sepolto nel cimitero di Eleusi accanto ai genitori, come aveva desiderato — ma il funerale si trasformò in un pellegrinaggio popolare.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHbjEucgFou6kmliWssAZggRkm0_VaNbwrTi2lcpdtg&s=10",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1785577499452",
+      "name": "Νίκος Δημητράτος",
+      "nameit": "Nìkos Dimitràtos",
+      "born": "6 marzo 1942, Atene",
+      "died": "26 dicembre 2013, Atene",
+      "bio": "Νίκος Δημητράτος (1942–2013)\n\nNato ad Atene il 6 marzo 1942, crebbe nel mondo della musica bizantina come chierichetto alla Metropolitana di Atene. Studiò musica bizantina, poi a vent'anni cominciò a cantare nella boîte Katakombe di Plaka. Lì lo notò il regista Tasos Petris, che lo spinse a studiare recitazione. Delle 58 domande presentate al Teatro d'Arte, Karolos Koun ne scelse due — Dimitratos era uno dei due. Quando la scuola scoprì che cantava la sera per sbarcare il lunario, fu costretto ad abbandonarla. Completò gli studi di recitazione alla scuola di Grigoris Vafias.\n\nIl teatro\n\nEsordì nel 1971 con Paramythi choris onoma di Iakovos Kambanellis, e nel 1973 nella storica messa in scena de Il nostro grande circo dello stesso Kambanellis, con la compagnia di Jenny Karezi e Kostas Kazakos — spettacolo che segnò l'inizio della lunga collaborazione con Stavros Xarchakos.\n\nIl cinema e la televisione\n\nPartecipò al film premiato di Kostas Ferris Rembetiko (1983) come cantante e attore. Nel 1991 vinse il Premio Statale come Miglior Attore Non Protagonista per il film Ante Ghia di Giorgos Tsemberopoulos.\n\nLa musica\n\nLa collaborazione principale fu con Stavros Xarchakos, che produsse alcuni dei suoi album più importanti, tra cui To Megalo mas Tsirko, Rebetiko (con testi di Nikos Gatsos) e Nyn kai Aei. Collaborò anche con Stavros Kougiountzis, Christos Leontis, Mimis Plessas, Giorgos Hatzinasios e molti altri. Si esibì con Sotiria Bellou, Nikos Xylouris, Markos e Stelios Vamvakaris.\n\nNel 1997 partecipò all'oratorio L'assedio di Costantinopoli di Giorgos Hatzinasios con la Sinfonica di Sofia, nell'ambito di Salonicco Capitale Europea della Cultura.\n\nMorì il 26 dicembre 2013, a 71 anni.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShveRSKsWv45xO3JMtuCnn00lLpgOzvKm-_UjpcCEUgg&s=10",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1785580040420",
+      "name": "Σταύρος Ξαρχάκος",
+      "nameit": "Stàvros Ksarchàkos",
+      "born": "14 marzo 1939 Atene",
+      "died": "",
+      "bio": "Nato ad Atene il 14 marzo 1939, di origini maniote. Da bambino fu influenzato dalla musica popolare, dal rembetiko, dalla musica europea sentita alla radio e soprattutto dalla musica bizantina ecclesiastica. La nonna suonava la chitarra e cantava arie e serenate. Studiò violoncello e pianoforte da piccolo.\n\nFormazione\n\nNel 1958 entrò al Conservatorio di Atene. Nel 1968 si trasferì a Parigi per studiare composizione con Nadia Boulanger fino al 1973. Nel 1978, su incoraggiamento di Leonard Bernstein — con cui era in corrispondenza tramite Kimon Friar — si iscrisse alla Juilliard School di New York, dove studiò con il compositore David Diamond per tre anni e analisi della partitura con Bernstein stesso per due anni.\n\nIl cinema e il teatro\n\nLa prima grande affermazione fu nel 1963 con la colonna sonora del film Ta kokkina fanaria (I fanali rossi) di Vasilis Georgiadis, con testi di Lefteris Papadopoulos e interpretazione di Grigoris Bithikotsis. Nel 1973 compose la musica per lo storico spettacolo teatrale Il nostro grande circo di Iakovos Kambanellis. Nel 1983, tornato da New York, compose la colonna sonora del film Rembetiko di Kostas Ferris, con testi di Nikos Gatsos — il film vinse l'Orso d'Argento al Festival di Berlino.\n\nI collaboratori\n\nLe sue collaborazioni più feconde furono con il paroliere Nikos Gatsos (dal 1965) e con il cantante Nikos Xylouris (dal 1972). Tra i brani più noti: Itan mia fora, Aspri mera, Matia vourkomeni, Stou Othona ta chronia. Collaborò inoltre con Dimitra Galani, Giorgos Dalaras, Vicky Moscholiou, Nana Mouskouri, Marinella, Agnes Baltsa e molti altri.\n\nMomenti storici\n\nNel 1989 diresse l'orchestra al concerto dell'Olimpico di Atene in cui si incontrarono per la prima e ultima volta sul palco Manos Hadjidakis, Mikis Theodorakis e lui stesso — uno dei momenti più emblematici della musica greca moderna. Nel 2001 il tenore José Carreras incise il suo brano Ta treina pou fygan per il disco internazionale Around the World. Nel 2004 compose To zeibékiko tou Dia, la musica della cerimonia di apertura delle Olimpiadi di Atene.\n\nPolitica e istituzioni\n\nFu eletto consigliere comunale ad Atene nel 1989 e assessore alla Cultura. Deputato dal 1989 al 1990, poi eurodeputato dal 2000 al 2004.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFomAiCMNwB36IM45JPi0WpxyvQ48hB803CMRV5Vsirg&s=10",
+      "roles": [
+        "am"
+      ]
+    },
+    {
+      "id": "p_1785607099153",
+      "name": "Λίτσα Διαμάντη",
+      "nameit": "Licia Diamànti",
+      "born": "4 aprile 1949, Atene",
+      "died": "",
+      "bio": "Nome d'arte di Evangelia Kosmidou, nata il 4 aprile 1949 a Kolonos, Atene. Cantante di laïká greca.\n\nA quattro anni si trasferì con i genitori ad Egaleo. A sei anni cantò alla sua prima festa di famiglia. A otto cominciò a suonare la fisarmonica. A undici scrisse nel suo diario: \"Voglio diventare una (buona) cantante, vedere il mio nome sulle insegne luminose, piacere al pubblico e essere applaudita\".\n\nAppena finita la scuola elementare suonò la fisarmonica nei cinema estivi con Agkop e poi nelle feste paesane con gruppi di musica tradizionale. A 13 anni incise il suo primo 45 giri — Ena deilino tu Aprili — per la casa discografica Ντο-Ρε. Nel 1965, a 16 anni, registrò Sinnefiés di Giorgos Mitsakis.\n\nCollaborò con Apostolos Kaldaras, Giannis Spanos, Giorgos Katsaros, Giorgos Mitsakis, Akis Panou, Lykurgos Markeas, Christos Nikolopoulos, Nikos Karvelas, Alexis Papadimitriou e Stamatis Kraounakis. Si esibì nei locali notturni con i più grandi nomi del laïká — da Tolis Voskopoulos a Stelios Kazantzidis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwITvU2HQgZbYXzT2cxWg2S4rZ3NpPtprtVfo0XZ6uVg&s=10",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1785607438295",
+      "name": "Πυθαγόρας (Παπασταματίου)",
+      "nameit": "Pithagòras (Papastamatìu)",
+      "born": "12 aprile 1930 Agrinio",
+      "died": "12 novembre 1979, Atene",
+      "bio": "Nato il 12 aprile 1930 ad Agrinio, morto il 12 novembre 1979 a 49 anni per infarto. Paroliere, attore, sceneggiatore e autore teatrale. Conosciuto semplicemente come Pitagora, senza cognome — già al liceo firmava così, e alla domanda del professore perché non scrivesse anche il cognome rispose: «Uno solo è Pitagora, tutti mi conoscono, il cognome non serve.»\n\nI genitori erano originari di Samo ma si conobbero a Smirne poco prima della Catastrofe — la madre era maestra, il padre creatore di miscele di tabacco. La Catastrofe dell'Asia Minore segnò la famiglia e influenzò il suo lavoro come paroliere, culminando nel 1972 con il disco Mikrà Asia.\n\nDurante l'occupazione tedesca, a 14 anni, nel marzo 1944 si arruolò nell'EPON, la gioventù partigiana. Dopo la liberazione tornò a scuola, dove recitava sempre i ruoli principali nelle rappresentazioni scolastiche. Nel 1948 interpretò Papaflessas in uno spettacolo scolastico con tale intensità da essere acclamato come un vero attore.\n\nNel 1949 si trasferì ad Atene e si diplomò con lode alla Scuola Drammatica del Conservatorio di Atene con il maestro Dimitris Rondiris.\n\nNel 1954, al primo contatto con la discografia, ottenne subito un grande successo con Ksanávlepo to mikró to amaksáki, musica di Niky Yakovlev. Il punto di svolta fu Káthe limáni ke kaïmós, musica di Giorgos Katsaros, sentita per la prima volta nel film omonimo del 1964. Con Katsaros scrisse molti brani interpretati da Kazantzidis e Marinella: Stin porta su, Dromos dichós sinora, Na fygho, Mes ti bora mes ton ilio.\n\nCollaborò anche con Vasilis Vasileiadis, Apostolos Kaldaras, Christos Nikolopoulos e Giannis Spanos. Fumatore accanito e refrattario ai consigli dei medici, morì improvvisamente a soli 49 anni. per infarto Fu sepolto a Marousi.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyz9bv-S2kF79GR0w8oPkwEWuGT_HdNZMwI-cAbAw37Q&s=10",
+      "roles": [
+        "at"
+      ]
     }
   ]
+}
 }
