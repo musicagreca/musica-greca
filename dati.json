@@ -1,7 +1,89 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-02T09:14:04.502Z",
+  "exportedAt": "2026-08-02T14:57:58.028Z",
   "songs": [
+    {
+      "id": "s_1785682299372",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-02",
+      "tgr": "Μάνα μου Ελλάς",
+      "tit": "Màna mu Ellàs",
+      "alias": "",
+      "at": "Νίκος Γκάτσος",
+      "am": "Σταύρος Ξαρχάκος",
+      "yr": "1983",
+      "ar": "Νίκος Δημητράτος",
+      "lb": "",
+      "gn": "Rembetiko",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=T21tL1JN50k",
+      "li": "",
+      "ch": "REm             LA#          LA\nΔεν έχω σπίτι πίσω για να 'ρθω\nSOLm          LA             REm\nΟύτε κρεβάάάάτι για να κοιμηθώ\nREm                     LA\nΔεν έχω δρόμο ούτε γειτονιά\n              LA7        REm\nΝα περπατήσω μια Πρωτομαγιά\n \nREm\nΤα ψεύτικα τα λόγια, τα μεγάλα\nREm\nμου τα 'πες με το πρώτο σου το γάλα \n         LA     LA#       LA\nΜα τώρα που ξυπνήσανε τα φίδια\n        LA     LA#       LA\nεσύ φοράς τ' αρχαία σου στολίδια\n          SOLm               LA\nκαι δεν δακρύζεις ποτέ σου, μάνα μου Ελλάς      \n  LA                     REm   LA7  REm\nπου τα παιδιά σου σκλάβους ξεπουλάς             \n \nREm\nΤα ψεύτικα τα λόγια τα μεγάλα\nREm\nμου τα 'πες με το πρώτο σου το γάλα\n         LA     LA#       LA \nΜα τότε που στη μοίρα μου μιλούσα\n         LA     LA#       LA\nείχες ντυθεί τ' αρχαία σου τα λούσα\n         SOLm               LA\nκαι στο παζάρι με πήρες, γύφτισσα, μαϊμού      |\n  LA                     REm   LA7  REm\nΕλλάδα, Ελλάδα, μάνα του καημού                \n \nREm\nΤα ψεύτικα τα λόγια, τα μεγάλα\nREm\nμου τα 'πες με το πρώτο σου το γάλα\n         LA     LA#       LA\nΜα τώρα που η φωτιά φουντώνει πάλι\n         LA     LA#       LA\nεσύ κοιτάς τ' αρχαία σου τα κάλλη\n          SOLm               LA\nκαι στις αρένες του κόσμου, μάνα μου Ελλάς   \n  LA                  REm   LA7  REm\nτο ίδιο ψέμα πάντα κουβαλάς",
+      "tr": "Màma mu Ellàs\n\nDen écho spíti píso ghia na 'rtho\nÚte kreváti ghia na kimithó\nDen écho drómo úte ghitoniá\nNa perpatíso mia Protomaiá\n\nTa pséftika ta lóghia, ta meghálan\nmu ta 'pes me to próto su to ghála\n\nMa tóra pu ksinísane ta fídhia\nesí forás t'archéa su ta stolídhia\nke den dakritzis poté su, mána mu Ellás\npu ta pediá su sklávus ksepulás\n\nMa tóte pu sti míra mu milúsa\níches ntitheí t'archéa su ta lúsa\nke sto pazári me píres, ghíftissa, maimú\nElládha, Elládha, mána tu kaimú\n\nMa tóra pu i fotiá fundóni páli\nesí kitás t'archéa su ta kálli\nke stis arénes tu kósmu, mána mu Ellás\nto ídio psema pánda kuvalás",
+      "ti": "Grecia madre mia\n\nNon ho casa a cui tornare\nné letto in cui dormire\nNon ho strada né quartiere\nper camminare un Primo Maggio\n\nLe parole false, le grandi parole\nme le hai dette col tuo primo latte\n\nMa ora che i serpenti si sono svegliati\ntu indossi i tuoi antichi ornamenti\ne non piangi mai, madre mia Ellade\nche i tuoi figli vendi come schiavi\n\nLe parole false, le grandi parole\nme le hai dette col tuo primo latte\n\nMa quando parlavo al mio destino\nti eri vestita dei tuoi antichi splendori\ne al mercato mi hai venduto, zingara, scimmia\nGrecia, Grecia, madre del dolore\n\nLe parole false, le grandi parole\nme le hai dette col tuo primo latte\n\nMa ora che il fuoco divampa di nuovo\ntu guardi le tue antiche bellezze\ne nelle arene del mondo, madre mia Ellada\nla stessa menzogna porti sempre con te",
+      "no": ""
+    },
+    {
+      "id": "s_1785677915302",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κ. Ρούκουνας",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=LAW21NUk06c"
+        },
+        {
+          "who": "Στελλάκης Περπινιάδης",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=zFFamB23xQE"
+        }
+      ],
+      "date": "2026-08-02",
+      "tgr": "Στη Δραπετσώνα",
+      "tit": "Sti Drapetsòna",
+      "alias": "",
+      "at": "Παναγιώτης Τούντας",
+      "am": "Παναγιώτης Τούντας",
+      "yr": "",
+      "ar": "Στελλάκης Περπινιάδης",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE                    LA             RE\nΣτη Δραπετσώνα μια κούκλα μ' έχει κάψει\nRE\nμια κοριτσάρα τσαχπίνα λυγερή\nRE                    LA             RE\nμες στη καρδιά μου για 'κείνη έχει ανάψει\nREm                             RE\nκι αφού το ξέρει μου κάνει το βαρύ\n\nREm \nΓλυκιά Δραπετσωνίτισσα\nREm\nπολλές φορές ξενύχτησα\nRE           LA         RE\nγι αυτό τ' αφράτο σου κορμί\nREm\nΘα πίνω ούζο μπόλικο\nREm\nθα κάνω και τον ζόρικο\nRE           LA         RE\nγια σε κουκλίτσα μου μικρή\n \nRE\n       SOLm       RE        LA           RE\nΑχ αφράτη μου κοκόνα μες από τη Δραπετσώνα, αχ\nSOLm    RE        SOL7d         REm\nΜε πεθαίνει αυτή η γλυκιά σου γλώσσα\nSOLm     REm            SOL7d        LA\nΤα σκέρτσα σου τα τόσα με κάνουν να μεθώ\nSOLm                          REm\nΣτο σεβντά σου καλέ μου στα φιλιά σου\nREm           LA         RE\nΝα πεθάνω κουκλίτσα μου ποθώ\n \nRE               LA             RE\nΣτη Δραπετσώνα θα 'ρθώ ένα βραδάκι\nRE\nΚαι θα μεθύσω με ούζο στα καλά\nRE                 LA             RE\nΘα τραγουδήσω ν' ακούσεις τι μεράκι\nREm                             RE\nΤι πόνο έχω για σένα στη καρδιά\n \n\nREm \nΑμάν βρε κοριτσάρα μου\nREm \nμπαρμπούνι, μπαρμπουνάρα μου\nRE           LA         RE\nκομμάτια μου 'χεις την καρδιά\nREm\nΘα πίνω ούζο μπόλικο\nREm\nθα κάνω και τον ζόρικο\nRE           LA         RE\nγια σε ναζιάρα μου γλυκειά\n\nRE\n       SOLm       RE        LA           RE\nΑχ αφράτη μου κοκόνα μες από τη Δραπετσώνα, αχ\nSOLm    RE        SOL7d         REm\nΜε πεθαίνει αυτή η γλυκιά σου γλώσσα\nSOLm     REm            SOL7d        LA\nΤα σκέρτσα σου τα τόσα με κάνουν να μεθώ\nSOLm                          REm\nΣτο σεβντά σου καλέ μου στα φιλιά σου\nREm           LA         RE\nΝα πεθάνω κουκλίτσα μου ποθώ",
+      "tr": "Sti Drapetsóna\n\nSti Drapetsóna mia kúkla m'échi kápsi\nmia koritságra tsachpína ligherí\nmes sti kardiá mu ghia 'kíni échi anápsi\nki afú to kséri mu káni to varí\n\nGhlikía Drapetsonítissa\npollés forés kseníchtisa\nghia aftó t'afráto su kormí\nTha píno úzo bóliko\ntha káno ke ton zóriko\nghia se kuklítsa mu mikrí\n\nAch afrátí mu kokóna mes apó ti Drapetsóna, ach\nMe petháni aftí i ghlikía su ghló ssa\nTa skértsa su ta tósa me kánun na methó\nSto sevdá su kalé mu sta filiá su\nNa petháno kuklítsa mu pothó\n\nSti Drapetsóna tha 'rtho éna vradáki\nke tha methíso me úzo sta kalá\nTha traghudíso n'akúsis ti meráki\nTi póno écho ghia séna sti kardiá\n\nAmán vre koritságra mu\nbarbúni, barbunára mu\nkommátia mu 'chis tin kardiá\nTha píno úzo bóliko\ntha káno ke ton zóriko\nghia se naziára mu ghlikía",
+      "ti": "A Drapetsona\n\nA Drapetsona una bambola mi ha bruciato\nuna ragazza birichina e snella\nnel mio cuore per lei si è acceso il fuoco\ne visto che lo sa, fa la difficile\n\nDolce Drapetsonita\nmolte volte ho passato la notte insonne\nper quel tuo corpo morbido\nBerrò tanto ouzo\ne farò il duro\nper te bambolina mia piccola\n\nAh morbida mia cocona di Drapetsona, ah\nMi fa morire quella tua dolce lingua\nI tuoi tanti scherzi mi fanno ubriacare\nNel tuo amore cara mia, nei tuoi baci\nvoglio morire bambolina mia\n\nA Drapetsona verrò una seratina\ne mi ubriacherò di ouzo per bene\nCanterò perché tu senta che passione\nche dolore ho per te nel cuore\n\nAmàn ragazza mia\ntriglia mia, triglia grande mia\nmi hai fatto il cuore a pezzi\nBerrò tanto ouzo\ne farò il duro\nper te vezzosissima mia dolce\n\nNote: Κοκόνα è signora, donna di riguardo — usato qui ironicamente e affettuosamente. Αφράτη è morbido, soffice — riferito al corpo in modo ammiccante. Σεβντάς è l'amore passionale, dal turco sevda. Ζόρικος è il duro, il tosto — fare il duro per impressionare. Μπαρμπούνι è la triglia — usato come termine affettuoso nel gergo popolare greco per indicare una bella ragazza. Ναζιάρα è la vezzosa, quella che fa le smorfie — da νάζι (vezzo, moine).",
+      "no": ""
+    },
+    {
+      "id": "s_1785667379318",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-02",
+      "tgr": "Δραπετσώνα",
+      "tit": "Drapetsòna",
+      "alias": "",
+      "at": "Τάσος Λειβαδίτης",
+      "am": "Μίκης Θεοδωράκης",
+      "yr": "1960",
+      "ar": "Γρηγόρης Μπιθικώτσης",
+      "lb": "",
+      "gn": "",
+      "dr": "χιτζάζ",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=z6Z6XjPjnNs",
+      "li": "",
+      "ch": "RE            SOLm           RE\nΜ' αίμα χτισμένο, κάθε πέτρα και καημός\nDOm      RE     RE#          RE\nκάθε καρφί του πίκρα και λυγμός\nRE                   SOLm           RE\nΜα όταν γυρίζαμε το βράδυ απ' τη δουλειά\nDOm      RE     RE#          RE\nεγώ και εκείνη όνειρα, φιλιά\n \nRE                  DOm  RE# RE\nΤο 'δερνε αγέρας κι η βροχή\n RE           DOm                   RE\nμα ήταν λιμάνι κι αγκαλιά και γλυκιά απαντοχή\nDOm                              RE\nΑχ, το σπιτάκι μας, κι αυτό είχε ψυχή\n \nRE        DOm   RE               DOm   RE \nΠάρ' το στεφάνι μας, πάρ' το γεράνι μας\nRE                    DOm       RE\nστη Δραπετσώνα πια δεν έχουμε ζωή\nRE                DOm          RE\nΚράτα το χέρι μου και πάμε αστέρι μου\nSOLm        DOm           RE#     RE\nεμείς θα ζήσουμε κι ας είμαστε φτωχοί\n \nRE             SOLm           RE\nΈνα κρεβάτι και μια κούνια στη γωνιά\nDOm      RE     RE#          RE\nστην τρύπια στέγη του άστρα και πουλιά\n  RE                SOLm           RE\nΚάθε του πόρτα ιδρώτας κι αναστεναγμός\nDOm      RE     RE#          RE\nκάθε παράθυρό του κι ουρανός\n \nRE                  DOm  RE# RE\nΜα όταν ερχόταν η βραδιά\n RE           DOm                   RE\nμες στο στενό σοκάκι ξεφαντώναν τα παιδιά\nDOm                              RE\nΑχ, το σπιτάκι μας, κι αυτό είχε καρδιά\n \nRE        DOm   RE               DOm   RE \nΠάρ' το στεφάνι μας, πάρ' το γεράνι μας\nRE                    DOm       RE\nστη Δραπετσώνα πια δεν έχουμε ζωή\nRE                DOm          RE\nΚράτα το χέρι μου και πάμε αστέρι μου\nSOLm        DOm           RE#     RE\nεμείς θα ζήσουμε κι ας είμαστε φτωχοί",
+      "tr": "Drapetsòna\n\nM'éma chtisméno, káthe pétra ke kaimós\nkáthe karfí tu píkra ke lighmós\nMa ótan ghirízame to vrádi ap' ti duliá\negó ke ekíni ónira, filiá\n\nTo 'derne aghéras ki i vrochí\nma ítan limáni ki aghalιá ke ghlikía apandochí\nAch, to spitáki mas, ki aftó íche psichí\n\nPár'to stefáni mas, pár'to gheráni mas\nsti Drapetsóna pia den échume zoí\nKráta to chéri mu ke páme astéri mu\nemís tha zísume ki as ímaste ftochí\n\nÉna kreváti ke mia kúnia sti ghoniá\nstin trípia stéghi tu ástra ke puliá\nKáthe tu pórta idrόtas ki anastenaghmós\nkáthe parátthiró tu ki uranós\n\nMa ótan érchote i vradiá\nmes sto stenó sokáki kseφantonane ta pediá\nAch, to spitáki mas, ki aftó íche kardiá",
+      "ti": "Drapetsòna\n\nCostruita col sangue, ogni pietra un dolore\nogni chiodo amarezza e singhiozzo\nMa quando tornavamo la sera dal lavoro\nio e lei, sogni, baci\n\nLo batteva il vento e la pioggia\nma era porto e abbraccio e dolce rifugio\nAh, la nostra casetta, anche lei aveva un'anima\n\nPrendi la nostra corona, prendi il nostro geranio\na Drapetsona non abbiamo più vita\nTienimi la mano e andiamo, stella mia\nnoi sopravviveremo anche se siamo poveri\n\nUn letto e una culla nell'angolo\nnel tetto bucato stelle e uccelli\nOgni sua porta sudore e sospiro\nogni sua finestra cielo\n\nMa quando arrivava la sera\nnel vicolo stretto i bambini facevano baldoria\nAh, la nostra casetta, anche lei aveva un cuore\n\nPrendi il nostro geranio...\n\nNote: Δραπετσώνα è il quartiere operaio e portuale di Drapetsona al Pireo — uno dei simboli della Grecia povera del dopoguerra, delle case fatiscenti e degli operai. Απαντοχή è la speranza, l'attesa fiduciosa — parola poetica e arcaica. Στεφάνι è la corona nuziale ortodossa — portarla via significa portare con sé il matrimonio, la vita condivisa. Il γεράνι — il geranio — è il simbolo delle case povere greche, il fiore sul davanzale che testimonia la cura e la dignità anche nella miseria",
+      "no": "Lo stesso Theodorakis ha raccontato come è nata la canzone: \"Ricordo che Tasos Livaditis venne a casa mia a Nea Smyrni e ascoltò una parte di un concerto per pianoforte che avevo iniziato a scrivere. Gli piacque molto, mise le parole sulla musica ed è così che abbiamo scritto 'Mάνα μου και Παναγιά'\".\n\n\nPer inserirla in un disco, però, dovevamo scrivere un'altra canzone, da mettere sul retro, perché a quei tempi gli album avevano  solo due canzoni ciascuno. Mio fratello mi aveva suggerito di scrivere una canzone sugli eventi. A quel tempo, il governo voleva espellere i rifugiati dalle loro baracche a Drapetsona, senza dare loro alcun risarcimento. Per loro era una lotta per la sopravvivenza, una lotta per la vita o la morte, mentre i bulldozer arrivavano e demolivano le loro case.\n\n\nUn giorno, mentre guidavo verso 'Kolumbia' per ascoltare ''Mάνα μου και Παναγιά'', l'ispirazione per ''Drapetsona'' mi venne all'improvviso, davanti al Teatro Kaloutas. Mi fermai di colpo e scrissi la melodia. Quella stessa sera chiamai Livaditis, gli cantai la melodia al telefono e lui scrisse il testo. Fu così che le due canzoni vennero incise su un 45 giri\".\n\nNella prima esecuzione, Grigoris Bithikotsis canta mentre Manolis Chiotis suona il bouzouki."
+    },
     {
       "id": "s_1785658537834",
       "offsets": {},
@@ -489,13 +571,15 @@
       "yr": "1935",
       "ar": "Μάρκος Βαμβακάρης",
       "lb": "",
-      "gn": "Rembetiko",
+      "gn": "Rembetico",
       "ll": "",
       "li": "",
       "ch": "REm\nΜία φούντωση, μια φλόγα\n         LA#            LA\nπου' χω μέσα στην καρδιά\n        SOLm               REm\nλες και μάγια μου' χεις κάνει\n    LA    LA#     LA\nΦραγκοσυριανή γλυκιά\n         SOLm              REm\nλες και μάγια μου 'χεις κάνει\n       LA      REm LA REm\nΦραγκοσυριανή γλυκιά\n \nREm\nΘα 'ρθω να σε ανταμώσω\n         LA#       LA\nκάτω στην ακρογιαλιά\n     SOLm           REm\nΘα ήθελα να σε χορτάσω\n    LA    LA#     LA\nόλο χάδια και φιλιά\n     SOLm          REm\nΘα ήθελα να σε χορτάσω\n       LA      REm LA REm\nόλο χάδια και φιλιά\n \nREm\nΘα σε πάρω να γυρίσω\n   LA#        LA\nΦοίνικα, Παρακοπή\n     SOLm           REm\nΓαλησσά και Nτελαγκράτσια\n    LA    LA#     LA\nκαι ας μου 'ρθει συγκοπή\n      SOLm         REm\nΓαλησσά και Nτελαγκράτσια\n       LA      REm LA REm\nκαι ας μου 'ρθει συγκοπή\n \nREm\nΣτο Πατέλι, στο Nιχώρι\n   LA#        LA\nφίνα στην Αληθινή\n     SOLm           REm\nκαι στο Πισκοπιό ρομάντζα\n    LA    LA#     LA\nγλυκιά μου Φραγκοσυριανή\n      SOLm          REm\nκαι στο Πισκοπιό ρομάντζα\n       LA      REm LA REm\nγλυκιά μου Φραγκοσυριανή",
       "tr": "Franghosirianí\n\nMia fúndosi, mia flógha\npu 'cho mésa stin kardiá\nles ke mághia mu 'chis káni\nFranghosirianí ghlikía\n\nTha 'rtho na se andamóso\nkáto stin akroghialiá\nTha íthela na se chortáso\nólo chádia ke filiá\n\nTha se páro na ghiríso\nFínika, Parakopí\nGhalissá ke Delaghrátsia\nke as mu 'rthi singopí\n\nSto Patéli, sto Nichorí\nfína stin Alithiní\nke sto Piskopió romándza\nghlikía mu Franghosirianí",
       "ti": "Frangosirianì (La ragazza cattolica di Siro)\n\nUn fremito, una fiamma\nche ho dentro il cuore\ncome se mi avessi fatto una magia\ndolce Frangosirianì\ncome se mi avessi fatto una magia\ndolce Frangosirianì\n\nVerrò a incontrarti\ngiù sulla riva del mare\nvorrei saziarmi di te\ntutto carezze e baci\nvorrei saziarmi di te\ntutto carezze e baci\n\nTi porterò a girare\nFinikas, Parakopi\nGalissas e Delagratsia\ne che mi venga anche un colpo apoplettico\nGalissas e Delagratsia\ne che mi venga anche un colpo apoplettico\n\nA Pateli, a Nichori\npoi ad Alithinì\ne a Piskopió una romanza\ndolce mia Frangosirianì\ne a Piskopió una romanza\ndolce mia Frangosirianì",
-      "no": "Tutto il mondo di Siros mi amava moltissimo, perché anch'io ero siriano e i siriani (ndt o sirioti) ne erano orgogliosi. Ogni estate aspettavano con ansia che andassi a Siros a suonare e che tutta Siros facesse festa con me. Nel 1935 presi Batis, il mio fratellino, e il pianista Robertakis e andai a Siros per la prima volta, quasi vent'anni dopo aver lasciato l'isola. Suonai per la prima volta in un negozio sulla spiaggia, e si radunò tutto il mondo. Ogni sera il negozio era pieno di gente e io rimasi lì seduto per circa due mesi. Mentre suonavo e cantavo, tenevo sempre lo sguardo basso, era impossibile guardare le persone, ero perso. Ma mentre suonavo, alzai la testa per un attimo e vidi una bellissima ragazza. Aveva gli occhi neri. Non alzai mai più la testa, solo di notte pensavo a lei, pensavo a lei... Così presi una matita e scrissi a grandi linee:\n\nUn'infiammata, una fiammata\nHo nel mio cuore\nÈ come se tu mi avessi fatto un incantesimo.\nDolce franco-siriano...\nNon so nemmeno come si chiamasse, né lei sa che la canzone parla di lei. Quando sono tornato al Pireo, ho scritto Frangosiriani."
+      "no": "Tutto il mondo di Siros mi amava moltissimo, perché anch'io ero siriano e i siriani (ndt o sirioti) ne erano orgogliosi. Ogni estate aspettavano con ansia che andassi a Siros a suonare e che tutta Siros facesse festa con me. Nel 1935 presi Batis, il mio fratellino, e il pianista Robertakis e andai a Siros per la prima volta, quasi vent'anni dopo aver lasciato l'isola. Suonai per la prima volta in un negozio sulla spiaggia, e si radunò tutto il mondo. Ogni sera il negozio era pieno di gente e io rimasi lì seduto per circa due mesi. Mentre suonavo e cantavo, tenevo sempre lo sguardo basso, era impossibile guardare le persone, ero perso. Ma mentre suonavo, alzai la testa per un attimo e vidi una bellissima ragazza. Aveva gli occhi neri. Non alzai mai più la testa, solo di notte pensavo a lei, pensavo a lei... Così presi una matita e scrissi a grandi linee:\n\nUn'infiammata, una fiammata\nHo nel mio cuore\nÈ come se tu mi avessi fatto un incantesimo.\nDolce franco-siriano...\nNon so nemmeno come si chiamasse, né lei sa che la canzone parla di lei. Quando sono tornato al Pireo, ho scritto Frangosiriani.",
+      "dr": "",
+      "bal": ""
     },
     {
       "id": "s_1785384496173",
@@ -510,13 +594,15 @@
       "yr": "1938",
       "ar": "Μάρκος Βαμβακάρης",
       "lb": "ODEON GA 7150 (GO 3132)",
-      "gn": "Rembetiko",
+      "gn": "Rembetico",
       "ll": "https://www.youtube.com/watch?v=5b3Oi2TkWUQ",
       "li": "",
       "ch": "RE                                 LA            RE\nΈλα μάτια μου και φως μου, μη μου κάνεις τσαχπινιές\nRE                                 LA            RE\nΓια θυμήσου τα φιλάκια στις παλιές μας γειτονιές\n \nRE                        LA            RE\nΘα 'σαι πάντα φιλημένη, αχ μικρή καμωματού\nRE                              LA         RE\nΚαι με την καρδιά θλιμμένη, νόστιμη μαυροματού\n \nRE                                 LA            RE\nΜε γελάς και με παιδεύεις, αχ τσαχπίνα μου γλυκιά\nRE                                 LA            RE\nΦτάνει που σε καμαρώνω και μου φεύγει η απελπισιά\n \nRE                                LA          RE\nΈλα φως μου σαν σου λέγω, μη με κάνεις και πονώ\nRE                            LA         RE\nΚαι μη γίνεσ' η αιτία, μέρα-νύχτα να θρηνώ",
       "tr": "Nòstimi mavromatù\n\nÉla mátia mu ke fos mu, mi mu kánis tsachpiniés\nghia thimísu ta filáka stis paliés mas ghitoniés\n\nTha 'sai pánda filiméni, ach mikrí kamomató\nke me tin kardiá thliméni, nóstimi mavromató\n\nMe ghelás ke me pedhévis, ach tsachpína mu ghlikjá\nftáni pu se kamaróno ke mu févghi i apelpisía\n\nÉla fos mu san su légho, mi me kánis ke ponó\nke mi ghínes i aitía, méra-níchta na thrinó",
       "ti": "Deliziosa dagli occhi neri\n\nVieni luce mia, non farmi i capricci\nricorda i bacini nei nostri vecchi vicoli\n\nSarai sempre baciata, ah piccola maliziosa\ne col cuore addolorato, graziosa dagli occhi neri\n\nMi inganni e mi tormenti, ah mia dolce birichina\nmi basta ammirаrti e mi passa la disperazione\n\nVieni luce mia come ti dico, non farmi soffrire\ne non essere la causa che io pianga giorno e notte",
-      "no": ""
+      "no": "",
+      "dr": "",
+      "bal": ""
     },
     {
       "id": "s_1785316430109",
@@ -768,7 +854,7 @@
       "title": "Da una presa in giro bonaria a un grande successo",
       "tag": "storie di canzoni",
       "date": "2026-07-25",
-      "body": "Il testo di Kirà Ghiòrghena fu scritto da Pithagòras per prendere in giro la moglie del suo amico Ghiorgos Katsaròs Mirela perché lui era sempre lontano da casa. Era solito chiamarla e dirle per scherzo “Signora Ghiorghena dove sta andando il suo Ghiorgos? Ha indossato il suo abito buono, ha acceso il suo sigaro, è salito in macchina e se n’è andato”.Katsaròs aveva incontrato sua moglie Mirela quando lei aveva  17 anni ed era una ballerina di danza classica. Non appena si sposarono lasciò il suo il suo lavoro per dedicarsi alla famiglia. In quel periodo Katsaròs lavorava sette giorni su sette e stava lontano da casa per molte ore. Di giorno dormiva su un divano dello studio e di sera usciva alle 23 per andare a lavorare nei centri con il vestito buono e fumando un sigaro. Pithagòra era un stretto collaboratore e un buon amico di sua moglie e scrisse Il testo della canzone per farla sorridere.Il testo piacque tanto a Katsaròs che decise di musicarlo. Non appena la canzone fu pubblicata divenne un grande successo e venne cantata in cinque lingue. \nSiccome in Grecia in quel periodo il Ghiorgos più famoso era il dittatore Ghiorgos Papadòpulos, e visto che in quell’anno, 1968, Papadopulos aveva divorziato dalla moglie Niki Vasiliadis per sposare un ex funzionaria politica del servizio di sicurezza greco, il mondo associò la canzone al dittatore piuttosto che all’autore. \n\nNella scheda canzoni trovate il link per ascoltare la versione italiana, Prati verdi e fiori rossi, interpretata nel 1970 dal Quartetto Cetra",
+      "body": "Il testo di Kirà Ghiòrghena fu scritto da Pithagòras per prendere in giro la moglie del suo amico Ghiorgos Katsaròs Mirela perché lui era sempre lontano da casa. Era solito chiamarla e dirle per scherzo “Signora Ghiorghena dove sta andando il suo Ghiorgos? Ha indossato il suo abito buono, ha acceso il suo sigaro, è salito in macchina e se n’è andato”.Katsaròs aveva incontrato sua moglie Mirela quando lei aveva  17 anni ed era una ballerina di danza classica. Non appena si sposarono lasciò il suo il suo lavoro per dedicarsi alla famiglia. In quel periodo Katsaròs lavorava sette giorni su sette e stava lontano da casa per molte ore. Di giorno dormiva su un divano dello studio e di sera usciva alle 23 per andare a lavorare nei centri con il vestito buono e fumando un sigaro. Pithagòra era un stretto collaboratore e un buon amico di sua moglie e scrisse Il testo della canzone per farla sorridere.Il testo piacque tanto a Katsaròs che decise di musicarlo. Non appena la canzone fu pubblicata divenne un grande successo e venne cantata in cinque lingue. \nSiccome in Grecia in quel periodo il Ghiorgos più famoso era il dittatore Ghiorgos Papadòpulos, e visto che in quell’anno, 1968, Papadopulos aveva divorziato dalla moglie Niki Vasiliadis per sposare un ex funzionaria politica del servizio di sicurezza greco, il mondo associò la canzone al dittatore piuttosto che all’autore. \n\nNella scheda canzoni trovate il link per ascoltare la versione italiana, Prati verdi e fiori rossi, interpretata nel 1970 dal Quartetto Cetra.",
       "link": ""
     },
     {
@@ -1557,6 +1643,86 @@
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTidIxqdvu_coSkc3bI8Q33c39fJ8nGK4zcEl8RDYDj2Pke15RZVdq8LLCaO1sfQwxdOuAiV1Bvohc__K5el_Kt1j7A-wux8PWY6jTn9K3aw&s=10",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1785663971010",
+      "name": "Τάσος Λειβαδίτης",
+      "nameit": "Tàsos Livadìtis",
+      "born": "20 aprile 1922, Atene",
+      "died": "30 ottobre 1988, Atene",
+      "bio": "Nome completo Anastasios-Panteleimon Leivaditis, nato ad Atene la notte di Pasqua del 1922 nel quartiere di Metaxourgio, morto ad Atene nel 1988. Tra i più importanti poeti greci della prima generazione del dopoguerra.\n\nIl padre Lysandros era un commerciante di tessuti della media borghesia. Crebbe nel centro di Atene, a contatto con le forti contraddizioni della città — ricchi e poveri, oppressori e oppressi. Studiò legge ma la poesia fu la sua vera vocazione. Da giovanissimo si organizzò nella gioventù comunista dell'EAM per resistere all'occupazione.\n\nPagò carissime le sue idee: fu perseguitato ed esiliato a Mudros, a Makronissos e ad Ai Stratis — le isole-prigione del dopoguerra greco. In esilio scrisse alcune delle sue opere più importanti, i cui manoscritti la moglie trasportò clandestinamente ad Atene. Tornato libero nel 1951, le persecuzioni non si fermarono: la sua raccolta Fisáei sta stavrodrómiα tu kósmu fu sequestrata come \"predicazione sovversiva\".\n\nLa sua poesia è dominata da una straziante angoscia esistenziale che si manifesta in due fasi: prima come tenerezza e compassione nel quadro del realismo socialista ottimista, poi come ripiegamento interiore e ricerca del senso della vita nel passato, dopo la delusione delle speranze e il tradimento dell'artista come combattente per un mondo migliore.\n\nMolti suoi versi sono stati musicati da grandi compositori greci — Mikis Theodorakis (Vréchei sti ftochoghitoniá, Savvatóvrado, Drapetsóna), Manos Loizos, Stelios Vamvakaris, Mimis Plessas, Grigoris Bithikotsis e altri. Questa dimensione musicale ha dato alle sue poesie una diffusione popolarissima che va ben oltre i circoli letterari.",
+      "link": "",
+      "listen": "",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tasos_Leivaditis.jpg/250px-Tasos_Leivaditis.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1785664468163",
+      "name": "Γρηγόρης Μπιθικώτσης",
+      "nameit": "Grigòris Bithikòtsis",
+      "born": "11 dicembre 1922, Peristeri",
+      "died": "7 aprile 2005, Atene",
+      "bio": "Nel corso della sua carriera, collaborò con i più importanti compositori, poeti e parolieri greci, ottenendo un grande riconoscimento artistico e guadagnandosi il soprannome di \"O ser \". Fu il primo cantante greco a incidere poesie musicate.\n\nEra il figlio più giovane della povera famiglia di Ioannis e Tasia Bithikotsi. Christos era il primogenito, seguito da Kontilio, Giorgos, Kostas e infine Grigoris. Inizialmente lavorò come idraulico e suonava la chitarra . Durante la Rivoluzione di dicembre, si nascose in un pozzo nella sua casa a Peristeri, Atene, e in seguito si arruolò nell'esercito nel 1945 fino al 1947, dove partecipò all'orchestra Makronissos con lo scopo di intrattenere gli ufficiali. Come soldato addetto alla scorta dei prigionieri, in un trasferimento di militanti di sinistra nel 1948 incontrò Mikis Theodorakis con il quale collaborò.\n\nEntrò nella discografia nel 1949, all'età di 27 anni, come compositore con la canzone \"To kandili tremosveni\", con testo di Charalambos Vassiliadis. Compose più di 200 canzoni, molte delle quali divennero grandi successi, come \"Tou Votanikou o magas\" , \"Se tuto to steno\" , \"Episimi agapimeni\" , \"Trelokoritso\" , \"Stou Belami to ouzeri\" , \"Ena shtoki amaksi me dyo aloga\" e molte altre. La sua collaborazione con Mikis Theodorakis (che conobbe mentre Theodorakis era in esilio a Makronissos e Bithikotsis prestava servizio come soldato addetto ai trasporti) ma anche con Manos Hadjidakis \"diede vita\" a quelle che sono forse le sue canzoni migliori. Con la sua interpretazione di \" Epitaphios \" di Yannis Ritsos e musicato da Mikis Theodorakis, ha aperto nuove strade nel canto popolare . Particolarmente importante è stata la sua interpretazione della poesia \" To Axion Esti \" di Odysseas Elytis musicata da Mikis Theodorakis. Ha anche eseguito canzoni di Markos Vamvakaris , Vasilis Tsitsanis , Giorgos Mitsakis , Yannis Papaioannou e Akis Panos . Tra le sue collaborazioni sono da ricordare anche quelle con Stavros Xarchakos , Dimos Moutsis , Yannis Spanos e il suo duetto con Tasos Livaditis .\n\nNel gennaio del 2003 , il Presidente della Repubblica , Konstantinos Stefanopoulos , lo ha insignito della Croce d'Oro dell'Ordine della Fenice e della Medaglia d'Oro della Città di Atene . Inoltre, in suo onore si sono tenuti numerosi concerti.\n\nNel giugno del 1997, fu organizzato un concerto folk per celebrare i suoi 50 anni di contributo al canto popolare, mentre altrettanto importante è il concerto organizzato dal Ministero della Cultura l'11 marzo 2002 allo Stadio della Pace e dell'Amicizia , su iniziativa di George Dalaras e con la partecipazione di decine di importanti artisti.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbaY2r9FCM2wWI4ptfvo19QhpIESxzgAHwF7Dm74x8w&s=10",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1785665132740",
+      "name": "Στέλιος Καζαντζίδης",
+      "nameit": "Stèlios Kazantzìdis",
+      "born": "29 agosto 1931, Nea Ionia Attica",
+      "died": "14 settembre 2001, Atene",
+      "bio": "Cantante, compositore, paroliere e musicista. Una delle figure più emblematiche della musica greca del Novecento — la voce del laïká per eccellenza, cantore degli ultimi, degli emigranti, dei poveri.\n\nIl padre era originario del Ponto, la madre di Alanya in Asia Minore. Il padre, muratore e partigiano dell'ELAS, fu picchiato a morte dai paramilitari nel 1946, lasciando la famiglia in povertà. A 15 anni Stelios lavorava già come operaio, venditore ambulante e facchino in piazza Omonia per mantenere i fratelli. A 16 anni un datore di lavoro lo sentì cantare e gli regalò una chitarra.\n\n\nNel 1952 esordì discograficamente. Il disco Mantoubala / Dio portes echei i zoi vendette 100.000 copie quando in Grecia esistevano meno di 40.000 giradischi. Da solo rappresentava il 25-30% delle vendite totali della Columbia. Fu il primo cantante greco a rivendicare le royalties sulle vendite, aprendo la strada a tutti i colleghi.\n\nLa coppia con Marinella\n\nNel 1957 conobbe a Salonicco Marinella e formarono una coppia artistica leggendaria. I loro dischi ebbero un successo straordinario fin dalle prime registrazioni. Si separarono artisticamente nel 1966, con le ultime registrazioni insieme nel 1967.\n\nNel 1965, al culmine del successo e a soli 34 anni, abbandonò i locali notturni per protesta silenziosa contro le condizioni che vi regnava. Mantenne questa scelta per tutta la vita — l'unico contatto con il pubblico rimase attraverso i dischi. Nel 1967 la giunta militare impose una tassazione retroattiva di 7.800.000 dracme e censurò il 90% dei suoi brani.\n\n\nLa battaglia più lunga e logorante fu con la casa discografica Minos. Kazantzidis sosteneva che il contratto fosse triennale, la Minos che fosse a tempo indeterminato. Nel 1979-80 il paroliere Manolis Rasulis e il compositore Christos Nikolopoulos raccolsero firme per la sua liberazione. Una commissione composta da Manos Loizos, Christos Leontis, Lefteris Papadopoulos e altri visitò Kazantzidis a casa per trovare una soluzione: lui propose di consegnare due dischi gratuitamente alla Minos in cambio della liberazione dal contratto. La battaglia durò anni — dal 1976 al 1987 non poté incidere nulla, undici anni di silenzio discografico imposto.\n\n\nNel 1987 tornò con l'album O dromos tis epistrofis. Collaborò con Takis Soukos, Lefteris Chapsiadis, Thanasis Polykandrotis e molti altri. Frank Sinatra e il cantante turco Zeki Müren avevano elogiato pubblicamente la sua voce. Il Guardian gli dedicò un lungo profilo.\n\nRifiutò i funerali di Stato. Fu sepolto nel cimitero di Eleusi accanto ai genitori, come aveva desiderato — ma il funerale si trasformò in un pellegrinaggio popolare spontaneo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvi8-yVv_BSk6NNhxbLPTXvLhuvfEmv-LVobdx1fi3Q&s=10",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1785667954383",
+      "name": "Μίκης Θεοδωράκης",
+      "nameit": "Mìkis Theodoràkis",
+      "born": "29 luglio 1925, Chìos",
+      "died": "2 settembre 2021, Atene",
+      "bio": "Nato a Chio da padre cretese e madre microasiatica. Compositore, politico, scrittore — una delle personalità più importanti e discusse della Grecia moderna.\n\nTrascorse l'infanzia in varie città della provincia greca — Mitilene, Giannina, Cefalonia, Pirgo, Patrasso, soprattutto Tripoli. Studiò musica al Conservatorio di Atene con Philoktitis Ikonomidis. Durante l'Occupazione partecipò alla Resistenza e dopo i Dekemvriana cominciò a essere perseguitato.\n\n\nNel 1947 fu arrestato e mandato in esilio a Ikaria, poi a Makronissos — l'isola-prigione dove i prigionieri politici venivano torturati. Le persecuzioni non interruppero il suo lavoro creativo — compose anche durante l'esilio.\n\n\nDal 1954 al 1960 visse a Parigi dove approfondì la sua formazione musicale. Tornato in Grecia, compose la musica per Zorba the Greek (1964) di Michalis Cacoyannis — il suo più grande successo internazionale fino ad allora. Nello stesso anno la prima esecuzione dell'Axion Esti su testi di Odisseas Elitis.\n\n\nNel 1963, dopo l'assassinio del deputato dell'EDA Grigoris Lambrakis, fondò la Gioventù Democratica Lambrakis di cui fu eletto presidente. Nel 1964 fu eletto deputato dell'EDA (Unione Democratica di Sinistra) per il secondo collegio del Pireo, e fondò il Centro Culturale del Pireo.\n\n\nIl 21 aprile 1967, il giorno del golpe dei Colonnelli, passò alla clandestinità e lanciò il primo appello alla Resistenza. Nel maggio 1967 fondò il Fronte Patriottico di Resistenza (PAM). Fu arrestato, imprigionato e torturato. Personalità come Šostakovič, Arthur Miller, Laurence Olivier e Yves Montand formarono comitati per la sua liberazione. Fu liberato nell'aprile 1970 su richiesta del politico francese Jean-Jacques Servan-Schreiber e raggiunse Parigi.\n\n\nDopo la caduta della dittatura nel 1974, Theodorakis, libero da vincoli di partito, dichiarò che la soluzione di Konstantinos Karamanlis era l'unica in grado di garantire la transizione alla democrazia — una posizione che sconvolse la sinistra greca. Si candidò per la Seconda Circoscrizione del Pireo con la formazione della Sinistra Unita ma non fu eletto. La sua vicinanza a Karamanlis e alla Nuova Democrazia gli valse accuse di tradimento da parte di molti ex compagni.\n\nIn seguito fu ministro senza portafoglio nel governo Mitsotakis (1990-1992). Questa traiettoria politica — dalla Resistenza comunista al governo di destra — rimane la parte più dibattuta della sua vita.\n\n\nNel 2003 rilasciò dichiarazioni controverse sugli ebrei che suscitarono scandalo internazionale. Negli ultimi anni le sue posizioni su vari temi nazionalistici alimentarono nuove polemiche. Morì il 2 settembre 2021.\n\n\nComolitica — da sinistrapose in tutti i generi — opere, musica sinfonica, musica da camera, oratori, balletti, musica per teatro antico, per cinema, canzone popolare. Tra i collaboratori principali: Odysseas Elitis, Giannis Ritsos, Giorgos Seferis, Tasos Leivaditis per i testi. Tra gli interpreti: Grigoris Bithikotsis, Maria Farantouri, Antonis Kalogiannis, Marinella. La sua musica divenne colonna sonora della Resistenza greca e simbolo della lotta contro la dittatura in tutto il mondo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3rSwL-X9ggx2YfbZE_UM2vZH-gbGI3PVZTRNa_eYrQ&s=10",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1785677430559",
+      "name": "Μανώλης Χιώτης",
+      "nameit": "Manòlis Chiòtis",
+      "born": "21 marzo 1920 Salonicco",
+      "died": "21 marzo 1970, Atene",
+      "bio": "Nato il 21 marzo 1920 (o 1921) a Salonicco (secondo altri a Nauplia), da famiglia comunque proveniente da Nauplia, — esattamente nel giorno del suo compleanno. Compositore, uno dei più importanti della canzone popolare greca, e straordinario virtuoso del bouzouki.\n\nLe origini\n\nIl padre si chiamava Diamantis Chiotis, un varymángas nato al Pireo con origini da Leonidio in Arcadia. Da piccolo cominciò a studiare chitarra, bouzouki e in seguito oud con un insegnante di Salonicco. A 15 anni, quando la famiglia si trasferì a Nauplia, cominciò a lavorare professionalmente come musicista. Nel 1936 andò ad Atene dove si esibì per un breve periodo ai \"Pagonia\" e subito dopo al \"Dasos\", accanto al grande Stratos Pagioumtzis.\n\nInfluenzò la canzone popolare e la musica greca in generale inventando la variante tetracorde del bouzouki — il cosiddetto kitharobouzouko — che rispetto al tradizionale tricorde offriva maggiore velocità, flessibilità e un suono più vicino alla chitarra. La scelta fu controversa: i tradizionalisti lo criticarono aspramente, ma la nuova accordatura si diffuse e diventò dominante. La \"scuola di Chiotis\" fu abbracciata da compositori e virtuosi come Lemónopoulos, Zambetas, Zafiriou, Spóros, Tatassópoulos, Tzouanakos, Kaldaras, Mitsakis e altri.\n\n\nCreò anche il primo \"centro cosmopolita\" — un locale elegante che portò il bouzouki fuori dai quartieri popolari e lo introdusse nella borghesia ateniese, contribuendo alla trasformazione del laïká in musica di massa.\n\n\nTrascorse un lungo periodo negli Stati Uniti dove registrò per il mercato della diaspora greca, lasciando una discografia americana significativa e meno conosciuta.\n\nViene ricordato come il \"Beethoven del bouzouki\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalARJa77rsKeUC0zr-CEh92rvfvP-5kLT797rY0Q8vg&s=10",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
       ]
     }
   ]
