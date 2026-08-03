@@ -1069,7 +1069,7 @@ function renderPersona(){
     linkedH+='</div>';
   }
 
-  var photoH=p.photo?'<div style="flex-shrink:0"><img src="'+esc(p.photo)+'" alt="" style="width:110px;height:110px;object-fit:cover;border-radius:50%;border:3px solid var(--bor);display:block" onerror="hideImg(this)"></div>':'';
+  var photoH=p.photo?'<div style="flex-shrink:0"><img src="'+esc(p.photo)+'" alt="" style="width:110px;height:110px;object-fit:cover;object-position:center 20%;border-radius:50%;border:3px solid var(--bor);display:block" onerror="hideImg(this)"></div>':'';
   el('wrap-persona').innerHTML='<div class="p-card"><div class="p-hdr" style="display:flex;align-items:flex-start;gap:1rem">'+photoH+'<div style="flex:1"><div class="p-name">'+esc(p.name)+'</div>'+(p.nameit?'<div class="p-nameit">'+esc(p.nameit)+'</div>':'')+'<div class="p-roles">'+(p.roles||[]).map(function(r){return '<span class="rp '+(RC[r]||'')+'">'+esc(RL[r]||r)+'</span>';}).join('')+'</div></div></div><div class="p-body"><div class="p-mgrid">'+metaH+'</div>'+(p.bio?'<div class="p-bio">'+esc(p.bio)+'</div>':'')+linkedH+'</div></div>';
 }
 
