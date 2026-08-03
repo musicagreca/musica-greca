@@ -928,10 +928,18 @@ function renderTab(){
   } else if(songTab==='notes'){
     e.innerHTML=s.no?'<div class="notes-blk">'+esc(s.no)+'</div>':'<p style="color:var(--t3)">Nessuna nota.</p>';
   } else if(songTab==='exec'){
-    var ex=s.executions||[];
+    var ex=(s.executions||[]).slice().sort(function(a,b){
+      var ya=parseInt(a.year)||9999, yb=parseInt(b.year)||9999;
+      return ya-yb;
+    });
     e.innerHTML=ex.length?ex.map(function(x){
       var lnk=x.link?'<a class="lbtn" href="'+esc(x.link)+'" target="_blank" style="margin-left:auto">&#9654; Ascolta</a>':'';
-      return '<div style="padding:.4rem .6rem;background:var(--s2);border-radius:var(--rad);border:1px solid var(--bor);font-size:12px;margin-bottom:4px;display:flex;align-items:center;gap:8px"><div style="flex:1"><strong>'+esc(x.who)+'</strong>'+(x.year?' · '+x.year:'')+(x.note?' — '+esc(x.note):'')+'</div>'+lnk+'</div>';
+      var whoLink=x.who;
+      // Cerca persona in rubrica per nome o nameit
+      var pMatch=persons.filter(function(p){return p.name===x.who||p.nameit===x.who;})[0];
+      if(pMatch) whoLink='<span class="plnk" onclick="goPersona(\''+pMatch.id+'\')">'+esc(x.who)+'</span>';
+      else whoLink='<span class="plnk" onclick="goPersonaByName(\''+x.who.replace(/\'/g,"\\'")+'\')" >'+esc(x.who)+'</span>';
+      return '<div style="padding:.4rem .6rem;background:var(--s2);border-radius:var(--rad);border:1px solid var(--bor);font-size:12px;margin-bottom:4px;display:flex;align-items:center;gap:8px"><div style="flex:1"><strong>'+whoLink+'</strong>'+(x.year?' · '+x.year:'')+(x.note?' — '+esc(x.note):'')+'</div>'+lnk+'</div>';
     }).join(''):'<p style="color:var(--t3)">Nessuna versione.</p>';
   }
 }
