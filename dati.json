@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-03T08:29:32.788Z",
+  "exportedAt": "2026-08-03T12:18:49.907Z",
   "songs": [
+    {
+      "id": "s_1785756917839",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1954",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=h9x6YXqyNWI"
+        },
+        {
+          "who": "Οδυσσέας Μοσχονάς",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ZqIl_RJFZyQ"
+        },
+        {
+          "who": "Σωτηρία Μπέλλου",
+          "year": "1984",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=szf4QfeKoHg"
+        },
+        {
+          "who": "Γιώργος Νταλάρας",
+          "year": "1983",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=FSZC2SNlkm8"
+        }
+      ],
+      "date": "2026-08-03",
+      "tgr": "Πριν το χάραμα",
+      "tit": "Prin to chàrama",
+      "alias": "",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Γιάννης Παπαϊωάννου",
+      "yr": "1948",
+      "ar": "Οδυσσέας Μοσχονάς",
+      "lb": "",
+      "gn": "Rembetiko",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                    LA#    SOLm REm\nΠριν το χάραμα μονάχος εξεκίνησα\nLA#            LA            REm LA        REm\nΑχ, και στο πρώτο μας το στέκι την αυγούλα γύρισα   \nLA#            LA            REm LA        REm\nΑχ, και στο πρώτο μας το στέκι την αυγούλα γύρισα   \n\nREm                    LA#    SOLm REm\nΠριν ακόμα σβήσουν τ' άστρα εξεπόρτισα\nLA#            LA            REm LA        REm\nΑχ, να ξανάβρω τα δυο χείλη, που ποτέ δεν χόρτασα  \nLA#            LA            REm LA        REm\nΑχ, να ξανάβρω τα δυο χείλη, που ποτέ δεν χόρτασα  \n  \n\nREm                    LA#    SOLm REm\nΑν και άλλη μ' είχε μπλέξει με καμώματα\nLA#            LA            REm LA        REm\nΑχ, σ' αγαπώ κι ήρθα κοντά σου πριν τα ξημερώματα   \nLA#            LA            REm LA        REm\nΑχ, σ' αγαπώ κι ήρθα κοντά σου πριν τα ξημερώματα",
+      "tr": "Prin to chàrama\n\nPrin to chàrama monàchos eksekìnisa\nach, kie sto pròtò mas to stèki tin avgùla ghìrisa\n\nPrin akòma svìsun t'astra eksepòrtisa\nach na ksanàvro ta sio chili mu potè den chortasa\n\nAn kie ali m'ichie mbleksi me kanòmata\nach s'agapò ki irtha kontà su prin ta ksimeròmata",
+      "ti": "Prima dell' alba\n\nPrima dell' alba sono partito solo\ned al nostro primo luogo d'incontro mi sono girato verso l' aurora\n\nQualche altra m' aveva aggrovigliato con smancerie\nti amo e sono venuto da te prima del sorgere del sole\n\nPrima ancora che si spegnessero le stelle me ne andai di casa\nah se ritrovassi le tue labbra di cui mai mi saziai",
+      "no": ""
+    },
+    {
+      "id": "s_1785755253108",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-03",
+      "tgr": "Ωφ αμάν",
+      "tit": "Of aman",
+      "alias": "Πίνω και μεθώ",
+      "at": "Σπύρος Περιστέρης",
+      "am": "Σπύρος Περιστέρης",
+      "yr": "1934",
+      "ar": "Ζαχαρίας Κασιμάτης",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "Aptal Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=4vow0NaQKSE",
+      "li": "",
+      "ch": "SOL                                         LAm\nΠίνω και μεθώ, ωχ αμάν, μέρα-νύχτα τραγουδώ, ωχ αμάν\nSOL       RE    SOL\nΜέρα-νύχτα τραγουδώ\n        LAm                   MIm            RE     SOL\nΚαι το ντέρτι μου, ωχ αμάν, στο μπουζούκι μου ξεχνώ\n         LAm                   MIm          RE    MIm\nΚαι το ντέρτι μου, ωχ αμάν, στο μπουζούκι μου ξεχνώ\n \nSOL                                         LAm\nΓίνηκα μπεκρής, ωχ αμάν, μπελαλής και μερακλής, ωχ αμάν\nSOL       RE    SOL\nΜπελαλής και μερακλής\n        LAm                   MIm            RE     SOL\nΓιατί όλο λες, ωχ αμάν, κούκλα μου πως δε με θες  \n        LAm                   MIm            RE     MIm\nΓιατί όλο λες, ωχ αμάν, κούκλα μου πως δε με θες  \n \nSOL                                         LAm\nΤα ματάκια σου, ωχ αμάν, και τα κορδελάκια σου, ωχ αμάν\nSOL       RE    SOL\nΚαι τα κορδελάκια σου\n        LAm                   MIm            RE     SOL\nΜε τουμπάρανε, ωχ αμάν, πώς με κογιονάρανε   \n        LAm                   MIm            RE     MIm\nΜε τουμπάρανε, ωχ αμάν, πώς με κογιονάρανε \nSOL                                         LAm\nΠώς μου τα 'φερες, ωχ αμάν, και μου την κατάφερες, ωχ αμάν\nSOL       RE    SOL\nΚαι μου την κατάφερες\n        LAm                   MIm            RE     SOL\nΠώς μου το 'σκασες, ωχ αμάν, μ' ένα μάγκα το 'στριψες   \n        LAm                   MIm            RE      MIm\nΠώς μου το 'σκασες, ωχ αμάν, μ' ένα μάγκα το 'στριψες",
+      "tr": "Píno ke methó, och amán, méra-níchta tragudó, och amán\nMéra-níchta tragudó\nKe to dérti mu, och amán, sto buzúki mu xechnó\n\nGhínika bekrís, och amán, belalís ke merakhlís, och amán\nBelalís ke merakhlís\nGhiatí ólo les, och amán, kúkla mu pos de me thes\n\nTa matákia su, och amán, ke ta kordelákia su, och amán\nKe ta kordelákia su\nMe tubárane, och amán, pos me koyonárane\nOf amàn\n\nPos mu ta féres, och amán, ke mu tin katáferes, och amán\nKe mu tin katáferes\nPos mu to 'skases, och amán, m'éna mánga to 'strípses",
+      "ti": "Of aman\n\nBevo e mi ubriaco, ahimè, giorno e notte canto, ahimè\nGiorno e notte canto\nE la mia pena, la dimentico nel mio bouzouki\n\nSono diventato un ubriacone, ahimè, un attaccabrighe e uno spensierato, ahimè\nUn attaccabrighe e uno spensierato\nPerché continui a dire, bambola mia, che non mi vuoi\n\nI tuoi occhietti, ahimè, e i tuoi nastrini, ahimè\nE i tuoi nastrini\nMi hanno stregato, ahimè, come mi hanno preso in giro\n\nCome me l'hai fatta, ahimè, e ce l'hai fatta con me, ahimè\nE ce l'hai fatta con me\nCome sei scappata, ahimè, te la sei filata con un altro tipo\n\n\"ωχ αμάν\" — esclamazione tipica del rebetiko/laiko, senza vero significato letterale: esprime dolore, sospiro, rassegnazione. L'ho lasciata come \"ahimè\" ma è più un'interiezione musicale che una parola vera e propria.\n\"ντέρτι\" — parola turca (dert) entrata nel greco popolare: indica una pena d'amore profonda, un tormento del cuore. Ho tradotto \"pena\" ma il senso è più vicino a \"cruccio, tormento\".\n\"μπεκρής\" — ubriacone, ma con una sfumatura quasi affettuosa/scherzosa nel gergo popolare, non solo negativa.\n\"μερακλής\" — difficile da tradurre in una parola: indica chi fa le cose con passione, gusto, \"arte di vivere\" — ho scelto \"spensierato\" ma il senso vero è più \"chi ha meraki\" (passione/cura).\n\"με τουμπάρανε\" — letteralmente \"mi hanno ribaltato/fatto cadere\", nel senso di \"mi hanno stregato/conquistato\" — ho scelto \"mi hanno stregato\" per rendere meglio il senso.\n\"το 'στριψες\" — espressione idiomatica: \"sei scappata/sparita improvvisamente [con un altro]\".",
+      "no": ""
+    },
+    {
+      "id": "s_1785752581797",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλλα Χασκίλ",
+          "year": "1947",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=V_r0D_HMyV8"
+        },
+        {
+          "who": "Σωτηρία Μπέλλου",
+          "year": "1975",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=V8nj-rKnvwk"
+        }
+      ],
+      "date": "2026-08-03",
+      "tgr": "Νύχτωσε χωρίς φεγγάρι",
+      "tit": "Nichtose chorìs fengàri",
+      "alias": "",
+      "at": "Απόστολος Καλδάρας",
+      "am": "Απόστολος Καλδάρας",
+      "yr": "1947",
+      "ar": "Στέλλα Χασκίλ",
+      "lb": "",
+      "gn": "",
+      "dr": "χιτζάζ",
+      "bal": "Zeibekiko 9/4",
+      "ll": "https://www.youtube.com/watch?v=V_r0D_HMyV8",
+      "li": "",
+      "ch": "RE    DOm   RE#     RE        SOLm RE#  RE\nΝύχτωσε χωρίς φεγγάρι, το σκοτάδι είναι βαθύ\nSOLm           DOm  RE           DOm     RE# RE\nκι όμως ένα παλικάρι δεν μπορεί να κοιμηθεί  \nSOLm           DOm  RE           DOm     RE# RE\nκι όμως ένα παλικάρι δεν μπορεί να κοιμηθεί\n \nRE    DOm   RE#     RE        SOLm RE#  RE\nΆραγε τι περιμένει όλη νύχτα ως το πρωί\nSOLm           DOm  RE           DOm     RE# RE\nστο στενό το παραθύρι που φωτίζει με κερί  \nSOLm           DOm  RE           DOm     RE# RE\nστο στενό το παραθύρι που φωτίζει με κερί \n \nRE    DOm   RE#     RE        SOLm RE#  RE\nΠόρτα ανοίγει, πόρτα κλείνει με βαρύ αναστεναγμό\nSOLm           DOm  RE           DOm     RE# RE\nας μπορούσα να μαντέψω της καρδιάς του τον καημό  \nSOLm           DOm  RE           DOm     RE# RE\nας μπορούσα να μαντέψω της καρδιάς του τον καημό",
+      "tr": "Níchtose chorís fengári\n\nNíchtose chorís fengári, to skotádi íne vathí\nki ómos éna palikári den boréi na kimithí\n\nÁrage ti periménei óli níchta os to proí\nsto stenó to paráthiri pu fotízi me kerí \n\nPórta anígi, pórta klíni me varý anastenagmó\nas boroúsa na mantépso tis kardiás tou ton kaimó",
+      "ti": "È scesa la notte senza luna\n\nÈ scesa la notte senza luna, il buio è profondo\neppure un giovane non riesce a prendere sonno\n\nChissà cosa aspetta tutta la notte fino al mattino\nalla stretta finestra illuminata da una candela\n\nLa porta si apre, la porta si chiude con un pesante sospiro\nse solo potessi indovinare la pena del suo cuore",
+      "no": "Kaldaras scrisse la canzone pensando al suo amico musicista Christos Migos, che in quel periodo era detenuto nelle Nuove Carceri di via Kassandrou a Salonicco. Il testo originale parlava esplicitamente di un ragazzo in prigione — probabilmente un riferimento ai detenuti politici del carcere di Γεντί Κουλέ (Yedi Kule) a Salonicco. La censura dell'epoca non permise questi versi, così Kaldaras dovette modificarli in una versione \"d'amore\" più neutra.\n\nIl testo originale (prima della censura) era pressappoco così:\nΝύχτωσε και στο Γεντί, το σκοτάδι είναι βαθύ\nκι όμως ένα παλικάρι δεν μπορεί να κοιμηθεί\n\nΆραγε τι περιμένει, όλη νύχτα ως το πρωί\nστο στενό το παραθύρι, που φωτίζει το κελί\n\nΠόρτα ανοίγει, πόρτα κλείνει, μα διπλό είναι το κλειδί\nτι έχει κάνει και το ρίξαν το παιδί στη φυλακή\n\nSi è fatta notte anche a Yedi Kule, il buio è profondo\neppure un giovane non riesce a prendere sonno.\nChissà cosa aspetta, tutta la notte fino al mattino,\nalla stretta finestra che illumina la cella.\nLa porta si apre, la porta si chiude, ma la serratura è doppia,\ncosa avrà fatto il ragazzo, per averlo gettato in prigione.\nLa censura cambiò \"στο Γεντί\" (nel carcere di Yedi Kule) in \"χωρίς φεγγάρι\" (senza luna), \"που φωτίζει το κελί\" (che illumina la cella) in \"που φωτίζει με κερί\" (che illumina con una candela), e tolse il riferimento diretto alla prigione nell'ultimo verso — trasformando così una canzone sui prigionieri politici in un'apparente canzone d'amore."
+    },
     {
       "id": "s_1785741300582",
       "offsets": {},
@@ -1735,7 +1842,9 @@
       "link": "",
       "listen": "",
       "photo": "data:image/jpeg;base64,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",
-      "roles": []
+      "roles": [
+        "at"
+      ]
     },
     {
       "id": "p_1785654867325",
@@ -1924,11 +2033,13 @@
       "nameit": "Kòstas Makrìs",
       "born": "sconosciuto",
       "died": "sconosciuto",
-      "bio": "Nome: Κώστας Μακρής\nRuolo: Esecutore\nBio: Cantante greco attivo negli anni '30-'40. Interpretò diverse registrazioni di rembetiko e musica smirniota. \nConosciuto anche come Στρογγυλός (Il Tondo). Scarse le notizie biografiche.",
+      "bio": "Cantante greco attivo negli anni '30-'40. Interpretò diverse registrazioni di rembetiko e musica smirniota. \nConosciuto anche come Στρογγυλός (Il Tondo). Scarse le notizie biografiche.",
       "link": "",
       "listen": "",
       "photo": "",
-      "roles": []
+      "roles": [
+        "ar"
+      ]
     },
     {
       "id": "p_1785734164731",
@@ -2084,6 +2195,82 @@
       "photo": "data:image/jpeg;base64,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",
       "roles": [
         "at"
+      ]
+    },
+    {
+      "id": "p_1785753652288",
+      "name": "Σπύρος Περιστέρης",
+      "nameit": "Spìros Peristèris",
+      "born": "1900 Smirne",
+      "died": "15 marzo 1966 Atene",
+      "bio": "Nacque da padre greco e madre italiana. Imparò a suonare fin da giovane il mandolino e finì la scuola italiana quando la sua famiglia si stabilì a Costantinopoli nel 1915. Parlava correntemente italiano e tedesco.\nDopo la morte di Vasilios Sideris, nel 1918, tornò a Smirne e assunse, all'età di 18 anni, la responsabilità di Smirneica Estudiantina, che era diventata famosa in tutta Europa e divenne nota con il nome di \"Ta Politakia\". Questo titolo fu usato nei primi anni 1930, quando suonava nell'orchestra del transatlantico \"Alexander il Grande\", registrò alcuni pezzi strumentali negli Stati Uniti,con il nome d'arte di S. Georgiadis. La sua apparizione in discografia avviene nel 1927. \nSpiros Peristeris fu l'uomo che quasi costrinse Markos Vamvakaris a registrare la sua voce quando nel 1933 la prima registrazione bouzouki commerciale ebbe luogo su vinile. Essendo polistrumentista, suono in molte registrazioni di canzoni di Vamvakaris. Alcune canzoni trovate a suo nome (musica) e Minos Matsa (testo) sono composizioni di altri artisti principalmente di Markos Vamvakaris per problemi di registrazione dei diritti. Peristeris ha suonato in modo eccellente tutti gli strumenti a corda con tasti, pianoforte, fisarmonica e κοντραμπάσοcontrabbasso.\n\nSi sposò nel 1921 e ebbe due figli Argyris e Dimitris.",
+      "link": "",
+      "listen": "",
+      "photo": "https://i.ytimg.com/vi/p7YHhOM6dow/hqdefault.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1785754360425",
+      "name": "Ζαχαρίας Κασιμάτης",
+      "nameit": "Zacharìas Kasimòtis",
+      "born": "1896, Smirne",
+      "died": "18 aprile 1965, Atene",
+      "bio": "Grande cantante di rebetiko con una presenza piccola ma dinamica e caratteristica. Nel 1916 entra a far parte dei Politakia, suonando il mandolino e più tardi la chitarra. Durante il disastro dell'Asia Minore, viene catturato, ma riesce a raggiungere la Grecia nel 1923.\n Ha registrato tra il 1931 e il 1950 circa 50 canzoni, con la prima è la tradizionale \"Kalogeraki\" (disco Odeon GA 1586, Atene 1931). Ha cantato nella prima esibizione alcuni dei più bei rebetika, come \"Ο μάγκας του Βοτανικού\" (disco Parlophon B-21708 Atene 1934) e il \"Ωφ αμάν\" (disco Odeon GA 1701, Atene 1934) di Spiros Peristeris ecc. Come compositore ha collaborato con Spiros Peristeris nell’adattamento e nella presentazione nella discografia di molte canzoni tradizionali.",
+      "link": "",
+      "listen": "",
+      "photo": "https://kounadisomeka.aegean.gr/files/original/2d24957e7f74dd2579cf6ade498a43ea.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1785758377755",
+      "name": "Οδυσσέας Μοσχονάς",
+      "nameit": "Odissèas Moschonás",
+      "born": "25 settembre 1912, Samos",
+      "died": "23 novembre 1995, Atene",
+      "bio": "Nacque il martedì 25 settembre 1912 nel villaggio di Mitilinioi, a Samo. I suoi genitori, Alexandros Moschonás e Vasilikí Tritsiniótis, erano contadini. Da giovane entrò a far parte di varie compagnie musicali della zona, per poi trasferirsi ad Atene in età adulta per lavorare come musicista e cantante professionista. \n\nFu Ogdontákis ad apprezzarne il talento e a farlo entrare nella propria orchestra; fino alla fine dell'Occupazione collaborò con importanti cantanti, compositori e direttori d'orchestra, tra cui Papaioánnou, Chatzichrístos, Genítsaris e Kirómitis, interpretando amanédes, canti smirneici, isolani e popolari. Con la Liberazione della Grecia si aprì anche la strada della discografia, e collaborò con nomi di primo piano come Sotiría Béllou e Marika Nínou, oltre a Tsitsánis. \n\nConsiderato uno dei grandi esponenti della \"scuola samiota\" del rebetiko.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgiOugB_YrlHcg6tEIOCdLHmDzBrWdKZRA2IrqxgVAA&s=10",
+      "roles": []
+    },
+    {
+      "id": "p_1785758685023",
+      "name": "Χαράλαμπος Βασιλειάδης",
+      "nameit": "Charálampos Vasiliádis",
+      "born": "1907, Erénkiöy (odierna Çanakkale, Turchia — Troade, Asia Minore)",
+      "died": "16 maggio 1970, Nea Filadélfia, Atene",
+      "bio": "Charálampos Vasiliádis, detto \"Τσάντας\" (Tsántas)\n\nNato a Erénkiöy nella Troade nel 1907, a sette anni si trasferì ad Atene, dove studiò alla Scuola Leonteios. Fu traduttore professionista e poliglotta, con conoscenza di inglese, francese, italiano e tedesco; lavorò anche presso il Ministero della Marina. \n\nÈ considerato uno dei più importanti parolieri della canzone popolare greca: i suoi testi restano pietre miliari della tradizione musicale del paese, capaci di attraversare gli anni rimanendo unici e insuperati, per l'immediatezza, la semplicità, il caymós (la pena) amoroso e uno sguardo saggio e insieme allegro sulla vita.\n\nFu soprannominato \"Τσάντας\" (letteralmente \"la Borsa\") dai vecchi rebetes che lo conobbero in un locale, in particolare da Strátos Payoumtzís — che poi lo presentò a Yórgos Zabétas — perché portava sempre con sé una borsa piena di testi, che offriva ai compositori dell'epoca, a pagamento o gratuitamente. Zabétas lo chiamava \"padre\", e lui considerava Zabétas come un \"figlio\". \n\nScriveva ovunque: sui pacchetti di sigarette, sui tovaglioli di carta, ispirato da un gabbiano, un tramonto, una carrozza che vedeva scomparire nella pioggia. Secondo il paroliere Vírvos, prima del suo ingresso nel mondo discografico, gli unici parolieri professionisti del genere laiko erano proprio Vasiliádis ed Eftychía Papayannopoúlou. \n\nCompose circa 2.000 canzoni nel corso della sua carriera.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkELAToEN4v70RwOUEHizyBGQnlSSLGoh8UrOFqNNdfA&s",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1785759388744",
+      "name": "Γιάννης Παπαϊωάννου",
+      "nameit": "Iánnis Papaïoánnou",
+      "born": "18 gennaio 1913, Kíos (Gemlik), nella Bitinia dell'Asia Minore",
+      "died": "3 agosto 1972, Pérama",
+      "bio": "Soprannomi: \"Ψηλός\" (l'Alto), \"Πατσάς\" (Patsás), \"Μπάρμπα-Γιάννης\" (Barba-Yánnis), \"ο Άχραντος\" (l'Immacolato — appellativo dato da Stávros Xarchákos)\n\nA due anni rimase orfano di padre, e sei anni dopo visse la Catastrofe dell'Asia Minore. Con la madre e la nonna si stabilì dapprima a Samotracia, per poi trasferirsi ad Atene, nel quartiere dei Tzitzifiés, dove crebbe come \"profugo\" — un'esperienza che segnò profondamente la sua vena artistica. \n\nIniziò a dedicarsi professionalmente al canto dal 1933, e in due anni la sua prima canzone era già sulla bocca di tutti; venne pubblicata ufficialmente su disco nel 1937 — si trattava della celebre \"Φαληριώτισσα\" (Falirótissa), che divenne subito un successo e gli aprì le porte dei palchi musicali. Da quel momento, il ventenne ragazzo dei Tzitzifiés conobbe tutti i grandi rebetes dell'epoca e scrisse moltissime canzoni che lo consacrarono tra i principali compositori popolari greci. \n\nFu il primo compositore laiko greco a viaggiare in America, nel 1953, per cantare per i greci emigrati. Le sue canzoni sono caratterizzate da una fusione di kantáda, mpálos e sonorità dell'Asia Minore; è considerato il primo, nel rebetiko/laiko, ad aver usato in registrazione il cosiddetto \"primo-secondo\" (canto a due voci). Al ritorno rimase collaboratore stabile di Vasílis Tsitsánis. \n\n\nFu membro inseparabile della grande compagnia di Vamvakáris, Tsitsánis e degli altri rebetes dell'epoca. Anche se la sua produzione compositiva non fu enorme — circa 300 canzoni — la maggior parte di esse divennero amate e classiche, collocandolo giustamente tra i pionieri del laiko e del rebetiko. Per tutta la vita fu una persona modesta, onesta e sincera, sia come uomo che come artista, e aiutò molti artisti oggi affermati agli inizi della loro carriera. \n\nMorì tragicamente in un incidente stradale.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMzQQGy_wjWsN-5gXK8_LwHP4a_BYR0b-6ptaE1mtDcQ&s=10",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
       ]
     }
   ]
