@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-03T18:30:54.525Z",
+  "exportedAt": "2026-08-04T10:20:18.524Z",
   "songs": [
     {
       "id": "s_1785773155844",
@@ -790,7 +790,44 @@
     {
       "id": "s_1785483601115",
       "offsets": {},
-      "executions": [],
+      "executions": [
+        {
+          "who": "Beach Boys",
+          "year": "1963",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=rRlx3Ux37AA"
+        },
+        {
+          "who": "Τέτος Δημητριάδης",
+          "year": "1927",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=LW6qGy3RtwY"
+        },
+        {
+          "who": "Dick Dale & The Del Tones",
+          "year": "1963",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ZIU0RMV_II8"
+        },
+        {
+          "who": "Τέτος Δημητριάδης / Νίκος Ρουμπάνης",
+          "year": "1934",
+          "note": "",
+          "link": "https://archive.org/details/78_misirlou_tetos-demtriades-n-roubanis_gbia0277741a"
+        },
+        {
+          "who": "Harry James",
+          "year": "1942",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=E0M0S-WRYCs"
+        },
+        {
+          "who": "The Black Eyed Peas",
+          "year": "2006",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=SCa60Pia6zA"
+        }
+      ],
       "date": "2026-07-31",
       "tgr": "Μισιρλού",
       "tit": "Misirlù",
@@ -804,9 +841,11 @@
       "ll": "https://www.youtube.com/watch?v=JJfDG9WCZmo",
       "li": "",
       "ch": "MI                       FA  MI\nΜισιρλού μου, η γλυκιά σου η ματιά\n   MI                      FA  MI\nφλόγα μου 'χει ανάψει μες στην καρδιά\n          FA               MI\nαχ γιαχαμπίμπι, αχ γιαλελέλι, αχ\nFA               MI\nτα δυο σου χείλη στάζουνε μέλι, οϊμέ\n \nLAm   SOL        FA      MI\nΑχ, Μισιρλού, μαγική ξωτική ομορφιά\nFA                    MI\nτρέλα θα μου 'ρθει, δεν υποφέρω πια\nFA               MI\nαχ, θα σε κλέψω μέσ' απ' την Αραπιά\n \nMI                    FA  MI\nΜαυρομάτα Μισιρλού μου τρελή\nMI                       FA  MI\nη ζωή μου αλλάζει μ' ένα φιλί\nFA                MI\nαχ γιαχαμπίμπι, μ' ένα φιλάκι, αχ\nFA               MI\nαπ' το δικό σου το στοματάκι, οϊμέ",
-      "tr": "",
-      "ti": "",
-      "no": ""
+      "tr": "Misirlú\n\nMisirlú mu, i glikiá su i matiá\nflóga mu 'chi anápsi mes stin kardiá\nach ghiachambíbi, ach ghialelléli, ach\nta dio su chíli stázune méli, oimé\n\nAch, Misirlú, maghikí ksotikí omorfiá\ntréla tha mu 'rthi, den ipoféro pia\nach, tha se klépso mes' ap' tin Arapiá\n\nMavromáta Misirlú mu trelí\ni zoí mu allázi m'éna filí\nach ghiachambíbi, m'éna filáki, ach\nap' to dikó su to stomatáki, oimé",
+      "ti": "Misirlù \n\nMisirlù mia, il tuo dolce sguardo\nmi ha acceso una fiamma nel cuore\nah ya habibi, ah ya lelèli, ah\nle tue due labbra stillano miele, ohimè\n\nAh, Misirlù, bellezza magica ed esotica\nmi verrà da impazzire, non resisto più\nah, ti rapirò via dall'Arabia\n\nMisirlù mia dagli occhi neri, folle\nla mia vita cambia con un bacio\nah ya habibi, con un piccolo bacio, ah\ndalla tua piccola bocca, ohimè\n\nNote:\n\n\"Μισιρλού\" — dal turco \"Mısırlı\" (letteralmente \"donna d'Egitto\"): il nome/soprannome della donna amata, che ne indica l'origine egiziana/orientale.\n\"γιαχαμπίμπι\" — dall'arabo \"ya habibi\" (يا حبيبي), \"oh amore mio/tesoro mio\": esclamazione affettuosa comune nelle canzoni orientali e rebetiko.\n\"γιαλελέλι\" — vocalizzo/esclamazione tipica del canto orientale, senza un vero significato letterale (simile a \"ohilalà\"), usata per il colore melodico.\n\"Αραπιά\" — termine popolare greco per indicare genericamente il mondo arabo/l'Oriente (non necessariamente l'Egitto in senso stretto).\n\"οϊμέ\" — esclamazione di sospiro/pena d'amore, qui resa con \"ohimè\".",
+      "no": "",
+      "dr": "",
+      "bal": ""
     },
     {
       "id": "s_1785436254359",
@@ -1208,6 +1247,54 @@
       "alias": "",
       "dr": "",
       "bal": "chasapikos"
+    },
+    {
+      "id": "s_1785825417572",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιάννης Πάριος",
+          "year": "1984",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=zt9Zp8P7gVc"
+        },
+        {
+          "who": "Χάρις Αλεξίου",
+          "year": "2013",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=0QtOW6AuFsQ"
+        },
+        {
+          "who": "Άλκηστη Πρωτοψάλτη",
+          "year": "1991",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=3qv88lCbGew"
+        },
+        {
+          "who": "Αριστείδης Μόσχος",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=VWFqQsiG5v4"
+        }
+      ],
+      "date": "2026-08-04",
+      "tgr": "Σ' αγαπώ γιατί είσαι ωραία",
+      "tit": "S' aghapó ghiatí íse oréa",
+      "alias": "Σμυρνέικη Καντάδα",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "tradizionale",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "https://rivistaetnie.com/sagapo-giati-isai-orea-138233/",
+      "ch": "Lam       Mi7  Lam       Mi7  Lam\nΣ' αγαπώ, σ' αγαπώ γιατί είσαι ωραία\nMi              Lam\nσ' αγαπώ γιατί είσαι ωραία\nMi              Lam\nσ' αγαπώ γιατί είσαι συ\n\nLam       Mi7  Lam       Mi7  Lam\nΑγαπώ, αγαπώ κι όλο τον κόσμο\nMi              Lam\nαγαπώ κι όλο τον κόσμο\nMi              Lam\nγιατί ζεις και συ μαζί\n\nLam       Mi7  Lam       Mi7  Lam\nΤο παρά-, το παράθυρο κλεισμένο\nMi              Lam\nτο παράθυρο κλεισμένο\nMi              Lam\nτο παράθυρο κλειστό\n\nLam       Mi7  Lam       Mi7  Lam\nΆνοιξέ, άνοιξέ το ένα φύλλο\nMi              Lam\nάνοιξέ το ένα φύλλο\nMi              Lam\nτην εικόνα σου να δω\n\nLam       Mi7  Lam       Mi7  Lam\nΚι αν δεν θέ-, κι αν δεν θέλεις να μ' ανοίξεις\nMi              Lam\nκι αν δεν θέλεις να μ' ανοίξεις\nMi              Lam\nθα με βρουν στη γη νεκρό",
+      "tr": "S'aghapó ghiatí íse oréa\n\nS'aghapó, s'aghapó ghiatí íse oréa\ns'aghapó ghiatí íse oréa\ns'aghapó ghiatí íse si\n\nAghapó, aghapó ki ólo ton kósmo\naghapó ki ólo ton kósmo\nghiatí zis ke si mazí\n\nTo pará-, to paráthiro klisméno\nto paráthiro klisméno\nto paráthiro klistó\n\nÁnixé, ánixé to éna fíllo\nánixé to éna fíllo\ntin ikóna su na do\n\nKi an den thé-, ki an den thélis na m'anóxis\nki an den thélis na m'anóxis\ntha me vrun sti ghi nekró",
+      "ti": "Ti amo perché sei bella\nTi amo, ti amo perché sei bella\nti amo perché sei bella\nti amo perché sei tu\n\nAmo, amo anche tutto il mondo\namo anche tutto il mondo\nperché anche tu vivi in esso\n\nLa fine-, la finestra è chiusa\nla finestra è chiusa\nla finestra è serrata\n\nAprila, aprila di un'anta\naprila di un'anta\nche possa vedere la tua immagine\n\nE se non vuoi, e se non vuoi aprirmi\ne se non vuoi aprirmi\nmi troveranno morto a terra\n\nNote: \"το ένα φύλλο\" si riferisce a un'anta della finestra (le finestre greche tradizionali si aprono spesso a due ante).",
+      "no": "Canzone d'autore senza autore certo: generalmente considerata tradizionale, molto diffusa sia in Grecia che in Turchia e Asia Minore. Le attribuzioni trovate sono le piu' varie: chi la dice di origine ebraica, chi napoletana, chi armena (bella l'esecuzione del violinista armeno Samvel Yervinyan, dal titolo \"Mia Yerevan\"). Spesso viene attribuita ad Aristidis Moschos, suonatore di santur, che in un'intervista ha dichiarato di averla scritta per la moglie. Lo scrittore Crescenzio Sangiglio, non trovando registrazioni precedenti agli anni '50, la considera un amalgama di musica greca e occidentale del dopoguerra, un \"pseudo-rebetiko\" precursore dell'entechno.\n\nApprofondimento: \"Una canzone d'autore... senza autore\" - Rivista Etnie (link)."
     }
   ],
   "args": [
@@ -2463,6 +2550,93 @@
       "roles": [
         "at"
       ]
+    },
+    {
+      "id": "p_1785836343299_1",
+      "name": "Αριστείδης Μόσχος",
+      "nameit": "Aristìdis Mòschos",
+      "born": "1930,  Pentálofo di Etoloacarnania (secondo altre fonti direttamente ad Agrínio)",
+      "died": "8 novembre 2001, Atene",
+      "nat": "Greco",
+      "roles": [
+        "mu"
+      ],
+      "bio": "Virtuoso del santouri e musicista\n\nIl suo primo maestro fu Néstoras Bátsis; imparò rapidamente e iniziò a suonare nel locale del padre, che gestiva due locali ad Agrínio. Dopo la guerra lasciò Agrínio e si trasferì ad Atene, dove entrò al Lykeío ton Ellinídon (Liceo delle Donne Greche).\n\nOltre a essere un affermato virtuoso del santouri, fu anche il fondatore della \"Laïkó Scholeío Paradosiakís Mousikís\" (Scuola Popolare di Musica Tradizionale) — anche se, secondo la testimonianza di Aretí Ketimé, la scuola fu in realtà fondata in collaborazione con Dimítris Lágios, non da lui solo. Ebbe una lunga presenza nell'orchestra popolare e tradizionale greca e nella discografia, dedicando gran parte della sua carriera a portare il santouri in primo piano come strumento solista.\n\nÈ considerato uno dei santuristi più importanti della storia della musica greca. Il suo nome è legato anche alla canzone «Σ' αγαπώ γιατί είσαι ωραία», che pubblicò a proprio nome — pur essendo generalmente ritenuta una canzone tradizionale (kaντάδα) di origine più antica — dichiarando in un'intervista di averla scritta per la moglie.",
+      "link": "https://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%B5%CE%AF%CE%B4%CE%B7%CF%82_%CE%9C%CF%8C%CF%83%CF%87%CE%BF%CF%82",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh02QqIBs6nmeV_2tVqasIc6dzDRVR7fEXzcCYBaWhGw&s=10"
+    },
+    {
+      "id": "p_1785836343299_2",
+      "name": "Άλκηστις Πρωτοψάλτη",
+      "nameit": "Alkistis Protopsalti",
+      "born": "18 Οκτωβρίου 1954, Αλεξάνδρεια Αιγύπτου",
+      "died": "",
+      "nat": "Greco",
+      "roles": [
+        "ar"
+      ],
+      "bio": "Ελληνίδα τραγουδίστρια (πραγματικό όνομα Άλκηστις-Σεβαστή Αττικιουζέλογλου). Ξεκίνησε μετά από ακρόαση με τον Δήμο Μούτση, που της έδωσε το καλλιτεχνικό ψευδώνυμο Πρωτοψάλτη. Πρώτη εμφάνιση το 1975 στο Παλαί ντε Σπορ Θεσσαλονίκης. Συνεργάστηκε από το 1986 με τη Δήμητρα Γαλάνη.",
+      "link": "https://el.wikipedia.org/wiki/%CE%86%CE%BB%CE%BA%CE%B7%CF%83%CF%84%CE%B9%CF%82_%CE%A0%CF%81%CF%89%CF%84%CE%BF%CF%88%CE%AC%CE%BB%CF%84%CE%B7",
+      "listen": "",
+      "photo": ""
+    },
+    {
+      "id": "p_1785836343299_3",
+      "name": "Πατρινός",
+      "nameit": "Patrinos (Michalis/Dimitris, secondo le fonti)",
+      "born": "",
+      "died": "",
+      "nat": "Greco",
+      "roles": [
+        "at",
+        "ar"
+      ],
+      "bio": "Μουσικός, αρχηγός ρεμπέτικης κομπανίας που πρωτόπαιξε στην Αθήνα, γύρω στο 1927, το τραγούδι «Μισιρλού» (με τίτλο «Μουσουρλού»). Σμυρνιός μουσικός, ήρθε στην Ελλάδα με το κύμα προσφύγων της Μικρασιατικής Καταστροφής. Οι πηγές διαφωνούν για το μικρό του όνομα (Μιχάλης ή Δημήτρης) — πιθανώς ψευδώνυμο. Σύμφωνα με μία εκδοχή το πραγματικό του όνομα ήταν Κωνσταντίνος Καλογεράς από την Πάτρα, γνωστός στην Αμερική ως καραγκιοζοπαίχτης με το όνομα Mike Patrinos / Ντίνος Θεοδωρόπουλος.",
+      "link": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%83%CE%B9%CF%81%CE%BB%CE%BF%CF%8D",
+      "listen": "",
+      "photo": ""
+    },
+    {
+      "id": "p_1785836343299_4",
+      "name": "Τάκης Μπίνης",
+      "nameit": "Tàkis Binis",
+      "born": "22 novembre 1923, Salonicco",
+      "died": "21 dicembre 2005, Atene",
+      "nat": "Greco",
+      "roles": [
+        "ar"
+      ],
+      "bio": "Cantante, musicista (μπουζούκι) e compositore del rebetiko/laiko\n\nNato, a Salonicco, da genitori profughi giunti l'anno prima da Aivalí (Kydoniés), in Asia Minore.\n\n\nDurante la dittatura di Metaxás fu trattenuto in un campo di concentramento insieme ad altri ragazzi della sua età, per non essersi iscritto all'EON (Organizzazione Nazionale della Gioventù). Iniziò la carriera giovanissimo, come musicista di bouzouki e cantante, nel 1939 a Salonicco, esibendosi nei locali popolari della città (στου «Κέρκυρα», στου «Καφαντάρη», στου «Μακρή», nella zona di Vardári) — fu lì che conobbe Γιάννης Παπαϊωάννου e, poco dopo, Βασίλης Τσιτσάνης.\n\nNel 1944 scese al Pireo e nel 1946 salì ad Atene. Entrò ufficialmente in discografia nel 1948, con i brani di Μπάμπης Μπακάλης «Για στάσου Χάρε» e «Σάμπα τραγουδάνε τα μπουζούκια» — curiosamente, la sua carriera discografica iniziò proprio con una \"samba\". Da allora collaborò con tutti i più importanti creatori del genere popolare greco.Entro il 1956 aveva inciso oltre 120 canzoni.\n\nNel 1958 partì per l'America, dove rimase fino al 1983. Tornato definitivamente in Grecia, incise il disco-pietra miliare del rebetiko: «Ρεμπέτικο» di Σταύρος Ξαρχάκος e Νίκος Γκάτσος (dall'omonimo film di Κώστας Φέρρης), che gli regalò una nuova, importante fase di carriera. Canzoni come «Το δίχτυ», «Στου Θωμά» e «Της άμυνας τα παιδιά» sono rimaste nella storia della musica greca; è considerato uno dei pochi veri \"padri\" degli originali del genere.",
+      "link": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CE%BA%CE%B7%CF%82_%CE%9C%CF%80%CE%AF%CE%BD%CE%B7%CF%82",
+      "listen": "",
+      "photo": "https://kounadisomeka.aegean.gr/files/original/c834be701f7cee0231a4b19ba24ac092.jpg"
+    },
+    {
+      "id": "p_1785837931425",
+      "name": "Άλκηστις Πρωτοψάλτη",
+      "nameit": "Àlkistis Protopsàlti",
+      "born": "18 ottobre 1954, Alessandria Egitto",
+      "died": "",
+      "bio": "Alkistis Protopsalti (nome reale: Alcestis-Sevastittici [Aouzeloglou [2] (Alexandria, 18 ottobre 1954) è un cantante greco. Ha ricoperto il ruolo di vice ministro del Turismo della Grecia nel governo custode di Vasiliki Thanos dal 27 agosto al 23 settembre 2015.\nVero nome Àlkistis Sevastì Attikiuzèloglu.\n\nÈ nata il 18 ottobre 1954 ad Alessandria d'Egitto da una famiglia di espatriati greci. Suo padre era chirurgo. \nAll'inizio degli anni '60 la sua famiglia si trasferì ad Atene, a causa dei disordini politici e sociali in Egitto. \nDurante l'adolescenza si dedicò con impegno allo sport, in particolare all'atletica leggera. Anche se sembrava avviata verso una carriera sportiva, su suggerimento di amici partecipò a un provino con Dímos Moútsis, che ne riconobbe le doti vocali e le diede lo pseudonimo artistico \"Protopsálti\".\n\nNegli anni successivi collabora con musicisti e compositori, come Elias Andriopoulos, Dionysis Savvopoulos, Stavros Xarchakos e Giannis Spanos. \nHa poi collaborato, tra gli altri, con Giannis Spanos, Stamatis Spanoudakis, Ilias Andriopoulos e Goran Bregovic.. Le rappresentazioni presentate al Teatro Municipale del Pireo, diretto da Dimitris Papaioannou, sono state registrate e pubblicate nell'album dal vivo. Un totale di oltre 300 spettacoli hanno avuto luogo in Grecia e all'estero.\n\nNel 2004 ha cantato alla cerimonia di chiusura dei Giochi Olimpici estivi di Atene. \n\n\n\nHa ricoperto il ruolo di vice ministro del Turismo della Grecia nel governo custode di Vasiliki Thanos dal 27 agosto al 23 settembre 2015.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReOnh0gJRpbwEQUhs-Y7tLZ1kN_dCl0r7x2c3neC79Pw&s=10",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1785838785470",
+      "name": "Πατρινός",
+      "nameit": "Patrinòs",
+      "born": "",
+      "died": "",
+      "bio": "Patrinós  (Michalis o Dimitris, a seconda delle fonti)\n\nMusicista smirneico, capo-orchestra (μπουζούκι/violino), paroliere, giunto ad Atene con l'ondata di profughi della Catastrofe dell'Asia Minore (1922)\n\n\nFu proprio la sua compagnia rebetiko a far ascoltare per la prima volta ad Atene, attorno al 1927, il celebre brano «Μισιρλού» — un lento zeibékiko, inizialmente intitolato «Μουσουρλού» Nella prima esecuzione di Πατρινός, il nome della protagonista veniva pronunciato con la pesante inflessione smirneica, che rendeva la \"ι\" più aperta e \"strascicata\": da qui \"Μουσουρλού\" (Mousourlú) invece del successivo, più \"standardizzato\", \"Μισιρλού\" (Misirlú). Come accadeva per quasi tutte le prime canzoni rebetiko, il vero compositore rimase sconosciuto: la melodia fu forse preesistente nell'area dell'Impero Ottomano, oppure frutto di un lavoro collettivo della sua compagnia; l'unica cosa certa è che fu lui a scriverne il testo.\n\nSulla sua identità: le fonti sono discordanti  e incerte: c'è chi lo chiama Μιχάλης Πατρινός e chi Δημήτρης Πατρινός. Secondo una versione, il suo vero nome sarebbe stato Κωνσταντίνος Καλογεράς, originario di Patrasso (da cui il soprannome \"Πατρινός\" = \"quello di Patrasso\"), noto in America anche come Mike Patrinos e come famoso καραγκιοζοπαίχτης (burattinaio del teatro d'ombre Karagiozis), con lo pseudonimo \"Ντίνος Θεοδωρόπουλος\".",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": []
     }
   ]
 }
