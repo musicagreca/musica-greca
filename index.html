@@ -645,13 +645,14 @@ function renderElenchi(){
 var srchGenere=null;
 var srchDromos=null;
 var srchAlpha=null;
+function stripAccents(s){return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
 function renderElencoCanzoni(){
   var q=(el('srch-c')?el('srch-c').value.toLowerCase():'');
 
   // Lettere alfabetiche
   var grLetters=[], itLetters=[];
   songs.forEach(function(s){
-    var lg=(s.tgr||'?')[0].toUpperCase();
+    var lg=stripAccents((s.tgr||'?')[0]).toUpperCase();
     if(grLetters.indexOf(lg)<0) grLetters.push(lg);
     var li=(s.tit||'')[0];
     if(li){ li=li.toUpperCase(); if(itLetters.indexOf(li)<0) itLetters.push(li); }
@@ -684,7 +685,7 @@ function renderElencoCanzoni(){
     var matchG=!srchGenere||(s.gn||'')===srchGenere;
     var matchD=!srchDromos||(s.dr||'')===srchDromos;
     var matchA=!srchAlpha||(
-      (s.tgr||'')[0].toUpperCase()===srchAlpha||
+      stripAccents((s.tgr||'')[0]).toUpperCase()===srchAlpha||
       (s.tit||'')[0].toUpperCase()===srchAlpha
     );
     return matchQ&&matchG&&matchD&&matchA;
@@ -822,7 +823,7 @@ function renderElencoPersone(slug,role,selId){
   // Barra alfabetica sulle iniziali dei cognomi
   var letters=[];
   list.forEach(function(p){
-    var l=lastName(p.name||'?')[0].toUpperCase();
+    var l=stripAccents(lastName(p.name||'?')[0]).toUpperCase();
     if(letters.indexOf(l)<0) letters.push(l);
   });
   letters.sort(function(a,b){return a.localeCompare(b,'el');});
@@ -847,7 +848,7 @@ function renderElencoPersone(slug,role,selId){
   barH+='</div>';
 
   // Lista filtrata
-  var displayed=af?list.filter(function(p){return lastName(p.name||'?')[0].toUpperCase()===af;}):list;
+  var displayed=af?list.filter(function(p){return stripAccents(lastName(p.name||'?')[0]).toUpperCase()===af;}):list;
   var h='';
   for(var i=0;i<displayed.length;i++){
     var p=displayed[i];
