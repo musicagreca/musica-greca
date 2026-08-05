@@ -154,6 +154,16 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 .arg-card{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);padding:1rem;margin-bottom:.9rem}
 .arg-card-ttl{font-size:1rem;font-weight:700;margin-bottom:.5rem}
 .arg-card-body{font-size:13px;line-height:1.75;color:var(--t2);white-space:pre-wrap}
+.arg-card-body .arg-p{margin:0 0 10px 0;white-space:normal}
+.arg-card-body .arg-h2{font-size:15px;font-weight:700;color:var(--txt);margin:16px 0 8px 0}
+.arg-card-body .arg-h3{font-size:13px;font-weight:700;color:var(--txt);margin:12px 0 6px 0}
+.arg-link-btn{display:inline-flex;align-items:center;gap:4px;background:var(--abg);color:var(--acc);padding:2px 9px;border-radius:20px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap}
+.arg-link-btn:hover{background:var(--acc);color:#fff}
+.arg-link-ico{font-size:11px}
+.arg-table-wrap{overflow-x:auto;margin:10px 0}
+.arg-table{border-collapse:collapse;width:100%;font-size:12px}
+.arg-table th,.arg-table td{border:1px solid var(--bor);padding:6px 9px;text-align:left}
+.arg-table th{background:var(--s2);font-weight:700;color:var(--txt)}
 .tag{font-size:10px;padding:2px 6px;border-radius:10px;background:var(--s2);border:1px solid var(--bor);color:var(--t3)}
 
 /* MU NOTE */
@@ -456,6 +466,58 @@ function loadData() {
 
 /* ── UTILS ── */
 function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function formatArgBody(raw){
+  var text = String(raw||'');
+  var lines = text.split('\n');
+  var html = '';
+  var i = 0;
+  var inTable = false, tableRows = [];
+  function flushTable(){
+    if(!tableRows.length) return;
+    var rows = tableRows.filter(function(r){ return !/^\s*\|?\s*-{2,}/.test(r); });
+    html += '<div class="arg-table-wrap"><table class="arg-table">';
+    rows.forEach(function(r, idx){
+      var cells = r.replace(/^\||\|$/g,'').split('|').map(function(c){ return c.trim(); });
+      var tag = idx===0 ? 'th' : 'td';
+      html += '<tr>' + cells.map(function(c){ return '<'+tag+'>'+inlineFormat(c)+'</'+tag+'>'; }).join('') + '</tr>';
+    });
+    html += '</table></div>';
+    tableRows = [];
+    inTable = false;
+  }
+  function inlineFormat(s){
+    var out = esc(s);
+    out = out.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    out = out.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, function(m,label,url){
+      return '<a class="arg-link-btn" href="'+url+'" target="_blank" rel="noopener">'+esc(label)+' <span class="arg-link-ico">↗</span></a>';
+    });
+    out = out.replace(/(^|[\s(])(https?:\/\/[^\s)]+)/g, function(m,pre,url){
+      return pre+'<a class="arg-link-btn" href="'+url+'" target="_blank" rel="noopener">Apri <span class="arg-link-ico">↗</span></a>';
+    });
+    return out;
+  }
+  for(i=0;i<lines.length;i++){
+    var line = lines[i];
+    if(/^\s*\|.*\|\s*$/.test(line)){
+      inTable = true;
+      tableRows.push(line);
+      continue;
+    } else if(inTable){
+      flushTable();
+    }
+    if(/^###\s+/.test(line)){
+      html += '<h4 class="arg-h3">'+inlineFormat(line.replace(/^###\s+/,''))+'</h4>';
+    } else if(/^##\s+/.test(line)){
+      html += '<h3 class="arg-h2">'+inlineFormat(line.replace(/^##\s+/,''))+'</h3>';
+    } else if(/^\s*$/.test(line)){
+      html += '';
+    } else {
+      html += '<p class="arg-p">'+inlineFormat(line)+'</p>';
+    }
+  }
+  if(inTable) flushTable();
+  return html;
+}
 function el(id){ return document.getElementById(id); }
 
 function lastName(name){
@@ -1212,7 +1274,7 @@ function renderArgomento(){
     h+='</div>';
     if(isOpen){
       h+='<div style="padding:.75rem .85rem;background:var(--sur)">';
-      h+='<div class="arg-card-body">'+esc(a.body)+'</div>';
+      h+='<div class="arg-card-body">'+formatArgBody(a.body)+'</div>';
       if(a.link) h+='<div style="margin-top:.65rem"><a class="lbtn" href="'+esc(a.link)+'" target="_blank">&rarr; Leggi di pi&ugrave;</a></div>';
       h+='</div>';
     }
