@@ -1,7 +1,101 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-06T05:54:50.785Z",
+  "exportedAt": "2026-08-06T08:14:53.676Z",
   "songs": [
+    {
+      "id": "s_1786002188451",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κώστας Καρίπης",
+          "year": "1925",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Zjm6ziGMFII"
+        },
+        {
+          "who": "Αντώνης Νταλγκάς",
+          "year": "1928",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=UM8MqPPMRuc"
+        },
+        {
+          "who": "Κυρία Πιπίνα",
+          "year": "1927",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=gFuCaxRBLQg"
+        },
+        {
+          "who": "Slim Gaillard",
+          "year": "1946",
+          "note": "Tee say malee",
+          "link": "https://www.youtube.com/watch?v=3bhi8GWN3rQ"
+        }
+      ],
+      "date": "2026-08-06",
+      "tgr": "Τι σε μέλει εσένανε",
+      "tit": "Ti se mèli esènane",
+      "alias": "Κορδελιό",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "",
+      "ar": "Κώστας Καρίπης",
+      "lb": "",
+      "gn": "Παραδοσιακό Μικράς Ασίας",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                           SOLm\nΤι σε μέλει εσένανε από πού είμαι εγώ \nREm                           SOLm\nΤι σε μέλει εσένανε από πού είμαι εγώ\n    SOLm          SOL      REm    DO    REm\nΑπό το Καρατάσι, φως μου, ή απ' το Κορδελιό \n    SOLm          SOL      REm    DO    REm\nΑπό το Καρατάσι, φως μου, ή απ' το Κορδελιό \n\nFA         SOLm       REm   LAm  REm\nΤι σε μέλει εσένανε κι όλο με ρωτάς\nFA         SOLm       REm   LAm  REm\nαπό ποιο χωριό είμ' εγώ, αφού δε μ' αγαπάς\n\nREm                                SOLm\nΑπ' τον τόπο που είμ' εγώ ξέρουν ν' αγαπούν \nREm                                SOLm\nΑπ' τον τόπο που είμ' εγώ ξέρουν ν' αγαπούν \n    SOLm          SOL      REm    DO    REm\nΞέρουν τον καημό να κρύβουν, ξέρουν να γλεντούν \n    SOLm          SOL      REm    DO    REm\nΞέρουν τον καημό να κρύβουν, ξέρουν να γλεντούν\n\nFA         SOLm       REm   LAm  REm\nΤι σε μέλει εσένανε κι όλο με ρωτάς\nFA         SOLm       REm   LAm  REm\nαπό ποιο χωριό είμ' εγώ, αφού δε μ' αγαπάς\n\nREm                                SOLm\nΤι σε μέλει εσένανε κι όλο με ρωτάς \nREm                                SOLm\nΤι σε μέλει εσένανε κι όλο με ρωτάς\n    SOLm          SOL      REm    DO    REm\nαφού δε με λυπάσαι, φως μου, και με τυραννάς \n    SOLm          SOL      REm    DO    REm\nαφού δε με λυπάσαι, φως μου, και με τυραννάς \n\nFA         SOLm       REm   LAm  REm\nΤι σε μέλει εσένανε κι όλο με ρωτάς\nFA         SOLm       REm   LAm  REm\nαπό ποιο χωριό είμ' εγώ, αφού δε μ' αγαπάς\n\nREm                                SOLm\nΑπ' τη Σμύρνη έρχομαι, να βρω παρηγοριά \nREm                                SOLm\nΑπ' τη Σμύρνη έρχομαι, να βρω παρηγοριά\n    SOLm          SOL      REm    DO    REm\nνα βρω μες στην Αθήνα μας αγάπη κι αγκαλιά \n    SOLm          SOL      REm    DO    REm\nνα βρω μες στην Αθήνα μας αγάπη κι αγκαλιά \n\nFA         SOLm       REm   LAm  REm\nΤι σε μέλει εσένανε κι όλο με ρωτάς\nFA         SOLm       REm   LAm  REm\nαπό ποιο χωριό είμ' εγώ, αφού δε μ' αγαπάς",
+      "tr": "Ti se méli esénane\n\nTi se méli esénane apó pu íme eghó\nApó to Karatási, fos mu, í ap' to Kordhelió\n\nTi se méli esénane ki ólo me rotás\napó pio chorió ím' eghó, afú de m'aghapás\n\nAp' ton tópo pu ím' eghó kséru n'aghapún\nKséru ton kaïmó na krívun, kséru na ghlendún\n\nTi se méli esénane ki ólo me rotás\nafú de me lipáse, fos mu, ke me tirannás\n\nAp' ti Smírni érchome, na vro parighoriá\nna vro mes stin Athína mas aghápi ki angaliá",
+      "ti": "Cosa te ne importa\n\nCosa te ne importa da dove vengo io\nda Karatási, luce mia, o da Kordelió\n\nCosa te ne importa e continui a chiedermi\nda quale paese vengo, visto che non mi ami\n\nNel posto da cui vengo sanno amare\nsanno nascondere il dolore, sanno far festa\n\nCosa te ne importa e continui a chiedermi\nvisto che non hai pietà di me, luce mia, e mi tormenti\n\nVengo da Smirne, per trovare consolazione\nper trovare ad Atene amore e un abbraccio\n\nNote alla traduzione\n\n\"Καρατάσι\" e \"Κορδελιό\" — storici quartieri/sobborghi di Smirne (oggi İzmir, Turchia), abitati prevalentemente da greci prima della Catastrofe del 1922: citarli invece del nome generico \"Smirne\" rafforza il legame diretto e nostalgico con la propria origine specifica.\nIl tema centrale è quello dell'identità del profugo dell'Asia Minore: la provenienza esatta (da quale quartiere/villaggio) è un dettaglio carico di significato e orgoglio, nonostante la persona amata lo tratti con indifferenza.",
+      "no": "Vale la pena di ascoltare la versione Jazz/blues di Slim Gaillard"
+    },
+    {
+      "id": "s_1785998484418",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-06",
+      "tgr": "Τα λιμάνια",
+      "tit": "Ta limània",
+      "alias": "Το πλοίο θα σαλπάρει",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "24 Ιουλίου 1962",
+      "ar": "Πόλυ Πάνου",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=OfbHLe5Ecgg",
+      "li": "",
+      "ch": "REm                              LA\nΤο πλοίο θα σαλπάρει για λιμάνια ξένα\n LA            REm\nγια λιμάνια ξένα\nREm                              LA\nΜαζί του θα σε πάρει αγάπη μου και σένα\n LA            REm\nμακριά από μένα\n\nLAm\nΤην καρδιά μου ο πόνος την πληγώνει\nLAm\nκαι στο κλάμα βραδιάζει, ξημερώνει\n\nSOLm\nΦεύγεις αγάπη μου, φεύγεις χαρά μου\nREm\nπαρ' τις ελπίδες μου, τα όνειρά μου\nLA                       REm               MI\nΓρήγορα να 'ρθεις πάλι κοντά μου, ω, ω, ω, ω\nREm                              LA\nΤο πλοίο θα σαλπάρει για λιμάνια ξένα\n LA            REm\nγια λιμάνια ξένα\n\nREm                              LA\nΤο πλοίο θα σαλπάρει για λιμάνια ξένα\n LA            REm\nγια λιμάνια ξένα\nREm                              LA\nΜαζί του θα σε πάρει αγάπη μου και σένα\n LA            REm\nμακριά από μένα\n\nLAm\nΚάθε ώρα για μένα θα 'ναι χρόνος\nLAm\nθα με τρώει της ξενιτιάς ο πόνος\n\nSOLm\nΦεύγεις αγάπη μου, φεύγεις χαρά μου\nREm\nπαρ' τις ελπίδες μου, τα όνειρά μου\nLA                       REm               MI\nΓρήγορα να 'ρθεις πάλι κοντά μου, ω, ω, ω, ω\nREm                              LA\nΤο πλοίο θα σαλπάρει για λιμάνια ξένα\n LA            REm\nγια λιμάνια ξένα",
+      "tr": "Ta limània\n\nTo plío tha salpári ghia limánia kséna\nghia l limánia kséna\nMazí tu tha se pári aghápi mu ke séna\nmakriá apó ména\n\nTin kardhiá mu o pónos tin pligóni\nke sto kláma vradhiázi, ksimeróni\n\nFévghis agápi mu, févghis chará mu\npar' tis elpídes mu, ta ónirá mu\nGrígora na 'rthis páli kondá mu, o, o, o, o\nTo plío tha salpári ghia limánia kséna\nghia limánia kséna\n\nKáthe óra ghia ména tha 'ne chrónos\ntha me tróï tis ksenitiás o pónos",
+      "ti": "I porti\n\nLa nave salperà per porti stranieri\nper porti stranieri\nCon sé porterà via anche te, amore mio\nlontano da me\n\nIl dolore mi ferisce il cuore\ne tra il pianto fa sera, fa giorno\n\nTe ne vai amore mio, te ne vai gioia mia\nportando via le mie speranze, i miei sogni\nTorna presto vicino a me, oh, oh, oh, oh\nLa nave salperà per porti stranieri\nper porti stranieri\n\nOgni ora per me sarà come un anno\nmi consumerà il dolore dell'esilio\n\nNote alla traduzione\n\n\"ξενιτιά\" — parola chiave della cultura greca popolare: indica la condizione dell'emigrazione, del vivere lontano dalla patria; un tema ricorrente e sentito profondamente nelle canzoni greche di ogni epoca.\n\"και στο κλάμα βραδιάζει, ξημερώνει\" — immagine poetica: il tempo passa (fa sera, fa giorno) scandito unicamente dal pianto, per esprimere una sofferenza continua e senza tregua.",
+      "no": ""
+    },
+    {
+      "id": "s_1785996940385",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-06",
+      "tgr": "Χίλια μύρια κύματα",
+      "tit": "Chília miria kìmata",
+      "alias": "",
+      "at": "Κ. Χ. Μύρης",
+      "am": "Γιάννης Μαρκόπουλος",
+      "yr": "1972",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=wZtaTl2bjfc",
+      "li": "",
+      "ch": "LAm          SOL     LAm         MIm\nΧίλια μύρια κύματα, μακριά τ' Αιβαλί\nLAm          SOL                LAm\nΧίλια μύρια κύματα, μακριά τ' Αιβαλί\n\nLAm                SOL           LAm\nΜέρες της αρμύρας ο ήλιος πάντα εκεί, πάντα εκεί\n      FA                           DO\nΜε τα μακεδονίτικα πουλιά και τ' αρμενάκια\n        FA           SOL             MIm\nΠου λοξοδρόμισαν και χάσανε τη Μπαρμπαριά\nLAm    SOL  LAm\nΠότε παραμονεύοντας τον πόρφυρα το μαύρο ψάρι\nREm      LAm       REm         LAm        MIm\nέρχεται φεύγει μικραίνουν οι κύκλοι του -ου -ου\n\nLAm          SOL     LAm         MIm\nΧίλια μύρια κύματα, μακριά τ' Αιβαλί\nLAm          SOL                LAm\nΧίλια μύρια κύματα, μακριά τ' Αιβαλί\n\n\nLAm                SOL           LAm\nΜεγάλωσαν τα γένια μας η ψυχή μας αλλιώτεψε\n    FA            SOL                 DO\nαγριεμένο το σκυλί γαβγίζει τη φωνή του\n SOL          DO           FA       MIm\nβοήθα καλέ μου μην φαγωθούμε μεταξύ μας\n\nLAm          SOL     LAm         MIm\nΧίλια μύρια κύματα, μακριά τ' Αιβαλί\nLAm          SOL                LAm\nΧίλια μύρια κύματα, μακριά τ' Αιβαλί\n\nDO                SOL                    DO\nΏρες - ώρες μερεύουμαι με τη χορδή της λύρας\nDO                SOL             DO\nδεμένος πισθάγκωνα στο μεσιανό κατάρτι\nLAm                       SOL                MIm\nο Χιώτης ο τυφλός τραγουδιστής, βραχνός προφήτης\nLAm                   SOL           MIm   LAm _ SOL MIm\nμασώντας τη μαστίχα του παινεύει την Ελένη\nLAm _ SOL MIm\nLAm           SOL                     LAm\nμασώντας τη μαστίχα του παινεύει την Ελένη\nLAm              SOL                 LAm\nκι άλλοτε τη Τζαβέλαινα τραβάει στο χορό\nSOL LAm\nστο χορό\n\nLAm          SOL     LAm         MIm\nΧίλια μύρια κύματα, μακριά τ' Αιβαλί\nLAm          SOL                LAm\nΧίλια μύρια κύματα, μακριά τ' Αιβαλί",
+      "tr": "Chília miria kìmata\n\nChília miria kìmata, makriá t'Aivalí\nChília miria kìmata, makriá t'Aivalí\n\nMéres tis armýras o ílios pánda ekí, pánda ekí\nMe ta makedhonítika pulyá ke t'armenákia\nPu loksodhrómisan ke chásane ti Barbariá\nPóte paramonévondas ton pórfira to mávro psári\nÉrchete févghi mikrénun i kikli tu -u -u\n\nMeghálosan ta ghiénia mas i psichí mas alliótepse\nagriemméno to skilí gavgízi ti foní tu\nvoítha kalé mu min faghothúme metaksí mas\n\nÓres-óres merévume me ti chordí tis lýras\nheménos pisthángona sto mesianó katárti\no Chiótis o tiflós tragudhistís, vrachnós profítis\nmasóndas ti mastícha tu penévi tin Eléni\nmasóndas ti mastícha tu penévi tin Eléni\nki állote ti Tzavélena travái sto choró\nsto choró",
+      "ti": "Mille e mille onde\n\nMille e mille onde, lontano da Aivalí\nmille e mille onde, lontano da Aivalí\n\nGiorni di salsedine, il sole sempre lì, sempre lì\ncon gli uccelli macedoni e le piccole navi\nche presero una rotta sbagliata e persero la Barbaria\nmentre a volte si aggira il pesce nero color porpora\narriva, se ne va, si rimpiccioliscono i suoi cerchi -oh -oh\n\nCi sono cresciute le barbe, la nostra anima è cambiata\nil cane inferocito abbaia la sua voce\naiutaci, amico mio, che non ci divoriamo a vicenda\n\nA volte mi calmo con la corda della lira\nlegato con le mani dietro la schiena all'albero maestro\nil cieco Chiota, cantore, profeta roco\nmasticando il suo mastice loda Elena\nmasticando il suo mastice loda Elena\ne altre volte trascina nella danza la Tzavelena\nnella danza\n\nNote alla traduzione\n\n\"Αιβαλί\" — Aivalí (oggi Ayvalık, Turchia), storica città greca dell'Asia Minore, patria di profughi e rebetes.\n\"Μπαρμπαριά\" — la Barberia, antico nome europeo per le coste nordafricane; qui probabilmente riferimento simbolico/geografico a rotte marinare perdute.\n\"δεμένος πισθάγκωνα στο μεσιανό κατάρτι\" — immagine che richiama il mito di Ulisse legato all'albero della nave per resistere al canto delle Sirene.\n\"ο Χιώτης ο τυφλός τραγουδιστής\" — allude a Omero, tradizionalmente cieco e originario di Chio, \"profeta\" e cantore per eccellenza della Grecia antica.\n\"παινεύει την Ελένη\" / \"τη Τζαβέλαινα\" — accosta Elena di Troia (mito classico) a Moscho Tzavella, eroina della guerra d'indipendenza greca: il canto epico che unisce mito antico e storia moderna.",
+      "no": ""
+    },
     {
       "id": "s_1785924974876",
       "offsets": {},
@@ -2971,6 +3065,62 @@
         "am",
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1785997228713",
+      "name": "Γιάννης Μαρκόπουλος",
+      "nameit": "Ghiànnis Markòpulos",
+      "born": "18 marzo 1939, Iraklio Creta",
+      "died": "10 giugno 2023, Atene",
+      "bio": "Compositore, uno dei più importanti musicisti greci contemporanei\n\nFiglio di Ghiórgos Markópoulos (ex prefetto del Lassithi) e di Iríni Aerakí, originaria di Sfakiá. Trascorse l'infanzia a Ierápetra, città d'origine del padre, dove al conservatorio locale ricevette le prime lezioni di teoria musicale e violino. Le sue prime influenze vennero dalla musica cretese, con le sue danze veloci e i piccoli motivi ripetuti, oltre che dalla musica classica.\n\nNel 1956 proseguì gli studi musicali al Conservatorio di Atene. La sua prima opera compositiva furono le musiche per il film «Μικρές Αφροδίτες» (Piccole Afroditi) di Níkos Koúndouros, premiate nel 1963 al Festival del Cinema di Salonicco. Fu proprio Koúndouros a presentarlo agli ambienti artistici dell'epoca — Chatzidákis, Theodorákis, Leontís, Loïzos. Scrisse in seguito le musiche per i balletti «Θησέας» (Teseo), «Χιροσίμα» (Hiroshima) e «Τρία σκίτσα για χορό».\n\nNel 1967 la perdita della libertà nazionale sotto la Giunta dei Colonnelli lo portò a Londra, in esilio.\n\nIl suo repertorio, in oltre 60 anni di carriera, spazia dalla canzone d'autore (éntechno) e popolare (laiko) alla musica sinfonica, fino a colonne sonore per cinema, teatro e persino l'opera. Molte sue canzoni popolari, interpretate da artisti come Yánnis Poulópoulos, Víky Moscholioú e Stélios Kazantzídis, sono rimaste amatissime e hanno superato la prova del tempo — spesso senza che il grande pubblico sapesse che fossero sue composizioni. Musicò importanti poeti greci, tra cui Odysséas Elýtis e Yórgos Séferis (opere come «Ο Στράτης ο Θαλασσινός ανάμεσα στους αγάπανθους» del 1973, e «Ο Ταρζάν»). Commentò anche, attraverso la sua arte, la tragedia dell'invasione turca di Cipro.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJovHLhyLzQILky3cW95m-2Y1uXWlCl9fGLZ8JFIWQA&s=10",
+      "roles": [
+        "am"
+      ]
+    },
+    {
+      "id": "p_1785997481534",
+      "name": "Κ. Χ. Μύρης",
+      "nameit": "K.C. Mìrlis",
+      "born": "17 settembre 1937, Lamia",
+      "died": "6 dicembre 2024, Atene",
+      "bio": "Κ. Χ. Μύρης\npseudonimo di Κώστας Γεωργουσόπουλος, paroliere/poeta (sotto pseudonimo), critico teatrale, filologo e traduttore (con il vero nome)\n\nStudiò alla Facoltà di Lettere dell'Università di Atene (Dipartimento di Storia e Archeologia) e teatro alla Scuola Drammatica dell'Odeion di Atene, con Dimítris Rondíris e Yánnis Sidéris come maestri. Lavorò nell'istruzione pubblica e privata per 35 anni, dal 1964 al 1999. Nel 1971 iniziò la carriera di critico teatrale, attività che portò avanti per decenni come uno dei più autorevoli e influenti del suo tempo, curando a lungo la rubrica di critica teatrale del giornale \"Τα Νέα\".\n\nCon lo pseudonimo Κ. Χ. Μύρης pubblicò la raccolta poetica «Αμήχανον Τέχνημα» (1971 e 1980, insieme a «Παράβαση»), i racconti «Καμπάνα και Οδάξ» (1985), e una raccolta di testi per canzoni musicati da compositori noti — tra cui «Χίλια μύρια κύματα», «Χρονικό», «Ιθαγένεια», «Η μεγάλη αγρυπνία», «Ανεξάρτητα Τραγούδια» e «Μεταφυσική Τοπολογία». Con lo stesso pseudonimo firmò anche il suo importante lavoro di traduzione del teatro greco antico (Eschilo: Supplici, Orestea, Prometeo incatenato, Sette contro Tebe, e altri).\n\nCon il suo vero nome scrisse anche importanti opere di saggistica teatrale, tra cui «Παγκόσμιο θέατρο» in tre volumi (1998-2000), vincitore del Premio Ouránis dell'Accademia di Atene.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9tzrx0UDbVRn9aM3eYUZMPY8HOz0b4YpnHncSQEJRRg&s=10",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1785998756681",
+      "name": "Πόλυ Πάνου",
+      "nameit": "Pòli Pànu",
+      "born": "28 ottobre 1940, Atene",
+      "died": "27 settembre 2013, Atene",
+      "bio": "Pseudonimo di Πολυτίμη Κολιοπάνου, cantante laiko, tra le voci più importanti del genere, specializzata anche nel rebetiko\n\n\n\nCrebbe a Patrasso. Il legame con la canzone popolare iniziò fin da bambina: ancora alunna delle elementari, marinava la scuola per andare a Psilalónia, a Patrasso, ad ascoltare le nuove canzoni dell'epoca. Di nascosto dai genitori, partecipò a un concorso per giovani talenti cittadino cantando «Μητέρα» di Fótis Polymerís, vincendo il primo premio.\n\nFu proprio un barbiere di quartiere a fare da tramite con il destino: Grigóris Bithikótsis, allora giovane e non ancora affermato, era a Patrasso per delle esibizioni e cercava disperatamente una nuova cantante per il suo gruppo, dopo che quella precedente li aveva abbandonati. Il barbiere gli parlò della piccola Polytími e del suo \"usignolo\" (soprannome che le diede lo stesso Bithikótsis per la sua voce). Bithikótsis andò a sentirla cantare i brani \"pesanti\" di Tzouanákos e quelli orientaleggianti di Polymerís, e la volle subito con sé — diventandone così il \"padrino\" artistico, dandole il nome d'arte Πόλυ Πάνου.\n\nEntrò in discografia nel 1952 con «Πήρα τη στράτα την κακιά», scritta dallo stesso Bithikótsis. Seguirono «Να πας να πεις της μάνας μου» di Γιώργος Ζαμπέτας (1956), «Πάρε το δαχτυλίδι μου» di Γιώργος Μητσάκης (1958), «Τ' αδέλφια δε χωρίζουνε» di Απόστολος Καλδάρας (1959), e molti altri successi.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIY5xueEv6nHvQmi9HIxjU9gr9TnmWkJS7URXayJjvw&s=10",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786004088866",
+      "name": "Κυρία Πιπίνα",
+      "nameit": "Kirìa Pipìna",
+      "born": "Costantinopoli",
+      "died": "forse durante l'Occupazione, anni '40 Atene",
+      "bio": "Vero nome incerto: Δέσποινα Καλλιγέρη, forse anche detta Μπέκου Δέσποινα; secondo nome d'arte: \"Πίτσα Νέγρι\"\nCantante (repertorio smirneico/rebetiko)\n\n\nCantante attiva nella discografia smirneica tra Costantinopoli e le etichette Homocord e Odeon, con incisioni concentrate soprattutto tra il 1927 e il 1929 — anche se una fonte indica un arco di attività sorprendentemente lungo, dal 1910 al 1958. Il suo repertorio comprendeva manedes tradizionali («Ταμπαχανιώτικος μανές», «Μανές μινόρε») e canzoni popolari smirneiche, tra cui «Οι ψαράδες», «Έχε γεια Παναγιά», «Τι σε μέλλει εσένανε», «Έσπασες τα πιάτα» (1928) e «Ο κατιφές» (Costantinopoli, 22 dicembre 1928).\n\nLe fotografie che accompagnano i suoi dischi sembrano coincidere, per posa e fattezze, con quella pubblicata su un articolo che documenta la vita di una cantante di rebetika chiamata \"Πιπίνα Αρτακιανή\", ritratta nel 1910 insieme al suo compare Γιάγκο Γοργόσουλου nel locale dove serviva ai tavoli e cantava — trasferitasi poi al Pireo nel 1920. Se le due fossero la stessa persona — ipotesi suggerita dalla somiglianza fotografica, ma non confermata da fonti scritte — avremmo una biografia più completa: nascita a Costantinopoli, i primi anni da cantante nei locali/τεκέδες, il trasferimento in Grecia dopo la Catastrofe, l'attività discografica per Homocord/Odeon negli anni '20, fino alla morte durante l'Occupazione.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
       ]
     }
   ]
