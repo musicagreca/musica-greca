@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-07T16:27:27.237Z",
+  "exportedAt": "2026-08-07T17:17:32.249Z",
   "songs": [
     {
       "id": "s_1786109706328",
@@ -1904,6 +1904,14 @@
   ],
   "args": [
     {
+      "id": "a_1786122646851",
+      "title": "Μπαξέ Τσιφλίκι - un canto d'amore per sette quartieri di Salonicco",
+      "tag": "storie di canzoni",
+      "date": "2026-08-04",
+      "body": "Fu composta probabilmente nel 1934, su commissione di un abitante di Néi Epivátes (\"Epivatianós\"), come dono d'amore per la sua bella salonicchese, Marigúla.\n\n**Prima incisione:** 1946, con Strátos Payiumtzís e lo stesso Vasílis Tsitsánis.\n\nDurante gli anni in cui viveva a Salonicco, Tsitsánis era un visitatore abituale di Néi Epivátes, dove accompagnava con il suo bouzouki feste, matrimoni, battesimi e sagre paesane. Fu lì, probabilmente su commissione, che scrisse questo canto d'amore per Marigúla.\n\nCome sempre, Tsitsánis usava il greco demotico più semplice, con parole popolari come \"tsárka\" (gita, giro fatto per svago) - si considerava un interprete diretto dei sentimenti della gente comune, non un poeta colto.\n\n## Il viaggio in 12 versi\n\nIl brano attraversa sette quartieri di Salonicco in appena 12 versi:\n\n- **Mpaksé Tsiflíki** - fino al 1912 feudo di un Pascià turco, oggi Néi Epivátes, 22 km da Salonicco. Era il luogo di villeggiatura estiva dei salonicchesi: ogni anno gran parte della popolazione affittava lì appartamenti, passando le mattine in spiaggia e le sere nelle taverne sul mare, che si estendevano fin dentro l'acqua.\n- **Stu Nikáki ti varkúla** - probabilmente una taverna sul lungomare con questo nome.\n- **Karaburnáki** - zona di Kalamariá.\n- **Mpechtsinári / Mpech Tsinár** - antico nome della zona oggi dentro il porto di Salonicco (circa al livello del terzo/quarto molo). In turco significa \"cinque platani\" (bes-pente, cinar-platano); chiamata anche \"Giardino dei Principi\". Aveva una spiaggia adatta allo svago (\"fíno akroghiáli\", come canta Tsitsánis) - oggi, dopo l'ampliamento del porto, la zona ha perso quella bellezza ed e' piuttosto inquinata.\n- **Akrópoli / Áno Póli** - la parte alta storica della città.\n- **Várna** - persino la lontana città bulgara, segno dei confini fluidi di quella regione multiculturale.\n- **Ta Kútsura tu Dalamánga** - la vera destinazione del percorso: la taverna dove suonava lo stesso Tsitsánis.\n\n## Ghiórghos Dalamángas, il leggendario oste\n\nDietro l'ultima tappa della canzone si nasconde una vera leggenda della Salonicco popolare: Ghiórghos Dalamángas, nato in Tracia nel 1905, arrivato a Salonicco a 5 anni.\n\nNel 1932 aprì il suo primo locale - un'ex moschea trasformata in taverna, chiamata \"To Sindrivani\". Nel 1935 aprì il secondo, \"Ta Kútsura\", in via Nikiforu Foka 18, che tenne per 10 anni.\n\nLì conobbe Raúl, un ricco concittadino ebreo legato al commercio del tabacco, gran gaudente che spendeva fortune: uscivano insieme al Méditerranée e poi in crociera nel Termaico, sempre con orchestra di violini e belle donne al seguito - e quando Raúl era in vena di festa, gettava il pianoforte in mare: si dice ne abbia buttati una ventina nel corso degli anni.\n\nFu il direttore della Polizia, Muschundís - che aveva sentito suonare Tsitsánis in un locale a Kérkyra e ne era rimasto folgorato - a fare pressioni su Dalamángas perché lo assumesse nel suo locale. Fu proprio lì, ai Kútsura, che Tsitsánis scrisse anche un'altra canzone, \"Stu Dalamánga tin tavérna páne prósopa modérna\", inserendo nel testo anche il nome \"Chatzí Mpaksé\" (Mpaksé Tsiflíki).\n\nVerso il 1967, ormai anziano, Dalamángas viveva nell'ospizio di Stavrúpoli, e andava a prendere il caffè in un piccolo bar sulla via Langadá di fronte, avendo un accordo speciale per uscire.\n\n**Una testimonianza diretta** (dal racconto di un lettore, ricordando il padre): \"Dal 1936 al 1939, quando abitavo a Salonicco, andavo con i miei amici ai Kútsura tu Dalamánga, e da dietro le canne vedevamo Tsitsánis. Molte delle canzoni che poi divennero successi le sentii per prima io. Una di queste era proprio 'Mpaksé Tsiflíki'. Mi ricordo che mi piaceva moltissimo.\"\n\n## Ancora oggi\n\nNessun palco laiko, dentro o fuori Salonicco, ne fa a meno: e' entrata stabilmente nel repertorio popolare vivo della citta', un vero e proprio \"tour\" cantato attraverso i luoghi e i personaggi che resero unica la Salonicco degli anni '30.",
+      "link": ""
+    },
+    {
       "id": "a_1786094723116",
       "title": "Δημοσθένης Ζάττας — Il compositore dimenticato",
       "tag": "approfondimenti persone",
@@ -3511,6 +3519,20 @@
       "link": "",
       "listen": "",
       "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786123017891",
+      "name": "Στράτος Παγιουμτζής",
+      "nameit": "Stràtps Paghiumtzìs",
+      "born": "1904,  Aivalí, Asia Minore",
+      "died": "16 novembre 1971,  New York",
+      "bio": "Soprannominato \"Τεμπέλης\", il pigro,\n\nCantante rebetiko, tra le voci maschili più importanti dell'epoca classica del genere\n\nArrivò in Grecia con la famiglia prima della Catastrofe dell'Asia Minore, stabilendosi al Pireo. Lavorò fin da bambino, ma la sua vera passione era la musica e il canto. Entrò presto in contatto con i rebetes del Pireo: insieme a Márkos Vamvakáris, Anéstis Delías e Yórgos Bátis formò la prima vera orchestra di rebetiko puro.\n\nDivenne interprete quasi per caso: quando Bátis non riusciva a cantare un brano durante le prove, fu la voce di Παγιουμτζής a essere incisa al suo posto. Da lì iniziò una collaborazione lunghissima con tutti i grandi compositori del rebetiko — Τούντας, Σκαρβέλης, Παπάζογλου, Ογδοντάκης, Σέμσης, Παντελίδης, Κηρομύτης, Μπαγιαντέρας, Παπαϊωάννου, Χατζηχρήστος, il giovane Χιώτης, e soprattutto Βασίλης Τσιτσάνης, che gli affidò metà delle sue canzoni prebelliche — molte delle quali, secondo gli esperti, devono parte del loro successo proprio alla sua voce. Fu proprio lui, insieme a Τσιτσάνης, a incidere per primo, nel 1946, «Μπαξέ Τσιφλίκι».\n\nA metà degli anni '30 la sua voce era già leggendaria — al punto che sulle etichette dei dischi veniva citato semplicemente col nome di battesimo, \"Στράτος\". Tra i suoi successi più celebri: «Ένας μάγκας στο Βοτανικό», «Τα νέα της Αλεξάνδρας», «Βαγγελιώ, δεν είσαι εντάξει», «Φαληριώτισσα».\n\nMorì a New York nel 1971, a 67 anni — lontano dalla sua patria, letteralmente esalando l'ultimo respiro sul palcoscenico durante un'esibizione.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1RUc2pDeI-x0fH77HTnF_vIw07eeAP1_rhE85A5MSw&s=10",
       "roles": [
         "ar"
       ]
