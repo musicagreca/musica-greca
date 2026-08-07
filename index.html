@@ -1209,7 +1209,7 @@ var LAIKO_RE=/^(laik|laïk|λαϊκ)/i;
 var ENTECHNO_RE=/^(entechno|éntechno|εντεχνο|έντεχνο)/i;
 function normGenereKey(g){
   g=(g||'').trim();
-  if(DIMOTIKO_RE.test(g)) return 'Δημοτικό / Παραδοσιακό';
+  if(DIMOTIKO_RE.test(g)) return 'Dimotikò / Paradosiakò';
   if(LAIKO_RE.test(g)) return 'Laïká';
   if(ENTECHNO_RE.test(g)) return 'Éntechno';
   return g;
