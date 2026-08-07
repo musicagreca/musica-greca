@@ -216,7 +216,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
   <div class="hcard" onclick="go('elenco-autori-testo')"><div class="hcard-ico">✍</div><div class="hcard-ttl">Autori testo</div><div class="hcard-sub">I poeti e parolieri</div></div>
   <div class="hcard" onclick="go('elenco-musicisti')"><div class="hcard-ico">🎸</div><div class="hcard-ttl">Musicisti</div><div class="hcard-sub">Strumentisti — solo schede biografiche</div></div>
   <div class="hcard" onclick="go('elenco-generi')"><div class="hcard-ico">🎼</div><div class="hcard-ttl">Generi</div><div class="hcard-sub">Per dromos e stile</div></div>
-  <div class="hcard" onclick="go('elenco-balli')"><div class="hcard-ico">💃</div><div class="hcard-ttl">Balli</div><div class="hcard-sub">Per tipo di ballo</div></div>
+  <div class="hcard" onclick="go('elenco-balli')"><div class="hcard-ico">💃</div><div class="hcard-ttl">Ballo/Ritmo</div><div class="hcard-sub">Per tipo di ballo</div></div>
   <div class="hcard" onclick="go('argomento')"><div class="hcard-ico">📖</div><div class="hcard-ttl">Approfondimenti</div><div class="hcard-sub">Approfondimenti e curiosità</div></div>
   <div class="hcard" onclick="go('info')"><div class="hcard-ico">ℹ</div><div class="hcard-ttl">Informazioni</div><div class="hcard-sub">Fonti e note sul sito</div></div>
 </div>
@@ -326,7 +326,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 <div class="topbar">
   <span class="tb-brand" onclick="go('home')">Μουσική</span>
   <span class="bc-sep">›</span><span class="bc-lnk" onclick="go('elenchi')">Elenchi</span>
-  <span class="bc-sep">›</span><span class="bc-cur">Balli</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Ballo/Ritmo</span>
   <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
 </div>
 <div class="wrap">
@@ -765,7 +765,7 @@ function renderElencoCanzoni(){
   // Generi e dromoi unici
   var generiSet=[], dromoiSet=[];
   songs.forEach(function(s){
-    if(s.gn&&generiSet.indexOf(s.gn.trim())<0) generiSet.push(s.gn.trim());
+    if(s.gn){ var gk=normGenereKey(s.gn.trim()); if(generiSet.indexOf(gk)<0) generiSet.push(gk); }
     if(s.dr&&dromoiSet.indexOf(s.dr.trim())<0) dromoiSet.push(s.dr.trim());
   });
   generiSet.sort(function(a,b){return a.localeCompare(b,'it');});
@@ -784,7 +784,7 @@ function renderElencoCanzoni(){
       ||(s.dr||'').toLowerCase().indexOf(q)>=0
       ||(s.yr||'').toLowerCase().indexOf(q)>=0
       ||alias.indexOf(q)>=0;
-    var matchG=!srchGenere||(s.gn||'')===srchGenere;
+    var matchG=!srchGenere||normGenereKey((s.gn||''))===srchGenere;
     var matchD=!srchDromos||(s.dr||'')===srchDromos;
     var matchA=!srchAlpha||(
       stripAccents((s.tgr||'')[0]).toUpperCase()===srchAlpha||
@@ -1204,6 +1204,14 @@ function buildBalliMap(){
   });
   return map;
 }
+var DIMOTIKO_RE=/^(δημοτικ|παραδοσιακ|dimotik|tradizional)/i;
+var LAIKO_RE=/^(laik|laïk|λαϊκ)/i;
+function normGenereKey(g){
+  g=(g||'').trim();
+  if(DIMOTIKO_RE.test(g)) return 'Δημοτικό / Παραδοσιακό';
+  if(LAIKO_RE.test(g)) return 'Laïká';
+  return g;
+}
 function buildGeneriMap(){
   var map={};
   songs.forEach(function(s){
@@ -1212,6 +1220,7 @@ function buildGeneriMap(){
     var parts=s.gn.split('/').map(function(g){return g.trim();}).filter(Boolean);
     // Usa anche il genere completo come voce
     var keys=parts.length>1?[s.gn].concat(parts):[s.gn];
+    keys=keys.map(normGenereKey);
     keys.forEach(function(k){
       if(!map[k]) map[k]=[];
       // evita duplicati
@@ -1221,33 +1230,77 @@ function buildGeneriMap(){
   });
   return map;
 }
+// Sotto-generi (le diciture originali) presenti dentro un genere principale
+function buildSubgeneriMap(masterKey, list){
+  var sub={};
+  list.forEach(function(s){
+    var parts=(s.gn||'').split('/').map(function(g){return g.trim();}).filter(Boolean);
+    var candidates=parts.length>1?parts:[s.gn];
+    candidates.forEach(function(orig){
+      if(normGenereKey(orig)!==masterKey) return;
+      if(!sub[orig]) sub[orig]=[];
+      var already=sub[orig].filter(function(x){return x.id===s.id;}).length;
+      if(!already) sub[orig].push(s);
+    });
+  });
+  return sub;
+}
 var curGenere=null;
+var curSubGenere=null;
 function renderElencoGeneri(genere){
   var map=buildGeneriMap();
   var keys=Object.keys(map).sort(function(a,b){return a.localeCompare(b,'it');});
-  // Barra generi — usa data-genere per evitare apici annidati
+  // Barra generi principali — usa data-genere per evitare apici annidati
   var navH=keys.map(function(k){
     var isOn=curGenere===k;
     return '<button data-genere="'+k.replace(/"/g,'&quot;')+'" class="genere-btn" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:4px 10px;border-radius:20px;border:1px solid var(--b2);background:'+(isOn?'var(--acc)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:12px;font-family:Arial,sans-serif">'+esc(k)+'<span style="font-size:10px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+map[k].length+'</span></button>';
   }).join('');
-  el('list-generi-nav').innerHTML='<div style="margin-bottom:.3rem;font-size:11px;color:var(--t3)">Seleziona un genere:</div><div style="display:flex;flex-wrap:wrap">'+navH+'</div>';
-  // Aggiungi listener ai pulsanti
+  var navHtml='<div style="margin-bottom:.3rem;font-size:11px;color:var(--t3)">Seleziona un genere:</div><div style="display:flex;flex-wrap:wrap">'+navH+'</div>';
+
+  // Genere principale attivo
+  if(genere!==undefined){ curGenere=genere; curSubGenere=null; }
+  if(!curGenere&&keys.length) curGenere=keys[0];
+  var masterList=curGenere?(map[curGenere]||[]):[];
+
+  // Sottogeneri (solo se ce n'è più di uno dentro il genere principale)
+  var subMap=curGenere?buildSubgeneriMap(curGenere,masterList):{};
+  var subKeys=Object.keys(subMap).sort(function(a,b){return a.localeCompare(b,'it');});
+  var subH='';
+  if(subKeys.length>1){
+    var subBtns='<button data-sub="" class="subgenere-btn" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:'+(!curSubGenere?'var(--txt)':'var(--sur)')+';color:'+(!curSubGenere?'#fff':'var(--t2)')+';cursor:pointer;font-size:11px;font-family:Arial,sans-serif">Tutti<span style="font-size:9px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+masterList.length+'</span></button>';
+    subBtns+=subKeys.map(function(sk){
+      var isOn=curSubGenere===sk;
+      return '<button data-sub="'+sk.replace(/"/g,'&quot;')+'" class="subgenere-btn" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:'+(isOn?'var(--txt)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:11px;font-family:Arial,sans-serif">'+esc(sk)+'<span style="font-size:9px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+subMap[sk].length+'</span></button>';
+    }).join('');
+    subH='<div style="margin:.5rem 0 .3rem 0;font-size:11px;color:var(--t3)">Sottogenere:</div><div style="display:flex;flex-wrap:wrap">'+subBtns+'</div>';
+  }
+  el('list-generi-nav').innerHTML=navHtml+subH;
+
+  // Listener genere principale
   var btns=document.querySelectorAll('.genere-btn');
   for(var bi=0;bi<btns.length;bi++){
     btns[bi].addEventListener('click',function(){ renderElencoGeneri(this.getAttribute('data-genere')); });
   }
-  // Lista canzoni del genere selezionato
-  if(genere!==undefined) curGenere=genere;
-  if(!curGenere&&keys.length) curGenere=keys[0];
-  var list=curGenere?(map[curGenere]||[]):[];
-  var h='<div style="font-size:13px;font-weight:700;color:var(--txt);margin-bottom:.6rem">'+esc(curGenere||'')+' <span style="font-size:11px;color:var(--t3);font-weight:400">('+list.length+' canzoni)</span></div>';
+  // Listener sottogenere (non passa da renderElencoGeneri(genere) per non resettare curSubGenere)
+  var sbtns=document.querySelectorAll('.subgenere-btn');
+  for(var si=0;si<sbtns.length;si++){
+    sbtns[si].addEventListener('click',function(){
+      curSubGenere=this.getAttribute('data-sub')||null;
+      renderElencoGeneri();
+    });
+  }
+
+  // Lista canzoni finale: genere principale, eventualmente ristretto al sottogenere
+  var list=curSubGenere?(subMap[curSubGenere]||[]):masterList;
+  var h='<div style="font-size:13px;font-weight:700;color:var(--txt);margin-bottom:.6rem">'+esc(curSubGenere||curGenere||'')+' <span style="font-size:11px;color:var(--t3);font-weight:400">('+list.length+' canzoni)</span></div>';
   for(var i=0;i<list.length;i++){
     var s=list[i];
     var links='';
     if(s.ll) links+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank" onclick="event.stopPropagation()">▶</a>';
     if(s.li) links+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">ℹ</a>';
     var smeta=[s.at?'✍ '+s.at:'',s.ar?'🎤 '+s.ar:''].filter(Boolean).join(' · ');
-    h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(s.tgr)+'</div><div class="list-sub">'+esc([s.tit,s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+'</div><div class="list-actions">'+links+'<span class="g-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer">→</span></div></div>';
+    var origBadge=(!curSubGenere&&subKeys.length>1&&s.gn)?'<span style="display:inline-block;margin-top:2px;font-size:10px;color:var(--acc);background:var(--abg);border-radius:10px;padding:1px 7px">'+esc(s.gn)+'</span>':'';
+    h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(s.tgr)+'</div><div class="list-sub">'+esc([s.tit,s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+origBadge+'</div><div class="list-actions">'+links+'<span class="g-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer">→</span></div></div>';
   }
   el('list-generi-canzoni').innerHTML=h||'<div style="padding:1rem;color:var(--t3)">Nessuna canzone in questo genere.</div>';
   var rows=document.querySelectorAll('.g-song-row');
