@@ -471,6 +471,7 @@ var CH = 8;
 /* ── DATA ── */
 var SK='mousg_songs', AK='mousg_args', PK='mousg_persons';
 var songs=[], args=[], persons=[];
+var homeImgFromData='';
 
 function loadData() {
   // Dati incorporati — fonte primaria sempre affidabile
@@ -478,6 +479,7 @@ function loadData() {
 
   function useBuiltIn(){
     songs=builtIn.songs||[]; args=builtIn.args||[]; persons=builtIn.persons||[];
+    if(typeof builtIn.homeImg==='string') homeImgFromData=builtIn.homeImg;
     if(!songs.length) initDemoSongs();
     if(!args.length)  initDemoArgs();
     if(!persons.length) initDemoPersons();
@@ -489,6 +491,7 @@ function loadData() {
       .then(function(r){ if(!r.ok) throw 0; return r.json(); })
       .then(function(d){
         songs=d.songs||[]; args=d.args||[]; persons=d.persons||[];
+        if(typeof d.homeImg==='string') homeImgFromData=d.homeImg;
         if(!songs.length) initDemoSongs();
         if(!args.length)  initDemoArgs();
         if(!persons.length) initDemoPersons();
@@ -695,9 +698,9 @@ function goBack(){ go(prevPage); }
 /* ── HOME ── */
 function renderHome(){
   el('home-stats').innerHTML='<div style="text-align:center"><div class="stat-n">'+songs.length+'</div><div class="stat-l">Canzoni</div></div><div style="text-align:center"><div class="stat-n">'+persons.length+'</div><div class="stat-l">Artisti</div></div><div style="text-align:center"><div class="stat-n">'+args.length+'</div><div class="stat-l">Approfondimenti</div></div>';
-  // Immagine home da localStorage
-  var homeImg='';
-  try{ homeImg=localStorage.getItem('mousg_home_img')||''; }catch(e){}
+  // Immagine home: priorità a quella salvata in dati.json, altrimenti fallback a localStorage (compatibilità versioni precedenti)
+  var homeImg=homeImgFromData||'';
+  if(!homeImg){ try{ homeImg=localStorage.getItem('mousg_home_img')||''; }catch(e){} }
   var imgWrap=el('home-img-wrap');
   if(imgWrap){
     if(homeImg){ el('home-img').src=homeImg; imgWrap.style.display='block'; }
