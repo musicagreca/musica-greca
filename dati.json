@@ -1,8 +1,149 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-08T04:06:34.290Z",
+  "exportedAt": "2026-08-08T09:33:20.539Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786180500103",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ρόζα Εσκενάζυ , Ζαχαρίας Κασιμάτης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=4ReZtV5ryJA"
+        },
+        {
+          "who": "Ιωάννα Γεωργακοπούλου, Μανώλης Χιώτης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=9g4QTCvtQSw"
+        }
+      ],
+      "date": "2026-08-08",
+      "tgr": "Ο πασατέμπος",
+      "tit": "O pasatèmpos",
+      "alias": "",
+      "at": "Γιώργος Γιαννακόπουλος",
+      "am": "Μανώλης Χιώτης",
+      "yr": "1946",
+      "ar": "Ιωάννα Γεωργακοπούλου, Μανώλης Χιώτης",
+      "lb": "His Master's Voice Ελλάδος AO-2698 (OGA-1148)",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE     SOLm         RE#      RE\nΑυτά που λες εγώ τ' ακούω βερεσέ\n       SOLm          SOL           DOm\nΤα παραμύθια σου τ' ανθίστηκα πια τώρα\nDOm            RE             SOLm\nκαι το κατάλαβα πως ήμουνα για σε\nSOLm              RE#           RE\nο πασατέμπος σου για να περνά η ώρα\n\nRE     SOLm         RE#      RE\nΚάθε σου φίλημα το βρίσκω πια πικρό\n       SOLm          SOL           DOm\nκαι τον καημό μου δεν μπορείς να τον γλυκάνεις\nDOm            RE             SOLm\nΜαζί μου έρχεσαι μπαμπέσικο μικρό\nSOLm              RE#           RE\nγιατί γυρεύεις κόγξες σ' άλλονε να κάνεις\n\nRE     SOLm         RE#      RE\nΦύγε λοιπόν αφού το θες αλλού να πας\n       SOLm          SOL           DOm\nκι άσ' τις μουρμούρες και τις κλάψες και τις τρίχες\nDOm            RE             SOLm\nκι όταν θα σμίξεις με το μάγκα π' αγαπάς\nSOLm              RE#           RE\nνα μην του πεις ότι για πασατέμπο μ' είχες",
+      "tr": "O pasatèmpos\n\nAftá pou les egó t' akoúo veresé\nTa paramíthia sou t' anthístika pia tóra\nke to katálava pos ímouna gia se\no pasatémpos sou gia na perná i óra\n\nKáthe sou fílima to vrísko pia pikró\nke ton kaimó mou den boréis na ton glikánis\nMazí mou érchese babésiko mikró\ngiatí ghirévis kógxes s' állone na kánis\n\nFíghe lipón afoú to thes alloú na pas\nki as tis mourmoúres ke tis klápses ke tis tríches\nki ótan tha smíxis me to mánga p' aghapás\nna min tou pis óti gia pasatémpo m' íches",
+      "ti": "Il passatempo\n\nQuello che dici io lo ascolto senza crederci\nLe tue favole non ci casco più adesso\ne ho capito che ero per te\nsolo un passatempo per far passare il tempo\n\nOgni tuo bacio ormai lo trovo amaro\ne la mia pena non riesci a raddolcirla\nCon me ti comporti da piccola traditrice\nperché cerchi di far le corna a qualcun altro con me\n\nVattene dunque, visto che vuoi andare altrove\ne lasciami stare i tuoi brontolii, i tuoi pianti e le tue storie\ne quando ti unirai al mangas che ami\nnon dirgli che mi hai tenuto solo per passatempo",
+      "no": ""
+    },
+    {
+      "id": "s_1786177629051",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου, Βασίλης Τσιτσάνη",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=C8PturX1x6s"
+        },
+        {
+          "who": "Στέλιος Κερομύτης, Σωτηρία Μπέλλου, Στελλάκης Περπινιάδης",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=_ldF-Gf_Tpg"
+        }
+      ],
+      "date": "2026-08-08",
+      "tgr": "Αραμπάς περνά (κι η σατράπισσα)",
+      "tit": "Arabàs pernà (ki i satràpisa)",
+      "alias": "",
+      "at": "Κώστας Μάνεσης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1948",
+      "ar": "Μάρκος Βαμβακάρης, Σούλα Καλφοπούλου, Βασίλης Τσιτσάνη",
+      "lb": "His Master's Voice (Greece) (Gramophone Co. Ltd)",
+      "gn": "Rembetico",
+      "dr": "Ραστ",
+      "bal": "Chasàpiko",
+      "ll": "",
+      "li": "",
+      "ch": "SOL                    DO\nΑραμπάς περνά, κι η σατράπισσα \nRE    DO   RE     SOL\nπου αγάπησα είναι μέσα\nDO\nαγκαλιάζεται \nRE                     SOL\nκι ούτε νοιάζεται η μπαμπέσα\n\nSOL                      DO\nΑραμπάς περνά  με την βλάμισσα \nRE    DO   RE     SOL\nπου χαράμισα την ζωή μου\nDO\nμε ρεστάρισε \nRE                     SOL\nστραπατσάρισε το τσαρδί μου\n\nSOL                     DO\nΑραμπάς περνά ωχ μανούλα μου \nRE       DO   RE       SOL\nη καρδούλα μου πώς χτυπάει\nDO\nη σατράπισσα \nRE                   SOL\nπου αγάπησα μ' άλλον πάει",
+      "tr": "Arabás perná, ki i satrápissa\n\nArabás perná, ki i satrápissa\npou aghápisa íne mésa\nanghkaliázete\nki oúte niázete i babésa\n\nArabás perná me tin vlámissa\npou charámisa tin zoí mou\nme restárise\nstrapatsárise to tsardí mou\n\nArabás perná och manoúla mou\ni kardoúla mou pos chtipái\ni satrápissa\npou aghápisa m' állon pái",
+      "ti": "Passa il carro\n\nPassa il carro, e la mia \"satrapa\"\nche ho amato è lì dentro\nsi abbraccia\ne non le importa niente, la traditrice\n\nPassa il carro con la mia amica di malavita\nper cui ho sprecato la vita\nmi ha ridotto in miseria\nha distrutto la mia casa\n\nPassa il carro ahi mammina mia\ncome mi batte il cuore\nla mia \"satrapa\"\nche ho amato se ne va con un altro\n\nNote alla traduzione\n\nαραμπάς — parola di origine turca (araba), indica un carro trainato da buoi o cavalli; qui simbolo del passare del tempo/della vita che scorre indifferente al dolore del protagonista.\nσατράπισσa — femminile scherzoso/ironico di \"satrapo\" (governatore persiano dispotico); nel gergo popolare indica una donna autoritaria, dominante, che \"comanda\" sul cuore dell'uomo.\nβλάμισσα — femminile di \"βλάμης\", termine gergale (di origine albanese) per \"amico/compagno\" nell'ambiente del rebetiko e della malavita; qui indica una donna della stessa cerchia sociale/malavitosa.\nμπαμπέσα — termine gergale per \"traditrice, infedele\", spesso riferito a una donna che inganna l'amante.\nρεστάρισε — dal verbo gergale \"ρεστάρω\" (dal francese/italiano \"restare senza\"), significa \"mi ha lasciato senza soldi/al verde\".\nστραπατσάρισε — dal verbo \"στραπατσάρω\" (italianismo, da \"strapazzare\"), qui significa \"ha sconvolto/rovinato\" (la casa, la vita).\nτσαρδί — termine gergale rebetiko per \"casa, tana, rifugio\" (spesso riferito a un luogo modesto o malfamato).",
+      "no": ""
+    },
+    {
+      "id": "s_1786175237141",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-08",
+      "tgr": "Ήσουνα ξυπόλυτη",
+      "tit": "Isuna ksipòliti",
+      "alias": "Παξιμαδοκλέφτρα",
+      "at": "Κώστας Μπέζος",
+      "am": "Κώστας Μπέζος",
+      "yr": "1930",
+      "ar": "Κώστας Μπέζος",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "σαμπάχ",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=9EcPy-5Bdi0",
+      "li": "",
+      "ch": "REm       FA     REm   RE   DO  REm\nΉσουνα τι ήσουνα μια παξιμαδοκλέφτρα\nREm       FA          REm     DO      REm\nΤώρα που σε πήρα εγώ, γυρεύεις σούρτα-φέρτα\nREm       FA          REm     DO      REm\nΤώρα που σε πήρα εγώ, γυρεύεις σούρτα-φέρτα\nREm       FA     REm   RE   DO  REm\nΉσουνα τι ήσουνα μια παξιμαδοκλέφτρα\n\nREm       FA     REm   RE   DO  REm\nΉσουνα ξυπόλητη και γύρναγες στους δρόμους\nREm       FA          REm     DO      REm\nΤώρα που σε πήρα εγώ, γυρεύεις ιπποκόμους\nREm       FA          REm     DO      REm\nΤώρα που σε πήρα εγώ, γυρεύεις ιπποκόμους\nREm       FA     REm   RE   DO  REm\nΉσουνα ξυπόλητη και γύρναγες στους δρόμους\n\nREm       FA     REm   RE   DO  REm\nΉσουνα ξυπόλητη και μάζευες τους σπόρους\nREm       FA     REm   RE   DO  REm\nκαι τώρα που σε πήρα εγώ, ζητάς αεροπόρους\nREm       FA     REm   RE   DO  REm\nκαι τώρα που σε πήρα εγώ, ζητάς αεροπόρους\nREm       FA     REm   RE   DO  REm\nΉσουνα ξυπόλητη και μάζευες τους σπόρους\n\nREm       FA     REm   RE   DO  REm\nΉσουνα ξυπόλητη και μάζευες κοσάρια\nREm       FA     REm   RE   DO  REm\nΤώρα που σε πήρα εγώ, γυρεύεις κατοστάρια\nREm       FA     REm   RE   DO  REm\nΤώρα που σε πήρα εγώ, γυρεύεις κατοστάρια \nREm       FA     REm   RE   DO  REm\nΉσουνα ξυπόλητη και μάζευες κοσάρια\n\nREm       FA     REm   RE   DO  REm\nΉσουνα στην αγορά και μάζευες ραδίκια\nREm       FA     REm   RE   DO  REm\nΤώρα που σε πήρα εγώ, γυρεύεις σκουλαρίκια\nREm       FA     REm   RE   DO  REm\nΤώρα που σε πήρα εγώ, γυρεύεις σκουλαρίκια\nREm       FA     REm   RE   DO  REm\nΉσουνα στην αγορά και μάζευες ραδίκια\n\nREm       FA     REm   RE   DO  REm\nΈριξα τα ζάρια μου κι έφερα έξη πέντε\nREm       FA     REm   RE   DO  REm\nκαι τους μπάτσους στη γωνιά τους πάει πέντε-πέντε\nREm       FA     REm   RE   DO  REm\nκαι τους μπάτσους στη γωνιά τους πάει πέντε-πέντε\nREm       FA     REm   RE   DO  REm\nΈριξα τα ζάρια μου κι έφερα έξη πέντε\n\nREm       FA     REm   RE   DO  REm\nΠενήντα χρόνια φυλακή τιμώρησα το χάρο\nREm       FA     REm   RE   DO  REm\nνα 'σαι πάντα ελεύθερη, μαζί σου να γουστάρω\nREm       FA     REm   RE   DO  REm\nνα 'σαι πάντα ελεύθερη, μαζί σου να γουστάρω\nREm       FA     REm   RE   DO  REm\nΠενήντα χρόνια φυλακή τιμώρησα το χάρο",
+      "tr": "Isuna ksipòliti\n\nÍsouna ti ísouna mia paksimadoklèftra\nTóra pou se píra egó, ghirévis sourta-fèrta\n\nÍsouna ksipóliti ke ghírnaghes stous drómous\nTóra pou se píra egó, ghirévis ippokómous\n\nÍsouna ksipóliti ke mázeves tous spórous\nke tóra pou se píra egó, zitás aeropórous\n\nÍsouna ksipóliti ke mázeves kosária\nTóra pou se píra egó, ghirévis katostária\n\nÍsouna stin aghorá ke mázeves radíkia\nTóra pou se píra egó, ghirévis skoularíkia\n\nÉriksa ta zária mou ki éfera éksi pénde\nke tous bátsous sti ghoniá tous pái pénde-pénde\n\nPenínda chrónia filakí timórisa to cháro\nna 'se pánda eléftheri, mazí sou na ghustáro",
+      "ti": "Eri scalza \n\nEri, cos'eri, una ladra di gallette\nOra che ti ho presa io, cerchi belletti e vai su e giù\n\nEri scalza e giravi per le strade\nOra che ti ho presa io, cerchi palafrenieri\n\nEri scalza e raccoglievi semi\ne ora che ti ho presa io, chiedi aviatori\n\nEri scalza e raccoglievi soldi da poco\nOra che ti ho presa io, cerchi banconote da cento\n\nEri al mercato e raccoglievi radicchi\nOra che ti ho presa io, cerchi orecchini\n\nHo tirato i miei dadi e mi è uscito sei-cinque\ne i poliziotti nell'angolo li stendo cinque a cinque\n\nCinquant'anni di prigione ho inflitto alla morte\npur di averti sempre libera, e goderti insieme a me\n\nNote alla traduzione\nπαξιμαδοκλέφτρα — \"ladra di paximádia\" (gallette biscottate greche); espressione gergale per una donna povera o di strada, dedita a piccoli furti.\nσούρτα-φέρτα — espressione idiomatica per un viavai frenetico e civettuolo.\nιπποκόμους — \"palafrenieri\"; qui usato ironicamente per pretendenti di rango sociale elevato.\nκοσάρια / κατοστάρια — gergo popolare per tagli di banconote (rispettivamente minori e maggiori), a indicare un salto di pretese economiche.\nέξι πέντε — punteggio dei dadi, riferimento al gioco d'azzardo tipico dell'immaginario rebetiko.\nπέντε-πέντε — espressione gergale per un ceffone ben assestato \"a cinque dita\".\nχάρος — Caronte/la Morte personificata nella tradizione popolare greca.",
+      "no": ""
+    },
+    {
+      "id": "s_1786171692291",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-08",
+      "tgr": "Ρόζα",
+      "tit": "Ròsa",
+      "alias": "",
+      "at": "Άλκης Αλκαίος",
+      "am": "Θάνος Μικρούτσικος",
+      "yr": "1996",
+      "ar": "Δημήτρης Μητροπάνος",
+      "lb": "Minos - EMI SA",
+      "gn": "Laikà",
+      "dr": "Νιαβέντ",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=KG6Ts5noKKc",
+      "li": "",
+      "ch": "REm              DO          REm   LAm LA# DO  REm\nΤα χείλη μου ξερά και διψασμένα\nREm             DO          FA\nγυρεύουνε στην άσφαλτο νερό\nLA#              DO       LA REm\nΠερνάνε δίπλα μου τα τροχοφόρα\nSOLm                    FA DO FA\nκαι συ μου λες μας περιμένει μπό--ρα\nSOLm                     LAm REm\nκαι με τραβάς σε καμπαρέ υγρό\n \nREm              DO          REm   LAm LA# DO  REm\nΒαδίζουμε μαζί στον ίδιο δρόμο\nREm             DO          FA\nμα τα κελιά μας είναι χωριστά\nLA#              DO       LA REm\nΣε πολιτεία μαγική γυρνάμε\nSOLm                    FA DO FA\nΔε θέλω πια να μάθω τι ζητάμε\nSOLm                     LAm REm\nφτάνει να μου χαρίσεις δυο φιλιά\n \nREm              DO          REm   LAm LA# DO  REm\nΜε παίζεις στη ρουλέτα και με χάνεις\nREm             DO          FA\nσε ένα παραμύθι εφιαλτικό\nLA#              DO       LA REm\nΦωνή εντόμου τώρα είν' η φωνή μου\nSOLm                     FA DO FA\nΦυτό αναρριχόμενο η ζωή μου\nSOLm                     LAm REm\nμε κόβεις και με ρίχνεις στο κενό\n \nREm              DO          REm   LAm LA# DO\nΠώς η ανάγκη γίνεται ιστορία\nREm             DO          FA\nΠώς η ιστορία γίνεται σιωπή\nLA#              DO       LA REm\nΤι με κοιτάζεις Ρόζα μουδιασμένο\nSOLm                    FA DO FA\nΣυγχώρα με που δεν καταλαβαίνω\nSOLm                     LAm REm\nτι λένε τα κομπιούτερς κι οι αριθμοί\n \nREm              DO          REm   LAm LA# DO  REm\nΑγάπη μου από κάρβουνο και θειάφι\nREm             DO          FA\nΠώς έχει αλλάξει έτσι ο καιρός\nLA#              DO       LA REm\nΠερνάνε πάνω μας τα τροχοφόρα\nSOLm                     FA DO FA\nκι εγώ μες στην ομίχλη και τη μπόρα\nSOLm                     LAm REm\nκοιμάμαι στο πλευρό σου νηστικός\n \nREm              DO          REm   LAm LA# DO\nΠώς η ανάγκη γίνεται ιστορία\nREm             DO          FA\nΠώς η ιστορία γίνεται σιωπή\nLA#              DO       LA REm\nΤι με κοιτάζεις Ρόζα μουδιασμένο\nSOLm                    FA DO FA\nΣυγχώρα με που δεν καταλαβαίνω\nSOLm                     LAm REm\nτι λένε τα κομπιούτερς κι οι αριθμοί",
+      "tr": "Ròsa\n\nTa chíli mou xerá ke dipsasména\nghirévoune stin ásfalto neró\nPernáne dípla mou ta trochofóra\nke si mou les mas periméni bóra\nke me travás se kabaré ighró\n\nVadízoume mazí ston ídio drómo\nma ta keliá mas íne choristá\nSe politía maghikí ghirnáme\nDe thélo pia na mátho ti zitáme\nftáni na mou charísis dio filiá\n\nMe pézis sti rouléta ke me chánis\nse éna paramýthi efialtikó\nFoní edómou tóra ín' i foní mou\nFitó anarrichómeno i zoí mou\nme kóvis ke me ríchnis sto kenó\n\nPos i anánghi ghínete istoría\nPos i istoría ghínete siopí\nTi me kitázis Róza mudiasméno\nSigchóra me pou den katalavéno\nti léne ta kompioúters ki i arithmí\n\nAghápi mou apó kárvouno ke thiáfi\nPos échi allásxi étsi o kerós\nPernáne páno mas ta trochofóra\nki eghó mes stin omíchli ke ti bóra\nkimáme sto plevró sou nistikós\n\nPos i anánghi ghínete istoría...",
+      "ti": "Ròsa\n\nLe mie labbra secche e assetate\ncercano acqua sull'asfalto\nPassano accanto a me le automobili\ne tu mi dici: ci aspetta un temporale\ne mi trascini in un cabaret umido\n\nCamminiamo insieme sulla stessa strada\nma le nostre celle sono separate\nGiriamo per una città magica\nNon voglio più sapere cosa cerchiamo\nbasta che tu mi doni due baci\n\nMi giochi alla roulette e mi perdi\nin una favola da incubo\nVoce d'insetto è ormai la mia voce\nPianta rampicante è la mia vita\nmi tagli e mi getti nel vuoto\n\nCome il bisogno diventa storia\nCome la storia diventa silenzio\nPerché mi guardi così, Rosa, intontito\nPerdonami se non capisco\ncosa dicono i computer e i numeri\n\nAmore mio, fatto di carbone e zolfo\nCome è cambiato così il tempo\nPassano sopra di noi le automobili\ne io, nella nebbia e nel temporale\ndormo al tuo fianco, digiuno\n\nCome il bisogno diventa storia...\n\nτροχοφόρα — letteralmente \"veicoli a ruote\", termine burocratico/generico per indicare auto e mezzi di trasporto; qui reso semplicemente con \"automobili\" per fluidità.\nμπόρα — \"acquazzone/temporale improvviso\"; usato spesso in senso figurato per un guaio imminente.\nκελιά — \"celle\" (come celle di prigione); qui metafora dell'isolamento interiore nonostante la vicinanza fisica.\nνηστικός — letteralmente \"digiuno\" (che non ha mangiato); qui ha valore figurato, per indicare una condizione di privazione/insoddisfazione.\nΡόζα — nome proprio (Rosa); vocativo diretto rivolto a una donna.\nκομπιούτερς — prestito diretto dall'inglese \"computers\", usato così com'è in greco colloquiale.",
+      "no": ""
+    },
+    {
+      "id": "s_1786167097784",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-08",
+      "tgr": "Μπήκε ο χειμώνας",
+      "tit": "Bìke o chimònas",
+      "alias": "Η παλτουδιά",
+      "at": "Κώστας Κοφινιώτης",
+      "am": "Παναγιώτης Τούντας",
+      "yr": "1940",
+      "ar": "Στράτος Παγιουμτζής",
+      "lb": "Columbia DG 6590",
+      "gn": "Smirneico",
+      "dr": "maggiore",
+      "bal": "Chasaposervikos",
+      "ll": "https://www.youtube.com/watch?v=PG9ZIqtv2Lw",
+      "li": "",
+      "ch": "RE              LA                  RE\nΜπήκε ο χειμώνας κι ο κοσμάκης τα 'χει χάσει\nRE              LA                  RE\nκαι παλτουδιά καινούργια τρέχει ν' αγοράσει\nSOLm            RE              SOLm\nΜα το δικό μου κι αν επάλιωσε παλτό\nSOLm            LA                  RE\nφράγκο δεν δίνω κι ούτε νοιάζομαι γι' αυτό\nSOLm            RE              SOLm\nΜα το δικό μου κι αν επάλιωσε παλτό\nSOLm             LA                  RE\nφράγκο δεν δίνω κι ούτε νοιάζομαι γι' αυτό\n\nRE                LA                 RE\nΚι αν ο καθένας τουρτουρίζει από το κρύο\nRE              LA                  RE\nθα την περνώ στην αγκαλιά σου μεγαλείο\nSOLm             RE                  SOLm\nΚι όταν το τζάκι μένει σπίτι μας σβηστό\nSOLm                LA            RE\nθα με θερμαίνει το φιλί σου το ζεστό\nSOLm             RE                  SOLm\nΚι όταν το τζάκι μένει σπίτι μας σβηστό\nSOLm                LA            RE\nθα με θερμαίνει το φιλί σου το ζεστό\n\nRE                LA                  RE\nΚι αν δεν ανάβουμε κουκλίτσα μου μαγκάλι\nRE              LA                  RE\nΘα 'μαι ζεστός μες την δική σου την αγκάλη\nSOLm            RE                SOLm\nΤο πιο θερμό καλοριφέρ είν' τα φιλιά\nSOLm                LA              RE\nσαν θα κοιμόμαστε κουκλίτσα μου αγκαλιά\nSOLm            RE                SOLm\nΤο πιο θερμό καλοριφέρ είν' τα φιλιά\nSOLm                LA              RE\nσαν θα κοιμόμαστε κουκλίτσα μου αγκαλιά\n\nRE                LA               RE\nΚι έτσι δεν θα 'χουμε ανάγκη από φώτα\nRE              LA                 RE\nθα την περνάμε μια χαρά ζωή και κότα\nSOLm             RE                  SOLm\nΚαι θα κοιμόμαστε κι οι δυο απ' τις εννιά\nSOLm             LA            RE\nνα μη μάς πιάνει ξεροβόρι παγωνιά\nSOLm             RE                  SOLm\nΚαι θα κοιμόμαστε κι οι δυο απ' τις εννιά\nSOLm             LA            RE\nνα μη μάς πιάνει ξεροβόρι παγωνιά",
+      "tr": "Bíke o cheimónas\n\nBíke o cheimónas ki o kosmákis ta 'chei chásei\nKe paltudiá kenúrghia tréchei n' agorásei\nMa to dikó mu ki an epáliose paltó\nFrángo den díno ki úte niázome ghi' aftó\n\nKi an o kathénas turturízei apó to krío\nTha tin pernó stin angaliá su megalío\nKi ótan to tzáki ménei spíti mas svistó\nTha me therménei to filí su to zestó\n\nKi an den anávume kuklítsa mu mangáli\nTha 'me zestós mes tin dikí su tin angáli\nTo pio thermó kalorifér ín' ta filiá\nSan tha kimómaste kuklítsa mu angaliá\n\nKi étsi den tha 'chume anánghi apó fóta\nTha tin pernáme mia chará zoí ke kóta\nKe tha kimómaste ki i dío ap' tis enniá\nNa mi mas piánei kserovóri pagoniá",
+      "ti": "È arrivato l'inverno\n\nÈ arrivato l'inverno e la gente ha perso la testa\ne corre a comprarsi cappotti nuovi\nMa il mio, anche se è consumato, cappotto\nnon spendo un soldo e non me ne curo\n\nE se ognuno trema dal freddo\nio la passerò da signore tra le tue braccia\nE quando il camino di casa nostra resta spento\nmi scalderà il tuo bacio caldo\n\nE se non accendiamo, bambolina mia, il braciere\nio sarò caldo tra le tue braccia\nIl calorifero più caldo sono i baci\nquando dormiremo abbracciati, bambolina mia\n\nE così non avremo bisogno di stufe\nvivremo alla grande, una vita spensierata\nE dormiremo insieme fin dalle nove\nperché non ci colga il vento gelido del nord\n\nτα 'χει χάσει (letteralmente \"l'ha persa\"): idioma per \"ha perso la testa/il senno\", qui nel senso di essere presi dal panico per il freddo\nζωή και κότα (letteralmente \"vita e gallina\"): idioma greco per \"vita spensierata, la bella vita\"\nξεροβόρι: vento freddo e secco da nord (tramontana)\nφώτα (letteralmente \"luci\"): qui reso come \"stufe\", interpretazione contestuale legata al tema del riscaldamento — potrebbe anche intendersi più letteralmente",
+      "no": ""
+    },
     {
       "id": "s_1786123213370",
       "offsets": {},
@@ -326,7 +467,7 @@
       "alias": "",
       "at": "Κώστας Μουντάκης",
       "am": "Κώστας Μουντάκης",
-      "yr": "",
+      "yr": "1962",
       "ar": "",
       "lb": "",
       "gn": "dimotikò cretese",
@@ -819,7 +960,7 @@
       "alias": "",
       "at": "Κώστας Φέρρης",
       "am": "Σταύρος Ξαρχάκος",
-      "yr": "",
+      "yr": "1974",
       "ar": "Νίκος Ξυλούρης",
       "lb": "",
       "gn": "Entechno / Laïko d'Autore",
@@ -914,7 +1055,7 @@
       "alias": "",
       "at": "Παναγιώτης Τούντας",
       "am": "Παναγιώτης Τούντας",
-      "yr": "",
+      "yr": "1934",
       "ar": "Στελλάκης Περπινιάδης",
       "lb": "",
       "gn": "Smirneico",
@@ -3062,7 +3203,7 @@
       "bio": "Grande cantante di rebetiko con una presenza piccola ma dinamica e caratteristica. Nel 1916 entra a far parte dei Politakia, suonando il mandolino e più tardi la chitarra. Durante il disastro dell'Asia Minore, viene catturato, ma riesce a raggiungere la Grecia nel 1923.\n Ha registrato tra il 1931 e il 1950 circa 50 canzoni, con la prima è la tradizionale \"Kalogeraki\" (disco Odeon GA 1586, Atene 1931). Ha cantato nella prima esibizione alcuni dei più bei rebetika, come \"Ο μάγκας του Βοτανικού\" (disco Parlophon B-21708 Atene 1934) e il \"Ωφ αμάν\" (disco Odeon GA 1701, Atene 1934) di Spiros Peristeris ecc. Come compositore ha collaborato con Spiros Peristeris nell’adattamento e nella presentazione nella discografia di molte canzoni tradizionali.",
       "link": "",
       "listen": "",
-      "photo": "https://kounadisomeka.aegean.gr/files/original/2d24957e7f74dd2579cf6ade498a43ea.jpg",
+      "photo": "https://github.com/musicagreca/musica-greca/blob/bbf1799dba4392c4d5ac1691b41b7568cb8ae4da/images/Zacharias.jpg",
       "roles": [
         "at",
         "am",
@@ -3559,6 +3700,140 @@
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1RUc2pDeI-x0fH77HTnF_vIw07eeAP1_rhE85A5MSw&s=10",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1786170055540",
+      "name": "Κώστας Κοφινιώτης",
+      "nameit": "Kòstas Kofiniòtis",
+      "born": "1915 (o 1906), Asia Minore",
+      "died": "22 luglio 1987, Atene",
+      "bio": "Ha firmato molte sue opere (specialmente i brani rebetiki) con i nomi d'arte Kostas Anatolitis o K. Rapsodos.\nEra noto principalmente come paroliere di canzoni d'amore e canzoni popolari, toccando praticamente ogni genere della musica greca dell'epoca.Canzoni famose: Tra i suoi brani più noti si ricordano \"Se magika nisia\" (Σε μαγικά νησιά), \"Erthe o chimonas ki o kosmakis ta 'chi chasi\" (Ήρθε ο χειμώνας κι ο κοσμάκης τα 'χει χάσει), ed \"Ego tha s'agapo kai mi se niazei\" (Εγώ θα σ'αγαπώ και μη σε νοιάζει).Patrimonio musicale: A seconda delle stime d'archivio, i suoi brani registrati e passati alla discografia ufficiale variano da circa 600 a oltre 2000 composizioni.Altre attività: Oltre alla scrittura, per circa quindici anni si è occupato dell'organizzazione di concorsi di bellezza locali ad Atene.\nMorì ad Atene per un colpo di calore durante il grande caldo del 1987.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTalapooeW6yoPd_Ko6uZRGetRzLLN0x41kbd_ydjX-IA&s=10",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1786174217883",
+      "name": "Άλκης Αλκαίος",
+      "nameit": "Alkis Alkeos",
+      "born": "23 novembre 1949, vicino al confine greco-albanese",
+      "died": "10 dicembre 2012, Atene",
+      "bio": "Vero nome Βαγγέλης Λιάρος, Vangelis Liaros è stato un poeta e paroliere greco, tra i più importanti della canzone d'autore ellenica.\nNacque il  vicino al confine greco-albanese, e fin da piccolo divenne di fatto residente a Parga, città alla quale rimase legato per tutta la vita.\n\nCarriera\nLa sua carriera di paroliere e poeta iniziò nel 1977, quando il compositore Thanos Mikroutsikos lesse una sua poesia sul giornale \"Rizospastis\". Da lì nacque un sodalizio artistico che sarebbe durato per il resto della sua vita: il primo lavoro insieme risale al 1978, con la canzone \"Fleváris 1848\" nell'album Tragoúdia tis lefteriás. Nel 1982 uscì l'album Embárgo, dove il paroliere firmò tutti i testi, un disco che gli diede una identità artistica ben riconoscibile. \n\nOltre a Mikroutsikos, collaborò con artisti come Notis Mavroudis, Vasilis Papakonstantinou, Sokratis Malamas, Babis Stokas, Miltos Paschalidis e Marios Tokas. \n\nCuriosità\nIl suo nome d'arte \"Alkaios\" derivava da uno zio, partigiano dell'ELAS, morto a 23 anni. Rimase per gran parte della carriera una figura schiva e appartata, al punto da essere soprannominato \"il paroliere invisibile\": pochissime foto pubbliche e una sola apparizione televisiva legata all'album Embárgo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs6souoLUlNkUO8VsTWClfZ-VWH1v2-eYe1lZ3sV4abQ&s=10",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1786174514767",
+      "name": "Δημήτρης Μητροπάνος",
+      "nameit": "Dimìtris Mitropànos",
+      "born": "2 aprile 1948, Agía Moní, quartiere di Tríkala (paese d'origine della madre)",
+      "died": "17 aprile 2012, Maroússi (Atene)",
+      "bio": "È considerato da molti tra i più grandi cantanti nella storia della canzone greca laikà. Crebbe senza il padre, che conobbe solo a 29 anni: fino ai 16 credeva fosse morto nella Guerra Civile, quando arrivò una lettera che rivelava che viveva in Romania. Il padre era originario di un villaggio dell'Eparchia di Karditsa, Kappa. \n\nFin da piccolo lavorava d'estate per aiutare economicamente la famiglia: prima come cameriere nella taverna dello zio, poi nei nastri di taglio del legno. Dopo la terza media, nel 1964, si trasferì ad Atene per vivere con lo zio in via Acharnón, e già prima di terminare le scuole medie cominciò a lavorare come cantante. Per via delle sue origini tessale veniva soprannominato affettuosamente \"vlachàki\" (il piccolo valacco/pastore di montagna). \n\nDurante un evento organizzato dalla ditta dello zio, dove si esibiva Grigoris Bithikotsis, gli fu chiesto di cantare qualcosa — un brano di Theodorakis, non ricordava bene quale. Bithikotsis lo sentì, lo chiamò e gli disse che doveva diventare cantante, offrendosi di portarlo lui stesso alla Columbia. Mitropanos non prese subito la cosa sul serio, ma l'idea iniziò pian piano a piacergli — soprattutto dopo aver conosciuto anche Kazantzidis. \n\nCollaborò con alcuni tra i più importanti compositori greci: Giorgos Zambetas, Mikis Theodorakis, Dimos Moutsis, Apostolos Kaldaras, Lakis Papadopoulos, Marios Tokas, Spyros Papavasileiou e molti altri, interpretando brani di grandi parolieri. \n\nUno dei momenti più alti della sua carriera fu l'album «Στου αιώνα την παράγκα» (1996), con musiche di Thanos Mikroutsikos e testi di Alkis Alkaios, Giorgos Kakoulidis, Kostas Lachas e Lina Nikolakopoulou — considerato da molti uno dei dischi più importanti della musica greca moderna, e probabilmente il capolavoro discografico di Mitropanos. Conteneva brani entrati nella leggenda come Louna Park, Róza, Atákes e Pántoa gelastí. \n\nMorì a 63 anni ad Atene nell'aprile 2012, lasciando un vuoto enorme nella scena della canzone popolare greca, di cui era diventato una delle voci più identificabili e amate.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwCAr2UPq5mH-6BUU2OVNLwhwTlC812DU1Xl5Dup6N9A&s=10",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786174814623",
+      "name": "Θάνος Μικρούτσικος",
+      "nameit": "Thànos Mikrùtsikos",
+      "born": "13 aprile 1947, Patrasso",
+      "died": "28 dicembre 2019, Atene",
+      "bio": "Fu tra i più importanti protagonisti della scena musicale greca moderna, e fu anche attivo politicamente e culturalmente, partecipando in diverse occasioni agli sviluppi politici del paese. Iniziò gli studi musicali fin da piccolo alla Società Filarmonica di Patrasso e al Conservatorio Ellenico, studiando pianoforte, teoria e armonia. \n\n\nCominciò a comporre già alla fine degli anni '60, ma esordì ufficialmente in discografia nel 1975 con l'album «Πολιτικά τραγούδια», mettendo in musica poesie di Nazim Hikmet e Wolf Biermann. Proseguì il suo percorso compositivo musicando testi di Giannis Ritsos, Vladimir Majakovskij, Manos Eleftheriou, Bertolt Brecht e altri. Album come «Cantata per Makronissos», «Fuente Ovejuna», «Tropária per assassini» e «Atto musicale su Brecht» sono emblematici del clima radicale dei primi anni post-dittatura. \n\nLavorò con moltissimi tra i migliori interpreti greci, tra cui Giannis Chachadakis, Alkinoos Ioannidis, Grigoris Bithikotsis, Lavrentis Machairitsas, Dimitra Galani, Sokratis Malamas, Vasilis Papakonstantinou, Pantelis Thalassinos, Christos Thivaios, Nikos Portokaloglou, Dimitris Mitropanos, Giota Negka, Giorgos Ntalaras, Thanasis Papakonstantinou, Pyx Lax, Charis Alexiou, Babis Stokas, Eleftheria Arvanitaki, Natassa Bofiliou, Miltos Paschalidis, Eleni Tsaligopoulou, Giannis Charoulis, Giannis Kotsiras ed Eleonora Zouganeli. \nStixos\n\nTra i lavori più celebri figura l'album del 1996 «Στου αιώνα την παράγκα», realizzato insieme a Dimitris Mitropanos, con testi di Alkis Alkaios e altri — considerato uno dei capolavori della discografia greca moderna.\n\nDopo le elezioni dell'ottobre 1993 assunse l'incarico di Sottosegretario alla Cultura, sotto il Ministro Melina Merkouri. Fu Sottosegretario alla Cultura dal 1993 al 1994, per poi diventare Ministro della Cultura dal 1994 al 1996, nel terzo governo di Andreas Papandreou.Fu inoltre presidente e amministratore delegato del Festival Ellenico (Festival di Atene ed Epidauro) dal 1998 al 1999, consulente per la cultura nel Comitato Organizzativo dei Giochi Olimpici \"Atene 2004\" dal 2002 al 2004, e direttore artistico dell'organismo \"Patrasso 2006 - Capitale Culturale Europea\" dal 2003 al 2005. Per il suo lavoro nella gestione culturale e per la sua attività musicale, divenne cittadino onorario di numerose città greche.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH2sU8Cpnyajy4WiAMJTPAykzLNL1NpfXwYYRyW1J5ug&s=10",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786176516736",
+      "name": "Κώστας Μπέζος",
+      "nameit": "Kòstas Bèzos",
+      "born": "1905, Bolàti, Corinzia",
+      "died": "14 gennaio 1943, Atene",
+      "bio": "Compositore, paroliere, cantante e chitarrista (anche disegnatore satirico e giornalista)\n\nSi dedicò inizialmente alla canzone rebetika, per poi passare a canzoni umoristiche e leggere in stile da rivista teatrale. Si guadagnò da vivere anche come disegnatore satirico e giornalista per il quotidiano dell'epoca \"Proía\". \n\nNacque nel villaggio di Bolàti, in Corinzia, figlio di Vlàsios Bézos e della sua seconda moglie, Fotiní Daní. Fu un bravo studente ma già da piccolo disobbediente; dopo il liceo, completato a Corinto, si trasferì ad Atene ed entrò alla Scuola di Belle Arti. \n\nLo pseudonimo \"Α. Κωστής\"\nResta un mistero come avesse imparato la chitarra così rapidamente e così bene, dato che le sue prime registrazioni sono le sei canzoni incise sotto lo pseudonimo \"Α. Κωστής\" nel 1930, all'età di 25 anni. Il suo primo disco, di contenuto rebetiko, conteneva le canzoni \"Στην υπόγα\" e \"Ήσουνα ξυπόλυτη\". Dietro il misterioso \"Α. Κωστής\", autore di brani come \"Υπόγα\" e \"Παξιμαδοκλέφτρα\", si celava dunque lui. \n\nMolti dei suoi successi sono considerati \"ambigui\", perché oscillano tra il rebetiko più duro, a tema \"hashishi\", e ritmi di sapore latinoamericano. Un aspetto tecnico particolare è la sostituzione del bouzouki con la chitarra come strumento principale. \n\nCinema e ultimi anni\nNel 1941-42 recitò nel film \"Maya la zingara\", diretto da Giannis Christodoulou. È inoltre l'autore della celebre canzone \"Εν τάξει\", dai versi caustici e ancora attuali.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQku0GwA1NNwIh7A_w1sMTIwm7_aMGX6RnNIgfM2K-S3Q&s",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786177986427",
+      "name": "Κώστας Μάνεσης",
+      "nameit": "Kòstas Mànesis",
+      "born": "1 aprile 1914, Atene",
+      "died": "25 febbraio 2002",
+      "bio": "Paroliere, poeta, giornalista ed editore\n\n\nCome paroliere fu estremamente prolifico, e appartiene a quella categoria di autori che iniziarono la loro presenza attiva nel mondo della canzone negli anni '30, continuando senza alcun calo qualitativo fino alla fine degli anni '50 e ancora fino ai primi anni '60. La sua attività di paroliere iniziò agli inizi degli anni '30, raggiunse l'apice dalla metà degli anni '40 in poi, e proseguì con minore intensità fino agli anni '60.\n\nInsieme ad altri autori dell'epoca — come Charálampos Vasiliádis \"Tsántas\", Kostas Kofiniótis, Theódoros Papadópoulos ed Emílios Savvídis \"Savaím\" — si mosse tra due filoni paralleli: la canzone popolare (laikó) e quella leggera (elafró).\n\nLe collaborazioni\nFu tra i primi a scoprire la bellezza e l'immediatezza del rebetiko e del laikó, collaborando con importanti compositori come Vasilis Tsitsanis, Giannis Papaioannou, Kostas Kaplanis, Giorgos Lavkas, Apostolos Chatzichristos e Manolis Chiotis, dando vita insieme a loro a veri capolavori popolari.\n\nCome autore aveva una base autenticamente popolare: era diretto, spontaneo, e le sue canzoni avevano un riscontro concreto nella vita reale. Nell'ambito della canzone leggera, pur avendo pochi rapporti con il teatro musicale (dove solitamente le nuove canzoni venivano presentate per la prima volta al pubblico), scriveva la maggior parte dei suoi brani direttamente per la discografia — il che rese il suo lavoro più difficile da imporre, privo com'era del \"trampolino\" della rivista teatrale. Le sue canzoni dovevano quindi reggersi da sole, con la sola forza della qualità, per affermarsi e sopravvivere nel tempo.\n\nFu anche autore di alcune riviste teatrali, in collaborazione con lo scrittore e paroliere Kréontas Rigópoulos, con cui scrisse anche diverse canzoni.\n\nGiornalismo ed editoria\nOltre alle splendide canzoni popolari che scrisse, servì per quattro decenni la canzone popolare anche come giornalista ed editore di due riviste, «Μοντέρνο Τραγούδι» (Canzone Moderna) e «Το καινούριο Τραγούδι» (La Nuova Canzone), diffondendola tra un pubblico più ampio. Dalle pagine delle sue riviste presentò note biografiche e fece conoscere al pubblico gli artisti dell'epoca.\n\nSi batté con impegno per i problemi della categoria, difendendo gli interessi dei parolieri: da un lato incoraggiava i colleghi a scrivere per i compositori popolari, dall'altro denunciava le pratiche scorrette che affliggevano la professione, in particolare nella canzone leggera. Un esempio emblematico fu il fenomeno degli adattamenti di testi greci su melodie straniere — una pratica che partì con le \"traduzioni\" di marce tedesche e arie italiane, proseguì a metà degli anni '30 con il tango argentino, e dilagò dopo la Seconda Guerra Mondiale con l'invasione della musica americana, complice il cinema e il commercio discografico, soprattutto nel decennio 1944-1954.\n\nSu «Μοντέρνο Τραγούδι» affrontò proprio questo tema: riconosceva le ragioni dei compositori greci, ma denunciava al tempo stesso la superficialità di certi parolieri-traduttori. Sottolineò la crisi che attraversava la canzone greca dell'epoca, quando bellissimi brani, ricchi di sentimento e ottima musica, venivano accolti con diffidenza dagli editori a causa della moda dilagante dei successi stranieri — lasciando così molte belle canzoni greche inedite e sconosciute al grande pubblico.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGFqCw4nWkiEzQeuvAHaE3NzQusR1rwQQ5RSPyVpYvyA&s=10",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1786178569336",
+      "name": "Σούλα Καλφοπούλου",
+      "nameit": "Sùla Kalfopùlù",
+      "born": "1926",
+      "died": "15 marzo 2023",
+      "bio": "Vero nome Χρυσούλα Καλφοπούλου\n\n\nNacque nel 1926, sorella minore del virtuoso di bouzouki e compositore Spyros Kalfopoulos (1923-2006), originario dell'Asia Minore e cresciuto a Nea Ionia, quartiere del Pireo dove era ancora viva la tradizione musicale microasiatica.\n\nSebbene non abbia mai lavorato come cantante sul palco o nei locali di intrattenimento, fu proprio lei a interpretare su disco la maggior parte delle canzoni composte dal fratello Spyros.\n\nNel 1947 uscì con grande successo il brano \"Δυο μάτια, μάτια μου\" (Due occhi, occhi miei), inciso insieme al fratello e a Christos Nakos. L'anno seguente, nel 1948, interpretò insieme a Markos Vamvakaris il brano \"Να το βρεις από άλλη\" (Trovalo da un'altra), su musica di Apostolos Kaldaras.\n\nCantò anche il brano \"Όσα χρόνια κι αν περάσουν\" (Per quanti anni possano passare), con testo di Charálampos Vasiliádis \"Tsántas\" e musica di Giannis Tatasopoulos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8zXHx-33kmm2PLJaLvKpSV2e3ANabFWxArGTfaJu0g&s",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786180727192",
+      "name": "Ιωάννα Γεωργακοπούλου",
+      "nameit": "Ioànna Gheorgakopùlu",
+      "born": "13 febbraio 1920, Pirgo dell'Elide",
+      "died": "7 agosto 2007, Atene",
+      "bio": "Ιωάννα Γεωργακοπούλου\n\nCantante dil rebetiko \n\nNata: 13 febbraio 1920, Pirgo dell'Elide (alcune fonti indicano Zacharo, nella zona di Pirgo)\nMorta: 7 agosto 2007, Atene \n\n\nDopo la morte del padre, la famiglia si trasferì ad Atene. Da ragazzina partecipò al coro della parrocchia di Agios Pavlos, dove fu scoperta dalla cantante Angela Lykiardopoulou, musa di Attik. Con l'aiuto del compositore Giannis Vellas, incise la sua prima canzone. Vellas fu il suo primo maestro, presso il quale mosse i primi passi professionali. \n\n\nDai 18 anni collaborò con la Columbia, entrando in discografia già nel 1938, appena sedicenne — un fatto considerato straordinario per l'epoca, che la rese presto un vero e proprio fenomeno. \n\nÈ considerata una delle più grandi cantanti del rebetiko e la prima donna a interpretare i classici brani rebetika. \n\nDopo la guerra collaborò con i più importanti creatori della musica popolare, come Vasilis Tsitsanis, Manolis Chiotis e Giorgos Mitsakis. Interpretò decine di canzoni di tutti questi compositori, un percorso reso ancora più notevole dal fatto di essere entrata in discografia giovanissima. \n \n\nLa sua carriera nel genuino canto popolare, all'epoca di un'intervista del 1997, aveva già raggiunto i 60 anni di attività. Fu ricordata come \"l'aristocratica del palcoscenico\", e morì a 87 anni, con i funerali celebrati al cimitero di Kokkinos Mylos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9whnaCDJd1m9EixzLb_oGQ9daQ76KJ2cSFOWcOIHvvA&s=10",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786181288405",
+      "name": "Ζαχαρίας Κασιμάτης",
+      "nameit": "Zacharìas Kasimàtis",
+      "born": "1896, Smirne",
+      "died": "",
+      "bio": "Cantante, chitarrista e compositore del rebetiko\n\nNato: 1896, Smirne\nMorto: 1965, Atene\n\nBiografia\n\nSi dedicò alla musica fin da giovanissimo: intorno al 1916 lo troviamo tra le fila della celebre orchestra smirniota \"Ta Politakia\", dove suonava il mandolino, strumento che in seguito sostituì con la chitarra.\n\nDurante la catastrofe dell'Asia Minore fu fatto prigioniero, ma riuscì a raggiungere la Grecia nel 1923. Da quell'anno fino alla morte, nel 1965, prese parte a numerosi complessi di musica smirneica, demotica, rebetika e laiko, ora come cantante, ora come chitarrista.\n\nGli esordi discografici\nFece il suo debutto discografico come cantante nel 1929, per l'etichetta francese Pathé, con due brani di Kostas Skarvelis (\"Το χασαπάκι\" e \"Η αλανιάρα\"), e nello stesso anno per la tedesca Parlophone con \"Αλάνης μάνας γιος\" di Panos Tountas. Cantò poi composizioni di Giannis Dragatsis, Spyros Peristeris, Iakovos Montanaris e altri.\n\nCome compositore\nNel 1933 Marika Politissa interpretò la sua prima composizione, \"Δε με τουμπάρεις\". Altre sue composizioni furono cantate da Georgia Mittaki, Kostas Roukounas e altri interpreti dell'epoca.\n\nAlcuni brani rappresentativi\nFu tra i primi interpreti di brani oggi considerati classici del genere, come \"Ο μάγκας του Βοτανικού\" (1934, di Spyros Peristeris) e \"Οφ αμάν\" (1934, sempre di Peristeris). Cantò anche in coppia con grandi voci del rebetiko, come Roza Eskenazy (nel celebre \"Ντερβισάκι\") e Rita Abatzi.\n\nCompose e incise decine di brani propri per etichette come Parlophone, Odeon e Standard, mantenendo un'attività discografica continuativa dal 1929 fino agli anni '50.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
       ]
     }
   ]
