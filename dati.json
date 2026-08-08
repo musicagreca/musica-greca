@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-08T09:33:20.539Z",
+  "exportedAt": "2026-08-08T10:55:42.471Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
@@ -2069,6 +2069,14 @@
   ],
   "args": [
     {
+      "id": "a_1786186463040",
+      "title": "ΓΕΝΤΙ ΚΟΥΛΕ — La prigione più cantata del rembetiko",
+      "tag": "storie di luoghi",
+      "date": "2026-08-05",
+      "body": "https://musicagreca.github.io/musica-greca/images/salonicco1.jpg \nDalla fortezza bizantina al carcere ottomano\nIl complesso di Γεντί Κουλέ (dal turco Yedi Kule, \"Sette Torri\"), noto anche come Επταπύργιο (Eptapyrgio), sorge nel punto più alto dell'Acropoli di Salonicco. I cinque torrioni settentrionali risalgono probabilmente all'epoca di Teodosio I (fine IV secolo), mentre i cinque meridionali furono aggiunti nel XII secolo e poi restaurati in epoca paleologa.\nDopo la conquista ottomana della città (1430), la fortezza fu ricostruita nel 1431 da Tsavush Bey, primo governatore ottomano, come sede militare e residenza del comandante della piazza (nel 1591 vi risiedeva una guarnigione di 300 uomini).\nVerso il 1890 il complesso fu trasformato in carcere maschile, femminile e militare — una conversione che comportò la rimozione di tutti gli edifici precedenti e l'inversione del ruolo delle mura: da protezione della città a isolamento dei detenuti dal mondo esterno.\nhttps://musicagreca.github.io/musica-greca/images/salonicco3.jpg La struttura interna, visibile nella pianta, comprendeva: carcere maschile, carcere femminile, carcere militare, celle di isolamento, chiesa, corpo di guardia centrale, edifici amministrativi e area colloqui — il tutto racchiuso nel nucleo bizantino originario (in rosso nella pianta), \"avvolto\" dalle costruzioni carcerarie successive (in blu).\nIl sovraffollamento e le condizioni di vita\nhttps://musicagreca.github.io/musica-greca/images/salonicco8.jpg \nLe condizioni di detenzione furono critiche fin dall'epoca ottomana: nel febbraio 1907, a causa del sovraffollamento, 400 detenuti furono trasferiti nella Torre Bianca. Nelle stesse celle convivevano musulmani, greci, bulgari e valacchi, provocando risse frequenti; le epidemie di tifo, colera e vaiolo erano ricorrenti.\nNel 1935 l'Eptapyrgio era la seconda prigione più piccola e affollata della Grecia (decima su undici per capacità), con soli 2,7 mq per detenuto. Tra il 1929 e il 1933 più della metà dei detenuti si ammalava ogni anno (52%, il doppio della media nazionale), soprattutto di malaria e tubercolosi. In cinque anni si registrarono 53 decessi interni — circa il 20% di tutti i decessi carcerari greci di quel periodo.\nUn secolo di prigionia politica\nDurante l'occupazione nazista (1941-1944) furono giustiziati 45 patrioti greci. Ma fu soprattutto la Guerra Civile a rendere Γεντί Κουλέ tristemente famoso: secondo la ricerca sui registri dei decessi del Comune di Salonicco, vi furono eseguite 184 condanne a morte tra il 1946 e il 1949, con il picco nella primavera del 1948.\nhttps://musicagreca.github.io/musica-greca/images/salonicco9.jpg \nLe esecuzioni avvenivano all'alba, nell'area desolata dietro il carcere, verso il bosco di Seich Sou. Tra i prigionieri politici vi fu anche il poeta Manolis Anagnostakis, condannato a morte nel 1949 e detenuto fino al 1951, quando fu liberato per amnistia. Le ultime esecuzioni capitali della storia greca ebbero luogo proprio qui: Aristidis Pagkratidis nel febbraio 1968, seguito pochi giorni dopo da Michalis Spyridakis e Dimitrios Giannoukakis.\nIl carcere acquisì ulteriore tristissima fama nel 1987, quando un'inchiesta giudiziaria e giornalistica rivelò torture sistematiche, traffico di droga e stupri da parte del personale penitenziario.\nLa memoria nel rembetiko\nNessun'altra prigione greca è stata così cantata. Tra i brani più noti:\n•\t\"Πέντε χρόνια δικασμένος\" di Vangelis Papazoglou (1934)\n•\t\"Στης φυλακής τα σίδερα\"\n•\t\"Νύχτωσε χωρίς φεγγάρι\" di Apostolos Kaldaras\nLa chiusura e il restauro\nNel 1989 le carceri furono trasferite a Diavata e l'edificio passò dal Ministero della Giustizia al Ministero della Cultura. Tra il 1990 e il 1995 la Soprintendenza alle Antichità Bizantine di Salonicco condusse ricerca archeologica e documentazione; i lavori principali di restauro si svolsero tra il 1996 e il 2006, seguiti da un intervento specifico sulla torre centrale nord (2010-2015, progetto ESPA).\nhttps://musicagreca.github.io/musica-greca/images/salonicco4.jpg \nOggi l'Eptapyrgio è un sito archeologico visitabile, sede di mostre, spettacoli teatrali e concerti — anche se l'idea di un vero museo dedicato alla sua storia carceraria, avanzata da più parti, non ha ancora trovato piena realizzazione.\n\nhttps://musicagreca.github.io/musica-greca/images/salonicco5.jpg",
+      "link": ""
+    },
+    {
       "id": "a_1786122646851",
       "title": "Μπαξέ Τσιφλίκι - un canto d'amore per sette quartieri di Salonicco",
       "tag": "storie di canzoni",
@@ -3197,13 +3205,13 @@
     {
       "id": "p_1785754360425",
       "name": "Ζαχαρίας Κασιμάτης",
-      "nameit": "Zacharìas Kasimòtis",
+      "nameit": "Zacharìas Kasimàtis",
       "born": "1896, Smirne",
       "died": "18 aprile 1965, Atene",
-      "bio": "Grande cantante di rebetiko con una presenza piccola ma dinamica e caratteristica. Nel 1916 entra a far parte dei Politakia, suonando il mandolino e più tardi la chitarra. Durante il disastro dell'Asia Minore, viene catturato, ma riesce a raggiungere la Grecia nel 1923.\n Ha registrato tra il 1931 e il 1950 circa 50 canzoni, con la prima è la tradizionale \"Kalogeraki\" (disco Odeon GA 1586, Atene 1931). Ha cantato nella prima esibizione alcuni dei più bei rebetika, come \"Ο μάγκας του Βοτανικού\" (disco Parlophon B-21708 Atene 1934) e il \"Ωφ αμάν\" (disco Odeon GA 1701, Atene 1934) di Spiros Peristeris ecc. Come compositore ha collaborato con Spiros Peristeris nell’adattamento e nella presentazione nella discografia di molte canzoni tradizionali.",
+      "bio": "Grande cantante di rebetiko con una presenza piccola ma dinamica e caratteristica.\n Nel 1916 entra a far parte dei Politakia, suonando il mandolino e più tardi la chitarra. Durante il disastro dell'Asia Minore, viene catturato, ma riesce a raggiungere la Grecia nel 1923. . Da quell'anno fino alla morte, nel 1965, prese parte a numerosi complessi di musica smirneica, demotica, rebetika e laiko, ora come cantante, ora come chitarrista.\n\nFece il suo debutto discografico come cantante nel 1929, per l'etichetta francese Pathé, con due brani di Kostas Skarvelis (\"Το χασαπάκι\" e \"Η αλανιάρα\"), e nello stesso anno per la tedesca Parlophone con \"Αλάνης μάνας γιος\" di Panos Tountas. Cantò poi composizioni di Giannis Dragatsis, Spyros Peristeris, Iakovos Montanaris e altri.\n\n Ha registrato tra il 1931 e il 1950 circa 50 canzoni, con la prima è la tradizionale \"Kalogeraki\" (disco Odeon GA 1586, Atene 1931). Ha cantato nella prima esibizione alcuni dei più bei rebetika, come \"Ο μάγκας του Βοτανικού\" (disco Parlophon B-21708 Atene 1934) e il \"Ωφ αμάν\" (disco Odeon GA 1701, Atene 1934) di Spiros Peristeris ecc. Come compositore ha collaborato con Spiros Peristeris nell’adattamento e nella presentazione nella discografia di molte canzoni tradizionali.\nNel 1933 Marika Politissa interpretò la sua prima composizione, \"Δε με τουμπάρεις\". Altre sue composizioni furono cantate da Georgia Mittaki, Kostas Roukounas e altri interpreti dell'epoca.\nFu tra i primi interpreti di brani oggi considerati classici del genere, come \"Ο μάγκας του Βοτανικού\" (1934, di Spyros Peristeris) e \"Οφ αμάν\" (1934, sempre di Peristeris). Cantò anche in coppia con grandi voci del rebetiko, come Roza Eskenazy (nel celebre \"Ντερβισάκι\") e Rita Abatzi.",
       "link": "",
       "listen": "",
-      "photo": "https://github.com/musicagreca/musica-greca/blob/bbf1799dba4392c4d5ac1691b41b7568cb8ae4da/images/Zacharias.jpg",
+      "photo": "https://musicagreca.github.io/musica-greca/images/Zacharias.jpg",
       "roles": [
         "at",
         "am",
@@ -3818,22 +3826,6 @@
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9whnaCDJd1m9EixzLb_oGQ9daQ76KJ2cSFOWcOIHvvA&s=10",
       "roles": [
         "ar"
-      ]
-    },
-    {
-      "id": "p_1786181288405",
-      "name": "Ζαχαρίας Κασιμάτης",
-      "nameit": "Zacharìas Kasimàtis",
-      "born": "1896, Smirne",
-      "died": "",
-      "bio": "Cantante, chitarrista e compositore del rebetiko\n\nNato: 1896, Smirne\nMorto: 1965, Atene\n\nBiografia\n\nSi dedicò alla musica fin da giovanissimo: intorno al 1916 lo troviamo tra le fila della celebre orchestra smirniota \"Ta Politakia\", dove suonava il mandolino, strumento che in seguito sostituì con la chitarra.\n\nDurante la catastrofe dell'Asia Minore fu fatto prigioniero, ma riuscì a raggiungere la Grecia nel 1923. Da quell'anno fino alla morte, nel 1965, prese parte a numerosi complessi di musica smirneica, demotica, rebetika e laiko, ora come cantante, ora come chitarrista.\n\nGli esordi discografici\nFece il suo debutto discografico come cantante nel 1929, per l'etichetta francese Pathé, con due brani di Kostas Skarvelis (\"Το χασαπάκι\" e \"Η αλανιάρα\"), e nello stesso anno per la tedesca Parlophone con \"Αλάνης μάνας γιος\" di Panos Tountas. Cantò poi composizioni di Giannis Dragatsis, Spyros Peristeris, Iakovos Montanaris e altri.\n\nCome compositore\nNel 1933 Marika Politissa interpretò la sua prima composizione, \"Δε με τουμπάρεις\". Altre sue composizioni furono cantate da Georgia Mittaki, Kostas Roukounas e altri interpreti dell'epoca.\n\nAlcuni brani rappresentativi\nFu tra i primi interpreti di brani oggi considerati classici del genere, come \"Ο μάγκας του Βοτανικού\" (1934, di Spyros Peristeris) e \"Οφ αμάν\" (1934, sempre di Peristeris). Cantò anche in coppia con grandi voci del rebetiko, come Roza Eskenazy (nel celebre \"Ντερβισάκι\") e Rita Abatzi.\n\nCompose e incise decine di brani propri per etichette come Parlophone, Odeon e Standard, mantenendo un'attività discografica continuativa dal 1929 fino agli anni '50.",
-      "link": "",
-      "listen": "",
-      "photo": "",
-      "roles": [
-        "am",
-        "ar",
-        "mu"
       ]
     }
   ]
