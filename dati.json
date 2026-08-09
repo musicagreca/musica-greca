@@ -1,8 +1,50 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-09T07:20:28.445Z",
+  "exportedAt": "2026-08-09T09:18:22.374Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786263804018",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κώστας \"Gust\" Δούσας",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=OPQUQsq7hKw"
+        },
+        {
+          "who": "Νέζερ Μαρίκα & Μ.Ζαφειρίδης",
+          "year": "1932",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=0Rb6XFBSf60"
+        },
+        {
+          "who": "Σωτηρία Μπέλλου",
+          "year": "1969",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=JFX4P51mrv0"
+        }
+      ],
+      "date": "2026-08-09",
+      "tgr": "Το γελεκάκι",
+      "tit": "To ghelekàki",
+      "alias": "",
+      "at": "Γιάννης Θεοδωρίδης",
+      "am": "Σπύρος Ολλανδέζος",
+      "yr": "1932",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "Ραστ",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "DO         SOL      DO    SOL      DO\nΤο γελεκάκι που φορείς εγώ στο 'χω ραμμένο\nDO         SOL      DO    SOL      DO\nΜε πίκρες και με βάσανα στο 'χω φοδραρισμένο\n\n\nDO\nΆιντε, το μαλώνω, το μαλώνω\nDO          SOL      DO\nάιντε κι ύστερα το μετανιώνω\nDO\nάιντε, το μαλώνω και το βρίζω\nDO          SOL      DO\nάιντε την καρδούλα του ραΐζω\nSOL\nΦόρα το μωρό μου, φόρα το χρυσό μου\nSOL               FA      SOL     DO\nγιατί δε θα το ξαναφορέσεις άλλο πια\nSOL\nΦόρα το για να 'σαι, για να με θυμάσαι\nSOL               FA      SOL     DO\nγια μετάξι έχω τα σγουρά σου τα μαλλιά\n\n\nDO         SOL      DO    SOL      DO\nΜε πήρε ο ύπνος κι έγειρα στου καραβιού την πλώρη\nDO         SOL      DO    SOL      DO\nκαι ήρθε και με ξύπνησε του καπετάνιου η κόρη\n\nDO\nΆιντε, το μαλώνω, το μαλώνω\nDO          SOL      DO\nάιντε κι ύστερα το μετανιώνω\nDO\nάιντε, το μαλώνω και το βρίζω\nDO          SOL      DO\nάιντε την καρδούλα του ραΐζω\nSOL\nΦόρα το μωρό μου, φόρα το χρυσό μου\nSOL               FA      SOL     DO\nγιατί δε θα το ξαναφορέσεις άλλο πια\nSOL\nΦόρα το για να 'σαι, για να με θυμάσαι\nSOL               FA      SOL     DO\nγια μετάξι έχω τα σγουρά σου τα μαλλιά\n\nDO         SOL      DO    SOL      DO\nΣήκωσ' το γελεκάκι μου, να δεις τη μαχαιριά μου\nDO         SOL      DO    SOL      DO\nΓια σένα μου την δώσανε, σ' ευχαριστώ κυρά μου",
+      "tr": "To yelekáki\n\nTo yelekáki pu forís egó sto 'cho raméno\nMe píkres ke me vásana sto 'cho fodrarisméno\n\nÁinde, to malóno, to malóno\náinde ki istera to metanióno\náinde, to malóno ke to vrízo\náinde tin kardúla tou raízo\nFóra to moró mu, fóra to chrisó mu\nghiatí de tha to ksanaforésis állo pia\nFóra to gia na 'se, gia na me thimáse\ngia metáksi écho ta sgurá sou ta malliá\n\nMe píre o ìpnos ki éghira stu karaviú tin plóri\nke írthe ke me ksýpnise tou kapetánio i kóri\n\nÁinde, to malóno...\n\nSíkos' to yelekáki mu, na dis ti macheriá mou\nGhia séna mu tin dósane, s' efcharistó kirá mou\n\nÁinde, to malóno...",
+      "ti": "iL GILè\n\nIl gilè che indossi, io l'ho cucito,\ncon amarezze e con pene l'ho foderato.\n\nAh, lo sgrido, lo sgrido,\nah, e poi me ne pento,\nah, lo sgrido e lo insulto,\nah, gli spezzo il cuoricino.\nIndossalo, bimbo mio, indossalo, tesoro mio,\nperché non lo indosserai mai più.\nIndossalo per esistere, per ricordarti di me,\nper seta ho i tuoi capelli ricci.\n\nMi prese il sonno e mi appoggiai alla prua della nave,\ne venne a svegliarmi la figlia del capitano.\n\nAh, lo sgrido...\n\nSollevami il gilè, guarda la mia ferita di coltello,\nper te me l'hanno data, ti ringrazio, signora mia.\n\nAh, lo sgrido...\n\nNote alla traduzione\n\"γελεκάκι\" – diminutivo di \"γιλέκο\" (gilè, panciotto), capo d'abbigliamento tipico maschile nel folklore greco-mediterraneo, spesso associato a canti marinareschi/klefti. Reso con \"gilè\".\n\"στο 'χω ραμμένο\" / \"φοδραρισμένο\" – \"l'ho cucito\"/\"l'ho foderato\": qui il gilè diventa metafora del sé del protagonista, cucito con dolore e sofferenza; l'immagine è quella di un capo d'abbigliamento che porta dentro (nella fodera) tutte le pene vissute.\n\"ραΐζω\" – verbo che significa letteralmente \"incrinare, spaccare\" (come si spacca un vaso o una superficie), qui usato in senso figurato per \"spezzare il cuore\". Reso con \"spezzo\".\n\"του καπετάνιου η κόρη\" – \"la figlia del capitano\", figura ricorrente nei canti marinareschi greci, spesso oggetto di un amore proibito o pericoloso legato al viaggio per mare.\n\"μαχαιριά\" – letteralmente \"colpo/ferita di coltello\": il verso finale rivela il tema del duello o della vendetta legata all'amore per la ragazza (\"per te me l'hanno data\"), tipico motivo delle canzoni popolari greche di genere \"klephtiko\" o \"rebetiko\" a sfondo drammatico/violento.",
+      "no": "Questo è il testo completo con la traduzione della prima edizione del disco (1934 Chigaco), testo probabilmente alterato rispetto all'originale in spartito (stampato ad Atene nel 1932)\nhttps://musicagreca.github.io/musica-greca/images/togelekaki.jpg \n\nΤο γελεκάκι όπου φορείς\nεγώ το ’χω ραμμένο\n\nκαι με το αχ και με το βαχ\nτι το ’χω κεντημένο\n\nάιντε, το μωρό μου, το μωρό μου\nτο είδα πάλι στο όνειρό μου\n\nφόρα το, μωρό μου, φόρα το, μικρό μου\nγιατί δεν θα το ξαναφορέσεις άλλο πια\n\nφόρα το στα ξένα, να θυμάσαι εμένα\nπου σε αγαπούσε η φτωχή μου η καρδιά\n\nσήκωσ’ το γελεκάκι μου\nνα ιδείς την μαχαιριά μου\n\nγια σέναν’ μου την δώσανε\nσ’ ευχαριστώ, κυρά μου\n\nάιντε, το μαλώνω, το μαλώνω\nκαι ύστερα το μετανιώνω\n\nφόρα το, μωρό μου, φόρα το, μικρό μου\nγιατί δεν θα το ξαναφορέσεις άλλο πια\n\nφόρα το, χρυσό μου, φόρα το, μικρό μου\nγια μετάξι έχω τα σγουρά σου τα μαλλιά\n\nο κόσμος μάς κατηγορεί\nγιατί ν’ αγαπηθούμε\n\nκι από την ζήλια την πολλή\nλέν’ πως θα χωριστούμε\n\nάιντε, φόρα το και μη σε νοιάζει\nκι ας τον κόσμο να γκρινιάζει\n\nέλα για του κόσμου το γινάτι\nνα κλεφτούμε κι ας του βγει το μάτι\n\nφόρα το, μωρό μου, φόρα το, μικρό μου\nγιατί δεν θα το ξαναφορέσεις άλλο πια\n\nφόρα το στα ξένα, να θυμάσαι εμένα\nπου σε αγαπούσε η φτωχή μου η καρδιά  \n\nIl gilè che indossi\nio l'ho cucito,\n\ne con l'ah e con il oh (i sospiri, i lamenti)\nte l'ho ricamato.\n\nAh, bimbo mio, bimbo mio,\nti ho visto di nuovo nel mio sogno.\n\nIndossalo, bimbo mio, indossalo, piccolo mio,\nperché non lo indosserai mai più.\n\nIndossalo in terra straniera, per ricordarti di me,\nche ti amava con il mio povero cuore.\n\nSollevami il gilè,\nper vedere la mia ferita di coltello,\n\nper te me l'hanno data,\nti ringrazio, signora mia.\n\nAh, lo sgrido, lo sgrido,\ne poi me ne pento.\n\nIndossalo, bimbo mio, indossalo, piccolo mio,\nperché non lo indosserai mai più.\n\nIndossalo, tesoro mio, indossalo, piccolo mio,\nper seta ho i tuoi capelli ricci.\n\nIl mondo ci accusa,\nperché mai dovremmo amarci,\n\ne per la gelosia eccessiva\ndicono che ci separeremo.\n\nAh, indossalo e non curartene,\nlascia pure che il mondo brontoli.\n\nVieni, per far dispetto al mondo,\nfuggiamo insieme e che scoppi d'invidia.\n\nIndossalo, bimbo mio, indossalo, piccolo mio,\nperché non lo indosserai mai più.\n\nIndossalo in terra straniera, per ricordarti di me,\nche ti amava con il mio povero cuore."
+    },
     {
       "id": "s_1786254965646",
       "offsets": {},
@@ -4249,6 +4291,64 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/katsaris.jpg",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1786262225909",
+      "name": "Σπύρος Ολλανδέζος",
+      "nameit": "Spìros Ollandèzos",
+      "born": "1890",
+      "died": "1952",
+      "bio": "Compositore, violinista e cantante greco. È autore della musica di \"Το γελεκάκι\" (1932), una delle canzoni greche più celebri e longeve, su testo di Giannis Theodoridis.\n\nSecondo un aneddoto tramandato, Ollandezos indossava un panciotto (γελέκι) prezioso, oltre le sue possibilità economiche dell'epoca. Sfoggiandolo davanti alla sua amata Areti, lei gli rispose spontaneamente con la frase che divenne l'incipit della canzone; lui compose la melodia di getto, sul momento, e il testo fu poi completato con l'aiuto di un certo \"Ι.\" (iniziale, probabilmente lo stesso Giannis Theodoridis).\n\nLa partitura originale fu pubblicata nel 1932 come \"ελληνικό τραγουδάκι\" (canzoncina greca), con copertina tricolore del disegnatore Domenikos Vardakostas.\n\nLe varianti testuali — la canzone circola in più versioni testuali significativamente diverse tra loro. La prima incisione nota, cantata da Kostas Dousas (1934), ha un testo diverso da quello poi diventato standard nelle esecuzioni successive (Marika Nezer, Vicky Moscholiou e altri): mancano ad esempio i versi sulla \"coltellata\" (\"Σήκωσ' το γελεκάκι μου να δεις τη μαχαιριά μου\") presenti in altre fonti/versioni, e anche l'incipit stesso cambia formulazione tra le diverse incisioni.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ollandezos.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786263999872",
+      "name": "Μαρίκα Νέζερ",
+      "nameit": "Marìka Nèzer",
+      "born": "1906",
+      "died": "18 luglio 1989, Atene",
+      "bio": "Μαρίκα Νέζερ (1906-1989)\n\nNacque a Costantinopoli nel 1906 e morì ad Atene il 18 luglio 1989. Fu un'attrice greca.\n\nFamiglia teatrale — era figlia dell'attore Konstantinos Nezer e dell'attrice e mima Kleopatra Nezer, sorella dell'attore Christoforos Nezer (1903-1995), cugina di un altro Christoforos Nezer (1887-1970, importante attore del Teatro Nazionale greco), e nipote di Christoforos Nezer, comandante della guarnigione di Atene e aiutante di campo del re di Grecia Ottone.\n\nGli esordi con la sorella — nei suoi primi passi teatrali recitava insieme alla sorella Katina, formando il duo noto come \"Τα Νεζεράκια\" (Le Nezerine). Salì sul palcoscenico a 13 anni al Cairo, dove ottenne una posizione di rilievo soprattutto nel genere della rivista musicale.\n\nCarriera nel teatro di rivista e nel cinema — divenne una delle più grandi attrici caratteriste del teatro di rivista e del cinema greco. La celebre attrice Marika Kotopouli la stimava molto, e le diceva: \"Tu, cosa ci fai a recitare nell'esibizione dei vestiti? Tu dovresti fare dramma insieme a me.\"\n\nVita privata — era sposata con l'attore Errikos Kontarinis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/nezer.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786264354751",
+      "name": "Μ. Ζαφειρίδης",
+      "nameit": "M. Zafirìdis",
+      "born": "?",
+      "died": "?",
+      "bio": "Il cantante M. Zafiridis (Μ. Ζαφειρίδης) è stato un interprete della musica \"elafro\" (leggera) e della primissima tradizione urbana greca, la cui attività discografica si è concentrata ad Atene nel 1933.Come accadeva frequentemente per i comprimari e gli interpreti d'orchestra dell'era dei dischi a 78 giri, i dettagli biografici personali (come il nome di battesimo completo o le date di nascita e morte) non sono stati tramandati dai cataloghi dell'epoca, lasciando che a parlare per lui fosse unicamente la sua voce impressa sulla lacca.I documenti storici d'archivio e le matrici fonografiche permettono di delineare con precisione la sua attività musicale:Il successo teatrale e \"Με λεν μπεκρή\"Nel 1933, M. Zafiridis incide per la filiale greca della casa discografica Odeon (catalogo GA-1617 / matrice GO-1806) il brano \"Με λεν μπεκρή\" (Mi chiamano ubriacone), registrato in stile Tango.Contesto: Il brano proveniva direttamente dal teatro di rivista ateniese, nello specifico dalla celebre sfilata e rivista teatrale intitolata \"Παπαγάλος του 1932\" (Il Pappagallo del 1932).Autori: Musica di Lola Votti e testi di Antonis Vottis.Collaborazioni: Zafiridis interpreta il brano in duetto con un altro nome noto della rivista dell'epoca, Nikos Toumbakaris. All'incisione partecipa alla direzione d'orchestra Nikos Statheros, e in alcune sessioni collegate compare al bouzouki persino il celeberrimo compositore rebetiko Spyros Peristeris.Le versioni storiche di \"Το γελεκάκι\"Zafiridis legò il suo nome a uno dei brani in assoluto più famosi, incisi e reinterpretati della storia della musica greca: \"Το γελεκάκι\" (Il gilet, scritto originariamente da Spyros Ollandezos). Nel solo anno 1933, la Odeon pubblicò diverse versioni di questo tormentone dell'epoca, e Zafiridis ne fu protagonista:Il duetto con Marika Nezer: Incise una celebre versione a due voci insieme alla grandissima attrice e cantante Marika Nezer, accompagnati dall'orchestra ufficiale Odeon (pubblicata sui dischi Odeon GA-1618 e GA-1638).Il legame con Petros Epitropakis: In alcuni registri di spartiti e canzonieri storici greci, il suo nome compare associato alla partitura del brano insieme a Nezer e al famosissimo tenore dell'opera greca Petros Epitropakis, confermando la sua collocazione nel filone lirico-leggero (elafro tragoudi).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/zafiridis.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786267091249",
+      "name": "Γιάννης Θεοδωρίδης",
+      "nameit": "Ghiannis Theodorìdis",
+      "born": "?",
+      "died": "?",
+      "bio": "Paroliere greco. È autore del testo di \"Το γελεκάκι\" (1932), su musica di Spyros Ollandezos, una delle canzoni greche più celebri e longeve.\n\nLa partitura originale — pubblicata nel 1932 ad Atene dalla casa editrice musicale di Grigoris Konstantinidis (Stoà Arsakeíou 1 / Odós Stadíou 4), con copertina disegnata da Domenikos Vardakostas. Le prime parole del brano sono \"Το γελεκάκι που φορείς\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/togelekaki3pg.png",
+      "roles": [
+        "at"
       ]
     }
   ]
