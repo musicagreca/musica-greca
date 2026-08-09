@@ -1,8 +1,54 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-09T09:18:22.374Z",
+  "exportedAt": "2026-08-09T15:35:46.777Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786289276468",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-09",
+      "tgr": "Αυτή η νύχτα μένει",
+      "tit": "Aftì ì nìchta mèni",
+      "alias": "",
+      "at": "Στέλιος Καζαντζίδης",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1959",
+      "ar": "Στέλιος Καζαντζίδης",
+      "lb": "Odeon DSOG 2555",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Tsifteteli",
+      "ll": "https://www.youtube.com/watch?v=XCMDONeXlP0",
+      "li": "",
+      "ch": "REm                 SOLm\nΑυτή η νύχτα μένει που θα 'μαστε μαζί\nREm                 SOLm\nΑυτή η νύχτα μένει που θα 'μαστε μαζί\nSOLm           DOm                REm\nΘα φύγεις μακριά μου πριν έρθει το πρωί\nREm\nΑυτή η νύχτα μένει\n\nREm                 DOm          SI♭\nΑγάπη μου σε χάνω, έτσι ήτανε γραμμένο\nFA          DOm         SOLm      REm\nμα όσο ζω στον κόσμο εσένα θα προσμένω\nREm                 DOm          SI♭\nΑγάπη μου θα φύγεις, έτσι ήτανε γραμμένο\nFA          DOm         SOLm      REm\nμα όσο ζω στον κόσμο εσένα θα προσμένω\n\n(assunti stessi accordi della prima strofa)\nREm                 SOLm\nΑυτή η νύχτα μένει που θα 'μαστε μαζί\nREm                 SOLm\nΑυτή η νύχτα μένει που θα 'μαστε μαζί\nSOLm                DOm        REm\nΘα φύγεις μακριά μου πριν έρθει το πρωί\nREm\nΑυτή η νύχτα μένει\n\nREm                         SOLm\nΑγάπη μου μεγάλη, μονάχος πώς θα ζήσω\nREm                         SOLm\nΑγάπη μου μεγάλη, μονάχος πώς θα ζήσω\nSOLm                   DOm         REm\nστην αγκαλιά σου μέσα γύρνα κι ας ξεψυχήσω\nREm\nΑγάπη μου μεγάλη\n\nREm                 DOm          SI♭\nΑγάπη μου σε χάνω, έτσι ήτανε γραμμένο\nFA          DOm         SOLm      REm\nμα όσο ζω στον κόσμο εσένα θα προσμένω\nREm                 DOm          SI♭\nΑγάπη μου θα φύγεις, έτσι ήτανε γραμμένο\nFA          DOm         SOLm      REm\nμα όσο ζω στον κόσμο εσένα θα προσμένω\n\nREm                 SOLm\nΑυτή η νύχτα μένει που θα 'μαστε μαζί\nREm                 SOLm\nΑυτή η νύχτα μένει που θα 'μαστε μαζί\nSOLm           DOm                REm\nΘα φύγεις μακριά μου πριν έρθει το πρωί\nREm\nΑυτή η νύχτα μένει",
+      "tr": "Aftì ì nìchta mèni\n\nAftí i nichta méni pou tha 'maste mazí\nTha fìgeis makriá mou prin érthei to proí\nAftí i nìchta ménei\n\nAgápi mu se cháno, étsi ítane graménο\nma óso zo ston kósmo eséna tha prosméno\nAgápi mu tha fìghis, étsi ítane graménο\nma óso zo ston kósmo eséna tha prosméno\n\nAftí i nìchta méni pu tha 'maste mazí\nTha fìgeis makriá mou prin érthei to proí\nAftí i nìchta ménei\n\nAgápi mou megáli, monáchos pos tha zíso\nstin ankaliá sou mésa gýrna ki as xepsychíso\nAgápi mou megáli\n\nAgápi mou se cháno...\n\nAftí i nýchta ménei...",
+      "ti": "Questa notte resta\n\nQuesta notte resta, quella in cui staremo insieme\nTe ne andrai lontano da me prima che arrivi il mattino\nResta questa notte\n\nAmore mio, ti perdo, così era scritto\nma finché vivo al mondo ti aspetterò\nAmore mio, te ne andrai, così era scritto\nma finché vivo al mondo ti aspetterò\nQuesta notte resta, quella in cui staremo insieme\nTe ne andrai lontano da me prima che arrivi il mattino\nResta questa notte\n\nAmore mio grande, come vivrò da solo\ntorna dentro le tue braccia e che io spiri lì\nAmore mio grande\n\nAmore mio, ti perdo...\n\nResta questa notte...\n\nNote di traduzione\n\n\"έτσι ήτανε γραμμένο\" — letteralmente \"così era scritto\": espressione fatalista molto diffusa nella cultura greca (e mediterranea in genere), che attribuisce eventi dolorosi — soprattutto in amore — a un destino già stabilito, ineluttabile; equivalente al nostro \"era scritto così\" / \"doveva andare così\".\n\n\"στην αγκαλιά σου μέσα γύρνα κι ας ξεψυχήσω\" — letteralmente \"torna dentro il tuo abbraccio e che io esali l'ultimo respiro\": immagine iperbolica tipica della canzone d'amore greca (specialmente laika/rebetiko), dove \"morire\" nell'abbraccio dell'amata non è literale ma esprime il desiderio estremo di essere riuniti, anche a costo della vita — non va inteso come reale richiesta di morte.\n\n\"μονάχος πώς θα ζήσω\" — \"come vivrò da solo\": domanda retorica che sottolinea la disperazione dell'abbandono, frequente nei testi del genere laiko-elafro greco per esprimere la totale dipendenza emotiva dall'amato/a.",
+      "no": ""
+    },
+    {
+      "id": "s_1786287732640",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-09",
+      "tgr": "Σήκω χόρεψε κουκλί μου",
+      "tit": "Sìko chòrepse kuklì mou",
+      "alias": "",
+      "at": "Στέλιος Καζαντζίδης",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1960",
+      "ar": "Στέλιος Καζαντζίδης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Tsifteteli",
+      "ll": "https://www.youtube.com/watch?v=vMLFc8xeCpI",
+      "li": "",
+      "ch": "RE                     LA           RE\nΣήκω χόρεψε κουκλί μου, να σε δω να σε χαρώ\nRE        SOL          RE        LA             RE    \nτσιφτετέλι τούρκικο, νινανάι γιαβρούμ, νινανάι-νάι  \nRE        SOL          RE        LA             RE    \nτσιφτετέλι τούρκικο, νινανάι γιαβρούμ, νινανάι-νάι \n \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι      \n \nRE                     LA           RE\nΘα σου τραγουδήσω πάλι στον ασίκικο χαβά\nRE        SOL          RE        LA             RE    \nκούνα λίγο το κορμί σου, νινανάι γιαβρούμ, νινανάι-νάι  \nRE        SOL          RE        LA             RE    \nκούνα λίγο το κορμί σου, νινανάι γιαβρούμ, νινανάι-νάι \n\nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι \n\nRE                     LA           RE\nΜια φορά μονάχα ζούμε μες στον ψεύτικο ντουνιά\nRE        SOL          RE        LA             RE    \nπρέπει λίγο να χαρούμε, νινανάι γιαβρούμ, νινανάι-νάι \nRE        SOL          RE        LA             RE    \nπρέπει λίγο να χαρούμε, νινανάι γιαβρούμ, νινανάι-νάι \n \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι",
+      "tr": "Sìko chòrepse kuklì mou\n\nSíko chórepse kukloì mu, na se do na se charó\ntsiftetéli túrkiko, ninanái giavrúm, ninanái-nái\n\nÓpa, nina-ninanái, ninanái-nái\nninanái giavrúm, ninanái-nai\n\nTha sou tragudíso páli ston asíkiko chavá\nkúna lígo to kormí su, ninanái giavrúm, ninanái-nái\n\nÓpa, nina-ninanái...\n\nMia forá monácha zúme mes ston pséftiko ntuniá\nprépei lígo na charúme, ninanái giavrúm, ninanái-nái\n\nÓpa, nina-ninanái..",
+      "ti": "Tsifteteli turco\n\nAlzati, balla, bambola mia, che ti veda e mi rallegri\nun tsifteteli turco, ninanái amore mio, ninanái-nái\n\nOpa, nina-ninanái, ninanái-nái\nninanái amore mio, ninanái-nái\n\nTi canterò ancora sul ritmo da innamorato\nmuovi un po' il tuo corpo, ninanái amore mio, ninanái-nái\n\nOpa, nina-ninanái...\n\nViviamo una sola volta in questo mondo bugiardo\ndobbiamo goderci un po', ninanái amore mio, ninanái-nái\n\nOpa, nina-ninanái...\n\nNote di traduzione\n\n\"κουκλί μου\" — letteralmente \"mia piccola bambola\": vezzeggiativo affettuoso molto comune nel greco popolare per rivolgersi a una persona amata o desiderata, reso con \"bambola mia\".\n\n\"τσιφτετέλι\" — il tsifteteli è un genere di danza/musica di origine ottomana (dal turco \"çiftetelli\"), molto diffuso nella musica greco-orientale e nel rebetiko; ballo sensuale a ritmo di 4/4 con movimenti ondulatori del corpo — qui lasciato non tradotto in quanto termine tecnico-culturale specifico.\n\n\"νινανάι γιαβρούμ\" — vocalizzo/ritornello tipico della musica greco-orientale (anatolica), privo di significato letterale proprio, usato come intercalare melodico; \"γιαβρούμ\" (dal turco \"yavrum\") significa \"il mio cucciolo/il mio piccolo\", termine affettuoso turco entrato nel lessico greco popolare, qui reso con \"amore mio\".\n\n\"ασίκικο χαβά\" — \"χαβάς\" (dal turco \"hava\") indica una melodia/aria musicale; \"ασίκικος\" (dal turco \"aşık\", innamorato) significa \"da innamorato, appassionato\": insieme indicano un motivo musicale romantico/malinconico tipico dello stile amanès.\n\n\"ντουνιάς\" — dal turco \"dünya\" (mondo): parola di origine turca entrata nel greco popolare per indicare \"il mondo, la vita terrena\", spesso con sfumatura filosofica/malinconica (la vita come illusione passeggera), qui tradotto con \"mondo bugiardo\".",
+      "no": ""
+    },
     {
       "id": "s_1786263804018",
       "offsets": {},
@@ -1530,6 +1576,12 @@
           "year": "1968",
           "note": "",
           "link": "https://www.youtube.com/watch?v=jNO6SsgD0RQ"
+        },
+        {
+          "who": "Quartetto Cetra",
+          "year": "1971",
+          "note": "",
+          "link": "https://archive.org/details/07-prati-verdi-e-fiori-rossi"
         }
       ],
       "date": "2026-08-01",
