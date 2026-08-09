@@ -1,8 +1,86 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-09T04:58:40.569Z",
+  "exportedAt": "2026-08-09T07:20:28.445Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786254965646",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργος Κάτσαρης",
+          "year": "1990",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=MRUR29EBhSI"
+        },
+        {
+          "who": "Ελένη Βιτάλη",
+          "year": "1991",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=cZxGadygy2A"
+        }
+      ],
+      "date": "2026-08-09",
+      "tgr": "Το τραγούδι των γύφτων",
+      "tit": "To tragùdi ton ghifton",
+      "alias": "Ο Μπαλαμός",
+      "at": "Διονύσης Τσακνής",
+      "am": "Διονύσης Τσακνής",
+      "yr": "1990",
+      "ar": "Γιώργος Κάτσαρης",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm          SIm\nΔεν έχω τόπο, δεν έχω ελπίδα\nDO         RE           MIm\nδε θα με χάσει καμιά πατρίδα\nMIm          SIm\nκαι με τα χέρια μου και την καρδιά μου\nDO           RE   MIm\nφτιάχνω τσαντίρια στα όνειρά μου\n \nMIm          SIm  DO    SOL\nΝάις μπαλαμό, νάις μπαλαμό\nFA            MIm\nκαι το λουμνό τ' αφεντικό\nDO           RE   MIm\nνάγια δόμ λες ατζέι μπαλαμό\n \nMIm          SIm\nΚαι τα γκανίκια μας όταν χορεύουν\nDO           RE   MIm\nμε χασταρώματα που σε μαγεύουν\nMIm          SIm\nκουνάνε σώματα και τα πιτέ τους\nDO           RE   MIm\nμέσα σε κλείνουνε στις αγκαλιές τους\n \nMIm          SIm   DO       SOL\nΝάις μπαλαμό, νάις μπαλαμό\nFA            MIm\nκαι το λουμνό τ' αφεντικό\nDO           RE   MIm\nνάγια δόμ λες ατζέι μπαλαμό",
+      "tr": "Den écho tópo, den écho elpída\nde tha me chási kamiá patrída\nke me ta chiéria mu ke tin kardiá mu\nftiáchno tsantíria sta ónirá mu\n\nNáis balamó, náis balamó\nke to lumnó t' afendikó\nnághia dom les atzéi balamó\n\nKe ta ganíkia mas ótan chorévun\nme chastarómata pou se magévun\nkunáne sómata kie ta pité tus\nmésa se klíoune stis angaliés tus\n\nNáis balamó, náis balamó...",
+      "ti": "La canzone dei ghifti\n\nNon ho una patria, non ho speranza,\nnessuna patria mi perderà (mai).\nE con le mie mani e il mio cuore\ncostruisco tende nei miei sogni.\n\nGrazie non-rom, grazie non-rom\ne il (peccaminoso/eccellente) padrone\nnon dire niente, vieni qui, non-rom\n\nE le nostre ragazze quando ballano\ncon movimenti ammalianti che ti stregano,\nmuovono i corpi e i loro piedi\nli stringono dentro i loro abbracci.",
+      "no": "Tsaknis compose la canzone specificamente per la colonna sonora della serie televisiva greca «To Bourini» (Το μπουρίνι), trasmessa sul canale televisivo pubblico ET2.\nIl titolo alternativo, «Mpalamos» (Μπαλαμός), è un termine della lingua romaní usato dai rom per identificare i \"non-rom\" (lo straniero, l'uomo bianco). Il testo è scritto dal punto di vista di un fiero nomade che rivendica la propria libertà spirituale e stradale contro il materialismo della società stanziale."
+    },
+    {
+      "id": "s_1786253309235",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώτα Λύδια",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=GrMbabfru4E"
+        },
+        {
+          "who": "Σαβίνα Γιαννάτου",
+          "year": "1985",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=3aj_K6x0A9Y"
+        },
+        {
+          "who": "Δέσποινα Μπεμπεδέλη",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=QDklTE_a_Fc"
+        }
+      ],
+      "date": "2026-08-09",
+      "tgr": "Κοιμήσου αγγελούδι μου",
+      "tit": "Kimìsu anghelùdi mu",
+      "alias": "",
+      "at": "Κώστας Βίρβος",
+      "am": "Μίκης Θεοδωράκης",
+      "yr": "1962",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno / Laïko d'Autore",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm      SOLm         REm                 LA\nΚοιμήσου αγγελούδι μου, παιδί μου νάνι - νάνι\nSOLm            REm           SOLm        REm\nΝα μεγαλώσεις γρήγορα, σαν τ' αψηλό πλατάνι\nDO FA               SOLm          LA7     REm\nΝα γίνεις άντρας στο κορμί και στο μυα - λό\nDO FA                    SOLm          LA\nγια να 'σαι πάντα μεσ' το δρόμο τον καλό\nRE          SOL SI7 MIm   SOL         LA     RE\nΚοιμήσου αγγελούδι μου γλυκά με το τραγούδι μου\nREm      SOLm         REm                 LA\nΚοιμήσου περιστέρι μου να γίνεις σαν ατσάλι\nSOLm            REm           SOLm        REm\nΝα γίνει κι η καρδούλα σου σαν του Χριστού μεγάλη\nDO FA               SOLm          LA7     REm\nΓια να μην πεις μεσ' τη ζωή σου δεν μπορώ\nDO FA                    SOLm          LA\nκι αν πρέπει ακόμα να σηκώσεις και σταυρό\nRE          SOL SI7 MIm   SOL         LA     RE\nΚοιμήσου αγγελούδι μου γλυκά με το τραγούδι μου",
+      "tr": "Kimísou angelúdi mu\n\nKimíou angelúdi mu, pedí mu náni-náni\nNa megalósis grígora, san t' apsiló platáni\nNa ghínis ándras sto kormí ke sto mialó\nghia na 'se pánda mes to drómo ton kaló\n\nKimísu angelúdi mu gliká me to tragúdi mu\n\nKimísu peristéri mu na ghínis san atsáli\nNa ghíni ki i kardúla su san tou Christú megáli\nGhia na min pis mes ti zoí su den boró\nki an prépi akóma na sikósis ke stavró\n\nKimísu angelúdi mu gliká me to tragúdi mu",
+      "ti": "Dormi, angioletto mio\n\nDormi, angioletto mio, bambino mio, ninna-nanna,\nper crescere in fretta, come l'alto platano.\nPer diventare uomo nel corpo e nella mente,\nper essere sempre sulla strada giusta.\n\nDormi, angioletto mio, dolcemente, con la mia canzone.\n\nDormi, colombella mia, per diventare come l'acciaio,\nche diventi grande il tuo cuoricino come quello di Cristo.\nPer non dover mai dire nella vita \"non ce la faccio\",\nanche se dovrai ancora portare una croce.\n\nDormi, angioletto mio, dolcemente, con la mia canzone.\n\nNote alla traduzione\n\"αγγελούδι μου\" – diminutivo affettuoso di \"άγγελος\" (angelo), tipico del linguaggio delle ninne-nanne greche. \"Angioletto mio\" rende bene sia il senso che il registro tenero-diminutivo.\n\"νάνι-νάνι\" – espressione onomatopeica tipica delle ninne-nanne greche, equivalente alla nostra \"ninna-nanna\" o \"fai la ninna\". Non è traducibile letteralmente, è un suono cullante ripetuto.\n\"σαν τ' αψηλό πλατάνι\" – il platano è albero simbolo di robustezza, ombra e lunga vita nella tradizione greca (spesso al centro delle piazze dei villaggi). \"Come l'alto platano\" mantiene l'immagine originale di crescita forte e maestosa.\n\"περιστέρι μου\" – \"colomba/colombella mia\", altro vezzeggiativo classico per i bambini nelle ninne-nanne greche, simbolo di purezza e dolcezza (in contrasto voluto con \"acciaio\" del verso successivo: fragilità che diventa forza).\n\"σαν ατσάλι\" – \"come l'acciaio\": qui il senso è \"diventa forte/resistente come l'acciaio\", augurio di solidità di carattere.\n\"να σηκώσεις και σταυρό\" – \"sollevare/portare la croce\" è un'immagine cristiana molto radicata nel greco popolare, che significa \"sopportare le difficoltà/il proprio destino di sofferenza\", come Cristo con la croce.",
+      "no": "La canzone è stata originariamente scritta per l'opera teatrale \"La canzone del fratello morto\" (1962)."
+    },
     {
       "id": "s_1786249311135",
       "offsets": {},
@@ -190,9 +268,9 @@
       "yr": "1946",
       "ar": "Ιωάννα Γεωργακοπούλου, Μανώλης Χιώτης",
       "lb": "His Master's Voice Ελλάδος AO-2698 (OGA-1148)",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
-      "bal": "",
+      "bal": "Chasàpiko",
       "ll": "",
       "li": "",
       "ch": "RE     SOLm         RE#      RE\nΑυτά που λες εγώ τ' ακούω βερεσέ\n       SOLm          SOL           DOm\nΤα παραμύθια σου τ' ανθίστηκα πια τώρα\nDOm            RE             SOLm\nκαι το κατάλαβα πως ήμουνα για σε\nSOLm              RE#           RE\nο πασατέμπος σου για να περνά η ώρα\n\nRE     SOLm         RE#      RE\nΚάθε σου φίλημα το βρίσκω πια πικρό\n       SOLm          SOL           DOm\nκαι τον καημό μου δεν μπορείς να τον γλυκάνεις\nDOm            RE             SOLm\nΜαζί μου έρχεσαι μπαμπέσικο μικρό\nSOLm              RE#           RE\nγιατί γυρεύεις κόγξες σ' άλλονε να κάνεις\n\nRE     SOLm         RE#      RE\nΦύγε λοιπόν αφού το θες αλλού να πας\n       SOLm          SOL           DOm\nκι άσ' τις μουρμούρες και τις κλάψες και τις τρίχες\nDOm            RE             SOLm\nκι όταν θα σμίξεις με το μάγκα π' αγαπάς\nSOLm              RE#           RE\nνα μην του πεις ότι για πασατέμπο μ' είχες",
@@ -703,7 +781,7 @@
       "yr": "tradizionale",
       "ar": "tradizionale",
       "lb": "Δίσκος Odeon 154062 Odeon και GA 1036",
-      "gn": "dimotikò nisiotico",
+      "gn": "dimotikò nisiòtiko",
       "dr": "σαμπάχ",
       "bal": "Bàllos",
       "ll": "",
@@ -845,7 +923,7 @@
       "alias": "",
       "at": "tradizionale",
       "am": "tradizionale",
-      "yr": "",
+      "yr": "tradizionale",
       "ar": "tradizionale",
       "lb": "",
       "gn": "tradizionale smirneico",
@@ -871,7 +949,7 @@
       "yr": "1935",
       "ar": "Στελλάκης Περπινιάδης",
       "lb": "Columbia DG-6066",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
       "bal": "Karsilamàs",
       "ll": "https://www.youtube.com/watch?v=yfukU6ph2N0",
@@ -1166,7 +1244,7 @@
       "yr": "1933",
       "ar": "Ρόζα Εσκενάζυ",
       "lb": "",
-      "gn": "",
+      "gn": "Smirneico",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -1189,7 +1267,7 @@
       "yr": "1983",
       "ar": "Νίκος Δημητράτος",
       "lb": "",
-      "gn": "Éntechno-Rebétiko",
+      "gn": "Entechno-Rebétiko",
       "dr": "",
       "bal": "Chasàpiko",
       "ll": "https://www.youtube.com/watch?v=T21tL1JN50k",
@@ -1391,7 +1469,7 @@
       "yr": "1969",
       "ar": "Αντώνης Καλογιάννης",
       "lb": "",
-      "gn": "Éntechno",
+      "gn": "Entechno",
       "dr": "",
       "bal": "Chasàpiko",
       "ll": "",
@@ -2449,10 +2527,10 @@
       "id": "p_1785170258057",
       "name": "Γιάννης Καλατζής",
       "nameit": "Giannis Kalatzis",
-      "born": "",
-      "died": "",
+      "born": "29 aprile 1938, Salonicco",
+      "died": "13 luglio 2017, Atene",
       "nat": "",
-      "bio": "Nacque a Salonicco il 29 aprile 1938. La sua carriera di cantante iniziò nei primi anni '60 come membro del gruppo musicale Trio Moreno , originario di Salonicco, che divenne noto in Grecia, effettuando anche un tour di registrazione negli Stati Uniti .  Dopo lo scioglimento del gruppo, intorno al 1966, Kalatzis iniziò la sua carriera da solista e si stabilì ad Atene. Lì iniziò a collaborare con il famoso compositore Giorgos Mitsakis . La sua popolarità iniziò a crescere e ebbe una proficua collaborazione con alcuni dei più famosi compositori greci del periodo, come Manos Loizos , Stavros Kougioumtzis , Giorgos Katsaros , Mimis Plessas e Yiannis Spanos , nonché con cantanti come Tolis Voskopoulos . Kalatzis ha anche registrato album con cantanti come Giorgos Dalaras , Haris Alexiou , Giannis Parios , Mariza Koch , Litsa Diamanti e Kostas Smokovitis , mentre è apparso anche in dieci film interpretando le sue canzoni. \n\nNella seconda metà degli anni '70, Kalatzis collaborò con il compositore Nikos Karvelas . Nel 1981 pubblicò un album di canzoni di Tolis Voskopoulos. Il suo ultimo album prima del ritiro dall'attività di cantante fu pubblicato nel 1984, tuttavia, nel 1985 partecipò a un importante concerto dedicato al compositore Manos Loizos tenutosi allo Stadio Olimpico di Atene . Nel 2000 pubblicò un doppio CD, il primo contenente alcuni dei suoi più grandi successi in nuove versioni e il secondo le canzoni greche preferite di altri artisti nella sua interpretazione. [ 5 ] Kalatzis è considerato uno dei migliori cantanti del suo tempo e molte delle sue canzoni sono state eseguite da cantanti più giovani.\n\nNel 2013, Yiannis Kalatzis è stato omaggiato nella versione greca del programma televisivo Your Face Sounds Familiar trasmesso da ANT1 con l'attore Konstantinos Kazakos che lo ha interpretato e ha eseguito una delle sue canzoni più famose, \"Delfini delfinaki\".\n\nGiannis Kalatzis è morto il 13 luglio 2017 all'età di 79 anni",
+      "bio": "La sua carriera di cantante iniziò nei primi anni '60 come membro del gruppo musicale Trio Moreno , originario di Salonicco, che divenne noto in Grecia, effettuando anche un tour di registrazione negli Stati Uniti .  Dopo lo scioglimento del gruppo, intorno al 1966, Kalatzis iniziò la sua carriera da solista e si stabilì ad Atene. Lì iniziò a collaborare con il famoso compositore Giorgos Mitsakis . La sua popolarità iniziò a crescere e ebbe una proficua collaborazione con alcuni dei più famosi compositori greci del periodo, come Manos Loizos , Stavros Kougioumtzis , Giorgos Katsaros , Mimis Plessas e Yiannis Spanos , nonché con cantanti come Tolis Voskopoulos . Kalatzis ha anche registrato album con cantanti come Giorgos Dalaras , Haris Alexiou , Giannis Parios , Mariza Koch , Litsa Diamanti e Kostas Smokovitis , mentre è apparso anche in dieci film interpretando le sue canzoni. \n\nNella seconda metà degli anni '70, Kalatzis collaborò con il compositore Nikos Karvelas . Nel 1981 pubblicò un album di canzoni di Tolis Voskopoulos. Il suo ultimo album prima del ritiro dall'attività di cantante fu pubblicato nel 1984, tuttavia, nel 1985 partecipò a un importante concerto dedicato al compositore Manos Loizos tenutosi allo Stadio Olimpico di Atene . Nel 2000 pubblicò un doppio CD, il primo contenente alcuni dei suoi più grandi successi in nuove versioni e il secondo le canzoni greche preferite di altri artisti nella sua interpretazione. [ 5 ] Kalatzis è considerato uno dei migliori cantanti del suo tempo e molte delle sue canzoni sono state eseguite da cantanti più giovani.\n\nNel 2013, Ghiannis Kalatzis è stato omaggiato nella versione greca del programma televisivo Your Face Sounds Familiar trasmesso da ANT1 con l'attore Konstantinos Kazakos che lo ha interpretato e ha eseguito una delle sue canzoni più famose, \"Delfini delfinaki\".",
       "link": "",
       "listen": "",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHXJv5q9Em_4Q7EednV5b76KFEpBpJGakgKYrSx8hEZ1LTtvGSMwdoPpojnopzX7gWi9_L9Bxnm6b7UV9apEuRlvcNUImHXuP9mgBT9sL9og&s=10",
@@ -3242,12 +3320,12 @@
       "id": "p_1785736919592",
       "name": "Λευτέρης Μενεμενλής",
       "nameit": "Leftèris Menemenlìs",
-      "born": "",
-      "died": "",
-      "bio": "Nome completo Ελευθέριος Μενεμενλής, conosciuto anche come Μπεσλεμεδάκης. Cantante della scuola smirniota, arrivato in Grecia con le scambio di popolazioni del 1922. Una delle voci fondamentali della prima fase del rembetiko.\n\nLe origini e il contesto\n\nTroubadour (*) della celebre scuola smirniota, giunse in Grecia nel 1922 insieme ai cantanti Kostas Nouros, Giorgos Vidalis e Stellakis Perpiniadis. Questi quattro formarono il nucleo della nuova scuola della canzone popolare che si stava allora delineando — portatori di una tradizione musicale microasiatica che avrebbe profondamente influenzato lo sviluppo del rembetiko greco.\n\nLa discografia\n\nLa sua prima registrazione documentata risale al 1907 con Θα σπάσω κούπες — brano erotico microasiatico tradizionale. Tra i brani più noti: Έχασα μαντήλι, Δεν μου λέτε το χασίσι που πουλιέται (1927), Απτάλ χαβάσι τετράχορδον. Il suo repertorio spaziava tra canzoni tradizionali, amanédes e brani della tradizione microasiatica.\n\n\"Il cantante del mare\"\n\nViene descritto come il \"cantante del mare\" — definizione che ne cattura lo spirito nomade e la qualità della voce, radicata nella tradizione delle città portuali del Mediterraneo orientale.\n\n\n(*) troubadour indica un artista itinerante che porta la sua musica di città in città, di porto in porto, adattandosi al pubblico che trova. Una figura nomade, un cantastorie che vive della sua voce e del suo strumento. Nel caso di Menemelnis, che aveva girato i caffè amàn di Smirne, Costantinopoli, Alessandria e poi la Grecia, l'immagine calzava perfettamente.",
+      "born": "1874, Menemeni- Asia Minore",
+      "died": "?",
+      "bio": "Nome completo Ελευθέριος  Μπεσλεμεδάκης o Κος Λευτέρης (Signor Lefteris). Cantante della scuola smirniota, arrivato in Grecia con le scambio di popolazioni del 1922. Prese il suo nome d'arte dal suo luogo di nascita.\nProbabilmente di origine cretese  in quanto pubblicò un disco di musica cretese Μενεμενλής (Μπεσλεμεδάκης- Κος Λευτέρης) Ελευθέριος ODEON GA 1152 Ω Κρητικιά μου λεμονιά (Χορός Κρητικός) - Άιντε άιντε (Χορός Κρητικός) 1926- 78rpm- 10''\n\nUna delle voci fondamentali della prima fase del rembetiko.\n\nTroubadour (*) della celebre scuola smirniota, giunse in Grecia nel 1922 insieme ai cantanti Kostas Nouros, Giorgos Vidalis e Stellakis Perpiniadis. Questi quattro formarono il nucleo della nuova scuola della canzone popolare che si stava allora delineando — portatori di una tradizione musicale microasiatica che avrebbe profondamente influenzato lo sviluppo del rembetiko greco.\n\nLa sua prima registrazione documentata risale al 1907 con Θα σπάσω κούπες — brano erotico microasiatico tradizionale. Tra i brani più noti: Έχασα μαντήλι, Δεν μου λέτε το χασίσι που πουλιέται (1927), Απτάλ χαβάσι τετράχορδον. Il suo repertorio spaziava tra canzoni tradizionali, amanédes e brani della tradizione microasiatica.\n\nFu cantante, tra i primi \"amanetzìdes\" (interpreti di amané), e suonava la chitarra. Fu tra i membri fondamentali della \"Ελληνική Εστουντιαντίνα\" insieme a Giannis Tsanakas e a Christos \"Arapaki\".\n\nIncise per le case discografiche Favorit, The Gramophone Company, Columbia Inghilterra, Columbia America, Odeon Germania e Polydor Germania. Cantò in tutti i generi: dimotikà, canzoni leggere, smirneiche, rebetiko e turche. Nella discografia risultano 122 sue incisioni, tra cui 28 amanédes, a partire dal 1909 con l'amané \"Ψεύτικος δουνιάς\". La sua ultima incisione fu la canzone \"Ο Γεροδήμος\". Fu anche il primo presidente del Sindacato dei Musicisti.\n\nFu tra i cantanti di Smirne che, arrivati in Grecia, continuarono la loro presenza discografica: fu il primo ad avviare le registrazioni della tedesca ODEON in Grecia nel 1924. Alcuni di questi primi dischi furono registrati a Berlino, intorno al 1925.\n\nViene descritto come il \"cantante del mare\" — definizione che ne cattura lo spirito nomade e la qualità della voce, radicata nella tradizione delle città portuali del Mediterraneo orientale.\n\n\n(*) troubadour indica un artista itinerante che porta la sua musica di città in città, di porto in porto, adattandosi al pubblico che trova. Una figura nomade, un cantastorie che vive della sua voce e del suo strumento. Nel caso di Menemelnis, che aveva girato i caffè amàn di Smirne, Costantinopoli, Alessandria e poi la Grecia, l'immagine calzava perfettamente.",
       "link": "",
       "listen": "",
-      "photo": "https://i.ytimg.com/vi/fWMXhI1J-A0/hqdefault.jpg",
+      "photo": "https://musicagreca.github.io/musica-greca/images/menemenlis.jpg",
       "roles": [
         "ar"
       ]
@@ -3272,11 +3350,13 @@
       "nameit": "Bàbis Bakàlis",
       "born": "20 giugno 1920, Kanalia  Karditsa",
       "died": "26 marzo 2007 Atene",
-      "bio": "Nome completo Λάμπρος Μπακάλης, noto come Μπάμπης Μπακάλης e soprannominato Κουβάς.  Compositore e paroliere del laïká, principalmente degli anni '50 e '60, con oltre 200 brani nei soli 78 giri e un catalogo complessivo di circa 1.500 successi.\n\nLe origini e la formazione\n\nDa giovanissimo si dedicò al bouzouki e al baglamas. Durante i primi anni dell'Occupazione tedesca girò con un piccolo complesso le città della Tessaglia. Nel dicembre del 1944 fu esiliato nel deserto di El Tamba in Libia — vicenda che segnò profondamente la sua vita.\n\nL'esordio discografico\n\nIl suo primo brano in discografia fu Κάποια μάνα αναστενάζει (1947), co-composizione con Vasilis Tsitsanis — uscita però sotto il nome di Tsitsanis. Il suo primo brano a proprio nome fu Μια κοπέλα στ' ακρογιάλι (Odeon GA 7445, Atene 1948), con Stella Chaskil e Apostolos Kaldaras.\n\nIl successo negli anni '50\n\nNegli anni d'oro del laïká firmò grandi successi con Kazantzidis (Σαν την καλαμιά στον κάμπο, Μακάρι να πεθάνω), Grigoris Bithikotsis (Μάγκας θα πει φιλότιμο, Ποτέ δεν είναι αργά), Panos Gavalas, Kaiti Grey, Poly Panou, Stratos Dionysiou e praticamente tutti i grandi interpreti dell'epoca. Collaborò spesso con il paroliere Kostas Virvos.\n\nLe influenze orientali\n\nFu influenzato dalla musica dei paesi dell'Oriente, in particolare dall'India, e adattò in greco brani come Καρδιά μου καημένη — originariamente cantato dalla cantante indiana Nargis nel film Mother India.\n\nIl giudizio dei colleghi\n\nVangelis Perpiniadis disse: \"Grazie a Bakalis entrai nelle case discografiche e con le sue composizioni ottenni molti grandi successi.\" Kazantzidis: \"Bakalis era un uomo intelligente e lungimirante. Aveva istinto e grande comprensione della canzone.\"",
+      "bio": "Nome completo Λάμπρος Μπακάλης, noto come Μπάμπης Μπακάλης e soprannominato Κουβάς.  Compositore e paroliere del laïká, principalmente degli anni '50 e '60, con oltre 200 brani nei soli 78 giri e un catalogo complessivo di circa 1.500 successi.\n\n\nDa giovanissimo si dedicò al bouzouki e al baglamas. Durante i primi anni dell'Occupazione tedesca girò con un piccolo complesso le città della Tessaglia. Nel dicembre del 1944 fu esiliato nel deserto di El Tamba in Libia — vicenda che segnò profondamente la sua vita.\n\nIl suo primo brano in discografia fu Κάποια μάνα αναστενάζει (1947), co-composizione con Vasilis Tsitsanis — uscita però sotto il nome di Tsitsanis. Il suo primo brano a proprio nome fu Μια κοπέλα στ' ακρογιάλι (Odeon GA 7445, Atene 1948), con Stella Chaskil e Apostolos Kaldaras.\n\nNegli anni d'oro del laïká firmò grandi successi con Kazantzidis (Σαν την καλαμιά στον κάμπο, Μακάρι να πεθάνω), Grigoris Bithikotsis (Μάγκας θα πει φιλότιμο, Ποτέ δεν είναι αργά), Panos Gavalas, Kaiti Grey, Poly Panou, Stratos Dionysiou e praticamente tutti i grandi interpreti dell'epoca. Collaborò spesso con il paroliere Kostas Virvos.\n\n\nFu influenzato dalla musica dei paesi dell'Oriente, in particolare dall'India, e adattò in greco brani come Καρδιά μου καημένη — originariamente cantato dalla cantante indiana Nargis nel film Mother India.\n\n\nVangelis Perpiniadis disse: \"Grazie a Bakalis entrai nelle case discografiche e con le sue composizioni ottenni molti grandi successi.\" Kazantzidis: \"Bakalis era un uomo intelligente e lungimirante. Aveva istinto e grande comprensione della canzone.\"",
       "link": "",
       "listen": "",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYxA7wpWw6NX8d_TZ_694unKEX5jOCA0X9fwHaNgOTvGbv6oQC_36YekiYvKnX-2n3C3VkXMkuI5XFss8Bg7EViuqdqGzWg00SDbnlWQN&s=10",
-      "roles": []
+      "roles": [
+        "am"
+      ]
     },
     {
       "id": "p_1785739102083",
@@ -3388,11 +3468,15 @@
       "nameit": "Odissèas Moschonás",
       "born": "25 settembre 1912, Samos",
       "died": "23 novembre 1995, Atene",
-      "bio": "Nacque il martedì 25 settembre 1912 nel villaggio di Mitilinioi, a Samo. I suoi genitori, Alexandros Moschonás e Vasilikí Tritsiniótis, erano contadini. Da giovane entrò a far parte di varie compagnie musicali della zona, per poi trasferirsi ad Atene in età adulta per lavorare come musicista e cantante professionista. \n\nFu Ogdontákis ad apprezzarne il talento e a farlo entrare nella propria orchestra; fino alla fine dell'Occupazione collaborò con importanti cantanti, compositori e direttori d'orchestra, tra cui Papaioánnou, Chatzichrístos, Genítsaris e Kirómitis, interpretando amanédes, canti smirneici, isolani e popolari. Con la Liberazione della Grecia si aprì anche la strada della discografia, e collaborò con nomi di primo piano come Sotiría Béllou e Marika Nínou, oltre a Tsitsánis. \n\nConsiderato uno dei grandi esponenti della \"scuola samiota\" del rebetiko.",
+      "bio": "Grande rebetis e cantante popolare greco, conosciuto anche con il soprannome \"Σαμιώτης\" (il Samiota, dall'isola d'origine).\n\nNacque nel villaggio di Mitilinioi, a Samo. I suoi genitori, Alexandros Moschonás e Vasilikí Tritsiniótis, erano contadini. Da giovane entrò a far parte di varie compagnie musicali della zona, per poi trasferirsi ad Atene in età adulta per lavorare come musicista e cantante professionista. \n\nFu Ogdontákis ad apprezzarne il talento e a farlo entrare nella propria orchestra; fino alla fine dell'Occupazione collaborò con importanti cantanti, compositori e direttori d'orchestra, tra cui Papaioánnou, Chatzichrístos, Genítsaris e Kirómitis, interpretando amanédes, canti smirneici, isolani e popolari. Con la Liberazione della Grecia si aprì anche la strada della discografia, e collaborò con nomi di primo piano come Sotiría Béllou e Marika Nínou, oltre a Tsitsánis. \n\nConsiderato uno dei grandi esponenti della \"scuola samiota\" del rebetiko.",
       "link": "",
       "listen": "",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgiOugB_YrlHcg6tEIOCdLHmDzBrWdKZRA2IrqxgVAA&s=10",
-      "roles": []
+      "roles": [
+        "at",
+        "ar",
+        "mu"
+      ]
     },
     {
       "id": "p_1785758685023",
@@ -3429,7 +3513,7 @@
       "id": "p_1785767141851",
       "name": "Κώστας Τσίγγος",
       "nameit": "Kòstas Tsìngos",
-      "born": "",
+      "born": "?",
       "died": "ottobre 2014",
       "bio": "Κώστας Τσίγκος\n\n\nCantante di rembetika e laikà, negli anni '60 e '70 collaborò con Stélios Chrysínis, Ákis Pánou e Yórgos Krimizákis. Nel 1963 incise insieme a Sofía Sidéri la canzone \"Parápono, parápono\", ascoltata nel film \"Pligoménes kardiés\" per la regia di Apóstolos Tegópoulos. \nRembetiko\n\nDivenne conosciuto al grande pubblico interpretando, nel film \"Rembétiko\" di Stávros Xarchákos, le celebri canzoni \"Στου Θωμά\" (testo di Kóstas Férris) e \"Εμένα λόγια μη μου λες\" (testo di Níkos Gkátsos). In seguito prese parte anche allo spettacolo teatrale \"Ρεμπέτικο στου Θωμά\" di Thessía Panayótou, interpretando tra le altre \"Κακούργα πεθερά – Καημένε Αθανασόπουλε\" e \"Ισοβίτης\", e partecipò inoltre alla nota rappresentazione di Xarchákos \"Αμάν Αμήν\". \n\n\nEra amico di Níkos Maragópoulos e dello stesso Férris, che contribuì a far emergere il suo talento negli anni più recenti della sua carriera. \n\n\nDescritto come un uomo \"d'altri tempi\", venne ricordato come un importante interprete soprattutto del laiko",
       "link": "",
@@ -3520,14 +3604,14 @@
       "id": "p_1785836343299_3",
       "name": "Πατρινός",
       "nameit": "Patrinos (Michalis/Dimitris, secondo le fonti)",
-      "born": "",
-      "died": "",
+      "born": "?",
+      "died": "?",
       "nat": "Greco",
       "roles": [
         "at",
         "ar"
       ],
-      "bio": "Μουσικός, αρχηγός ρεμπέτικης κομπανίας που πρωτόπαιξε στην Αθήνα, γύρω στο 1927, το τραγούδι «Μισιρλού» (με τίτλο «Μουσουρλού»). Σμυρνιός μουσικός, ήρθε στην Ελλάδα με το κύμα προσφύγων της Μικρασιατικής Καταστροφής. Οι πηγές διαφωνούν για το μικρό του όνομα (Μιχάλης ή Δημήτρης) — πιθανώς ψευδώνυμο. Σύμφωνα με μία εκδοχή το πραγματικό του όνομα ήταν Κωνσταντίνος Καλογεράς από την Πάτρα, γνωστός στην Αμερική ως καραγκιοζοπαίχτης με το όνομα Mike Patrinos / Ντίνος Θεοδωρόπουλος.",
+      "bio": "Musicista, capo di una compagnia rebetiko che eseguì per la prima volta ad Atene, intorno al 1927, la canzone \"Μισιρλού\" (con il titolo originale \"Μουσουρλού\", pronunciato con forte accento smirneico). Musicista di Smirne, arrivò in Grecia con l'ondata di profughi della Catastrofe dell'Asia Minore.\n\nLe fonti sono discordi sul suo nome di battesimo (Michalis o Dimitris) — probabilmente uno pseudonimo — e sul luogo di nascita (secondo alcune fonti la Mani, secondo altre Smirne). Secondo una versione, il suo vero nome sarebbe stato Konstantinos Kalogeras; trascorse circa 15 anni in America, per poi tornare a Patrasso, dove prese il soprannome \"Πατρινός\" (il Patrasino). In America era noto anche come Mike Patrinos o Dinos Theodoropoulos, e secondo alcune fonti fu anche un famoso karagiozopaìchtis (artista del teatro d'ombre Karagiozis) attivo a Patrasso — identificazione però non confermata con certezza.\n\nSu \"Μισιρλού\" — come accadeva per quasi tutte le prime canzoni rebetiko, il vero compositore del brano rimase sconosciuto, e la paternità fu registrata a nome del capo della compagnia; la melodia fu quasi certamente composta collettivamente dai musicisti, mentre il testo era quasi certamente dello stesso Patrinos. Esiste anche un'altra storica incisione del brano, quella del 1927 a New York con la voce di Tetos Dimitriadis per la Columbia — ma quella di Patrinos ad Atene resta legata alla prima esecuzione dal vivo della composizione con la propria compagnia.",
       "link": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%83%CE%B9%CF%81%CE%BB%CE%BF%CF%8D",
       "listen": "",
       "photo": ""
@@ -3565,8 +3649,8 @@
       "id": "p_1785852868919",
       "name": "Έλλη Πετρίδου",
       "nameit": "Élli Petrìdu",
-      "born": "",
-      "died": "",
+      "born": "?",
+      "died": "?",
       "bio": "Cantante di rebetiko d'anteguerra\n\n\nDi lei si sa poco a livello biografico — come per molte cantanti \"di compagnia\" degli anni '30, la sua figura emerge soprattutto attraverso le incisioni discografiche piuttosto che da fonti biografiche dettagliate.\n\nÈ documentata soprattutto per le sue collaborazioni con Márkos Vamvakáris, con cui incise diversi duetti nel 1937, tra cui «Στο Φάληρο που πλένεσαι» (uno zeïbékiko di Vamvakáris, definito da alcuni appassionati \"fantastico\") ed «Έξι γκόμενες αφράτες», entrambi registrati con l'orchestra guidata dallo stesso Vamvakáris al bouzouki.\n\nLe sue incisioni la collocano tra le voci femminili della prima generazione del rebetiko urbano ateniese, nel periodo d'oro delle registrazioni con Vamvakáris, prima che emergessero le grandi voci successive del genere (Sotiría Béllou, Marika Nínou).",
       "link": "",
       "listen": "",
@@ -4060,7 +4144,9 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/grapsas.jpg",
-      "roles": []
+      "roles": [
+        "at"
+      ]
     },
     {
       "id": "p_1786247048519",
@@ -4119,6 +4205,50 @@
       "roles": [
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1786253697010",
+      "name": "Δέσποινα Μπεμπεδέλη",
+      "nameit": "Dèspina Bebedèli",
+      "born": "10 febbraio 1941, Nea Smirni Atene",
+      "died": "",
+      "bio": "Attrice, nata in una famiglia originaria di Costantinopoli. \n\nStudiò recitazione alla Scuola di Teatro di Pelos Katselis, e pianoforte e canto al Conservatorio di Atene, oltre a frequentare l'Institut Français d'Athènes.\n\nLa sua prima apparizione sulla scena fu il 15 ottobre 1962 nell'opera di Mikis Theodorakis \"Το τραγούδι του Νεκρού Αδελφού\" (\"La canzone del fratello morto\"), con il Teatro Popolare Greco di Manos Katrakis; contemporaneamente partecipò come solista ai concerti di Theodorakis.\n\nEsordì al \"Teatro Popolare\" di Manos Katrakis, per poi collaborare con il \"Teatro d'Arte\" di Karolos Koun, le compagnie di Alekos Alexandrakis e Dimitris Myrat, e l'\"Arma Theatrou\". Il suo primo grande momento teatrale arrivò con il ruolo di Elettra ne \"Le Mosche\" di Jean-Paul Sartre, dove fu notata da importanti figure del teatro greco che ne riconobbero subito il talento.\n\nNel 1969 si stabilì a Cipro. Lavorò inizialmente al Teatro del RIK, e dal 1971 al 1996 al ΘΟΚ (Teatro Nazionale Cipriota). A Cipro sposò l'attore cipriota Stelios Kavkaridis, con cui condivise un percorso di vita e d'arte, ed ebbero due figli. Ha una figlia, anch'essa attrice, Marianna Kavkaridou, e un figlio giornalista sportivo, Theodoros Kavkaridis.\n\nTra le produzioni più significative: \"Madre Coraggio\" (1977, regia Heinz-Uwe Haus, ΘΟΚ; ripresa nel 1999-2000 e nel 2002 con la sua stessa regia al Teatro Satirico), \"Il cerchio di gesso del Caucaso\" (ruolo di Grusha, regia Heinz-Uwe Haus, ΘΟΚ, 1975), \"La casa di Bernarda Alba\" (regia N. Charalambous, ΘΟΚ), \"Il cortile dei miracoli\" (ruolo Anneto), \"Maria Stuarda\" (ruolo Regina Elisabetta, regia G. Iordanidis), \"Harold e Maude\" (ruolo Maude).\n\nNel 2024-2025 conquistò il pubblico con l'interpretazione di Charita Mandoles nella serie \"Famagusta\".\n\nDopo 65 anni di carriera, ha annunciato il proprio ritiro dalle scene con queste parole: \"Voglio ritirarmi prima che lo dicano gli altri. Voglio andarmene con amore.\"",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/bebedeli.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786255271470",
+      "name": "Διονύσης Τσακνής",
+      "nameit": "Dionìsis Tsaknìs",
+      "born": "12 ottobre 1954, Karditsa",
+      "died": "",
+      "bio": "Compositore, paroliere e interprete greco.\n\nSi trasferì ad Atene, dove studiò economia e musica. Fu quest'ultima a conquistarlo. Tornò poi per due anni a Karditsa, dove insegnò teoria musicale al conservatorio comunale della città.\n\nPubblicò il suo primo disco nel 1982, intitolato \"Η μπαλάντα του ταξιδιώτη\", con le voci di Dafni Bokota.\n\nNel 1984 vinse il primo premio per la musica teatrale al Concorso Teatrale di Itaca e il secondo premio al Festival della Canzone di Salonicco.\n\nTra il 1985 e il 1990 uscirono numerosi altri dischi, tra cui \"Καλή Ακρόαση\", \"Τρίτο Μάτι\", \"Φταίνε τα Τραγούδια\" e \"Φώτα Παρακαλώ\". In totale ha pubblicato oltre 30 tra dischi e CD, oltre a comporre musiche per produzioni televisive e film.\n\nHa lavorato con grandi nomi della musica greca come Mikis Theodorakis, Lavrentis Machairitsas, Giorgos Dalaras, Dimitra Galani, Vasilis Papakonstantinou, Panos Katsimichas, Eleni Tsaligopoulou, Lakis Lazopoulos, Orfeas Peridis, Sokratis Malamas e molti altri.\n\nNel 1995 pubblicò il suo primo racconto, intitolato \"Υπό προθεσμία\" (\"In scadenza\"), e da allora collabora come editorialista con il quotidiano Eleftherotypia.\n\nDal 26 maggio 2015 al 3 ottobre 2017 fu presidente del consiglio d'amministrazione dell'ERT (radiotelevisione pubblica greca). Alle elezioni parlamentari del maggio e giugno 2023 fu candidato con il KKE (Partito Comunista Greco), al 14° posto onorario della lista nazionale.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/tsaknis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786255856979",
+      "name": "Γιώργος Κάτσαρης",
+      "nameit": "Ghiòrgos Kàtsaris",
+      "born": "1957-1960 Karditsa",
+      "died": "16 marzo 2020",
+      "bio": "Cantante nato a Karditsa.\n\n\"Ο Μπαλαμός\" (1992) — divenne noto in tutta la Grecia grazie alla canzone \"Ο Μπαλαμός\" (conosciuta anche come \"Το τραγούδι των γύφτων\", \"La canzone degli zingari\"), su testo e musica di Dionisis Tsaknis, di cui fu il primo e più celebre interprete. Il brano nacque come musica di scena per una serie televisiva, in una scena in cui gli amici del protagonista rom predicono il suo futuro cantando — una sorta di \"canto divinatorio\", come lo ha definito lo stesso Tsaknis.\n\nLa sua occupazione principale, oltre al canto, era operatore di macchinari edili. Fu per anni insegnante di danze tradizionali (χοροδιδάσκαλος) e maestro di musica, amante della tradizione greca. Parlava sempre con calore dei Rom, e in ogni sua apparizione pubblica ne metteva in luce usi e costumi.\n\nTrasmise questo amore anche ai suoi due figli; la figlia Marianna si dedica alla musica. Fu particolarmente amato e popolare nella sua Karditsa natale, che lo pianse con dolore alla sua scomparsa.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/katsaris.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
