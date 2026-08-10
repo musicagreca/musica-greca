@@ -1,8 +1,256 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-10T06:27:59.709Z",
+  "exportedAt": "2026-08-10T12:17:24.388Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786363437643",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κώστας Ρούκουνας",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=zgOlnVmS1bc"
+        },
+        {
+          "who": "Δημήτρης Ζάχος",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=JPpzypwob70"
+        },
+        {
+          "who": "Ηλίας Κλωναρίδης",
+          "year": "1980",
+          "note": "arrangiato da Iannis Markopoulos",
+          "link": "https://www.youtube.com/watch?v=lUg1mY6NAoc"
+        }
+      ],
+      "date": "2026-08-10",
+      "tgr": "Ιτιά",
+      "tit": "Itià",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "Tsàmikos",
+      "ll": "",
+      "li": "",
+      "ch": "REm            FA                SOLm    LA       REm\nΙτιά, ιτιά λουλουδιασμένη, αχ, πώς μοσχοβολάς καημένη\n\nREm            FA                SOLm    LA       REm\nΙτιά, ιτιά μέσα στο ρέμα, πως σ' αγαπώ δεν είναι ψέμα\n\nREm        FA           SOLm    LA      REm\nΙτιά μου σε παρακαλώ, σκύψε να κόψω τον ανθό\n\nREm         FA             SOLm    LA       REm\nΣτη Ρούμελη και στο Μοριά, όλοι χορεύουν την ιτιά",
+      "tr": "Itià, Itià lulediasméni, ach, pos moschovolàs kaiméni\n\nItià,Itià mésa sto réma, pos s'aghapò den ìne pséma\n\nItià mu se parakalò, skìpse na kòpso ton anthò\n\nSti Rùmeli ke sto Morià, òli chorèvun tin Itià",
+      "ti": "Salice\n\nSalice, salice fiorito, ah, come profumi, cara mia¹\n\nSalice, salice in mezzo al torrente², come ti amo non è bugia\n\nSalice mio, ti prego, chinati che colga il fiore\n\nA Rumeli³ e nel Moria⁴, tutti danzano l'itià⁵\n\nNote\n\nΚαημένη – letteralmente \"poverina, sventurata\" (da \"καημός\", pena/dolore), qui usato in tono affettuoso-vezzeggiativo verso il salice personificato, come si direbbe a una persona cara.\nΡέμα – \"torrente, corso d'acqua stagionale\"; ambientazione tipica dei salici, che crescono lungo le rive.\nΡούμελη (Rumeli) – nome storico-geografico della Grecia centrale continentale (a nord del Peloponneso), usato tradizionalmente per indicare quella regione nei canti popolari.\nΜοριάς (Moria) – antico nome popolare del Peloponneso, usato spesso in coppia con \"Ρούμελη\" nei canti della tradizione greca per indicare simbolicamente \"tutta la Grecia continentale del sud\".\nΗ ιτιά – oltre a essere il salice della canzone, \"Η Ιτιά\" è anche il nome di una danza popolare tradizionale greca (spesso associata alla musica della Grecia centrale), qui probabile doppio senso tra l'albero e il ballo omonimo.",
+      "no": ""
+    },
+    {
+      "id": "s_1786362119141",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-10",
+      "tgr": "Πότε θα κάνει ξαστεριά",
+      "tit": "Potè tha kàni ksasterià",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "dimotikò cretese",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=nzSjGLAVQpY",
+      "li": "",
+      "ch": "DO                         SOL   DO\nΠότε θα κά-, πότε θα κάνει ξαστεριά\nDO     REm            DO         FA    DO\nΟρέ, πότε θα φλεβαρίσει, πότε θα φλεβαρίσει\nDO SOL DO SOL  DO          SOL  DO\nνα πάρω το, να πάρω το τουφέκι μου\n\nDO                         SOL   DO\nΝα πάρω το, να πάρω το τουφέκι μου\nDO     REm            DO         FA    DO\nΟρέ, την όμορφη πατρόνα, την όμορφη πατρόνα\nDO SOL DO SOL  DO          SOL  DO\nνα κατεβώ, να κατεβώ στον Ομαλό\n\nDO                  SOL   DO\nΝα κατεβώ, να κατεβώ στον Ομαλό\nDO     REm            DO         FA    DO\nΟρέ, στη στράτα των Μουσούρων, στη στράτα των Μουσούρων\nDO SOL DO SOL  DO          SOL  DO\nνα κάνω μά-, να κάνω μάνες δίχως γιους\n\nDO                         SOL   DO\nΝα κάνω μά-, να κάνω μάνες δίχως γιους\nDO     REm            DO         FA    DO\nΟρέ γυναίκες δίχως άντρες, γυναίκες δίχως άντρες\nDO SOL DO SOL  DO          SOL  DO\nνα κάνω και, να κάνω και μωρά παιδιά\n\nDO                         SOL   DO\nΝα κάνω και, να κάνω και μωρά παιδιά\nREm DO FA\nΟρέ να κλαιν δίχως μανάδες, να κλαιν δίχως μανάδες\nDO REm DO SOL LAm REm DO\nΠότε θα κά-, πότε θα κάνει ξαστεριά",
+      "tr": "Potè tha kàni ksasterià\n\nPòte tha kà-, pòte tha kàni ksasterià\nOrè, pòte tha flevarìsi, pòte tha flevarìsi\nna pàro to, na pàro to tufèki mu\n\nNa pàro to, na pàro to tufèki mu\nOrè, tin òmorfi patròna, tin òmorfi patròna\nna katevò, na katevò ston Omalò\n\nNa katevò, na katevò ston Omalò\nOrè, sti stràta ton Musùron, sti stràta ton Musùron\nna kàno mà-, na kàno mànes dìchos ghius\n\nNa kàno mà-, na kàno mànes dìchos ghius\nOrè ghinèkes dìchos àndres, ghinèkes dìchos àndres\nna kàno ke, na kàno ke morà pedià\n\nNa kàno ke, na kàno ke morà pedià\nOrè na klen dìchos manàdes, na klen dìchos manàdes\nPòte tha kà-, pòte tha kàni ksasterià",
+      "ti": "Quando ci sarà una notte serena\n\nQuando ci sarà, quando ci sarà una notte serena e stellata¹,\nohi, quando arriverà febbraio²,\nper prendere il, per prendere il mio fucile\n\nPer prendere il, per prendere il mio fucile,\nohi, la bella cartucciera³,\nper scendere, per scendere all'Omalòs⁴\n\nPer scendere, per scendere all'Omalòs,\nohi, sulla strada dei Musuri⁵,\nper fare ma-, per fare madri senza figli\n\nPer fare ma-, per fare madri senza figli,\nohi, donne senza mariti, donne senza mariti,\nper fare an-, per fare anche bambini piccoli\n\nPer fare an-, per fare anche bambini piccoli,\nohi, che piangano senza madri, che piangano senza madri,\nquando ci sarà, quando ci sarà una notte serena e stellata\n\nNote\n\nΞαστεριά – \"notte serena, cielo stellato e limpido\"; nel canto cretese indica il momento propizio, senza nubi, per intraprendere un'azione (spesso una spedizione o vendetta), qui in senso guerriero-ribelle.\nΘα φλεβαρίσει – da \"Φλεβάρης\" (febbraio), verbo popolare che significa \"farsi febbraio\", cioè arrivare quel mese; nella tradizione cretese febbraio è associato simbolicamente all'inizio di imprese e vendette (anche per motivi climatici/agricoli).\nΠατρόνα – \"cartucciera\", bandoliera portamunizioni, elemento tipico dell'abbigliamento tradizionale cretese armato.\nΟμαλός (Omalòs) – altopiano nella regione delle Bianche Montagne (Λευκά Όρη) a Creta, storicamente rifugio e teatro di lotte e ribellioni cretesi.\nΣτράτα των Μουσούρων – \"la strada dei Musuri\", toponimo/riferimento locale cretese (probabile via o zona legata alla famiglia/cognome Musuros), luogo di passaggio citato nella tradizione del canto.",
+      "no": ""
+    },
+    {
+      "id": "s_1786353672144",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-10",
+      "tgr": "Ποιος, μωρό μου, ποιος",
+      "tit": "Pios, morò mu, pios",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "Γιάννης Πάριος",
+      "lb": "",
+      "gn": "dimotikò nisiòtiko",
+      "dr": "",
+      "bal": "sirtòs",
+      "ll": "https://www.youtube.com/watch?v=D5MLJH99W5g",
+      "li": "",
+      "ch": "RE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος\nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος\nRE               MIm      LA               RE\nΠοιος σε έχει φιλημένη και στα χείλη δαγκωμένη\nRE               MIm      LA               RE\nΚαι στα χείλη δαγκωμένη, ποιος σε έχει φιλημένη\n\nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος \nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος\n\nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος \nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος\nRE               MIm      LA               RE\nΠοιος σε πήγαινε βαρκάδα πίσω στη βαθιά λαγκάδα\nRE               MIm      LA               RE\nΠίσω στη βαθιά λαγκάδα ποιος σε πήγαινε βαρκάδα\n\nRE       SOL          LA       RE\nΠοιος, ποιος, θέλω να ξέρω ποιος \nRE       SOL          LA       RE\nΠοιος, ποιος, θέλω να ξέρω ποιος \n\nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος \nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος \nRE               MIm      LA               RE\nΠοιος σε πήγαινε σεργιάνι μες της Πάρου το λιμάνι\nRE               MIm      LA               RE\nΜες της Πάρου το λιμάνι ποιος σε πήγαινε σεργιάνι\n\nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος\nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος\n \nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος \nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος\n\nRE               MIm      LA               RE\nΠοιος σε πήγαινε το βράδυ μες στο πίσω το λιβάδι\nRE               MIm      LA               RE\nΜες στο πίσω το λιβάδι ποιος σε πήγαινε το βράδυ\nRE       SOL          LA     RE\nΠοιος, ποιος, θέλω να ξέρω ποιος \nRE       SOL          LA     RE\nΠοιος, ποιος, θέλω να ξέρω ποιος",
+      "tr": "Pios moró mu pios\n\nPios, pios, pios moró mu pios\nPios se échi filiméni ke sta chìli daghoméni\nKe sta chìli daghoméni, pios se échi filiméni\nPios, pios, thélo na kséro pios\n\nPios, pios, pios moró mu pios\nPios se pìghene varkàda pìso sti vathià langhàda\nPìso sti vathià langhàda pios se pìghene varkàda\nPios, pios, thélo na kséro pios\n\nPios, pios, pios moró mu pios\nPios se pìghene serghiàni mes tis Pàru to limàni\nMes tis Pàru to limàni pios se pìghene serghiàni\nPios, pios, thélo na kséro pios\n\nPios, pios, pios moró mu pios\nPios se pìghene to vràdi mes sto pìso to livàdi\nMes sto pìso to livàdi pios se pìghene to vràdi\nPios, pios, thélo na kséro pios",
+      "ti": "Chi, piccola mia, chi\n\nChi, chi, chi, piccola mia, chi\nchi ti ha baciata e morsa sulle labbra\ne morsa sulle labbra, chi ti ha baciata\nchi, chi, voglio sapere chi\n\nChi, chi, chi, piccola mia, chi\nchi ti portava in barca giù nella valle profonda¹\ngiù nella valle profonda chi ti portava in barca\nchi, chi, voglio sapere chi\n\nChi, chi, chi, piccola mia, chi\nchi ti portava a passeggio² nel porto di Paros³\nnel porto di Paros chi ti portava a passeggio\nchi, chi, voglio sapere chi\n\nChi, chi, chi, piccola mia, chi\nchi ti portava la sera nel prato qui dietro\nnel prato qui dietro chi ti portava la sera\nchi, chi, voglio sapere chi\n\nNote\n\nΛαγκάδα – termine popolare greco per \"vallata/gola\", spesso usato in senso geografico ma anche con una sfumatura romantica/appartata, luogo nascosto adatto a incontri segreti.\nΣεργιάνι – dal turco \"seyran\", significa \"passeggiata, giro\" (spesso romantico o di svago); parola di uso comune nel greco popolare e nel rebetiko.\nΠάρος (Paros) – isola delle Cicladi, nel mar Egeo, qui citata come luogo reale della vicenda narrata nella canzone.",
+      "no": ""
+    },
+    {
+      "id": "s_1786352922627",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιάννης Πάριος",
+          "year": "1992",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=GOgyz_0vSw8"
+        },
+        {
+          "who": "Γιώργος Κονιτόπουλος",
+          "year": "1984",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=xIVwZHSwxDI"
+        }
+      ],
+      "date": "2026-08-10",
+      "tgr": "Λυγαριά",
+      "tit": "Ligharià",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò nisiòtiko",
+      "dr": "",
+      "bal": "sirtòs",
+      "ll": "",
+      "li": "",
+      "ch": "SOL           RE           SOL\nΚόρη καραβοκύρη, κόρη καραβοκύρη\nSOL            RE            SOL\nκόρη καραβοκύρη κι όμορφη κοπελιά\nSOL          MIm        REm     MIm\nΚορμί κυπαρισσένιο, λυγάς σα λυγαριά \nSOL          MIm        REm     MIm\nΚορμί κυπαρισσένιο, λυγάς σα λυγαριά \n\nRE                     REm          MIm\nΛυγαριά, λυγαριά, εσένα έχω στην καρδιά\nRE                     REm          MIm\nΛυγαριά, λυγαριά, θα σε κλέψω μια βραδιά\n\nSOL                 RE           SOL\nΣαϊτεμένο μ' έχεις, σαϊτεμένο μ' έχεις \nSOL            RE            SOL\nσαϊτεμένο μ' έχεις πληγή δε φαίνεται\nSOL          MIm        REm     MIm\nκαι άλλος από σένα γιατρός δε γίνεται\nSOL          MIm        REm     MIm\nκαι άλλος από σένα γιατρός δε γίνεται\n\nRE                     REm          MIm\nΛυγαριά, λυγαριά, εσένα έχω στην καρδιά\nRE                     REm          MIm\nΛυγαριά, λυγαριά, θα σε κλέψω μια βραδιά\n\nSOL                 RE           SOL\nΤο φεγγαράκι ρώτα το φεγγαράκι ρώτα\nSOL                 RE           SOL\nτο φεγγαράκι ρώτα και τ' άστρα να σου πουν\nSOL          MIm        REm     MIm\nτα μάτια μου πώς κλαίνε όταν σε θυμηθούν\nSOL          MIm        REm     MIm\nτα μάτια μου πώς κλαίνε όταν σε θυμηθούν\n\nRE                     REm          MIm\nΛυγαριά, λυγαριά, εσένα έχω στην καρδιά\nRE                     REm          MIm\nΛυγαριά, λυγαριά, θα σε κλέψω μια βραδιά\n\nSOL                 RE           SOL\nΘαρρώ το πως το θέλεις θαρρώ το πως το θέλεις\nSOL                 RE           SOL\nθαρρώ το πως το θέλεις να σεκλετίζομαι\nSOL          MIm        REm     MIm\nκαι για τα να σ' αρέσει να βασανίζομαι\nSOL          MIm        REm     MIm\nκαι για τα να σ' αρέσει να βασανίζομαι\n\nRE                     REm          MIm\nΛυγαριά, λυγαριά, εσένα έχω στην καρδιά\nRE                     REm          MIm\nΛυγαριά, λυγαριά, θα σε κλέψω μια βραδιά",
+      "tr": "Ligharià\n\nKòri karavokìri, kòri karavokìri\nkòri karavokìri ki òmorfi kopelià\nKormì kiparissèno, lighàs sa ligharià\n\nLigharià, ligharià, esèna écho stin kardià\nLigharià, ligharià, tha se klèpso mia vradià\n\nSaitemèno m'échis\nplighì de fènete\nke àllos apò sèna ghiatròs de ghìnete\n\nTo feggaràki ròta\nke t'àstra na su pun\nta màtia mu pos klène òtan se thimithùn\n\nTharrò to pos to thèlis\nna sekletìzome\nke ghia ta na s'arèsi na vasanìzome",
+      "ti": "Salice, salice\n\nFiglia di capitano di nave¹, figlia di capitano di nave,\nfiglia di capitano di nave e bella ragazza\ncorpo slanciato come un cipresso², ti pieghi come un salice³ (x2)\n\nSalice, salice, te ho nel cuore\nsalice, salice, ti rapirò una sera\n\nMi hai trafitto con una freccia⁴,\nla ferita non si vede\ne nessun altro tranne te può guarirmi⁵\n\nSalice, salice...\n\nChiedi alla piccola luna\ne alle stelle di dirti\ncome piangono i miei occhi quando si ricordano di te\n\nSalice, salice...\n\nCredo che tu lo voglia,\nche io mi tormenti⁶\ne che, per piacerti, io debba soffrire\n\nSalice, salice...\n\nNote\n\nΚαραβοκύρης – termine marinaresco per \"capitano/proprietario di nave\"; essere \"figlia di καραβοκύρης\" indica un'origine benestante, di famiglia legata al mare.\nΚορμί κυπαρισσένιο (\"corpo di cipresso\") – metafora poetica tradizionale greca per indicare un corpo slanciato, alto ed elegante, paragonato al cipresso, albero snello e slanciato.\nΛυγαριά – \"salice\" (Vitex agnus-castus, in realtà agnocasto in senso botanico, ma tradotto poeticamente come \"salice\" per l'immagine del piegarsi); simbolo di flessibilità, grazia e movimento sinuoso, spesso usato come vezzeggiativo per la donna amata nei canti popolari.\nΣαϊτεμένο μ' έχεις (\"mi hai trafitto con una freccia\") – immagine tipica della tradizione popolare/rebetika, richiama le frecce di Eros/Cupido nell'amore che ferisce.\nΓιατρός δε γίνεται (\"nessun altro può guarirmi\") – espressione idiomatica: solo la persona amata, causa della \"ferita\" d'amore, può esserne anche la cura.\nΣεκλετίζομαι – verbo popolare greco (dal turco \"sıkletlenmek\"), significa \"tormentarsi, affliggersi, angosciarsi\"; termine tipico del lessico dei canti d'amore popolari e rebetiko.",
+      "no": ""
+    },
+    {
+      "id": "s_1786351810045",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κωστας Δουσας",
+          "year": "1932",
+          "note": "registrata a Chicago",
+          "link": "https://www.youtube.com/watch?v=OuH8gRGvSbg"
+        },
+        {
+          "who": "Δόμνα Σαμίου",
+          "year": "1983",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=kllORS5FlUs"
+        }
+      ],
+      "date": "2026-08-10",
+      "tgr": "Η τράτα μας η κουρελού",
+      "tit": "I tràta mas i kurelù",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò nisiòtiko",
+      "dr": "",
+      "bal": "sirtòs",
+      "ll": "",
+      "li": "",
+      "ch": "MIm            LAm         MIm      LAm\nΗ τράτα μας η κουρελού, η χιλιομπαλωμένη\nMIm           LAm             RE    MIm\nΌλο την εμπαλώναμε κι αυτή ήταν ξηλωμένη\n\nMIm     LAm RE  MIm         LAm   RE   MIm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nMIm   LAm        RE    MIm\nΕβίρα τρεις, στο σπίτι της\n\nMIm            LAm         MIm      LAm\nΑν το 'ξερε η μάνα μου πως δούλευα στην τράτα\nΜIm           LAm                    RE      MIm\nθα μου 'στελνε τα ρούχα μου και την παλιά μου βράκα\n\nMIm     LAm RE  MIm         LAm   RE   MIm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nMIm   LAm        RE    MIm\nΕβίρα τρεις, στο σπίτι της\n\nMIm            LAm         MIm      LAm\nΠήγαμε και καλάραμε κάτω στα Διονυσάρια\nMIm           LAm             RE    MIm\nκαι γέμισε η τράτα μας σουπιές και καλαμάρια\n\nMIm     LAm RE  MIm         LAm   RE   MIm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nMIm   LAm        RE    MIm\nΕβίρα τρεις, στο σπίτι της\n\nMIm            LAm         MIm      LAm\nΤην τράτα μου την πούλησα στην Θεσσαλονίκη\nMIm           LAm             RE    MIm\nκαι γύρισα στη μάνα μου με δίχως μεταλλίκι\n\nMIm     LAm RE  MIm         LAm   RE   MIm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nMIm   LAm        RE    MIm\nΕβίρα τρεις, στο σπίτι της",
+      "tr": "I tràta mas i kurelù\n\nI tràta mas i kurelù, i chiliobaloméni\nÒlo tin ebalòname ki aftì ìtan ksiloméni\n\nEvìra mia, sta pania, evìra dio, sto chorio\nEvìra tris, sto spiti tis\n\nAn to 'ksere i màna mu pos dùleva stin tràta\ntha mu 'stelne ta rucha mu ke tin palià mu vràka\n\nPìghame ke kalàrame kàto sta Dionisària\nke ghιèmise i tràta mas supiès ke kalamària\n\nTin tràta mu tin pùlisa stin Thessaloníki\nke ghìrisa sti màna mu me dìchos metallìki",
+      "ti": "La nostra rete a strascico\n\nLa nostra rete a strascico¹, tutta stracciata,\nsempre la rattoppavamo e lei si scuciva ancora\n\nTira² una, per le vele, tira due, verso il paese\ntira tre, verso casa sua\n\nSe lo sapesse mia madre che lavoravo sulla peschereccia³\nmi manderebbe i miei vestiti e le mie vecchie mutande\n\nTira una...\ntira tre, verso casa sua\n\nSiamo andati e abbiamo calato le reti⁴ giù ai Dionisària⁵\ne si è riempita la nostra rete di seppie e calamari\n\nTira una...\ntira tre, verso casa sua\n\nHo venduto la mia rete a Salonicco\ne sono tornato da mia madre senza un soldo⁶\n\nTira una...\ntira tre, verso casa sua\n\nNote\n\nΤράτα – tipo di rete a strascico usata nella pesca tradizionale greca, spesso indica anche la barca stessa usata per questo tipo di pesca.\nΕβίρα – dal verbo marinaresco \"βιράρω\" (issare/tirare, dall'italiano \"virare\"), termine gergale dei pescatori per \"tira!\", comando ritmico durante il recupero delle reti.\nΔούλευα στην τράτα – espressione colloquiale per \"lavoravo sulla peschereccia/sulla barca da pesca a strascico\", vita dura e umile associata ai pescatori poveri.\nΚαλάραμε – dal verbo \"καλάρω\" (calare le reti in mare), termine tecnico della pesca.\nΔιονυσάρια – toponimo locale (probabilmente una zona di pesca specifica, forse vicino a un'isola o costa greca), riferimento geografico popolare della canzone.\nΔίχως μεταλλίκι – espressione idiomatica popolare, \"μεταλλίκι\" deriva da \"μέταλλο\" (metallo/moneta), significa \"senza un soldo\", cioè tornare a casa poveri e senza guadagno nonostante il duro lavoro.",
+      "no": "Il testo delle canzoni popolari e tradizionali può variare, anche sensibilmente, da un'esecuzione all'altra. Questo accade soprattutto per i brani di tradizione orale, spesso privi di un autore certo, tramandati e rielaborati nel tempo da cantante a cantante."
+    },
+    {
+      "id": "s_1786348639456",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ειρήνη Κονιτοπούλου",
+          "year": "1963",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=qz1nlZb4MvM"
+        },
+        {
+          "who": "Ρόζα Εσκενάζυ",
+          "year": "1933",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=58wDEq8F2_M"
+        },
+        {
+          "who": "Γιάννης Πάριος",
+          "year": "1982",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=8u42nZL9z3w"
+        }
+      ],
+      "date": "2026-08-10",
+      "tgr": "Αρμενάκι",
+      "tit": "Armenàki",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò Naxos",
+      "dr": "",
+      "bal": "sirtòs",
+      "ll": "",
+      "li": "",
+      "ch": "MIm                                 SOL\nΑρμενάκι είμαι κυρά μου, πάρε με, πάρε με\nSOL REm MIm\nΈλα πάρε με\n\nMIm                                 SOL\nΆνοιξε την αγκαλιά σου, βάλε με, βάλε με\nSOL REm MIm\nΈλα βάλε με\n\nMIm                                 SOL\nΈλα βάρκα να με πάρεις, πάρε με, πάρε με\nSOL REm MIm\nΈλα πάρε με\n\nMIm                                 SOL\nΣε νησιώτικο λιμάνι βγάλε με, βγάλε με\nSOL REm MIm\nΈλα βγάλε με",
+      "tr": "Armenàki \n\nArmenàki ìme kirà mu, pàre me, pàre me\nÈla pàre me\n\nÀnikse tin anghalià su, vàle me, vàle me\nÈla vàle me\n\nÈla vàrka na me pàris, pàre me, pàre me\nÈla pàre me\n\nSe nisiòtiko limàni vghàle me, vghàle me\nÈla vghàle me",
+      "ti": "Piccola barca\n\nSono una piccola barca¹, signora mia, prendimi, prendimi\nvieni, prendimi\n\nApri le tue braccia, mettimi dentro, mettimi dentro\nvieni, mettimi dentro\n\nVieni, barca, a prendermi, prendimi, prendimi\nvieni, prendimi\n\nIn un porto isolano² sbarcami, sbarcami\nvieni, sbarcami\n\nNote alla traduzione\n\nΑρμενάκι – diminutivo affettuoso di \"αρμένι/αρμενίζω\" (navigare); qui \"piccola barca/veliero\" usato come metafora amorosa: l'uomo si paragona a una piccola imbarcazione che chiede alla donna amata di accoglierlo, immagine tipica della lirica popolare delle isole greche.\nΝησιώτικο λιμάνι (\"porto isolano\") – richiama l'ambientazione tipica della musica \"νησιώτικα\" (canti delle isole greche), dove il porto è spesso simbolo di approdo, rifugio e ritorno a casa/all'amore.",
+      "no": ""
+    },
+    {
+      "id": "s_1786347929129",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-10",
+      "tgr": "Ντάρι-ντάρι",
+      "tit": "Dàri-dàri",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "Γιάννης Πάριος",
+      "lb": "",
+      "gn": "dimotikò nisiòtiko",
+      "dr": "",
+      "bal": "sirtòs",
+      "ll": "https://www.youtube.com/watch?v=mlokLvy_kmo",
+      "li": "",
+      "ch": "DO         REm        SOL          DO\nΠερνοδιαβαί-, περνοδιαβαίνω για να δω\nDO         REm        SOL          DO\nδυο μάτια αγά-, δυο μάτια αγαπημένα\nDO         REm        SOL          DO\nγια να με φέ-, για να με φέρει ο λογισμός\nDO         REm        SOL          DO\nξανά στα πε-, ξανά στα περασμένα\n\nDO               REm\nΝτάρι-ντάρι, ντάρι-ντάρι\nSOL      DO         REm       SOL      DO         REm\nστο γιαλό πετούν οι γλάροι, στο γιαλό πετούν οι γλάροι\nSOL              DO\nνα τα παίζαμε, μακάρι\n\nDO    REm     SOL       DO\nΆνοιξε το, άνοιξε το παράθυρο\nDO    REm     SOL       DO\nη γειτονιά, η γειτονιά να φέξει\nDO    REm     SOL       DO\nΗ πούλια κι ο, η πούλια κι ο αυγερινός\nDO    REm     SOL       DO\nμαζί σου για, μαζί σου για να παίξει\n\nDO               REm\nΝτάρι-ντάρι, ντάρι-ντάρι\nSOL      DO         REm       SOL      DO         REm\nστο γιαλό πετούν οι γλάροι, στο γιαλό πετούν οι γλάροι\nSOL              DO\nνα τα παίζαμε, μακάρι\n\nDO         REm        SOL          DO\nΠλαγιάζω για, πλαγιάζω για να κοιμηθώ\nDO         REm        SOL          DO\nκι ο λογισμός, κι ο λογισμός με δέρνει\nDO         REm        SOL          DO\nΟ ήλιος βγαί-, ο ήλιος βγαίνει στα βουνά\nDO         REm        SOL          DO\nκι ο ύπνος δε, κι ο ύπνος δε με παίρνει\n\nDO               REm\nΝτάρι-ντάρι, ντάρι-ντάρι\nSOL      DO         REm       SOL      DO         REm\nστο γιαλό πετούν οι γλάροι, στο γιαλό πετούν οι γλάροι\nSOL              DO\nνα τα παίζαμε, μακάρι",
+      "tr": "Dàri-dàri\n\nPernodiavè-, pernodiavèno ghia na do\ndio màtia agha-, dio màtia aghapiména\nghia na me fè-, ghia na me fèri o loghismòs\nksanà sta pe-, ksanà sta perasména\n\nNdàri-ndàri, ndàri-ndàri\nsto ghialò petùn i glàri, sto ghialò petùn i glàri\nna ta pèzame, makàri\n\nÀnikse to, ànikse to parathìro\ni ghitonià, i ghitonià na fèksi\nI pùlia ki o, i pùlia ki o avgherinòs\nmazì su ghia, mazì su ghia na pèksi\n\nNdàri-ndàri...\n\nPlaghiàzo ghia, plaghiàzo ghia na kimithò\nki o loghismòs, ki o loghismòs me dèrni\nO ìlios vghè-, o ìlios vghèni sta vunà\nki o ìpnos de, ki o ìpnos de me pèrni\n\nNdàri-ndàri...",
+      "ti": "Dàri dàri\n\nPasso e ripasso¹ per vedere\ndue occhi ama-, due occhi amati\nper farmi porta-, per farmi portare dal pensiero²\ndi nuovo alle co-, di nuovo alle cose passate\n\nNdàri-ndàri³, ndàri-ndàri\nsul mare volano i gabbiani, sul mare volano i gabbiani\nmagari li suonassimo⁴\n\nApri, apri la finestra\nche il vicinato, che il vicinato si illumini\nLa Pleiade e la, la Pleiade e la stella del mattino⁵\ninsieme a te, insieme a te per giocare\n\nNdàri-ndàri...\n\nMi corico per, mi corico per addormentarmi\ne il pensiero, e il pensiero mi tormenta\nIl sole sorge, il sole sorge sui monti\ne il sonno non, e il sonno non mi prende\n\nNdàri-ndàri...\n\nNote\n\nΠερνοδιαβαίνω – verbo composto (περνώ + διαβαίνω) tipico del lessico popolare greco, \"passare e ripassare\" ripetutamente in un luogo, spesso per intravedere qualcuno di nascosto.\nΟ λογισμός – termine che indica il \"pensiero fisso\", l'assillo mentale, spesso usato in ambito amoroso per il pensiero ossessivo per la persona amata (concetto ricorrente nella poesia popolare greca, anche in senso quasi mistico/religioso).\nΝτάρι-ντάρι – vocalizzo onomatopeico senza significato letterale, tipico dei ritornelli danzati della tradizione popolare greca (nisiotika/dimotika), usato per scandire il ritmo.\nΝα τα παίζαμε, μακάρι – espressione idiomatica, letteralmente \"magari li suonassimo\", cioè un augurio/desiderio nostalgico di poter ancora suonare/vivere quei momenti insieme.\nΗ πούλια κι ο αυγερινός – riferimento all'astronomia popolare greca: \"πούλια\" sono le Pleiadi, \"αυγερινός\" è il pianeta Venere visto all'alba (stella del mattino); insieme indicano i momenti/simboli poetici dell'alba nella tradizione popolare.",
+      "no": ""
+    },
+    {
+      "id": "s_1786344816683",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-10",
+      "tgr": "Μια φορά θυμάμαι",
+      "tit": "Mia forà thimàme",
+      "alias": "",
+      "at": "Γιώργος Παπαστεφάνου",
+      "am": "Γιάννης Σπανός",
+      "yr": "1966",
+      "ar": "Αρλέτα",
+      "lb": "",
+      "gn": "Neo Kima",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=H-m42WC0NMk",
+      "li": "",
+      "ch": "LA m                      MI m\nΝύχτα βροχερή κι άδειο το χέρι\nLA m                        SOL\nΨάχνει να σε βρει, μα δεν το ξέρει\n           DO     MI\nπού θα σε βρει\n\nLA                     LA#\nΜια φορά θυμάμαι μ' αγαπούσες\nLA\nΤώρα βροχή\nLA                     LA#\nΜια φορά θυμάμαι μου μιλούσες\nLA# LA m\nΤώρα σιωπή\n\nLA m                       MI m\nΠέτρωσε η φωνή και πώς να κλάψει\nLA m                   SOL\nΠου 'φυγες εσύ, έχουν ανάψει\n         DO MI\nχίλιοι καημοί\n\nLA           LA#\nΜια φορά θυμάμαι...\nLA\nΤώρα βροχή\nLA                      LA#\nΜια φορά θυμάμαι μου μιλούσες\n LA# LA m\nΤώρα σιωπή\n\nLA m                     MI m\nΘα 'ρθει το πρωί και θα περάσει\nLA m                  SOL\nΘα με λυπηθεί, θα με ξεχάσει\nDO         MI\nόπως και συ\n\nLA           LA#\nΜια φορά θυμάμαι...\nLA\nΤώρα βροχή\nLA                      LA#\nΜια φορά θυμάμαι μου μιλούσες\n LA# LA m\nΤώρα σιωπή",
+      "tr": "Mia forà thimàme\n\nNìchta vrocherì ki àdio to chièri\nPsàchni na se vrì, ma den to kséri\npu tha se vrì\n\nMia forà thimàme m'aghapùses\nTòra vrochì\nMia forà thimàme mu milùses\nTòra siopì\n\nPètrose i foní ke pos na klàpsi\nPu 'fighes esì, échun anàpsi\nchìli kaimì\n\nMia forà thimàme m'aghapùses\nTòra vrochì\nMia forà thimàme mu milùses\nTòra siopì\n\nTha 'rthi to proì ke tha peràsi\nTha me lipithì, tha me ksechàsi\nòpos ke si\n\nMia forà thimàme m'aghapùses\nTòra vrochì\nMia forà thimàme mu milùses\nTòra siopì",
+      "ti": "Una volta ricordo\n\nNotte piovosa e la mano vuota\ncerca di trovarti, ma non sa\ndove ti troverà\n\nUna volta ricordo che mi amavi\nora, pioggia\nUna volta ricordo che mi parlavi\nora, silenzio\n\nSi è pietrificata la voce e come può piangere,\nda quando sei andata via, si sono accesi\nmille dolori\n\nUna volta ricordo...\nora, pioggia\nUna volta ricordo che mi parlavi\nora, silenzio\n\nVerrà il mattino e passerà\navrà pietà di me, mi dimenticherà\ncome hai fatto anche tu\n\nUna volta ricordo...\nora, pioggia\nUna volta ricordo che mi parlavi\nora, silenzio\n\nNote\n\nΆδειο το χέρι (\"la mano vuota\") – immagine che rappresenta la solitudine e l'assenza, la mano che cercava di tenere quella dell'amata ora è vuota.\nΠέτρωσε η φωνή (\"si è pietrificata la voce\") – espressione poetica per indicare che il dolore è così grande da bloccare la voce, impedendo persino il pianto liberatorio.\nΧίλιοι καημοί (\"mille dolori/pene\") – \"καημός\" è un termine molto usato nella tradizione della canzone greca (soprattutto rebetiko e laika) per indicare una pena d'amore profonda e struggente; \"mille\" è iperbole per intensificare il sentimento.",
+      "no": ""
+    },
     {
       "id": "s_1786340754492",
       "offsets": {},
@@ -2461,6 +2709,14 @@
   ],
   "args": [
     {
+      "id": "a_1786361214162",
+      "title": "Πότε θα κάνει ξαστεριά — Storia di un canto che attraversa i secoli",
+      "tag": "storie di canzoni",
+      "date": "2026-08-06",
+      "body": "Cos'è un \"ριζίτικο\"\n\"Πότε θα κάνει ξαστεριά\", conosciuto anche semplicemente come \"η Ξαστεριά\", è un canto tradizionale greco, in particolare un ριζίτικο (rizítiko) cretese. I ριζίτικα sono il genere più antico della musica cretese, originari soprattutto della Creta occidentale, anche se diffusi anche nella parte centrale e orientale dell'isola. \nIl nome stesso ha almeno due possibili origini, entrambe affascinanti: secondo un'ipotesi il termine deriverebbe dalle \"ρίζες\" (radici) delle montagne — lo Psiloritis, il Ditti, i Monti Bianchi (Lefka Ori) — cioè le pendici ai piedi delle quali questi canti venivano tradizionalmente eseguiti; secondo un'altra interpretazione, sarebbero chiamati così perché canti \"della radice\", degli antenati, della stirpe. \nMusicalmente, i ριζίτικα hanno un carattere serio, con elementi di dolore; tipicamente un verso viene intonato da un solo cantore e poi ripreso in coro, anche se questa struttura non è sempre obbligatoria. Non c'è sempre rima, e il verso non è sempre un decapentasillabo, sebbene questa forma prevalga statisticamente. \nUn'origine incerta, tra Bisanzio e le rivolte cretesi\nL'origine della \"Ξαστεριά\" non è chiara, e le opinioni di storici e musicologi divergono. Una delle ricerche filologiche più approfondite sul tema — il volume di Giorgos Andreiomenos, \"Πότε θα κάνει Ξαστεριά. Από τις ρίζες των Λευκών Ορέων στην πανελλήνια χρήση\" (edizioni Sideris, 374 pagine) — apre il dibattito muovendo dall'opinione di alcuni studiosi che collegano il canto a un ριζίτικο di epoca bizantina, che presenta somiglianze con esso. \nLo studio segue le trasformazioni di significato del canto attraverso i secoli — da un carattere puramente locale, legato ai Monti Bianchi, fino alla diffusione panellenica — inserendolo in contesti sociali, storici, politici ed economici diversi, dall'epoca bizantina fino alla quotidianità della Grecia contemporanea segnata dai memoranda. \nIl contesto storico più diffuso: la battaglia di Omalós (1821)\nLa versione più nota e diffusa del canto è legata alla memoria delle rivolte cretesi contro il dominio ottomano — nello specifico, allo scontro combattuto nella zona di Omalós, sulla \"strada dei Musuro\", nel 1821. Il motivo, celebre e cantatissimo, di \"Πότε θα κάνει ξαστεριά\" — il canto rizítiko dell'eroica Creta — divenne l'inno delle lotte dell'intero popolo greco per la Democrazia, la Libertà e l'Indipendenza.\nSecondo la memoria tramandata, 6.300 tra Turchi e Turco-cretesi si radunarono da tutte le province per schiacciare 758 combattenti provenienti da Chania, Therisso, Sfakia, Lakki e Kerameies. La battaglia si concluse inaspettatamente con la vittoria dei greci, e in essa si distinse per il proprio eroismo Stefanos Chalis — il combattente della Filikí Etería che aveva sollevato i Monti Bianchi con il suo discorso, e il cui canto \"Πότε θα κάνει ξαστεριά\" era sulle labbra di tutti i valorosi che marciavano verso l'eternità.\nΣτέφανος Χάλης \nNato a Theriso, Chania, intorno al 1796, capo militare (oplarchigos) e combattente della Rivoluzione Greca del 1821 a Creta. Era il più giovane dei tre fratelli Chalis, tutti combattenti della rivoluzione: Vasileios e Ioannis. Figlio di Dimitrios Chalis, che si prese cura dell'istruzione dei figli, cosicché sia Stefanos sia i fratelli ricevettero un'educazione significativa per l'epoca.\nDal servizio consolare all'iniziazione rivoluzionaria — secondo fonti storiche, fu assunto come impiegato al consolato britannico di Chania, e in seguito trasferito a Patrasso, dove fu iniziato alla Filikí Etería; con lo scoppio della Rivoluzione tornò a Creta, dove agì come oplarchigos.\n\"Il Poeta della Ξαστεριά\" — viene descritto come il combattente della Filikí Etería che risvegliò Creta con la lira, il canto e la parola. Sebbene resti un personaggio storico, non un compositore professionista, la tradizione popolare gli attribuisce un ruolo attivo nella creazione — o almeno nella diffusione, cantandolo lui stesso con la lira — del celebre canto.\nLa morte — sulla lapide della sua tomba a Theriso si legge: \"Qui giace Stefanos D. Chalis di Theriso, oplarchigos 1820-1822, caduto eroicamente combattendo presso la località di Alykes il 25 luglio 1822\".\nhttps://musicagreca.github.io/musica-greca/images/tombachalis.jpg \n\nI fratelli — i tre fratelli Chalis — Vasileios (1785-1846), Ioannis (1790-1828) e Stefanos (1796-1822) — scrissero pagine memorabili nella storia di Theriso, di Creta e dell'intera patria, diventando il terrore dei turchi; gli storici dell'epoca li definirono \"uomini giganteschi\", \"Ciclopi\", paragonandoli a Kolokotronis, Achille, Nestore, Odisseo, ai falchi e alle aquile dei Monti Bianchi.\nIl testo e la sua durezza\nUna delle versioni più diffuse recita (qui solo per contesto, senza riprodurre il testo completo): il combattente attende che spunti il sereno e arrivi febbraio per imbracciare il fucile e scendere in battaglia — con un finale di rara durezza poetica, che immagina di lasciare \"madri senza figli, donne senza mariti\" e bambini che piangono di notte per la sete e al mattino per la fame, senza più le loro madri. Un ricercatore ha censito ben 25 varianti diverse del canto, classificate per gruppi e ordine cronologico di pubblicazione, con un ricco apparato critico che riporta, verso per verso, l'insieme delle diverse scritture riscontrate in raccolte e testimonianze. — un'ulteriore, splendida conferma di quanto i canti tradizionali possano variare da esecuzione a esecuzione, esattamente come la nota che abbiamo appena preparato per il tuo sito. \nLa rinascita nel Novecento: Nikos Xylouris e il Politecnico\nIl capitolo più celebre e drammatico della storia recente del canto è legato a Nikos Xylouris, nell'autunno 1973.\nA mezzogiorno di venerdì 16 novembre 1973, Nikos Xylouris si trovò all'interno dell'edificio occupato del Politecnico, cantando insieme agli studenti proprio \"Πότε θα κάνει ξαστεριά\" — non genericamente canzoni di protesta, ma specificamente questo brano, insieme a \"Μπήκαν στην πόλη οι οχτροί\" (\"I nemici sono entrati in città\"). Il canto, nato due secoli prima come ριζίτικο di lotta cretese, tornava così a essere — letteralmente — inno di battaglia in un momento cruciale della storia greca contemporanea.\nLe fotografie pubblicate sui giornali il giorno successivo all'irruzione dei carri armati nel Politecnico avrebbero portato, in seguito, alla persecuzione di Xylouris da parte del regime dei colonnelli.\nXylouris al Politecnico: la conferma dalle fonti\nA mezzogiorno di venerdì 16 novembre 1973 Nikos Xylouris si trovò all'interno dell'edificio occupato, cantando insieme agli studenti proprio \"Πότε θα κάνει ξαστεριά\", non genericamente canzoni di protesta, ma specificamente questo brano, insieme a \"Μπήκαν στην πόλη οι οχτροί\" (\"I nemici sono entrati in città\"). Il canto, nato due secoli prima come ριζίτικο di lotta cretese, tornava così a essere, letteralmente, inno di battaglia in un momento cruciale della storia greca contemporanea.\nLe fotografie pubblicate sui giornali il giorno successivo all'irruzione dei carri armati nel Politecnico avrebbero portato, in seguito, alla persecuzione di Xylouris da parte del regime dei colonnelli.\n________________________________________\nFonti citate (per verifica/pagina Informazioni):\n1.\tERT.gr — archivio ufficiale: \"Τον Νοέμβριο του 1973, τις μέρες της εξέγερσης, είναι μέσα στο Πολυτεχνείο και τραγουδά πίσω από τα κάγκελα μαζί με τους φοιτητές «Πότε θα κάνει ξαστεριά» και «Μπήκαν στην πόλη οι οχτροί».\" — https://www.ert.gr/ert-arxeio/nikos-xyloyris-8-fevroyarioy-1980-4/\n2.\tΈθνος (Ethnos.gr): stessa informazione, formulazione pressoché identica — https://www.ethnos.gr/music/article/194772/sanshmeraoarxaggelosnikosxyloyrhsanaxorhsegiathnathanasia\n3.\tAlfavita.gr: \"Η παλαϊκή εξέγερση του Πολυτεχνείου βρίσκει τον Νίκο Ξυλούρη στις επάλξεις, να τραγουδά μαζί με φοιτητές και τον λαό της Αθήνας «Πότε θα Κάνει Ξαστεριά»\" — https://www.alfavita.gr/koinonia/304325_otan-o-nikos-xyloyris-enothike-me-lao-kai-ti-neolaia-toy-polytehneioy\nIl regime dei colonnelli reagì duramente: i vertici del potere della dittatura lo considerarono un nemico — e lo era — e i colonnelli, con i loro alleati, censurarono le sue canzoni, proibirono i suoi concerti e misero i sigilli al locale dove cantava. \nUn canto che continua a parlare\nDa ριζίτικο di montagna, legato a un episodio locale delle guerre d'indipendenza cretesi, a inno spontaneo della resistenza studentesca contro la dittatura dei colonnelli, \"Πότε θα κάνει ξαστεριά\" ha attraversato quasi due secoli di storia greca, cambiando pelle e significato a ogni epoca, restando fedele però ad un'unica, semplice domanda che continua a risuonare: quando tornerà finalmente il sereno?",
+      "link": ""
+    },
+    {
       "id": "a_1786186463040",
       "title": "ΓΕΝΤΙ ΚΟΥΛΕ — \"Τραγουδισμένη φυλακή\" (la prigione cantata)",
       "tag": "storie di luoghi",
@@ -4482,7 +4738,7 @@
     {
       "id": "p_1786341052341",
       "name": "Loreena McKennitt",
-      "nameit": "",
+      "nameit": "Loreena McKennitt",
       "born": "17 febbraio 1957, Morden, Manitoba (Canada)",
       "died": "",
       "bio": "Cantautrice e polistrumentista canadese, di origini scozzesi e irlandesi, riconosciuta come una delle icone della musica celtica contemporanea.\n\nFin da piccola mostrò talento per musica e arte; studiò canto per cinque anni e pianoforte per dieci. Da giovane voleva diventare veterinaria, ma scelse infine la musica.\n\nNel 1981 si trasferì a Stratford, Ontario, per unirsi alla compagnia teatrale dello Stratford Shakespearean Festival, dove ebbe modo di ispirarsi al poeta William Butler Yeats e alla musica di gruppi come The Bothy Band e Alan Stivell. Per raccogliere fondi e realizzare il suo primo disco, si esibiva per strada, anche nello storico St. Lawrence Market di Toronto.\n\nNel 1985 fondò Quinlan Road, la propria casa discografica indipendente con sede a Stratford, di cui è rimasta l'unica artista.\n\nDa sempre convinta che la musica sia un mezzo di comunicazione tra culture diverse, tra il 1991 e il 2005 viaggiò estensivamente (Venezia, Ungheria, Ucraina, Spagna, Medio Oriente, Asia), portando queste influenze in dischi come The Visit (1994), The Mask and Mirror (1994, con importanti richiami alla cultura spagnola, tra cui un adattamento della \"Notte Oscura dell'Anima\" di San Giovanni della Croce), The Book of Secrets (1997) e An Ancient Muse (2006), quest'ultimo influenzato in particolare dai suoi viaggi in Medio Oriente e nel Caucaso.\n\nNel 1999 partecipò all'album Tears of Stone dei The Chieftains, con il brano \"Ye Rambling Boys of Pleasure\".\n\nHa venduto oltre 14-15 milioni di copie nel mondo, ottenendo dischi d'oro, platino e multiplatino in quindici paesi di quattro continenti. Ha vinto il premio Juno (l'equivalente canadese dei Grammy) come Miglior Album Roots/Tradizionale nel 1992 (per The Visit) e nel 1994 (per The Mask and Mirror), oltre a due nomination ai Grammy Awards.\n\nNel 1998 il suo fidanzato Ronald Rees morì in un incidente nautico nella Georgian Bay, insieme al fratello di lei Richard e all'amico Gregory Cook. In seguito a questa tragedia, istituì il Cook-Rees Memorial Fund for Water Search and Safety, dedicato alla sicurezza in acqua.",
@@ -4491,6 +4747,125 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/loreena.jpg",
       "roles": [
         "am"
+      ]
+    },
+    {
+      "id": "p_1786345182456",
+      "name": "Αρλέτα",
+      "nameit": "Arlèta",
+      "born": "3 marzo 1945, Atene",
+      "died": "8 agosto 2017, Atene",
+      "bio": "Vero nome Argyró-Nikolétta Tsápra, originaria di Orchomenós, Beozia. . Cantautrice, musicista e artista visiva greca.\n\nStudiò pittura presso la Scuola Superiore di Belle Arti di Atene (ASKT).\n\nIniziò la carriera discografica negli anni '60, partecipando al movimento del \"Néo Kýma\" (\"Nuova Onda\") della musica greca. Il suo primo disco, \"Τραγουδά η Αρλέτα\" (1966, Lyra), fu censurato dalla giunta militare.\n\nLa prima canzone scritta interamente da lei fu \"Τα Μικρά Παιδιά\", uscita nel 1967 nell'album \"Αρλέτα Νο2\" — divenuta uno dei suoi brani più amati e classici.\n\nNei primi anni di carriera lavorò con importanti compositori come Giannis Spanos, Notis Mavroudis, Nikos Chouliaras e Manos Hatzidakis. Divenne più ampiamente conosciuta cantando proprio Hatzidakis e Spanos: resta un suo grande successo \"Μια φορά θυμάμαι\" di Spanos, su testo di Giorgos Papastefanou (che hai appena inserito!) — un brano d'amore che conserva ancora oggi la sua freschezza.\n\nUn momento significativo della sua carriera fu l'interpretazione di \"Romancero Gitano\" di Mikis Theodorakis, su poesia di Federico García Lorca, che eseguì suonando lei stessa la chitarra (pubblicato come disco nel 1978).\n\nProseguì componendo e interpretando le proprie canzoni, esplorando percorsi musicali diversi e interessanti rispetto agli esordi del Néo Kýma. Tra i dischi successivi: \"Στο ρυθμό του αγέρα\" (1968), \"12+1 τραγούδια του Μάνου Χατζιδάκη\" (1969), \"Έξη μέρες\" (1970), \"Ταξιδεύοντας\" (1976), \"Ένα καπέλο γεμάτο τραγούδια\" (1981), \"Περίπου\" (1984), \"Τσάι γιασεμιού\" (1985), \"Ζητάτε να σας πω\" (1987), \"Εκτός έδρας\" (1989).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/arleta.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786345480575",
+      "name": "Γιάννης Σπανός",
+      "nameit": "Ghiànnis Spanòs",
+      "born": "26 luglio 1934, Kiato (Corinzia)",
+      "died": "30 ottobre 2019, Kiato (Corinzia)",
+      "bio": "Tra i più importanti compositori greci, considerato il \"padre\" del Néo Kýma (\"Nuova Onda\"), il movimento musicale che rinnovò profondamente la canzone greca degli anni '60.\n\nMostrò fin da bambino un'inclinazione per la musica, imparando a suonare il pianoforte osservando la sorella maggiore che già lo suonava.\n\nTrascorse un periodo di formazione a Parigi, dove la Rive Gauche e la compagnia degli artisti che la frequentavano lo affascinarono profondamente. Lì scoprì la Nouvelle Vague e la musica jazz, lavorando anche come accompagnatore per numerosi cantanti famosi, tra cui in primis Serge Gainsbourg.\n\nTornato in Grecia e stabilitosi ad Atene, esordì nella discografia greca con la canzone \"Μια αγάπη για το καλοκαίρι\", interpretata da Kaiti Chomata — brano fondativo del genere Néo Kýma, di cui fu tra i principali importatori/creatori in Grecia. Fu anche il primo a credere nella voce di Michalis Violaris, sostenendone la partecipazione al brano \"Άσπρα καράβια\".\n\nFu premiato al Festival del Cinema di Salonicco del 1971 per la colonna sonora del film \"Εκείνο το καλοκαίρι\" (\"Quell'estate\").\n\nTra i brani più celebri: \"Σαν με κοιτάς\", \"Οδός Αριστοτέλους\", \"Σπασμένο καράβι\", \"Μια φορά θυμάμαι μ' αγαπούσες\", \"Μαρκίζα\" (su testo di Manos Eleftheriou, ispirata al leggendario Hotel Palladion/poi Metropolis di Atene), \"Είπα να φύγω\", \"Βροχή και σήμερα\", \"Θα με θυμηθείς\", \"Στην αλάνα\", \"Μια Κυριακή\" (1969, con Grigoris Bithikotsis, Stamatis Kokotas e Vicky Moscholiou).\n\nPubblicò 142 album complessivi tra vinili e CD nel corso della carriera, tra cui: \"Ο Γιάννης Σπανός Παίζει Σπανό\" (1965), \"Αποδημίες\" (1965, Kaiti Chomata), \"Α' Ανθολογία - Νέο Κύμα\" (1967), \"Β' Ανθολογία - Νέο Κύμα\" (1968), \"Σαββατόβραδο\" (1970), \"Οδός Αριστοτέλους\" (1974), \"Η Μοσχολιού τραγουδά Σπανό\" (1977), \"Ο Δημήτρης Μητροπάνος τραγουδάει Γιάννη Σπανό\" (1993).\n\nFu trovato senza vita nella sua casa natale a Kiato il 31 ottobre 2019 (secondo altre fonti, la sera prima). Il medico legale attribuì la morte a un ictus avvenuto durante il sonno la notte precedente. Al momento della scomparsa stava preparando febbrilmente delle esibizioni dal vivo insieme a Giorgos Chatzinasios al Teatro Musicale di Vetro (Γυάλινο Μουσικό Θέατρο) di Atene.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/spanos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786345652845",
+      "name": "Γιώργος Παπαστεφάνου",
+      "nameit": "Ghiòrgos Papastefànu",
+      "born": "13 maggio 1941, Atene",
+      "died": "",
+      "bio": "Giornalista, conduttore radiofonico e televisivo, produttore e paroliere greco.\n\nStudente alla Scuola Varvakeio, studiò poi Giurisprudenza all'Università di Atene. Crebbe in un ambiente familiare borghese e colto: erano suoi zii (primi cugini della madre) il letterato e scrittore Emmanouil Kasdaglis e lo scrittore Nikos Kasdaglis.\n\nVoce tra le più riconoscibili della radio greca, divenne celebre soprattutto con il programma \"Καλησπέρα, κύριε Έντισον\" (\"Buonasera, signor Edison\"). Creò e condusse programmi televisivi storici dedicati alla canzone greca: \"Η μουσική γράφει ιστορία\", \"Μουσική βραδιά\", \"Διαδρομές\", \"Οι φίλοι μου\" e \"Οι παλιοί μας φίλοι\" — quest'ultimo in particolare ospitò per la prima volta insieme in televisione Vasilis Tsitsanis e Sotiria Bellou, proprio la sera in cui iniziava la loro collaborazione al locale \"Χάραμα\".\n\nMeno noto al grande pubblico è il suo ruolo di autore di alcuni dei testi più amati della canzone greca. All'inizio, non sicuro del proprio talento, firmava i testi con lo pseudonimo \"Γιώργος Στεφάνου\" invece del proprio nome completo. Solo più tardi si \"rivelò\" pubblicamente come autore di quei brani, alcuni divenuti colonna sonora di intere generazioni di estati greche.\n\nScrisse testi per grandi compositori della canzone greca, tra cui Stavros Xarchakos.\n\nNel 2024 ha festeggiato i sessant'anni della sua attività come paroliere, ripercorrendo in interviste e concerti dedicati i momenti più memorabili del suo percorso nella radio e nella canzone greca.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/papastefanou.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1786348933606",
+      "name": "Ειρήνη Κονιτοπούλου",
+      "nameit": "Irìni Konitopùlu",
+      "born": "15 dicembre 1931, Keramotì Naxos",
+      "died": "28 marzo 2022, Atene",
+      "bio": "E' stata una delle figure più importanti della canzone popolare greca (dimotikò), in particolare del repertorio nisiotico (delle isole) e cicladico.\n\nFiglia del grande violinista Michalis Konitopoulos e di Maria Firogeni. Di 11 figli della famiglia, ne sopravvissero cinque: Eirini, Giorgos e altri fratelli, tutti provenienti da una stirpe musicale profondamente radicata (anche il padre e il nonno suonavano il violino).\n\nΝel 1951 si trasferì ad Atene, dove divenne particolarmente nota grazie alla collaborazione con l'Ente Radiofonico Nazionale (ΕΙΡ), sotto la direzione di Simon Karas, importante etnomusicologo e ricercatore della tradizione musicale greca.\n\nFu conosciuta con appellativi come \"Αηδόνι του Αιγαίου\" (l'Usignolo dell'Egeo) e \"Κυρά του Αιγαίου\" (la Signora dell'Egeo).\n\nInsieme al fratello Giorgos Konitopoulos e alla figlia Eleni Legaki, tracciò un lungo e importante percorso nel campo della canzone tradizionale, in particolare nisiotica cicladica; la famiglia Konitopoulos resta tra le più importanti dinastie musicali tradizionali greche fino ad oggi, con numerose incisioni insieme al fratello Giorgos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ekonitopoulos.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786349477557",
+      "name": "Γιώργος Κονιτόπουλος",
+      "nameit": "Ghiòrgos Konitòpulos",
+      "born": "4 giugno 1933, Atene",
+      "died": "18 giugno 1991, Atene?",
+      "bio": ", \"το Μωρό\" (1933-1991)\n\nViolinista e compositore greco, originario di Naxos, il cui nome resta indissolubilmente legato, insieme a quello della sorella Eirini Konitopoulou-Legaki, alla canzone nisiotica (delle isole).\n\nEra anche noto con il soprannome \"Μωρό\"  (il Bambino)  soprannome  ereditato da quello di suo padre, il celebre violinista Michalis Konitopoulos,  originario di Kinidaros, Naxos, e di Maria Firogeni, di Keramotí.\n\nNel 1940 la famiglia tornò a vivere a Naxos, dove la guerra e l'occupazione la trovarono stabilita a Kinidaros. Fu proprio lì che, giovanissimo (6-7 anni), ricevette dal padre le prime lezioni di violino.\n\nSecondo un aneddoto tramandato, il padre voleva che proseguisse gli studi invece di dedicarsi al violino; Giorgos, però, cresciuto tra le dolci melodie degli archi del nonno e del padre, comprò di nascosto il suo primo violino (che chiamava scherzosamente \"il platano\") e si esercitava di nascosto. Il suo esordio \"professionale\" avvenne mentre era ancora studente delle medie, tra il timore del padre e altre difficoltà dell'epoca. Fece la sua prima apparizione pubblica alla fine degli anni '40.\n\nNel 1958 raggiunse ad Atene la sorella Eirini, allora già cantante nell'ensemble di Simon Karas. Da lì si formò il nucleo dell'orchestra di famiglia: Giorgos al violino, lo zio Mitsos Firogenis al liuto (laouto), e altri parenti, dando vita a quella che sarebbe diventata una delle più importanti dinastie musicali della tradizione nisiotica greca.\n\nCapofamiglia della grande dinastia musicale dei Konitopoulos, nota non solo in tutta la Grecia ma anche fuori dai suoi confini. È tuttora ricordato attraverso il Centro Musical-Coreologico di Naxos \"Georgios Konitopoulos\", con sede a Kinidaros, dedicato allo studio e alla promozione del suo lavoro e di quello della tradizione musicale-coreutica di Naxos e dell'Egeo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/gkonitopoulos.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786350084227",
+      "name": "Μιχάλης Κονιτόπουλος",
+      "nameit": "Michàlis Konitòpulos",
+      "born": "1908, Kinidaros Naxos",
+      "died": "1972",
+      "bio": "Violinista greco, originario di Kinídaros, Naxos, capostipite della celebre famiglia musicale dei Konitopoulos, la più importante dinastia della musica nisiotica (delle isole) greca. Come il figlio Giorgos avrebbe fatto in seguito, portava lo stesso soprannome \"το Μωρό\" (il Bambino).\nSposò Maria Firogeni, originaria di Keramotí, sempre a Naxos.\n\nI figli, tutti musicisti — capostipite di una numerosa famiglia di talenti musicali, tra cui:\n\nEirini Konitopoulou-Legaki (1931-2022), la celebre cantante, \"l'Usignolo dell'Egeo\"\nGiorgos Konitopoulos (1933-1991), violinista, che ereditò dal padre anche il soprannome \"το Μωρό\"\nVangelis Konitopoulos (nato nel 1953 a Kinídaros), oggi considerato il più importante musicista ancora attivo della tradizione nisiotica, erede della famiglia dopo la morte improvvisa del fratello Giorgos nel 1991 e il ritiro della sorella Eirini\nAngeliki Konitopoulou, altra figlia della famiglia\n\nL'eredità — pur avendo insegnato personalmente il violino al figlio Giorgos fin dall'età di 6-7 anni, non approvava inizialmente che il figlio ne facesse una professione, preferendo che continuasse gli studi — un conflitto generazionale che non impedì comunque a Giorgos di diventare uno dei più grandi violinisti nisiotici, proseguendo l'eredità musicale del padre.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/mkonitopoulos.jpg",
+      "roles": [
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786363907566",
+      "name": "Δημήτρης Ζάχος",
+      "nameit": "Dimìtris Zàchos",
+      "born": "1923-1926, Gialtra, Aidipsos, Eubea",
+      "died": "8 marzo 2019",
+      "bio": "Fu chiamato \"l'usignolo della musica tradizionale\"\n\nUno dei più importanti e pionieristici interpreti della canzone popolare tradizionale greca (dimotikò), tra i primi a portarla nel cinema greco in bianco e nero.\n\nParallelamente alla carriera musicale, fu anche ψάλτης (cantore) per molti anni (1951-1962) presso l'Arcidiocesi di Atene.\n\nDebuttò professionalmente nel canto intorno al 1957, affermandosi rapidamente con grande successo alla \"Ζούγκλα\", storico locale tradizionale ateniese. In seguito si esibì all'\"Έλατο\" e all'\"Ελληνικό Γλέντι\", con l'ultima apparizione al \"Πλάτανος\".\n\nDivenne ampiamente conosciuto, ricevendo numerosi inviti dalla diaspora greca nel mondo: si esibì a Cipro, negli Stati Uniti, in Canada, Australia, Europa Centrale e Inghilterra.\n\nCantò nel celebre film \"Ο Αγαπητικός της Βοσκοπούλας\" (1955), con Aliki Vougiouklaki come protagonista, e apparve anche in \"Γκόλφω\", \"Γερακίνα\", \"Μαρία Πενταγιώτισσα\" e \"Σαρακατσάνισσα\".\n\nPer anni ebbe un programma radiofonico settimanale fisso sulla Radio delle Forze Armate.\n\nCollaborazioni musicali — lavorò con musicisti di primo piano come Vasilis Saleas e Vangelis Soukas.\n\nTra le pubblicazioni più recenti: \"Τα αηδόνια του δημοτικού τραγουδιού\" (1988, dal vivo), \"Παιδιά της Σαμαρίνας\" (1996), \"Τραγούδια από τις 45 στροφές\" (1997). Tra i suoi brani più noti: \"Ιτιά\", \"Μια βοσκοπούλα αγάπησα\", \"Μοδίστρες και κομμώτριες\", \"Τρεις μαυροφόρες πέρασαν\", \"Στα ξένα γιόκα μ' να μην πας\", \"Οι Γιώργηδες\".\n\nNell'estate del 2018 fu colpito da un grave ictus. Poche settimane dopo, il devastante incendio di Mati (23 luglio 2018) distrusse la casa di famiglia ad Attica dove viveva con figli e nipoti, lasciandolo temporaneamente senza casa proprio mentre era già in condizioni di salute precarie. Morì l'anno successivo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/zachos.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786364136789",
+      "name": "Ηλίας Κλωναρίδης",
+      "nameit": "Ilias Klonarìdis",
+      "born": "2 gennaio 1948 a Perivolaki, Lagkadàs Salonicco",
+      "died": "",
+      "bio": "Cantante popolare greco (laikò), con formazione ed estrazione anche dalla musica bizantina.\n\nProveniva da una famiglia contadina di sei figli (cinque fratelli), che viveva solo dei lavori agricoli.\n\nDa ragazzo seguì le orme del fratello maggiore Giannis Klonaridis, cantore (ψάλτης) di musica bizantina. A 18 anni assunse a sua volta un incarico responsabile di ψάλτης.\n\nParallelamente, il suo amore per il canto lo conquistava sempre di più, spingendolo a puntare a una carriera professionale nella musica. Durante il servizio militare ad Atene ebbe l'opportunità di conoscere Christos Nikolopoulos, che lo presentò per un provino a una casa discografica. Terminato il servizio militare, trovò lavoro in un locale di intrattenimento ad Egaleo, dove conobbe l'indimenticabile Prodromos Tsaousakis. Numerosi i tentativi discografici, ma altrettante le delusioni e sfortune, prima del successo.\n\nDivenne ampiamente conosciuto nel 1979, cantando i brani dell'album \"Δρόμοι\". Tra i brani celebri di quel periodo: \"Δυο γυναίκες, δυο αγάπες\".\n\nNell'autunno 1982, quando Markopoulos si cimentò nello scrivere brani laikà \"puri\", nacque l'album \"Βαριά λαϊκά\". Klonaridis vi partecipò con cinque brani: \"Άλλοι μιλούν για μένανε\", \"Τα τραγούδια θέλουν πόνο\", \"Παραγγελιά\", \"45 μάστοροι\" e \"Μπρους Λη\" — conquistando consensi e trovandosi perfettamente nel proprio elemento.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/klonaridis.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
