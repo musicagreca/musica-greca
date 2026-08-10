@@ -572,6 +572,10 @@ function lastName(name){
   var w=(name||'').trim().split(/\s+/);
   return w.length>1?w[w.length-1]:name;
 }
+function isLatinName(name){
+  // true se il nome non contiene alcun carattere greco (quindi va raggruppato sotto "%")
+  return !/[\u0370-\u03FF\u1F00-\u1FFF]/.test(name||'');
+}
 function invertName(name){
   var w=(name||'').trim().split(/\s+/);
   return w.length>1?w[w.length-1]+' '+w.slice(0,-1).join(' '):name;
@@ -923,20 +927,26 @@ function renderElencoPersone(slug,role,selId){
     });
     list=fromPersons.concat(fromSongs);
   }
-  // Ordina per cognome (ultima parola del nome greco)
+  // Ordina per cognome (ultima parola del nome greco); i nomi in caratteri latini vanno sempre in fondo
   list=list.slice().sort(function(a,b){
+    var la=isLatinName(a.name), lb=isLatinName(b.name);
+    if(la!==lb) return la?1:-1;
     return lastName(a.name).localeCompare(lastName(b.name),'el');
   });
 
   var af=alphaF[slug]||null;
 
-  // Barra alfabetica sulle iniziali dei cognomi
+  // Barra alfabetica sulle iniziali dei cognomi; i nomi in caratteri latini vanno sotto "%"
   var letters=[];
   list.forEach(function(p){
-    var l=stripAccents(lastName(p.name||'?')[0]).toUpperCase();
+    var l=isLatinName(p.name)?'%':stripAccents(lastName(p.name||'?')[0]).toUpperCase();
     if(letters.indexOf(l)<0) letters.push(l);
   });
-  letters.sort(function(a,b){return a.localeCompare(b,'el');});
+  letters.sort(function(a,b){
+    if(a==='%') return 1;
+    if(b==='%') return -1;
+    return a.localeCompare(b,'el');
+  });
 
   // Dropdown
   var ddH='<select id="dd-'+slug+'" style="width:100%;padding:7px 10px;border:1px solid var(--b2);border-radius:var(--rad);font-size:13px;font-family:Arial,sans-serif;color:var(--txt);background:var(--sur);margin-bottom:.6rem"><option value="">— Scegli un artista —</option>';
@@ -958,7 +968,7 @@ function renderElencoPersone(slug,role,selId){
   barH+='</div>';
 
   // Lista filtrata
-  var displayed=af?list.filter(function(p){return stripAccents(lastName(p.name||'?')[0]).toUpperCase()===af;}):list;
+  var displayed=af?list.filter(function(p){return (isLatinName(p.name)?'%':stripAccents(lastName(p.name||'?')[0]).toUpperCase())===af;}):list;
   var h='';
   for(var i=0;i<displayed.length;i++){
     var p=displayed[i];
@@ -1163,7 +1173,7 @@ function renderPersona(){
   }
 
   var metaH='';
-  if(p.born) metaH+='<div class="pm-i"><div class="pm-l">Nato/a</div><div class="pm-v">'+esc(p.born)+'</div></div>';
+  metaH+='<div class="pm-i"><div class="pm-l">Nato/a</div><div class="pm-v"'+(p.born?'':' style="color:var(--t3);font-style:italic"')+'>'+(p.born?esc(p.born):'Dati non disponibili')+'</div></div>';
   if(p.died) metaH+='<div class="pm-i"><div class="pm-l">Morto/a</div><div class="pm-v">'+esc(p.died)+'</div></div>';
   if(p.nat)  metaH+='<div class="pm-i"><div class="pm-l">Nazionalità</div><div class="pm-v">'+esc(p.nat)+'</div></div>';
   if(p.link) metaH+='<div class="pm-i"><div class="pm-l">Link</div><div class="pm-v"><a href="'+esc(p.link)+'" target="_blank">Apri pagina</a></div></div>';
@@ -1185,7 +1195,7 @@ function renderPersona(){
     linkedH+='</div>';
   }
 
-  var photoH=p.photo?'<div style="flex-shrink:0"><img src="'+esc(p.photo)+'" alt="" style="width:110px;height:110px;object-fit:cover;object-position:center 20%;border-radius:50%;border:3px solid var(--bor);display:block" onerror="hideImg(this)"></div>':'';
+  var photoH=p.photo?'<div style="flex-shrink:0"><img src="'+esc(p.photo)+'" alt="" style="width:110px;height:110px;object-fit:cover;object-position:center 20%;border-radius:50%;border:3px solid var(--bor);display:block" onerror="hideImg(this)"></div>':'<div style="flex-shrink:0"><div style="width:110px;height:110px;border-radius:50%;border:3px solid var(--bor);display:flex;align-items:center;justify-content:center;text-align:center;font-size:10px;color:var(--t3);font-style:italic;background:var(--sur);padding:6px;box-sizing:border-box">Foto non disponibile</div></div>';
   el('wrap-persona').innerHTML='<div class="p-card"><div class="p-hdr" style="display:flex;align-items:flex-start;gap:1rem">'+photoH+'<div style="flex:1"><div class="p-name">'+esc(p.name)+'</div>'+(p.nameit?'<div class="p-nameit">'+esc(p.nameit)+'</div>':'')+'<div class="p-roles">'+(p.roles||[]).map(function(r){return '<span class="rp '+(RC[r]||'')+'">'+esc(RL[r]||r)+'</span>';}).join('')+'</div></div></div><div class="p-body"><div class="p-mgrid">'+metaH+'</div>'+(p.bio?'<div class="p-bio">'+esc(p.bio)+'</div>':'')+linkedH+'</div></div>';
 }
 
