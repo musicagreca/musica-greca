@@ -576,6 +576,16 @@ function isLatinName(name){
   // true se il nome non contiene alcun carattere greco (quindi va raggruppato sotto "%")
   return !/[\u0370-\u03FF\u1F00-\u1FFF]/.test(name||'');
 }
+function isIgnoreLast(name){
+  var n=(name||'').trim().toLowerCase();
+  return n==='tradizionale'||n==='sconosciuto';
+}
+function personGroupLetter(name){
+  if(isIgnoreLast(name)) return '#';
+  if(isLatinName(name)) return '%';
+  var ln=lastName(name||'?').replace(/^["'«»“”‘’(]+/,'');
+  return stripAccents((ln||'?')[0]).toUpperCase();
+}
 function invertName(name){
   var w=(name||'').trim().split(/\s+/);
   return w.length>1?w[w.length-1]+' '+w.slice(0,-1).join(' '):name;
@@ -927,22 +937,25 @@ function renderElencoPersone(slug,role,selId){
     });
     list=fromPersons.concat(fromSongs);
   }
-  // Ordina per cognome (ultima parola del nome greco); i nomi in caratteri latini vanno sempre in fondo
+  // Ordina per cognome; i nomi in caratteri latini vanno in fondo, "tradizionale"/"sconosciuto" sempre ultimi
+  function sortRank(name){ return isIgnoreLast(name)?2:(isLatinName(name)?1:0); }
   list=list.slice().sort(function(a,b){
-    var la=isLatinName(a.name), lb=isLatinName(b.name);
-    if(la!==lb) return la?1:-1;
+    var ra=sortRank(a.name), rb=sortRank(b.name);
+    if(ra!==rb) return ra-rb;
     return lastName(a.name).localeCompare(lastName(b.name),'el');
   });
 
   var af=alphaF[slug]||null;
 
-  // Barra alfabetica sulle iniziali dei cognomi; i nomi in caratteri latini vanno sotto "%"
+  // Barra alfabetica sulle iniziali dei cognomi; i nomi in caratteri latini vanno sotto "%", tradizionale/sconosciuto sotto "#"
   var letters=[];
   list.forEach(function(p){
-    var l=isLatinName(p.name)?'%':stripAccents(lastName(p.name||'?')[0]).toUpperCase();
+    var l=personGroupLetter(p.name);
     if(letters.indexOf(l)<0) letters.push(l);
   });
   letters.sort(function(a,b){
+    if(a==='#') return 1;
+    if(b==='#') return -1;
     if(a==='%') return 1;
     if(b==='%') return -1;
     return a.localeCompare(b,'el');
@@ -968,7 +981,7 @@ function renderElencoPersone(slug,role,selId){
   barH+='</div>';
 
   // Lista filtrata
-  var displayed=af?list.filter(function(p){return (isLatinName(p.name)?'%':stripAccents(lastName(p.name||'?')[0]).toUpperCase())===af;}):list;
+  var displayed=af?list.filter(function(p){return personGroupLetter(p.name)===af;}):list;
   var h='';
   for(var i=0;i<displayed.length;i++){
     var p=displayed[i];
