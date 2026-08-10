@@ -1,8 +1,67 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-09T15:35:46.777Z",
+  "exportedAt": "2026-08-10T05:50:59.356Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786340754492",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Loreena McKennitt",
+          "year": "1991",
+          "note": "Tango to Evora",
+          "link": "https://www.youtube.com/watch?v=YjuWzu2IaPQ"
+        },
+        {
+          "who": "Χάρις Αλεξίου",
+          "year": "1996",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=lF3zt_Gj3uk"
+        }
+      ],
+      "date": "2026-08-10",
+      "tgr": "Το ταγκό της Νεφέλης",
+      "tit": "To tangò tis Nefèlis",
+      "alias": "",
+      "at": "Χάρις Αλεξίου",
+      "am": "Loreena McKennitt",
+      "yr": "1996",
+      "ar": "Χάρις Αλεξίου",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE m\nΤο χρυσό κουρέλι\n                            LA\nπου στα μαλλιά της φόραγε η Νεφέλη\n                      RE m\nνα ξεχωρίζει απ' όλους μες στ' αμπέλι\n                    LA\nήρθανε δυο μικροί, μικροί αγγέλοι\n         RE m\nκαι το κλέψανε\n\nRE m\nΔυο μικροί αγγέλοι\n                      LA\nπου στα όνειρά τους θέλαν τη Νεφέλη\n              RE m\nνα την ταΐζουνε ρόδι και μέλι\n                     LA\nνα μη θυμάται, να ξεχνάει τι θέλει\n        RE m\nτην πλανέψανε\n\nSOL m\nΥάκινθοι και κρίνα\n                 RE m\nτης κλέψαν το άρωμά και το φοράνε\n                      LA\nκι οι έρωτες πετώντας σαϊτιές\n         RE m\nτην περιγελούν\n   \n  SOL m\nΜα ο καλός ο Δίας\n                        RE m\nτης παίρνει το νερό της εφηβείας\n                LA\nτην κάνει σύννεφο και τη σκορπά\n            RE m\nγια να μη τη βρουν\n\nRE m  LA  RE m   LA  RE m\nΛα, λα, λα...\n\nRE m\nΔυο μικροί αγγέλοι\n                      LA\nπου στα όνειρά τους θέλαν τη Νεφέλη\n              RE m\nνα την ταΐζουνε ρόδι και μέλι\n                     LA\nνα μη θυμάται, να ξεχνάει τι θέλει\n        RE m\nτην πλανέψανε\n\nSOLm RE m  LA   REm\nΛα, λα, λα...\n\nRE m\nΤο χρυσό κουρέλι\n                            LA\nπου στα μαλλιά της φόραγε η Νεφέλη\n                      RE m\nνα ξεχωρίζει απ' όλους μες στ' αμπέλι\n                    LA\nήρθανε δυο μικροί, μικροί αγγέλοι\n         RE m\nκαι το κλέψανε",
+      "tr": "To chrysò kurèli\npu sta mallià tis fòraghe i Nefèli\nna ksechorìzi ap' òlus mes st' ambèli\nìrthane dio mikrì, mikrì anghèli\nke to klèpsane\n\nDio mikrì anghèli\npu sta ònirà tus thèlan ti Nefèli\nna tin taìzune ròdi ke mèli\nna mi thimàte, na ksechnài ti thèli\ntin planèpsane\n\nIàkinthi ke krìna\ntis klèpsan to àromà ke to foràne\nki i èrotes petòndas saitiès\ntin perighelùn\n\nMa o kalòs o Dìas\ntis pèrni to neró tis efivìas\ntin kàni sìnnefo ke ti skorpà\nghia na mi ti vrun\n\nLa, la, la...\n\nDio mikrì anghèli...\n\nLa, la, la...\n\nTo chrysò kurèli...",
+      "ti": "Il tango\nIl cencio dorato¹\nche portava tra i capelli Nefele²\nper distinguersi da tutti nella vigna,\nvennero due piccoli, piccoli angeli\ne glielo rubarono\n\nDue piccoli angeli\nche nei loro sogni desideravano Nefele,\nper nutrirla di melograno e miele³,\nperché non ricordi, perché dimentichi ciò che vuole,\nla sedussero/ingannarono⁴\n\nGiacinti e gigli\nle hanno rubato il profumo e lo indossano\ne gli amori⁶, lanciando frecce⁷,\nla deridono\n\nMa il buon Zeus\nle prende l'acqua della giovinezza\nla trasforma in nuvola e la disperde\nperché non la trovino\n\nLa, la, la...\n\nDue piccoli angeli...\n\nLa, la, la...\n\nIl cencio dorato...\n\nNote\n\nΧρυσό κουρέλι (\"cencio dorato\") – immagine poetica-ossimorica: un semplice \"cencio/straccio\" che diventa prezioso perché dorato, forse un nastro o fiocco povero ma splendente tra i capelli.\nΝεφέλη (Nefele) – nome proprio femminile che significa letteralmente \"nuvola\" in greco antico; nella mitologia è anche il nome della nuvola creata da Zeus a somiglianza di Era per ingannare Issione. Il nome anticipa il finale della canzone, dove Zeus la trasforma in nuvola.\nΡόδι και μέλι (\"melograno e miele\") – simboli tradizionali di fertilità, dolcezza e seduzione nella cultura greca.\nΤην πλανέψανε – da \"πλανεύω\", verbo che significa sia \"sedurre\" sia \"ingannare/illudere\"; qui ambiguità voluta tra seduzione amorosa e inganno.\nΥάκινθοι και κρίνα (\"giacinti e gigli\") – fiori dal forte legame mitologico-poetico (Giacinto è anche figura mitologica amata da Apollo); qui rubano il profumo di Nefele, sottolineando la sua perdita di identità/essenza.\nΟι έρωτες (\"gli amori/Eros\") – plurale poetico che richiama gli \"Erotes\" della mitologia greca, piccole divinità alate dell'amore che accompagnano Afrodite, spesso raffigurati mentre scoccano frecce.\nΣαϊτιές – \"frecce\" in senso poetico/arcaico, coerente con l'immagine degli Erotes-Cupidi.\nΔίας (Zeus) – il padre degli dèi; qui richiama il mito di Issione, a cui Zeus mandò una nuvola (Nefele) a somiglianza di Era.\nΤο νερό της εφηβείας (\"l'acqua della giovinezza/adolescenza\") – immagine poetica che indica la freschezza, la purezza o vitalità giovanile di Nefele, che Zeus le sottrae per trasformarla e proteggerla disperdendola come nuvola.",
+      "no": "Le origini (1989-1991): Loreena McKennitt compose inizialmente il brano per la colonna sonora di The Burning Times, un documentario del National Film Board of Canada sulle persecuzioni delle streghe in Europa.Il nome: Il titolo definitivo nacque nel 1991 durante un viaggio a Évora, una storica città del Portogallo. Mentre ascoltava le bozze della traccia con la sua fotografa, Loreena sentì che l'atmosfera di quel luogo si sposava perfettamente con la melodia. Il brano fu poi incluso nel suo celebre album The Visit (1991).L'incontro con la Grecia (1996): Qualche anno dopo, la straordinaria cantante greca Haris Alexiou ascoltò la melodia strumentale. Affascinata, chiese a Loreena McKennitt il permesso di scrivere un testo in greco per trasformarla in una canzone. Nacque così \"To Tango Tis Nefelis\" (Il tango di Nefeli), pubblicata nell'album Giroi Kai Filoi.\n\nLoreena McKennitt ha sempre espresso profonda ammirazione e rispetto per Haris Alexiou. In diverse interviste e durante i suoi concerti in Grecia, Loreena ha dichiarato di aver considerato un grandissimo onore il fatto che un'icona della musica greca come la Alexiou avesse scelto la sua melodia per scriverci un testo.La McKennitt ha spesso elogiato la capacità della Alexiou di catturare l'essenza emotiva del brano e di avergli dato una \"seconda vita\" straordinaria, tanto che nei suoi tour europei Loreena introduce spesso il pezzo menzionando proprio il successo e la bellezza della versione greca.\nNefele (dal greco Nephele, che significa \"nuvola\") è un nome che appartiene principalmente alla mitologia greca.Nella tradizione classica, il nome è associato a due figure di ninfe:La moglie di Atamante: Regina e ninfa delle nubi, madre di Frisso ed Elle. Salvò i suoi figli dalla persecuzione della matrigna Ino inviando loro l'ariete dal vello d'oro (Crisomallo).La madre dei Centauri: La nuvola creata da Zeus con le sembianze della dea Era per ingannare Issione. Da questa unione nacque la stirpe dei Centauri."
+    },
+    {
+      "id": "s_1786336657123",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-10",
+      "tgr": "Παλαμάκια-παλαμάκια",
+      "tit": "Palamàkia- palamàkia",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1951",
+      "ar": "Μαρίκα Νίνου",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "Ousák",
+      "bal": "kalamatianòs",
+      "ll": "https://www.youtube.com/watch?v=R6mkqbs6L8Y",
+      "li": "",
+      "ch": "RE m           DO m                   SOL m\nΣύρμα πάνω, σύρμα κάτω παίζω εγώ το μπαγλαμά\nRE m           DO m                SOL m\nκαι η βλάμισσα χορεύει όμορφο καρσιλαμά\nRE m           DO m                SOL m\nκαι η βλάμισσα χορεύει όμορφο καρσιλαμά\n\nSOL m            FA            RE#        RE m\nΠαλαμάκια-παλαμάκια να χτυπούν τα τακουνάκια\nSOL m            FA            RE#        RE m\nνα χτυπούν τα τακουνάκια, στο τσιμέντο, στα πλακάκια\n\nRE m           DO m                   SOL m\nΜε τρελαίνεις, με πεθαίνεις με τον όμορφο χορό\nRE m DO m SOL m\nσπάστα όλα, σπάστα όλα και θα τα πληρώσω εγώ\n\nSOL m            FA            RE#        RE m\nΠαλαμάκια-παλαμάκια να χτυπούν τα τακουνάκια\nSOL m            FA            RE#        RE m\nνα χτυπούν τα τακουνάκια, στο τσιμέντο, στα πλακάκια\n\n\nRE m           DO m                   SOL m\nΝα σε χαίρεται που σ' έχει κείνο τ' όμορφο παιδί\nRE m           DO m                   SOL m\nκαι ο μπαγλαμάς που παίζω, δυο στη μέση ας κοπεί\n\nSOL m            FA            RE#        RE m\nΠαλαμάκια-παλαμάκια να χτυπούν τα τακουνάκια\nSOL m            FA            RE#        RE m\nνα χτυπούν τα τακουνάκια, στο τσιμέντο, στα πλακάκια",
+      "tr": "Palamàkia-palamàkia\n\nSirma pàno, sirma kato pezo eghò to baglamà\nke i vlàmissa chorevi òmorfo karsilamà\nke i vlàmissa chorevi òmorfo karsilamà\n\nPalamàkia-palamàkia na chtipùn ta takunàkia\nna chtipùn ta takunàkia, sto tsimento, sta plakàkia\n\nMe trelènis, me pethènis me ton òmorfo choró\nspàsta òla, spàsta òla ke tha ta pliròso eghò\n\nPalamàkia-palamàkia...\n\nNa se chièrete pu s'echi kìno t'òmorfo pedì\nke o baglamàs pu pezo, dio sti mesi as kopì\n\nPalamàkia-palamàkia...",
+      "ti": "Battimani-battiman\n\nFilo sopra, filo sotto suono io il baglamàs\ne la \"vlamissa\" balla un bel karsilamàs\ne la \"vlamissa\" balla un bel karsilamàs\n\nBattimani-battimani che battono i tacchetti\nche battono i tacchetti, sul cemento, sulle piastrelle\n\nMi fai impazzire, mi fai morire con questo bel ballo\nrompi tutto, rompi tutto e pagherò io\n\nBattimani-battimani...\n\nChe tu sia felice con quel bel ragazzo che hai\ne il mio baglamàs, che si spezzi in due\n\nBattimani-battimani...\n\nNote alla traduzione\n\nΣύρμα πάνω, σύρμα κάτω (\"filo sopra, filo sotto\") – descrive il movimento del plettro/dito sulle corde nel modo di suonare il baglamàs, su e giù.\nΜπαγλαμάς (baglamàs) – piccolo strumento a corde della famiglia del bouzouki, tipico del rebetiko.\nΒλάμισσα (vlàmissa) – femminile di \"βλάμης\" (vlamis), termine gergale rebetiko/della malavita per \"amico/compagno fidato\"; qui indica una donna del giro, una ragazza \"vera\", scaltra e ammirata nell'ambiente.\nΚαρσιλαμάς (karsilamàs) – danza popolare greca (di origine turca, \"karşılama\" = \"faccia a faccia\"), ballata in coppia, tipica anche del rebetiko.\nΠαλαμάκια – diminutivo di \"παλάμη\" (palmo), letteralmente \"battere le mani a ritmo\", un incoraggiamento tipico durante il ballo.\nΣπάστα όλα (\"rompi tutto\") – espressione idiomatica da taverna greca: invito a rompere piatti/bicchieri per esaltazione durante il ballo, offerta di pagare i danni per far festa.\nΝα σε χαίρεται – espressione augurale idiomatica, letteralmente \"che (lui) goda di te\", cioè \"che tu sia felice/fortunata nell'averlo accanto\".\nΔυο στη μέση ας κοπεί (\"che si spezzi in due\") – iperbole tipica rebetiko: il musicista è così coinvolto/rassegnato dal dolore d'amore che augura persino allo strumento (simbolo di sé) di spezzarsi in due dall'intensità del sentimento.",
+      "no": ""
+    },
     {
       "id": "s_1786289276468",
       "offsets": {},
@@ -4401,6 +4460,37 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/togelekaki3pg.png",
       "roles": [
         "at"
+      ]
+    },
+    {
+      "id": "p_1786338505090",
+      "name": "Γιώργος Μητσάκης",
+      "nameit": "Ghiòrgos Mitsàkis",
+      "born": "1921 o 1924, Costantinopoli",
+      "died": "17 novembre 1993, Atene",
+      "bio": "Compositore, paroliere, polistrumentista e cantante greco, tra i massimi rappresentanti dell'evoluzione del rebetiko in vero e proprio \"laikò\" (canzone popolare greca), al fianco di giganti come Tsitsanis, Chiotis, Papaioannou e Kaldaras. Universalmente conosciuto con il soprannome \"ο δάσκαλος\" (il maestro).\n\nFiglio di un pescatore, nacque a Beykoz, Costantinopoli. Con la Catastrofe dell'Asia Minore e lo sradicamento delle comunità greche, la famiglia fuggì e si stabilì prima a Kavala, poi a Salonicco, infine a Volos, dove uno zio materno poliziotto aiutò il padre a trovare lavoro come pescatore.\n\nDa ragazzo, ascoltando per caso il suono di un bouzouki suonato da un anziano in una taverna, ne rimase folgorato. Iniziò a frequentare ogni giorno la \"Skàla\" di Stefanos Milanos in via Ermou, dove chiese di imparare lo strumento. Convinse il proprietario a prestargli 150 dracme (una cifra enorme per l'epoca) per comprare il suo primo bouzouki — debito che non restituì mai, tanto che Milanos lo fece scrivere col gesso sulla \"lavagna nera\" del locale per anni, finché Mitsakis non riconobbe pubblicamente, solo nel 1961, quel debito di gratitudine.\n\nSalonicco e l'incontro con Vamvakaris e Tsitsanis — a 15 anni frequentava l'ouzerì di Kafantaris a Salonicco, dove suonava Markos Vamvakaris insieme a Elli Karivali, Batis e Stelios Kiromitis; dovette vendere l'anello del padre per comprarsi un nuovo bouzouki dopo aver venduto il primo per fame. Fu proprio a Salonicco che conobbe Vasilis Tsitsanis, allora militare di leva, che lo portò a suonare nella sua prima vera taverna, da Kollias, in via Agiou Dimitriou.\n\nDopo un anno a Salonicco si trasferì al Pireo, lavorando a Drapetsona accanto ad Apostolos Chatzichristos. Ricordava con orgoglio, ma anche con la fierezza di chi ha conosciuto la povertà vera, l'inverno del 1938, quando suonava con scarpe di tela bianche che tingeva di marrone per non farsi prendere in giro.\n\nSecondo le sue stesse dichiarazioni, compose oltre 1.500 canzoni, di cui circa il 95% con testo scritto interamente da lui — un'unicità tra i grandi compositori del genere, che raramente scrivevano anche i propri versi. Spesso le eseguiva lui stesso come solista, curava le orchestrazioni, e in centinaia di casi accompagnava direttamente i cantanti sul palco.\n\nTra i brani più celebri: \"Κομπολογάκι\", \"Ο ναύτης\", \"Βαλεντίνα\", \"Ψιλή βροχούλα έπιασε\", \"Το φανταράκι\", \"Ο μπεκρής\", \"Όταν καπνίζει ο λουλάς\", \"Ο ψαράς\", \"Δεν είμαι εγώ ο Γιώργος\", \"Όπου Γιώργος και μάλαμα\", \"Το δαχτυλίδι\", \"Νίτσα, Ελενίτσα\", \"Η πρώτη αγάπη σου\", \"Γεντί Κουλέ\", \"Της Λαρίσης το ποτάμι\", \"Συννεφιές\". Molti brani nascevano da episodi autobiografici precisi: \"Κομπολογάκι\" dopo aver perso il proprio komboloi vicino a Omonia; \"Βαλεντίνα\" dedicata alla sua amata zia paterna; \"Δεν είμαι εγώ ο Γιώργος σου\" dopo una separazione dolorosa al Pedion tou Areos nel 1953.\n\nNel dopoguerra, appena concluso il tragico periodo della Guerra Civile, scrisse una serie di brani più cupi, carichi di dolore e morte, trovando l'interprete ideale nel giovane emergente Stelios Kazantzidis: \"Οι καλοί πεθαίνουν νέοι\", \"Ο θάνατος της μάνας\", \"Είναι όλα μαύρα\", tra gli altri.\n\nTra i cantanti che portarono al successo le sue canzoni: Stratos Pagioumtzis, Ioanna Georgakopoulou, Sotiria Bellou, Stella Chaskil, Marika Ninou, Prodromos Tsaousakis, Stelios Kazantzidis, Grigoris Bithikotsis, Giorgos Ntalaras, Giota Lydia, Marinella e decine di altri.\n\nFu anche protagonista sul palco della vita notturna ateniese per mezzo secolo, come capo-orchestra nei locali più in vista: \"Ροσινιόλ\", \"Τζίμης ο Χονδρός\", \"Τριάνα του Χειλά\", \"Κομπαρσίτα\", \"Όαση\", \"Πίγκαλς\", \"Διανίτα\".\n\nTrascorse la fine della vita a Porto Rafti, insieme alla seconda moglie Athina.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/mitsakis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786341052341",
+      "name": "Loreena McKennitt",
+      "nameit": "",
+      "born": "17 febbraio 1957, Morden, Manitoba (Canada)",
+      "died": "",
+      "bio": "Cantautrice e polistrumentista canadese, di origini scozzesi e irlandesi, riconosciuta come una delle icone della musica celtica contemporanea.\n\nFin da piccola mostrò talento per musica e arte; studiò canto per cinque anni e pianoforte per dieci. Da giovane voleva diventare veterinaria, ma scelse infine la musica.\n\nNel 1981 si trasferì a Stratford, Ontario, per unirsi alla compagnia teatrale dello Stratford Shakespearean Festival, dove ebbe modo di ispirarsi al poeta William Butler Yeats e alla musica di gruppi come The Bothy Band e Alan Stivell. Per raccogliere fondi e realizzare il suo primo disco, si esibiva per strada, anche nello storico St. Lawrence Market di Toronto.\n\nNel 1985 fondò Quinlan Road, la propria casa discografica indipendente con sede a Stratford, di cui è rimasta l'unica artista.\n\nDa sempre convinta che la musica sia un mezzo di comunicazione tra culture diverse, tra il 1991 e il 2005 viaggiò estensivamente (Venezia, Ungheria, Ucraina, Spagna, Medio Oriente, Asia), portando queste influenze in dischi come The Visit (1994), The Mask and Mirror (1994, con importanti richiami alla cultura spagnola, tra cui un adattamento della \"Notte Oscura dell'Anima\" di San Giovanni della Croce), The Book of Secrets (1997) e An Ancient Muse (2006), quest'ultimo influenzato in particolare dai suoi viaggi in Medio Oriente e nel Caucaso.\n\nNel 1999 partecipò all'album Tears of Stone dei The Chieftains, con il brano \"Ye Rambling Boys of Pleasure\".\n\nHa venduto oltre 14-15 milioni di copie nel mondo, ottenendo dischi d'oro, platino e multiplatino in quindici paesi di quattro continenti. Ha vinto il premio Juno (l'equivalente canadese dei Grammy) come Miglior Album Roots/Tradizionale nel 1992 (per The Visit) e nel 1994 (per The Mask and Mirror), oltre a due nomination ai Grammy Awards.\n\nNel 1998 il suo fidanzato Ronald Rees morì in un incidente nautico nella Georgian Bay, insieme al fratello di lei Richard e all'amico Gregory Cook. In seguito a questa tragedia, istituì il Cook-Rees Memorial Fund for Water Search and Safety, dedicato alla sicurezza in acqua.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/loreena.jpg",
+      "roles": [
+        "am"
       ]
     }
   ]
