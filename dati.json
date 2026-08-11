@@ -1,8 +1,86 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-11T10:21:21.892Z",
+  "exportedAt": "2026-08-11T16:43:32.345Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786466431122",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης,  Μαρινέλλα",
+          "year": "1960",
+          "note": "Μανώλης Χιώτης al bouzouki",
+          "link": "https://www.youtube.com/watch?v=YyVOmHwtzU0"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=g36aAJAN5yg"
+        },
+        {
+          "who": "Arja Saijonmaa",
+          "year": "1998",
+          "note": "En Sång Om Frihet (svedese)",
+          "link": "https://www.youtube.com/watch?v=Fss859h9ZF8"
+        },
+        {
+          "who": "Iva Zanicchi",
+          "year": "1970",
+          "note": "Fiume amaro (italiano)",
+          "link": "https://www.youtube.com/watch?v=Ntfq3YWv1xo"
+        },
+        {
+          "who": "Iva Zanicchi",
+          "year": "1974",
+          "note": "Un río amargo (spagnolo)",
+          "link": "https://www.youtube.com/watch?v=kVeUQyUZPnE"
+        },
+        {
+          "who": "Vicky Leandros",
+          "year": "1972",
+          "note": "The Love in Your Eyes (inglese)",
+          "link": "https://www.youtube.com/watch?v=joQ5ofW2cSY"
+        },
+        {
+          "who": "Vicky Leandros",
+          "year": "1973",
+          "note": "L'amour brillait dans tes yeux (francese)",
+          "link": "https://www.youtube.com/watch?v=LGDR3u7lM0M"
+        },
+        {
+          "who": "Vicky Leandros",
+          "year": "1972",
+          "note": "Ich hab' die Liebe geseh'n (tedesco)",
+          "link": "https://www.youtube.com/watch?v=VdXeuKV1jB4"
+        },
+        {
+          "who": "Βίκυ Λέανδρος",
+          "year": "1973",
+          "note": "ο Καημός (greco)",
+          "link": "https://www.youtube.com/watch?v=xyCh4qeTxSQ"
+        }
+      ],
+      "date": "2026-08-11",
+      "tgr": "Ο καημός",
+      "tit": "O kaimòs",
+      "alias": "",
+      "at": "Δημήτρης Χριστοδούλου",
+      "am": "Μίκης Θεοδωράκης",
+      "yr": "1960",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "",
+      "li": "",
+      "ch": "SOL LAm        RE SOL          LAm   RE SOL\nΕίναι μεγά--λος ο γιαλός, είναι μακρύ το κύμα\nSOL    LAm      RE SOL         LAm     RE   SOL\nΕίναι μεγά--λος ο καημός, κι είναι πικρό το κρίμα\n\nSOL              LAmRE                 SOL\nΠοτάμι μέσα μου πικρό το αίμα της πληγής σου\nSOL            DO    RE SOL      LAm    RE SOL\nΚι από το αίμα πιο πικρό στο στόμα το φιλί σου\nSOL            DO    RE SOL      LAm    RE SOL\nΚι από το αίμα πιο πικρό στο στόμα το φιλί σου\n\nSOL LAm        RE SOL          LAm   RE SOL\nΔεν ξέρεις τι είναι παγωνιά, βραδιά χωρίς φεγγάρι\nSOL    LAm      RE SOL         LAm     RE   SOL\nΝα μη γνωρίζεις ποια στιγμή ο πόνος θα σε πάρει\n\nSOL              LAmRE                 SOL\nΠοτάμι μέσα μου πικρό το αίμα της πληγής σου\nSOL            DO    RE SOL      LAm    RE SOL\nΚι από το αίμα πιο πικρό στο στόμα το φιλί σου\nSOL            DO    RE SOL      LAm    RE SOL\nΚι από το αίμα πιο πικρό στο στόμα το φιλί σου",
+      "tr": "O kaimòs\n\nÌne meghà-los o ghialòs, ìne makrì to kìma\nÌne meghà-los o kaimòs, ki ìne pikrò to krìma\n\nPotàmi mèsa mu pikrò to èma tis plighìs su\nKi apò to èma pio pikrò sto stòma to filì su\nKi apò to èma pio pikrò sto stòma to filì su\n\nDen kséris ti ìne paghonià, vradià chorìs fengàri\nNa mi ghnorìzis pia stighmì o pònos tha se pàri\n\nPotàmi mèsa mu pikrò to èma tis plighìs su\nKi apò to èma pio pikrò sto stòma to filì su\nKi apò to èma pio pikrò sto stòma to filì su",
+      "ti": "È grande il mare¹, è lunga l'onda,\nè grande la pena², ed è amaro il peccato³\n\nFiume dentro di me, amaro è il sangue della tua ferita,\ne più amaro del sangue è il bacio sulla tua bocca\n\nNon sai cos'è il gelo, una sera senza luna,\nnon sapere in quale istante il dolore ti prenderà\n\nFiume dentro di me, amaro è il sangue della tua ferita,\ne più amaro del sangue è il bacio sulla tua bocca\n\nNote\n\nΓιαλός – termine popolare/dialettale per \"riva del mare, spiaggia\"; usato spesso in senso poetico per indicare l'immensità del mare stesso.\nΚαημός – termine chiave della sensibilità popolare greca (soprattutto rebetiko e laika), indica una pena profonda, un dolore struggente d'amore o di vita, spesso intraducibile con una sola parola italiana.\nΚρίμα – oltre al significato religioso di \"peccato\", nel linguaggio popolare greco indica anche \"peccato/spreco\" in senso di rammarico per qualcosa di ingiusto o doloroso che accade; qui il doppio senso rafforza il tono di lamento per un destino amaro.",
+      "no": ""
+    },
     {
       "id": "s_1786441498372",
       "offsets": {},
@@ -29,7 +107,7 @@
       "yr": "tradizionale",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "dimotikò",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -5470,6 +5548,20 @@
       "link": "",
       "listen": "",
       "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786466099158",
+      "name": "Βίκυ Λέανδρος",
+      "nameit": "Vicky Léandros",
+      "born": "23 agosto 1949,  Palaiokastritsa, Corfù",
+      "died": "",
+      "bio": "Νome vero Vasiliki Papathanasiou \n\nCantante greco-tedesca con lunghissima carriera internazionale, figlia del cantante, musicista e compositore Leo Leandros (Leandros Papathanasiou, anche noto come Mario Panas), che la avviò al mondo della musica.\n\nΝel 1958-59 si trasferì ad Amburgo con i genitori; dopo la loro separazione, nel 1961 scelse di restare lì con il padre compositore. Ad Amburgo frequentò la scuola e prese lezioni di chitarra, canto e balletto fin da piccola. A 13 anni apparve per la prima volta in televisione, sull'emittente NDR.\n\n Nel 1967 ottenne fama mondiale rappresentando il Lussemburgo all'Eurovision Song Contest con \"L'amour est bleu\", arrivata quarta ma diventata un successo planetario.\n\nVinse il concorso all'Eurovision (1972), sempre per il Lussemburgo, con \"Après toi\" (musica del padre Leo Leandros con lo pseudonimo Mario Panas e il compositore tedesco Klaus Munro, testo francese di Yves Dessca) — record di vendite mondiali, oltre 6 milioni di copie; il brano fu inciso in numerose lingue: inglese (\"Come What May\"), italiano (\"Dopo te\"), tedesco (\"Dann kamst du\"), spagnolo (\"Y después\"), greco (\"Μόνο εσύ\"), giapponese.\n\nSempre nel 1972 incise il celebre brano di Theodorakis in inglese (\"The Love in Your Eyes\"), francese (\"L'amour brillait dans tes yeux\") e tedesco (\"Ich hab' die Liebe geseh'n\"), oltre alla versione greca originale — un successo internazionale multilingue, con oltre 1,5 milioni di copie vendute della sola versione tedesca.\n\nNegli anni seguenti pubblicò decine di dischi in inglese, francese, tedesco, olandese, giapponese, italiano, spagnolo e greco, coltivando fin da subito le proprie radici internazionali.\n\nIl 15 ottobre 2006 fu eletta consigliera comunale del Pireo nelle liste del PASOK, occupandosi di sviluppo culturale e internazionale della città; ricoprì anche il ruolo di vicesindaco, lasciando la politica greca nel giugno 2008.\n\nNel 1980 (secondo altre fonti 1982) sposò l'imprenditore greco Ivan Zisiadis, da cui ebbe il figlio Leo (Leandrakis), chiamato come il nonno; la coppia divorziò tre anni dopo, con una separazione descritta come drammatica. Dal secondo matrimonio, con Enno Freiherr von Ruffin, ebbe due figlie, Milana e Sandra.\n\nΝel settembre 2024 il padre Leo Leandros, che ormai aveva 101 anni,  le ha inviato una diffida legale per impedirle di cantare le sue canzoni all'Odeon di Erode Attico ad Atene, nonostante decenni di stretta collaborazione artistica come mentore e compositore di molte delle sue canzoni. \n\nA luglio 2026 si è esibita all'apertura della prima semifinale dell'Eurovision Song Contest, con una toccante interpretazione di \"L'amour est bleu\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/leandros.jpg",
       "roles": [
         "ar"
       ]
