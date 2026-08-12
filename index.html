@@ -1402,7 +1402,7 @@ function renderElencoBalli(ballo){
 var curArgId=null;
 function renderArgomento(){
   var e=el('wrap-argomento');
-  if(!args.length){e.innerHTML='<p style="color:var(--t3);padding:2rem;text-align:center">Nessun argomento ancora pubblicato.</p>';return;}
+  if(!args.length){e.innerHTML='<p style="color:var(--t3);padding:2rem;text-align:center">Nessun approfondimento ancora pubblicato.</p>';return;}
   // Ordina per data (più recente prima)
   var sortedArgs=args.slice().sort(function(a,b){
     var da=a.date||''; var db=b.date||'';
