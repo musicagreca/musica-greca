@@ -830,7 +830,7 @@ function renderElencoCanzoni(){
     var matchD=!srchDromos||(s.dr||'')===srchDromos;
     var matchA=!srchAlpha||(
       stripAccents((s.tgr||'')[0]).toUpperCase()===srchAlpha||
-      (s.tit||'')[0].toUpperCase()===srchAlpha
+      ((s.tit||'')[0]||'').toUpperCase()===srchAlpha
     );
     return matchQ&&matchG&&matchD&&matchA;
   });
