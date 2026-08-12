@@ -1,8 +1,86 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-11T16:43:32.345Z",
+  "exportedAt": "2026-08-12T10:07:32.817Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786527042959",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=9A9UU-HgAHo"
+        },
+        {
+          "who": "Ζαχαρίας Κασιμάτης",
+          "year": "1933",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=TZJ1R9Jalgc"
+        }
+      ],
+      "date": "2026-08-12",
+      "tgr": "Ένας μάγκας στο Βοτανικό",
+      "tit": "Ènas mànghas sto Votanikò",
+      "alias": "Ο μάγκας του Βοτανικού",
+      "at": "Σπύρος Περιστέρης",
+      "am": "Σπύρος Περιστέρης",
+      "yr": "1933",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm          DO        REm            DO          REm\nΈνας μάγκας στο Βοτανικό πι και φι ξηγιέται στο λεπτό\n      FA      REm    DO    REm  FA   REm     DO    REm\nστα μπουζούκια και στα καμπαρέ και μες στο ρεμπέτικο καρέ\n\nFA                                   DO              FA\nΜισές τραβάει, ποτήρια σπάει, σκίζεται για μια μελαχρινή\nFA                          FA# DO REm\nΜα στη σούρα του ζητάει και καμιά ξανθή\n\nREm          DO        REm            DO          REm\nΕίναι ζόρικος και μπελαλής, στο Βοτανικό ο πιο νταής\n      FA      REm    DO    REm  FA   REm     DO      REm\nΚι όπως τονε τρέμουν οι μάγκες, κάνει στα σπαθάτα τις δουλειές\n\nFA                                   DO              FA\nΜισές τραβάει, ποτήρια σπάει, σκίζεται για μια μελαχρινή\nFA                          FA# DO REm\nΜα στη σούρα του ζητάει και καμιά ξανθή\n\nFA                                   DO              FA\nΜισές τραβάει, ποτήρια σπάει, σκίζεται για μια μελαχρινή\nFA                          FA# DO REm\nΜα στη σούρα του ζητάει και καμιά ξανθή",
+      "tr": "Ènas mànghas sto Votanikò\n\nÈnas mànghas sto Votanikò pi ke fi ksighiète sto leptò\nsta buzùkia ke sta kabarè ke mes sto rebètiko karè\n\nMisès travài, potìria spài, skìzete ghia mia melachrinì\nMa sti sùra tu zitài ke kamià ksanthì\n\nÌne zòrikos ke belalìs, sto Votanikò o pio ndaìs\nKi òpos tone trèmun i mànges, kàni sta spathàta tis dulies\n\nMisès travài, potìria spài...\nMa sti sùra tu zitài ke kamià ksanthì\n\nMisès travài, potìria spài...\nMa sti sùra tu zitài ke kamià ksanthì",
+      "ti": "Un màngas nel quartiere Votanikò,\n\nUn màngas¹ nel quartiere Votanikò², capisce ogni cosa al volo³,\ntra i bouzouki e i cabaret e dentro il giro rebetiko⁴\n\nBeve mezzi bicchieri⁵, rompe bicchieri, si strugge per una bruna⁶,\nma quando è brillo⁷ chiede anche qualche bionda\n\nÈ tosto e pieno di guai⁸, al Votanikò è il più duro⁹,\ne come lo temono i malviventi¹⁰, fa le cose alla grande¹¹\n\nBeve mezzi bicchieri, rompe bicchieri...\nma quando è brillo chiede anche qualche bionda\n\nBeve mezzi bicchieri, rompe bicchieri...\nma quando è brillo chiede anche qualche bionda\n\nNote\n\nΜάγκας – figura tipica della cultura urbana greca (soprattutto del Pireo), l'uomo \"furbo\", disinvolto, dallo stile di vita libero e spesso ai margini della legalità, personaggio centrale dell'immaginario rebetiko.\nΒοτανικός – storico quartiere popolare di Atene, un tempo zona di orti/giardini botanici (da cui il nome), noto ambiente del rebetiko e della vita di strada.\nΠι και φι ξηγιέται στο λεπτό – espressione idiomatica gergale, letteralmente \"si spiega in un attimo con la pi e la fi\" (lettere greche), significa \"capisce/intuisce tutto al volo, è scaltro e sveglio\".\nΡεμπέτικο καρέ – \"il giro/ambiente rebetiko\", riferimento alla cerchia sociale e culturale legata alla musica rebetika.\nΜισές τραβάει – espressione colloquiale, letteralmente \"tira mezze (dosi/bicchieri)\", indica il bere a piccole dosi ripetute, tipico atteggiamento da intenditore nelle taverne.\nΣκίζεται – da \"σκίζομαι\" (letteralmente \"si squarcia/si lacera\"), espressione gergale intensiva per \"si strugge, impazzisce\" per qualcuno, qui riferito all'infatuazione per una donna bruna.\nΣούρα – termine gergale per \"ubriachezza, stato di ebbrezza\"; \"στη σούρα του\" significa \"quando è ubriaco/brillo\".\nΖόρικος και μπελαλής – \"difficile/tosto e attaccabrighe\", espressioni colloquiali per descrivere una persona dal carattere duro e propenso a creare problemi.\nΝταής – dal turco \"dayı\", termine gergale per \"prepotente, duro, bullo\", spesso con connotazione di rispetto/timore nell'ambiente malavitoso.\nΜάγκες – qui plurale di \"μάγκας\", usato nel senso di \"duri, malviventi\" del quartiere che lo temono.\nΣτα σπαθάτα – espressione idiomatica colloquiale, \"alla grande, con grinta/sfarzo\", indica un modo di fare disinvolto e sicuro di sé, senza risparmiarsi.",
+      "no": "[[2026-08-08|Leggi l'approfondimento sul Votanikós]]"
+    },
+    {
+      "id": "s_1786512449898",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Καίτη Γκρέυ",
+          "year": "1958",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ISJOiPCYqFE"
+        },
+        {
+          "who": "Σπύρος Ζαγοραίος, Γιούλα Ανδρεάδου",
+          "year": "1958",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=RvYjkZy0TVo"
+        },
+        {
+          "who": "Κακούργος, Λίλυ Ριτσώνη, Δημήτρης Λίβανος",
+          "year": "2004",
+          "note": "Κακουργοδικείο",
+          "link": "https://www.youtube.com/watch?v=5vHk9JPxuy0"
+        }
+      ],
+      "date": "2026-08-12",
+      "tgr": "Άναψε το τσιγάρο",
+      "tit": "Anapse to tsigàro",
+      "alias": "",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Γεράσιμος Κλουβάτος",
+      "yr": "1957",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "ουσάκ",
+      "bal": "Tsifteteli",
+      "ll": "",
+      "li": "",
+      "ch": "MIm REm\nREm DO SOL LAm REm MIm\n\nRE                               MIm  \nΣε πόνεσ' η καρδιά μου και σε γουστάρει\nRE                          MIm  \nΘέλω τα δυο σου χέρια για μαξιλάρι\nSOL\nΆσε να γείρω απόψε στην αγκαλιά σου\nSOL\nΠες μου το ναι, καλέ μου, κι όλα δικά σου\nLAm SOL FA# FA MIm\nΆ, α, α, α, αμάν\n\nSOL\nΆναψε το τσιγάρο, δώσ' μου φωτιά\nSOL\nΈχω μεγάλο ντέρτι μες στην καρδιά\nMIm REm MIm\nΈχω μεγάλο ντέρτι μες στην καρδιά\nMIm REm MIm\nΆναψε το τσιγάρο, δώσ' μου φωτιά\n\nRE                          MIm  \nΆσε να σε φιλήσω, να σε χορτάσω\nRE                          MIm  \nΗ νύχτα θα περάσει και θα σε χάσω\nSOL\nΟ χωρισμός σαν θα 'ρθει θα με πληγώσει\nSOL\nΠοτέ αυτό το βράδυ μην ξημερώσει,\nLAm SOL FA# FA MIm\nΆ, α, α, α, αμάν\n\nSOL\nΆναψε το τσιγάρο, δώσ' μου φωτιά\nSOL\nΈχω μεγάλο ντέρτι μες στην καρδιά\nMIm REm MIm\nΈχω μεγάλο ντέρτι μες στην καρδιά\nMIm REm MIm\nΆναψε το τσιγάρο, δώσ' μου φωτιά\n\nRE                               MIm \nΑκόμη δεν πιστεύω πως είν' αλήθεια\nRE                               MIm \nΜου φαίνονται όλα απόψε σαν παραμύθια\nSOL\nΤο χάραμα που φτάνει πώς το φοβάμαι\nSOL\nγιατί θα φύγεις πάλι και μόνος θα 'μαι, \nLAm SOL FA# FA MIm\nΆ, α, α, α, αμάν\n\n\nSOL\nΆναψε το τσιγάρο, δώσ' μου φωτιά\nSOL\nΈχω μεγάλο ντέρτι μες στην καρδιά\nMIm REm MIm\nΈχω μεγάλο ντέρτι μες στην καρδιά\nMIm REm MIm\nΆναψε το τσιγάρο, δώσ' μου φωτιά",
+      "tr": "Anapse to tsigàro\n\nSe pònes' i kardià mu ke se ghustàri\nThélo ta dio su chèria ghia maksilàri\nÀse na ghìro apòpse stin anghaliá su\nPes mu to ne, kalè mu, ki òla dikà su\nÀ, a, a, a, amàn\n\nÀnapse to tsighàro, dos mu fotià\nÉcho meghàlo ndèrti mes stin kardià\nÉcho meghàlo ndèrti mes stin kardià\nÀnapse to tsighàro, dos mu fotià\n\nÀse na se filìso, na se chortàso\nI nìchta tha peràsi ke tha se chàso\nO chorismòs san tha 'rthi tha me plighòsi\nPotè aftò to vràdi min ksimeròsi, a...\n\nÀnapse to tsighàro...\n\nAkòmi den pistèvo pos ìn' alìthia\nMu fènonde òla apòpse san paramìthia\nTo chàrama pu ftàni pos to fovàme\nghiatì tha fìghis pàli ke mònos tha 'me, a...\n\nÀnapse to tsighàro...",
+      "ti": "Accendi la sigaretta\n\nIl mio cuore ha sofferto per te e ti desidera¹,\nvoglio le tue due mani come cuscino\nlascia che stanotte mi appoggi tra le tue braccia\ndimmi di sì, amore mio, e sarà tutto tuo\nah, ah, ah, ah, ahimè²\n\nAccendi la sigaretta, dammi il fuoco,\nho un grande dolore³ dentro il cuore,\nho un grande dolore dentro il cuore,\naccendi la sigaretta, dammi il fuoco\n\nLascia che ti baci, che mi sazi di te⁴,\nla notte passerà e ti perderò\nla separazione, quando arriverà, mi ferirà\nche quella sera non faccia mai alba, ah...\n\nAccendi la sigaretta...\n\nAncora non credo che sia vero,\nmi sembra tutto stasera come una favola⁵\ncome temo l'alba che arriva,\nperché te ne andrai di nuovo e resterò solo, ah...\n\nAccendi la sigaretta...\n\nNote\n\nΣε γουστάρει – dal verbo \"γουστάρω\" (piacere, desiderare intensamente, dal turco/italiano \"gusto\"), termine colloquiale molto diffuso nel linguaggio popolare greco, qui riferito al cuore che \"desidera\" fisicamente la persona amata.\nΑμάν – interiezione di origine turca/orientale, diffusissima nel rebetiko e nella canzone popolare greca, esprime dolore, sospiro o intensa emozione, spesso usata come lamento melismatico nel canto.\nΝτέρτι – turchismo comune nel greco popolare, significa \"pena, cruccio, dolore dell'anima\", spesso legato alla sofferenza d'amore.\nΝα σε χορτάσω – letteralmente \"saziarmi di te\", espressione idiomatica per esprimere il desiderio di amare intensamente e senza limiti la persona amata, come per \"riempirsi\" di lei prima della separazione.\nΠαραμύθια – \"favole, fiabe\"; qui usato in senso figurato per descrivere una notte così bella e intensa da sembrare irreale, come uscita da un racconto fantastico.",
+      "no": ""
+    },
     {
       "id": "s_1786466431122",
       "offsets": {},
@@ -582,7 +660,7 @@
       "ch": "DO                         SOL   DO\nΠότε θα κά-, πότε θα κάνει ξαστεριά\nDO     REm            DO         FA    DO\nΟρέ, πότε θα φλεβαρίσει, πότε θα φλεβαρίσει\nDO SOL DO SOL  DO          SOL  DO\nνα πάρω το, να πάρω το τουφέκι μου\n\nDO                         SOL   DO\nΝα πάρω το, να πάρω το τουφέκι μου\nDO     REm            DO         FA    DO\nΟρέ, την όμορφη πατρόνα, την όμορφη πατρόνα\nDO SOL DO SOL  DO          SOL  DO\nνα κατεβώ, να κατεβώ στον Ομαλό\n\nDO                  SOL   DO\nΝα κατεβώ, να κατεβώ στον Ομαλό\nDO     REm            DO         FA    DO\nΟρέ, στη στράτα των Μουσούρων, στη στράτα των Μουσούρων\nDO SOL DO SOL  DO          SOL  DO\nνα κάνω μά-, να κάνω μάνες δίχως γιους\n\nDO                         SOL   DO\nΝα κάνω μά-, να κάνω μάνες δίχως γιους\nDO     REm            DO         FA    DO\nΟρέ γυναίκες δίχως άντρες, γυναίκες δίχως άντρες\nDO SOL DO SOL  DO          SOL  DO\nνα κάνω και, να κάνω και μωρά παιδιά\n\nDO                         SOL   DO\nΝα κάνω και, να κάνω και μωρά παιδιά\nREm DO FA\nΟρέ να κλαιν δίχως μανάδες, να κλαιν δίχως μανάδες\nDO REm DO SOL LAm REm DO\nΠότε θα κά-, πότε θα κάνει ξαστεριά",
       "tr": "Potè tha kàni ksasterià\n\nPòte tha kà-, pòte tha kàni ksasterià\nOrè, pòte tha flevarìsi, pòte tha flevarìsi\nna pàro to, na pàro to tufèki mu\n\nNa pàro to, na pàro to tufèki mu\nOrè, tin òmorfi patròna, tin òmorfi patròna\nna katevò, na katevò ston Omalò\n\nNa katevò, na katevò ston Omalò\nOrè, sti stràta ton Musùron, sti stràta ton Musùron\nna kàno mà-, na kàno mànes dìchos ghius\n\nNa kàno mà-, na kàno mànes dìchos ghius\nOrè ghinèkes dìchos àndres, ghinèkes dìchos àndres\nna kàno ke, na kàno ke morà pedià\n\nNa kàno ke, na kàno ke morà pedià\nOrè na klen dìchos manàdes, na klen dìchos manàdes\nPòte tha kà-, pòte tha kàni ksasterià",
       "ti": "Quando ci sarà una notte serena\n\nQuando ci sarà, quando ci sarà una notte serena e stellata¹,\nohi, quando arriverà febbraio²,\nper prendere il, per prendere il mio fucile\n\nPer prendere il, per prendere il mio fucile,\nohi, la bella cartucciera³,\nper scendere, per scendere all'Omalòs⁴\n\nPer scendere, per scendere all'Omalòs,\nohi, sulla strada dei Musuri⁵,\nper fare ma-, per fare madri senza figli\n\nPer fare ma-, per fare madri senza figli,\nohi, donne senza mariti, donne senza mariti,\nper fare an-, per fare anche bambini piccoli\n\nPer fare an-, per fare anche bambini piccoli,\nohi, che piangano senza madri, che piangano senza madri,\nquando ci sarà, quando ci sarà una notte serena e stellata\n\nNote\n\nΞαστεριά – \"notte serena, cielo stellato e limpido\"; nel canto cretese indica il momento propizio, senza nubi, per intraprendere un'azione (spesso una spedizione o vendetta), qui in senso guerriero-ribelle.\nΘα φλεβαρίσει – da \"Φλεβάρης\" (febbraio), verbo popolare che significa \"farsi febbraio\", cioè arrivare quel mese; nella tradizione cretese febbraio è associato simbolicamente all'inizio di imprese e vendette (anche per motivi climatici/agricoli).\nΠατρόνα – \"cartucciera\", bandoliera portamunizioni, elemento tipico dell'abbigliamento tradizionale cretese armato.\nΟμαλός (Omalòs) – altopiano nella regione delle Bianche Montagne (Λευκά Όρη) a Creta, storicamente rifugio e teatro di lotte e ribellioni cretesi.\nΣτράτα των Μουσούρων – \"la strada dei Musuri\", toponimo/riferimento locale cretese (probabile via o zona legata alla famiglia/cognome Musuros), luogo di passaggio citato nella tradizione del canto.",
-      "no": ""
+      "no": "[[2026-08-06|Leggi l'approfondimento su Πότε θα κάνει ξαστεριά]]"
     },
     {
       "id": "s_1786353672144",
@@ -3225,6 +3303,14 @@
   ],
   "args": [
     {
+      "id": "a_1786529135153",
+      "title": "\"Ένας μάγκας στο Βοτανικό\" — Storia di un canto tra malavita, censura e trasformazione urbana",
+      "tag": "storie di canzoni",
+      "date": "2026-08-08",
+      "body": "Le origini del nome e del luogo\nIl quartiere di Votanikós prende il nome dal Giardino Botanico, creato pochi anni dopo il 1835 sui terreni un tempo appartenuti al governatore ottomano Hadji Ali Hasekis, trasformati per regio decreto in vivai per sviluppare l'agricoltura del nuovo Stato greco. Il giardino arrivò a contare 2.500 piante e nel 1867 divenne sezione scientifica dell'Università di Atene, restando attivo fino al 1982. \nhttps://musicagreca.github.io/musica-greca/images/Gandy181.jpg\nLa zona corrisponde all'antico demo di Lakiadai, attraversato dalla Iera Odós, la \"Via Sacra\" percorsa ogni cinque anni dalla processione dei Misteri Eleusini verso Eleusi.\nIl cambio d'uso: da zona agricola a distretto industriale\nA partire dalla seconda metà dell'Ottocento, l'asse Atene-Pireo (l'odierna via Peiraiós) si trasformò nel grande corridoio produttivo della capitale. L'innesco fu l'insediamento, tra il 1859 e il 1861, dello stabilimento del gas nella zona oggi nota come Gázi, insieme ai laboratori dell'Orfanotrofio Chatzikonsta — da qui la zona produttiva di Atene si sviluppò gradualmente, popolandosi di piccole botteghe artigiane e laboratori.\nhttps://musicagreca.github.io/musica-greca/images/gelatievga.jpg \n\nVotanikós si sviluppò così come vera e propria area industriale — delimitata dalla Iera Odós, dalla Leoforos Konstantinoupóleos e dalla Leoforos Petrou Ralli — condizioni che negli anni '30 resero possibile l'insediamento di locali clandestini come il tekès cantato nella canzone.\nhttps://musicagreca.github.io/musica-greca/images/manghes1.jpg \n\nLa nascita del brano (1933)\nIl brano nacque nel 1933, con musica di Spyros Peristeris. Fu pubblicato su disco Parlophone B-21708, con Zacharias Kasimatis alla voce, accompagnato da un'orchestra a due chitarre — registrazione poi ripubblicata dalla Rounder Records nel CD \"Mourmourika\".\nSulle origini musicali resta un dibattito aperto: il modo (dromos) principale è σαμπάχ; alcuni studiosi hanno ipotizzato un legame con il brano turco \"Harmandali Zeybek\", ma un confronto attento mostra che si tratta di due composizioni distinte (una in sabah, l'altra in hijaz), che condividono solo una breve frase musicale in apertura. Altra ipotesi discussa: un possibile legame con il \"Ταξίμ Ζεϊμπέκικο\" di Markos Vamvakaris (1936, con Spyros Peristeris).\n\nTra le altre incisioni strumentali dell'epoca legate alla stessa melodia: \"Γκιουζέλ\" dell'orchestra Politákia, e \"Αϊβαλιώτικο\" di Giorgos Mitsakis.\nLa riscrittura del 1953: censura e trasformazione\nVent'anni dopo, il brano conobbe una seconda vita con la reinterpretazione di un giovanissimo Stelios Kazantzidis, seconda voce Stellakis Perpiniadis (His Master's Voice AO 5115). In questa occasione Charalambos Vasileiadis (\"Tsantas\") intervenne a ripulire il testo originale, troppo esplicito per superare la censura dell'epoca: i riferimenti diretti a narghilè, oppio e a una prigione specifica vennero sostituiti con immagini più innocue — il bouzouki, l'ouzo, un generico \"se mi porteranno in prigione\" — trasformando la ballata del criminale in una storia di vanto e di quartiere. https://musicagreca.github.io/musica-greca/images/enasmangas.jpg \n\nLa mappa della malavita ateniese\nIl testo originale resta un documento storico sulla geografia della sottocultura rebetika ateniese degli anni '20-'30:\nIl tekès di Perdikakis — la fumeria clandestina di hashish realmente esistita a Votanikós, vero centro sociale dei rebetis dell'epoca, gestita da un personaggio noto nel sottomondo cittadino.\nIl Medresè — l'antico edificio ottomano (in origine scuola coranica) nel quartiere di Plaka, sotto l'Acropoli; durante il regno di Ottone di Grecia fu trasformato in una delle carceri più dure e famigerate del paese. \nhttps://musicagreca.github.io/musica-greca/images/mendreses.jpg \nEssere rinchiusi lì era, paradossalmente, un vanto per i criminali della vecchia scuola. Demolito quasi interamente alla fine dell'Ottocento, nel gergo della malavita degli anni '30 il termine restò sinonimo di carcere duro per antonomasia.\nIl significato culturale: la figura del mangas\nIl brano incarna perfettamente la figura del mangas: l'antieroe greco, fiero e riconoscibile nell'abbigliamento, che viveva ai margini della legalità, rifiutava il lavoro convenzionale e seguiva un proprio rigidissimo codice d'onore personale.\nLa rinascita nel gergo: \"Ε ντε λα μαγκέν ντε Βοτανίκ\" (1975)\nDa questa storia già stratificata nacque, nel 1975, un'ulteriore trasformazione: Spyros Zagoraios ne registrò un adattamento parodico in \"argot\" — il gergo inventato dai mangas del Pireo per non farsi capire dalla polizia, qui mescolato scherzosamente con parodie di francese, italiano e turco — con testo attribuito a Michalis Menidiatis (secondo altre fonti, allo stesso Zagoraios). Divenne il brano-simbolo di Zagoraios, pubblicato anche con il titolo alternativo \"Ο Βοτανικός\".\nUn'eco fino ai giorni nostri\nCuriosamente, alcuni dei grandi edifici industriali rimasti inattivi a Votanikós ospitano ancora oggi locali di intrattenimento ad alta problematicità — un'eco involontaria del passato malavitoso raccontato dalla canzone. E, altrettanto curiosamente, il brano gode oggi di un insolito culto anche tra gli appassionati di heavy metal, che lo considerano tra i migliori brani della canzone popolare greca — dal narghilè clandestino del 1933, al bouzouki \"ripulito\" del 1953, fino al gergo giocoso del 1975: quasi un secolo di storia della canzone popolare greca racchiuso in un solo motivo musicale.",
+      "link": ""
+    },
+    {
       "id": "a_1786361214162",
       "title": "Πότε θα κάνει ξαστεριά — Storia di un canto che attraversa i secoli",
       "tag": "storie di canzoni",
@@ -4365,6 +4451,7 @@
       "listen": "",
       "photo": "https://i.ytimg.com/vi/p7YHhOM6dow/hqdefault.jpg",
       "roles": [
+        "at",
         "am",
         "ar",
         "mu"
@@ -5562,6 +5649,110 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/leandros.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786512984958",
+      "name": "Γεράσιμος Κλουβάτος",
+      "nameit": "Gheràsimos Kluvàtos",
+      "born": "1914, Metaxourgio, Atene",
+      "died": "31 marzo 1979, Atene",
+      "bio": ", \"il maestro del laikò\" (1914-1979)\n\nCompositore, paroliere, direttore d'orchestra e straordinario solista di bouzouki, tra i talentuosi compositori dell'ultima generazione del rebetiko.\n\nComparve nella discografia con la canzone \"Η ώρα πέρασε\" (Odeon GA 7372, Atene 1946), insieme a Dimitris Perdikopoulos. Incise oltre 100 canzoni su dischi a 78 giri.\n\nCondivise il palco con figure fondamentali come Markos Vamvakaris, Giorgos Batis, Dimitris Stergiou (\"Bebis\") e Giorgos Lavkas — un ricordo tramandato anche nella biografia di Michalis Menidiatis, \"Πετραδάκι… πετραδάκι\" (Kostas Balachoutis, edizioni Menandros).\n\nIl grande successo \"Άναψε το τσιγάρο, δώσ' μου φωτιά\" secondo la testimonianza diretta di Spyros Zagoraios: nel 1956, mentre lavorava in un marmista che di notte diventava anche locale di intrattenimento (all'angolo tra le vie Kavalas e Thivon), una sera arrivarono proprio Klouvatos e Apostolos Chatzichristos — erano \"le forze\" del momento in quel periodo, e il brano divenne un grande successo.\n\nVisse per molti anni negli Stati Uniti, dove ebbe una presenza di successo nell'ambiente della diaspora greca.\n\nAltri brani noti: \"Παλιοζωή γιατί με βασανίζεις\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kluvatos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786513864536",
+      "name": "Σπύρος Ζαγοραίος",
+      "nameit": "Spìros Zagorèos",
+      "born": "23 giugno 1928, Atene",
+      "died": "20 ottobre 2014, Atene",
+      "bio": "Crebbe ad Agios Artemios (Gouva) di Pagrati.\n\nFamiglia di musicisti dilettanti, con radici materne da Costantinopoli; il padre, lavoratore nella Marina inglese, cantava canzoni da serenata (καντάδες).\n\nA 13-15 anni perse il braccio sinistro in un incidente, quando una bomba a mano esplose mentre giocava con i compagni di scuola ad Agia Paraskevi, in Attica (durante il periodo dell'Occupazione).\n\nNonostante la grave menomazione, iniziò la carriera nel 1952 cantando inizialmente serenate, e si affermò rapidamente per la sua voce particolare, carica di sentimento e di caymós. Cominciò ad Atene, poi lavorò anche a Salonicco.\n\nDai primi anni '60 iniziò a essere accompagnato nel canto dalla moglie Zoi Moschonisioti, formando uno dei duetti più amati della canzone popolare greca. Ebbero un figlio, Giorgos (1949-2009).\n\nTra i suoi maggiori successi come interprete: \"Άναψε το τσιγάρο\", \"Στης Λαρίσης το ποτάμι\", \"Τρελοκόριτσο\", \"Θα πεθάνω γλυκιά μου αγάπη\", \"Ντόλτσε βίτα\", \"Κατηγόρα με\", \"Ο αλήτης\", \"Η κούκλα\".\n\nFu sepolto al Terzo Cimitero di Nikaia, Pireo, il 22 ottobre 2014.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/zagoreos.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786514200643",
+      "name": "Γιούλα Ανδρεάδου",
+      "nameit": "Ghiùla Andreàdu",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Cantante greca, divenuta nota principalmente verso la fine degli anni '50, partecipando a incisioni classiche della canzone popolare (laikò) e rebetiko.\n\nFu legata artisticamente al grande interprete popolare Spyros Zagoraios, con cui realizzò alcuni dei suoi primi grandi successi discografici.\n\nSuccessi e collaborazioni principali:\n\n\"Άναψε το τσιγάρο\" (1958) — la sua interpretazione più emblematica, in collaborazione con Spyros Zagoraios e il compositore Spyros Kalfopoulos\n\"Το πεπρωμένο\" — altro brano noto del periodo 1958-1960\n\"Για σβήσε το τσιγάρο\" — duetto con Zagoraios\nOltre a Zagoraios e Kalfopoulos, collaborò strettamente anche con il compositore Gerasimos Klouvatos\n\nLa sua voce fu incisa su dischi a 45 e 78 giri; oggi le sue interpretazioni sono incluse in raccolte dedicate alle voci d'oro della canzone popolare, disponibili su piattaforme come Spotify e Apple Music.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/andreatu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786515666504",
+      "name": "Καίτη Γκρέυ",
+      "nameit": "Kèti Grèi",
+      "born": "14 maggio 1924, Mitilini, Samo",
+      "died": "19 gennaio 2025, Nea Smirni",
+      "bio": "Nome vero Angeliki Kalaitzi (secondo alcune fonti nata come Athanasia Gizili).\nInterprete greca di canzone leggera e popolare (laikò), una delle voci più iconiche e amate del genere.\n\nEbbe un'infanzia difficile: era una di quattro fratelli e all'età di un anno fu adottata dalla famiglia Kalaizi che viveva a Pireo. A sette anni perse il padre adottivo e visse in povertà fino allo scoppio della guerra, quando fece ritorno a Samo dopo aver vagato per Turchia e Palestina ed essere arrivata fino alla penisola del Sinai.\nSi sposò a 15 anni ed ebbe due figli, ma il matrimonio fini con un divorzio e nel 1945 fece ritorno al Pireo per mantenerli,cercando di sopravvivere con lavori occasionali (\"δουλειές του ποδαριού\" — letteralmente \"lavori del piede\", cioè lavoretti saltuari).\n\nCominciò come attrice (recitò in totale in 19 film, esordendo da protagonista in \"Το τραγούδι του πόνου\"). Dopo il successo come attrice, lavorò nei \"μπουλούκια\" (le compagnie teatrali itineranti) di Rita Tsakona, interpretando \"Γκόλφω\"; in seguito iniziò a cantare musica leggera con Giannis Vellas e altri artisti del genere. Il suo modello era Tzimis Makoulis.\n\nIl fidanzamento con Stelios Kazantzidis segnò profondamente la sua vita: durò cinque anni. Lo conobbe appena lui era tornato da Makronisos, tramite la madre di lui, Gesthimani, che Grey aiutava economicamente. Secondo il racconto dello stesso Kazantzidis, lei gli chiese di ballare un tango il primo giorno che si incontrarono, ma lui rifiutò, proponendo invece di uscire a cena il giorno successivo.\n\nNegli anni '60 fu la cantante più pagata del decennio nell'ambiente del laikò. Fu proprio Stelios Kazantzidis a scriverle due brani fondamentali della sua carriera, tra cui \"Το 'πες και το 'κανες\", che divenne un grande successo nonostante lei stessa, inizialmente, non volesse cantarlo, ritenendolo troppo simile a una poesia.\n\nFu fidanzata con l'attore Andreas Barkoulis; ebbe anche una relazione con l'armatore Nikos Laimos.\n\nSi sposò due volte; dal secondo matrimonio, con Nikos Iliadis, ebbe due figli, Vasilis (1950) e Filippos (1947). Sua nipote è la nota cantante Angeliki Iliadi (1977).\n\nNel 2006 pubblicò l'autobiografia \"Έτσι όπως τα έζησα\" (\"Così come li ho vissuti\"). Una prima biografia su di lei, scritta da Giorgos Chronas, era già uscita nel 1987.\n\nVasilis Tsitsanis la chiamò due mesi prima di morire, dicendole \"Caitulì, vieni a suonarle insieme\" — nacque così il disco \"Λιτανεία\".\n\nGli ultimi anni visse stabilmente a Nea Smyrni. Morì il 19 gennaio 2025, a 100 anni; ai funerali fu salutata con le canzoni \"Το βουνό\" e \"Τα ξένα χέρια\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/grei.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786516753784",
+      "name": "Νίκος Παππάς \"ο Κακούργος\"",
+      "nameit": "Nìkos Pappàs \"Kakùrgos\"",
+      "born": "14 novembre 1945, Distomo, Beozia",
+      "died": "26 giugno 2026,",
+      "bio": "Nacque appena 17 mesi dopo l'eccidio nazista del suo villaggio; morì il 26 giugno 2026. Bouzouki e voce autentica del rebetiko contemporaneo, tra le figure più originali ed emblematiche del genere.\n\nEreditò il soprannome \"Κακούργος\" dal bisnonno. Crebbe in un ambiente musicale: il padre suonava la chitarra e cantava canzoni tradizionali (dimotikà). Erede diretto del talento musicale paterno.\n\nSuonatore autodidatta della vecchia scuola, non si limitava all'accordatura classica europea del bouzouki a tre corde, ma usava anche accordature tradizionali particolari (\"Καραντουζένια\").\n\nIl suo carattere indomito e il rifiuto di proseguire una vera carriera discografica lo tennero lontano dalla ribalta nazionale; scelse invece di diffondere e custodire la propria fama nel locale di sua proprietà a Distomo, la celebre \"Καστανιά\", punto di ritrovo per appassionati, musicisti e giornalisti che arrivavano anche da Atene. Si esibì anche in alcuni locali ateniesi, come \"Χάος\" a Makrygianni.\n\nSuonò il bouzouki in tre brani del disco fondamentale \"Η Εκδίκηση της Γυφτιάς\" (1978) di Nikos Xydakis e Manolis Rasoulis — tra cui \"Τρελλή κι Αδέσποτη\".\n\nNel 2019 il ricercatore e folklorista di Livadeia Antonis Kontos pubblicò un libro interamente dedicato a lui: \"Ο Κακούργος – Νίκος Παππάς, ο ρεμπέτης της Βοιωτίας\" (234 pagine), che usa la sua vita come chiave per ricostruire la storia del rebetiko nell'intera regione della Beozia.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kakurgos.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786517216602",
+      "name": "Δημήτρης Λίβανος",
+      "nameit": "Dimìtris Lìvanos",
+      "born": "1967, Amaliada",
+      "died": "",
+      "bio": "Chitarrista/bouzouki e compositore greco, tra i più valenti virtuosi del bouzouki della sua generazione, con personalità, carattere e visione proprie.\n\nCresciuto ad Amalíada, provincia dell'Elide, in una famiglia senza legami con la musica; infanzia trascorsa a giocare nei campi con gli amici, ascoltando però una ricca discoteca radiofonica locale.\n\nAutodidatta al bouzouki, seguì comunque lezioni di armonia al Conservatorio dell'Elide sotto Christos Bozikis, che fu anche il suo primo maestro.\n\nPubblicò un disco personale (uscito agli inizi del 2014) contenente dodici brani, sette dei quali composti da lui stesso; gli altri firmati da parolieri come Dimitris Tzouvalis, Lizeta Kalimeri, Ioula Charalambous, Christos Stavrakoudis.\n\nAttivo anche nelle registrazioni dal vivo al locale \"Καστανιά\" di Nikos Pappás a Distomo, insieme ad altri musicisti della zona.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/livanos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786517542194",
+      "name": "Λίλυ Ριτσώνη",
+      "nameit": "Lìli Ritsòni",
+      "born": "sconosciuto",
+      "died": "",
+      "bio": "Cantante/interprete greca di canzone popolare, attiva soprattutto in ambito di registrazioni ed eventi dal vivo legati alla tradizione rebetiko della Beozia, in particolare nel circolo musicale del locale \"Καστανιά\" di Nikos Pappás \"Kakourgos\" a Distomo.\n\nComparve come interprete in diverse registrazioni dal vivo insieme a Dimitris Livanos, Christos Zografos, Rania Gikopoulou, Fotoula e altri musicisti del gruppo. Prese parte all'evento commemorativo del settembre 2017 per Nikos Pappás, cantando il brano \"Ο Κακούργος\" (testo di Dimitrios Tzouvalis, musica di Semeli Papavasileiou).\n\nNon sono disponibili ulteriori informazioni biografiche (data di nascita, formazione, altre notizie personali) — resta nota esclusivamente attraverso queste collaborazioni e registrazioni dal vivo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ritsoni.jpg",
       "roles": [
         "ar"
       ]
