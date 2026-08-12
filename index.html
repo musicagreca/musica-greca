@@ -714,6 +714,26 @@ function goSong(id){ prevPage=curPage; curSongId=id; songSemi=0; songTab='chords
 function goPersona(id){ prevPage=curPage; curPersonId=id; var pages=document.querySelectorAll('.page'); for(var i=0;i<pages.length;i++) pages[i].classList.remove('active'); el('pg-persona').classList.add('active'); curPage='persona'; window.scrollTo(0,0); renderPersona(); }
 function goBack(){ go(prevPage); }
 
+// Nel campo "Note" di una canzone si può scrivere [[AAAA-MM-GG|Testo del link]]
+// per creare un collegamento cliccabile a un approfondimento pubblicato in quella data.
+function formatNotesWithLinks(raw){
+  var txt=esc(raw||'');
+  return txt.replace(/\[\[(\d{4}-\d{2}-\d{2})\|([^\]]+)\]\]/g,function(m,date,label){
+    return '<a href="javascript:void(0)" onclick="goArgByDate(\''+date+'\')" style="color:var(--acc);text-decoration:underline;cursor:pointer">'+label+'</a>';
+  });
+}
+function goArgByDate(dateStr){
+  var found=args.find(function(a){ return (a.date||'').slice(0,10)===dateStr; });
+  prevPage=curPage;
+  var pages=document.querySelectorAll('.page');
+  for(var i=0;i<pages.length;i++) pages[i].classList.remove('active');
+  el('pg-argomento').classList.add('active');
+  curPage='argomento';
+  curArgId=found?String(found.id):null;
+  renderArgomento();
+  window.scrollTo(0,0);
+}
+
 /* ── HOME ── */
 function renderHome(){
   el('home-stats').innerHTML='<div style="text-align:center"><div class="stat-n">'+songs.length+'</div><div class="stat-l">Canzoni</div></div><div style="text-align:center"><div class="stat-n">'+persons.length+'</div><div class="stat-l">Artisti</div></div><div style="text-align:center"><div class="stat-n">'+args.length+'</div><div class="stat-l">Approfondimenti</div></div>';
@@ -1065,7 +1085,7 @@ function renderTab(){
   } else if(songTab==='it'){
     e.innerHTML=s.ti?'<div class="text-blk">'+esc(s.ti)+'</div>':'<p style="color:var(--t3)">Nessuna traduzione.</p>';
   } else if(songTab==='notes'){
-    e.innerHTML=s.no?'<div class="notes-blk">'+esc(s.no)+'</div>':'<p style="color:var(--t3)">Nessuna nota.</p>';
+    e.innerHTML=s.no?'<div class="notes-blk">'+formatNotesWithLinks(s.no)+'</div>':'<p style="color:var(--t3)">Nessuna nota.</p>';
   } else if(songTab==='exec'){
     var ex=(s.executions||[]).slice().sort(function(a,b){
       var ya=parseInt(a.year)||9999, yb=parseInt(b.year)||9999;
