@@ -842,7 +842,7 @@ function renderElencoCanzoni(){
   alphaH+='</div><div style="margin-bottom:.5rem">';
   alphaH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">IT</span>';
   alphaH+=itLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
-  alphaH+='<button class="alpha-btn'+(srchAlpha===null?' on':'')+'" data-l="" style="margin-left:6px">Tutti</button>';
+  alphaH+='<button class="alpha-btn c-alpha-btn'+(srchAlpha===null?' on':'')+'" data-l="" style="margin-left:6px">Tutti</button>';
   alphaH+='</div>';
 
   // Filtro generi
@@ -906,23 +906,26 @@ function renderElencoCanzoni(){
 
   el('list-canzoni').innerHTML=alphaH+gH+dH+(h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna canzone trovata</div>');
 
-  // Listener barra alfabetica
-  document.querySelectorAll('.c-alpha-btn').forEach(function(btn){
-    btn.addEventListener('click',function(){
-      srchAlpha=this.getAttribute('data-l')||null;
-      renderElencoCanzoni();
+  // Listener barra alfabetica + filtri genere/dromos (delega sul contenitore, più robusto)
+  if(!el('list-canzoni')._hasFilterDelegation){
+    el('list-canzoni').addEventListener('click',function(ev){
+      var btn=ev.target.closest('.c-alpha-btn');
+      if(btn){
+        srchAlpha=btn.getAttribute('data-l')||null;
+        renderElencoCanzoni();
+        return;
+      }
+      var gbtn=ev.target.closest('.srch-gbtn');
+      if(gbtn){
+        var type=gbtn.getAttribute('data-type');
+        var val=gbtn.getAttribute('data-g')||null;
+        if(type==='g') srchGenere=val;
+        else srchDromos=val;
+        renderElencoCanzoni();
+      }
     });
-  });
-  // Listener filtri genere e dromos
-  document.querySelectorAll('.srch-gbtn').forEach(function(btn){
-    btn.addEventListener('click',function(){
-      var type=this.getAttribute('data-type');
-      var val=this.getAttribute('data-g')||null;
-      if(type==='g') srchGenere=val;
-      else srchDromos=val;
-      renderElencoCanzoni();
-    });
-  });
+    el('list-canzoni')._hasFilterDelegation=true;
+  }
   // Listener righe
   document.querySelectorAll('.c-song-row').forEach(function(row){
     row.addEventListener('click',function(e){
