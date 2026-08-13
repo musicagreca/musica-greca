@@ -1,8 +1,31 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-12T16:37:27.412Z",
+  "exportedAt": "2026-08-13T05:00:12.161Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786553922643",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-12",
+      "tgr": "Θέλω στα μπουζούκια να με πας",
+      "tit": "Thèlo sta buzùkia na me pas",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1950",
+      "ar": "Μαρίκα Νίνου, Γιάννης Τατασόπουλος, Γιώργος Μητσάκης",
+      "lb": "His Master's Voice (Numero di catalogo: A.O. 2920)",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=kIN874n_QmE",
+      "li": "",
+      "ch": "RE             RE7              RE\nΘέλω στα μπουζούκια απόψε να με πας\nRE             RE7              RE\nγια δικό μου κέφι τα φράγκα να σκορπάς\nRE\nΚι όταν χορέψω παλαμάκια να χτυπάς\nRE          LA       RE\nαν μ' αγαπάς, αν μ' αγαπάς\nRE\nΚι όταν χορέψω παλαμάκια να χτυπάς\nRE               LA       RE\nαν μ' αγαπάς, αν μ' αγαπάς\n\nRE                 RE7          RE\nΕίμαι σαν και σένα, μποέμισσα κι εγώ\nRE                RE7                  RE\nκι ό,τι να μου κάνεις, μπουζούκια νοσταλγώ\nRE\nΓιατί είσαι μάγκας, σε παντρεύτηκα κι εγώ\nRE           LA      RE\nστ' ομολογώ, στ' ομολογώ\nRE\nΓιατί είσαι μάγκας, σε παντρεύτηκα κι εγώ\nRE         LA         RE\nστ' ομολογώ, στ' ομολογώ\n\nRE                 RE7            RE\nΚι όταν θα γυρνούμε στο σπίτι την αυγή\nRE              RE7               RE\nνα με αγκαλιάσεις μ' αγάπη και στοργή\nRE\nΜες στα φιλιά σου ο καημός μου να πνιγεί\nRE          LA          RE\nκαι όπου βγει, και όπου βγει\nRE\nΜες στα φιλιά σου ο καημός μου να πνιγεί\nRE          LA           RE\nκαι όπου βγει, και όπου βγει",
+      "tr": "Thélo sta buzùkia na me pas\n\nThélo sta buzùkia apòpse na me pas\nghia dikò mu kèfi ta fràngka na skorpàs\nKi òtan chorèpso palamàkia na chtipàs\nan m'aghapàs, an m'aghapàs\n\nÌme san ke sèna, boèmissa ki eghò\nki ò,ti na mu kànis, buzùkia nostalghò\nGhiatì ìse mànghas, se pandrèftika ki eghò\nst'omologhò, st'omologhò\n\nKi òtan tha ghirnùme sto spìti tin avghì\nna me anghaliàsis m'aghàpi ke storghì\nMes sta filià su o kaimòs mu na pnighì\nke òpu vghi, ke òpu vghi",
+      "ti": "Voglio che  mi porti tra i bouzouki\n\nVoglio che stanotte tu mi porti tra i bouzouki¹,\nper farmi divertire, sperpera pure i soldi²\nE quando ballerò, batti le mani a ritmo,\nse mi ami, se mi ami\n\nSono come te, bohémienne³ anch'io,\ne qualunque cosa tu mi faccia, ho nostalgia dei bouzouki\nPerché sei un màngas⁴, ti ho sposato anch'io,\nte lo confesso, te lo confesso\n\nE quando torneremo a casa all'alba,\nabbracciami con amore e tenerezza\nChe nei tuoi baci affoghi la mia pena⁵,\ne vada come vada⁶\n\nNote\n\nΣτα μπουζούκια (\"tra i bouzouki\") – espressione idiomatica per indicare i locali dove si suona dal vivo musica rebetika/laika, luoghi di festa e sfogo notturno.\nΤα φράγκα να σκορπάς (\"sperpera i soldi\") – \"φράγκα\" è termine gergale per \"soldi\" (dal francese \"franco\"); l'invito a spendere senza risparmio per la serata di festa è un topos classico delle canzoni da locale notturno.\nΜποέμισσα – \"bohémienne\", donna dallo spirito libero e anticonformista, che vive senza convenzioni, in linea con lo stile di vita del marito \"μάγκας\".\nΜάγκας – figura tipica della cultura urbana greca (soprattutto del Pireo), l'uomo disinvolto, dallo stile di vita libero, spesso ai margini della legalità, personaggio centrale dell'immaginario rebetiko.\nΚαημός – termine chiave della sensibilità popolare greca, indica una pena profonda, un dolore struggente, spesso d'amore.\nΚι όπου βγει – espressione idiomatica colloquiale, letteralmente \"e dove esce/porta\", equivalente a \"e vada come vada, qualunque cosa succeda\", atteggiamento di abbandono fatalista tipico del sentire rebetiko.",
+      "no": ""
+    },
     {
       "id": "s_1786548216713",
       "offsets": {},
@@ -5779,6 +5802,21 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/ritsoni.jpg",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1786554507848",
+      "name": "Γιάννης Τατασόπουλος",
+      "nameit": "Ghiannis Tatasòpoulos",
+      "born": "7 gennaio 1928, Kifissià",
+      "died": "21 ottobre 2001, Washington",
+      "bio": "Musicista greco, celebre virtuoso solista del bouzouki, compositore, comparso più volte alla televisione nazionale greca. Considerato tra i migliori solisti di bouzouki della sua generazione; Vasilis Tsitsanis disse di lui: \"È il migliore bouzoukista che abbiamo. Ce lo ha portato via l'emigrazione\".\n\nPrimogenito dei tre figli di Nikos e Aimilia (nata Drosou, dall'Epiro). Il padre, originario di Costantinopoli, suonava l'oud e cantava; gestiva una macelleria a Kifisiá.\n\nNegli anni '30 la famiglia si trasferì all'Accademia di Platone, dove i genitori aprirono una taverna, la \"Kríti\", frequentata dai musicisti popolari dell'epoca ; lì il giovane Giannis conobbe Markos Vamvakaris e Vasilis Tsitsanis.\n\nIl primo contatto con uno strumento musicale fu la chitarra, ma fu il bouzouki lo strumento che finì per rappresentarlo. A soli 12 anni lavorava già come bouzoukista alla \"Birra di Pikinos\" a Theseio.\n\nFormò un duo storico con Giannis Stamatiou (\"Sporos\"), tra i più forti dell'epoca, accompagnati anche dall'amico fraterno \"Ntíligker\" fino alla fine. Il gruppo si esibì con grande successo nei maggiori locali del periodo (Tzimi tou Chondrou, Gonía tis Athínas, Roz Marí, Tabú, Luzitanía), oltre che in varietà, spettacoli musicali-teatrali, alla radio delle forze armate, e arrivò fino a Costantinopoli, partecipando alle grandi feste popolari.\n\nFu responsabile delle audizioni per nuovi artisti della Columbia.\n\nNel 1955 partì per l'America insieme a Rena Ntalia.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/tatasopulos.jpg",
+      "roles": [
+        "ar",
+        "mu"
       ]
     }
   ]
