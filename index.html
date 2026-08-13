@@ -189,6 +189,17 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 .srch-gbtn{font-size:11px;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:var(--sur);color:var(--t2);cursor:pointer;font-family:'Arial',sans-serif}
 .srch-gbtn:hover{background:var(--s2)}
 .srch-gbtn.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+
+/* ACCORDI */
+.acc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(72px,1fr));gap:.5rem}
+.acc-btn{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);padding:.6rem .3rem;text-align:center;font-size:13px;font-weight:600;color:var(--txt);cursor:pointer}
+.acc-btn:hover{background:var(--s2);border-color:var(--acc)}
+#chord-lightbox{display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:999;align-items:center;justify-content:center;padding:1rem}
+#chord-lightbox.open{display:flex}
+.chord-box{background:var(--sur);border-radius:var(--rad);padding:1.2rem;max-width:360px;width:100%;text-align:center;position:relative}
+.chord-box-ttl{font-size:1.05rem;font-weight:700;margin-bottom:.7rem}
+.chord-box img{max-width:100%;max-height:60vh;border-radius:6px}
+.chord-close{position:absolute;top:.5rem;right:.6rem;background:none;border:none;font-size:1.1rem;cursor:pointer;color:var(--t2)}
 </style>
 </head>
 <body>
@@ -218,6 +229,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
   <div class="hcard" onclick="go('elenco-generi')"><div class="hcard-ico">🎼</div><div class="hcard-ttl">Generi</div><div class="hcard-sub">Per dromos e stile</div></div>
   <div class="hcard" onclick="go('elenco-balli')"><div class="hcard-ico">💃</div><div class="hcard-ttl">Ballo/Ritmo</div><div class="hcard-sub">Per tipo di ballo</div></div>
   <div class="hcard" onclick="go('argomento')"><div class="hcard-ico">📖</div><div class="hcard-ttl">Approfondimenti</div><div class="hcard-sub">Approfondimenti e curiosità</div></div>
+  <div class="hcard" onclick="go('accordi')"><div class="hcard-ico">🎸</div><div class="hcard-ttl">Accordi</div><div class="hcard-sub">Diagrammi per chitarra</div></div>
   <div class="hcard" onclick="go('info')"><div class="hcard-ico">ℹ</div><div class="hcard-ttl">Informazioni</div><div class="hcard-sub">Fonti e note sul sito</div></div>
 </div>
 <div class="home-footer">Μουσική — Archivio di musica greca &nbsp;·&nbsp; <span onclick="go('info')" style="cursor:pointer;text-decoration:underline">Informazioni e fonti</span></div>
@@ -358,6 +370,27 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 </div>
 
 <!-- INFO -->
+<div class="page" id="pg-accordi">
+<div class="topbar">
+  <span class="tb-brand" onclick="go('home')">Μουσική</span>
+  <span class="bc-sep">›</span><span class="bc-cur">Accordi</span>
+  <button class="tb-back" onclick="go('home')">← Home</button>
+</div>
+<div class="wrap">
+  <h1 style="font-size:1.2rem;font-weight:700;margin-bottom:.3rem">Accordi per chitarra</h1>
+  <p style="font-size:13px;color:var(--t3);margin-bottom:1rem">Tocca un accordo per vedere il diagramma.</p>
+  <div class="acc-grid" id="acc-grid"></div>
+</div>
+</div>
+<div id="chord-lightbox" onclick="closeChord(event)">
+  <div class="chord-box" onclick="event.stopPropagation()">
+    <button class="chord-close" onclick="closeChord()">✕</button>
+    <div class="chord-box-ttl" id="chord-box-ttl"></div>
+    <img id="chord-box-img" src="" alt="">
+    <div id="chord-box-missing" style="display:none;color:var(--t3);font-size:13px;padding:2rem;text-align:center">Diagramma non ancora disponibile.</div>
+  </div>
+</div>
+
 <div class="page" id="pg-info">
 <div class="topbar">
   <span class="tb-brand" onclick="go('home')">Μουσική</span>
@@ -568,6 +601,45 @@ function formatArgBody(raw){
 }
 function el(id){ return document.getElementById(id); }
 
+/* ── ACCORDI PER CHITARRA ── */
+var CHORD_LIST=["do","do-","do7","do-7","dodies","dodies-","dodies7","dodies-7",
+"re","re-","re7","re-7","reb","reb-","reb7","reb-7","redies","redies-","redies7","redies-7",
+"mi","mi-","mi7","mi-7","mib","mib-","mib7","mib-7",
+"fa","fa-","fa7","fa-7","fadies","fadies-","fadies7","fadies-7",
+"sol","sol-","sol7","sol-7","sob","soldies","soldies-","soldies7","soldies-7",
+"si","si-","si7","si-7","si9","sib","sib-","sib7","sib-7","sidim","simaj7",
+"la","la6","la-6","la7","la-7","la9","lab","lab-","lab7","lab-7","ladies","ladies-","ladies7","ladies-7","lamaj","lamaj7","lamin","laminore"];
+var CHORD_ROOTS=[["dodies","Do♯"],["redies","Re♯"],["fadies","Fa♯"],["soldies","Sol♯"],["ladies","La♯"],
+["reb","Re♭"],["mib","Mi♭"],["lab","La♭"],["sib","Si♭"],["sob","Sol♭"],
+["do","Do"],["re","Re"],["mi","Mi"],["fa","Fa"],["sol","Sol"],["si","Si"],["la","La"]];
+function chordLabel(code){
+  for(var i=0;i<CHORD_ROOTS.length;i++){
+    if(code.indexOf(CHORD_ROOTS[i][0])===0){
+      var suf=code.slice(CHORD_ROOTS[i][0].length);
+      suf=suf.replace('minore','m').replace('min','m').replace(/^-/,'m');
+      return CHORD_ROOTS[i][1]+suf;
+    }
+  }
+  return code;
+}
+function renderAccordi(){
+  var g=el('acc-grid');
+  g.innerHTML=CHORD_LIST.map(function(c){
+    return '<div class="acc-btn" onclick="openChord(\''+c+'\')">'+chordLabel(c)+'</div>';
+  }).join('');
+}
+function openChord(code){
+  el('chord-box-ttl').textContent=chordLabel(code);
+  var img=el('chord-box-img');
+  var missing=el('chord-box-missing');
+  img.style.display='';
+  missing.style.display='none';
+  img.onerror=function(){ img.style.display='none'; missing.style.display=''; };
+  img.src='images/accordi/'+code+'.jpg';
+  el('chord-lightbox').classList.add('open');
+}
+function closeChord(ev){ el('chord-lightbox').classList.remove('open'); }
+
 function lastName(name){
   var w=(name||'').trim().split(/\s+/);
   return w.length>1?w[w.length-1]:name;
@@ -708,6 +780,7 @@ function go(pageId) {
   else if(pageId==='elenco-generi') renderElencoGeneri();
   else if(pageId==='elenco-balli') renderElencoBalli();
   else if(pageId==='argomento') renderArgomento();
+  else if(pageId==='accordi') renderAccordi();
   else if(pageId==='info') {}
 }
 function goSong(id){ prevPage=curPage; curSongId=id; songSemi=0; songTab='chords'; notation='it'; var pages=document.querySelectorAll('.page'); for(var i=0;i<pages.length;i++) pages[i].classList.remove('active'); el('pg-canzone').classList.add('active'); curPage='canzone'; window.scrollTo(0,0); renderCanzone(); }
