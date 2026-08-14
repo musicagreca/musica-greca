@@ -1424,19 +1424,22 @@ function renderPersona(){
   var linked=[];
   if(!isOnlyMu){
     songs.forEach(function(s){
-      var roles=[];
+      var roles=[]; var execLink=null;
       if(s.at&&(s.at===p.name||s.at===p.nameit)) roles.push('at');
       if(s.am&&(s.am===p.name||s.am===p.nameit)) roles.push('am');
       if(s.ar){ var ars=s.ar.split(',').map(function(a){return a.trim();}); if(ars.indexOf(p.name)>=0||ars.indexOf(p.nameit||'')>=0) roles.push('ar'); }
-      if(!roles.length && (s.executions||[]).length){
-        var matchExec=(s.executions||[]).some(function(x){
+      if((s.executions||[]).length){
+        var matchedExec=(s.executions||[]).filter(function(x){
           if(!x.who) return false;
           var whoList=x.who.split(',').map(function(w){return w.trim();});
           return whoList.indexOf(p.name)>=0||whoList.indexOf(p.nameit||'')>=0;
-        });
-        if(matchExec) roles.push('ar');
+        })[0];
+        if(matchedExec){
+          if(roles.indexOf('ar')<0) roles.push('ar');
+          if(matchedExec.link) execLink=matchedExec.link;
+        }
       }
-      if(roles.length) linked.push({s:s,roles:roles.filter(function(r,i,a){return a.indexOf(r)===i;})});
+      if(roles.length) linked.push({s:s,roles:roles.filter(function(r,i,a){return a.indexOf(r)===i;}),execLink:execLink});
     });
   }
 
@@ -1453,9 +1456,10 @@ function renderPersona(){
   } else if(linked.length){
     linkedH='<div class="divider"></div><div class="sec-hdr">Canzoni nel database ('+linked.length+')</div><div class="linked">';
     for(var i=0;i<linked.length;i++){
-      var s=linked[i].s, roles=linked[i].roles;
+      var s=linked[i].s, roles=linked[i].roles, execLink=linked[i].execLink;
       var songLinks='';
-      if(s.ll) songLinks+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank" onclick="event.stopPropagation()">▶</a>';
+      var listenLink=s.ll||execLink;
+      if(listenLink) songLinks+='<a class="lbtn" href="'+esc(listenLink)+'" target="_blank" onclick="event.stopPropagation()">▶</a>';
       if(s.li) songLinks+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">ℹ</a>';
       var pills=roles.map(function(r){return '<span class="rp '+(RC[r]||'')+'" style="font-size:9px">'+RL[r]+'</span>';}).join('');
       linkedH+='<div class="ln-row" onclick="goSong(\''+s.id+'\')"><div style="flex:1"><div class="ln-ttl">'+esc(s.tgr)+'</div><div class="ln-sub">'+esc([s.tit,s.yr,s.gn].filter(Boolean).join(' · '))+'</div></div><div style="display:flex;gap:4px;align-items:center">'+songLinks+pills+'</div></div>';
