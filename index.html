@@ -1303,6 +1303,14 @@ function renderPersonaVirtuale(name){
     if(s.at===name) roles.push('at');
     if(s.am===name) roles.push('am');
     if(s.ar){ var ars=s.ar.split(',').map(function(a){return a.trim();}); if(ars.indexOf(name)>=0) roles.push('ar'); }
+    if(!roles.length && (s.executions||[]).length){
+      var matchExec=(s.executions||[]).some(function(x){
+        if(!x.who) return false;
+        var whoList=x.who.split(',').map(function(w){return w.trim();});
+        return whoList.indexOf(name)>=0;
+      });
+      if(matchExec) roles.push('ar');
+    }
     if(roles.length) linked.push({s:s,roles:roles});
   });
   var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore'};
@@ -1372,6 +1380,14 @@ function renderPersona(){
       if(s.at&&(s.at===p.name||s.at===p.nameit)) roles.push('at');
       if(s.am&&(s.am===p.name||s.am===p.nameit)) roles.push('am');
       if(s.ar){ var ars=s.ar.split(',').map(function(a){return a.trim();}); if(ars.indexOf(p.name)>=0||ars.indexOf(p.nameit||'')>=0) roles.push('ar'); }
+      if(!roles.length && (s.executions||[]).length){
+        var matchExec=(s.executions||[]).some(function(x){
+          if(!x.who) return false;
+          var whoList=x.who.split(',').map(function(w){return w.trim();});
+          return whoList.indexOf(p.name)>=0||whoList.indexOf(p.nameit||'')>=0;
+        });
+        if(matchExec) roles.push('ar');
+      }
       if(roles.length) linked.push({s:s,roles:roles.filter(function(r,i,a){return a.indexOf(r)===i;})});
     });
   }
