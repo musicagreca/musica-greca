@@ -759,33 +759,52 @@ var curSongId=null, curPersonId=null;
 var songSemi=0, songTab='chords';
 var alphaF={};
 
-/* ── NAVIGATION ── */
-function go(pageId) {
-  prevPage = curPage;
+/* ── NAVIGATION (con integrazione cronologia browser, per il tasto Indietro) ── */
+function applyState(state, doScroll){
+  curSongId = state.songId || null;
+  curPersonId = state.personId || null;
+  curArgId = state.argId || null;
   var pages = document.querySelectorAll('.page');
   for(var i=0;i<pages.length;i++) pages[i].classList.remove('active');
-  var target = el('pg-'+pageId);
-  if(!target){ console.error('Page not found: pg-'+pageId); return; }
+  var pid = state.page;
+  var target = el('pg-'+pid);
+  if(!target){ console.error('Page not found: pg-'+pid); pid='home'; target=el('pg-home'); }
   target.classList.add('active');
-  curPage = pageId;
-  window.scrollTo(0,0);
+  prevPage = curPage;
+  curPage = pid;
+  if(doScroll) window.scrollTo(0,0);
 
-  if(pageId==='home') renderHome();
-  else if(pageId==='elenchi') renderElenchi();
-  else if(pageId==='elenco-canzoni') renderElencoCanzoni();
-  else if(pageId==='elenco-cantanti') renderElencoPersone('cantanti','ar');
-  else if(pageId==='elenco-autori-musica') renderElencoPersone('autori-musica','am');
-  else if(pageId==='elenco-autori-testo') renderElencoPersone('autori-testo','at');
-  else if(pageId==='elenco-musicisti') renderElencoPersone('musicisti','mu');
-  else if(pageId==='elenco-generi') renderElencoGeneri();
-  else if(pageId==='elenco-balli') renderElencoBalli();
-  else if(pageId==='argomento') renderArgomento();
-  else if(pageId==='accordi') renderAccordi();
-  else if(pageId==='info') {}
+  if(pid==='home') renderHome();
+  else if(pid==='elenchi') renderElenchi();
+  else if(pid==='elenco-canzoni') renderElencoCanzoni();
+  else if(pid==='elenco-cantanti') renderElencoPersone('cantanti','ar');
+  else if(pid==='elenco-autori-musica') renderElencoPersone('autori-musica','am');
+  else if(pid==='elenco-autori-testo') renderElencoPersone('autori-testo','at');
+  else if(pid==='elenco-musicisti') renderElencoPersone('musicisti','mu');
+  else if(pid==='elenco-generi') renderElencoGeneri();
+  else if(pid==='elenco-balli') renderElencoBalli();
+  else if(pid==='argomento') renderArgomento();
+  else if(pid==='accordi') renderAccordi();
+  else if(pid==='canzone'){ songSemi=0; songTab='chords'; notation='it'; renderCanzone(); }
+  else if(pid==='persona') renderPersona();
+  else if(pid==='info') {}
 }
-function goSong(id){ prevPage=curPage; curSongId=id; songSemi=0; songTab='chords'; notation='it'; var pages=document.querySelectorAll('.page'); for(var i=0;i<pages.length;i++) pages[i].classList.remove('active'); el('pg-canzone').classList.add('active'); curPage='canzone'; window.scrollTo(0,0); renderCanzone(); }
-function goPersona(id){ prevPage=curPage; curPersonId=id; var pages=document.querySelectorAll('.page'); for(var i=0;i<pages.length;i++) pages[i].classList.remove('active'); el('pg-persona').classList.add('active'); curPage='persona'; window.scrollTo(0,0); renderPersona(); }
-function goBack(){ go(prevPage); }
+function pushNav(state){
+  history.pushState(state, '');
+  applyState(state, true);
+}
+window.addEventListener('popstate', function(ev){
+  if(ev.state){ applyState(ev.state, true); }
+  else { applyState({page:'home'}, true); }
+});
+function go(pageId) { pushNav({page:pageId}); }
+function goSong(id){ pushNav({page:'canzone', songId:id}); }
+function goPersona(id){ pushNav({page:'persona', personId:id}); }
+function goBack(){ history.back(); }
+function goArgByDate(dateStr){
+  var found=args.find(function(a){ return (a.date||'').slice(0,10)===dateStr; });
+  pushNav({page:'argomento', argId: found?String(found.id):null});
+}
 
 // Nel campo "Note" di una canzone si può scrivere [[AAAA-MM-GG|Testo del link]]
 // per creare un collegamento cliccabile a un approfondimento pubblicato in quella data.
@@ -794,17 +813,6 @@ function formatNotesWithLinks(raw){
   return txt.replace(/\[\[(\d{4}-\d{2}-\d{2})\|([^\]]+)\]\]/g,function(m,date,label){
     return '<a href="javascript:void(0)" onclick="goArgByDate(\''+date+'\')" style="color:var(--acc);text-decoration:underline;cursor:pointer">'+label+'</a>';
   });
-}
-function goArgByDate(dateStr){
-  var found=args.find(function(a){ return (a.date||'').slice(0,10)===dateStr; });
-  prevPage=curPage;
-  var pages=document.querySelectorAll('.page');
-  for(var i=0;i<pages.length;i++) pages[i].classList.remove('active');
-  el('pg-argomento').classList.add('active');
-  curPage='argomento';
-  curArgId=found?String(found.id):null;
-  renderArgomento();
-  window.scrollTo(0,0);
 }
 
 /* ── HOME ── */
@@ -1515,6 +1523,7 @@ function renderArgomento(){
 
 /* ── INIT ── */
 function init(){
+  history.replaceState({page:'home'}, '');
   renderHome();
 }
 
