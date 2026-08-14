@@ -869,7 +869,7 @@ function renderElenchi(){
 
 /* ── ELENCO CANZONI ── */
 var srchGenere=null;
-var srchDromos=null;
+var srchBallo=null;
 var srchAlpha=null;
 var srchMode='titolo';
 var srchAutoreMusica=null;
@@ -909,14 +909,19 @@ function renderElencoCanzoni(){
   grLetters.sort(function(a,b){return a.localeCompare(b,'el');});
   itLetters.sort(function(a,b){return a.localeCompare(b,'it');});
 
-  // Generi e dromoi unici
-  var generiSet=[], dromoiSet=[];
+  // Generi unici
+  var generiSet=[];
   songs.forEach(function(s){
     if(s.gn){ var gk=normGenereKey(s.gn.trim()); if(generiSet.indexOf(gk)<0) generiSet.push(gk); }
-    if(s.dr&&dromoiSet.indexOf(s.dr.trim())<0) dromoiSet.push(s.dr.trim());
   });
   generiSet.sort(function(a,b){return a.localeCompare(b,'it');});
-  dromoiSet.sort(function(a,b){return a.localeCompare(b,'el');});
+
+  // Balli/ritmi unici
+  var balliSet=[];
+  songs.forEach(function(s){
+    if(s.bal&&balliSet.indexOf(s.bal.trim())<0) balliSet.push(s.bal.trim());
+  });
+  balliSet.sort(function(a,b){return a.localeCompare(b,'it');});
 
   // Autori musica/testo/esecutori unici
   var amSet=[], atSet=[], arSet=[];
@@ -942,7 +947,7 @@ function renderElencoCanzoni(){
       ||(s.yr||'').toLowerCase().indexOf(q)>=0
       ||alias.indexOf(q)>=0;
     var matchG = srchMode!=='genere' || !srchGenere || normGenereKey((s.gn||''))===srchGenere;
-    var matchD = srchMode!=='genere' || !srchDromos || (s.dr||'')===srchDromos;
+    var matchBal = srchMode!=='ballo' || !srchBallo || (s.bal||'').trim()===srchBallo;
     var matchA = srchMode!=='alfabetico' || !srchAlpha || (
       stripAccents((s.tgr||'')[0]).toUpperCase()===srchAlpha||
       ((s.tit||'')[0]||'').toUpperCase()===srchAlpha
@@ -950,7 +955,7 @@ function renderElencoCanzoni(){
     var matchAM = srchMode!=='autore-musica' || !srchAutoreMusica || (s.am||'').trim()===srchAutoreMusica;
     var matchAT = srchMode!=='autore-testo' || !srchAutoreTesto || (s.at||'').trim()===srchAutoreTesto;
     var matchAR = srchMode!=='esecutore' || !srchEsecutore || (s.ar||'').split(',').map(function(n){return n.trim();}).indexOf(srchEsecutore)>=0;
-    return matchQ&&matchG&&matchD&&matchA&&matchAM&&matchAT&&matchAR;
+    return matchQ&&matchG&&matchBal&&matchA&&matchAM&&matchAT&&matchAR;
   });
 
   // ── Livello 1: pulsanti modalità di ricerca ──
@@ -958,6 +963,7 @@ function renderElencoCanzoni(){
     {id:'titolo',label:'Titolo'},
     {id:'alfabetico',label:'Alfabetico'},
     {id:'genere',label:'Genere'},
+    {id:'ballo',label:'Ballo/Ritmo'},
     {id:'autore-musica',label:'Autore musica'},
     {id:'autore-testo',label:'Autore testo'},
     {id:'esecutore',label:'Esecutore'}
@@ -983,11 +989,14 @@ function renderElencoCanzoni(){
       generiSet.forEach(function(g){ panelH+='<button class="srch-gbtn'+(srchGenere===g?' on':'')+'" data-g="'+esc(g)+'" data-type="g">'+esc(g)+'</button>'; });
       panelH+='</div>';
     }
-    if(dromoiSet.length){
-      panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem"><span style="font-size:10px;font-weight:700;color:var(--t3);align-self:center;margin-right:2px">Dromos</span>';
-      panelH+='<button class="srch-gbtn'+(srchDromos===null?' on':'')+'" data-g="" data-type="d">Tutti</button>';
-      dromoiSet.forEach(function(d){ panelH+='<button class="srch-gbtn'+(srchDromos===d?' on':'')+'" data-g="'+esc(d)+'" data-type="d">'+esc(d)+'</button>'; });
+  } else if(srchMode==='ballo'){
+    if(balliSet.length){
+      panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
+      panelH+='<button class="srch-gbtn'+(srchBallo===null?' on':'')+'" data-g="" data-type="bal">Tutti</button>';
+      balliSet.forEach(function(b){ panelH+='<button class="srch-gbtn'+(srchBallo===b?' on':'')+'" data-g="'+esc(b)+'" data-type="bal">'+esc(b)+'</button>'; });
       panelH+='</div>';
+    } else {
+      panelH+='<div style="font-size:12px;color:var(--t3);padding:.3rem 0">Nessun ballo/ritmo indicato ancora nelle canzoni.</div>';
     }
   } else if(srchMode==='autore-musica'){
     panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
@@ -1015,7 +1024,7 @@ function renderElencoCanzoni(){
         var newMode=mbtn.getAttribute('data-mode');
         if(newMode!==srchMode){
           srchMode=newMode;
-          srchAlpha=null; srchGenere=null; srchDromos=null;
+          srchAlpha=null; srchGenere=null; srchBallo=null;
           srchAutoreMusica=null; srchAutoreTesto=null; srchEsecutore=null;
           if(el('srch-c')) el('srch-c').value='';
         }
@@ -1033,7 +1042,7 @@ function renderElencoCanzoni(){
         var type=gbtn.getAttribute('data-type');
         var val=gbtn.getAttribute('data-g')||null;
         if(type==='g') srchGenere=val;
-        else if(type==='d') srchDromos=val;
+        else if(type==='bal') srchBallo=val;
         else if(type==='am') srchAutoreMusica=val;
         else if(type==='at') srchAutoreTesto=val;
         else if(type==='ar') srchEsecutore=val;
