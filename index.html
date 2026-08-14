@@ -257,7 +257,8 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
   <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
 </div>
 <div class="wrap">
-  <div class="search-bar"><input type="text" id="srch-c" placeholder="Cerca canzone…" oninput="renderElencoCanzoni()"></div>
+  <div id="srch-c-wrap" class="search-bar"><input type="text" id="srch-c" placeholder="Cerca canzone…" oninput="renderElencoCanzoni()"></div>
+  <div id="mode-tier"></div>
   <div id="list-canzoni"></div>
 </div>
 </div>
@@ -870,9 +871,32 @@ function renderElenchi(){
 var srchGenere=null;
 var srchDromos=null;
 var srchAlpha=null;
+var srchMode='titolo';
+var srchAutoreMusica=null;
+var srchAutoreTesto=null;
+var srchEsecutore=null;
+var dispScript='el'; // 'el' = grafia greca, 'it' = traslitterata
 function stripAccents(s){return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+function scriptToggleHTML(){
+  return '<div class="script-toggle" style="display:flex;gap:6px;margin-bottom:.5rem;align-items:center">'+
+    '<span style="font-size:10px;font-weight:700;color:var(--t3)">Grafia</span>'+
+    '<button class="srch-gbtn script-btn'+(dispScript==='el'?' on':'')+'" data-script="el">Greca</button>'+
+    '<button class="srch-gbtn script-btn'+(dispScript==='it'?' on':'')+'" data-script="it">Traslitterata</button>'+
+  '</div>';
+}
+function bindScriptToggle(container, rerenderFn){
+  if(container._hasScriptToggle) return;
+  container.addEventListener('click',function(ev){
+    var sbtn=ev.target.closest('.script-btn');
+    if(sbtn){ dispScript=sbtn.getAttribute('data-script'); rerenderFn(); }
+  });
+  container._hasScriptToggle=true;
+}
 function renderElencoCanzoni(){
   var q=(el('srch-c')?el('srch-c').value.toLowerCase():'');
+
+  // Mostra il campo di ricerca testuale solo in modalità "titolo"
+  el('srch-c-wrap').style.display = (srchMode==='titolo') ? '' : 'none';
 
   // Lettere alfabetiche
   var grLetters=[], itLetters=[];
@@ -894,10 +918,20 @@ function renderElencoCanzoni(){
   generiSet.sort(function(a,b){return a.localeCompare(b,'it');});
   dromoiSet.sort(function(a,b){return a.localeCompare(b,'el');});
 
+  // Autori musica/testo/esecutori unici
+  var amSet=[], atSet=[], arSet=[];
+  songs.forEach(function(s){
+    if(s.am&&s.am.trim()&&amSet.indexOf(s.am.trim())<0) amSet.push(s.am.trim());
+    if(s.at&&s.at.trim()&&atSet.indexOf(s.at.trim())<0) atSet.push(s.at.trim());
+    if(s.ar){ s.ar.split(',').map(function(n){return n.trim();}).filter(Boolean).forEach(function(n){ if(arSet.indexOf(n)<0) arSet.push(n); }); }
+  });
+  var elCmp=function(a,b){return a.localeCompare(b,'el');};
+  amSet.sort(elCmp); atSet.sort(elCmp); arSet.sort(elCmp);
+
   // Filtro
   var list=songs.filter(function(s){
     var alias=(s.alias||'').toLowerCase();
-    var matchQ=!q
+    var matchQ = srchMode!=='titolo' || !q
       ||(s.tgr||'').toLowerCase().indexOf(q)>=0
       ||(s.tit||'').toLowerCase().indexOf(q)>=0
       ||(s.at||'').toLowerCase().indexOf(q)>=0
@@ -907,41 +941,107 @@ function renderElencoCanzoni(){
       ||(s.dr||'').toLowerCase().indexOf(q)>=0
       ||(s.yr||'').toLowerCase().indexOf(q)>=0
       ||alias.indexOf(q)>=0;
-    var matchG=!srchGenere||normGenereKey((s.gn||''))===srchGenere;
-    var matchD=!srchDromos||(s.dr||'')===srchDromos;
-    var matchA=!srchAlpha||(
+    var matchG = srchMode!=='genere' || !srchGenere || normGenereKey((s.gn||''))===srchGenere;
+    var matchD = srchMode!=='genere' || !srchDromos || (s.dr||'')===srchDromos;
+    var matchA = srchMode!=='alfabetico' || !srchAlpha || (
       stripAccents((s.tgr||'')[0]).toUpperCase()===srchAlpha||
       ((s.tit||'')[0]||'').toUpperCase()===srchAlpha
     );
-    return matchQ&&matchG&&matchD&&matchA;
+    var matchAM = srchMode!=='autore-musica' || !srchAutoreMusica || (s.am||'').trim()===srchAutoreMusica;
+    var matchAT = srchMode!=='autore-testo' || !srchAutoreTesto || (s.at||'').trim()===srchAutoreTesto;
+    var matchAR = srchMode!=='esecutore' || !srchEsecutore || (s.ar||'').split(',').map(function(n){return n.trim();}).indexOf(srchEsecutore)>=0;
+    return matchQ&&matchG&&matchD&&matchA&&matchAM&&matchAT&&matchAR;
   });
 
-  // Barre alfabetiche
-  var alphaH='<div id="alpha-anchor-songs" class="alpha-anchor" style="margin-bottom:.35rem">';
-  alphaH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">ΕΛ</span>';
-  alphaH+=grLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
-  alphaH+='</div><div style="margin-bottom:.5rem">';
-  alphaH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">IT</span>';
-  alphaH+=itLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
-  alphaH+='<button class="alpha-btn c-alpha-btn'+(srchAlpha===null?' on':'')+'" data-l="" style="margin-left:6px">Tutti</button>';
-  alphaH+='</div>';
+  // ── Livello 1: pulsanti modalità di ricerca ──
+  var MODES=[
+    {id:'titolo',label:'Titolo'},
+    {id:'alfabetico',label:'Alfabetico'},
+    {id:'genere',label:'Genere'},
+    {id:'autore-musica',label:'Autore musica'},
+    {id:'autore-testo',label:'Autore testo'},
+    {id:'esecutore',label:'Esecutore'}
+  ];
+  var tierH='<div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:.6rem">';
+  tierH+=MODES.map(function(m){ return '<button class="srch-gbtn mode-btn'+(srchMode===m.id?' on':'')+'" data-mode="'+m.id+'">'+m.label+'</button>'; }).join('');
+  tierH+='</div>';
 
-  // Filtro generi
-  var gH='';
-  if(generiSet.length){
-    gH='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.4rem"><span style="font-size:10px;font-weight:700;color:var(--t3);align-self:center;margin-right:2px">Genere</span>';
-    gH+='<button class="srch-gbtn'+(srchGenere===null?' on':'')+'" data-g="" data-type="g">Tutti</button>';
-    generiSet.forEach(function(g){ gH+='<button class="srch-gbtn'+(srchGenere===g?' on':'')+'" data-g="'+esc(g)+'" data-type="g">'+esc(g)+'</button>'; });
-    gH+='</div>';
+  // ── Livello 2: pannello specifico della modalità scelta ──
+  var panelH='';
+  if(srchMode==='alfabetico'){
+    panelH+='<div id="alpha-anchor-songs" class="alpha-anchor" style="margin-bottom:.35rem">';
+    panelH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">ΕΛ</span>';
+    panelH+=grLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
+    panelH+='</div><div style="margin-bottom:.5rem">';
+    panelH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">IT</span>';
+    panelH+=itLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
+    panelH+='<button class="alpha-btn c-alpha-btn'+(srchAlpha===null?' on':'')+'" data-l="" style="margin-left:6px">Tutti</button>';
+    panelH+='</div>';
+  } else if(srchMode==='genere'){
+    if(generiSet.length){
+      panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.4rem"><span style="font-size:10px;font-weight:700;color:var(--t3);align-self:center;margin-right:2px">Genere</span>';
+      panelH+='<button class="srch-gbtn'+(srchGenere===null?' on':'')+'" data-g="" data-type="g">Tutti</button>';
+      generiSet.forEach(function(g){ panelH+='<button class="srch-gbtn'+(srchGenere===g?' on':'')+'" data-g="'+esc(g)+'" data-type="g">'+esc(g)+'</button>'; });
+      panelH+='</div>';
+    }
+    if(dromoiSet.length){
+      panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem"><span style="font-size:10px;font-weight:700;color:var(--t3);align-self:center;margin-right:2px">Dromos</span>';
+      panelH+='<button class="srch-gbtn'+(srchDromos===null?' on':'')+'" data-g="" data-type="d">Tutti</button>';
+      dromoiSet.forEach(function(d){ panelH+='<button class="srch-gbtn'+(srchDromos===d?' on':'')+'" data-g="'+esc(d)+'" data-type="d">'+esc(d)+'</button>'; });
+      panelH+='</div>';
+    }
+  } else if(srchMode==='autore-musica'){
+    panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
+    panelH+='<button class="srch-gbtn'+(srchAutoreMusica===null?' on':'')+'" data-g="" data-type="am">Tutti</button>';
+    amSet.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchAutoreMusica===n?' on':'')+'" data-g="'+esc(n)+'" data-type="am">'+esc(n)+'</button>'; });
+    panelH+='</div>';
+  } else if(srchMode==='autore-testo'){
+    panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
+    panelH+='<button class="srch-gbtn'+(srchAutoreTesto===null?' on':'')+'" data-g="" data-type="at">Tutti</button>';
+    atSet.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchAutoreTesto===n?' on':'')+'" data-g="'+esc(n)+'" data-type="at">'+esc(n)+'</button>'; });
+    panelH+='</div>';
+  } else if(srchMode==='esecutore'){
+    panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
+    panelH+='<button class="srch-gbtn'+(srchEsecutore===null?' on':'')+'" data-g="" data-type="ar">Tutti</button>';
+    arSet.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchEsecutore===n?' on':'')+'" data-g="'+esc(n)+'" data-type="ar">'+esc(n)+'</button>'; });
+    panelH+='</div>';
   }
+  el('mode-tier').innerHTML=scriptToggleHTML()+tierH+panelH;
+  bindScriptToggle(el('mode-tier'), renderElencoCanzoni);
 
-  // Filtro dromoi
-  var dH='';
-  if(dromoiSet.length){
-    dH='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem"><span style="font-size:10px;font-weight:700;color:var(--t3);align-self:center;margin-right:2px">Dromos</span>';
-    dH+='<button class="srch-gbtn'+(srchDromos===null?' on':'')+'" data-g="" data-type="d">Tutti</button>';
-    dromoiSet.forEach(function(d){ dH+='<button class="srch-gbtn'+(srchDromos===d?' on':'')+'" data-g="'+esc(d)+'" data-type="d">'+esc(d)+'</button>'; });
-    dH+='</div>';
+  if(!el('mode-tier')._hasFilterDelegation){
+    el('mode-tier').addEventListener('click',function(ev){
+      var mbtn=ev.target.closest('.mode-btn');
+      if(mbtn){
+        var newMode=mbtn.getAttribute('data-mode');
+        if(newMode!==srchMode){
+          srchMode=newMode;
+          srchAlpha=null; srchGenere=null; srchDromos=null;
+          srchAutoreMusica=null; srchAutoreTesto=null; srchEsecutore=null;
+          if(el('srch-c')) el('srch-c').value='';
+        }
+        renderElencoCanzoni();
+        return;
+      }
+      var abtn=ev.target.closest('.c-alpha-btn');
+      if(abtn){
+        srchAlpha=abtn.getAttribute('data-l')||null;
+        renderElencoCanzoni();
+        return;
+      }
+      var gbtn=ev.target.closest('.srch-gbtn:not(.mode-btn)');
+      if(gbtn){
+        var type=gbtn.getAttribute('data-type');
+        var val=gbtn.getAttribute('data-g')||null;
+        if(type==='g') srchGenere=val;
+        else if(type==='d') srchDromos=val;
+        else if(type==='am') srchAutoreMusica=val;
+        else if(type==='at') srchAutoreTesto=val;
+        else if(type==='ar') srchEsecutore=val;
+        renderElencoCanzoni();
+      }
+    });
+    el('mode-tier')._hasFilterDelegation=true;
   }
 
   // Lista principale + voci alias ordinate insieme
@@ -975,7 +1075,8 @@ function renderElencoCanzoni(){
       var gndr=[s.tit,s.yr,s.gn,s.dr].filter(Boolean).join(' · ');
       h+='<div class="list-item"><span class="list-num">'+num+'</span>';
       h+='<div class="list-main c-song-row" data-sid="'+s.id+'">';
-      h+='<div class="list-title">'+esc(s.tgr)+'</div>';
+      var mainTtl=(dispScript==='it'&&s.tit)?s.tit:s.tgr;
+      h+='<div class="list-title">'+esc(mainTtl)+'</div>';
       h+='<div class="list-sub">'+esc(gndr)+'</div>';
       if(subMeta) h+='<div class="list-sub" style="margin-top:1px">'+subMeta+'</div>';
       h+='</div>';
@@ -985,28 +1086,8 @@ function renderElencoCanzoni(){
   }
 
 
-  el('list-canzoni').innerHTML=alphaH+gH+dH+(h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna canzone trovata</div>');
+  el('list-canzoni').innerHTML=h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna canzone trovata</div>';
 
-  // Listener barra alfabetica + filtri genere/dromos (delega sul contenitore, più robusto)
-  if(!el('list-canzoni')._hasFilterDelegation){
-    el('list-canzoni').addEventListener('click',function(ev){
-      var btn=ev.target.closest('.c-alpha-btn');
-      if(btn){
-        srchAlpha=btn.getAttribute('data-l')||null;
-        renderElencoCanzoni();
-        return;
-      }
-      var gbtn=ev.target.closest('.srch-gbtn');
-      if(gbtn){
-        var type=gbtn.getAttribute('data-type');
-        var val=gbtn.getAttribute('data-g')||null;
-        if(type==='g') srchGenere=val;
-        else srchDromos=val;
-        renderElencoCanzoni();
-      }
-    });
-    el('list-canzoni')._hasFilterDelegation=true;
-  }
   // Listener righe
   document.querySelectorAll('.c-song-row').forEach(function(row){
     row.addEventListener('click',function(e){
@@ -1090,12 +1171,18 @@ function renderElencoPersone(slug,role,selId){
   for(var i=0;i<displayed.length;i++){
     var p=displayed[i];
     var inv=invertName(p.name);
+    var invIt=p.nameit?invertName(p.nameit):'';
+    var mainDisp=(dispScript==='it'&&invIt)?invIt:inv;
+    var subDisp=(dispScript==='it'&&invIt)?inv:p.nameit;
     var fn=p.id?'goPersona(\''+p.id+'\')':'goPersonaByName(\''+p.name.replace(/\'/g,"\\'")+'\')'
-    h+='<div class="list-item"><div class="list-main" onclick="'+fn+'"><div class="list-title">'+esc(inv)+(p._virtual?'<span style="font-size:9px;color:var(--t3);margin-left:5px">(solo canzoni)</span>':'')+'</div>'+(p.nameit?'<div class="list-sub">'+esc(p.nameit)+'</div>':'')+'</div><span style="font-size:11px;color:var(--t3);cursor:pointer" onclick="'+fn+'">→</span></div>';
+    h+='<div class="list-item"><div class="list-main" onclick="'+fn+'"><div class="list-title">'+esc(mainDisp)+(p._virtual?'<span style="font-size:9px;color:var(--t3);margin-left:5px">(solo canzoni)</span>':'')+'</div>'+(subDisp?'<div class="list-sub">'+esc(subDisp)+'</div>':'')+'</div><span style="font-size:11px;color:var(--t3);cursor:pointer" onclick="'+fn+'">→</span></div>';
   }
 
   var container=el('list-'+slug);
-  if(container) container.innerHTML=ddH+barH+h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna persona in questa categoria</div>';
+  if(container){
+    container.innerHTML=scriptToggleHTML()+ddH+barH+h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna persona in questa categoria</div>';
+    bindScriptToggle(container, function(){ renderElencoPersone(slug,role,selId); });
+  }
 
   // Listener dropdown
   var dd=el('dd-'+slug);
