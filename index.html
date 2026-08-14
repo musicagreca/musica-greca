@@ -969,12 +969,11 @@ function renderElencoCanzoni(){
   // ── Livello 2: pannello specifico della modalità scelta ──
   var panelH='';
   if(srchMode==='alfabetico'){
-    panelH+='<div id="alpha-anchor-songs" class="alpha-anchor" style="margin-bottom:.35rem">';
-    panelH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">ΕΛ</span>';
-    panelH+=grLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
-    panelH+='</div><div style="margin-bottom:.5rem">';
-    panelH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">IT</span>';
-    panelH+=itLetters.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
+    var lettersToShow = (dispScript==='it') ? itLetters : grLetters;
+    var lblToShow = (dispScript==='it') ? 'IT' : 'ΕΛ';
+    panelH+='<div id="alpha-anchor-songs" class="alpha-anchor" style="margin-bottom:.5rem">';
+    panelH+='<span style="font-size:10px;font-weight:700;color:var(--t3);margin-right:4px">'+lblToShow+'</span>';
+    panelH+=lettersToShow.map(function(l){ return '<button class="alpha-btn c-alpha-btn'+(srchAlpha===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
     panelH+='<button class="alpha-btn c-alpha-btn'+(srchAlpha===null?' on':'')+'" data-l="" style="margin-left:6px">Tutti</button>';
     panelH+='</div>';
   } else if(srchMode==='genere'){
