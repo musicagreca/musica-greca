@@ -1,8 +1,77 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-13T05:00:12.161Z",
+  "exportedAt": "2026-08-14T15:46:19.534Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786722372175",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-14",
+      "tgr": "Θεέ μου μεγαλοδύναμε",
+      "tit": "Theè mu meghalodìname",
+      "alias": "Η προσευχή του μάγκα",
+      "at": "sconosciuto",
+      "am": "sconosciuto",
+      "yr": "sconosciuto",
+      "ar": "sconosciuto",
+      "lb": "",
+      "gn": "Rembetico cantada",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm LAm MIm LAm MIm SI7 MIm\n\nMIm       LAm    MIm\nΘεέ μου μεγαλοδύναμε\n       SI7         MIm\nπου 'σαι ψηλά εκεί απάνω\nLAm                           MIm\nρίξε λιγάκι τουμπεκί, Θεούλη μου\n       SI7      MIm\nστο ναργιλέ μου απάνω\nLAm                           MIm\nρίξε λιγάκι τουμπεκί, Θεούλη μου\n       SI7      MIm\nστο ναργιλέ μου απάνω\n\nMIm LAm MIm LAm MIm SI7 MIm\n\nMIm        LAm    MIm\nΑνάμεσα στης εκκλησιάς\n        SI7   MIm\nτις αψηλές καμάρες\n        LAm      MIm\nανάβαμε τις λουλαδιές Θεούλη μου\n  SI7           MIm\nσα να 'τανε λαμπάδες\n        LAm      MIm\nανάβαμε τις λουλαδιές Θεούλη μου\n     SI7       MIm\nσα να 'τανε λαμπάδες\n\nMIm    LAm          MIm\nΜπρος στον Άγιο Σπυρίδωνα\n      SI7          MIm\nμε τ' άσπρα του τα γένια\n    LAm          MIm\nτραβάω μία ντουμανιά Θεούλη μου\n SI7  MIm\nξεραίνεται στα γέλια\n    LAm          MIm\nτραβάω μία ντουμανιά Θεούλη μου\n SI7  MIm\nξεραίνεται στα γέλια\n\nMIm LAm MIm LAm MIm SI7 MIm\n\nMIm    LAm           MIm\nΚι όταν ανάψει ο ναργιλές\n       SI7       MIm\nκι έρθουμε σε ντουμάνι\n         LAm               MIm\nστείλε όλους τους αγγέλους σου Θεούλη μου \n     SI7        MIm\nνα πουν το νάνι νάνι\n         LAm               MIm\nστείλε όλους τους αγγέλους σου Θεούλη μου \n     SI7        MIm\nνα πουν το νάνι νάνι",
+      "tr": "Theè mu meghalodìname\n\nTheè mu meghalodìname\npu 'se psilà ekì apàno\nrìkse lighàki tumbekì, Theùli mu\nsto narghilè mu apàno\n\nAnàmesa stis eklisiàs\ntis apsilès kamàres\nanàvame tis luladiès\nTheùli mu\nsa na 'tane labàdes\n\nBros ston Àghio Spirìdona\nme t' àspra tu ta ghènia\ntravào mìa dumaniá\nTheùli mu\nkseréneте sta ghèlia\n\nKi òtan anàpsi o narghilès\nki èrthume se dumàni\nstìle òlus tus anghèlus su\nTheùli mu\nna pun to nàni nàni",
+      "ti": "Dio mio onnipotente\n\nDio mio onnipotente\nmanda un po' di tabacco, Dio mio\nsul mio narghilè\n\nIn mezzo, tra le\nalte arcate della chiesa\naccendevamo le boccate di fumo\nDio mio\ncome fossero candele\n\nDavanti a Sant'Spiridione\ncon la sua barba bianca\ntiro una boccata di fumo\nDio mio\nsi secca dalle risate\n\nE quando si accenderà il narghilè\ne arriveremo nel fumo (nell'estasi)\nmanda tutti i tuoi angeli\nDio mio\na cantarci la ninna nanna\n\nNote alla traduzione\n\nτουμπεκί (tumbekì): il tabacco (spesso misto ad altre sostanze) usato nel narghilè.\nναργιλές (narghilès): il narghilè, la pipa ad acqua.\nλουλαδιά (luladiá): boccata/tiro di fumo dal narghilè, sinonimo qui di τσιμπουκιά.\nντουμάνι/ντουμανιά (dumàni/dumaniá): propriamente \"fumo denso\"; in senso figurato lo stato di intontimento/estasi provocato dal fumo — da cui \"έρθουμε σε ντουμάνι\" (arriviamo nel fumo, cioè raggiungiamo quello stato alterato).\nCome nella versione precedente, il testo è una parodia scherzosa e irriverente della preghiera cristiana, tipica dell'umorismo dei tekedes rebetika: paragona i tiri di narghilè alle candele in chiesa e chiede a Dio e agli angeli di accompagnare l'estasi del fumo.",
+      "no": "E' uno dei brani più singolari del rebetiko greco, di provenienza sconosciuta, senza compositore né paroliere accertati, orfano di genitori e di un mito preciso, ma appartiene chiaramente al repertorio dei tekedes (le tane/fumerie dove si suonava il rebetiko), come confermano del resto tutti i suoi versi. \n\nAnno di uscita: non determinabile con certezza. Secondo il cantante Dimitris Kontoyannis, che lo riportò in auge negli anni '80, il brano esisterebbe in una versione zeibekiko, incisa da un cantante di Larissa probabilmente nel 1964 — ma questa registrazione non è mai stata rintracciata né confermata con certezza. \n\nGenere/ritmo: Rebetiko-kantadoriko. Ciò che colpisce è che la musica non assomiglia né agli smyrneika da tekes né ai pireotika (lo stile del Pireo); ha un ritmo che a tratti ricorda il tsamiko e a tratti il belcanto. \n\nInterpreti principali:\n\nΔημήτρης Κοντογιάννης — colui che fece riscoprire il brano negli anni '80 \nΓιώργος Μουσταΐρας\nVersione più recente (2016/2017), registrata al Rana Studio di Ioannina \n\nStoria del brano: È un pezzo avvolto nel mistero: da tempo si cerca ancora di individuarne con certezza gli autori, e le ipotesi sulla paternità del testo e della musica restano numerose e incerte. Si tratta di una \"preghiera\" ironico-blasfema tipica dell'ambiente dei tekedes: il \"mangas\" (il guappo/uomo di strada del rebetiko) si rivolge a Dio chiedendogli scherzosamente di benedire il narghilè (αργιλές) e il fumo di hashish, invocando persino gli angeli per accompagnare l'estasi del fumo — un capovolgimento giocoso e irriverente dell'iconografia religiosa, molto comune nel rebetiko delle origini legato alla subcultura dei fumatori di hashish."
+    },
+    {
+      "id": "s_1786719761303",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-14",
+      "tgr": "Σήκω, χόρεψε συρτάκι",
+      "tit": "Siko, chorepse sirtàki",
+      "alias": "",
+      "at": "Αλέκος Σακελλάριος",
+      "am": "Γιώργος Ζαμπέτας",
+      "yr": "1966",
+      "ar": "Αλίκη Βουγιουκλάκη",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=bJI_7eG8pkU&list=RDbJI_7eG8pkU&start_radio=1",
+      "li": "",
+      "ch": "RE                      SOL    LA    RE\nΣήκω, χόρεψε συρτάκι με τρελή διπλοπενιά\n    LA           SOL           LA        RE\nΧόρεψέ το σα μορτάκι, να βουίξει η γειτονιά\nRE                      SOL      LA           RE\nΈλα, πιάσε με απ' τον ώμο, κι όπα πρώτα το δεξί\n    LA           SOL           LA        RE\nΚι αν μου κουραστείς στο δρόμο, θα σε βάλω σε ταξί\n\nRE SOL LA RE\nΛα, λα, ...\n\nRE                      SOL    LA    RE\nΘέλω κέφια, θέλω γέλια, κι η φωνή μου ν' ακουστεί\n    LA           SOL           LA        RE\nΑπ' του μπουζουκιού τα τέλια έχω απόψε κρεμαστεί\nRE                      SOL    LA    RE\nΌσα κι αν μου πουν πληρώνω και κεράστε τα παιδιά\n    LA           SOL           LA        RE\nΘέλω να σε καμαρώνω όλη ετούτη τη βραδιά\n\nRE SOL LA RE\nΌπα! ...",
+      "tr": "Siko, chorepse sirtàki\n\nSìko, chòrepse sirtàki me trelì diplopenià\nChòrepsè to sa mortàki, na vuìksi i ghitonià\nÈla, piàse me ap' ton òmo, ki òpa pròta to deksì\nKi an mu kurastìs sto dròmo, tha se vàlo se taksì\n\nLa, la, ...\n\nThèlo kèfia, thèlo ghèlia, ki i foni mu n' akustì\nAp' tu buzukiù ta tèlia ècho apòpse kremastì\nÒsa ki an mu pun pliròno kai keràste ta pediá\nThèlo na se kamaròno òli etùti ti vradiá\n\nÒpa! ...",
+      "ti": "Alzati, balla il sirtaki \n\nAlzati, balla il sirtaki con una folle \"diplopenià\" (colpo doppio di plettro)\nBallalo come un monello, che rimbombi tutto il quartiere\nVieni, prendimi per la spalla, e prima il destro, oplà!\nE se ti stanchi per strada, ti metterò su un taxi\n\nLa, la, ...\n\nVoglio divertirmi, voglio ridere, e voglio che si senta la mia voce\nDalle corde del bouzouki sono rimasto appeso stasera\nQualunque cosa mi dicano, pago, e offrite da bere ai ragazzi\nVoglio essere orgoglioso di te tutta questa sera\n\nOplà! ...\n\nNote alla traduzione\n\nδιπλοπενιά (diplopenià) è un termine tecnico del suonare il bouzouki/la chitarra: indica un rapido doppio colpo di plettro (penià = colpo di plettro); qui è usato in senso figurato per descrivere il modo scatenato e ritmico di ballare.\nμορτάκι (mortàki) è un termine gergale ateniese che indica un giovane popolano, un po' sbruffone e sfrontato, tipico dei quartieri popolari (da \"μόρτης\"); qui ha un'accezione scherzosa e affettuosa, non offensiva.\nόπα (òpa) è un'esclamazione tipica usata durante il ballo greco, equivalente a \"hop!\"/\"oplà!\", per accompagnare i passi di danza.\nL'espressione \"απ' του μπουζουκιού τα τέλια έχω απόψε κρεμαστεί\" (letteralmente \"sono rimasto appeso stasera alle corde del bouzouki\") è un'immagine colloquiale per dire che si è completamente presi, rapiti dalla musica del bouzouki.\n\"Κεράστε τα παιδιά\" (offrite da bere ai ragazzi) riflette l'usanza greca del \"κέρασμα\" nei locali di rebetiko/laiko, dove si offrivano da bere agli avventori in segno di festa e generosità, spesso pagando anche eventuali danni causati dall'euforia della serata (\"όσα κι αν μου πουν πληρώνω\").",
+      "no": "Il brano nasce prima, per la commedia teatrale \"Η κόρη μου η σοσιαλίστρια\", andata in scena al teatro REX nella stagione invernale 1965-1966, con enorme successo; solo in seguito, a maggio, Sakellarios decise di trarne il film \"Η κόρη μου η σοσιαλίστρια\" (1966), di cui  firmò sia la sceneggiatura che i testi delle canzoni"
+    },
+    {
+      "id": "s_1786718065798",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-14",
+      "tgr": "Ο αμαξάς",
+      "tit": "O amaksàs",
+      "alias": "Καροτσέρη, καροτσέρη",
+      "at": "Αλέκος Σακελλάριος",
+      "am": "Μάνος Χατζιδάκις",
+      "yr": "1963",
+      "ar": "Αλίκη Βουγιουκλάκη",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE                                              LA\nΚαροτσέρη, καροτσέρη, ασ' το καμουτσίκι απ' το χέρι\nREm\nκαι μην το χτυπάς\nREm                                                  LA\nΔεν χρειάζεται να τρέχεις, όταν τόσο πια κοντά σου έχεις\n            REm\nκείνον π' αγαπάς\n            DO              FA\nΆσ' το τ' αμάξι μονάχο να κυλάει\n              RE#        LA       REm\nκι όπου κι αν πάει για μένα είναι χαρά\n        DO                              FA\nΌλα είναι εντάξει κι η αγάπη μου είναι πλάι\n          RE#         LA     REm\nκι όταν γελάει ο κόσμος μου γελά\nRE                                               LA\nΚαροτσέρη, καροτσέρη, ασ' το καμουτσίκι απ' το χέρι\nREm\nκαι μην το χτυπάς\nREm                                             LA\nΔεν χρειάζεται να τρέχεις, όταν τόσο πια κοντά σου έχεις\n             REm\nκείνον π' αγαπάς\nREm                                             LA\nΌλα γύρω μου είν' ωραία κι έχω την αγάπη μου παρέα\n             REm\nδίπλα μου εδώ να\nREm                                              LA\nΆσ' τη ρόδα να γυρίζει, μια τρελή χαρά με πλημμυρίζει\n        REm\nκαι με κυβερνά\n                DO                     FA\nΌλα είναι εντάξει κι η αγάπη μου είναι πλάι\n        RE#        LA        REm\nκι όταν γελάει ο κόσμος μου γελά\n                DO         FA\nΆσ' το τ' αμάξι μονάχο να κυλάει\n                 RE#    LA      REm\nκι όπου κι αν πάει για μένα είναι χαρά\nRE                                           LA\nΚαροτσέρη, καροτσέρη, ασ' το καμουτσίκι απ' το χέρι\nREm\nκαι μην το χτυπάς\nREm                                                LA\nΔεν χρειάζεται να τρέχεις, όταν τόσο πια κοντά σου έχεις\n             REm\nκείνον π' αγαπάς",
+      "tr": "O amaksàs\n\nKarotsèri, karotsèri, as' to kamutsìki ap' to chièri\nkai min to chtipàs\nDen chriàzete na trèchis, òtan tòso pia kontà su èchis\nkìnon p' aghapàs\n\nAs' to t' amàksi monàcho na kilài\nki òpu ki an pài ghia mèna ìne charà\nÒla ìne endàksi ki i aghàpi mu ìne plài\nki òtan ghielài o kòsmos mu ghielà\n\nKarotsèri, karotsèri, as' to kamutsìki ap' to chièri\nkai min to chtipàs\nDen chriàzete na trèchis, òtan tòso pia kontà su èchis\nkìnon p' aghapàs\n\nÒla ghìro mu in' orèa ki ècho tin aghàpi mu parèa\ndìpla mu edò na\nAs' ti ròda na ghirìzei, mia trelì charà me plimirìzei\nkai me kivernà\n\nÒla ìne endàksi ki i aghàpi mu ìne plài\nki òtan ghielài o kòsmos mu ghielà\nAs' to t' amàksi monàcho na kilài\nki òpu ki an pài ghia mèna ìne charà.\n\nKarotsèri, karotsèri, as' to kamutsìki ap' to chièri\nkai min to chtipàs\nDen chriàzete na trèchis, òtan tòso pia kontà su èchis\nkìnon p' aghapàs",
+      "ti": "Cocchiere\n\nCocchiere, cocchiere, lascia la frusta di mano\ne non lo colpire (il cavallo)\nNon c'è bisogno che corri, quando hai così vicino a te\ncolui che ami\n\nLascia che il carro proceda da solo\ne ovunque vada per me è una gioia\nVa tutto bene e il mio amore è al mio fianco\ne quando il mondo ride, rido anch'io\n\nCocchiere, cocchiere...\n\nTutto intorno a me è bello e ho il mio amore in compagnia\nqui accanto a me\nLascia che la ruota giri, una gioia folle mi travolge\ne mi governa\n\nVa tutto bene...\nLascia che il carro...\n\nCocchiere, cocchiere...\n\nNote alla traduzione\n\nκαροτσέρης (karotsèris) è il \"cocchiere/carrettiere\", chi guida un carro trainato da cavalli o un calesse; da qui \"καροτσέρη\" è il vocativo con cui ci si rivolge a lui.\nκαμουτσίκι è la frusta o frustino usato per spronare il cavallo.\nL'espressione \"Άσ' το τ' αμάξι μονάχο να κυλάει\" (lascia che il carro proceda da solo) è usata metaforicamente per dire \"lascia che le cose vadano per la loro strada, senza forzarle\".",
+      "no": "Dal film \"Τα χτυποκάρδια στο θρανίο\" (Ta chtypokardia sto thranio, 1963)"
+    },
     {
       "id": "s_1786553922643",
       "offsets": {},
@@ -5817,6 +5886,34 @@
       "roles": [
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1786718515761",
+      "name": "Αλέκος Σακελλάριος",
+      "nameit": "Alèkos Sakellàrios",
+      "born": "7 novembre 1913, Atene",
+      "died": "28 agosto 1991, Atene",
+      "bio": "Figlio di Pyrros Sakellarios ed Eleni Zappa (discendente del noto benefattore nazionale Konstantinos Zappas). Autore teatrale, paroliere, sceneggiatore, giornalista e regista, tra le personalità più importanti delle lettere e delle arti neogreche del Novecento.\n\nStudiò alla Facoltà di Giurisprudenza. Fu compagno di scuola di Konstantinos Karamanlis.\n\nMolto giovane iniziò a occuparsi di giornalismo, disegnando i primi giochi di parole, per poi dedicarsi alla cronaca dell'epoca.\n\nFu tra i più importanti rinnovatori della commedia neogreca del dopoguerra e tra i più significativi parolieri della canzone leggera greca. Scrisse quasi 200 opere teatrali, un gran numero di sceneggiature e circa 2000 canzoni. Girò e diresse con successo oltre 50 film.\n\nNel 1946 iniziò una brillante carriera anche nel cinema, quando, su richiesta del produttore Filippos Finos, diresse il film \"Παπούτσι από τον τόπο σου\", su una sceneggiatura propria e di Christos Gia[nnakopoulos, nome troncato nella fonte] — dando inizio a un lungo sodalizio con la casa di produzione Finos Film.\n\nNonostante la sua versatilità come regista, sceneggiatore e paroliere, il suo desiderio iniziale era diventare attore.\n\nPrima della morte scrisse una ricca autobiografia narrativa, intitolata \"Λες και ήταν χτες\" (\"Come se fosse ieri\"), un'antologia di momenti rari e inediti dell'epoca d'oro del cinema greco.\n\nIl giornalista Freddy Germanos disse delle sue commedie che non erano semplicemente tra le più intelligenti mai scritte in lingua greca, ma, dietro la leggerezza apparente, contenevano profonde incisioni sulla realtà greca — senza che Sakellarios ostentasse mai il proprio bisturi, \"ti operava senza che te ne accorgessi\".\n\nTrascorse gli ultimi anni della vita con la terza moglie, Konstantina Vrettou-Sakellariou.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/sakellarios.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1786719043864",
+      "name": "Αλίκη Βουγιουκλάκη",
+      "nameit": "Alìki Vughiuklàki",
+      "born": "20 luglio 1934, Marousi",
+      "died": "23 luglio 1996, Atene",
+      "bio": "Nome completo: Aliki-Stamatina Vougiouklaki. Attrice greca di teatro e cinema, e imprenditrice teatrale, una delle attrici più popolari e commercialmente più affermate nella storia dello spettacolo greco.\n\nNel 1952 sostenne l'esame d'ammissione alla Scuola di Recitazione del Teatro Nazionale, da cui si diplomò con il massimo dei voti.\n\nDebuttò a teatro nel 1953 con \"Il malato immaginario\" di Molière, mentre era ancora studentessa al secondo anno della Scuola. L'anno seguente esordì al cinema con il film \"Το Ποντικάκι\".\n\nFu presto proclamata (inizialmente dal produttore Filippos Finos) \"Εθνική Σταρ\" \"Stella Nazionale\" della Grecia. Recitò come protagonista in 42 film, tra cui alcune produzioni internazionali, la maggior parte dei quali divennero enormi successi al botteghino.\n\nNel 1960 vinse il Primo Premio come Miglior Attrice Protagonista al Primo Festival di Salonicco per l'interpretazione nel film \"Mantalena\", diretto da Dinos Dimopoulos.\n\nIl suo primo compagno fu Marios Ploritis. Il 18 gennaio 1965 sposò Dimitris Papamichail, compagno di corso alla Scuola di Recitazione; il 4 giugno 1969 nacque il figlio Giannis. La coppia divorziò il 5 luglio 1975. Insieme recitarono in molti film e opere teatrali, tra i più commerciali e riusciti della storia del cinema greco.\n\nPer l'intera Grecia del dopoguerra, Aliki rappresentò un simbolo luminoso, quasi l'incarnazione della favola di Cenerentola resa possibile, un'attrice che si è quasi identificata con la storia recente del paese.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vugiuklaki.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
