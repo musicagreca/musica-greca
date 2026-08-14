@@ -1064,7 +1064,8 @@ function renderElencoCanzoni(){
       h+='<span class="list-num" style="color:var(--t3)">&#8627;</span>';
       h+='<div class="list-main c-song-row" data-sid="'+s.id+'">';
       h+='<div class="list-title" style="font-style:italic">'+esc(item.aliasName)+'</div>';
-      h+='<div class="list-sub">&#8594; '+esc(s.tgr)+'</div>';
+      var aliasTarget=(dispScript==='it'&&s.tit)?s.tit:s.tgr;
+      h+='<div class="list-sub">&#8594; '+esc(aliasTarget)+'</div>';
       h+='</div><span class="c-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer">&rarr;</span></div>';
     } else {
       num++;
