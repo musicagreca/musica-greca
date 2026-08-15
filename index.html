@@ -663,7 +663,16 @@ function invertName(name){
   var w=(name||'').trim().split(/\s+/);
   return w.length>1?w[w.length-1]+' '+w.slice(0,-1).join(' '):name;
 }
-function hideImg(el){el.style.display='none';}
+function hideImg(el){
+  var src=el.getAttribute('src')||'';
+  if(/\.jpe?g$/i.test(src) && !el._triedAltExt){
+    el._triedAltExt=true;
+    var altSrc = /\.jpeg$/i.test(src) ? src.replace(/\.jpeg$/i,'.jpg') : src.replace(/\.jpg$/i,'.jpeg');
+    el.src=altSrc;
+    return;
+  }
+  el.style.display='none';
+}
 /* ── NOTE ENGINE ── */
 var ITS=['DO','DO#','RE','RE#','MI','FA','FA#','SOL','SOL#','LA','LA#','SI'];
 var ITF=['DO','REB','RE','MIB','MI','FA','SOLB','SOL','LAB','LA','SIB','SI'];
@@ -1361,7 +1370,7 @@ function renderPersonaVirtuale(name){
     }
     if(roles.length) linked.push({s:s,roles:roles});
   });
-  var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore'};
+  var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Strumentista'};
   var RC={at:'rp-at',am:'rp-am',ar:'rp-ar'};
   var linkedH='';
   if(linked.length){
@@ -1412,7 +1421,7 @@ function doPrint(){
 }
 
 /* ── SCHEDA PERSONA ── */
-var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore'};
+var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Strumentista'};
 var RC={at:'rp-at',am:'rp-am',ar:'rp-ar'};
 function renderPersona(){
   var p=persons.filter(function(x){return x.id===curPersonId;})[0];
