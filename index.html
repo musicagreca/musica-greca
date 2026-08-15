@@ -651,7 +651,7 @@ function isLatinName(name){
 }
 function isIgnoreLast(name){
   var n=(name||'').trim().toLowerCase();
-  return n==='tradizionale'||n==='sconosciuto';
+  return n==='tradizionale'||n==='sconosciuto'||n==='vedi approfondimento';
 }
 function personGroupLetter(name){
   if(isIgnoreLast(name)) return '#';
@@ -945,9 +945,9 @@ function renderElencoCanzoni(){
   // Autori musica/testo/esecutori unici
   var amSet=[], atSet=[], arSet=[];
   songs.forEach(function(s){
-    if(s.am&&s.am.trim()&&amSet.indexOf(s.am.trim())<0) amSet.push(s.am.trim());
-    if(s.at&&s.at.trim()&&atSet.indexOf(s.at.trim())<0) atSet.push(s.at.trim());
-    if(s.ar){ s.ar.split(',').map(function(n){return n.trim();}).filter(Boolean).forEach(function(n){ if(arSet.indexOf(n)<0) arSet.push(n); }); }
+    if(s.am&&s.am.trim()&&!isIgnoreLast(s.am)&&amSet.indexOf(s.am.trim())<0) amSet.push(s.am.trim());
+    if(s.at&&s.at.trim()&&!isIgnoreLast(s.at)&&atSet.indexOf(s.at.trim())<0) atSet.push(s.at.trim());
+    if(s.ar){ s.ar.split(',').map(function(n){return n.trim();}).filter(Boolean).filter(function(n){return !isIgnoreLast(n);}).forEach(function(n){ if(arSet.indexOf(n)<0) arSet.push(n); }); }
   });
   var elCmp=function(a,b){return a.localeCompare(b,'el');};
   amSet.sort(elCmp); atSet.sort(elCmp); arSet.sort(elCmp);
