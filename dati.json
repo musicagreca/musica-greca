@@ -1,8 +1,38 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-15T03:06:03.091Z",
+  "exportedAt": "2026-08-15T09:46:29.417Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786781346676",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μπάμπης Γκολές",
+          "year": "1992?",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=G7a-oRHMcxI&list=RDG7a-oRHMcxI&start_radio=1"
+        }
+      ],
+      "date": "2026-08-15",
+      "tgr": "Τικ-τακ",
+      "tit": "tik tak",
+      "alias": "Τικι τικι τακ",
+      "at": "vedi approfondimento",
+      "am": "vedi approfondimento",
+      "yr": "1910",
+      "ar": "vedi approfondimento",
+      "lb": "",
+      "gn": "Smirneico",
+      "dr": "",
+      "bal": "Chasaposervikos",
+      "ll": "",
+      "li": "",
+      "ch": "REm                    LA          REm\nTικ τικ τίκι τίκι τακ κάν' η καρδιά μου\n LA     REm   LA      REm\nσαν σε βλέπω να διαβαίνεις\nREm                     LA       REm\nΤικ τικ τίκι τίκι τακ θέλω πουλί μου\nLA     REm   LA        REm\nνα μαντεύω, που πηγαίνεις\n\nRE           LA          RE\nΘέλω πουλί μου να σε ρωτήσω\nRE       LA           REm\nφοβούμαι μη σε δυσαρεστήσω\n   SOLm         REm\nΓιατί όταν σου μιλώ\n        SOLm           LA\nαρχίζει της καρδιάς το τικ\n          REm\nτίκι- τίκι-τακ\n   SOLm         REm\nΓιατί όταν σου μιλώ\n        SOLm           LA\nαρχίζει της καρδιάς το τικ\n          REm\nτίκι- τίκι-τακ\n\nREm            LA                  REm\nΤικ τικ τίκι τίκι τακ κάν' η καρδιά μου\n  LA       REm   LA   REm\nσαν με γέλιο με κοιτάζεις\nREm                     LA        REm\nΤικ τικ τίκι τίκι τακ τρελό πουλί μου\n  LA  REm   LA     REm\nάμα πάντα με πειράζεις\n\nRE           LA          RE\nΘέλω πουλί μου να σε ρωτήσω\nRE       LA           REm\nφοβούμαι μη σε δυσαρεστήσω\n   SOLm         REm\nΓιατί όταν σου μιλώ\n        SOLm           LA\nαρχίζει της καρδιάς το τικ\n          REm\nτίκι- τίκι-τακ\n   SOLm         REm\nΓιατί όταν σου μιλώ\n        SOLm           LA\nαρχίζει της καρδιάς το τικ\n          REm\nτίκι- τίκι-τακ",
+      "tr": "Tik tak\n\nTik tik tìki tìki tak kàn' i kardiá mu\nsan se vlèpo na diavènis\nTik tik tìki tìki tak thèlo pulì mu\nna madèvo, pu pighènis\n\nThèlo pulì mu na se rotìso\nfovùme mi se disarestìso\nGhiatì òtan su milò\narchìzi tis kardiás to tik\ntìki-tìki-tak\n\nTik tik tìki tìki tak kàn' i kardiá mu\nsan me ghèlio me kitàzis\nTik tik tìki tìki tak trelò pulì mu\nàma pànta me pirázis\n\nThèlo pulì...",
+      "ti": "Tic tac\n\nTic tic ticchi ticchi tac fa il mio cuore\nquando ti vedo passare\nTic tic ticchi ticchi tac, voglio, uccellino mio,\nindovinare dove vai\n\nVoglio, uccellino mio, chiederti\nho paura di dispiacerti\nPerché quando ti parlo\ninizia il tic del cuore\ntic-tic-tac\n\nTic tic ticchi ticchi tac fa il mio cuore\nquando mi guardi ridendo\nTic tic ticchi ticchi tac, uccellino matto mio,\nvisto che mi prendi sempre in giro\n\nVoglio, uccellino mio...\n\nNote alla traduzione\n\nπουλί μου (pulì mu, letteralmente \"uccellino mio\") è un vezzeggiativo affettuoso molto comune in greco, rivolto alla persona amata, equivalente a \"tesoro mio\"/\"amore mio\".\nL'onomatopea \"τικ τικ τίκι τίκι τακ\" (tic tic ticchi ticchi tac) riproduce il battito accelerato del cuore, usata come ritornello-gioco fonico che scandisce l'emozione dell'innamoramento.\n\"τρελό πουλί μου\" (uccellino matto mio) rafforza in chiave scherzosa il vezzeggiativo iniziale, sottolineando il carattere birichino/scherzoso della persona amata.",
+      "no": "[[2026-08-10| vai all'approfondimento sul brano]]"
+    },
     {
       "id": "s_1786722372175",
       "offsets": {},
@@ -39,7 +69,7 @@
       "yr": "1966",
       "ar": "Αλίκη Βουγιουκλάκη",
       "lb": "",
-      "gn": "",
+      "gn": "Laikà",
       "dr": "",
       "bal": "",
       "ll": "https://www.youtube.com/watch?v=bJI_7eG8pkU&list=RDbJI_7eG8pkU&start_radio=1",
@@ -103,8 +133,8 @@
       "tgr": "Έ ντε λα μαγκέν ντε Βοτανίκ",
       "tit": "E de la maghèn de Votanìk",
       "alias": "Έντε λα μαγκέτε Bοτανίκ",
-      "at": "incerto",
-      "am": "incerto",
+      "at": "vedi approfondimento",
+      "am": "vedi approfondimento",
       "yr": "1975",
       "ar": "Σπύρος Ζαγοραίος",
       "lb": "",
@@ -3418,6 +3448,14 @@
   ],
   "args": [
     {
+      "id": "a_1786786211534",
+      "title": "\"Tiki Tiki Tak\" — il viaggio di una canzone tra Italia, Costantinopoli, Grecia e New York",
+      "tag": "storie di canzoni",
+      "date": "2026-08-10",
+      "body": "L'origine napoletana\nTutto ha inizio a Napoli, con la canzone \"Questa non si tocca?\", musica di Vincenzo Di Chiara (1864-1937) e testo di Antonio Barbieri (1859-1931). Il brano fu premiato al Concorso \"La Tavola Rotonda\" durante il festival di Piedigrotta 1910, e pubblicato quello stesso anno dall'editore napoletano F. Bideri, all'interno della raccolta \"Piedigrotta 1910, La Tavola Rotonda\" (Anno XIX, nn. 38-39-40), insieme ad altre sette canzoni premiate. La partitura originale, a tre righi (due per pianoforte, uno per la voce), è oggi conservata presso la Biblioteca del Conservatorio di Musica \"Domenico Cimarosa\" di Avellino  https://musicagreca.github.io/musica-greca/images/spartitotiktakit.png\n.\nDi Chiara era già un nome affermato della canzone napoletana, autore — tra le altre cose — della celeberrima \"La Spagnola\" (1906).\nLa prima registrazione ritrovata: Amelia Bruno, 1916, Stati Uniti\nSei anni dopo la pubblicazione della partitura, la canzone fu incisa negli Stati Uniti dalla cantante Amelia Bruno, per l'etichetta Victor (catalogo 67929, matrice B-17664) — probabilmente destinata al ricco mercato discografico della comunità italo-americana dell'epoca. Questa registrazione è oggi conservata e liberamente ascoltabile grazie alla Discography of American Historical Recordings (DAHR), il database dell'Università della California-Santa Barbara dedicato alla conservazione delle registrazioni storiche americane su 78 giri .\nhttps://adp-assets.library.ucsb.edu/jvm_victor_67929_01_b17664_01/jvm_victor_67929_01_b17664_01d.mp3\n\nL'adattamento greco: da Costantinopoli al mondo\nCome già accadde per moltissime canzoni italiane e francesi di successo nella Costantinopoli cosmopolita di inizio Novecento, anche \"Questa non si tocca?\" fu adattata con testo greco, con il titolo \"Τικ τακ\" / \"Τίκι τίκι τακ\".\nLa prima incisione greca conosciuta è quella di Ioannis P. Agiasmatzis, registrata a Costantinopoli su etichetta Gramophone (matrice 417d/2-12222). Alcuni cataloghi online riportano erroneamente la data 1904 per questa registrazione: una datazione impossibile, visto che precederebbe di sei anni la stessa pubblicazione italiana. La ricostruzione storica più accreditata colloca invece questa incisione tra la fine del 1910 e il 1911, cioè immediatamente dopo l'uscita della canzone a Napoli, a conferma della straordinaria rapidità con cui certe melodie di successo attraversavano il Mediterraneo in quegli anni.\nIl brano ebbe subito grande fortuna nell'ambiente discografico greco-orientale, con numerose incisioni negli anni successivi: Estudiantina Tsanaka (Costantinopoli, circa 1911, Orfeon 2023-11578); Petros Zounarakis (Costantinopoli, anni 1910, American Record 2977https://www.youtube.com/watch?v=x7_PppVfPLc&list=RDx7_PppVfPLc&start_radio=1 , e nuovamente probabilmente nel 1913, Favorite 30-q-7-59001); Giagkos Psamathianos, vero nome Giannis Kalaitzoglou (Costantinopoli, probabilmente 1913, Favorite 45-q-7-55014) .\nhttps://www.youtube.com/watch?v=6l_jtM3sxe0&list=RD6l_jtM3sxe0&start_radio=1\nLe edizioni a stampa greche confermano la popolarità raggiunta dal brano: fu pubblicato sia a Smirne, dalla casa editrice Dimitrios K. Rallis (titolo \"Τικ τακ καν' η καρδιά μου\", arrangiamento di Stefanos Diamantis), sia ad Atene, dalla casa editrice E. G. Stavrolemis \"Ai Mousai\" (titolo \"Τικ τικ τακ καμν' η καρδιά μου\", trascrizione di Vasileios Sideris) https://musicagreca.github.io/musica-greca/images/spartitotiktakgr.png \n.\nIl salto a New York\nIl brano seguì poi la rotta dell'emigrazione greca fino a New York, dove nel novembre 1919 fu inciso da Georgios Kanakis (voce di soprano) e Menelaos Theletridis (voce di baritono), su etichetta Panhellenion (4680-7008-B) https://www.youtube.com/watch?v=jlhUIHSHeyg&list=RDjlhUIHSHeyg&start_radio=1.\nUna comparsa ulteriore, particolarmente curiosa, si trova nel gennaio 1927: il motivo del brano fu riutilizzato nei primi 25 secondi di una registrazione di Teatro delle Ombre (Karagiozis) intitolata \"Ο Καραγκιόζης δικηγόρος\", realizzata a New York da Mike Patrinos per la Columbia USA (matrice W107524-2, disco 7036-F, con ristampa anche su Columbia UK) https://www.youtube.com/watch?v=YxK-QIy4R0w&list=RDYxK-QIy4R0w&start_radio=1. Patrinos — nome di nascita Konstantinos Kalogeras, che usò anche lo pseudonimo Ntinos Theodoropoulos durante il periodo americano — sarebbe poi tornato in Grecia, diventando uno dei più celebri karagiozopaichtis (burattinai del Teatro delle Ombre) del paese, stabilendosi a Patrasso —  da cui il nome d'arte con cui è ricordato.\nIl ritorno in Grecia: Vamvakaris, 1967\nIl brano conobbe un'ultima, sorprendente rinascita quasi mezzo secolo dopo la sua composizione: nel 1967, ad Atene, fu inciso da Markos Vamvakaris insieme a Soula Stratou, con il titolo \"Τικ τακ κάνει η καρδιά μου\", su 45 giri RCA Victor (7RCAGR-1987, 48g 2704)  un ultimo, significativo attraversamento generazionale per una melodia nata quasi sessant'anni prima in un concorso di canzone napoletana  https://www.youtube.com/watch?v=tgE2uLIXSM0&list=RDtgE2uLIXSM0&start_radio=1.\nUna storia ancora aperta\nQuella di Vamvakaris nel 1967 non è affatto l'ultima tappa di questo percorso: il brano continua a essere reinterpretato ancora oggi, a distanza di oltre un secolo dalla sua composizione originale. Decine di altre incisioni, dal vivo e in studio, si sono susseguite nei decenni successivi fino ai giorni nostri, segno che questa melodia, nata come canzonetta da concorso a Napoli nel 1910, ha saputo conquistarsi un posto stabile nella memoria musicale, popolare, capace di attraversare non solo lo spazio (dal Mediterraneo alla diaspora americana e ritorno), ma anche il tempo, restando ancora oggi viva ed eseguita.\n\nUn'ultima nota: la qualità sonora delle registrazioni storiche qui raccolte non è sempre ottimale, fruscii, distorsioni e imperfezioni a volte al limite dell'ascolto sono inevitabili, trattandosi in molti casi delle uniche copie sopravvissute di dischi a 78 giri vecchi di oltre un secolo. Ci scusiamo in anticipo per questo, ma abbiamo scelto di condividerle comunque: sono testimonianze rare e preziose, spesso irripetibili, e ci sembrava più importante farle ascoltare così come sono arrivate fino a noi, piuttosto che rinunciarvi in nome di una qualità audio impossibile da pretendere a distanza di così tanto tempo.",
+      "link": ""
+    },
+    {
       "id": "a_1786763147455",
       "title": "Il fenomeno degli \"Ινδοπρεπή\" — Storia di un \"furto\" musicale tra Grecia e India",
       "tag": "storie di \"furti\"",
@@ -5922,6 +5960,35 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/vugiuklaki.jpg",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1786765695436",
+      "name": "Γιάγκος Ψαμαθιανός",
+      "nameit": "Ghiàkos Psamathianòs",
+      "born": "1870 circa, Psomatheia Costantinopoli",
+      "died": "1930 circa",
+      "bio": "Vero nome Γιάγκος Καλαϊτζόγλου\n\nCantante e armonicista greco tra i primissimi della storia della discografia greca, attivo in un arco di registrazioni che va dal 1906 al 1929. Considerato un virtuoso straordinario della voce.\n\nNato intorno al 1870 a Psomatheia (in turco Samatya), storico quartiere di Costantinopoli affacciato sul Mar di Marmara — oggi parte del distretto municipale di Fatih, nel quartiere di Koca Mustafa Pașa. Il soprannome \"Ψαμαθιανός\" deriva proprio da questa origine geografica. Morì intorno al 1930.\n\nΓιάγκος formava un sodalizio artistico con il fratello Βασίλης (Βάσος) Ψαμαθιανός. Γιάγκος suonava sempre l'armonica; in alcune registrazioni cantava anche lui, e in questi casi le etichette dei dischi riportano il nome \"Γιαγκούλης\". Nelle incisioni dove non compare questo nome, è invece Βασίλης a cantare con la sua caratteristica voce acuta — mentre Γιάγκος continua comunque a suonare l'armonica.\n\nNel 1906 incise, insieme a Petros Zounarakis, \"Γιατί σκληρή και άπονη\" — il primissimo amanès mai registrato su disco nella storia della discografia greca, pubblicato contemporaneamente ad Atene e a Costantinopoli.\n\nArtista dai toni sobri, Γιάγκος accompagnò con l'armonica moltissime registrazioni della discografia \"Politikí\" (di Costantinopoli) anche per altri cantanti, tra cui lo stesso Zounarakis e Kotsos Vlachos.\n\nInsieme al fratello, mantenne viva e salvò la tradizione popolare \"da taverna\" di Costantinopoli, probabilmente la testimonianza discografica più importante che abbiamo per quella scena musicale dell'epoca. Più della metà delle loro incisioni non sono ancora state ritrovate dai collezionisti — i dischi del periodo 1907-1908 in particolare risultano estremamente rari.\n\nSecondo una ricerca condivisa su un forum specializzato, Γιάγκος gestì un negozio a Costantinopoli fino alla metà degli anni '30, dove vendeva strumenti musicali e dischi.\n\nSecondo il ricercatore Pan. Konstantopoulos, che ha raccolto una lista dedicata di venti sue incisioni intitolata \"Γιάγκος ο Τρισμέγιστος\" (\"Giagkos il Trismegisto\"), ciascuna di queste registrazioni viene descritta come un vero e proprio diamante. Le sue scelte di repertorio risultano particolarmente interessanti perché permettono di conoscere versioni alternative e più antiche di diversi brani, da quelli di stampo rebetiko fino a canti tradizionali, con tutte le zone grigie intermedie.\n\nFu ingiustamente ridotto, nella memoria comune, quasi esclusivamente a causa di due suoi amanèdes dal linguaggio audace ed esplicito, diventati una sorta di curiosità nella discografia dell'epocam tra questi, \"Μανές μπορδέλο\" (1911, Costantinopoli).\n\nTra i dodici interpreti più prolifici di amanèdes su dischi a 78 giri nel periodo tra le due guerre, occupa il decimo posto, con 24 amanèdes incisi.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/januli.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786786723658",
+      "name": "Μπάμπης Γκολές",
+      "nameit": "Bàbis Golès",
+      "born": "5 novembre 1947, Patrasso",
+      "died": "11 gennaio 2015, Patrasso",
+      "bio": "Cantante greco di rebetiko-laikò, tra i principali esponenti della rinascita del rebetiko. Rappresentò l'anello di congiunzione tra il vecchio rebetiko classico e la canzone popolare successiva.\n\nMusicista autodidatta, iniziò a suonare chitarra e oud dall'età di 8 anni, e bouzouki dai 12. Nel 1964 fece la sua prima esibizione professionale in un caffè del quartiere Tarabourás di Patrasso.\n\nAveva una profonda conoscenza del repertorio dei dischi a 78 giri, e riportò alla luce moltissime canzoni dimenticate, spaziando tra i vari generi del rebetiko oltre ad altri stili.\n\nL'esordio discografico (1982): il paroliere Lefteris Chapsiadis diede una sua cassetta a Thodoris Sarantis della Columbia, che la passò a Dimitris Arvanitis (art director), il quale la sottopose al direttore Petsilas — rimasto colpito, decise di scommettere su di lui vista la ripresa di interesse per il rebetiko in quel periodo. Fu così messo per la prima volta in studio da Arvanitis, e ne nacque un disco di grande valore, intitolato \"Τσάρκα στα παλιά\" (1982, EMI) — sulla copertina, una vecchia fotografia del padre di Arvanitis in una taverna.\n\nDiscografia principale: \"Τσάρκα στα παλιά\" (1982), \"Ρεμπέτικη Ρομάντζα\" (1983), \"Εξωτικές Καντάδες\" (1984), \"Ρεμπέτικες Καντάδες\" (1985), fino a numerosi altri album negli anni '80, '90 e 2000, tra cui un disco dedicato a Stavros Tzouanakos (1995) e una raccolta di duetti rebetiko (1999).\n\nAi suoi funerali fu intonata, come ultimo saluto, la canzone di Apostolos Chatzichristos \"Το μαγκαλάκι\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/goles.jpg",
+      "roles": [
+        "ar",
+        "mu"
       ]
     }
   ]
