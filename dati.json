@@ -1,8 +1,67 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-15T09:46:29.417Z",
+  "exportedAt": "2026-08-15T14:54:34.948Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786805159166",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στελλάκης Περπινιάδης",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=KrwLwRzNiEk&list=RDKrwLwRzNiEk&start_radio=1"
+        },
+        {
+          "who": "Χρηστάκης",
+          "year": "1968",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=7pqCDeZeOS0&list=RD7pqCDeZeOS0&start_radio=1"
+        }
+      ],
+      "date": "2026-08-15",
+      "tgr": "Η Γάτα",
+      "tit": "I gàta",
+      "alias": "Έδιωξα Μια Γάτα",
+      "at": "Νίκος Μάθεσης",
+      "am": "Στελλάκης Περπινιάδης",
+      "yr": "1934",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE\nΈδιωξα και γω μια γάτα \n        LA    SOLm   RE\nπου 'χε γαλανά τα μάτια\nRE\nΈδιωξα και γω μια γάτα \n        LA    SOLm   RE\nπου 'χε γαλανά τα μάτια\n       SOLm           RE\nΣαν κοιμόμουνα την νύχτα\n        RE#          RE\nμου 'χωνε βαθιά τα νύχια\n      SOLm          RE\nΣαν κοιμόμουνα την νύχτα\nRE#     DOm    RE DOm  RE\nμου 'χωνε βαθιά τα νύχια\n\nRE\nΤόσους μήνες που την είχα \n     LA      SOLm     RE\nμου ξηγιότανε στην τρίχα \nRE\nΤόσους μήνες που την είχα \n     LA      SOLm     RE\nμου ξηγιότανε στην τρίχα \nRE\nΤώρα έγινε από σόι\n     LA   SOLm     RE\nκαι τα ψάρια δεν τα τρώει\nRE\nΤώρα έγινε από σόι\nRE#     DOm    RE DOm  RE\nκαι τα ψάρια δεν τα τρώει\n\nRE\nΤηνε διώχνω με γινάτι \n   LA      SOLm    RE\nκαι την άλλη μέρα νάτη\n\nRE\nΤηνε διώχνω με γινάτι \n   LA      SOLm    RE\nκαι την άλλη μέρα νάτη  \nRE\nΜου 'ρχεται με ποντικάκια \n    LA         SOLm   RE\nκαι μου κάνει κορδελάκια \nRE\nΜου 'ρχεται με ποντικάκια \nRE#     DOm    RE DOm  RE\nκαι μου κάνει κορδελάκια\n\nRE\nΤώρα βρήκα άλλη γάτα \n       LA      SOLm   RE\nπι' όμορφη και μαυρομάτα\nRE\nΤώρα βρήκα άλλη γάτα \n       LA      SOLm   RE\nπι' όμορφη και μαυρομάτα\nRE\nπονηρή κι αυτή σα γάτα \nLA        SOLm         RE\nμα τα σπάει κρυφά τα πιάτα \nRE\nπονηρή κι αυτή σα γάτα \nRE#     DOm    RE DOm  RE\nμα τα σπάει κρυφά τα πιάτα",
+      "tr": "I gàta\n\nÈdioksa ke gho mia ghàta\npu 'che ghalanà ta màtia\nSan kimòmuna tin nìchta\nmu 'chone vathià ta nìchia\nSan kimòmuna tin nìchta\nmu 'chone vathià ta nìchia\n\nTòsus mìnes pu tin ìcha\nmu ksighiòtane stin trìcha\nTòra èghine apò sòi\nke ta psària den ta trò̈i\n\nTine diòchno me ghinàti\nke tin àli mèra nàti\nMu 'rchete me pondikàkia\nke mu kàni kordelàkia\n\nTòra vrìka àli ghàta\npi' òmorfi ke mavromàta\nponirì ki aftì sa ghàta\nma ta spài kriфа̀ ta piàta",
+      "ti": "La gatta\n\nHo scacciato anch'io una gatta\nche aveva gli occhi azzurri\nQuando dormivo di notte\nmi affondava profondamente gli artigli\nQuando dormivo di notte\nmi affondava profondamente gli artigli\n\nPer tutti i mesi che l'ho avuta\nmi si spiegava per filo e per segno\nOra è diventata di razza\ne i pesci non li mangia più\n\nLa scaccio per dispetto\ne il giorno dopo eccola di nuovo\nMi viene con i topolini\ne mi fa i nastrini\n\nOra ho trovato un'altra gatta\npiù bella e con gli occhi neri\nfurba anche lei come una gatta\nma rompe i piatti di nascosto\n\nNote alla traduzione\n\nIl testo usa la metafora della \"γάτα\" (gatta) per parlare in modo scherzoso e allusivo di una donna/amante capricciosa e infedele, un espediente comune nel canzoniere popolare greco (spesso rebetiko/laiko) per trattare temi di gelosia e tradimento in chiave leggera.\nμου ξηγιότανε στην τρίχα (letteralmente \"mi si spiegava fin nel pelo/nei minimi dettagli\") è un'espressione idiomatica che significa \"mi raccontava/giustificava tutto nei minimi particolari\", qui usata ironicamente.\nΤώρα έγινε από σόι (\"ora è diventata di buona famiglia/razza\") indica ironicamente che la gatta (la donna) si dà arie, è diventata schizzinosa, \"e i pesci non li mangia più\" per sottolineare quanto sia cambiata/snob.\nμε γινάτι (me ghinàti) significa \"per dispetto/rabbia ostinata\", un termine che indica un atto compiuto per puntiglio o risentimento.\nτα σπάει κρυφά τα πιάτα (\"rompe i piatti di nascosto\") allude scherzosamente a un comportamento capriccioso e dispettoso nascosto, coerente con l'allegoria felina dell'intero brano.",
+      "no": "Un aneddoto raccontato dallo stesso Mathesis: una domenica sera del 1934 arrivò da Perpiniadis nel locale dove questi lavorava, con alcuni versi già scritti (\"Έδιωξα κι εγώ μια γάτα...\"). Perpiniadis gli chiese chi fosse questa \"Gatta\", e Mathesis gli indicò una ragazza che portava sempre con sé — la sua fidanzata dell'epoca. La canzone divenne un enorme successo, e ogni volta che la cantava, Perpiniadis pensava proprio a quella ragazza.Un dettaglio curioso sulla registrazione originale: nella prima incisione del 1934 si sente un verso di miagolio, eseguito in studio dal maestro Stelios Chrysinis."
+    },
+    {
+      "id": "s_1786792457953",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-15",
+      "tgr": "Ο σκλάβος",
+      "tit": "O sklàvos",
+      "alias": "",
+      "at": "Μελέτης Κυριακού",
+      "am": "Γιάννης Μαρκόπουλος",
+      "yr": "1979",
+      "ar": "Γιώργος Νταλάρας, Βασιλική Λαβίνα",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=ZCItLj4DVH0&list=RDZCItLj4DVH0&start_radio=1",
+      "li": "",
+      "ch": "REm          DO          REm    LAm   REm\nΉταν κάποτε παλιά ένας αφέντης με φλουριά\nREm          DO          REm    LAm   REm\nΠου 'χε σκλάβο με μυαλό μα δεν του βγήκε σε καλό\nREm          DO          REm      LAm          REm\nΕίχε ξεσηκώσει κι άλλους, αχ τι μπελάς για τους μεγάλους\nREm          DO          REm    LAm   REm\nΟ αφέντης απειλούσε και ο σκλάβος τ' απαντούσε\n\nREm                DO          SI          REm\nΚι αν δεμένο και δαρμένο, διατάξεις να με φέρουν\nREm          DO          REm    LAm   REm\nΚι απ' τα βάσανα πεθάνω, τι θα χάσεις σκέψου\nREm                DO          SI          REm\nΠρώτα-πρώτα μια για πάντα, ένας άνθρωπος θα λείψει\nREm                DO          SI          REm\nΚι όσα τώρα μου φορτώνεις, όλα εσύ θα φορτωθείς\n        LAm     REm\nΤι θα χάσεις σκέψου\n\nREm DO SI REm\nΚι όχι κέρδος πως θα βγάλεις με την πράξη σου αυτή\nDO REm LAm REm\nΜια και μυστικό κανένα, από μένα δε θα μάθεις\nLAm REm\nΤι θα χάσεις σκέψου\n\nREm DO REm LAm REm\nΚαλοσκέφτηκε ο αφέντης, κάτσε του λέει, να τα πούμε\nDO REm LA RE\nΤι να πούμε λέει ο σκλάβος, τίποτα τώρα δεν ακούμε\n\nREm SOLm\nΤην σκλαβιά μου λύνοντας καλόπιασε με\nSIb FA\nΤο κοινό συμφέρον δες\nSIb DO LAm REm\nΤο χρυσάφι σου χαρίζω, προτιμώ τη λευτεριά\n\nSOLm SIb REm\nΣτο κάτω-κάτω της γραφής γιατί να είμαι σκλάβος;\nSOLm SIb REm\nΣτο κάτω-κάτω της γραφής γιατί να είμαι σκλάβος;\nSOLm SIb REm\nΤα παιχνίδια των θεών να τα πληρώνω εγώ\nSOLm SIb REm \nΣτο κάτω-κάτω της γραφής γιατί να είμαι σκλάβος;\nDO LAm DO REm\nΣτο κάτω-κάτω της γραφής γιατί να είμαι σκλάβος;",
+      "tr": "",
+      "ti": "",
+      "no": "l brano nasce alla fine degli anni '70. La dittatura dei colonnelli in Grecia era caduta da pochi anni (1974), ma la società soffriva ancora di forti ingiustizie sociali. Il testo affronta il concetto di vera libertà: non basta cacciare un tiranno straniero se poi si viene sottomessi da nuovi padroni della stessa lingua e cultura. Racconta la storia di un padrone pieno di soldi e del suo schiavo intelligente, il quale riesce a sollevare una rivolta popolare."
+    },
     {
       "id": "s_1786781346676",
       "offsets": {},
@@ -3832,6 +3891,7 @@
       "listen": "",
       "photo": "https://i.ytimg.com/vi/Lame2CBgwRA/sddefault.jpg",
       "roles": [
+        "am",
         "ar",
         "mu"
       ]
@@ -4168,7 +4228,7 @@
       "nameit": "Ghiòrgos Dalàras",
       "born": "29 settembre 1949, Kokkinia",
       "died": "",
-      "bio": "Nato il 29 settembre 1949 a Kokkinia, Pireo, nome anagrafico Giorgos Ntaralas. Figlio di Loukas Daralas, compositore, cantante e suonatore di bouzouki, figura di primo piano nel rembetiko. Le prime memorie musicali sono legate al laïká, al rembetiko e alla musica tradizionale — il padre, gli zii e il nonno erano tutti musicisti.\n\nA 15 anni fece la sua prima apparizione pubblica come chitarrista e cantante. Nel 1967 registrò il suo primo singolo con la canzone Prosmoni (Attesa), subito censurata dalla giunta militare. Il primo album uscì nel 1969.\n\nNel 1971 incise Ο Μέτοικος, l'album che lo rivelò al grande pubblico, con musica di Georges Moustaki e testi di Dimitris Christodoulou. Da allora costruì una carriera sterminata — circa 90 album personali che hanno superato i 18 milioni di copie vendute nel mondo, con partecipazioni a più di 150 album di altri artisti. \nthetvdb\n\nCollaborò con i più grandi compositori greci — Theodorakis, Hadjidakis, Tsitsanis, Xarchakos, Loizos — e con artisti internazionali come Paco de Lucía, Al Di Meola ed Emma Shapplin. Nell'ottobre 2006 fu nominato Ambasciatore di Buona Volontà dell'UNHCR, l'Alto Commissariato ONU per i Rifugiati.",
+      "bio": "Cantante, musicista e compositore greco, nato a Kokkinia, Pireo, il 29 settembre 1949. Presenza discografica ininterrotta dalla fine degli anni '60, con vendite altissime e collaborazioni con moltissimi compositori, parolieri, cantanti e musicisti sia greci che stranieri.\n\nFiglio di Loukas Ntaralas, cantante rebetiko, e nipote di Christos, virtuoso del violino. La madre era originaria dell'Asia Minore. Le sue prime memorie musicali sono strettamente legate ai generi fondamentali della musica greca: dimotikò, smirneico, rebetiko e laikò — influenze che avrebbero segnato profondamente la sua carriera artistica, sia discografica che dal vivo.\n\nGli esordi: iniziò nel 1965, a 15 anni, suonando la chitarra e cantando sul palco \"Στου Στελλάκη\", accanto al veterano Stellakis Perpiniadis e al figlio di lui Vangelis, a Chaidari. Lo stesso Dalaras ha ammesso che il nome del padre facilitò notevolmente i suoi primi passi, aprendogli diverse porte. Iniziò a esibirsi in vari locali popolari suonando la chitarra e cantando accanto ad artisti come Kaiti Grey e Nikos Kallergis. Poco dopo fu proprio Spyros Zagoraios — amico fraterno del padre — a chiamarlo per un'ulteriore opportunità.\n\nNel 1967 fece i primi passi professionali, e nel 1968 pubblicò il suo primo disco, ottenendo subito un buon riscontro di pubblico.\n\nLa carriera: da allora la sua carriera è cresciuta enormemente, con oltre 90 dischi personali e più di 150 partecipazioni a dischi di altri artisti; le vendite complessive superano i 18 milioni di copie nel mondo. Partendo dal rebetiko e dallo smirneico, ampliò il proprio spettro musicale fino al laikò, alla canzone d'autore (éntechno), alla pop greca contemporanea, oltre a elementi tradizionali e persino bizantini o sinfonici — dimostrando una versatilità artistica fuori dal comune.\n\nNegli anni 1972-1975 si esibì nel programma \"Δειλινά\" insieme a diversi artisti dell'epoca, tra cui Stratos Dionysiou, Giannis Parios, Charoula Alexiou, Dimitra Galani, Dakis e Lizeta Nikolaou.\n\nRiconoscimenti: nell'ottobre 2006 fu proclamato \"Ambasciatore di Buona Volontà\" dell'Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR).",
       "link": "",
       "listen": "",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirap7XFkrJKnQrNPmDBdo08pdQYxtpKsn905_bKCC0w&s=10",
@@ -5989,6 +6049,76 @@
       "roles": [
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1786789355495",
+      "name": "Βασιλική Λαβίνα",
+      "nameit": "Vasilikì Lavìna",
+      "born": "26 ottobre 19xx, Atene",
+      "died": "",
+      "bio": "Cantante greca, nata ad Atene ma originaria di Messolonghi, dalla voce dal timbro particolare. Figura di rilievo della canzone greca a partire dagli anni '70.\n\nFu moglie del compositore Giannis Markopoulos, e sorella dell'altrettanto nota cantante Christiana (Christiana Lavida). Sua cugina era la cantante Eleni Vitali.\n\nCollaborò attivamente con Giannis Markopoulos, comparendo insieme a lui in diversi dischi — tra cui l'album del 1979 \"Παιχνίδι με το χρόνο\" (EMI, 1988, testi di Kostas Virvos, Kostoula Mitropoulou e Lefteris Papadopoulos) e un disco del 1981 a nome dei due insieme.\n\nFu tra le interpreti di un disco del 1974 insieme ad Apostolos Kaldaras, Giannis Parios e Charis Alexiou.\n\nCantò anche in una raccolta natalizia (\"Χρόνια πολλά\") insieme a Glykeria, Ilias Klonaridis, Nikos Nomikos e altri.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/lavina.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786790371077",
+      "name": "Γιάννης Μαρκόπουλος",
+      "nameit": "Ghiànnis Markòpulos",
+      "born": "18 marzo 1939, Iraklion Creta",
+      "died": "10 giugno 2023, Atene",
+      "bio": "Compositore greco, tra i più importanti musicisti contemporanei della Grecia.\nIl padre, Georgios Markopoulos, era stato prefetto (nomarca) del Lassithi; la madre, Eirini Aeraki, era originaria degli Sfakia. Trascorse l'infanzia a Ierapetra, città d'origine del padre, dove ricevette le prime lezioni musicali di teoria e violino presso il locale conservatorio. Le sue prime influenze provennero dalla musica locale, con le sue danze veloci e i piccoli motivi ripetuti, oltre che dalla musica classica..\n\nNel 1956 proseguì gli studi musicali al Conservatorio di Atene.\n\nL'esordio come compositore: la sua prima opera compositiva fu la colonna sonora del film \"Μικρές Αφροδίτες\" (\"Piccole Afroditi\") di Nikos Koundouros — premiata nel 1963 al Festival del Cinema di Salonicco. Fu proprio Koundouros a presentarlo agli ambienti artistici dell'epoca, facendogli conoscere Hatzidakis, Theodorakis, Leontis e Loizos. Scrisse in seguito musica per i balletti \"Θησέας\" (\"Teseo\"), \"Χιροσίμα\" (\"Hiroshima\") e \"Τρία σκίτσα για χορό\" (\"Tre schizzi per la danza\").\n\nL'esilio londinese: nel 1967, la perdita della libertà nazionale sotto la Giunta dei Colonnelli lo spinse lontano dalla Grecia, a Londra.\n\nL'opera musicale: la sua produzione, estesa per oltre 60 anni di attività, spazia dalla canzone d'autore (éntechno) e popolare (laikò) alla musica sinfonica, fino a composizioni per cinema, teatro e opera lirica. Fu tra i grandi compositori che musicarono con successo la poesia greca, mettendo in musica versi di Odysseas Elytis e altri poeti.\n\nCompose anche importanti brani in ambito laikò e rebetiko — spesso non ampiamente noti come proprie composizioni — interpretati da artisti come Giannis Poulopoulos, Vicky Moscholiou e Stelios Kazantzidis, canzoni che restarono molto amate e capaci di attraversare il tempo.\n\nNel documentario a lui dedicato si fa anche riferimento all'impatto della sua opera sui giovani dell'epoca durante i difficili anni della dittatura, e alla musicazione di poesie di Giorgos Seferis nelle opere \"Ο Στράτης ο Θαλασσινός ανάμεσα στους αγάπανθους\" (1973) e \"Ταρζάν\" — oltre a un suo commento sulla tragedia dell'invasione turca di Cipro e sul ruolo degli artisti in quei momenti difficili per l'ellenismo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/markopulos.jpg",
+      "roles": [
+        "am"
+      ]
+    },
+    {
+      "id": "p_1786791225779",
+      "name": "Μελέτης Κυριακού",
+      "nameit": "Melètis Kiriakù",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Paroliere greco. Autore del testo di \"Ο σκλάβος\" (1979), musica di Giannis Markopoulos, prima interpretazione di Giorgos Dalaras e Vasiliki Lavina, dall'album \"Σεργιάνι στον κόσμο\". Non sono disponibili ulteriori informazioni biografiche.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1786804079436",
+      "name": "Νίκος Μάθεσης",
+      "nameit": "Nìkos Màthesis",
+      "born": "1907, Salamina",
+      "died": "27 aprile 1975, Pireo",
+      "bio": "Detto \"ο Τρελάκιας\", il pazzoide\n\n Paroliere tra i pionieri del rebetiko, di notevole valore artistico, ma al tempo stesso figura violenta e temuta del sottomondo semi-clandestino del Pireo, tra tekès, ambienti malavitosi e il mondo dei rebetis.\n\nIntorno al 1916-1917 la famiglia si trasferì da Salamina al Pireo.\n\nNonostante la sua vita di violenza e illegalità (arrivò a uccidere un noto criminale della zona di Freattyda, e a profanarne persino la tomba secondo un accordo precedente tra i due), Mathesis aveva un'autentica vena artistica, non solo come paroliere ma anche come disegnatore/vignettista del mondo rebetiko, oltre a essere affabulatore, narratore di aneddoti e barzellette.\n\nIl rapporto con Markos Vamvakaris: aiutò lo stesso Vamvakaris (che chiamava bonariamente \"il macellaio calmo e tranquillo\") a incidere le sue prime canzoni — nonostante una volta, durante una lite, gli avesse conficcato due forchette nel fondoschiena.\n\nDopo la guerra, collaborò anche con Vasilis Tsitsanis e Giannis Papaioannou, nel periodo in cui il rebetiko iniziava a uscire dai bassifondi per conquistare un posto nella Atene \"che conta\", pur restando lui stesso, nell'animo, sempre legato agli ambienti più autentici e periferici del genere.\n\nNonostante la sua fama di duro, considerava sacro il momento in cui un bouzouktsìs suonava un taxìmi (improvvisazione strumentale) , durante un'irruzione della polizia in un locale clandestino, disse che quando il bouzouki suona il suo taxìmi nessuno parla, come se fosse un rito in un tempio buddista.\n\nLe sue canzoni: oltre a \"Η Γάτα\" (1934, con Perpiniadis), altri suoi testi furono interpretati anche da Roza Eskenazy (già presente nel tuo database).\n\nUn'autobiografia introvabile: pare avesse scritto una propria autobiografia, che però risulta difficile da reperire anche per gli appassionati (secondo una discussione su un forum specializzato).\n\nLa monografia di riferimento: il folclorista salaminio Tasos Karantis ha scritto una monografia dedicata a lui, \"Νίκος Μάθεσης, ο θρυλικός Τρελάκιας του ρεμπέτικου\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/mathesis.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1786805513793",
+      "name": "Χρηστάκης",
+      "nameit": "Christàkis",
+      "born": "2 febbraio (?) 1924 Costantinopoli",
+      "died": "1 giugno 1981, Salonicco",
+      "bio": "Nome vero Χρήστος Σύρπος (Christos Syrpos).. Cantante e compositore greco di canzone popolare (laikò), soprannominato il \"Johnny Hallyday della Grecia\" per il temperamento interpretativo e le figure teatrali sul palco.\n\nCrebbe a Drama, dove esercitò il mestiere di idraulico, prima di entrare nel mondo della canzone su spinta e con l'aiuto del rebetis Kostas Kaplanis.\n\nGli anni di gavetta: dal 1950 al 1967 cantò come \"seconda voce\" (secondo/coro), suonando chitarra e baglamadaki accanto a grandi nomi della canzone popolare come Poly Panou e Giota Lydia.\n\nIl successo: divenne un grande nome soprattutto negli anni della dittatura, celebre per il suo temperamento interpretativo e le sue movenze sul palco. Tra i suoi maggiori successi: \"Τα μπαγλαμαδάκια\", \"Θα ζήσω ελεύθερο πουλί\", \"Έμαθα πως είσαι μάγκας\", \"Είναι το κρύο τσουχτερό\" (dall'album \"Ο τυχεράκιας\", 1968) — oltre alla sua celebre reinterpretazione del 1968 di \"Η Γάτα\" di Nikos Mathesis e Stellakis Perpiniadis, che riportò il brano a un enorme successo.\n\nNel 1968-69 si esibì insieme a Vicky Moscholiou nel programma \"Δειλινά\".\n\nComparve anche in film del cinema greco, interpretando i propri grandi successi.\n\nIl declino e gli ultimi anni: dopo la caduta della dittatura (Metapolitefsi) cadde nell'oblio, mentre i gusti musicali del pubblico cambiavano. Trascorse gli ultimi anni della vita a Nea Filadelfia; continuò a cantare per vivere in un locale popolare di Kavala, dove fu colpito da un primo ictus. Morì il 1° giugno 1981 all'ospedale IKA di Salonicco; fu sepolto a Drama.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/christakis.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
