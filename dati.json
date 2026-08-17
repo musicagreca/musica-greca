@@ -1,8 +1,133 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-16T06:21:00.498Z",
+  "exportedAt": "2026-08-17T06:47:37.713Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1786949248238",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Τόλης Χάρμας, Λίτσα Χάρμα",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=p1YUZGvqzhQ&list=RDp1YUZGvqzhQ&start_radio=1"
+        },
+        {
+          "who": "Βίκυ Μοσχολιού",
+          "year": "1964",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=hlondr0adMg&list=RDhlondr0adMg&start_radio=1"
+        }
+      ],
+      "date": "2026-08-17",
+      "tgr": "Ένα τραγούδι απ' τ' Αλγέρι",
+      "tit": "Ena tragùdi ap t'Algheri",
+      "alias": "Μπαρμπαριά",
+      "at": "Απόστολος Καλδάρας",
+      "am": "Απόστολος Καλδάρας",
+      "yr": "1948",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm           LA      REm\nΣαλπάρει το καράβι απαλά\n                LA               REm\nκαι με πάει μακριά, μες στη Μπαρμπαριά\nREm           LA        REm\nΠοθώ γλυκές νεράιδες να δω\n           LA              REm\nκάποιο κορμί ξωτικό, μαγικό χορό\n\nLA          SOLm    LA\nΝα χαϊδέψω μαύρα μαλλιά\nLA          SOLm    LA\nνα φιλήσω χείλη μελιά\nLA\nκι από μια μαργιόλα γλυκιά\nSOLm LA SOLm REm LA REm\nν' ακούσω μια βραδιά\n\n                     LA\nΈνα τραγούδι απ' τ' Αλγέρι\nSOLm    LA        REm DO LA#\nτραγούδι του καμηλιέρη\nLA#       LA     SOLm     REm\nσ' ένα γλυκό αφρικάνικο σκοπό\n\nLA          SOLm    LA\nΝα χαϊδέψω μαύρα μαλλιά\nLA          SOLm    LA\nνα φιλήσω χείλη μελιά\nLA\nκι από μια μαργιόλα γλυκιά\nSOLm LA SOLm REm LA REm\nν' ακούσω μια βραδιά\n\n                     LA\nΈνα τραγούδι απ' τ' Αλγέρι\nSOLm    LA        REm DO LA#\nτραγούδι του καμηλιέρη\nLA#       LA     SOLm     REm\nσ' ένα γλυκό αφρικάνικο σκοπό",
+      "tr": "Ena tragùdi ap t'Algheri\n\nSalpàri i varkùla apalà\nke me pài makrià, mes sti Barbariá\nPothò ghlikès neràides na do\nki apò kormì ksotikò, maghikò chorò\n\nNa chaïdèpso màvra malià na filìso chìli meliá\nki apò mia margiòla ghlikià n' akùso mia vradiá\nÈna traghùdi ap' t' Alghèri traghùdi tu kamilièri\ns' èna ghlikò afrikàniko skopò",
+      "ti": "Una canzone da Algeri\n\nLa barchetta salpa dolcemente\ne mi porta lontano, nella Barberia (Nordafrica)\nDesidero vedere dolci sirene/fate\ne un corpo esotico, in una danza magica\n\nVoglio accarezzare capelli neri, baciare labbra di miele\ne da una dolce civetta ascoltare una serata\nUna canzone da Algeri, canzone del cammelliere\nsu un dolce motivo africano\n\nNote alla traduzione\n\nΜπαρμπαριά (Barbariá) è il nome storico con cui in greco si indicava la \"Barberia\", cioè le regioni costiere del Nordafrica (attuali Algeria, Tunisia, Libia, Marocco), evocata qui come terra esotica e misteriosa.\nνεράιδες (neràides) sono le \"ninfe/fate delle acque\" della tradizione popolare greca, qui usate in senso orientaleggiante per indicare figure femminili esotiche e seducenti.\nμαργιόλα (margiòla) è un termine popolare che indica una donna civettuola, maliziosa e seducente, spesso con connotazione scherzosa/ammiccante.\nκαμηλιέρης (kamiliéris) è il \"cammelliere\", figura tipica dell'immaginario orientaleggiante/nordafricano richiamato nel testo.\nIl brano appartiene al filone delle canzoni \"esotiche\"/orientaleggianti molto in voga nella canzone leggera greca del Novecento, che immaginano viaggi verso terre lontane (Nordafrica, Medio Oriente) come luoghi di fascino, sensualità e avventura.",
+      "no": ""
+    },
+    {
+      "id": "s_1786945391319",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δόμνα Σαμίου",
+          "year": "1995",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=oEh_JF88kLo&list=RDoEh_JF88kLo&start_radio=1"
+        },
+        {
+          "who": "Κώστας \"Gust\" Δούσας",
+          "year": "1932",
+          "note": "Chicago",
+          "link": "https://www.youtube.com/watch?v=OuH8gRGvSbg&list=RDOuH8gRGvSbg&start_radio=1"
+        }
+      ],
+      "date": "2026-08-17",
+      "tgr": "Η τράτα μας η κουρελού",
+      "tit": "I tràta mas i kurelù",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "canzone tradizionale",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "LAm          REm            LAm      REm\nΗ τράτα μας η κουρελού, η χιλιομπαλωμένη\nLAm            REm        SOL         LAm\nΌλο την εμπαλώναμε κι αυτή ήταν ξηλωμένη\n\nLAm   REm   SOL LAm    REm    SOL     LAm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nLAm   REm       SOL    LAm\nΕβίρα τρεις, στο σπίτι της\n\nLAm            REm           LAm          REm\nΑν το 'ξερε η μάνα μου πως δούλευα στην τράτα\nLAm                  REm            SOL          LAm\nθα μου 'στελνε τα ρούχα μου και την παλιά μου βράκα\n\nLAm   REm   SOL LAm    REm    SOL     LAm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nLAm   REm       SOL    LAm\nΕβίρα τρεις, στο σπίτι της\n\nLAm           REm         LAm     REm\nΠήγαμε και καλάραμε κάτω στα Διονυσάρια\nLAm            REm            SOL       LAm\nκαι γέμισε η τράτα μας σουπιές και καλαμάρια\n\nLAm   REm   SOL LAm    REm    SOL     LAm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nLAm   REm       SOL    LAm\nΕβίρα τρεις, στο σπίτι της\n\nLAm                 REm       LAm      REm\nΤην τράτα μου την πούλησα στην Θεσσαλονίκη\nLAm              REm          SOL      LAm\nκαι γύρισα στη μάνα μου με δίχως μεταλλίκι\n\nLAm   REm   SOL LAm    REm    SOL     LAm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nLAm   REm       SOL    LAm\nΕβίρα τρεις, στο σπίτι της.",
+      "tr": "I tràta mas i kureloù\n\nI tràta mas i kureloù, i chiliobalomèni\nÒlo tin embalòname ki aftì ìtan ksilomèni\n\nEvìra mia, sta pianiá, evìra dio, sto chorió\nEvìra tris, sto spìti tis\n\nAn to 'ksere i màna mu pos dùleva stin tràta\ntha mu 'stelne ta rùcha mu ke tin paliá mu vràka\n\nEvìra mia...\n\nPìghame ke kalàrame kàto sta Dionisária\nke ghèmise i tràta mas supiès ke kalamária\n\nEvìra mia...\n\nTin tràta mu tin pùlisa stin Thesalonìki\nke ghìrisa sti màna mu me dìchos metallìki\n\nEvìra mia...",
+      "ti": "La nostra barca\n\nLa nostra tratta (rete da pesca a strascico), tutta stracci, rattoppata mille volte\nLa rattoppavamo sempre e lei si disfaceva di nuovo\n\nHo tirato un colpo, sulle vele, ho tirato due, verso il villaggio\nHo tirato tre, verso casa sua\n\nSe mia madre sapesse che lavoravo sulla tratta\nmi manderebbe i vestiti e i miei vecchi pantaloni\n\nHo tirato un colpo...\n\nSiamo andati a calare (le reti) giù a Dionysaria\ne si è riempita la nostra tratta di seppie e calamari\n\nHo tirato un colpo...\n\nHo venduto la mia tratta a Salonicco\ne sono tornato da mia madre senza un soldo\n\nHo tirato un colpo...\n\nNote alla traduzione\n\nτράτα (tràta) è un tipo di rete da pesca a strascico trainata da una barca, ma per estensione indica anche la barca stessa usata per questo tipo di pesca.\nεβίρα (evìra) deriva dal verbo marinaresco \"βιράρω\" (virare/tirare su una cima o una rete), qui usato come ritornello ritmico che scandisce i colpi di tirata della rete.\nκαλάραμε (kalàrame), da \"καλάρω\", è un termine marinaresco che significa \"calare\" (le reti in mare).\nμεταλλίκι (metallìki) è un termine popolare/dialettale per indicare denaro spicciolo/soldi (da \"μέταλλο\", metallo, riferito alle monete); \"δίχως μεταλλίκι\" significa \"senza un soldo\".\nIl brano appartiene al filone delle canzoni di lavoro marinaro-popolari, che raccontano con ironia e leggerezza la vita dura e precaria dei pescatori, qui narrata in prima persona da chi, dopo essersi indebitato o aver fallito con la pesca, torna a casa dalla madre a mani vuote.",
+      "no": "Il brano nasce originariamente nelle comunità costiere e nelle isole greche come canto di lavoro dei pescatori. Il ritmo cadenzato serviva a sincronizzare i movimenti dei marinai mentre tiravano a riva le reti da pesca.Con il tempo, grazie alla sua melodia orecchiabile e ripetitiva e al testo allegro e stravagante, si è trasformato in una delle più celebri canzoni d'infanzia della Grecia, insegnata ancora oggi in tutti gli asili e le scuole elementari.Il testo gioca sull'ironia e sull'assurdità della vita a bordo di questa barca sgangherata:Descrive una barca fatta di stracci che, nonostante sia vecchia e piena di buchi, continua a navigare e a pescare.Contiene rime divertenti sui membri dell'equipaggio e sui pesci che, invece di essere catturati, sembrano farsi beffe dei pescatori.Ha una struttura cumulativa o ripetitiva, ideale per i giochi di movimento dei bambini, che spesso si prendono per mano simulando il movimento delle onde o l'atto di tirare le reti."
+    },
+    {
+      "id": "s_1786944182199",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Χρήστος Σίκκης",
+          "year": "",
+          "note": "dialetto cipriota",
+          "link": "https://www.youtube.com/watch?v=Hwg4aakR944&t=51s"
+        }
+      ],
+      "date": "2026-08-17",
+      "tgr": "Η βράκα",
+      "tit": "I vraka",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò Cipro",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm\nΑ, σαράντα πήχες δίμιτο, σαράντα πήχες δίμιτο\n      REm                LAm             REm\nσου φτιάξανε μια βράκα, σου φτιάξανε μια βράκα\nMIm\nΑ, και σειέσαι και λυγίζεσαι | 2x\nREm LAm REm\nκαι περπατάς στη στράτα | 2x\n\nREm LAm REm\nΗ όμορφη σου βράκα που κάνει τρίκι-τράκα\nREm LAm REm\nκαι ποιος θα σου την πλύνει τη βράκα σου στη λίμνη\nREm LAm REm\nκαι ποιος θα την απλώσει στον ήλιο να στεγνώσει\nREm LAm REm\nκαι ποιος θ' ανάψει σίδερο να σου την σιδερώσει\nREm LAm REm\nτην όμορφη σου βράκα που κάνει τρίκι-τράκα\n\nMIm\nΑ, όταν σε βλέπω κι έρχεσαι | 2x\nREm LAm REm\n'πο την μεγάλη στράτα | 2x\nMIm\nΑ, με γιαλιστά ποδήματα | 2x\nREm LAm REm\nκαι την καινούργια βράκα | 2x\n\nREm LAm REm\nΤην όμορφη σου βράκα.",
+      "tr": "I vràka\n\nA, saràda pìches dìmito, saràda pìches dìmito\nsu ftiàksane mia vràka, su ftiàksane mia vràka\nA, ke siète ke lighìzese\nke perpatàs sti stràta\n\nI òmorfi su vràka pu kàni trìki-tràka\nke pios tha su tin plìni ti vràka su sti lìmni\nke pios tha tin aplòsi ston ìlio na steghnòsi\nke pios th' anàpsi sìdero na su tin sideròsi\ntin òmorfi su vràka pu kàni trìki-tràka\n\nA, òtan se vlèpo ki èrcheсе\n'po tin meghàli stràta\nA, me ghialistà podìmata\nke tin kenùrghia vràka\n\nTin òmorfi su vràka...",
+      "ti": "Il pantalone\n\nAh, quaranta braccia di tessuto doppio, quaranta braccia di tessuto doppio\nti hanno fatto un pantalone (vraka), ti hanno fatto un pantalone\nAh, e ti dondoli e ti pieghi\ne cammini per la strada\n\nI tuoi bei pantaloni che fanno tric-trac\ne chi te li laverà i pantaloni al lago\ne chi li stenderà al sole ad asciugare\ne chi accenderà il ferro per stirarteli\ni tuoi bei pantaloni che fanno tric-trac\n\nAh, quando ti vedo e arrivi\ndalla grande strada\nAh, con le scarpe lucide\ne i pantaloni nuovi\n\nI tuoi bei pantaloni...\n\nNote alla traduzione\n\nβράκα (vràka) è il tradizionale pantalone maschile ampio (o anche femminile, a seconda della regione) usato nel costume popolare greco, specie in Grecia continentale e nelle isole; qui è al centro della canzone come simbolo di eleganza e vanto.\nδίμιτο (dìmito) indica un tessuto tramato \"a due fili\" (da δι- \"due\" + μίτος \"filo/trama\"), una stoffa robusta e pregiata usata per confezionare indumenti tradizionali.\nπήχες (pìches, sing. πήχη/pìchi) è un'unità di misura di lunghezza tradizionale (il \"cubito\" greco, circa 60-70 cm), qui usata per indicare l'abbondanza di stoffa impiegata per il capo.\nτρίκι-τράκα (trìki-tràka) è un'onomatopea che riproduce il fruscio/rumore del tessuto pregiato in movimento mentre si cammina, usata scherzosamente per sottolineare quanto sia \"vistoso\" e pregiato il capo.\nIl brano appartiene al filone delle canzoni popolari-satiriche che celebrano in tono scherzoso un capo di abbigliamento tradizionale come emblema di eleganza, corteggiamento e ammirazione popolare.",
+      "no": "La canzone appartiene alla tradizione cipriota e quindi è cantata in dialetto cipriota. Ho riportato il testo in greco"
+    },
+    {
+      "id": "s_1786863302180",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-16",
+      "tgr": "Ας παν στην ευχή τα παλιά",
+      "tit": "As pan stin efchì ta palià",
+      "alias": "",
+      "at": "Ευτυχία Παπαγιαννοπούλου",
+      "am": "Απόστολος Καλδάρας",
+      "yr": "1969",
+      "ar": "Στέλιος Καζαντζίδης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=ki9dAK7R2Hg&list=RDki9dAK7R2Hg&start_radio=1",
+      "li": "",
+      "ch": "REm            DO      REm\nΚι αν αλλάξαμε λόγια βαριά\n         LAm        SOL  LAm\nγύρνα πίσω και ξέχασ' τα πια\n       REm         DO     FA     SOLm\nΘα σου κλείσω το στόμα με χίλια φιλιά \n       REm         DO     REm\nκαι ας πάν στην ευχή τα παλιά\n       REm         DO     FA     SOLm\nΘα σου κλείσω το στόμα με χίλια φιλιά \n       REm         DO     REm\nκαι ας πάν στην ευχή τα παλιά \n \n         DO                    LA#\nΕίναι αλήθεια μια φορά, πως με πίκρανες, αλλά\n   DO        SOLm    REm\nη καρδιά μου χωράει πολλά\n        DO                    LA#\nΈχει μάθει στη ζωή, όλα να τα συγχωρεί\n       LAm      MI     LAm\nκαι το τέλος να κάνει αρχή\n       REm         DO     FA     SOLm\nΘα σου κλείσω το στόμα με χίλια φιλιά\n       REm         DO     REm\nκαι ας πάν στην ευχή τα παλιά\n\nREm            DO      REm\nΚι αν αλλάξαμε λόγια βαριά\n         LAm        SOL  LAm\nρίξ' τα όπως και 'γω στη φωτιά\n      REm         DO     FA     SOLm\nΟι κακές αναμνήσεις να γίνουν φιλιά \n       REm         DO     REm\nκαι ας παν στην ευχή τα παλιά \n      REm         DO     FA     SOLm\nΟι κακές αναμνήσεις να γίνουν φιλιά \n       REm         DO     REm\nκαι ας παν στην ευχή τα παλιά\n\n        DO                    LA#\nΕίναι αλήθεια μια φορά, πως με πίκρανες, αλλά\n   DO        SOLm    REm\nη καρδιά μου χωράει πολλά\n        DO                    LA#\nΈχει μάθει στη ζωή, όλα να τα συγχωρεί\n       LAm      MI     LAm\nκαι το τέλος να κάνει αρχή\n       REm         DO     FA     SOLm\nΘα σου κλείσω το στόμα με χίλια φιλιά\n       REm         DO     REm\nκαι ας πάν στην ευχή τα παλιά",
+      "tr": "As pan stin efchì ta palià\n\nKi an alàksame lòghia varià\nghìrna pìso ke ksèchàs' ta pia\nTha su klìso to stòma me chìlia filiá\nke as pan stin efchì ta palià\n\nÌne alìthia mia forà, pos me pìkranes, allà\ni kardiá mu choràì pollà\nÈchi màthi sti zoì, òla na ta sinchorì\nke to tèlos na kàni archì\nTha su klìso to stòma me chìlia filiá\nke as pan stin efchì ta palià\n\nKi an alàksame lòghia varià\nrìks' ta òpos ke 'gho sti fotiá\nI kakès anamnìsis na ghìnun filiá\nke as pan stin efchì ta palià\n\nÌne alìthia mia forà...",
+      "ti": "Che vadano al diavolo le cose vecchie\n\nE anche se ci siamo scambiati parole pesanti\ntorna indietro e dimenticale ormai\nTi chiuderò la bocca con mille baci\ne che vadano al diavolo le cose vecchie\n\nÈ vero, una volta, che mi hai amareggiato, ma\nil mio cuore ha spazio per molte cose\nHa imparato nella vita a perdonare tutto\ne a fare della fine un nuovo inizio\nTi chiuderò la bocca con mille baci\ne che vadano al diavolo le cose vecchie\n\nE se ci siamo scambiati parole pesanti\ngettale, come faccio anch'io, nel fuoco\nChe i brutti ricordi diventino baci\ne che vadano al diavolo le cose vecchie\n\n\nNote alla traduzione\n\nας πάν στην ευχή (as pan stin efchì), letteralmente \"che vadano alla benedizione/preghiera funebre\", è un'espressione idiomatica greca che equivale a \"che vadano al diavolo\"/\"che se ne vadano per sempre\", usata per augurare che qualcosa scompaia definitivamente (in origine legata al rito funebre, ma usata comunemente in senso di liberazione da qualcosa di sgradito).\nθα σου κλείσω το στόμα με χίλια φιλιά (\"ti chiuderò la bocca con mille baci\") è un'immagine affettuosa e scherzosa per dire \"ti farò smettere di discutere con i baci\", un modo dolce per chiudere una lite.\nτο τέλος να κάνει αρχή (\"far sì che la fine diventi inizio\") esprime l'idea di ricominciare da capo dopo un momento difficile, un tema centrale della canzone sulla riconciliazione.",
+      "no": "In molti dischi d'epoca il testo fu firmato ufficialmente dallo stesso Kaldaras per via della nota abitudine della Papagiannopoulou di vendere i diritti dei suoi testi per necessità economiche immediate.\nApostolos Kaldaras probabilmente fece la seconda voce."
+    },
     {
       "id": "s_1786861226877",
       "offsets": {},
@@ -4703,6 +4828,7 @@
       "listen": "",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLlIfy_Td6Xrjv4WcvbLwRL5Zx6yNTQw4cNUaY_QD5SvBMvIDJcUUTn6T8eDZ-7X1mmzIWh5Pof_XToJJgMby039hs3xlZ4zhLvyvhzvl&s=10",
       "roles": [
+        "at",
         "am"
       ]
     },
@@ -6195,20 +6321,6 @@
       ]
     },
     {
-      "id": "p_1786859418161",
-      "name": "Αντώνης Καλογιάννης",
-      "nameit": "Antònis Kaloghiànnis",
-      "born": "3 agosto 1935 o 1940, Kaisarianì Attica",
-      "died": "11 febbraio 2021, Atene",
-      "bio": "Cantante greco, con voce profonda, calda ed espressiva; carriera lunghissima, distintosi sia nella canzone d'autore (éntechno) e politica, sia in quella leggera-popolare a tema amoroso.\n\nCrebbe a Kaisarianì, dove iniziò a lavorare come calzolaio.\n\nL'incontro decisivo con Mikis Theodorakis: nel 1966 (secondo alcune fonti a 26 anni), Theodorakis lo sentì cantare proprio nella sua bottega di calzolaio, un incontro che cambiò radicalmente la sua vita. Ancora nello stesso anno, iniziò a esibirsi nei concerti del grande compositore, arrivando a cantare nei più importanti spazi concertistici dell'allora Unione Sovietica, dell'Europa e dell'America, interpretando versi di Angelos Sikelianos, Giannis Ritsos e Giorgos Seferis sotto la guida dello stesso Theodorakis.\n\nCon il colpo di stato dei colonnelli nell'aprile 1967, Theodorakis fu imprigionato, e per Kalogiannis l'unica via fu la fuga all'estero — insieme a Maria Farandouri, formò un'orchestra popolare e diede concerti dal carattere apertamente politico, contribuendo alla lotta contro la dittatura.\n\nMomenti salienti della carriera: l'incisione dell'\"Inno Spirituale\" di Angelos Sikelianos; \"Κατάστασις Πολιορκίας\" (1970, insieme a Maria Farandouri); \"Ήλιος και Χρόνος / Επιφάνεια Αβέρωφ\" (1975).\n\nNegli anni '80 iniziò con il disco di Mimis Plessas e Dimitris Christodoulou \"Τραγούδια της γειτονιάς\" (1980), poi con l'album successivo \"Τα σημερινά\" (1981) si affermò definitivamente come interprete della canzone d'amore, restando poi noto anche per questo repertorio più leggero, accanto a quello storicamente più politico e d'autore.\n\nAltre grandi collaborazioni: con compositori come Stavros Xarchakos, Dimos Moutsis, Stavros Kougioumtzis, Ilias Andriopoulos, Marios Tokas, e con parolieri come Manolis Anagnostakis, Tasos Leivaditis, Dimitris Christodoulou, Lefteris Papadopoulos.\n\nUn dolore personale segnò gli ultimi anni della sua vita: la perdita improvvisa del figlio, evento che secondo le sue stesse parole fu determinante per la sua esistenza.",
-      "link": "",
-      "listen": "",
-      "photo": "https://musicagreca.github.io/musica-greca/images/kalogianis.jpg",
-      "roles": [
-        "ar"
-      ]
-    },
-    {
       "id": "p_1786860087136",
       "name": "Βαγγέλης Γκούφας",
       "nameit": "Vanghèlis Gùfas",
@@ -6236,6 +6348,65 @@
       "roles": [
         "am",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1786943237499",
+      "name": "Χρήστος Σίκκης",
+      "nameit": "Chrìstos Sìkkis",
+      "born": "sconosciuto, Aradippou vicino Larnaca",
+      "died": "",
+      "bio": "Musicista e cantante cipriota, studioso di musica tradizionale. Studiò all'Accademia Pedagogica di Cipro e lavorò come insegnante per due anni sull'isola.\n\nNel 1971 si trasferì ad Atene. Parallelamente agli studi musicali al Conservatorio Nazionale, iniziò a cantare alla radio e alla televisione greca brani tradizionali della sua terra d'origine. Dal 1973 iniziò a tenere concerti in villaggi e città sia in Grecia sia all'estero.\n\nDiscografia personale: \"Ώρα Καλή\" (1987), \"Τραγούδια από την Κύπρο\" (1990), \"Κύπρος της Γης Παράδεισος\" (1993), \"Έλληνες Ακρίτες\" (1998), \"Φύσα Βοριά μου\" (2007) — quest'ultimo album raccoglie 14 canzoni tradizionali, prevalentemente cipriote, da lui raccolte e interpretate.\n\nHa inoltre collaborato con la Fondazione Domna Samiou, ed è presente nel loro archivio come \"collaboratore\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/sikkis.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786946739550",
+      "name": "Τόλης Χάρμας",
+      "nameit": "Tòlis Chàrmas",
+      "born": "1918, Leonidio, Arcadia",
+      "died": "22 maggio 2008",
+      "bio": "Vero nome Απόστολος Χαρμαντάς \n\nCompositore, paroliere, cantante e strumentista popolare greco, della prima generazione del dopoguerra. Scrisse e interpretò oltre 150 canzoni.\n\nNato nel come Apostolos Charmantas, figlio di un suonatore di liuto (λαουτιέρης); trascorse infanzia e adolescenza nel paese natale. Nel 1936 si trasferì al Pireo in cerca di lavoro, dove conobbe Giorgos Mouzakis (con cui era stato compagno di scuola all'Accademia di Platone), decidendo insieme a lui di diventare musicista. Imparò chitarra e baglamàs; durante l'Occupazione suonava nelle taverne in cambio di un piatto di cibo.\n\nDivenne musicista professionista nel 1948, quando conobbe la donna della sua vita, la filologa Litsa Zerva (1917-1978), originaria di Tebe — che sarebbe diventata la sua compagna artistica come Λίτσα Χάρμα.\n\nIl \"Ντούο Χάρμα\" (Duo Charma): insieme formarono uno dei duo più popolari della canzone e del cinema greco. Il loro primo brano fu \"Μπλε και άσπρο\". Nel 1955 furono protagonisti del film \"Λατέρνα, φτώχεια και φιλότιμο\" di Alekos Sakellarios (già presente nel tuo database) — un grande successo, con la loro canzone \"Είμαι άντρας\" divenuta uno dei brani popolari più amati e conosciuti di sempre.\n\nDal Duo Charma iniziò, nel 1956, la grande carriera di Marinella, che scelse proprio il proprio nome d'arte ispirandosi all'omonima canzone di Tolis Charmas.\n\nSempre nel 1956, Litsa lasciò il canto per dedicarsi alla crescita dei loro due figli, Aristidis e Ioanna (quest'ultima sarebbe diventata la cantante popolare Nana Charma). Tolis proseguì da solo fino al 1967, quando emigrò negli Stati Uniti, per poi tornare in Grecia nel 1981, restando musicalmente attivo fino alla fine della sua vita (22 maggio 2008), con esibizioni in locali tradizionali.\n\nInterpretazioni in prima esecuzione: cantò per primo brani come \"Κάποια μάνα αναστενάζει\" (Vasilis Tsitsanis), \"Ένα τραγούδι απ' το Αλγέρι\" (Apostolos Kaldaras), \"Πάλι εχτές στις τρεις ήρθες να κοιμηθείς\" (Manolis Chiotis), \"Ένα καράβι απ' τον Περαία\" (Giorgos Mitsakis) — oltre a proprie composizioni come \"Η καρδιά του μάγκα\", \"Γκιουλτζαμάλ\", \"Το σφάλμα\", \"Αλήτικα μικρόβια\", \"Εδώ παπάς, εκεί παπάς\" (quest'ultima resa poi celebre nell'interpretazione di Takis Binis).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/charmas.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1786946915451",
+      "name": "Λίτσα Χάρμα",
+      "nameit": "Litsa Chàrma",
+      "born": "1917, Tebe",
+      "died": "1978",
+      "bio": "Vero nome Litsa Zerva\n\nCantante popolare greca, nata a Tebe. Filologa di formazione, formò insieme al marito Tolis Charmas il celebre Duo Charma, protagonista sia della discografia sia del cinema popolare greco degli anni '50. Lasciò le scene nel 1956 per dedicarsi alla crescita dei figli Aristidis e Ioanna (poi nota come cantante con il nome d'arte Nana Charma).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/charma.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1786948742586",
+      "name": "Βίκυ Μοσχολιού",
+      "nameit": "Vìki Moscholìu",
+      "born": "23 maggio 1943, Atene",
+      "died": "16 agosto 2005 Marousi",
+      "bio": "Vero nome Vasilikì Moscholìu\n\nCantante popolare greca, tra le migliori interpreti della canzone greca. \nTrascorse l'infanzia ad Agia Varvara, tra grandi difficoltà economiche. A soli 13 anni iniziò a lavorare in fabbrica come addetta alla bobinatura dei rocchetti (\"κορδελιάστρα\").\n\nPartecipò con successo al programma di talenti \"Χαρούμενα Ταλέντα\" di Giorgos Oikonomidis. Nella Pasqua del 1962 debuttò al locale notturno \"Δειλινά\" di Atene, dove insieme a Grigoris Bithikotsis eseguì in prima esecuzione pubblica l'Inno del 21 Aprile, \"Μέσα στ' Απρίλη τη γιορτή\" (testo di I. Karamanea, musica di A. Remoundou), in un evento del canale radiofonico YENED, con la presentazione artistica di G. Oikonomidis.\n\nConobbe casualmente il compositore Giorgos Zambetas  su un autobus, inizialmente non capì chi fosse, ma notò che la gente lo riconosceva e gli parlava. Poco dopo, per una serie di coincidenze legate a quella prima serata di debutto, fu proprio Zambetas a darle le canzoni che l'avrebbero consacrata nel panorama musicale greco.\n\nNegli anni 60 iniziò concerti in tutta la Grecia insieme a Stavros Xarchakos e Grigoris Bithikotsis; nel 1968 realizzò a proprie spese il primo grande concerto di un artista greco a Cipro.\nFu la prima cantante popolare ad abbandonare i grandi locali notturni e gli alti cachet per esibirsi nella zona della Plaka, prima allo Zoom e poi allo Zygos, creando un modo alternativo di intrattenimento, con un'etica e uno stile diversi. Per sei stagioni consecutive cantò nelle boîte di Moutsis, Markopoulos, Theodorakis e Spanos, incidendo intanto alcune delle sue canzoni più importanti, tra cui \"Έτσι είναι η ζωή\", \"Μια βραδιά στη Λάρισα\", \"Μεσόγειος\", \"Η Ρόζα η ναζιάρα\", \"Άνθρωποι Μονάχοι\".\n\nAnche durante il regime dei colonnelli, cantò dal vivo brani di Theodorakis quando questi era ovunque bandito, un gesto di cui lei stessa non amava vantarsi, raccontato invece da collaboratori.\n\nIl soprannome: il pittore Giannis Tsarouchis la definì \"la Kotopouli della canzone greca\" (paragonandola alla celebre attrice teatrale Marika Kotopouli), per la sua teatralità e la straordinaria articolazione vocale, capace di far rivivere le storie delle sue canzoni ogni volta che prendeva il microfono in mano.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/moscholiu.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
