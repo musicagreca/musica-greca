@@ -200,6 +200,8 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 .chord-box-ttl{font-size:1.05rem;font-weight:700;margin-bottom:.7rem}
 .chord-box img{max-width:100%;max-height:60vh;border-radius:6px}
 .chord-close{position:absolute;top:.5rem;right:.6rem;background:none;border:none;font-size:1.1rem;cursor:pointer;color:var(--t2)}
+#tuner-lightbox{display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:999;align-items:center;justify-content:center;padding:1rem}
+#tuner-lightbox.open{display:flex}
 </style>
 </head>
 <body>
@@ -380,6 +382,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 <div class="wrap">
   <h1 style="font-size:1.2rem;font-weight:700;margin-bottom:.3rem">Accordi per chitarra</h1>
   <p style="font-size:13px;color:var(--t3);margin-bottom:1rem">Tocca un accordo per vedere il diagramma.</p>
+  <button class="lbtn" style="margin-bottom:1rem" onclick="openTuner()">🎯 Accordatore</button>
   <div class="acc-grid" id="acc-grid"></div>
 </div>
 </div>
@@ -389,6 +392,24 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
     <div class="chord-box-ttl" id="chord-box-ttl"></div>
     <img id="chord-box-img" src="" alt="">
     <div id="chord-box-missing" style="display:none;color:var(--t3);font-size:13px;padding:2rem;text-align:center">Diagramma non ancora disponibile.</div>
+  </div>
+</div>
+<div id="tuner-lightbox" onclick="closeTuner(event)">
+  <div class="chord-box" onclick="event.stopPropagation()" style="max-width:320px">
+    <button class="chord-close" onclick="closeTuner()">✕</button>
+    <div class="chord-box-ttl">Accordatore</div>
+    <div id="tuner-permission" style="font-size:12.5px;color:var(--t3);padding:1rem 0;text-align:center">Tocca "Avvia" e consenti l'uso del microfono per accordare la chitarra.</div>
+    <div id="tuner-display" style="display:none;text-align:center;padding:1rem 0">
+      <div id="tuner-note" style="font-size:2.6rem;font-weight:800;line-height:1">—</div>
+      <div id="tuner-freq" style="font-size:11px;color:var(--t3);margin-top:2px">— Hz</div>
+      <div style="position:relative;height:34px;margin:.8rem 0">
+        <div style="position:absolute;left:0;right:0;top:15px;height:2px;background:var(--bor)"></div>
+        <div style="position:absolute;left:50%;top:6px;width:2px;height:20px;background:var(--t3)"></div>
+        <div id="tuner-cursor" style="position:absolute;top:2px;width:4px;height:28px;background:var(--acc);border-radius:2px;left:50%;transform:translateX(-50%);transition:left .1s linear"></div>
+      </div>
+      <div id="tuner-hint" style="font-size:11px;color:var(--t3)">Suona una corda</div>
+    </div>
+    <button id="tuner-toggle" class="lbtn" style="margin-top:.6rem;width:100%;text-align:center" onclick="toggleTuner()">Avvia</button>
   </div>
 </div>
 
@@ -641,6 +662,98 @@ function openChord(code){
 }
 function closeChord(ev){ el('chord-lightbox').classList.remove('open'); }
 
+/* ── ACCORDATORE ── */
+var tunerCtx=null, tunerStream=null, tunerAnalyser=null, tunerRAF=null;
+var NOTE_NAMES=['Do','Do♯','Re','Re♯','Mi','Fa','Fa♯','Sol','Sol♯','La','La♯','Si'];
+function openTuner(){ el('tuner-lightbox').classList.add('open'); }
+function closeTuner(ev){ el('tuner-lightbox').classList.remove('open'); stopTuner(); }
+function toggleTuner(){
+  if(tunerStream){ stopTuner(); return; }
+  startTuner();
+}
+function startTuner(){
+  if(!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia){
+    el('tuner-permission').textContent='Il microfono non è supportato su questo browser.';
+    return;
+  }
+  navigator.mediaDevices.getUserMedia({audio:{echoCancellation:false,noiseSuppression:false,autoGainControl:false}}).then(function(stream){
+    tunerStream=stream;
+    tunerCtx=new (window.AudioContext||window.webkitAudioContext)();
+    var src=tunerCtx.createMediaStreamSource(stream);
+    tunerAnalyser=tunerCtx.createAnalyser();
+    tunerAnalyser.fftSize=2048;
+    src.connect(tunerAnalyser);
+    el('tuner-permission').style.display='none';
+    el('tuner-display').style.display='';
+    el('tuner-toggle').textContent='Ferma';
+    tunerLoop();
+  }).catch(function(err){
+    el('tuner-permission').textContent='Accesso al microfono negato o non disponibile.';
+  });
+}
+function stopTuner(){
+  if(tunerRAF) cancelAnimationFrame(tunerRAF);
+  tunerRAF=null;
+  if(tunerStream){ tunerStream.getTracks().forEach(function(t){t.stop();}); tunerStream=null; }
+  if(tunerCtx){ tunerCtx.close(); tunerCtx=null; }
+  tunerAnalyser=null;
+  el('tuner-toggle').textContent='Avvia';
+  el('tuner-display').style.display='none';
+  el('tuner-permission').style.display='';
+  el('tuner-permission').textContent='Tocca "Avvia" e consenti l\'uso del microfono per accordare la chitarra.';
+}
+function autoCorrelate(buf, sampleRate){
+  var SIZE=buf.length;
+  var rms=0;
+  for(var i=0;i<SIZE;i++){ rms+=buf[i]*buf[i]; }
+  rms=Math.sqrt(rms/SIZE);
+  if(rms<0.01) return -1; // troppo silenzioso
+  var r1=0,r2=SIZE-1,thres=0.2;
+  for(var i=0;i<SIZE/2;i++){ if(Math.abs(buf[i])<thres){ r1=i; break; } }
+  for(var i=1;i<SIZE/2;i++){ if(Math.abs(buf[SIZE-i])<thres){ r2=SIZE-i; break; } }
+  var trimmed=buf.slice(r1,r2);
+  var newSize=trimmed.length;
+  var c=new Array(newSize).fill(0);
+  for(var i=0;i<newSize;i++){
+    for(var j=0;j<newSize-i;j++){ c[i]=c[i]+trimmed[j]*trimmed[j+i]; }
+  }
+  var d=0; while(c[d]>c[d+1]) d++;
+  var maxval=-1,maxpos=-1;
+  for(var i=d;i<newSize;i++){ if(c[i]>maxval){ maxval=c[i]; maxpos=i; } }
+  var T0=maxpos;
+  if(T0<=0) return -1;
+  var x1=c[T0-1]||c[T0], x2=c[T0], x3=c[T0+1]||c[T0];
+  var a=(x1+x3-2*x2)/2, b=(x3-x1)/2;
+  if(a) T0=T0-b/(2*a);
+  return sampleRate/T0;
+}
+function freqToNote(freq){
+  var noteNum=12*(Math.log(freq/440)/Math.log(2));
+  var rounded=Math.round(noteNum)+69; // MIDI number, A4=69
+  var name=NOTE_NAMES[((rounded%12)+12)%12];
+  var octave=Math.floor(rounded/12)-1;
+  var exactFreq=440*Math.pow(2,(rounded-69)/12);
+  var cents=Math.floor(1200*Math.log(freq/exactFreq)/Math.log(2));
+  return {name:name,octave:octave,cents:cents};
+}
+function tunerLoop(){
+  if(!tunerAnalyser) return;
+  var buf=new Float32Array(tunerAnalyser.fftSize);
+  tunerAnalyser.getFloatTimeDomainData(buf);
+  var freq=autoCorrelate(buf, tunerCtx.sampleRate);
+  if(freq!==-1 && freq>60 && freq<1200){
+    var n=freqToNote(freq);
+    el('tuner-note').textContent=n.name+n.octave;
+    el('tuner-freq').textContent=freq.toFixed(1)+' Hz';
+    var pct=Math.max(-50,Math.min(50,n.cents));
+    el('tuner-cursor').style.left=(50+pct)+'%';
+    var cursor=el('tuner-cursor');
+    if(Math.abs(n.cents)<5){ cursor.style.background='#2e9e4f'; el('tuner-hint').textContent='Accordata ✓'; }
+    else { cursor.style.background='var(--acc)'; el('tuner-hint').textContent=n.cents>0?'Un po\' crescente, allenta la corda':'Un po\' calante, tendi la corda'; }
+  }
+  tunerRAF=requestAnimationFrame(tunerLoop);
+}
+
 function lastName(name){
   var w=(name||'').trim().split(/\s+/);
   return w.length>1?w[w.length-1]:name;
@@ -767,6 +880,7 @@ function formatDate(d){
 var curPage='home', prevPage='home';
 var curSongId=null, curPersonId=null;
 var songSemi=0, songTab='chords';
+var autoscrollTimer=null, autoscrollSpeed=2;
 var alphaF={};
 
 /* ── NAVIGATION (con integrazione cronologia browser, per il tasto Indietro) ── */
@@ -1296,9 +1410,27 @@ function renderCanzone(){
   if(s.li) linksH+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank">ℹ Info</a>';
   linksH+='<button class="lbtn" style="margin-left:auto;color:var(--t2)" onclick="doPrint()">🖨 Stampa</button>';
 
-  el('wrap-canzone').innerHTML='<div class="song-card"><div class="s-hdr"><div class="s-title">'+esc(s.tgr)+'</div>'+(s.tit?'<div class="s-tit-it">'+esc(s.tit)+'</div>':'')+'<div class="s-meta">'+metaH+'</div><div class="s-links">'+linksH+'</div></div><div class="itabs">'+tabsH2+'</div><div class="s-body" id="song-content"></div></div>';
+  el('wrap-canzone').innerHTML='<div class="song-card"><div class="s-hdr"><div class="s-title">'+esc(s.tgr)+'</div>'+(s.tit?'<div class="s-tit-it">'+esc(s.tit)+'</div>':'')+'<div class="s-meta">'+metaH+'</div><div class="s-links">'+linksH+'</div></div><div class="itabs">'+tabsH2+'</div><div class="autoscroll-bar" style="display:flex;align-items:center;gap:8px;padding:.4rem .6rem;background:var(--s2);border-bottom:1px solid var(--bor);font-size:11px"><button id="autoscroll-btn" class="lbtn" onclick="toggleAutoscroll()" style="min-width:88px">▶ Scorri</button><span style="color:var(--t3)">Velocità</span><input type="range" min="1" max="10" step="1" value="'+autoscrollSpeed+'" oninput="setAutoscrollSpeed(this.value)" style="flex:1;max-width:140px"></div><div class="s-body" id="song-content"></div></div>';
   renderTab();
 }
+function toggleAutoscroll(){
+  var btn=el('autoscroll-btn');
+  if(autoscrollTimer){
+    clearInterval(autoscrollTimer);
+    autoscrollTimer=null;
+    if(btn) btn.textContent='▶ Scorri';
+  } else {
+    autoscrollTimer=setInterval(function(){
+      window.scrollBy(0, autoscrollSpeed);
+      if((window.innerHeight+window.scrollY)>=document.body.scrollHeight-2){
+        clearInterval(autoscrollTimer); autoscrollTimer=null;
+        var b=el('autoscroll-btn'); if(b) b.textContent='▶ Scorri';
+      }
+    }, 60);
+    if(btn) btn.textContent='⏸ Ferma';
+  }
+}
+function setAutoscrollSpeed(v){ autoscrollSpeed=parseFloat(v)||2; }
 function setTab(tab){ songTab=tab; renderCanzone(); }
 function renderTab(){
   var s=songs.filter(function(x){return x.id===curSongId;})[0];
