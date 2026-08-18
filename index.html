@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Μουσική — Musica Greca</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700;900&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -117,13 +120,13 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 .nseg button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
 
 /* CANZONIERE */
-.songbook{font-family:'Courier New',monospace;font-size:14px}
+.songbook{font-family:'Noto Sans Mono',monospace;font-size:14px}
 .sb-lbl{font-size:10px;font-weight:700;color:var(--t3);text-transform:uppercase;letter-spacing:.08em;display:block;margin:.25rem 0 .1rem}
 .sb-pair{margin-bottom:2px;padding-top:22px;position:relative}
 .sb-chrow{position:absolute;top:0;left:0;right:0;height:20px;overflow:visible}
-.sb-ch{position:absolute;top:0;font-family:'Courier New',monospace;font-size:15px;font-weight:900;color:#000;white-space:nowrap}
-.sb-txt{font-family:'Courier New',monospace;font-size:14px;color:var(--txt);line-height:1.1;white-space:pre;display:block;padding-bottom:2px}
-.sb-txtonly{font-family:'Courier New',monospace;font-size:14px;color:var(--txt);white-space:pre;display:block;margin-bottom:2px}
+.sb-ch{position:absolute;top:0;font-family:'Noto Sans Mono',monospace;font-size:15px;font-weight:900;color:#000;white-space:nowrap}
+.sb-txt{font-family:'Noto Sans Mono',monospace;font-size:14px;color:var(--txt);line-height:1.1;white-space:pre;display:block;padding-bottom:2px}
+.sb-txtonly{font-family:'Noto Sans Mono',monospace;font-size:14px;color:var(--txt);white-space:pre;display:block;margin-bottom:2px}
 
 /* PERSONA */
 .p-card{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);overflow:hidden}
@@ -505,7 +508,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 
   <div class="info-blk">
     <h2 class="info-h">Copyright</h2>
-    <p>I testi delle canzoni e le informazioni biografiche sono tratti da fonti pubblicamente disponibili su internet. Se qualcuno ritiene che un contenuto violi i propri diritti, o per qualsiasi segnalazione, può scrivere a <strong style="font-family:'Courier New',monospace;font-size:13px;white-space:nowrap">musicagreca [at] libero [punto] it</strong>.</p>
+    <p>I testi delle canzoni e le informazioni biografiche sono tratti da fonti pubblicamente disponibili su internet. Se qualcuno ritiene che un contenuto violi i propri diritti, o per qualsiasi segnalazione, può scrivere a <strong style="font-family:'Noto Sans Mono',monospace;font-size:13px;white-space:nowrap">musicagreca [at] libero [punto] it</strong>.</p>
   </div>
 
   <!-- ═══ FINE SEZIONE MODIFICABILE ═══ -->
@@ -524,7 +527,7 @@ var CH = 8;
 (function(){
   var c = document.getElementById('ruler');
   var ctx = c.getContext('2d');
-  ctx.font = '14px "Courier New",monospace';
+  ctx.font = '14px "Noto Sans Mono",monospace';
   CH = ctx.measureText('M').width;
 })();
 
@@ -1533,7 +1536,7 @@ function doPrint(){
     /* calcola CH per 12pt */
     var tmpC=document.createElement('canvas');
     var tmpCtx=tmpC.getContext('2d');
-    tmpCtx.font='12pt "Courier New",monospace';
+    tmpCtx.font='12pt "Noto Sans Mono",monospace';
     var CH12=tmpCtx.measureText('M').width;
     contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Testo + Accordi'+sn+'</div>'+renderSB(s,songSemi,CH12);
   } else if(songTab==='trans'){
@@ -1548,7 +1551,7 @@ function doPrint(){
   }
   var win=window.open('','_blank','width=800,height=600');
   if(!win){alert('Consenti i popup per questo file e riprova.');return;}
-  win.document.write('<!DOCTYPE html><html><head><meta charset="UTF-8"><title>'+esc(s.tgr)+'</title><style>body{font-family:Arial,sans-serif;font-size:11pt;line-height:1.7;color:#000;padding:1.5cm 2cm}.songbook{font-family:"Courier New",monospace;font-size:12pt}.sb-lbl{font-size:8pt;font-weight:700;color:#888;text-transform:uppercase;letter-spacing:.08em;display:block;margin:.3rem 0 .1rem}.sb-pair{margin-bottom:2pt;padding-top:18pt;position:relative}.sb-chrow{position:absolute;top:0;left:0;right:0;height:16pt;overflow:visible}.sb-ch{position:absolute;top:0;font-family:"Courier New",monospace;font-size:12pt;font-weight:700;color:#000;white-space:nowrap}.sb-txt{font-family:"Courier New",monospace;font-size:12pt;color:#000;line-height:1;white-space:pre;display:block}.sb-txtonly{font-family:"Courier New",monospace;font-size:12pt;color:#000;white-space:pre;display:block;margin-bottom:1pt}@page{margin:1.5cm 2cm}@media print{body{padding:0}}</style></head><body>'+contenuto+'<script>window.onload=function(){window.print();window.close();}<\/script></body></html>');
+  win.document.write('<!DOCTYPE html><html><head><meta charset="UTF-8"><title>'+esc(s.tgr)+'</title><style>body{font-family:Arial,sans-serif;font-size:11pt;line-height:1.7;color:#000;padding:1.5cm 2cm}.songbook{font-family:"Noto Sans Mono",monospace;font-size:12pt}.sb-lbl{font-size:8pt;font-weight:700;color:#888;text-transform:uppercase;letter-spacing:.08em;display:block;margin:.3rem 0 .1rem}.sb-pair{margin-bottom:2pt;padding-top:18pt;position:relative}.sb-chrow{position:absolute;top:0;left:0;right:0;height:16pt;overflow:visible}.sb-ch{position:absolute;top:0;font-family:"Noto Sans Mono",monospace;font-size:12pt;font-weight:700;color:#000;white-space:nowrap}.sb-txt{font-family:"Noto Sans Mono",monospace;font-size:12pt;color:#000;line-height:1;white-space:pre;display:block}.sb-txtonly{font-family:"Noto Sans Mono",monospace;font-size:12pt;color:#000;white-space:pre;display:block;margin-bottom:1pt}@page{margin:1.5cm 2cm}@media print{body{padding:0}}</style></head><body>'+contenuto+'<script>window.onload=function(){window.print();window.close();}<\/script></body></html>');
   win.document.close();
 }
 
