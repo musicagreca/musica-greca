@@ -1,8 +1,145 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-17T06:47:37.713Z",
+  "exportedAt": "2026-08-18T07:22:38.901Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787037715150",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+          "year": "1954",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=TDnQPx_cOSU"
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης,  Μαρινέλλα,  Γιώτα Λύδια",
+          "year": "1959",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=213qJLxDMIc"
+        },
+        {
+          "who": "Σωτηρία Μπέλλου",
+          "year": "1971",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=5swn6sgBznQ"
+        }
+      ],
+      "date": "2026-08-18",
+      "tgr": "Τα καβουράκια",
+      "tit": "Ta kavuràkia",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1954",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "SOL     DO   RE    SOL              DO   RE    SOL\nΣτου γιαλού τα βοτσαλάκια κάθονται δυο καβουράκια\nRE  DO     RE    SOL     DO     RE    SOL\nέρμα, παραπονεμένα, κι όλο κλαίνε τα καημένα\nSOL           DO      RE      SOL\nΚι η μαμά τους, η κυρία καβουρίνα\nLAm             RE       SOL\nπάει τσάρκα με το σπάρο στη Ραφήνα\nSOL           DO      RE      SOL\nΚι η μαμά τους, η κυρία καβουρίνα\nLAm             RE       SOL\nπάει τσάρκα με το σπάρο στη Ραφήνα\nLAm                    \nΚι όλο κλαίνε τα καβουράκια \nSOL                    DO    RE     SOL\nστου γιαλού, στου γιαλού τα βοτσαλάκια \n\nSOL     DO   RE    SOL              DO   RE    SOL\nΠάει ο κάβουρας το βράδυ, βρίσκει το τσαρδί ρημάδι\nRE  DO     RE    SOL     DO       RE        SOL\nΨάχνει για τη φαμελιά του και τραβάει τα μαλλιά του\nSOL              DO      RE       SOL\nΒάζει πλώρη κούτσα-κούτσα στη Ραφήνα\nLAm           RE       SOL\nνα πετύχει την κυρία καβουρίνα\nSOL              DO      RE       SOL\nΒάζει πλώρη κούτσα-κούτσα στη Ραφήνα\nLAm           RE       SOL\nνα πετύχει την κυρία καβουρίνα\n\nLAm                    \nΚι όλο κλαίνε τα καβουράκια \nSOL                    DO    RE     SOL\nστου γιαλού, στου γιαλού τα βοτσαλάκια \n\nSOL     DO   RE    SOL      DO   RE    SOL\nΤο ξημέρωμα ροδίζει και ο κάβουρας γυρίζει\nRE  DO     RE    SOL     DO       RE        SOL\nδίχως τη συμβία πάλι, κούτσα-κούτσα στ' ακρογιάλι\nSOL              DO       RE      SOL\nΜε το σπάρο τον ξενύχτη στη Ραφήνα\nLAm         RE          SOL\nπαίζει τώρα στα ρηχά η καβουρίνα\nLAm                    \nΚι όλο κλαίνε τα καβουράκια \nSOL                    DO    RE     SOL\nστου γιαλού, στου γιαλού τα βοτσαλάκια",
+      "tr": "Ta kavuràkia\n\nStu ghialù ta votsalàkia kàthonde dio kavuràkia\nèrma, parapomèna, ki òlo klène ta kaimèna\nKi i mamà tus, i kirìa kavurìna\npài tsàrka me to spàro sti Rafìna\nKi òlo klène ta kavuràkia\nstu ghialù, stu ghialù ta votsalàkia\n\nPài o kàvuras to vràdi, vrìski to tsardì rimàdi\nPsàchni ghia ti familià tu ke travài ta malià tu\nVàzi plòri kùtsa-kùtsa sti Rafìna\nna petìchi tin kirìa kavurìna\nKi òlo klène ta kavuràkia\nstu ghialù, stu ghialù ta votsalàkia\n\nTo ksimèroma rodìzi ke o kàvuras ghirìzi\ndìchos ti simvìa pàli, kùtsa-kùtsa st' akroghiàli\nMe to spàro ton ksenìchti sti Rafìna\npèzi tòra sta richà i kavurìna\nKi όlo klène ta kavuràkia\nstu ghialù, stu ghialù ta votsalàkia",
+      "ti": "I granchietti\n\nSui ciottoli della riva siedono due granchietti\nsoli, addolorati, e piangono sempre, poverini\nE la loro mamma, la signora granchiessa\nè andata a spasso col sarago a Rafina\nE piangono sempre i granchietti\nsui ciottoli, sui ciottoli della riva\n\nVa il granchio la sera, trova la tana in rovina\nCerca la sua famiglia e si strappa i capelli\nFa rotta zoppicando verso Rafina\nper trovare la signora granchiessa\nE piangono sempre i granchietti\nsui ciottoli, sui ciottoli della riva\n\nAll'alba il cielo si tinge di rosa e il granchio ritorna\nsenza la sua sposa, di nuovo zoppicando sulla spiaggia\nCol sarago rimasto sveglio tutta la notte a Rafina\ngioca ora nell'acqua bassa la granchiessa\nE piangono sempre i granchietti\nsui ciottoli, sui ciottoli della riva\n\nNote alla traduzione\n\nκαβουράκια/κάβουρας/καβουρίνα (kavuràkia/kàvuras/kavurìna) sono rispettivamente \"i granchiolini\", \"il granchio\" (padre) e \"la granchiessa\" (madre), personificati come una famiglia in questa canzone per bambini in stile umoristico-popolare.\nτσάρκα (tsàrka) è un termine popolare/dialettale che significa \"gita/passeggiata\", spesso con connotazione scherzosa o leggermente disapprovante (qui riferita alla madre che va a spasso invece di stare con i figli).\nIl testo è una filastrocca/canzone popolare in tono da fiaba per bambini, che racconta con leggerezza la vicenda di una famiglia di granchi separata, con la madre che si allontana con un altro pesce (il \"σπάρος\", il sarago) e il padre che la cerca disperato, mentre i piccoli piangono sulla spiaggia.",
+      "no": "Eftichia Papagiannopoulou rivendicò la paternità dei versi del brano, ma Tsitsanis sostenne fermamente che la canzone fosse interamente sua. La disputa non portò mai a una conclusione certa; l'opinione prevalente ammette una possibile compartecipazione di entrambi, senza però poter stabilire con precisione in che percentuale la Papagiannopoulou vi abbia contribuito. Lo stesso Tsitsanis raccontò che lei gli aveva portato una bozza su sua richiesta, ma che il risultato finale si discostava da quanto le aveva commissionato.\n\nIl contesto più ampio della loro collaborazione: Tsitsanis, secondo le fonti, tendeva a tenere segreta la collaborazione con Papagiannopoulou, quasi geloso di aver \"scoperto\" un vero tesoro nella scrittura dei testi che non voleva condividere con altri compositori. Questo, unito all'abitudine dell'epoca di non riportare il nome del paroliere sui dischi, generò diversi equivoci: molte canzoni divennero \"pomo della discordia\" tra i due, che ne rivendicavano entrambi la paternità, senza che fosse sempre chiaro chi fosse davvero l'autore principale.\n\nUn dettaglio sulla vita di lei: secondo alcune fonti, la sua urgente necessità di denaro la portò talvolta a vendere versi senza apporvi il proprio nome, pur di ottenere rapidamente i compensi.\n\n\"Τα καβουράκια\" rappresenta quindi il momento più acuto di questa tensione tra i due grandi nomi del rebetiko/laikò — un caso emblematico di come, nell'epoca in cui il nome del paroliere non compariva sui dischi, la paternità di molti testi sia rimasta contesa o incerta.anchietti"
+    },
+    {
+      "id": "s_1787035115873",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ρένα Ντάλια,  Γιάννης Παπαϊωάννου",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=JgW9J_n1VcQ&list=RDJgW9J_n1VcQ&start_radio=1"
+        },
+        {
+          "who": "Στέλλα Χασκίλ",
+          "year": "1952",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=4SzxkC_8HDo&list=RD4SzxkC_8HDo&start_radio=1"
+        }
+      ],
+      "date": "2026-08-18",
+      "tgr": "Καραπιπερίμ",
+      "tit": "Karapiperìm",
+      "alias": "Μες της πόλης τα στενά",
+      "at": "Σπύρος Περιστέρης",
+      "am": "Γιάννης Παπαϊωάννου",
+      "yr": "1952",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasaposervikos",
+      "ll": "",
+      "li": "",
+      "ch": "RE SIm FA#m SIm \nΜεσ στησ πόλησ τα στενά\nRE     FA#m       SOL\nΜια χανούμισσα γλυκιά\nSOL                  LA             RE \nΜου 'χει πάρει την καρδιά αχ\n\nRE                          LA                RE \nΚαραμπιμπερίμ αμάν έσμερ σεκερίμ\nRE                          LA                RE \nΆσε πια τα πλούτη και τον ιμπραήμ\nSOL              RE                          LA            RE \nΘά 'ρθω απόψε να σε κλέψω δεν αντέχω πια\nSOL             RE                LA                RE \nΚι ασ με ντουφεκίσουνε μεσ στη γειτονιά\nRE                          LA                RE\nΚαραμπιμπερίμ μπιμπερίμ μπιμπερίμ\nSOL             RE                LA                RE\nΆσε πια τα πλούτη και τον ιμπραήμ\n\nRE SIm FA#m SIm \nΜια βαρκούλα για τουσ δυο\nRE     FA#m       SOL\nΜασ προσμένει στο γιαλό\nSOL                  LA             RE\nΧανουμάκι μου τρελό αχ\n\nRE          LA                RE \nΚαραμπιμπερίμ αμάν έσμερ σεκερίμ\nSOL     RE         LA        RE\nΆσε πια τα πλούτη και τον ιμπραήμ\nRE SIm FA#m SIm \nΜεσ στησ πόλησ τα στενά\nRE     FA#m       SOL\nΜια χανούμισσα γλυκιά\nSOL                  LA             RE \nΜου 'χει πάρει την καρδιά αχ\n\nRE                          LA                RE \nΚαραμπιμπερίμ αμάν έσμερ σεκερίμ\nRE                          LA                RE \nΆσε πια τα πλούτη και τον ιμπραήμ\nSOL              RE                          LA            RE \nΘά 'ρθω απόψε να σε κλέψω δεν αντέχω πια\nSOL             RE                LA                RE \nΚι ασ με ντουφεκίσουνε μεσ στη γειτονιά\nRE                          LA                RE\nΚαραμπιμπερίμ μπιμπερίμ μπιμπερίμ\nSOL             RE                LA                RE\nΆσε πια τα πλούτη και τον ιμπραήμ\n\nRE SIm FA#m SIm \nΜια βαρκούλα για τουσ δυο\nRE     FA#m       SOL\nΜασ προσμένει στο γιαλό\nSOL                  LA             RE\nΧανουμάκι μου τρελό αχ\n\nRE        LA                RE \nΚαραμπιμπερίμ αμάν έσμερ σεκερίμ\nSOL         RE      LA        RE\nΆσε πια τα πλούτη και τον ιμπραήμ\nSOL         RE      LA        RE\nΘά 'ρθω απόψε να σε κλέψω δεν αντέχω πια\nSOL         RE      LA        RE\nΚι ασ με ντουφεκίσουνε μεσ στη γειτονιά\n\nRE            LA             RE \nΚαραμπιμπερίμ μπιμπερίμ μπιμπερίμ\nSOL         RE      LA        RE\nΆσε πια τα πλούτη και τον ιμπραήμ\nRE            LA              RE\nΚαραμπιμπερίμ αμάν έσμερ σεκερίμ\nSOL         RE      LA        RE\nΆσε πια τα πλούτη και τον ιμπραήμ\nSOL         RE      LA        RE\nΘά 'ρθω απόψε να σε κλέψω δεν αντέχω πια\nSOL         RE      LA        RE\nΚι ασ με ντουφεκίσουνε μεσ στη γειτονιά\nSOL         RE      LA        RE\nΚαραμπιμπερίμ μπιμπερίμ μπιμπερίμ\nSOL         RE      LA        RE\nΆσε πια τα πλούτη και τον ιμπραήμ\nSOL         RE      LA        RE\nΘά 'ρθω απόψε να σε κλέψω δεν αντέχω πια\nSOL         RE      LA        RE\nΚι ασ με ντουφεκίσουνε μεσ στη γειτονιά\n\nRE      LA                RE \nΚαραμπιμπερίμ μπιμπερίμ μπιμπερίμ\nSOL         RE      LA        RE\nΆσε πια τα πλούτη και τον ιμπραήμ\nRE            LA                RE\nΚαραμπιμπερίμ αμάν έσμερ σεκερίμ\nSOL         RE      LA        RE\nΆσε πια τα πλούτη και τον ιμπραήμ\nSOL         RE      LA        RE\nΘά 'ρθω απόψε να σε κλέψω δεν αντέχω πια\nSOL         RE      LA        RE\nΚι ασ με ντουφεκίσουνε μεσ στη γειτονιά\nSOL         RE      LA        RE\nΚαραμπιμπερίμ μπιμπερίμ μπιμπερίμ\nSOL         RE      LA        RE\nΆσε πια τα πλούτη και τον ιμπραήμ",
+      "tr": "Karapiperìm\n\nMes tis pòlis ta stenà mia chanùmisa ghlikià\nmu 'chi pàri tin kardià\n\nAch Karapiperìm, piperìm, piperìm\nAch Karapiperìm, aman èsmer sekerìm\ntha 'rtho apòpse na se klèpso, den antècho pia\nki as me tufekìsune mes sti ghitonià\nAch Karapiperìm, piperìm, piperìm\nÈsmer sekerìm, sekerìm, sekerìm\nàse pia ta plùti ke ton Ibraìm\n\nGhia ta màtia tis ta dio ipofèro ke ponò\nsklàvos tis the na ghinò\n\nAch Karapiperìm...\n\nMia varkùla ghia tus dio mas prosmèni sto ghialò\nchanumàki mu ghlikò\n\nAch Karapiperìm...",
+      "ti": "Karapiperìm\n\nNei vicoli stretti della città, una dolce hanum (dama turca)\nmi ha rubato il cuore\n\nAh Karapiperìm, piperìm, piperìm\nAh Karapiperìm, ahimè mia dolce bruna\nstasera verrò a rapirti, non resisto più\nanche se mi sparassero nel quartiere\nAh Karapiperìm, piperìm, piperìm\ndolce bruna mia, dolce mia, dolce mia\nlascia ormai le ricchezze e Ibrahim\n\nPer i suoi due occhi soffro e mi tormento\nsuo schiavo voglio diventare\n\nAh Karapiperìm...\n\nUna piccola barca per noi due ci aspetta sulla riva\nmio dolce piccolo hanum\n\nAh Karapiperìm...\n\nNote alla traduzione\n\nχανούμισσα (chanùmisa) deriva dal turco \"hanım\" (signora/dama) e indica una donna turca, spesso usata nella canzone popolare greca per evocare un'atmosfera esotica orientaleggiante.\nΚαραπιπερίμ (Karapiperìm) è un vezzeggiativo composto, probabilmente dal turco \"kara\" (nero/scuro) unito a un termine affettuoso; qui usato come nome scherzoso-affettuoso rivolto all'amata.\nέσμερ σεκερίμ (èsmer sekerìm) è un'espressione di origine turca: \"esmer\" significa \"bruna/scura di carnagione\" e \"şekerim\" significa letteralmente \"mio zucchero\", cioè \"dolcezza mia\" — un vezzeggiativo tipico.\nIl testo appartiene al filone delle canzoni \"esotiche\" ambientate nell'immaginario orientale (come \"Σαλπάρει η βαρκούλα\" visto in precedenza), con richiami linguistici turchi tipici del retaggio musicale smyrneiko/rebetiko legato ai rapporti storici tra Grecia e Impero Ottomano.",
+      "no": "Nell'edizione greca del 1952, il brano fu registrato a nome di Spyros Peristeris (musica) e Giannis Papaioannou (che suonava anche il bouzouki nell'incisione).\nGli eredi di Spyros Peristeris e di Minos Matsas sostennero legalmente che la musica originale appartenesse a Peristeris, e il testo a Matsas.\nNell'edizione americana, invece, il brano fu accreditato interamente a Giannis Papaioannou, presentato come proprio arrangiamento/adattamento"
+    },
+    {
+      "id": "s_1787030341636",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-18",
+      "tgr": "Ιστορία μου",
+      "tit": "Istorìa mu",
+      "alias": "Iστορία μου, αμαρτία μου",
+      "at": "Κώστας Ψυχογιός",
+      "am": "Γιώργος Μανισαλής",
+      "yr": "1973",
+      "ar": "Ρίτα Σακελλαρίου",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=aUL5Yhdky4s&list=RDaUL5Yhdky4s&start_radio=1",
+      "li": "",
+      "ch": "LAm            REm         LAm\nEίναι γλυκό το πιοτό της αμαρτίας\nSOL                       LAm\nΠοιος ειν' αυτός, που δεν λαχτάρησε να πιει\nREm                              LAm\nAυτή την γλύκα της κλεμμένης ευτυχίας\nFA          MI                  LAm\nλίγο πολύ όλοι την έχουμε γευτεί\n\nLAm          SOL       LAm\nIστορία μου, αμαρτία μου\nREm            LAm\nλάθος μου μεγάλο\nSOL                          LAm\nEίσ' η αρρώστια μου, μέσ' τα στήθια μου\nREm  MI     LAm\nκαι πώς να σε βγάλω\n\nLAm            REm            LAm\nΠαρακαλώ πότε να 'ρχεται το βράδυ\nSOL                          LAm\nΠότε να 'ρθεί εκείνη η ώρα η γνωστή\nREm                                    LAm\nπου θα φανείς όπως ο κλέφτης στο σκοτάδι\nFA          MI                         LAm\nκι απ' την λαχτάρα η καρδιά μου θα σφιχτεί\n\nLAm          SOL       LAm\nIστορία μου, αμαρτία μου\nREm            LAm\nλάθος μου μεγάλο\nSOL                          LAm\nEίσ' η αρρώστια μου, μέσ' τα στήθια μου\nREm  MI     LAm\nκαι πώς να σε βγάλω",
+      "tr": "",
+      "ti": "Storia mia\n\nÈ dolce il liquore del peccato\nchi è che non ha desiderato ardentemente berne\nquesta dolcezza di una felicità rubata\npiù o meno tutti l'abbiamo assaggiata\n\nStoria mia, peccato mio\nmio grande errore\nsei la mia malattia, dentro il mio petto\ne come faccio a toglierti (a liberarmene)\n\nPrego, quando arriverà la sera\nquando verrà quell'ora nota\nin cui apparirai come il ladro nel buio\ne dal desiderio il mio cuore si stringerà\n\nStoria mia... | 2x\n\nNote alla traduzione\n\nπιοτό της αμαρτίας (\"il liquore/la bevanda del peccato\") è un'immagine metaforica per indicare un amore proibito o colpevole, paragonato a una bevanda inebriante di cui non si può fare a meno.\nκλεμμένη ευτυχία (\"felicità rubata\") indica una felicità vissuta di nascosto, illecita, tipica del tema dell'amore adultero o proibito.\nL'immagine del \"κλέφτης στο σκοτάδι\" (il ladro nel buio) che appare di notte richiama l'attesa furtiva e clandestina di un incontro amoroso segreto.\nIl ritornello \"Ιστορία μου, αμαρτία μου\" (storia mia, peccato mio) personifica l'amore/la relazione stessa come un peccato di cui ci si sente prigionieri ma da cui non ci si vuole liberare.",
+      "no": ""
+    },
+    {
+      "id": "s_1787028445483",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Απόστολος Νικολαΐδης",
+          "year": "1976",
+          "note": "America",
+          "link": "https://www.youtube.com/watch?v=wh2mYV5hztM&list=RDwh2mYV5hztM&start_radio=1"
+        },
+        {
+          "who": "Βασίλης Τσιτσάνης",
+          "year": "1983",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=lfcXOQBLSoc&list=RDlfcXOQBLSoc&start_radio=1"
+        }
+      ],
+      "date": "2026-08-18",
+      "tgr": "Η λιτανεία του μάγκα",
+      "tit": "I litanìa tu mànga",
+      "alias": "Ο Αρχάγγελος",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1942",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "LA                   MI                   RE\nΣαν χριστιανός ορθόδοξος σ' αυτή την κοινωνία\nLA          MI                      LA\nεβάλθηκα ρε μάγκες μου να κάνω λιτανεία\nLA                   MI                   RE\nεβάλθηκα ρε μάγκες μου να κάνω λιτανεία\nLA                      MI                LA\nΣαν χριστιανός ορθόδοξος σ' αυτή την κοινωνία\n\nLA                   MI                   RE\nΕμάζεψα τα σέα μου κι ένα κομμάτι μαύρο\nLA                      MI                LA\nκαι ξεκινώ ρε μάγκες μου να πάω στον Άγιο Μάμα\nLA                   MI                   RE\nκαι ξεκινώ ρε μάγκες μου να πάω στον Άγιο Μάμα \nLA                  MI                LA\nΕμάζεψα τα σέα μου κι ένα κομμάτι μαύρο\n\nLA                   MI                   RE\nΜπαίνω μέσα στην εκκλησιά στις στρογγυλές καμάρες\nLA                      MI                LA\nκαι αρχινώ τις τσιμπουκιές σαν να 'τανε λαμπάδες\nLA                   MI                   RE\nκαι αρχινώ τις τσιμπουκιές σαν να 'τανε λαμπάδες\nLA                      MI                LA\nΜπαίνω μέσα στην εκκλησιά στις στρογγυλές καμάρες\n\nLA                  MI                   RE\nΜα ξάφνου ένας καλόγερος μου λέει κάνε πίσω\nLA                      MI                LA\nγιατί κι εγώ έχω σειρά τζούρα για να ρουφήξω\nLA                   MI                   RE\nγιατί κι εγώ έχω σειρά τζούρα για να ρουφήξω \nLA                      MI                LA\nΜα ξάφνου ένας καλόγερος μου λέει κάνε πίσω\n\nLA             MI                   RE\nΝάσου κι ο αρχάγγελος με μια μεγάλη φούρια\nLA                      MI                LA\nαπ' τα ντουμάνια τα πολλά τον έπιασε η μαστούρα\nLA                  MI                   RE\nαπ' τα ντουμάνια τα πολλά τον έπιασε η μαστούρα \nLA                      MI                LA\nΝάσου κι ο αρχάγγελος με μια μεγάλη φούρια\n\nLA                 MI                   RE\nΜου λέει άκου χριστιανέ δεν είναι αμαρτία\nLA                      MI                LA\nπου μπήκες μες στην εκκλησιά να κάνεις λιτανεία\nLA                MI                   RE\nπου μπήκες μες στην εκκλησιά να κάνεις λιτανεία\nLA              MI                      LA\nΜου λέει άκου χριστιανέ δεν είναι αμαρτία",
+      "tr": "I litanìa tu mànga\n\nSan christianòs orthòdoksos s' aftì tin kinonìa\nevàlthika re mànges mu na kàno litanìa\n\nEmàzepsa ta sèa mu ki èna komàti màvro\nke ksekinò re mànges mu na pào ston Àghio Màma\n\nBèno mèsa stin eklisià stis strongilès kamàres\nke archinò tis tsibukiès san na 'tane labàdes\n\nMa ksàfnu ènas kalògheros mu lèi kàne pìso\nghiatì ki eghò ècho sirà tzùra ghia na rufìkso\n\nNàsu ki o archànghelos me mia meghàli fùria\nap' ta dumània ta pollà ton èpiase i mastùra\n\nMu lèi àku christianè den ìne amartìa\npu bìkes mes stin eklisià na kànis litanìa",
+      "ti": "La processione del mangas\n\nCome cristiano ortodosso in questa società\nmi sono messo, ragazzi miei, a fare una processione\n\nHo raccolto la mia roba e un pezzo (di hashish) nero\ne parto, ragazzi miei, per andare ad Agios Mamas\n\nEntro dentro la chiesa, tra le arcate rotonde\ne comincio a tirare boccate come fossero candele\n\nMa all'improvviso un monaco mi dice fatti indietro\nperché anch'io ho il mio turno, un tiro da succhiare\n\nEd ecco arrivare l'arcangelo con gran furia\ndal troppo fumo era stato preso dallo sballo\n\nMi dice: ascolta cristiano, non è peccato\nche tu sia entrato in chiesa a fare la tua processione\n\nNote alla traduzione\n\nλιτανεία (litanìa) è la \"processione/litania\" religiosa; qui usata in senso ironico/doppio, perché in realtà il \"rito\" del protagonista è fumare hashish in chiesa.\nτζούρα (tzùra) è un termine gergale del rebetiko per indicare un tiro/boccata di narghilè o sigaretta di hashish.\nντουμάνι/ντουμάνια (dumàni/dumània), come nei brani precedenti, indica il fumo denso e per estensione lo stato di intontimento provocato dal fumo; \"τον έπιασε η μαστούρα\" significa \"fu preso dallo sballo/dall'effetto della droga\".\nIl testo, come \"Η προσευχή του μάγκα\" visto in precedenza, appartiene al filone irriverente del rebetiko dei tekedes: qui addirittura l'arcangelo, anch'egli \"sballato\" dal fumo, assolve il protagonista dicendogli che fumare in chiesa non è peccato — un capovolgimento comico e blasfemo dell'autorità religiosa, tipico dell'umorismo di questo genere musicale.",
+      "no": "Nell'inverno del 1942, mentre viveva e lavorava a Salonicco, Tsitsanis partì per un breve viaggio in Calcidica. Nel villaggio di Agios Mamas, dove soggiornava, ascoltò da un \"mortis\" (un \"duro\" del quartiere) originario di Kavala il racconto di una singolare \"processione\" (litania) che quest'ultimo avrebbe compiuto dentro una chiesa.\nTornato a Salonicco tra fine dicembre 1942 e inizio gennaio 1943, senza aver verificato se l'episodio fosse realmente accaduto, cosa che, del resto, non gli importava granché, Tsitsanis scrisse i versi del brano, intitolandolo inizialmente \"Η λιτανεία του μόρτη\", su ritmo di chasapiko.\nPoco tempo dopo cambiò il titolo in quello attuale, \"Η λιτανεία του μάγκα\" e nell'estate del 1944 ne riscrisse anche la musica, questa volta in ritmo di zeimbekiko.\nPurtroppo, dopo la fine della guerra, non fece in tempo a registrarlo, perché fu presto imposta la censura sui brani a tema \"chasiklidika\" (legati al mondo dell'hashish) — il brano rimase quindi inedito per lungo tempo.\nLa prima melodia (in chasapiko) fu riutilizzata da Tsitsanis stesso con parole diverse, incisa il 22 agosto 1950 per la Columbia con il titolo \"Τη μοίρα μου την είδα και την ξέρω\", interpretata da Prodromos Tsaousakis (sul lato B dello stesso disco a 78 giri si trovava \"Βαριά χτυπούν τα σήμαντρα\", sempre con Tsaousakis).\nMolti anni dopo, nel 1975, Apostolos Nikolaidis registrò il brano in America, con testo modificato, inserendolo nel proprio disco intitolato proprio \"Ο Αρχάγγελος\", da cui il titolo alternativo con cui la canzone viene talvolta indicata nei cataloghi.\nLa versione originale con il testo corretto, fu invece incisa dallo stesso Tsitsanis solo nel 1983, per il suo disco \"Λιτανεία\"."
+    },
     {
       "id": "s_1786949248238",
       "offsets": {},
@@ -35,9 +172,9 @@
       "ll": "",
       "li": "",
       "ch": "REm           LA      REm\nΣαλπάρει το καράβι απαλά\n                LA               REm\nκαι με πάει μακριά, μες στη Μπαρμπαριά\nREm           LA        REm\nΠοθώ γλυκές νεράιδες να δω\n           LA              REm\nκάποιο κορμί ξωτικό, μαγικό χορό\n\nLA          SOLm    LA\nΝα χαϊδέψω μαύρα μαλλιά\nLA          SOLm    LA\nνα φιλήσω χείλη μελιά\nLA\nκι από μια μαργιόλα γλυκιά\nSOLm LA SOLm REm LA REm\nν' ακούσω μια βραδιά\n\n                     LA\nΈνα τραγούδι απ' τ' Αλγέρι\nSOLm    LA        REm DO LA#\nτραγούδι του καμηλιέρη\nLA#       LA     SOLm     REm\nσ' ένα γλυκό αφρικάνικο σκοπό\n\nLA          SOLm    LA\nΝα χαϊδέψω μαύρα μαλλιά\nLA          SOLm    LA\nνα φιλήσω χείλη μελιά\nLA\nκι από μια μαργιόλα γλυκιά\nSOLm LA SOLm REm LA REm\nν' ακούσω μια βραδιά\n\n                     LA\nΈνα τραγούδι απ' τ' Αλγέρι\nSOLm    LA        REm DO LA#\nτραγούδι του καμηλιέρη\nLA#       LA     SOLm     REm\nσ' ένα γλυκό αφρικάνικο σκοπό",
-      "tr": "Ena tragùdi ap t'Algheri\n\nSalpàri i varkùla apalà\nke me pài makrià, mes sti Barbariá\nPothò ghlikès neràides na do\nki apò kormì ksotikò, maghikò chorò\n\nNa chaïdèpso màvra malià na filìso chìli meliá\nki apò mia margiòla ghlikià n' akùso mia vradiá\nÈna traghùdi ap' t' Alghèri traghùdi tu kamilièri\ns' èna ghlikò afrikàniko skopò",
-      "ti": "Una canzone da Algeri\n\nLa barchetta salpa dolcemente\ne mi porta lontano, nella Barberia (Nordafrica)\nDesidero vedere dolci sirene/fate\ne un corpo esotico, in una danza magica\n\nVoglio accarezzare capelli neri, baciare labbra di miele\ne da una dolce civetta ascoltare una serata\nUna canzone da Algeri, canzone del cammelliere\nsu un dolce motivo africano\n\nNote alla traduzione\n\nΜπαρμπαριά (Barbariá) è il nome storico con cui in greco si indicava la \"Barberia\", cioè le regioni costiere del Nordafrica (attuali Algeria, Tunisia, Libia, Marocco), evocata qui come terra esotica e misteriosa.\nνεράιδες (neràides) sono le \"ninfe/fate delle acque\" della tradizione popolare greca, qui usate in senso orientaleggiante per indicare figure femminili esotiche e seducenti.\nμαργιόλα (margiòla) è un termine popolare che indica una donna civettuola, maliziosa e seducente, spesso con connotazione scherzosa/ammiccante.\nκαμηλιέρης (kamiliéris) è il \"cammelliere\", figura tipica dell'immaginario orientaleggiante/nordafricano richiamato nel testo.\nIl brano appartiene al filone delle canzoni \"esotiche\"/orientaleggianti molto in voga nella canzone leggera greca del Novecento, che immaginano viaggi verso terre lontane (Nordafrica, Medio Oriente) come luoghi di fascino, sensualità e avventura.",
-      "no": ""
+      "tr": "Ena tragùdi ap t'Algheri\n\nSalpàri to karàvi apalà\nke me pài makrià, mes sti Barbariá\nPothò ghlikès neràides na do\nkàpio kormì ksotikò, maghikò chorò\n\nNa chaïdèpso màvra malià\nna filìso chìli meliá\nki apò mia margiòla ghlikià\nn' akùso mia vradiá\n\nÈna traghùdi ap' t' Alghèri\ntraghùdi tu kamilièri\ns' èna ghlikò afrikàniko skopò",
+      "ti": "Una canzone da Algeri\n\nLa nave salpa dolcemente\ne mi porta lontano, nella Barberia (Nordafrica)\nDesidero vedere dolci sirene/fate\nun corpo esotico, in una danza magica\n\nVoglio accarezzare capelli neri\nbaciare labbra di miele\ne da una dolce civetta\nascoltare una serata\n\nUna canzone da Algeri\ncanzone del cammelliere\nsu un dolce motivo africano\n\nNote alla traduzione\n\nΜπαρμπαριά (Barbariá): nome storico con cui in greco si indicava la \"Barberia\", le regioni costiere del Nordafrica, evocata come terra esotica e misteriosa.\nνεράιδες (neràides): le \"fate/ninfe\" della tradizione popolare greca, qui in senso orientaleggiante per indicare figure femminili seducenti.\nμαργιόλα (margiòla): termine popolare per una donna civettuola e maliziosa, con connotazione scherzosa.\nκαμηλιέρης (kamiliéris): il \"cammelliere\", figura tipica dell'immaginario orientaleggiante evocato nel testo.\nIl brano appartiene al filone delle canzoni \"esotiche\" della canzone leggera greca del Novecento, che immaginano viaggi verso terre lontane come luoghi di fascino e avventura (in questa versione la protagonista del viaggio è \"το καράβι\", la nave, invece della \"βαρκούλα\", la barchetta, della versione precedente).",
+      "no": "Ci sono, come spesso accade, delle piccole differenze di testo tra le due versioni. Ho messo il testo della versione, più ascoltata, del 1964"
     },
     {
       "id": "s_1786945391319",
@@ -6405,6 +6542,80 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/moscholiu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787026353145",
+      "name": "Απόστολος Νικολαΐδης",
+      "nameit": "Apòstolos Nikolaìdis",
+      "born": "30 giugno 1938, Drama",
+      "died": "22 aprile 1999, Atene",
+      "bio": "Cantante popolare greco. Appartenne al gruppo dei \"muratori-cantanti\" (insieme a figure come Giannis Tzivanis, Stelios Kazantzidis, Stratos Kyprios, Giannis Poulopoulos), che imparavano e intonavano canzoni popolari mentre lavoravano nei cantieri edili.\n\nLa famiglia si trasferì a Salonicco dove visse condizioni di grande privazione, senza pane a sufficienza né legna per scaldarsi. Terminate le elementari nel 1951, iniziò a lavorare con il padre nei cantieri edili, cantando per sé e per chi gli stava intorno mentre raccoglieva chiodi, travi o trasportava cemento.\n\nFu l'ascolto alla radio di Stelios Kazantzidis, interprete che ammirava profondamente, a fargli capire la propria inclinazione musicale. Nonostante l'opposizione dei genitori, comprò una chitarra e formò un trio con cui cantava per i quartieri, eseguendo i successi popolari dell'epoca.\n\nNegli anni '60 divenne una stella emergente dell'etichetta Columbia, stringendo strette collaborazioni con importanti musicisti dell'epoca (nel 1962 comparve al Centro Anemona insieme ad Apostolos Kaldaras e Giorgos Lavkas).\n\nPartì poi per gli Stati Uniti, dove realizzò le leggendarie registrazioni dei brani rebetiko \"proibiti\" (censurati in Grecia) — dando così inizio a un lungo e particolare rapporto artistico con la diaspora greca d'America.\n\nFu considerato uno dei principali esponenti della \"scuola di Kazantzidis\", al servizio della canzone popolare autentica per quasi 40 anni di carriera.\n\nNel 2022 la figlia Maria A. Nikolaidou pubblicò un'ampia monografia bilingue (greco/inglese) dedicata a lui, \"Απόστολος Νικολαΐδης / Ένας γνήσιος λαϊκός τραγουδιστής, που δεν λογοκρίθηκε ποτέ\" (Marilou Press, New York, 2022) — un volume di 508 pagine che raccoglie fotografie, pubblicità e documenti storici dell'archivio di famiglia, arricchito da testimonianze di collaboratori, amici ed estimatori che lo conobbero personalmente.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/nikolaidis.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787029048599",
+      "name": "Ρίτα Σακελλαρίου",
+      "nameit": "Rita Sakellariou",
+      "born": "22 novembre 1934, Chamezi, Lasithi, Creta",
+      "died": "6 agosto 1999, Atene",
+      "bio": "Nome di nascita Margarita Sakellariou. La madre Kalliopi era cretese, il padre di origini da Kalymnos, di professione calzolaio. Presto la famiglia lasciò Creta per stabilirsi nel quartiere popolare di Tampouria, al Pireo (secondo un'altra fonte, a Keratsini), in cerca di condizioni di vita migliori. Perse il padre durante la guerra civile.\n\nFu costretta a sposarsi giovanissima (a 14 anni secondo una fonte), avendo due figli da quel matrimonio; dopo il divorzio lavorò come operaia in una fabbrica di fertilizzanti, poi da Papastratos, e persino in una discarica.\n\nDebuttò come cantante al Mylos, a Perama, dove fu scoperta da Stelios Chrysinis, che le scrisse le prime canzoni. Collaborò poi con Vasilis Tsitsanis e Giannis Papaioannou.\n\nÈ considerata la \"regina\" della canzone popolare greca, una delle grandi signore della canzone greca in generale, con enormi successi e ammiratori appassionati, tra cui Andreas Papandreou.\n\nInterpretò brani entrati nella storia della canzone greca, come \"Λιμάνια (Το πλοίο θα σαλπάρει)\" di Vasilis Tsitsanis, considerata da alcuni la migliore versione in assoluto del brano, e \"Κάθε ηλιοβασίλεμα\" (1970, Polygram), diventata la canzone più commerciale di quell'anno. Nel 1971 pubblicò \"Ιστορία μου αμαρτία μου\".\n\nMorì colpita da una grave malattia. Sapendo di trovarsi in una condizione critica, non si arrese: organizzò una serie di dieci concerti in Australia per risollevare il morale, ma poté tenerne solo tre, poiché il male si era già esteso alle corde vocali; rientrò precipitosamente ad Atene.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/sakelariu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787029443480",
+      "name": "Κώστας Ψυχογιός",
+      "nameit": "Kostas Psychogios",
+      "born": "20 giugno 1934, Neochori Kyllinis",
+      "died": "8 marzo 2005",
+      "bio": "Compositore, paroliere e cantante popolare greco, prolifico autore della musica popolare del secondo dopoguerra, con quasi trent'anni di presenza discografica. Fin dagli anni del liceo si dedicò allo studio della musica bizantina, prima di intraprendere un percorso destinato a lasciare un'impronta profonda nella canzone popolare greca.\n\nTrasferitosi ad Atene, entrò nel mondo discografico intorno al 1962-63, esordendo come paroliere in collaborazione con il compositore Giorgos Manisalis: insieme scrissero canzoni per grandi nomi dell'epoca come Zagoraios, Kazantzidis, Xanthopoulos, Michalopoulos, Tsaousakis, Dionysiou, Mitropanos, Sakellariou, ottenendo enorme successo.\n\nUn posto speciale nel suo percorso ebbe la collaborazione con Rita Sakellariou, con canzoni come \"Ιστορία μου\" e \"Παράνομή μου αγάπη\", amate profondamente e diventate veri e propri inni di un'epoca — al punto da essere ascoltate persino alle feste private di Andreas Papandreou.\n\nNegli anni '70 iniziò a comparire anche come compositore in proprio, su dischi di Poly Panou, Kostas Kafasis e Giannis Floriniotis. A metà del decennio firmò testo e musica di dischi che fecero scalpore, come \"Γέλα κυρία μου\" (1975) e \"Κατάλαβέ με\" (1976) di Kostas Kafasis, con testi innovativi, audaci e diretti per gli standard dell'epoca. Verso la fine della carriera fu costretto a diventare anche interprete dei propri brani.\n\nEra imparentato (cugino) con il folclorista dell'Elide Dinos D. Psychogios. Nel suo paese natale veniva chiamato familiarmente Ntinos o Louloudas.\n\nRiservato e modesto, rimase lontano dai riflettori della notorietà pubblica.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/psichoghios.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787029886816",
+      "name": "Γιώργος Μανισαλής",
+      "nameit": "Ghiorgos Manisalìs",
+      "born": "10 gennaio 1925, Nea Ionia, Volos",
+      "died": "7 novembre 1999, Atene",
+      "bio": "Alias Λαδόπουλος/Μαγνησαλής\n\nCompositore, paroliere e solista di bouzouki, figura importante del rebetiko e della canzone popolare greca, di origini dalla Magnesia dell'Asia Minore. Figlio del grande violinista Dimitris Ladopoulos (Magnisalis). La famiglia, dopo la catastrofe dell'Asia Minore, si stabilì prima a Nea Ionia di Volos, poi nel 1933 ad Atene.\n\nProveniva da una famiglia tradizionale di musicisti dell'Asia Minore: fin da piccolo ascoltava il padre suonare in orchestre smirneiche e rebetiche insieme a musicisti del calibro di Panagiotis Tountas, Spyros Peristeris, Roza Eskenazy, Rita Abatzi, Dimitris Atraidis, Evangelos Papazoglou, Agapios Tompoulis, Grigoris Asikis.\n\nA 12 anni ricevette in dono un bouzouki da Roza Eskenazy, che sarebbe diventato il suo strumento principale. Durante l'Occupazione lavorò come musicista nelle taverne, dove fu notato da Panagiotis Arapian, musicista noto dell'epoca, con cui collaborò fino al 1945.\n\nDopo la guerra conobbe Vasilis Tsitsanis, con cui collaborò per molti anni — Tsitsanis, apprezzandone particolarmente il suono, era solito usare proprio il bouzouki di Manisalis quando suonava nei locali. Nel 1947 compose il suo primo brano, \"Ψαρόβαρκα Βολιώτικη\", su testo di Charalambos Vasileiadis (\"Tsanta\"), interpretato da Stratos Pagioumtzis.\n\nCompose in totale oltre 500 canzoni, la maggior parte delle quali divennero grandi successi. All'inizio della carriera di Rita Sakellariou, i suoi maggiori successi furono proprio creazioni firmate da Giorgos Manisalis insieme a Kostas Psychogios: \"Κάθε Ηλιοβασίλεμα\", \"Ιστορία μου, αμαρτία μου\", \"Αν Κάνω Άτακτη Ζωή\", tra le altre.\n\nConosciuto con il soprannome \"Κοριός\", lanciò con le sue canzoni anche altri interpreti, come Fotis Stasoulakis (\"Όλες Είσαστε Ίδιες\") e Thalia (\"Πριν Γνωρίσω Εσένα\").",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/manisalis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787031430784",
+      "name": "Ρένα Ντάλια",
+      "nameit": "Rèna Dàlia",
+      "born": "1934 (o 1935), Patrasso",
+      "died": "25 agosto 2000, Pireo",
+      "bio": "Vero nome Ελευθερία Παπακώστα\n\nCantante rebetiko greca, dalla voce autentica di contralto. Ultima di 18 figli di genitori originari dell'Epiro, di cui sopravvissero solo lei e il fratello più prossimo.\n\nVinse un concorso canoro; fu il compositore Zafeiris a darle il nome d'arte \"Rena Ntallia\", proponendole subito dopo di esibirsi come cantante nella taverna mondana di Orfanos, dove fu ascoltata da Giannis Papaioannou, che la volle nel proprio locale \"Triana\".\n\nNel 1952, accettando una proposta professionale di Papaioannou, viaggiò con la sua formazione musicale fino a Costantinopoli, per esibirsi nel locale \"Casablanca\", dove rimasero due mesi conoscendo gloria e guadagni. In quel periodo conobbe anche Vasilis Tsitsanis, ed entrò ufficialmente in discografia con il brano \"Γκιούλ Μπαχάρ\". Nel 1953 lavorò al \"Falirikó\" accanto a Papaioannou, Zambetas, Chiotis e altri grandi nomi del genere (Tsanta, Manesis, Goutis, Kolokotronis, tra gli altri).\n\nPer vent'anni (1953-1973) fece la spola con l'America, dove collaborò nei locali e in discografia con Giannis Papaioannou e Giannis Tatasopoulos — quest'ultimo la raggiunse nel 1955, diventando il bouzuktsìs con più incisioni realizzate lì, fino agli anni '70. Dopo il 1958 si stabilì quasi definitivamente in America, da cui tornò negli anni '80, con la rinascita dei palchi popolari e rebetiko.\n\nFu, secondo le fonti, l'unica cantante capace di interpretare nei locali brani tradizionalmente eseguiti da uomini, grazie a una gamma vocale di autenticità unica. Interpretò oltre 150 brani rebetiko e popolari, molti dei quali diventati grandi successi ancora oggi cantati, come \"Γκιουλμπαχάρ\".\n\nNegli ultimi anni della vita visse ad Atene con l'imprenditore Evangelos Meletiou, suo marito dal 1967.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/dalia.jpg",
       "roles": [
         "ar"
       ]
