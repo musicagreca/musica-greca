@@ -1,8 +1,90 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-18T07:22:38.901Z",
+  "exportedAt": "2026-08-19T16:35:12.653Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787157237560",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-19",
+      "tgr": "Φαίδρα",
+      "tit": "Fèdra",
+      "alias": "",
+      "at": "",
+      "am": "Μίκης Θεοδωράκης",
+      "yr": "1962",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm       DO   REm\nΑστέρι μου φεγγάρι μου\nDO            REm\nτης άνοιξης κλωνάρι μου\nDO         REm\nκοντά σου θα 'ρθω πάλι\nDO            REm\nΚοντά σου θα 'ρθω μια αυγή\nDO              REm\nγια να σου πάρω ένα φιλί\nDO             REm\nκαι να με πάρεις πάλι\n\nREm        SOLm   LA\nΑγάπη μου αγάπη μου η νύχτα θα μας πάρει\nSOLm         REm     (DO/REm)\nτ' άστρα και ο ουρανός το κρύο το φεγγάρι  \nSOLm         REm     (DO/REm)\nτ' άστρα και ο ουρανός το κρύο το φεγγάρι\n\nDO              REm\nΘα μ' αγαπάς θα ζεις με το τραγούδι\nDO             REm\nθα σ' αγαπώ θα ζω με τα πουλιά\nLA               REm\nΘα μ' αγαπάς θα γίνουμε τραγούδι\nLA             REm\nθα σ' αγαπώ θα γίνουμε πουλιά\n\nREm        SOLm   LA\nΑγάπη μου αγάπη μου η νύχτα θα μας πάρει\nSOLm         REm     (DO/REm)\nτ' άστρα και ο ουρανός το κρύο το φεγγάρι  \nSOLm         REm     (DO/REm)\nτ' άστρα και ο ουρανός το κρύο το φεγγάρι",
+      "tr": "Astéri mu fengári mu\ntis ániksis klonári mu\nkondá su tha 'rtho páli\nKondá su tha 'rtho mia avgí\ngia na su páro éna filí\nke na me páris páli\n\nAghápi mu aghápi mu i níchta tha mas pári\nt'ástra ke o uranós to krío to fengári\nt'ástra ke o uranós to krío to fengári\n\nTha m'aghapás tha zis me to traghúdi\ntha s'aghapó tha zo me ta pulyá\nTha m'aghapás tha ghínume traghúdi\ntha s'aghapó tha ghínume pulyá\n\nAghápi mu aghápi mu i níchta tha mas pári\nt'ástra ke o uranós to krío to fengári\nt'ástra ke o uranós to krío to fengári",
+      "ti": "Fedra\n\nVerrò da te all'alba\nper prendere un bacio da te\ne perché tu mi prenda di nuovo\n\nAmore mio, amore mio, la notte ci porterà via\nle stelle e il cielo, la fredda luna\n\nTu mi amerai, vivrai con la canzone\nio ti amerò, vivrò con gli uccelli\nTu mi amerai, diventeremo canzone\nio ti amerò, diventeremo uccelli\n\nAmore mio, amore mio, la notte ci porterà via\nle stelle e il cielo, la fredda luna \n\nNote:\n\nκλωνάρι — letteralmente \"ramoscello/ramo\", usato come vezzeggiativo poetico per la persona amata\nαυγή — l'alba, momento poetico spesso associato negli stichi greci a incontri d'amore segreti o furtivi",
+      "no": ""
+    },
+    {
+      "id": "s_1787155957413",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ελληνική Εστουδιαντίνα",
+          "year": "1910",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=7uaFEkNcDdM"
+        },
+        {
+          "who": "Γεώργιος Χέλμης",
+          "year": "1918",
+          "note": "Stati Uniti",
+          "link": "https://www.youtube.com/watch?v=tLET0r-cTNg"
+        }
+      ],
+      "date": "2026-08-19",
+      "tgr": "Δεν σε θέλω πια",
+      "tit": "De se thèlo pià",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "Smirneico",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "LAm      RE#°  MI  LAm\nΑπό τα πολλά που μου 'χεις καμωμένα\nFA       SI   MI  LAm\nδεν σε θέλω πια, δεν σε θέλω πια\nRE#°  MI  LAm\nΤα σωθικά μου τα 'χεις φαγωμένα\nFA       SI   MI  LAm\nδεν σε θέλω πια, δεν σε θέλω πια\n\nLA         MI     LA\nΔεν μ' αρέσουν πλέον τα γινάτια\nMI              LA\nδεν ποθώ τα ολόγλυκά σου μάτια\nREm      LAm  MI    LAm\nΠαίζω και γελώ, άλλην αγαπώ\nMI            LAm\nμάθε το άλλη μια, πως δεν σε θέλω πια\n\nLAm            RE#°       MI     LAm\nΜε φοβερίζεις, πως δεν μπορείς να ζήσεις\nFA                 SI    MI    LAm",
+      "tr": "Apó ta pollá pu mu 'chis kamoména\nden se thélo pia, den se thélo pia\nTa sothiká mu ta 'chis faghoména\nden se thélo pia, den se thélo pia\n\nDen m'arésun pléon ta ghinátia\nden pothó ta ologhliká su mátia\nPézo ke gheló, állin aghapó\nmáthe to álli mia, pos den se thélo pia\n\nMe foverízis, pos den borís na zísis\nden se thélo pia, den se thélo pia\nPos tha 'vris állon, ípes na aghapísis\nden se thélo pia, den se thélo pia\n\nDen m'arésun pléon ta ghinátia...\n\nAllú na vris ta názia su na kánis\nden se thélo pia, den se thélo pia\nTo ídio to 'cho ki an zísis ki an pethánis\nden se thélo pia, den se thélo pia\n\nDen m'arésun pléon ta ghinátia...",
+      "ti": "Non ti voglio più\n\nPer tutte le cose che mi hai fatto\nnon ti voglio più, non ti voglio più\nMi hai divorato dentro (le viscere)\nnon ti voglio più, non ti voglio più\n\nNon mi piacciono più i tuoi capricci\nnon desidero più i tuoi occhi dolcissimi\nScherzo e rido, ne amo un'altra\nimparalo ancora una volta: non ti voglio più\n\nMi minacci dicendo che non puoi vivere\nnon ti voglio più, non ti voglio più\nHai detto che troverai un altro da amare\nnon ti voglio più, non ti voglio più\n\nNon mi piacciono più i tuoi capricci...\n\nVai altrove a fare le tue smancerie\nnon ti voglio più, non ti voglio più\nPer me è lo stesso se vivi o se muori\nnon ti voglio più, non ti voglio più\n\nNon mi piacciono più i tuoi capricci...\n\nNote:\n\nσωθικά — letteralmente \"le viscere/l'intimo\"; qui usato in senso figurato per \"mi hai consumato/logorato dentro\"\nγινάτια — capricci, dispetti, ostinazioni polemiche\nνάζια — smancerie, moine, atteggiamenti civettuoli/capricciosi (spesso riferiti a chi fa la difficile in amore)",
+      "no": ""
+    },
+    {
+      "id": "s_1787154387497",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-19",
+      "tgr": "Δώσ' του νάνι-νάνι",
+      "tit": "Dos'tu nàni-nàni",
+      "alias": "Το μωρό μου",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Γεράσιμος Κλουβάτος",
+      "yr": "1955",
+      "ar": "Μαρίκα Νίνου",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Tsifteteli",
+      "ll": "https://www.youtube.com/watch?v=KJtAhasqUE8",
+      "li": "",
+      "ch": "",
+      "tr": "Dos'tu nàni-nàni\n\nÁinde to moró, moró mu to chaidévo\náinde me filiá kie chádia to pedévo\nto zalí- to zalízo me pechnídia\nm'angaliés, m'angaliés ke bichlimbídia\nki ólo théli apó ta ídia\n\nDós' tu, dós' tu\ndós' tu dós' tu, dós' tu dós' tu\nNáni-náni tu pasá mu\nNáni-náni tu pasá mu\npu tu káno óti théli\nke mu káni ta diká mu\n\nÁinde to moró, moró mu káni náni\nmiázi san aghás, epáno sto diváni\nlóghia aghá- lóghia aghápis psithirízo\nke ghliká, ke ghliká to nanurízo\nke me kéfi tu sfirízo\n\n\nÁinde to moró, moró mu st'oniró tu\nchádia mu zitái ston ípno ton ghlikó tu\nkáni pos, káni pos laghokimáte\nma ta po-, ma ta ponirá thimáte\náinde min mu to ksipnáte\n\n\nÁinde to moró, moró mu to kitáo\náinde ke sighá, sighá to ghargaláo\nksípnise, ksípnise ke to chorévo\nópala, opalákia ti tu léo\nki óso théli, ach to chaidévo",
+      "ti": "Dai ninna nanna\n\nDai, il bimbo, il mio bimbo lo accarezzo\ndai, con baci e carezze lo faccio giocare\nlo stordisco, lo stordisco con i giochi\ncon abbracci, con abbracci e ninnoli\ne vuole sempre le stesse cose\n\nDagli, dagli\ndagli dagli, dagli dagli\nNinna nanna al mio pascià\nninna nanna al mio pascià\nio gli faccio tutto quello che vuole\ne lui fa come dico io\n\nDai, il bimbo, il mio bimbo fa la nanna\nsembra un agà, disteso sul divano\nparole, parole d'amore sussurro\ne dolcemente, dolcemente lo cullo\ne per gioco gli fischietto\n\n\nDai, il bimbo, il mio bimbo nel suo sogno\nmi chiede carezze nel suo sonno dolce\nfa finta, fa finta di dormicchiare\nma le furbizie se le ricorda bene\ndai, non svegliatemelo\n\n\nDai, il bimbo, il mio bimbo lo guardo\ndai e piano piano lo solletico\nsi è svegliato, si è svegliato e lo faccio ballare\n\"opa, opalà\" gli dico\ne quanto vuole, ah, lo accarezzo\n\n\n\nNote:\n\nΆιντε (áinde) – variante colloquiale di \"άντε\", esclamazione tipo \"dai!/forza!/su!\"\nπασάς (pascià) – titolo ottomano di alto rango; qui usato scherzosamente per il bimbo trattato come un piccolo sovrano viziato\nαγάς (agà) – altro titolo ottomano simile a \"pascià\", stesso registro scherzoso\n\"και μου κάνει τα δικά μου\" – idiomatico: letteralmente \"e mi fa le cose mie\", nel senso di \"e così ottengo quello che voglio io\" (cioè che il bimbo si addormenti/si comporti bene)\nλαγοκοιμάται – letteralmente \"dorme come una lepre\", cioè fa un sonno leggero/finge di dormire tenendo un occhio aperto\nμπιχλιμπίδια – ninnoli, piccoli oggetti scintillanti/gingilli\nόπαλα/οπαλάκια – esclamazioni gioiose tipo \"opa!/opalà!\", usate spesso quando si fa saltellare o ballare un bambino",
+      "no": ""
+    },
     {
       "id": "s_1787037715150",
       "offsets": {},
@@ -6616,6 +6698,20 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/dalia.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787155658564",
+      "name": "Γεώργιος Χέλμης",
+      "nameit": "Gheòrghis Chèlmis",
+      "born": "1891, Il Cairo Egitto",
+      "died": "1975, Atene",
+      "bio": "Commerciante e imprenditore teatrale greco, marito dell'attrice Marika Kotopouli. Famiglia originaria di Chimarra, Epiro settentrionale (oggi in Albania). Studiò alla Scuola Commerciale di Chalki e in una scuola equivalente a Londra.\n\nInizialmente si dedicò all'industria e al commercio. Dal 1919 si dedicò al teatro. Tre anni dopo sposò l'attrice Marika Kotopouli, con cui collaborò poi nel cinema, al Teatro Kotopouli (piazza Omonia) e al Teatro Rex.\n\nNegli anni '10 incise canzoni greche — coerente con la registrazione discografica di \"Δεν σε θέλω πια\" a New York, circa ottobre 1918, su etichetta Columbia (84611-E4106), trovata nel catalogo dell'Archivio Kounadis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/chelmis.jpg",
       "roles": [
         "ar"
       ]
