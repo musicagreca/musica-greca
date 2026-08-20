@@ -1,8 +1,122 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-19T16:35:12.653Z",
+  "exportedAt": "2026-08-20T07:37:45.694Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787209341094",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιάννης Παπαϊωάννου,  Δημήτρης  Περδικόπουλος",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=TarAfmtgvbk"
+        },
+        {
+          "who": "Σωτηρία Μπέλλου",
+          "year": "1975",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=WcXXYCbvJTU"
+        }
+      ],
+      "date": "2026-08-20",
+      "tgr": "Καπετάν Αντρέα Ζέππο",
+      "tit": "Kapetàn Andrèa Zèppo",
+      "alias": "Ψαροπούλα",
+      "at": "Γιάννης Παπαϊωάννου",
+      "am": "Γιάννης Παπαϊωάννου",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "sirtòs",
+      "ll": "",
+      "li": "",
+      "ch": "SOL         DO RE       DO    RE SOL\nΜια ψαροπούλα είναι αραγμένη \nSOL         DO RE       DO    RE SOL\nΜια ψαροπούλα είναι αραγμένη    \nLAm                       RE         SOL\nμπρος στ' ακρογιάλι τον Ζέππο περιμένει  \nLAm                       RE         SOL\nμπρος στ' ακρογιάλι τον Ζέππο περιμένει  \n\n\nDO               RE                        SOL\nΚαπετάν Αντρέα Ζέππο, χαίρομαι όταν σε βλέπω\nDO               RE                        SOL\nΧαίρομαι όταν σε βλέπω, Καπετάν Αντρέα Ζέππο\n\nSOL         DO RE       DO    RE SOL\nΌλοι καλάρουνε μα δεν βγάζουν ψάρια  \nSOL         DO RE       DO    RE SOL\nΌλοι καλάρουνε μα δεν βγάζουν ψάρια \nLAm                       RE         SOL\nκαλάρει ο Ζέππος και βγάζει καλαμάρια   \nLAm                       RE         SOL\nκαλάρει ο Ζέππος και βγάζει καλαμάρια\nDO               RE                        SOL\nΚαλαμάρια και γαρίδες βγάζουν μόνο οι μερακλήδες...\n\nSOL         DO RE       DO    RE SOL\nΜέσα απ' το τσούρμο του είναι όλοι ιππότες   \nSOL         DO RE       DO    RE SOL\nΜέσα απ' το τσούρμο του είναι όλοι ιππότες \nLAm                       RE         SOL\nέξι απ' την Κούλουρη και έξι αϊβαλιώτες \nLAm                       RE         SOL\nέξι απ' την Κούλουρη και έξι αϊβαλιώτες \n\nDO               RE                        SOL\nΈγια μόλα, έγια λέσα, έχει ο σάκος ψάρια μέσα...",
+      "tr": "Kapetán Andréa Zépo\n\nMia psaropúla íne araghmén\nbros st'akroghiáli ton Zépo periméni \n\nKapetán Andréa Zépo, chérome ótan se vlépo\nChérome ótan se vlépo, Kapetán Andréa Zépo\n\nÓli kalárune ma den vgházun psária\nkalári o Zépos ke vgházi kalamária\n\nKalamária ke gharídes vgházun móno i meraklídes...\n\nMésa ap' to tsúrmo tu íne óli ipótes\néksi ap' tin Kúluri ke éksi aivaliótes \n\nÉghia móla, éghia lésa, échi o sákos psária mésa...",
+      "ti": "Capitan Andrea Zeppo\n\nUna barca da pesca è ancorata\ndavanti alla spiaggia aspetta Zeppo\n\nCapitano Andrea Zeppo, sono felice quando ti vedo\nsono felice quando ti vedo, Capitano Andrea Zeppo\n\nTutti calano le reti ma non tirano su pesci \ncala Zeppo e tira su calamar\n\nCalamari e gamberi li tirano su solo i veri intenditori...\n\nNel suo equipaggio sono tutti cavalieri \nsei da Kùlluri e sei da Aivali\n\n\"Molla, molla, issa!\" — il sacco è pieno di pesci dentro...\n\nNote:\n\nψαροπούλα — piccola barca da pesca (diminutivo di ψαράδικο/barca da pescatori)\nμερακλής — persona che fa le cose con passione, gusto e maestria; qui \"intenditore/vero appassionato\" del mestiere\nΚούλουρη — nome di un luogo/isola (probabilmente riferito a Salamina, chiamata anche \"Koulouri\")\nαϊβαλιώτες — abitanti di Aivali (Ayvalık), città sulla costa dell'Asia Minore, oggi in Turchia\nΈγια μόλα, έγια λέσα — grida tradizionali dei marinai/pescatori greci per coordinare il tiro delle reti/corde (\"molla\" = allentare, \"λέσα\" = tirare/issare tutti insieme)",
+      "no": "[[2026-08-11|Leggi l'approfondimento su Καπετάν Αντρέα Ζέππος]]"
+    },
+    {
+      "id": "s_1787205876025",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Πόλυ Πάνου",
+          "year": "1959",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=nH5yqx4P0NM"
+        },
+        {
+          "who": "Άννα Χρυσάφη, Σπύρος Ζαγοραίος",
+          "year": "1958",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=PMfjIXj1PaM"
+        }
+      ],
+      "date": "2026-08-20",
+      "tgr": "Πάρε το δαχτυλίδι μου",
+      "tit": "Páre to dachtilídi mu",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1958",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "1. Testo con accordi\nDO             REm         SOL               DO\nΠάρε το δαχτυλίδι μου, που γράφει τ' όνομά μου\nFA             SOL                     DO\nκαι πίστεψε πως σ' αγαπώ με όλη την καρδιά μου\n\nDO        REm   LA     REm FA             DO   SOL   DO\nΠάρε το δαχτυλίδι μου, που γράφει τ' όνομά μου\nFA                                         DO\nγια να μη με ξεχνάς ποτέ μακριά μου όταν θα 'σαι\nREm               SOL                      DO\nνα το φοράς στο χέρι σου και μένα να θυμάσαι\n\nDO             REm         SOL               DO\nΠάρε το δαχτυλίδι μου, που γράφει τ' όνομά μου\nFA             SOL                     DO\nκαι πίστεψε πως σ' αγαπώ με όλη την καρδιά μου\n\nDO             REm         SOL               DO\nΜοίρα καλή μάς ένωσε μες στη ζωή για πάντα\nFA             SOL                     DO\nΤον έρωτά μας δε μπορεί κανείς να εμποδίσει\nDO        REm   LA     REm FA             DO   SOL   DO\nεμάς μονάχα ο θάνατος μπορεί να μάς χωρίσει\n\nDO             REm         SOL               DO\nΠάρε το δαχτυλίδι μου, που γράφει τ' όνομά μου\nFA             SOL                     DO\nκαι πίστεψε πως σ' αγαπώ με όλη την καρδιά μου",
+      "tr": "Páre to dachtilídi mu\n\nPáre to dachtilídi mu, pu ghráfi t'ónomá mu\nke místepse pos s'aghapó me óli tin kardiá mu\n\nPáre to dachtilídi mu, pu ghráfi t'ónomá mu\ngia na mi me ksechnás poté makriá mu ótan tha 'se\nna to forás sto chéri su ke ména na thimáse\n\nPáre to dachtilídi mu...\n\nMíra kalí mas énose mes sti zoí gia pánda\nTon érota mas de borí kanís na embodísi\nemás monácha o thánatos borí na mas chorísi\n\nPáre to dachtilídi mu...",
+      "ti": "Prendi il mio anello\n\nPrendi il mio anello, su cui è inciso il mio nome\ne credi che ti amo con tutto il cuore\n\nPrendi il mio anello, su cui è inciso il mio nome\nperché tu non mi dimentichi mai quando sarai lontana da me\nportalo alla mano e ricordati di me\n\nPrendi il mio anello...\n\nUn buon destino ci ha uniti nella vita per sempre\nil nostro amore nessuno può impedirlo\nsolo la morte può separarci\n\nPrendi il mio anello...\n\nNota:\n\nδαχτυλίδι που γράφει τ' όνομά μου — anello inciso col proprio nome, simbolo tradizionale di promessa/fidanzamento nella cultura popolare greca",
+      "no": "Giorgos Mitsakis ammise  che scrisse questa canzone perché all'epoca si era perdutamente innamorato di una ragazza. L'anello citato nel testo esisteva davvero: era un anello che portava inciso il suo nome e che volle donare alla giovane come pegno d'amore. Il pezzo divenne fin da subito uno dei preferiti dello stesso compositore"
+    },
+    {
+      "id": "s_1787204090480",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στράτος Παγιουμτζής",
+          "year": "1938",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=wgOLuGT2hZc"
+        },
+        {
+          "who": "Πόλυ Πάνου",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=PzexDMcgdIw"
+        },
+        {
+          "who": "Νίκος Παππάς \"ο Κακούργος\",  Λίλυ Ριτσώνη,  Δημήτρης Λίβανος",
+          "year": "2004",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=rL0YxXtPqwU"
+        }
+      ],
+      "date": "2026-08-20",
+      "tgr": "Μες την πολλή σκοτούρα μου",
+      "tit": "Mes tin polì skotùra mu",
+      "alias": "",
+      "at": "",
+      "am": "",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "DO                 SOL     DO\nΜες τη πολλή σκοτούρα μου\nDO               SOL DO\nγιατί να σε γνωρίσω\nSOL          DOm                  LAm\nκλαίω και λέω μυστικά για σένανε  \nRE  DOm SOLm LAm\nγιατί να σ' αγαπήσω               \nSOL          DOm                  LAm\nκλαίω και λέω μυστικά για σένανε   \nRE  DOm SOLm LAm\nγιατί να σ' αγαπήσω                \n\nDO                 SOL     DO\nΓιατί να κάθεσαι να λες\nDO               SOL DO\nπως πια δε με γνωρίζεις\nSOL          DOm                  LAm\nαφού η καρδιά μου επόνεσε για σένανε  \nRE  DOm SOLm LAm\nγιατί με βασανίζεις   \nSOL          DOm                  LAm\nαφού η καρδιά μου επόνεσε για σένανε  \nRE  DOm SOLm LAm\nγιατί με βασανίζεις                   \n\nDO                 SOL     DO\nΘέλω να ξέρω που γυρνάς\nDO               SOL DO\nμε ποιόνε κουβεντιάζεις\nSOL          DOm                  LAm\nαχ τα μάτια σου τα αράπικα πόσους γελούν  \nRE  DOm SOLm LAm\nόταν γλυκοκοιτάζεις \nSOL          DOm                  LAm\nαχ τα μάτια σου τα αράπικα πόσους γελούν  \nRE  DOm SOLm LAm\nόταν γλυκοκοιτάζεις",
+      "tr": "Mes ti polí skotúra mu\n\nMes ti polí skotúra mu\ngiatí na se ghnorízo\nkléo ke léo mistiká gia sénane \ngiatí na s'aghapíso\n\nGiatí na káthese na les\npos pia de me ghnorízis\naftí i kardiá mu epónese gia sénane \ngiatí me vasanízis \n\nThélo na kséro pu ghirnás\nme pióne kuvendiázis\nach ta mátia su ta arápika pósus gheún |\nótan ghlikokitázis",
+      "ti": "In mezzo a tutto il mio tormento\n\nIn mezzo a tutto il mio tormento\nperché ti ho conosciuto\npiango e dico segreti per te \nperché mi sono innamorato di te \n\nPerché stai lì a dire\nche ormai non mi conosci più\ndopo che il mio cuore ha sofferto per te \nperché mi tormenti| \n\nVoglio sapere dove giri\ncon chi stai chiacchierando\nah i tuoi occhi arabi, quanti ne fanno innamorare \nquando guardi dolcemente \n\nNote:\n\nσκοτούρα — pensiero fisso, affanno, preoccupazione assillante\nαράπικα μάτια — letteralmente \"occhi arabi/mori\", espressione poetica per occhi scuri e intensi, molto usata nella tradizione popolare greca come immagine di fascino esotico\nγλυκοκοιτάζω — verbo composto \"guardare dolcemente/con dolcezza\", spesso riferito a sguardi ammiccanti o seduttivi",
+      "no": "Molti critici musicali e storici del rebetiko considerano \"Μες στην πολλή σκοτούρα μου\" come il perfetto esempio di come la musica popolare greca si sia trasformata prima e dopo la Seconda Guerra Mondiale. La versione del 1938 rappresenta il rebetiko \"puro\" e sotterraneo, mentre la versione del 1961 di Polly Panou, pur rimanendo un capolavoro dorico e fiero, risente della \"occidentalizzazione\" e della modernizzazione dei suoni della musica laika greca nei club di Atene."
+    },
     {
       "id": "s_1787157237560",
       "offsets": {},
@@ -931,7 +1045,7 @@
       "ch": "MI          LAm          DO       SI\nΑπόψε κάνεις μπαμ, απόψε κάνεις μπαμ\nSI                             LAm         SI\nσε βλέπουν και φρενάρουνε και σταματούν τα τραμ\n MI                     SI              MI\nΜου ντύθηκες κυρά μου, στην πένα, στο καντίνι\n       MI                 SI              MI\nνα ζήσει κι ο λεβέντης, ο λεβέντης που σε ντύνει\nLAm   DO   SI\nΑπόψε κάνεις μπαμ\n\nMI          LAm          DO       SI\nΞαπλώσου στο ταξί, ξαπλώσου στο ταξί\nSI                      LAm         SI\nκαι πάμε να γλεντήσουμε σε φίνο μαγαζί\n\n  MI                 SI              MI\nΑπόψε στου Τσιτσάνη πωπώ τι έχει να γίνει\n MI                 SI              MI\nΚι αν κάνεις πως χορεύεις, ποτήρι δεν θα μείνει\nLAm    DO    SI\nΑπόψε κάνεις μπαμ\n\nMI          LAm          DO       SI\nΑμάν και τι 'σαι εσύ, αμάν και τι 'σαι εσύ\nSI                       LAm         SI\nΓια χάρη σου σταθήκανε οι άντρες προσοχή\n\n  MI                 SI              MI\nΑπόψε σε γλεντάω κι ο κόσμος πάει να σκάσει\n  MI                 SI              MI\nΚοντεύει απ' τη ζήλια να τούς φύγει το καφάσι\nLAm   DO     SI\nΑπόψε κάνεις μπαμ",
       "tr": "Apòpse kànis bam\n\nApòpse kànis bam, apòpse kànis bam\nse vlèpun ke frenàrune ke stamatùn ta tram\nMu ndìthikes kirà mu, stin péna, sto kandìni\nna zìsi ki o levèndis, o levèndis pu se ndìni\nApòpse kànis bam\n\nKsaplòsu sto taksì, ksaplòsu sto taksì\nke pàme na glendìsume se fìno maghazì\n\nApòpse stu Tsitsàni popò ti échi na ghìni\nKi an kànis pos chorèvis, potìri den tha mìni\nApòpse kànis bam\n\nAmàn ke ti 'se esì, amàn ke ti 'se esì\nGhia chàri su stathìkane i àndres prosochì\n\nApòpse se glendào ki o kòsmos pài na skàsi\nKondèvi ap' ti zìlia na tus fìghi to kafàsi\nApòpse kànis bam",
       "ti": "Stasera fai il botto\n\nStasera fai il botto¹, stasera fai il botto,\nti guardano e frenano e si fermano i tram\n\nTi sei vestita per me², signora mia, con la piuma³, con il canotier⁴,\nche viva anche il bravo ragazzo⁵, il bravo ragazzo che ti veste\nStasera fai il botto\n\nSdraiati sul taxi, sdraiati sul taxi,\ne andiamo a far festa in un locale elegante\n\nStasera da Tsitsanis⁶, che roba succederà,\ne se fai finta di ballare, non resterà un bicchiere intero⁷\nStasera fai il botto\n\nAhimè, ma chi sei tu, ahimè, ma chi sei tu,\nper te si sono messi sull'attenti gli uomini\n\nStasera faccio festa con te e la gente sta per scoppiare,\nsta quasi per andargli via la testa dalla gelosia⁸\nStasera fai il botto\n\nNote alla traduzione\n\nΚάνεις μπαμ (\"fai il botto\") – espressione idiomatica colloquiale greca per dire che qualcuno attira irresistibilmente l'attenzione con il proprio aspetto o fascino, \"fa scalpore\".\nΜου ντύθηκες (\"ti sei vestita per me\") – variante rispetto a \"κουρντίστηκες\" di un'altra versione del testo, qui il verbo \"ντύνομαι\" (vestirsi) è usato con valore dativo di interesse, sottolineando che si è agghindata proprio per l'uomo che parla.\nΠένα – \"piuma\", accessorio decorativo per cappelli, elemento tipico dell'eleganza femminile dell'epoca del rebetiko.\nΚαντίνι – termine gergale per un tipo di cappello (canotier), accessorio di moda dell'epoca.\nΛεβέντης – termine molto diffuso nel greco popolare per indicare un uomo prestante, valoroso e generoso, spesso un vero \"gentiluomo\" nel comportamento e nell'aspetto.\nΤσιτσάνης (Tsitsanis) – Vasilis Tsitsanis, celebre compositore e bouzouki-ista, figura fondamentale del rebetiko; qui il riferimento è a un locale/taverna dove si esibiva dal vivo.\nΠοτήρι δεν θα μείνει (\"non resterà un bicchiere intero\") – riferimento all'usanza tradizionale greca di rompere bicchieri e piatti durante il ballo per festeggiare ed esprimere entusiasmo.\nΝα τους φύγει το καφάσι – espressione idiomatica colloquiale, letteralmente \"che gli scappi la gabbia/il telaio (della testa)\", equivalente a \"impazzire, perdere la testa\" per la gelosia o l'emozione.",
-      "no": ""
+      "no": "Gli storici della musica greca e le testimonianze dell'epoca collegano la nascita di questo brano a un drammatico evento storico reale.\nNell'agosto del 1953, le isole Ionie (in particolare Cefalonia, Zante e Itaca) furono devastate da un terremoto catastrofico di magnitudo 7.2 della scala Richter. Le scosse durarono giorni, distruggendo interi villaggi e terrorizzando l'intera nazione.L'ispirazione per il \"Botto\" (Μπαμ): La leggenda narra che Tsitsanis scrisse questa canzone proprio in quel periodo, giocando ironicamente sulla parola \"Μπαμ\" (il botto/l'esplosione), che da un lato ricordava i boati spaventosi della terra (il grande terremoto) e dall'altro veniva usata nel gergo popolare per descrivere una donna dalla bellezza esplosiva, capace di \"scuotere\" l'ambiente proprio come un terremoto. Questo contrasto tra dramma collettivo e spensieratezza amorosa è tipico del genio del rebetiko."
     },
     {
       "id": "s_1786434203156",
@@ -3910,6 +4024,14 @@
   ],
   "args": [
     {
+      "id": "a_1787209404865",
+      "title": "Καπετάν Αντρέας Ζέππος (1914-1969) — il pescatore diventato leggenda del rebetiko",
+      "tag": "storie di persone",
+      "date": "2026-08-11",
+      "body": "Origini e infanzia\n\nNato il 10 febbraio 1914, figlio di Stratos, commerciante ad Aivalì, in Asia Minore. Un giorno i turchi distrussero il negozio del padre e lo portarono via insieme ad altri greci della città — non fu mai più rivisto. La madre Paraskevi, già incinta, radunò in fretta quel poco che poteva e fuggì con il piccolo Andreas in un rifugio sicuro fuori città, dove poco dopo diede alla luce una figlia, Stratoula.\n\nAndreas iniziò a lavorare come mozzo sul caicco \"Ταξιάρχης\" del capitano Stelios, un parente della madre — uno dei più grandi pescherecci della zona. Raccontò più tardi, con emozione, il ricordo della sua primissima paga: pochi soldi e una piccola rete di pesci, portati di corsa a casa per consegnarli alla madre.\n\nLa fuga verso la Grecia\n\nQuando la situazione ad Aivalì peggiorò, il capitano Stelios organizzò una fuga notturna via mare verso il Pireo. Una tempesta li deviò verso Egina, dove le donne della famiglia trovarono rifugio in un monastero per profughi, mentre gli uomini proseguivano con il caicco. La moglie del capitano morì poco dopo, seguita presto dallo stesso Stelios; la famiglia Zeppos fu infine sistemata nei palazzi per profughi di Tourkolimano, al Pireo.\n\nIl pescatore del Falero\n\nVendette il vecchio caicco di famiglia e ne acquistò uno più robusto, capace di pescare più in profondità e più spesso di chiunque altro nella zona. Divenne rapidamente il primo pescatore del golfo del Falero, guadagnando fama e denaro — ma fu proprio in questo periodo, dopo la morte della madre, che iniziò a perdere il controllo del bere.\n\nL'amicizia con Giannis Papaioannou\n\nPrima ancora di diventare uno dei grandi compositori del rebetiko, Giannis Papaioannou — anch'egli profugo dall'Asia Minore — lavorava proprio sul caicco di Zeppos. Seduto a poppa con un piccolo bouzouki, cantava le fatiche del lavoro quotidiano in mare. I due erano legati da una vera amicizia, oltre a una lontana parentela.\n\nZeppos era solito frequentare ogni sera i locali dove Papaioannou si esibiva, spendendo generosamente quanto guadagnato durante il giorno. Fu proprio questa generosità, insieme all'affetto tra i due, a ispirare Papaioannou nella scrittura del celebre brano a lui dedicato, attorno al 1946.\n\nLa cantante Kaiti Grey lo ricordava nei locali di Tzitzifies e Moschato, capace di \"far esplodere\" ogni sera l'intero locale con il suo entusiasmo — generoso al punto da lasciare mucchi di banconote sul tavolo, per poi andarsene portando via solo la tovaglia annodata a fagotto.\n\n[Foto: Giannis Papaioannou e Andreas Zeppos — https://musicagreca.github.io/musica-greca/images/zepos_πapaiοannou.jpg]\n\nLa generosità durante l'Occupazione\n\nZeppos non dimenticò mai di essere stato lui stesso un profugo. Distribuiva metà del pescato ai poveri del Pireo insieme alla moglie Katina; celebrò matrimoni per ragazze orfane che non avevano chi le accompagnasse all'altare, e battesimi per bambini le cui famiglie non potevano permetterseli.\n\nNel 1941, quando i tedeschi bombardarono il Pireo e la popolazione fu costretta a fuggire verso Atene, molti anziani rimasero bloccati al Falero, incapaci di proseguire a piedi. Zeppos diede farina dalle proprie scorte al forno locale per fare pane da distribuire, e bollì i grandi pesci uccisi dalle esplosioni — che altrimenti avrebbe venduto — per farne un pasto collettivo per chi ne aveva bisogno.\n\nIl declino\n\nDopo la guerra, l'intensa industrializzazione della zona inquinò le acque del Falero, rendendo la pesca sempre più difficile. Zeppos tentò di reinventarsi come rivenditore ambulante di pesce presso taverne e ristoranti, ma i pagamenti tardavano sempre. Passò infine a vendere pesce vicino alla stazione elettrica del Falero, con un cartello che recitava semplicemente \"Pesce del capitano Andreas Zeppos\" — ma i guadagni non bastavano più, e la moglie Katina fu costretta a lavorare come domestica per mantenere la famiglia.\n\nFu proprio grazie a questo lavoro che Katina entrò nella cerchia del letterato Kostas Soukas, la cui famiglia aveva già beneficiato della generosità di Zeppos durante l'Occupazione — un ambiente che offrì a Zeppos, negli ultimi anni, un riconoscimento affettuoso per quanto aveva fatto in passato.\n\nLa rovina finale\n\nFu proprio la sua eccessiva fiducia negli altri a costargli, alla fine, tutto: fece da garante per un prestito bancario richiesto da un conoscente di Calcide, che non fu mai ripagato. Non avendo i mezzi per coprire il debito, dovette cedere il proprio amato caicco.\n\nDivenne sempre più dipendente dall'alcol, fino a morire di cirrosi epatica nel 1969, a 55 anni, in condizioni di estrema povertà — si dovette quasi organizzare una colletta per pagare le spese del suo funerale. In sua memoria, Papaioannou scrisse un secondo brano tributo, \"Ο Ζέππος εκουράστηκε\" (\"Zeppos si è stancato\") — qui ascoltabile nell'interpretazione di Vangelis Perpiniadis: https://www.youtube.com/watch?v=fKuYAYzWKyo\n\nIl destino del caicco\n\nIl caicco \"Άγιος Ευστράτιος\", dopo il sequestro, passò di mano in mano nel corso dei decenni: prima alla famiglia di pescatori Pagidaioi di Perama (che lo ribattezzarono semplicemente \"Ζέπος\"), poi a un pescatore di Naousa trasferitosi a Paros, e infine all'architetto Kostas Gouzelis, che lo restaurò con grande cura, gli rimise le vele, e lo mantenne in vita per un documentario della televisione di stato greca (\"Αιγαίο νυν και αεί\"), protagonista di un viaggio di 1500 miglia nell'Egeo. Oggi si trova ormeggiato ad Antiparos, presso una famiglia imparentata con i Peratikos.",
+      "link": ""
+    },
+    {
       "id": "a_1786786211534",
       "title": "\"Tiki Tiki Tak\" — il viaggio di una canzone tra Italia, Costantinopoli, Grecia e New York",
       "tag": "storie di canzoni",
@@ -6714,6 +6836,51 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/chelmis.jpg",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1787203143939",
+      "name": "Πόλυ Πάνου",
+      "nameit": "Pòli Pànu",
+      "born": "28 ottobre 1940, Atene",
+      "died": "27 settembre 2013, Atene",
+      "bio": "Vero nome Πολυτίμη Κολιοπάνου\n\nCantante popolare greca, tra le voci più significative del rebetiko e della canzone popolare. Nata ad Atene, crebbe a Patrasso. Da bambina delle elementari marinava la scuola per andare ad ascoltare le nuove canzoni dell'epoca nel quartiere Psilalonia di Patrasso; partecipò segretamente, all'insaputa dei genitori, a un concorso di talenti cittadino, vincendo il primo premio.\n\nLa svolta arrivò grazie a un barbiere del quartiere: Grigoris Bithikotsis, allora giovane artista in cerca di una nuova cantante per il proprio gruppo (la precedente li aveva lasciati), si trovava a Patrasso per delle esibizioni e si sfogò proprio con il suo barbiere di fiducia. Fu lui a parlargli della piccola Polytimi, l'\"usignolo\" del quartiere. Bithikotsis andò a cercarla, la ascoltò cantare, e le chiese subito di seguirlo — diventando così il \"padrino\" del suo nome d'arte.\n\nDebuttò in discografia nel 1952 con \"Πήρα τη στράτα την κακιά\", scritta dallo stesso Bithikotsis. Seguirono grandi successi come \"Να πας να πεις της μάνας μου\" (Giorgos Zambetas e Charalambos Vasileiadis, 1956), \"Πάρε το δαχτυλίδι μου\" (Giorgos Mitsakis, 1958), \"Τ' αδέλφια δε χωρίζουνε\" (Apostolos Kaldaras, 1959).\n\nSposò Stelios Pelagidis. Ebbe un percorso difficile verso la maternità, con almeno quattro aborti spontanei, prima di riuscire a portare a termine una gravidanza a 40 anni, dando alla luce un figlio sano che chiamò Vangelis, in memoria della sorella Evangelia, scomparsa prematuramente.\n\nNella vita privata era una donna appassionata di ordine e pulizia della casa, e amava dedicarsi alla cucina.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/panu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787205668497",
+      "name": "Άννα Χρυσάφη",
+      "nameit": "Anna Chrisàfi",
+      "born": "6 dicembre 1921, Atene",
+      "died": "3 settembre 2013, Atene",
+      "bio": "Cantante greca, tra le grandi voci del rebetiko e del laikò classico, distintasi sia sul palco che in discografia. Nata da una famiglia di musicisti originari dell'Asia Minore. Lavorò inizialmente come sarta dell'alta società ateniese — vestì persino Sofia Mineiko-Papandreou, madre di Andreas Papandreou — prima che il canto prendesse definitivamente il sopravvento.\n\nIniziò la carriera discografica nel 1949 con \"Πεταλάκια\" di Manolis Chiotis. Fu la prima cantante popolare ad apparire in un film greco, nella commedia di Nikos Tsiforos \"Ο Πύργος των Ιπποτών\" (1952), interpretando \"Μια γυναίκα, δύο άντρες\" di Giorgos Mitsakis.\n\nFu protagonista della grande festa a base di bouzouki organizzata a Cannes nel maggio 1960 da Giorgos Zambetas, insieme a Manos Hatzidakis e Melina Mercouri, in occasione della proiezione al Festival di Cannes del film premiato di Jules Dassin \"Mai di domenica\" (\"Ποτέ την Κυριακή\").\n\nCollaborò con i più grandi nomi del rebetiko e della canzone popolare greca: Vasilis Tsitsanis, Giannis Papaioannou, Markos Vamvakaris, Giorgos Zambetas, Manos Hatzidakis, Stavros Xarchakos, Apostolos Kaldaras, Manolis Chiotis, oltre a collaborazioni con Sotiria Bellou.\n\nMorì nel settembre 2013, a 91 anni compiuti (92 secondo alcune fonti), dopo una vita lunga e piena.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/chrisafi.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787206852443",
+      "name": "Δημήτρης  Περδικόπουλος",
+      "nameit": "Dimìtris Perdikòpulos",
+      "born": "1914, Filiatra, Messenia",
+      "died": "16 giugno 1952, Atene",
+      "bio": "Detto Μήτσος\n\nCantante, compositore, paroliere e chitarrista greco, straordinario interprete del canto tradizionale/dimotikò, con particolare talento per i kalamatianà e i syrtà continentali; interpretò con stile personale anche brani rebetiko.\ntando due amanèdes, un sabach e uno chetzaz, su Columbia DG 2113, Atene. Fino al 1952 incise, come cantante e compositore, circa 150 canzoni tra dimotikà e rebetika.\n\nEbbe un ruolo determinante nell'ingresso di Vasilis Tsitsanis in discografia: dopo averlo ascoltato come giovane e talentuoso bouzouktsìs, lo volle nel proprio gruppo, esibendosi insieme a lui a Lamia, Larissa e in giro per mezza Tessaglia e Rumelia. Insieme a Tsitsanis e Georgia Mittaki realizzò la primissima canzone mai composta da Tsitsanis, \"Σ' ένα ντεκέ σκαρώσαμε\" (Odeon GA 1929, Atene, novembre 1936).\n\nCollaborò anche con molti altri grandi nomi del rebetiko e della canzone popolare, tra cui Stellakis Perpiniadis, Panagiotis Tountas, Spyros Peristeris, Giorgos Manisalis, Giannis Stamoulis, Giannis Papaioannou, Stelios Keromytis.\n\nMorì giovanissimo, a soli 38 anni, il 16 giugno 1952 ad Atene. Nonostante il suo ruolo importante nella storia del rebetiko e nella carriera degli inizi di Tsitsanis, restano pochissime informazioni biografiche su di lui, al di là dei dischi che ne hanno conservato la voce straordinaria.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/perdikopulos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
       ]
     }
   ]
