@@ -1,8 +1,31 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-20T07:37:45.694Z",
+  "exportedAt": "2026-08-20T08:38:42.666Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787214488297",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-20",
+      "tgr": "Δυο πόρτες έχει η ζωή",
+      "tit": "Dìo pòrtes èchi i zoì",
+      "alias": "Το τελευταίο βράδυ μου",
+      "at": "Ευτυχία Παπαγιαννοπούλου",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1959",
+      "ar": "Στέλιος Καζαντζίδης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=N3j_4iQjbUA",
+      "li": "",
+      "ch": "DO              SOL     DO\nΤο τελευταίο βράδυ μου\nREm     SOL      DO\nαπόψε το περνάω\nMIm\nκι όσοι με πίκραναν πολύ\nFA\nτώρα που φεύγω απ' τη ζωή\nDO                 SOL DO\nόλους τους συγχωρνάω\n\nDO         SOL    DO\nΌλα είναι ένα ψέμα\nFA   SOLDO\nμια ανάσα μια πνοή\nFA            DO\nσα λουλούδι κάποιο χέρι\nFA   SOL DO\nθα μάς κόψει μιαν αυγή\n\nDO              SOL     DO\nΕκεί που πάω δεν περνά\nREm     SOL      DO\nτο δάκρυ και ο πόνος\nMIm\nτα βάσανα και οι καημοί\nFA\nεδώ θα μείνουν στη ζωή\nDO                 SOL DO\nκι εγώ θα φύγω μόνος\n\nDO         SOL    DO\nΌλα είναι ένα ψέμα...\nFA   SOLDO\nFA            DO\nFA   SOL DO\n\nDO              SOL     DO\nΔυο πόρτες έχει η ζωή\nREm     SOL      DO\nάνοιξα μια και μπήκα\nMIm\nσεργιάνισα ένα πρωινό\nFA\nκι ώσπου να 'ρθει το δειλινό\nDO                 SOL DO\nαπό την άλλη βγήκα\n\nDO         SOL    DO\nΌλα είναι ένα ψέμα...\nFA   SOLDO\nFA            DO\nFA   SOL DO",
+      "tr": "Dìo pòrtes èchi i zoì\n\nTo teleftéo vrádi mu\napópse to pernáo\nki ósi me píkranan polí\ntóra pu févgo ap'ti zoí\nólus tus sinchornáo\n\nÓla íne éna pséma\nmia anása mia pnoí\nsa lulúdi kápio chéri\ntha mas kópsi mian avgí\n\nEkí pu páo den perná\nto dákri ke o pónos\nta vásana ke i kaimí\nedó tha mínun sti zoí\nki eghó tha físgo mónos\n\nÓla íne éna pséma...\n\nDio pórtes échi i zoí\nániksa mia ke bíka\nserghiánisa éna proinó\nki óspu na 'rthi to dilinó\napó tin áli vgíka\n\nÓla íne éna pséma...",
+      "ti": "Due porte ha la vita\n\nL'ultima mia notte\nla trascorro stasera\ne chi mi ha amareggiato molto\nora che me ne vado dalla vita\ntutti li perdono\n\nTutto è una menzogna\nun respiro, un soffio\ncome un fiore, una mano\nci taglierà, un'alba qualsiasi\n\nLà dove vado non passa\nla lacrima né il dolore\ngli affanni e le pene\nresteranno qui nella vita\ne io me ne andrò solo\n\nTutto è una menzogna...\n\nDue porte ha la vita\nne ho aperta una e sono entrato\nho passeggiato per un mattino\ne finché non è arrivato il tramonto\ndall'altra sono uscito\n\nTutto è una menzogna...\n\nNote:\n\nσεργιανίζω — passeggiare, andare a spasso senza fretta, spesso con connotazione di leggerezza/spensieratezza\nl'immagine delle \"due porte della vita\" (nascita/morte) è una metafora popolare greca sull'esistenza come breve passaggio tra un ingresso e un'uscita\nδειλινό — il tramonto/il pomeriggio inoltrato, termine poetico-popolare per indicare il calare del giorno",
+      "no": ""
+    },
     {
       "id": "s_1787209341094",
       "offsets": {},
@@ -104,7 +127,7 @@
       "alias": "",
       "at": "",
       "am": "",
-      "yr": "",
+      "yr": "1938",
       "ar": "",
       "lb": "",
       "gn": "Rembetico",
@@ -130,7 +153,7 @@
       "yr": "1962",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Entechno",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -1441,42 +1464,6 @@
       "tr": "Ligharià\n\nKòri karavokìri, kòri karavokìri\nkòri karavokìri ki òmorfi kopelià\nKormì kiparissèno, lighàs sa ligharià\n\nLigharià, ligharià, esèna écho stin kardià\nLigharià, ligharià, tha se klèpso mia vradià\n\nSaitemèno m'échis\nplighì de fènete\nke àllos apò sèna ghiatròs de ghìnete\n\nTo feggaràki ròta\nke t'àstra na su pun\nta màtia mu pos klène òtan se thimithùn\n\nTharrò to pos to thèlis\nna sekletìzome\nke ghia ta na s'arèsi na vasanìzome",
       "ti": "Salice, salice\n\nFiglia di capitano di nave¹, figlia di capitano di nave,\nfiglia di capitano di nave e bella ragazza\ncorpo slanciato come un cipresso², ti pieghi come un salice³ (x2)\n\nSalice, salice, te ho nel cuore\nsalice, salice, ti rapirò una sera\n\nMi hai trafitto con una freccia⁴,\nla ferita non si vede\ne nessun altro tranne te può guarirmi⁵\n\nSalice, salice...\n\nChiedi alla piccola luna\ne alle stelle di dirti\ncome piangono i miei occhi quando si ricordano di te\n\nSalice, salice...\n\nCredo che tu lo voglia,\nche io mi tormenti⁶\ne che, per piacerti, io debba soffrire\n\nSalice, salice...\n\nNote\n\nΚαραβοκύρης – termine marinaresco per \"capitano/proprietario di nave\"; essere \"figlia di καραβοκύρης\" indica un'origine benestante, di famiglia legata al mare.\nΚορμί κυπαρισσένιο (\"corpo di cipresso\") – metafora poetica tradizionale greca per indicare un corpo slanciato, alto ed elegante, paragonato al cipresso, albero snello e slanciato.\nΛυγαριά – \"salice\" (Vitex agnus-castus, in realtà agnocasto in senso botanico, ma tradotto poeticamente come \"salice\" per l'immagine del piegarsi); simbolo di flessibilità, grazia e movimento sinuoso, spesso usato come vezzeggiativo per la donna amata nei canti popolari.\nΣαϊτεμένο μ' έχεις (\"mi hai trafitto con una freccia\") – immagine tipica della tradizione popolare/rebetika, richiama le frecce di Eros/Cupido nell'amore che ferisce.\nΓιατρός δε γίνεται (\"nessun altro può guarirmi\") – espressione idiomatica: solo la persona amata, causa della \"ferita\" d'amore, può esserne anche la cura.\nΣεκλετίζομαι – verbo popolare greco (dal turco \"sıkletlenmek\"), significa \"tormentarsi, affliggersi, angosciarsi\"; termine tipico del lessico dei canti d'amore popolari e rebetiko.",
       "no": ""
-    },
-    {
-      "id": "s_1786351810045",
-      "offsets": {},
-      "executions": [
-        {
-          "who": "Κωστας Δουσας",
-          "year": "1932",
-          "note": "registrata a Chicago",
-          "link": "https://www.youtube.com/watch?v=OuH8gRGvSbg"
-        },
-        {
-          "who": "Δόμνα Σαμίου",
-          "year": "1983",
-          "note": "",
-          "link": "https://www.youtube.com/watch?v=kllORS5FlUs"
-        }
-      ],
-      "date": "2026-08-10",
-      "tgr": "Η τράτα μας η κουρελού",
-      "tit": "I tràta mas i kurelù",
-      "alias": "",
-      "at": "tradizionale",
-      "am": "tradizionale",
-      "yr": "tradizionale",
-      "ar": "",
-      "lb": "",
-      "gn": "dimotikò nisiòtiko",
-      "dr": "",
-      "bal": "sirtòs",
-      "ll": "",
-      "li": "",
-      "ch": "MIm            LAm         MIm      LAm\nΗ τράτα μας η κουρελού, η χιλιομπαλωμένη\nMIm           LAm             RE    MIm\nΌλο την εμπαλώναμε κι αυτή ήταν ξηλωμένη\n\nMIm     LAm RE  MIm         LAm   RE   MIm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nMIm   LAm        RE    MIm\nΕβίρα τρεις, στο σπίτι της\n\nMIm            LAm         MIm      LAm\nΑν το 'ξερε η μάνα μου πως δούλευα στην τράτα\nΜIm           LAm                    RE      MIm\nθα μου 'στελνε τα ρούχα μου και την παλιά μου βράκα\n\nMIm     LAm RE  MIm         LAm   RE   MIm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nMIm   LAm        RE    MIm\nΕβίρα τρεις, στο σπίτι της\n\nMIm            LAm         MIm      LAm\nΠήγαμε και καλάραμε κάτω στα Διονυσάρια\nMIm           LAm             RE    MIm\nκαι γέμισε η τράτα μας σουπιές και καλαμάρια\n\nMIm     LAm RE  MIm         LAm   RE   MIm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nMIm   LAm        RE    MIm\nΕβίρα τρεις, στο σπίτι της\n\nMIm            LAm         MIm      LAm\nΤην τράτα μου την πούλησα στην Θεσσαλονίκη\nMIm           LAm             RE    MIm\nκαι γύρισα στη μάνα μου με δίχως μεταλλίκι\n\nMIm     LAm RE  MIm         LAm   RE   MIm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nMIm   LAm        RE    MIm\nΕβίρα τρεις, στο σπίτι της",
-      "tr": "I tràta mas i kurelù\n\nI tràta mas i kurelù, i chiliobaloméni\nÒlo tin ebalòname ki aftì ìtan ksiloméni\n\nEvìra mia, sta pania, evìra dio, sto chorio\nEvìra tris, sto spiti tis\n\nAn to 'ksere i màna mu pos dùleva stin tràta\ntha mu 'stelne ta rucha mu ke tin palià mu vràka\n\nPìghame ke kalàrame kàto sta Dionisària\nke ghιèmise i tràta mas supiès ke kalamària\n\nTin tràta mu tin pùlisa stin Thessaloníki\nke ghìrisa sti màna mu me dìchos metallìki",
-      "ti": "La nostra rete a strascico\n\nLa nostra rete a strascico¹, tutta stracciata,\nsempre la rattoppavamo e lei si scuciva ancora\n\nTira² una, per le vele, tira due, verso il paese\ntira tre, verso casa sua\n\nSe lo sapesse mia madre che lavoravo sulla peschereccia³\nmi manderebbe i miei vestiti e le mie vecchie mutande\n\nTira una...\ntira tre, verso casa sua\n\nSiamo andati e abbiamo calato le reti⁴ giù ai Dionisària⁵\ne si è riempita la nostra rete di seppie e calamari\n\nTira una...\ntira tre, verso casa sua\n\nHo venduto la mia rete a Salonicco\ne sono tornato da mia madre senza un soldo⁶\n\nTira una...\ntira tre, verso casa sua\n\nNote\n\nΤράτα – tipo di rete a strascico usata nella pesca tradizionale greca, spesso indica anche la barca stessa usata per questo tipo di pesca.\nΕβίρα – dal verbo marinaresco \"βιράρω\" (issare/tirare, dall'italiano \"virare\"), termine gergale dei pescatori per \"tira!\", comando ritmico durante il recupero delle reti.\nΔούλευα στην τράτα – espressione colloquiale per \"lavoravo sulla peschereccia/sulla barca da pesca a strascico\", vita dura e umile associata ai pescatori poveri.\nΚαλάραμε – dal verbo \"καλάρω\" (calare le reti in mare), termine tecnico della pesca.\nΔιονυσάρια – toponimo locale (probabilmente una zona di pesca specifica, forse vicino a un'isola o costa greca), riferimento geografico popolare della canzone.\nΔίχως μεταλλίκι – espressione idiomatica popolare, \"μεταλλίκι\" deriva da \"μέταλλο\" (metallo/moneta), significa \"senza un soldo\", cioè tornare a casa poveri e senza guadagno nonostante il duro lavoro.",
-      "no": "Il testo delle canzoni popolari e tradizionali può variare, anche sensibilmente, da un'esecuzione all'altra. Questo accade soprattutto per i brani di tradizione orale, spesso privi di un autore certo, tramandati e rielaborati nel tempo da cantante a cantante."
     },
     {
       "id": "s_1786348639456",
@@ -4023,6 +4010,14 @@
     }
   ],
   "args": [
+    {
+      "id": "a_1787214081799",
+      "title": "Ευτυχία Παπαγιαννοπούλου — la voce nascosta del rebetiko e del laikò",
+      "tag": "storie di persone",
+      "date": "2026-08-12",
+      "body": "Le origini e la fuga dall'Asia Minore\nNata ad Aidini, in Asia Minore, nel 1893 (secondo altre fonti 1894 o 1896), come Eftychia Chatzigeorgiou-Oikonomou. Frequentò il Liceo di Smirne, conseguendo il diploma di maestra. Perse il padre in giovane età. https://musicagreca.github.io/musica-greca/images/papaiannopulu4.jpg   Nel 1911 fu data in sposa, dopo una proposta combinata, al commerciante Kostis Nikolaidis, di vent'anni più anziano di lei — dalla loro unione nacquero due figlie, Maria (Mairi) e Kaiti. https://musicagreca.github.io/musica-greca/images/papaiannopulu1.jpg \n\nQuando l'esercito turco invase Aidini, la famiglia fu costretta ad abbandonare tutto e a fuggire.\nIl periodo come attrice\nTrasferitasi ad Atene dopo la Catastrofe dell'Asia Minore del 1922, lavorò come attrice dal 1926 al 1942, anziché come maestra — una vocazione che portò alla fine del suo primo matrimonio. Recitò in compagnie itineranti e sui palcoscenici teatrali, per un periodo anche nella compagnia di Marika Kotopouli.\nNel 1932 conobbe Georgios Papagiannopoulos, descritto come l'unico uomo che conquistò davvero il suo cuore — da cui prese il cognome con cui è conosciuta artisticamente.\nL'ingresso nel mondo della canzone popolare\nSolo alla fine degli anni '40, ormai in età avanzata, iniziò a scrivere testi per canzoni. L'ingresso in questo ambiente avvenne grazie a Marika Ninou, che in quel periodo lavorava anche come acrobata: fu lei, tramite Frangiskos Manelis, a farla conoscere a Vasilis Tsitsanis, di cui Eftychia era una grande ammiratrice. https://musicagreca.github.io/musica-greca/images/papaghiannopoulou.jpg \nCon Tsitsanis scrisse i suoi primi brani. Collaborò poi con moltissimi altri grandi compositori dell'epoca: Manolis Chiotis, Apostolos Kaldaras, Antonis Repanis, Bampis Bakalis. Manos Hatzidakis musicò un suo testo (\"Είμ' αητός χωρίς φτερά\"), così come Stavros Xarchakos (\"Τι έχει και κλαίει το παιδί\").\nUn rapporto libero con la propria opera\nUn tratto distintivo del suo carattere fu la totale indifferenza verso la fama e la proprietà intellettuale delle proprie parole. In un'intervista al giornale \"Ακρόπολις\" nel 1961 raccontò candidamente che il suo unico interesse era vendere i testi — tra le 200 e le 300 dracme l'uno — senza occuparsi di cosa ne sarebbe stato in seguito; alla consegna di ogni testo, firmava persino una dichiarazione di rinuncia a qualsiasi diritto su di esso. Per questo motivo, ancora oggi, è impossibile stabilire con certezza il numero esatto delle canzoni realmente scritte da lei: probabilmente molte di più di quelle ufficialmente a lei accreditate.\nQuesta scelta portò a una disputa nota, quella su \"Τα καβουράκια\": quando ne rivendicò la paternità, Tsitsanis smentì pubblicamente, sostenendo che lei gli avesse portato solo una bozza su sua richiesta, poi modificata da lui fino a diventare la canzone conosciuta da tutta la Grecia. Sorte opposta ebbe invece \"Δυο πόρτες έχει η ζωή\": qui fu lo stesso Stelios Kazantzidis ad ammettere pubblicamente che i versi erano davvero interamente suoi.\nIl lutto e la scrittura di \"Δυο πόρτες έχει η ζωή\"\nNel 1960 morì la figlia primogenita, Maria. Fu per sopportare questo dolore che Eftychia scrisse \"Δυο πόρτες έχει η ζωή\" — uno dei suoi testi più celebri, capace di condensare in poche righe una riflessione sulla fragilità e la brevità della vita. Lei stessa raccontò di scrivere quando un vecchio ricordo la soffocava, quando il dolore si faceva troppo pesante da portare — la scrittura era per lei un modo per allontanarsi da un ambiente doloroso, fatto di ricordi molto amari.\nUn aneddoto racconta come, nei primi tempi, fosse proprio Stelios Kazantzidis a intuire il valore di questo brano, inizialmente passato quasi inosservato rispetto ad altri successi del momento: andava dicendo ai negozianti di dischi di prestarvi attenzione, perché in pochi anni il pubblico l'avrebbe amato più di ogni altra sua canzone del periodo.\nIl rifugio nel gioco\nPer affrontare il lutto, oltre alla scrittura, Eftychia sviluppò una vera ossessione per le carte — non il kum-kan, che considerava un gioco \"da vecchie noiose\", ma il poker, praticato ovunque trovasse un tavolo: caffè, circoli, bische di ogni genere. Questa passione, sempre più esigente di denaro, la portò talvolta a vendere o impegnare oggetti personali ed elettrodomestici alle vicine di casa pur di procurarsi i fondi per giocare. Trovò in questo una compagna d'elezione in Sotiria Bellou, e più volte fu aiutata economicamente nei momenti di difficoltà dall'attrice Rena Vlachopoulou.\nLa famiglia\nDal primo matrimonio nacquero le figlie Maria (morta nel 1960) e Kaiti, che le restò accanto negli ultimi anni insieme alla nipote. La nipote Rea Manelli, https://musicagreca.github.io/musica-greca/images/papaiannopulu2.jpg figlia di Maria, si prese cura della nonna fino alla fine dei suoi giorni. Anni dopo, Rea raccontò la vita della nonna nel libro \"Η γιαγιά μου η Ευτυχία\" (2003) — un ritratto vivido della sua personalità tumultuosa e della sua vita movimentata. Il libro ispirò nel 2007 il monologo teatrale \"Ευτυχία Παπαγιαννοπούλου\", scritto e diretto da Petros Zoulias, interpretato da Nena Mendi; nel 2019 divenne anche un film, \"Ευτυχία\", per la regia di Angelos Frantzis, con Katia Goulioni e Karyofyllia Karabeti nel ruolo della protagonista in diverse epoche della sua vita.\nGli ultimi anni\nMorì ad Atene il 7 gennaio 1972, a 79 anni, con accanto la nipote Rea. https://musicagreca.github.io/musica-greca/images/papaiannopulu3.jpg Il suo ultimo desiderio fu che le cantassero un'altra delle sue canzoni, \"Άμαξα μέσ' στη βροχή\". www.youtube.com/watch?v=uaFmXehY3UM",
+      "link": ""
+    },
     {
       "id": "a_1787209404865",
       "title": "Καπετάν Αντρέας Ζέππος (1914-1969) — il pescatore diventato leggenda del rebetiko",
