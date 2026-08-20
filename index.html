@@ -600,6 +600,9 @@ function formatArgBody(raw){
     out = out.replace(/(^|[\s(])(https?:\/\/[^\s)]+)/g, function(m,pre,url){
       return pre+'<a class="arg-link-btn" href="'+url+'" target="_blank" rel="noopener">Apri <span class="arg-link-ico">↗</span></a>';
     });
+    out = out.replace(/(^|[\s(])(www\.[^\s)]+)/g, function(m,pre,url){
+      return pre+'<a class="arg-link-btn" href="https://'+url+'" target="_blank" rel="noopener">Apri <span class="arg-link-ico">↗</span></a>';
+    });
     return out;
   }
   for(i=0;i<lines.length;i++){
