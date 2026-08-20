@@ -1,8 +1,61 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-20T16:36:50.494Z",
+  "exportedAt": "2026-08-20T17:36:41.936Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787247132699",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-20",
+      "tgr": "Πέντε μάγκες στον Περαία",
+      "tit": "Pènde mànghes ston Perèa",
+      "alias": "",
+      "at": "Αικατερίνη Χουρμούζη",
+      "am": "Γιοβάν Τσαούς",
+      "yr": "1936",
+      "ar": "Αντώνης Καλυβόπουλος",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=ecED5Q9gnrU",
+      "li": "",
+      "ch": "LAm\nΠέντε μάγκες στον Περαία\nLAm A\nπέρασαν απ' τον τεκέ\nREm              MI\nΚάποιος είπε απ' την παρέα\nREm     MI       LAm\nπα να πιούμε ένα αργιλέ\n\nREm         SOL\nΜπήκαν μέσα να φουμάρουν\nDO\nφώναξαν του τεκετζή\nREm        MI\nΠιάσε ένα αργιλέ αφράτο\nREm    MI    LAm\nμε Περσίας τουμπεκί\n\nLAm\nΔύο τάλαρα τον δίνεις\nLAm A\nτρία θα πλερώσουμε\nREm              MI\nΑν η γκλάβα θα γεμίσει\nREm     MI       LAm\nθα σε προτιμήσουμε\n\nREm         SOL\nΦούμαραν και ήταν τζούρα\nDO\nφώναξαν του τεκετζή\nREm        MI\nΔεν κατάλαβα μαστούρα\nREm    MI    LAm\nήταν σκέτο τουμπεκί\n\nLAm\nΡε συ νόμιζες πως έχεις\nLAm A\nτίποτα κορτάκηδες\nREm              MI\nμήτε πιτσιρίκια έχεις μήτε\nREm     MI       LAm\nκαι πρεζάκηδες\n\nREm         SOL\nΠάν' εκεί στο βουναλάκι\nDO\nέχω ζούλα ένα αργιλέ\nREm        MI\nπάμε μάγκες να τον πιούμε\nREm    MI    LAm\nνα μην πάμε στον τεκέ\n\nLAm\nΡε συ νόμιζες πώς έχεις\nLAm A\nτίποτα κορτάκηδες\nREm              MI\nΜήτε πιτσιρίκια έχεις\nREm     MI       LAm\nμήτε και πρεζάκηδές\n\nREm         SOL\nΑν θα κλείσουν τους τεκέδες\nDO\nΠειραιά Κρεμυδαρού\nREm        MI\nΤότε πια θα κουβαλάω\nREm    MI    LAm\nστη σπηλιά την κουρελού",
+      "tr": "Pènde mànghes ston Perèa\n\nPénde mánges ston Piréa\npérasan ap' ton deké\nKápios ípe ap' tin pareá\npa na piúme éna arghilé\n\nBíkan mésa na fumárun\nfónaksan tu dekedzí\nPiáse éna arghilé afráto\nme Persías dubekí\n\nDío tálara ton dínis\ntría tha pleróssume\nAn i gláva tha ghemísi\ntha se protimísume\n\nFúmaran ke ítan dzúra\nfónaksan tu dekedzí\nDen katálava mastúra\nítan skéto dubekí\n\nRe si nómizes pos échis\ntípota kortákides\nmíte pitsiríkia échis míte\nke prezákides\n\nPán'ekí sto vunaláki\nécho zúla éna arghilé\npáme mánges na ton piúme\nna min páme ston deké\n\nRe si nómizes pos échis\ntípota kortákides\nMíte pitsiríkia échis\nmíte ke prezákidés\n\nAn tha klísun tus dekédes\nPiraiá Kremidarú\nTóte pia tha kuvaláo\nsti spiliá tin kur",
+      "ti": "Cinque mangas al Pireo\n\nCinque mangas al Pireo\nsono passati dal tekè\nQualcuno disse alla compagnia\nandiamo a fumare un narghilè\n\nEntrarono dentro a fumare\nchiamarono il gestore del tekè\nprendi un narghilè bello soffice\ncon tabacco di Persia\n\nDue talleri lo paghi\ntre li pagheremo\nse la testa si riempirà (di fumo)\nallora ti preferiremo\n\nFumarono ed era una boccata leggera\nchiamarono il gestore del tekè\nnon ho capito, roba scarsa\nera tabacco puro senza niente\n\nEhi tu, credevi di avere\nqualcosa, corteggiatorelli\nnon avete né ragazzini\nné tossici di eroina\n\nLà su quella collinetta\nho di nascosto un narghilè\nandiamo, mangas, a fumarlo\nper non andare al tekè\n\nEhi tu, credevi di avere\nqualcosa, corteggiatorelli\nnon avete né ragazzini\nné tossici di eroina\n\nSe chiuderanno i tekè\ndi Pireo e Kremidarù\nallora porterò tutto\nnella grotta della straccivendola\n\nNote:\n\nμάγκας (mángas) — figura tipica del rebetiko: uomo di strada, sbruffone ma dal proprio codice d'onore\nτεκές (tekè) — locale/fumeria dove si fumava hashish/narghilè, ambiente tipico della sottocultura rebetika\nαργιλέ — narghilè\nτουμπεκί — tabacco/miscela usata nel narghilè (spesso mescolata a hashish nel contesto rebetiko)\nγκλάβα — gergale per \"testa\"\nτζούρα — tiro/boccata (di narghilè o sigaretta)\nμαστούρα — stato di intontimento/sballo, o gergalmente \"roba forte\"\nκορτάκηδες — diminutivo spregiativo per corteggiatori/spacconi da poco\nπρεζάκηδες — tossicodipendenti da eroina (πρέζα = eroina in slang)\nΚρεμυδαρού — zona/quartiere del Pireo noto per i tekè\nκουρελού — straccivendola/donna di stracci, qui riferito scherzosamente a un nascondiglio povero e marginale",
+      "no": ""
+    },
+    {
+      "id": "s_1787244681503",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δημήτρης Ζάχος",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=JPGUW2mn5Es"
+        }
+      ],
+      "date": "2026-08-20",
+      "tgr": "Μια βοσκοπούλα αγάπησα",
+      "tit": "Mia voskopùla agàpisa",
+      "alias": "",
+      "at": "Γεώργιος Ζαλοκώστας",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "LAm              MIm  LAm      REm       LAm\nΜια βοσκοπούλα αγάπησα μια ζηλεμένη κόρη\nDO        SOL   DO    REm        MIm\nμα την αγάπησα πολύ ήμουν αλάλητο πουλί\nREm       MIm         SI      DO    MI LAm\nήμουν αλάλητο πουλί δέκα χρονών αγόρι\n\nLAm              MIm  LAm      REm       LAm\nΜια μέρα πού καθόμαστε στα χόρτα τ' ανθισμένα\nDO        SOL   DO    REm        MIm\nΜαριώ της λέω σ' αγαπώ μα ντρέπομαι να σού το πω\nREm       MIm         SI      DO    MI LAm\nμα ντρέπομαι να σού το πω τρελαίνομαι για σένα\n\nLAm              MIm  LAm      REm       LAm\nΑπό τη μέση μ' άρπαξε με φίλησε στο στόμα\nDO        SOL   DO    REm        MIm\nκαι μού είπε μ' αναστεναγμό για της αγάπης τον καημό\nREm       MIm         SI      DO    MI LAm\nγια της αγάπης τον καημό είσαι μικρός ακόμα\n\nLAm              MIm  LAm      REm       LAm\nΜεγάλωσα και την ζητώ μ' άλλον ζητάει η καρδιά της\nDO        SOL   DO    REm        MIm\nεγώ όμως πού την αγαπώ ποτέ μου δεν το λησμονώ\nREm       MIm         SI      DO    MI LAm\nποτέ μου δεν το λησμονώ το γλυκοφίλημά της",
+      "tr": "Mia voskopùla agàpisa\n\nMia voskopúla aghápisa mia zileméni kóri\nma tin aghápisa polí ímun alálito pulí\nímun alálito pulí déka chronón aghóri\n\nMia méra pu kathómaste sta chórta t'anthisména\nMarió tis léo s'aghapó ma ndrépome na su to po\nma ndrépome na su to po treléñome gia séna\n\nApó ti mési m'árpakse me fílise sto stóma\nke mu ípe m'anastenaghmó gia tis aghápis ton kaimó\ngia tis aghápis ton kaimó íse mikrós akóma\n\nMeghálosa ke tin zitó m'álon zitái i kardiá tis\neghó ómos pu tin aghapó poté mu den to lismonó\npoté mu den to lismonó to ghlikofílimá tis",
+      "ti": "Ho amato una pastorella\n\nHo amato una pastorella, una ragazza invidiata da tutti\nma l'ho amata tanto, ero un uccellino ammutolito\nero un uccellino ammutolito, un ragazzo di dieci anni\n\nUn giorno che stavamo tra le erbe fiorite\nle dico \"Marió, ti amo\" ma mi vergogno a dirtelo\nma mi vergogno a dirtelo, impazzisco per te\n\nMi afferrò per la vita, mi baciò sulla bocca\ne mi disse con un sospiro, per il dolore dell'amore\nper il dolore dell'amore sei ancora piccolo\n\nSono cresciuto e la cerco, il suo cuore ne cerca un altro\nio però che la amo, non lo dimentico mai\nnon lo dimentico mai il suo dolce bacio\n\nNote:\n\nαλάλητο πουλί — letteralmente \"uccellino muto/senza parole\", immagine poetica per indicare stupore/incapacità di esprimersi per l'emozione\nζηλεμένη κόρη — \"ragazza invidiata\", cioè bella al punto da suscitare invidia/ammirazione generale\nγλυκοφίλημα — vezzeggiativo composto: \"dolce bacio\", con la dolcezza incorporata nel termine stesso",
+      "no": ""
+    },
     {
       "id": "s_1787228796609",
       "offsets": {},
@@ -6907,6 +6960,64 @@
         "am",
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1787244398735",
+      "name": "Γεώργιος Ζαλοκώστας",
+      "nameit": "Georgios (Goulas) Zalokostas",
+      "born": "aprile 1805, Syrrako, regione dei Tzoumerka, Epiro",
+      "died": "3 settembre 1858, Atene",
+      "bio": "Combattente e poeta romantico\n\nFiglio del ricco commerciante Christoforos Zalokostas, caduto in disgrazia presso Ali Pasha, insieme al quale (e al fratello Dimitrios) si rifugiò a Livorno, in Italia. Lì frequentò una scuola italiana, si dedicò per un periodo alla pittura, e studiò filologia greca e italiana, oltre a un principio di studi giuridici mai completato.\n\nAllo scoppio della Rivoluzione greca del 1821, salpò da Marsiglia insieme al padre e al fratello sulla stessa nave di Mavrokordatos e altri intellettuali ed esuli greci, oltre a diversi ufficiali stranieri (soprattutto italiani e francesi), giungendo a Missolungi il 21 luglio 1821. Combatté nella Rivoluzione e fu tra i pochissimi sopravvissuti alla celebre Uscita eroica di Missolungi.\n\nEsordì ufficialmente in letteratura solo nel 1851, vincendo il Concorso poetico Ralleio con il poema \"Μεσολόγγιον\".\n\nIl suo percorso poetico si mosse tra il registro colto (καθαρεύουσα) e un linguaggio più semplice e popolare, con influenze che spaziano dal romanticismo dei fratelli Soutsos al neoclassicismo, fino alla poesia di Solomos e alla Scuola Eptanesiaca. Fu definito \"il poeta triste\" della Rivoluzione — una delle figure più nobili e insieme più perseguitate dalla sorte della letteratura greca.\n\nDi particolare sensibilità sono le poesie che compose dopo la morte di due dei propri figli, un lutto che segnò profondamente la sua esistenza — un dettaglio che rende ancora più toccante la componente sentimentale/malinconica presente anche in \"Μια βοσκοπούλα αγάπησα\".\n\nDivenne celebre soprattutto grazie ad alcune sue \"cantade\" (καντάδες), tra cui proprio \"Μια βοσκοπούλα αγάπησα\" e \"Η αναχώρησίς της\" — brani che, come conferma qui direttamente anche Wikipedia, si basano su melodie di ispirazione popolare/musicale già esistenti, coerentemente con quanto già ricostruito nell'approfondimento.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/Zalokostas.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1787246171197",
+      "name": "Γιοβάν Τσαούς",
+      "nameit": "Ghiovàn Tsaùs",
+      "born": "1893, Kastamonì, Pontio",
+      "died": "20 ottobre 1942, Pireo",
+      "bio": "Vero nome Γιάννης Εϊτζιρίδης\n\nCompositore popolare greco di canzoni rebetiko, di origine pontica, che lasciò un'opera discografica registrata piuttosto limitata (le fonti oscillano tra 11 e 13 brani).\n\nNato a Kastamoni, nella regione di Ikonio (Konya), Asia Minore, nel 1893. Fin da giovanissimo si dedicò alla musica, suonando tambur e altri strumenti a corda (violino, oud). A diciotto anni era già conosciuto in tutta l'Asia Minore come musicista straordinario. Essendo cittadino ottomano, prestò servizio nell'esercito turco con il grado di sergente (\"τσαούς\", çavuş) — da cui il soprannome con cui è universalmente conosciuto. In Turchia era già un musicista noto, al punto che si dice avesse suonato persino alla corte del sultano Abdul Hamid II.\n\nCon la Catastrofe dell'Asia Minore del 1922, fuggì come profugo verso la Grecia, insieme alla moglie Aikaterini Chourmouzi (nata Karagiorgi). Si stabilì dapprima al Pireo, dove viveva in una casa a due piani, con al piano terra prima una sartoria, poi trasformata in un ouzeri; nel 1937 si trasferì definitivamente a Kokkinia, dove rimase fino alla morte.\n\nNon lavorò mai come musicista professionista in Grecia: suonava e componeva solo per proprio diletto, senza mai salire su un vero palcoscenico.\n\nDivenne celebre come uno dei più straordinari virtuosi del bouzouki/tamburà della propria epoca — fama dovuta in parte ai suoi lunghissimi taximia (improvvisazioni strumentali) e a strumenti particolari che nessun altro bouzouktsìs del Pireo riusciva a suonare, con tastiera modellata su quella del kanonaki (la cetra a tavola orientale): secondo un aneddoto raccontato da Stellakis Perpiniadis, chiunque provasse a suonare quel tamburà lo abbandonava subito, incluso — per un breve tentativo — lo stesso Markos Vamvakaris. Possedeva una conoscenza eccellente dei dromoi (i modi musicali orientali), che trasmise anche ad altri creatori popolari a lui contemporanei. Fu anche solista in alcuni dei brani più belli di Panagiotis Tountas, tra cui \"Εγώ θέλω πριγκίπισσα\", la leggendaria \"Βαρβάρα\" e \"Μαρίκα η δασκάλα\".\n\nLe sue registrazioni furono realizzate soprattutto nel periodo 1935-1937, con le voci di Antonis Kalyvopoulos e Stellakis Perpiniadis. Tra i titoli: \"Γιοβάν Τσαούς\", \"Πέντε μάγκες\", \"Παραπονούνται οι μάγκες μας\", \"Η Ελένη η ζωντοχήρα\" (Kalyvopoulos); \"Βλάμισσα\", \"Μάγκισσα\", \"Σε μια μικρούλα\", \"Διαμάντω αλανιάρα\" (Perpiniadis) — oltre a \"Γελασμένος\", \"Ο κατάδικος\", \"Ο πρεζάκιας\" e il brano di stampo tradizionale \"Δροσάτη Πελοπόννησος\". Smise di registrare nel 1937, come molti compositori del suo tempo (tra cui Vangelis Papazoglou, Anestis Delias, Giorgos Batis), rifiutandosi di sottoporre le proprie opere alla censura imposta dal regime di Metaxas.\n\nI testi delle sue canzoni non erano scritti da lui stesso, ma dalla moglie Aikaterini — un fatto che lei stessa, per ragioni personali (forse perché i testi trattavano temi legati all'hashish), non voleva si sapesse. Solo Stellakis Perpiniadis scrisse personalmente il testo di 2-3 canzoni (\"Η Βλάμισσα\", \"Η Ελένη η ζωντοχήρα\", \"Ο γελασμένος\"), a condizione di poterle cantare lui stesso.\n\nMorì a Kokkinia, Pireo, il 20 ottobre 1942, per intossicazione alimentare: lui e la moglie avevano mangiato del grano ormai avariato, dopo essere stato inzuppato d'acqua di mare. Poche ore dopo la sua morte, lo seguì anche Aikaterini, colpita dallo stesso avvelenamento.\n\nSopravvivono ancora oggi due dei suoi tambura (uno grande e uno piccolo), fotografati e documentati dallo studioso Panagiotis Kounadis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/tsaus.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787246399978",
+      "name": "Αικατερίνη Χουρμούζη",
+      "nameit": "Ecaterìni Churmùzi",
+      "born": "sconosciuto",
+      "died": "20 ottobre 1942, Pireo",
+      "bio": "Nata Καραγιώργη\n\nParoliera greca, moglie di Giannis Eïtziridis, \"Giovan Tsaous\". Nonostante fosse lei a scrivere i testi delle canzoni pubblicate a nome del marito, preferì per tutta la vita non far conoscere questo suo ruolo — probabilmente perché alcuni dei brani trattavano temi legati all'hashish, argomento delicato per una donna dell'epoca.\n\nCon il marito, profugo come lei dall'Asia Minore dopo la Catastrofe del 1922, condivise la vita quotidiana al Pireo, dove la coppia gestì prima una sartoria, poi trasformata in un ouzeri, prima del trasferimento definitivo a Kokkinia nel 1937.\n\nMorì a Kokkinia il 20 ottobre 1942, poche ore dopo il marito, colpita dallo stesso avvelenamento alimentare che aveva ucciso Giannis — entrambi avevano consumato del grano avariato, inzuppato d'acqua di mare.\n\nPurtroppo le fonti a disposizione non riportano altri dettagli biografici su di lei (data di nascita, formazione, altri aspetti della sua vita) al di fuori del suo ruolo, rimasto a lungo nascosto, di vera autrice dei testi firmati dal marito.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1787247108479",
+      "name": "Αντώνης Καλυβόπουλος",
+      "nameit": "Antònis Kalivòpulos",
+      "born": "1905",
+      "died": "1960",
+      "bio": "Αντώνης Καλυβόπουλος (1905-1960)\n\nCantante greco di canzoni rebetiko, comparso improvvisamente nella discografia nel 1936 e uscitone altrettanto rapidamente — nonostante ciò, lasciò un segno riconoscibile ancora oggi.\n\nNon era un cantante di professione, ma un ingegnere meccanico: proprio per questo il suo ingresso in discografia viene descritto come arrivato \"dal nulla\". Incise appena 6 canzoni in tutta la sua breve parentesi discografica, tutte composizioni di Giannis Eïtziridis, meglio noto come Giovan Tsaous — di cui è considerato l'interprete \"ideale\", capace di rendere al meglio uno stile compositivo del tutto originale e senza precedenti nel panorama del rebetiko dell'epoca.\n\nTra i brani da lui interpretati: \"Γιοβάν Τσαούς\", \"Παραπονούνται οι μάγκες μας\", \"Πέντε μάγκες\", \"Η Ελένη η ζωντοχήρα\", \"Ο πρεζάκιας\", oltre alla partecipazione ad altre registrazioni.\n\nNon sono disponibili ulteriori dettagli biografici (luogo di nascita, formazione, vita privata) al di fuori di questa breve ma intensa parentesi discografica.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kalivopulos.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
