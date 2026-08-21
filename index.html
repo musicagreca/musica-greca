@@ -394,7 +394,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
     <button class="chord-close" onclick="closeChord()">✕</button>
     <div class="chord-box-ttl" id="chord-box-ttl"></div>
     <img id="chord-box-img" src="" alt="">
-    <div id="chord-box-missing" style="display:none;color:var(--t3);font-size:13px;padding:2rem;text-align:center">Diagramma non ancora disponibile.</div>
+    <div id="chord-box-missing" style="display:none;color:var(--t3);font-size:12px;padding:.6rem 1rem;text-align:center;max-width:150px">Diagramma non disponibile</div>
   </div>
 </div>
 <div id="tuner-lightbox" onclick="closeTuner(event)">
@@ -630,13 +630,30 @@ function formatArgBody(raw){
 function el(id){ return document.getElementById(id); }
 
 /* ── ACCORDI PER CHITARRA ── */
-var CHORD_LIST=["do","do-","do7","do-7","dodies","dodies-","dodies7","dodies-7",
-"re","re-","re7","re-7","reb","reb-","reb7","reb-7","redies","redies-","redies7","redies-7",
-"mi","mi-","mi7","mi-7","mib","mib-","mib7","mib-7",
-"fa","fa-","fa7","fa-7","fadies","fadies-","fadies7","fadies-7",
-"sol","sol-","sol7","sol-7","sob","soldies","soldies-","soldies7","soldies-7",
-"si","si-","si7","si-7","si9","sib","sib-","sib7","sib-7","sidim","simaj7",
-"la","la6","la-6","la7","la-7","la9","lab","lab-","lab7","lab-7","ladies","ladies-","ladies7","ladies-7","lamaj","lamaj7","lamin","laminore"];
+var CHORD_LIST=["do","do-","do6","do7","do9","do-6","do-7","domaj7",
+"dodim","doaug","dosus","dodies","dodies-","dodies6","dodies7","dodies9",
+"dodies-6","dodies-7","dodiesmaj7","dodiesdim","dodiesaug","dodiessus","reb","reb-",
+"reb6","reb7","reb9","reb-6","reb-7","rebmaj7","rebdim","rebaug",
+"rebsus","re","re-","re6","re7","re9","re-6","re-7",
+"remaj7","redim","reaug","resus","redies","redies-","redies6","redies7",
+"redies9","redies-6","redies-7","rediesmaj7","rediesdim","rediesaug","rediessus","mib",
+"mib-","mib6","mib7","mib9","mib-6","mib-7","mibmaj7","mibdim",
+"mibaug","mibsus","mi","mi-","mi6","mi7","mi9","mi-6",
+"mi-7","mimaj7","midim","miaug","misus","fa","fa-","fa6",
+"fa7","fa9","fa-6","fa-7","famaj7","fadim","faaug","fasus",
+"fadies","fadies-","fadies6","fadies7","fadies9","fadies-6","fadies-7","fadiesmaj7",
+"fadiesdim","fadiesaug","fadiessus","sob","sob-","sob6","sob7","sob9",
+"sob-6","sob-7","sobmaj7","sobdim","sobaug","sobsus","sol","sol-",
+"sol6","sol7","sol9","sol-6","sol-7","solmaj7","soldim","solaug",
+"solsus","soldies","soldies-","soldies6","soldies7","soldies9","soldies-6","soldies-7",
+"soldiesmaj7","soldiesdim","soldiesaug","soldiessus","lab","lab-","lab6","lab7",
+"lab9","lab-6","lab-7","labmaj7","labdim","labaug","labsus","la",
+"la-","la6","la7","la9","la-6","la-7","lamaj7","ladim",
+"laaug","lasus","ladies","ladies-","ladies6","ladies7","ladies9","ladies-6",
+"ladies-7","ladiesmaj7","ladiesdim","ladiesaug","ladiessus","sib","sib-","sib6",
+"sib7","sib9","sib-6","sib-7","sibmaj7","sibdim","sibaug","sibsus",
+"si","si-","si6","si7","si9","si-6","si-7","simaj7",
+"sidim","siaug","sisus"];
 var CHORD_ROOTS=[["dodies","Do♯"],["redies","Re♯"],["fadies","Fa♯"],["soldies","Sol♯"],["ladies","La♯"],
 ["reb","Re♭"],["mib","Mi♭"],["lab","La♭"],["sib","Si♭"],["sob","Sol♭"],
 ["do","Do"],["re","Re"],["mi","Mi"],["fa","Fa"],["sol","Sol"],["si","Si"],["la","La"]];
@@ -660,10 +677,12 @@ function openChord(code){
   el('chord-box-ttl').textContent=chordLabel(code);
   var img=el('chord-box-img');
   var missing=el('chord-box-missing');
+  var box=img.closest('.chord-box');
   img.style.display='';
   missing.style.display='none';
-  img.onerror=function(){ img.style.display='none'; missing.style.display=''; };
-  img.src='images/accordi/'+code+'.jpg';
+  box.style.maxWidth='360px';
+  img.onerror=function(){ img.style.display='none'; missing.style.display=''; box.style.maxWidth='200px'; };
+  img.src='images/accordi/'+code+'.png';
   el('chord-lightbox').classList.add('open');
 }
 function closeChord(ev){ el('chord-lightbox').classList.remove('open'); }
@@ -821,6 +840,33 @@ function trTok(tok,st){
   if(bs){var pb=pNote(bs.slice(1)); r+='/'+(pb?nOut(((pb.idx+st)%12+12)%12):bs.slice(1));}
   return r;
 }
+/* ── converte un accordo mostrato (es. "REm7", "Sol#", "Lab") nel codice usato da openChord ── */
+var ROOT_IDX_TO_CODE_SHARP=['do','dodies','re','redies','mi','fa','fadies','sol','soldies','la','ladies','si'];
+var ROOT_IDX_TO_CODE_FLAT =['do','reb','re','mib','mi','fa','sob','sol','lab','la','sib','si'];
+function suffixToCode(suf){
+  var s=(suf||'').toLowerCase().replace(/^\/.*/,''); // ignora eventuale basso "/nota"
+  if(!s) return '';
+  if(/^(maj7|major7)/.test(s)) return 'maj7';
+  if(/^dim/.test(s)) return 'dim';
+  if(/^aug/.test(s)) return 'aug';
+  if(/^sus/.test(s)) return 'sus';
+  if(/^(m|min|-)7/.test(s)) return '-7';
+  if(/^(m|min|-)6/.test(s)) return '-6';
+  if(/^(m|min|-)9/.test(s)) return '-9';
+  if(/^(m|min|-)/.test(s)) return '-';
+  if(/^7/.test(s)) return '7';
+  if(/^6/.test(s)) return '6';
+  if(/^9/.test(s)) return '9';
+  return '';
+}
+function tokToChordCode(tok){
+  var p=pNote(tok); if(!p) return null;
+  var suf=tok.slice(p.len);
+  var sufCode=suffixToCode(suf);
+  var useFlat = /b/i.test(tok.slice(0,p.len+1)) && !/#/.test(tok.slice(0,p.len+1));
+  var rootName = useFlat ? ROOT_IDX_TO_CODE_FLAT[p.idx] : ROOT_IDX_TO_CODE_SHARP[p.idx];
+  return rootName+sufCode;
+}
 function isChTok(w){
   var c=w.replace(/[.,;:!?()\[\]]+$/,'').replace(/^[.,;:!?()\[\]]+/,'');
   if(!c) return false;
@@ -868,7 +914,10 @@ function renderSB(song,st,CH2){
         var col=Math.max(0,t.col+offset);
         var leftPx=(col*(CH2||CH)).toFixed(2);
         var tc=trTok(t.raw,st);
-        cH+='<span class="sb-ch" style="left:'+leftPx+'px">'+esc(tc)+'</span>';
+        var chCode=tokToChordCode(tc);
+        var cur=chCode?';cursor:pointer':'';
+        var clickAttr=chCode?' onclick="openChord(\''+chCode+'\')"':'';
+        cH+='<span class="sb-ch" style="left:'+leftPx+'px'+cur+'"'+clickAttr+'>'+esc(tc)+'</span>';
       }
       html+='<div class="sb-pair"><div class="sb-chrow">'+cH+'</div><div class="sb-txt">'+esc(b.txLine||'')+'</div></div>';
     }
