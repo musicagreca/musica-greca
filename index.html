@@ -1017,6 +1017,8 @@ function renderElenchi(){
   var dromoiMap=buildDromoiMap();
   var nDromoi=Object.keys(dromoiMap).length;
   var dromoi=buildDromoiMap();
+  var balli=buildBalliMap();
+  var nBalli=Object.keys(balli).length;
   var cards=[
     {page:'elenco-canzoni',      ico:'&#9834;', ttl:'Canzoni',            cnt:songs.length, sub:'Testi, accordi e trascrizioni'},
     {page:'elenco-cantanti',     ico:'&#127908;',ttl:'Cantanti',          cnt:cnt('ar'),    sub:'Biografie degli esecutori'},
@@ -1024,6 +1026,7 @@ function renderElenchi(){
     {page:'elenco-autori-testo', ico:'&#9997;',  ttl:'Autori testo',      cnt:cnt('at'),    sub:'I poeti e parolieri'},
     {page:'elenco-musicisti',    ico:'&#127928;',ttl:'Musicisti',         cnt:cntMu,        sub:'Strumentisti &mdash; solo schede biografiche'},
     {page:'elenco-generi',       ico:'&#127932;',ttl:'Generi',            cnt:nGeneri,      sub:'Per dromos e stile'},
+    {page:'elenco-balli',        ico:'&#128131;',ttl:'Ballo/Ritmo',       cnt:nBalli,       sub:'Per tipo di ballo'},
     {page:'argomento',           ico:'&#128216;',ttl:'Approfondimenti',cnt:args.length,sub:'Approfondimenti e curiosit&agrave;'}
   ];
   var h='<div class="el-grid">';
