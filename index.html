@@ -171,6 +171,9 @@ body{background:var(--bg);font-family:'Karla',Arial,sans-serif;color:var(--txt);
 .arg-card-body .arg-h2{font-size:15px;font-weight:700;color:var(--txt);margin:16px 0 8px 0}
 .arg-card-body .arg-h3{font-size:13px;font-weight:700;color:var(--txt);margin:12px 0 6px 0}
 .arg-link-btn{display:inline-flex;align-items:center;gap:4px;background:var(--abg);color:var(--acc);padding:2px 9px;border-radius:20px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap}
+.arg-link-audio{background:#e8f3ea;color:#1e7a34}
+.arg-img-link{display:block;margin:.5rem 0}
+.arg-inline-img{max-width:100%;max-height:340px;border-radius:var(--rad);display:block;border:1px solid var(--bor)}
 .arg-link-btn:hover{background:var(--acc);color:#fff}
 .arg-link-ico{font-size:11px}
 .arg-table-wrap{overflow-x:auto;margin:10px 0}
@@ -615,17 +618,43 @@ function formatArgBody(raw){
     tableRows = [];
     inTable = false;
   }
+  function isImgUrl(url){ return /\.(jpe?g|png|gif|webp|svg)(\?.*)?$/i.test(url); }
+  function isAudioUrl(url){ return /(youtube\.com|youtu\.be|spotify\.com|soundcloud\.com)/i.test(url); }
+  function linkOrImg(url){
+    if(isImgUrl(url)){
+      return '<a href="'+url+'" target="_blank" rel="noopener" class="arg-img-link"><img src="'+url+'" class="arg-inline-img" loading="lazy" alt=""></a>';
+    }
+    if(isAudioUrl(url)){
+      return '<a class="arg-link-btn arg-link-audio" href="'+url+'" target="_blank" rel="noopener">&#127925; Ascolta <span class="arg-link-ico">↗</span></a>';
+    }
+    return '<a class="arg-link-btn" href="'+url+'" target="_blank" rel="noopener">Apri <span class="arg-link-ico">↗</span></a>';
+  }
+  function findSongByTitle(t){
+    t=(t||'').trim().toLowerCase();
+    if(!t) return null;
+    return songs.find(function(s){
+      return (s.tgr||'').trim().toLowerCase()===t || (s.tit||'').trim().toLowerCase()===t;
+    }) || null;
+  }
   function inlineFormat(s){
     var out = esc(s);
+    out = out.replace(/\{\{canzone:([^|}]+)\|([^}]+)\}\}/g, function(m, titolo, urlEsterno){
+      var tit = titolo.trim();
+      var found = findSongByTitle(tit);
+      if(found){
+        return '<a class="arg-link-btn arg-link-audio" href="javascript:void(0)" onclick="goSong(\''+found.id+'\')">&#127925; '+esc(tit)+' <span class="arg-link-ico">→</span></a>';
+      }
+      return '<a class="arg-link-btn arg-link-audio" href="'+esc(urlEsterno.trim())+'" target="_blank" rel="noopener">&#127925; '+esc(tit)+' <span class="arg-link-ico">↗</span></a>';
+    });
     out = out.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     out = out.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, function(m,label,url){
       return '<a class="arg-link-btn" href="'+url+'" target="_blank" rel="noopener">'+esc(label)+' <span class="arg-link-ico">↗</span></a>';
     });
     out = out.replace(/(^|[\s(])(https?:\/\/[^\s)]+)/g, function(m,pre,url){
-      return pre+'<a class="arg-link-btn" href="'+url+'" target="_blank" rel="noopener">Apri <span class="arg-link-ico">↗</span></a>';
+      return pre+linkOrImg(url);
     });
     out = out.replace(/(^|[\s(])(www\.[^\s)]+)/g, function(m,pre,url){
-      return pre+'<a class="arg-link-btn" href="https://'+url+'" target="_blank" rel="noopener">Apri <span class="arg-link-ico">↗</span></a>';
+      return pre+linkOrImg('https://'+url);
     });
     return out;
   }
