@@ -16,6 +16,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@500;600;700&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -29,11 +30,11 @@
   --cor:#993c1d;--cbg:#faece7;
   --rad:6px
 }
-body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-size:14px;line-height:1.6;min-height:100vh}
+body{background:var(--bg);font-family:'Karla',Arial,sans-serif;color:var(--txt);font-size:14px;line-height:1.6;min-height:100vh}
 
 /* NAV */
 .topbar{background:var(--sur);border-bottom:1px solid var(--b2);padding:0 .8rem;display:flex;align-items:center;gap:.3rem;position:sticky;top:0;z-index:100;box-shadow:0 1px 4px rgba(0,0,0,.06);flex-wrap:wrap}
-.tb-brand{font-size:14px;font-weight:700;color:var(--acc);padding:.6rem .7rem .6rem 0;border-right:1px solid var(--bor);margin-right:.3rem;cursor:pointer;white-space:nowrap}
+.tb-brand{font-family:'Cormorant',serif;font-size:19px;font-weight:700;color:var(--acc);padding:.6rem .7rem .6rem 0;border-right:1px solid var(--bor);margin-right:.3rem;cursor:pointer;white-space:nowrap}
 .bc-sep{color:var(--t3);font-size:12px;padding:0 2px}
 .bc-cur{font-size:12px;color:var(--txt);font-weight:700;padding:.6rem .4rem}
 .bc-lnk{font-size:12px;color:var(--t2);padding:.6rem .4rem;cursor:pointer}
@@ -51,7 +52,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 .hero-title{font-size:clamp(2rem,6vw,3.5rem);font-weight:700;letter-spacing:.04em;margin-bottom:.3rem}
 .hero-sub{font-size:clamp(.9rem,3vw,1.2rem);opacity:.85;margin-bottom:1.5rem;font-style:italic}
 .hero-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:2rem}
-.hero-btn{padding:.65rem 1.4rem;border-radius:30px;font-size:.95rem;font-weight:700;cursor:pointer;border:2px solid transparent;font-family:'Arial',sans-serif}
+.hero-btn{padding:.65rem 1.4rem;border-radius:30px;font-size:.95rem;font-weight:700;cursor:pointer;border:2px solid transparent;font-family:'Karla',Arial,sans-serif}
 .hero-btn.prim{background:#fff;color:var(--acc)}
 .hero-btn.out{background:transparent;color:#fff;border-color:rgba(255,255,255,.6)}
 .hero-stats{display:flex;gap:2rem;justify-content:center;flex-wrap:wrap}
@@ -65,7 +66,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 .hcard{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);padding:1.1rem;cursor:pointer;text-align:center;transition:all .18s}
 .hcard:hover{border-color:var(--acc);box-shadow:0 4px 14px rgba(34,68,170,.12);transform:translateY(-2px)}
 .hcard-ico{font-size:1.8rem;margin-bottom:.4rem}
-.hcard-ttl{font-size:.9rem;font-weight:700;color:var(--txt)}
+.hcard-ttl{font-family:'Cormorant',serif;font-size:1.15rem;font-weight:700;color:var(--txt)}
 .hcard-sub{font-size:.75rem;color:var(--t3);margin-top:.15rem}
 .home-footer{background:var(--s2);border-top:1px solid var(--bor);padding:.65rem 1.5rem;text-align:center;font-size:.75rem;color:var(--t3)}
 
@@ -100,19 +101,19 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 
 /* SEARCH */
 .search-bar{position:relative;margin-bottom:.8rem}
-.search-bar input{width:100%;padding:7px 10px 7px 32px;border:1px solid var(--b2);border-radius:var(--rad);font-size:13px;font-family:'Arial',sans-serif;color:var(--txt);background:var(--sur)}
+.search-bar input{width:100%;padding:7px 10px 7px 32px;border:1px solid var(--b2);border-radius:var(--rad);font-size:13px;font-family:'Karla',Arial,sans-serif;color:var(--txt);background:var(--sur)}
 .search-bar::before{content:'🔍';position:absolute;left:9px;top:50%;transform:translateY(-50%);font-size:13px;pointer-events:none}
 
 /* SONG CARD */
 .song-card{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);overflow:hidden}
 .s-hdr{padding:.8rem 1rem;border-bottom:1px solid var(--bor);background:var(--s2)}
-.s-title{font-size:1.15rem;font-weight:700}
+.s-title{font-family:'Cormorant',serif;font-size:1.5rem;font-weight:700}
 .s-tit-it{font-size:12px;color:var(--t3);font-style:italic;margin-top:1px}
 .s-meta{font-size:11.5px;color:var(--t3);display:flex;gap:7px;flex-wrap:wrap;margin-top:.3rem}
 .s-meta .plnk{color:var(--acc);text-decoration:underline;cursor:pointer}
 .s-links{display:flex;gap:4px;margin-top:.4rem;flex-wrap:wrap;align-items:center}
 .itabs{display:flex;border-bottom:1px solid var(--bor);padding:0 1rem;background:var(--sur);flex-wrap:wrap}
-.itab{padding:.45rem .7rem;font-size:11.5px;color:var(--t2);cursor:pointer;border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-1px;font-family:'Arial',sans-serif}
+.itab{padding:.45rem .7rem;font-size:11.5px;color:var(--t2);cursor:pointer;border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-1px;font-family:'Karla',Arial,sans-serif}
 .itab.on{color:var(--acc);border-bottom-color:var(--acc);font-weight:700}
 .s-body{padding:.85rem 1rem}
 .text-blk{font-size:13.5px;line-height:1.85;white-space:pre-wrap;word-break:break-word}
@@ -125,7 +126,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 .sbtn:hover{background:var(--s2)}
 .semi-val{font-size:12px;font-weight:700;padding:1px 8px;border-radius:12px;background:var(--acc);color:#fff;min-width:54px;text-align:center}
 .nseg{display:flex;gap:2px}
-.nseg button{height:22px;padding:0 6px;font-size:11px;border:1px solid var(--b2);border-radius:var(--rad);background:var(--sur);color:var(--t2);cursor:pointer;font-family:'Arial',sans-serif}
+.nseg button{height:22px;padding:0 6px;font-size:11px;border:1px solid var(--b2);border-radius:var(--rad);background:var(--sur);color:var(--t2);cursor:pointer;font-family:'Karla',Arial,sans-serif}
 .nseg button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
 
 /* CANZONIERE */
@@ -140,7 +141,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 /* PERSONA */
 .p-card{background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);overflow:hidden}
 .p-hdr{padding:.8rem 1rem;border-bottom:1px solid var(--bor);background:var(--s2)}
-.p-name{font-size:1.15rem;font-weight:700}
+.p-name{font-family:'Cormorant',serif;font-size:1.5rem;font-weight:700}
 .p-nameit{font-size:12px;color:var(--t3);margin-top:1px}
 .p-roles{display:flex;gap:4px;flex-wrap:wrap;margin-top:.3rem}
 .rp{font-size:10px;padding:2px 7px;border-radius:10px;font-weight:700}
@@ -184,7 +185,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
 @media(max-width:600px){.el-grid,.home-cards{grid-template-columns:1fr}}
 
 .info-blk{margin-bottom:1.5rem}
-.info-h{font-size:.95rem;font-weight:700;color:var(--acc);margin-bottom:.5rem;padding-bottom:.25rem;border-bottom:1px solid var(--bor)}
+.info-h{font-family:'Cormorant',serif;font-size:1.25rem;font-weight:700;color:var(--acc);margin-bottom:.5rem;padding-bottom:.25rem;border-bottom:1px solid var(--bor)}
 .info-blk p{font-size:13.5px;line-height:1.8;color:var(--t2);margin-bottom:.5rem}
 .info-list{font-size:13.5px;line-height:1.8;color:var(--t2);padding-left:1.2rem;margin-bottom:.5rem}
 .info-list li{margin-bottom:.25rem}
@@ -198,7 +199,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
   @page{margin:1.8cm}
 }
 #print-frame{display:none}
-.srch-gbtn{font-size:11px;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:var(--sur);color:var(--t2);cursor:pointer;font-family:'Arial',sans-serif}
+.srch-gbtn{font-size:11px;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:var(--sur);color:var(--t2);cursor:pointer;font-family:'Karla',Arial,sans-serif}
 .srch-gbtn:hover{background:var(--s2)}
 .srch-gbtn.on{background:var(--acc);color:#fff;border-color:var(--acc)}
 
@@ -257,7 +258,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
   <button class="tb-back" onclick="go('home')">← Home</button>
 </div>
 <div class="wrap">
-  <h1 style="font-size:1.2rem;font-weight:700;margin-bottom:1rem">Tutti gli elenchi</h1>
+  <h1 style="font-family:'Cormorant',serif;font-size:1.7rem;font-weight:700;margin-bottom:1rem">Tutti gli elenchi</h1>
   <div class="el-grid" id="el-grid"></div>
 </div>
 </div>
@@ -392,7 +393,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
   <button class="tb-back" onclick="go('home')">← Home</button>
 </div>
 <div class="wrap">
-  <h1 style="font-size:1.2rem;font-weight:700;margin-bottom:.3rem">Accordi per chitarra</h1>
+  <h1 style="font-family:'Cormorant',serif;font-size:1.7rem;font-weight:700;margin-bottom:.3rem">Accordi per chitarra</h1>
   <p style="font-size:13px;color:var(--t3);margin-bottom:1rem">Tocca un accordo per vedere il diagramma.</p>
   <button class="lbtn" style="margin-bottom:1rem" onclick="openTuner()">🎯 Accordatore</button>
   <div class="acc-grid" id="acc-grid"></div>
@@ -432,7 +433,7 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
   <button class="tb-back" onclick="go('home')">← Home</button>
 </div>
 <div class="wrap" style="max-width:720px">
-  <h1 style="font-size:1.2rem;font-weight:700;margin-bottom:1.2rem;color:var(--txt)">Informazioni su questo sito</h1>
+  <h1 style="font-family:'Cormorant',serif;font-size:1.7rem;font-weight:700;margin-bottom:1.2rem;color:var(--txt)">Informazioni su questo sito</h1>
 
   <!-- ═══ SEZIONE MODIFICABILE ═══ -->
   <!-- Per aggiungere testo basta modificare questa sezione -->
@@ -501,6 +502,20 @@ body{background:var(--bg);font-family:'Arial',sans-serif;color:var(--txt);font-s
       <li><a href="https://www.greeklyrics.gr" target="_blank">greeklyrics.gr</a> — testi di canzoni greche</li>
       <li><a href="https://www.arcadiaspirit.gr" target="_blank">arcadiaspirit.gr</a> — approfondimenti su dischi e canzoni d'epoca</li>
       <li><a href="https://www.antiwarsongs.org" target="_blank">antiwarsongs.org (Canzoni Contro la Guerra)</a> — approfondimenti e traduzioni</li>
+      <li><a href="https://www.ert.gr" target="_blank">ert.gr</a> — archivio storico della radiotelevisione greca</li>
+      <li><a href="https://www.efsyn.gr" target="_blank">efsyn.gr</a> — cultura e attualità</li>
+      <li><a href="https://www.musicpaper.gr" target="_blank">musicpaper.gr</a> — approfondimenti musicali e interviste</li>
+      <li><a href="https://mikisguide.gr" target="_blank">mikisguide.gr</a> — archivio dedicato a Mikis Theodorakis</li>
+      <li><a href="https://collection.melos-project.gr" target="_blank">collection.melos-project.gr</a> — Archivio Musicale Centrale Greco (KeMKA)</li>
+      <li><a href="https://www.musicheaven.gr" target="_blank">musicheaven.gr</a> — approfondimenti e discografie</li>
+      <li><a href="https://www.tralala.gr" target="_blank">tralala.gr</a> — biografie e testi di canzoni greche</li>
+      <li><a href="https://www.katiousa.gr" target="_blank">katiousa.gr</a> — cultura e approfondimenti musicali</li>
+      <li><a href="https://www.pantelisthalassinos.gr" target="_blank">pantelisthalassinos.gr</a> — sito ufficiale dell'artista</li>
+      <li><a href="https://myfiscardo.wordpress.com" target="_blank">myfiscardo.wordpress.com</a> — approfondimenti biografici</li>
+      <li><a href="https://www.imerodromos.gr" target="_blank">imerodromos.gr</a> — cultura e attualità</li>
+      <li><a href="https://www.i-diadromi.gr" target="_blank">i-diadromi.gr</a> — approfondimenti culturali</li>
+      <li><a href="https://svoice.gr" target="_blank">svoice.gr</a> — approfondimenti musicali</li>
+      <li><a href="https://www.tanea.gr" target="_blank">tanea.gr</a> — notizie e approfondimenti culturali</li>
       <li>Altri siti e fonti che verranno indicati di volta in volta</li>
     </ul>
   </div>
