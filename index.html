@@ -173,7 +173,10 @@ body{background:var(--bg);font-family:'Karla',Arial,sans-serif;color:var(--txt);
 .arg-link-btn{display:inline-flex;align-items:center;gap:4px;background:var(--abg);color:var(--acc);padding:2px 9px;border-radius:20px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap}
 .arg-link-audio{background:#e8f3ea;color:#1e7a34}
 .arg-img-link{display:block;margin:.5rem 0}
-.arg-inline-img{max-width:100%;max-height:340px;border-radius:var(--rad);display:block;border:1px solid var(--bor)}
+.arg-img-link.imgL{text-align:left}
+.arg-img-link.imgC{text-align:center}
+.arg-img-link.imgR{text-align:right}
+.arg-inline-img{max-width:100%;max-height:340px;border-radius:var(--rad);display:inline-block;border:1px solid var(--bor)}
 .arg-link-btn:hover{background:var(--acc);color:#fff}
 .arg-link-ico{font-size:11px}
 .arg-table-wrap{overflow-x:auto;margin:10px 0}
@@ -620,9 +623,10 @@ function formatArgBody(raw){
   }
   function isImgUrl(url){ return /\.(jpe?g|png|gif|webp|svg)(\?.*)?$/i.test(url); }
   function isAudioUrl(url){ return /(youtube\.com|youtu\.be|spotify\.com|soundcloud\.com)/i.test(url); }
-  function linkOrImg(url){
+  function linkOrImg(url, align){
     if(isImgUrl(url)){
-      return '<a href="'+url+'" target="_blank" rel="noopener" class="arg-img-link"><img src="'+url+'" class="arg-inline-img" loading="lazy" alt=""></a>';
+      var cls = align==='centro' ? 'imgC' : (align==='destra' ? 'imgR' : 'imgL');
+      return '<a href="'+url+'" target="_blank" rel="noopener" class="arg-img-link '+cls+'"><img src="'+url+'" class="arg-inline-img" loading="lazy" alt=""></a>';
     }
     if(isAudioUrl(url)){
       return '<a class="arg-link-btn arg-link-audio" href="'+url+'" target="_blank" rel="noopener">&#127925; Ascolta <span class="arg-link-ico">↗</span></a>';
@@ -638,6 +642,9 @@ function formatArgBody(raw){
   }
   function inlineFormat(s){
     var out = esc(s);
+    out = out.replace(/\{\{img:([^|}]+)\|(sinistra|centro|destra)\}\}/g, function(m, url, align){
+      return linkOrImg(url.trim(), align);
+    });
     out = out.replace(/\{\{canzone:([^|}]+)\|([^}]+)\}\}/g, function(m, titolo, urlEsterno){
       var tit = titolo.trim();
       var found = findSongByTitle(tit);
@@ -1082,7 +1089,7 @@ function renderElenchi(){
     {page:'elenco-balli',        ico:'&#128131;',ttl:'Ballo/Ritmo',       cnt:nBalli,       sub:'Per tipo di ballo'},
     {page:'argomento',           ico:'&#128216;',ttl:'Approfondimenti',cnt:args.length,sub:'Approfondimenti e curiosit&agrave;'}
   ];
-  var h='<div class="el-grid">';
+  var h='';
   cards.forEach(function(c){
     h+='<div class="el-card" data-page="'+c.page+'">';
     h+='<div class="el-card-hdr">';
@@ -1093,7 +1100,6 @@ function renderElenchi(){
     h+='<div style="padding:.5rem .85rem .7rem;font-size:12px;color:var(--t3)">'+c.sub+'</div>';
     h+='</div>';
   });
-  h+='</div>';
   el('el-grid').innerHTML=h;
   var ecards=document.querySelectorAll('.el-card[data-page]');
   for(var i=0;i<ecards.length;i++){
