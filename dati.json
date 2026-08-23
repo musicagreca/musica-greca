@@ -1,8 +1,50 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-22T10:57:15.479Z",
+  "exportedAt": "2026-08-23T03:05:44.492Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787411601909",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στελλάκης Περπινιάδης",
+          "year": "1936",
+          "note": "\"Η Μαρίκα η δασκάλα\"",
+          "link": "https://www.youtube.com/watch?v=u1ySN9Z2LGk"
+        },
+        {
+          "who": "Κώστας Ρούκουνας",
+          "year": "1938",
+          "note": "\"Μανωλιός και Δημητρούλα\"",
+          "link": "https://www.youtube.com/watch?v=Rxw9usd4gi4"
+        },
+        {
+          "who": "Στελλάκης Περπινιάδης",
+          "year": "1940",
+          "note": "\"Άκου Ντούτσε μου τα νέα\"",
+          "link": "https://www.youtube.com/watch?v=Td_VXut9Ij0"
+        }
+      ],
+      "date": "2026-08-22",
+      "tgr": "Η Βαρβάρα",
+      "tit": "I Varvàra",
+      "alias": "",
+      "at": "Παναγιώτης Τούντας",
+      "am": "Παναγιώτης Τούντας",
+      "yr": "1936",
+      "ar": "Στελλάκης Περπινιάδης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "ll": "https://www.youtube.com/watch?v=T7u4YWjdDps",
+      "li": "",
+      "ch": "RE                            LA         RE\nΗ Βαρβάρα κάθε βράδυ στη Γλυφάδα ξενυχτάει\nLA     RE               LA      RE\nκαι ψαρεύει τα λαβράκια, κεφαλόπουλα, μαυράκια\n\nSOLm                             LA            RE\nΤο καλάμι της στο χέρι κι όλη νύχτα στο καρτέρι\nLA      RE               LA     RE\nπεριμένει να τσιμπήσει το καλάμι να κουνήσει\n\nRE                            LA         RE\nΈνας κέφαλος βαρβάτος, όμορφος και κοτσονάτος\nLA     RE               LA      RE\nτης Βαρβάρας το τσιμπάει, το καλάμι της κουνάει\n\nSOLm                             LA            RE\nΜα η Βαρβάρα δεν τα χάνει τον αγκίστρωσε τον πιάνει\nLA      RE               LA     RE\nτον κρατά στα δυο της χέρια και λιγώνεται στα γέλια\n\nRE                            LA         RE\nΚοίταξε μωρή Βαρβάρα, μη σου μείνει η λαχτάρα\nLA     RE               LA      RE\nτέτοιος κέφαλος με νύχι, δύσκολα να σου πετύχει\n\nSOLm                             LA            RE\nΒρε Βαρβάρα μη γλιστρήσει και στη θάλασσα βουτήσει\nLA      RE               LA     RE\nβάστα τον απ' το κεφάλι μη σου φύγει πίσω πάλι\n\nRE                            LA         RE\nΣτο καλάθι της τον βάζει κι από τη χαρά φωνάζει\nLA     RE               LA      RE\nέχω τέχνη έχω χάρη ν' αγκιστρώνω κάθε ψάρι\n\nSOLm                             LA            RE\nΓια ένα κέφαλο θρεμμένο όλη νύχτα περιμένω\nLA      RE               LA     RE\nπου θα 'ρθεί να μου τσιμπήσει το καλάμι να κουνήσει\n\nRE                            LA         RE\n- Γεια σου Γιοβάν Τσαούς με την παρέα σου",
+      "tr": "I Varvára\n\nI Varvára káthe vrádi sti Ghlifáda ksenichtái\nke psarévi ta lavrákia, kefalópula, mavrákia\n\nTo kalámi tis sto chéri ki óli níchta sto kartéri\nperiméni na tsimbísi to kalámi na kunísi\n\nÉnas kéfalos varvátos, ómorfos ke kotsonátos\ntis Varváras to tsimbái, to kalámi tis kunái\n\nMa i Varvára den ta cháni ton anghístrose ton piáni\nton kratá sta dío tis chéria ke lighónete sta yélia\n\nKítakse morí Varvára, mi su míni i lachtára\ntétios kéfalos me níchi, dískola na su petíchi\n\nVre Varvára mi ghlistrísi ke sti thálasa vutísi\nvásta ton ap'to kefáli mi su fíyi píso páli\n\nSto kalathi tis ton vázi ki apó ti chará fonázi\nécho téchni écho chári n'anghistróno káthe psári\n\nGia éna kéfalo threméno óli níchta periméno\npu tha 'rthi na mu tsimbísi to kalámi na kunísi\n\nYásu Yovan Tsaús me tin pareá su",
+      "ti": "Barbara\n\nBarbara ogni sera resta sveglia fino a tardi a Glyfada\ne pesca spigole, cefaletti, occhiate\n\nLa canna in mano e tutta la notte all'agguato\naspetta che abbocchi, che la canna si muova\n\nUn cefalo robusto, bello e in forma\nabbocca all'amo di Barbara, le muove la canna\n\nMa Barbara non se lo lascia scappare, lo aggancia e lo prende\nlo tiene con le sue due mani e si scioglie dalle risate\n\nGuarda, cara Barbara, che non ti resti solo la voglia\nun cefalo così, con gli artigli, difficilmente ti ricapita\n\nEhi Barbara, attenta che non scivoli e si tuffi in mare\ntienilo per la testa, che non ti scappi di nuovo indietro\n\nLo mette nel suo cesto e per la gioia grida\nho arte, ho grazia nell'agganciare ogni pesce\n\nPer un cefalo bello nutrito aspetto tutta la notte\nche venga ad abboccarmi, a far muovere la canna\n\nSalute a te, Giovàn Tsaùs, e alla tua compagnia\n\nNote:\n\nl'intero testo gioca su un doppio senso erotico tra la \"pesca notturna\" e un incontro amoroso: \"καλάμι\" (canna da pesca) e \"τσιμπάει/κουνάει\" (abbocca/muove) hanno una chiara connotazione sessuale nel gergo popolare greco\nκέφαλος βαρβάτος — letteralmente \"cefalo maschio/virile\"; \"βαρβάτος\" nel greco popolare indica anche genericamente un uomo prestante e vigoroso\nκοτσονάτος — aggettivo colloquiale per \"in forma, vigoroso, aitante\"",
+      "no": "[[2026-08-17|censura]]\nVisto che la prima era stata censurata, Tountas sulla stessa melodia pubblicò altre tre canzoni con testi diversi:\n- \"Η Μαρίκα η δασκάλα\" (Atene, 1936) - censurata\n- \"Μανωλιός και Δημητρούλα\" (Atene, 1938) - censurata\n- \"Άκου Ντούτσε μου τα νέα\" (Atene, 1940-41), presa in giro di Mussolini - questa volta non censurata, probabilmente perché in piena guerra contro l'Italia non si poteva certo vietare una canzone che derideva il nemico"
+    },
     {
       "id": "s_1787389681420",
       "offsets": {},
