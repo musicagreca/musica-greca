@@ -1,8 +1,149 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-23T11:04:11.947Z",
+  "exportedAt": "2026-08-24T18:37:12.042Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787596518747",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-24",
+      "tgr": "Η πεντάμορφη",
+      "tit": "I pendàmorfi",
+      "alias": "",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Απόστολος Χατζηχρήστος",
+      "yr": "1949",
+      "ar": "Χαράλαμπος Βασιλειάδης, Σούλα Καλφοπούλου, Μάρκος Βαμβακάρης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=Eyp2cTo0SCA",
+      "li": "",
+      "ch": "RE RE#   RE         RE#     RE\nΣιγά-σιγά, φίλε μου τ' αμάξι\nDOm                    RE       RE#     RE\nΈφτασ' η πεντάμορφη, τις καρδιές να κάψει   \nDOm                    RE       RE#     RE\nΈφτασ' η πεντάμορφη, τις καρδιές να κάψει \n\nRE RE#   RE         RE#     RE\nΣε εξοχικό ήρθε να γλεντήσει\nDOm                    RE       RE#     RE\nκαι σα ρεμπέτισσα μια βραδιά να ζήσει  \nDOm                    RE       RE#     RE\nκαι σα ρεμπέτισσα μια βραδιά να ζήσει \n\nRE RE#   RE         RE#     RE\nΡομαντικό στέκι αν ξέρεις, πάμε\nDOm                    RE       RE#     RE\nΤέτοιες νύχτες όμορφες πρέπει να γλεντάμε  \nDOm                    RE       RE#     RE\nΤέτοιες νύχτες όμορφες πρέπει να γλεντάμε",
+      "tr": "I pendàmorfi\n\nSighá-sighá, fíle mu t'amáksi\nÉftas' i pendámorfi, tis kardiés na kápsi\n\nSe eksochikó írthe na ghlendísi\nke sa rebétisa mia vradiá na zísi\n\nRomandikó stéki an kséris, páme\nTétyies níchtes ómorfes prépi na ghlendáme",
+      "ti": "La bellissima\n\nPiano piano, amico mio, con la macchina\nè arrivata la bellissima, per far bruciare i cuori\n\nÈ venuta in un locale in campagna a far festa\ne come una rebetissa vivere una serata\n\nSe conosci un posto romantico, andiamo\nnotti così belle bisogna festeggiarle\n\nNote:\n\nπεντάμορφη — letteralmente \"bella cinque volte\", superlativo popolare per \"bellissima, di rara bellezza\"\nρεμπέτισσα — donna del mondo rebetiko, libera e spregiudicata, che vive intensamente la notte e la musica (femminile di \"ρεμπέτης\")\nεξοχικό — locale/taverna fuori città, in campagna, tipico luogo di svago e gite fuoriporta",
+      "no": ""
+    },
+    {
+      "id": "s_1787595956181",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-24",
+      "tgr": "Αλανιάρης",
+      "tit": "Alaniàris",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1934",
+      "ar": "Μάρκος Βαμβακάρης",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=azozKyjFIDg",
+      "li": "",
+      "ch": "RE                      LA            RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω\nRE                        LA          RE\nΚι απ' την πολλή μαστούρα μου κανένα δε γνωρίζω\nRE                      LA            RE\nΑπ' την πολλή τη σούρα μου το νου μου δεν ορίζω\nRE                        LA          RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω\n\nRE                      LA            RE\nΤσοντάρεις, αδερφούλα μου, να πιούμε τσιμπουκάκι\nRE                        LA          RE\nΜαζί να μαστουριάσουμε να παίξω μπουζουκάκι   ] 2x\nRE                      LA            RE\nΤσοντάρεις, αδερφούλα, μου να πιούμε τσιμπουκάκι\n\nRE                      LA            RE\nΚάντονε, ντερβισόμαγκα, τον αργιλέ να τρίζει\nRE                        LA          RE\nΚαι με φωτιές του θυμαριού, να πιω και να σφυρίζει \nRE                        LA          RE\nΚαι με φωτιές του θυμαριού, να πιω και να σφυρίζει   \nRE                      LA            RE\nΚάντονε, ντερβισόμαγκα, τον αργιλέ να τρίζει\n\nRE                      LA            RE\nΜαστούρια όταν γίνουμε μέσα μες στον τεκέ μας\nRE                        LA          RE\nΌλοι εσένα αγαπούν, περήφαν' αργιλέ μας   \nRE                        LA          RE\nΌλοι εσένα αγαπούν, περήφαν' αργιλέ μας  \nRE                      LA            RE\nΜαστούρια όταν γίνουμε μέσα μες στον τεκέ μας\n\nRE                      LA            RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω...",
+      "tr": "Alaniàris\n\nÍme alaniáris stus drómus ke ghirízo\nKi ap'tin polí mastúra mu kanéna de ghnorízo\nAp'tin polí ti súra mu to nu mu den orízo\nÍme alaniáris stus drómus ke ghirízo\n\nTsondáris, adherfúla mu, na piúme tsibukáki\nMazí na masturiásume na pékso buzukáki\nTsondáris, adherfúla, mu na piúme tsibukáki\n\nKándone, dervisómanga, ton arghilé na trízi\nKe me fotiés tu thimariú, na pio ke na sfirízi\nKándone, dervisómanga, ton arghilé na trízi\n\nMastúria ótan ghínume mésa mes ston deké mas\nÓli eséna aghapún, periфán' arghilé mas\nMastúria ótan ghínume mésa mes ston deké mas\n\nÍme alaniáris stus drómus ke ghirízo...",
+      "ti": "Vagabondo\n\nSono un vagabondo per le strade e giro\ne per la mia grande sballatura non riconosco nessuno\nper la mia grande ubriacatura non controllo la mia mente\nsono un vagabondo per le strade e giro\n\nMetti anche tu la tua parte, fratellino, beviamo un tiro di narghilè\ninsieme sballiamoci, che io suoni il bouzouki\nmetti anche tu la tua parte, fratellino, beviamo un tiro di narghilè\n\nFai, o mangas dervisico, scricchiolare il narghilè\ne con i fuochi del timo, fammi bere e fischiare\nfai, o mangas dervisico, scricchiolare il narghilè\n\nQuando ci sballiamo dentro il nostro tekè\ntutti amano te, nostro fiero narghilè\nquando ci sballiamo dentro il nostro tekè\n\nSono un vagabondo per le strade e giro...\n\nNote:\n\nμαστούρα / σούρα — stato di intontimento/sballo (da hashish o alcol); \"σούρα\" più specificamente indica anche l'ubriachezza\nτσοντάρω — mettere la propria parte/quota (per pagare qualcosa insieme, es. la droga o il conto)\nαδερφούλα — letteralmente \"sorellina\", ma qui vezzeggiativo gergale tra amici stretti/compagni (come \"βλαμάκι\" incontrato in altre canzoni)\nντερβισόμαγκας — parola composta scherzosa: \"mangas-dervisico\", che unisce la figura del mangas (uomo di strada) a quella del \"dervisάς\" (termine gergale associato ai frequentatori dei tekè, richiamando i dervisci come immagine di estasi/trance)\nτεκές — locale/fumeria per hashish e narghilè, ambiente tipico del rebetiko\nαργιλές — narghilè, qui quasi personificato e \"amato\" da tutti come simbolo della compagnia",
+      "no": ""
+    },
+    {
+      "id": "s_1787595637670",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-24",
+      "tgr": "Ακρογιαλιές δειλινά",
+      "tit": "Akroghialiès dilinà",
+      "alias": "",
+      "at": "Ευτυχία Παπαγιαννοπούλου",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1948",
+      "ar": "Στέλλα Χασκίλ",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=kGNnDWyEYfc",
+      "li": "",
+      "ch": "LAm         REm                         LA      REm\nΒραδιάζει γύρω κι η νύχτα απλώνει σκοτάδι βαθύ\nFA        DO       REm          LAm      MI         LAm\nκορίτσι ξένο σαν ίσκιος πλανιέται μονάχο στην γη\n\nSOL                    SOL  MI\nΧωρίς ντροπή, αναζητεί\nFA                 MI\nτον ήλιο που έχει χαθεί, στα σκοτάδια να βρει\n\nLAm                                            REm\nΜπορεί να το 'χουν πλανέψει ακρογιαλιές δειλινά\nFA        DO         REm       MI         LAm\nκαι σκλαβωμένη για πάντα κρατούνε την δόλια καρδιά\nLAm                                      REm\nΜπορεί ακόμα μπορεί, να έχει πια τρελαθεί\nFA        DO        REm      MI        LAm\nκαι τότε ποιος θα ρωτήσει να μάθει ποτέ το γιατί\n\nSOL                    SOL  MI\nΧωρίς ντροπή, αναζητεί\nFA                 MI\nτον ήλιο που έχει χαθεί, στα σκοτάδια να βρει\n\nLAm                                            REm\nΜπορεί να το 'χουν πλανέψει ακρογιαλιές δειλινά\nFA        DO         REm       MI         LAm\nκαι σκλαβωμένη για πάντα κρατούνε την δόλια καρδιά\nLAm                                      REm\nΜπορεί ακόμα μπορεί, να έχει πια τρελαθεί\nFA        DO        REm      MI        LAm\nκαι τότε ποιος θα ρωτήσει να μάθει ποτέ το γιατί",
+      "tr": "Akroghialiès dilinà\n\nVradiázi ghíro ki i níchta apolóni skotádi vathí\nkorítsi kséno san ískios planiéte monácho stin ghi\n\nChorís ndropí, anazití\nton ílio pu échi chathí, sta skotádia na vrí\n\nBorí na to 'chun planépsi akroyaliés dilinná\nke sklavoméni gia pánda kratúne tin dólia kardiá\nBorí akóma borí, na échi pia treláthi\nke tóte pios tha rotísi na máthi poté to giatí\n\nChorís ndropí, anazití\nton ílio pu échi chathí, sta skotádia na vrí\n\nBorí na to 'chun planépsi akroyaliés dilinná\nke sklavoméni gia pánda kratúne tin dólia kardiá\nBorí akóma borí, na échi pia treláthi\nke tóte pios tha rotísi na máthi poté to giatí",
+      "ti": "Spiagge e tramonti\n\nCala la sera intorno e la notte stende un buio profondo\nuna ragazza straniera, come un'ombra, vaga sola sulla terra\n\nSenza vergogna, cerca\nil sole che si è perduto, nell'oscurità di trovarlo\n\nForse l'hanno ingannata spiagge e tramonti\ne per sempre tengono prigioniero il suo povero cuore\nForse ancora, forse, è ormai impazzita\ne allora chi mai chiederà, chi saprà mai il perché\n\nSenza vergogna, cerca\nil sole che si è perduto, nell'oscurità di trovarlo\n\nForse l'hanno ingannata spiagge e tramonti\ne per sempre tengono prigioniero il suo povero cuore\nForse ancora, forse, è ormai impazzita\ne allora chi mai chiederà, chi saprà mai il perché\n\nNote:\n\nίσκιος — ombra (termine poetico, sinonimo di \"σκιά\")\nπλανιέται — vaga, erra senza meta (da \"πλανιέμαι\")\nδειλινά — i tramonti/i pomeriggi che calano verso sera, termine poetico-popolare\nδόλια καρδιά — \"povero/misero cuore\", espressione compassionevole già incontrata in altre canzoni\nακρογιαλιές δειλινά — \"spiagge e tramonti\", immagine poetica che personifica luoghi e momenti come possibili \"seduttori\" che hanno traviato la ragazza",
+      "no": ""
+    },
+    {
+      "id": "s_1787595071216",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δημήτρης  Περδικόπουλος,  Στελλάκης Περπινιάδης",
+          "year": "1937",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=5VDY_eCkm_c"
+        }
+      ],
+      "date": "2026-08-24",
+      "tgr": "Αιγιώτισσα",
+      "tit": "Eghiòtissa",
+      "alias": "Ωραία Αιγιώτισσα",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "Στελλάκης Περπινιάδης",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "kalamatianòs",
+      "ll": "",
+      "li": "",
+      "ch": "DO        FA      SOL     DO     SOL           DO\nΑπό την πόρτα σου περνώ, ωραία Αιγιώτισσα\nDO                SOL                     DO\nκι από τη γειτονιά σου, κόρη με τις ελιές\nDO                SOL                        DO\nκαι με τα μαύρα μάτια, τι έχεις κι όλο κλαις\n\nDO        FA      SOL     DO     SOL           DO\nΘα πάρω αερόπλανο, ωραία Αιγιώτισσα\nDO                SOL                     DO\nκαι θα 'ρθω να σε πάρω, κόρη με τις ελιές\nDO                SOL                        DO\nκαι με τα μαύρα μάτια, τι έχεις κι όλο κλαις\n\nDO        FA      SOL     DO     SOL           DO\nΚι αν έχεις μάνα μάγισσα, ωραία Αιγιώτισσα\nDO                SOL                     DO\nτα μάγια δεν με πιάνουν, κόρη με τις ελιές\nDO                SOL                        DO\nκαι με τα μαύρα μάτια, τι έχεις κι όλο κλαις\n\nDO        FA      SOL     DO     SOL           DO\nΜ' αρνήθηκες, δε με πονείς, ωραία Αιγιώτισσα\nDO                SOL                     DO\nπρέπει να με λυπάσαι, γιατί 'μαι ορφανό\nDO                SOL                        DO\nδεν ξέρω το καημένο πλέον τι θα γινώ",
+      "tr": "Apó tin pórta su pernó, oréa Eyiótisa\nki apó ti ghitoniá su, kóri me tis eliés\nke me ta mávra mátia, ti échis ki ólo kléis\n\nTha páro aeróplano, oréa Eyiótisa\nke tha 'rtho na se páro, kóri me tis eliés\nke me ta mávra mátia, ti échis ki ólo kléis\n\nKi an échis mána mághisa, oréa Eyiótisa\nta mághia den me piánun, kóri me tis eliés\nke me ta mávra mátia, ti échis ki ólo kléis\n\nM'arníthikes, de me poní, oréa Eyiótisa\nprépi na me lipáse, giatí 'me orfanó\nden kséro to kaiméno pléon ti tha ghinó",
+      "ti": "Passo davanti alla tua porta, bella ragazza di Aigio\ne per il tuo quartiere, fanciulla con gli occhi a mandorla\ne con gli occhi neri, cos'hai che piangi sempre\n\nPrenderò un aeroplano, bella ragazza di Aigio\ne verrò a portarti via, fanciulla con gli occhi a mandorla\ne con gli occhi neri, cos'hai che piangi sempre\n\nE se hai una madre strega, bella ragazza di Aigio\nle magie non mi toccano, fanciulla con gli occhi a mandorla\ne con gli occhi neri, cos'hai che piangi sempre\n\nMi hai respinto, non hai pietà di me, bella ragazza di Aigio\ndovresti avere compassione, perché sono orfano\nnon so più, poveretto me, cosa ne sarà di me\n\nNote:\n\nΑιγιώτισσα — donna/ragazza originaria di Aigio (Αίγιο), città portuale del Peloponneso settentrionale\nκόρη με τις ελιές — letteralmente \"fanciulla con le olive\", ma qui reso liberamente: nel gergo popolare greco \"μάτια σαν ελιές\" (occhi come olive) è immagine tradizionale per occhi scuri e a mandorla; l'espressione richiama probabilmente questa metafora abbreviata\nμάγισσα / μάγια — strega / sortilegi, magie; riferimento scherzoso a credenze popolari sul malocchio o gli incantesimi d'amore",
+      "no": ""
+    },
+    {
+      "id": "s_1787594467034",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μελίνα Μερκούρη",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=VtWd6M2ADuY"
+        },
+        {
+          "who": "Ζωζώ Σαπουντζάκη",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=tEe0BzC0Mvw"
+        },
+        {
+          "who": "Μαρίκα Νίνου",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=L_boGdrULFo"
+        }
+      ],
+      "date": "2026-08-24",
+      "tgr": "Αγάπη που ’γινες δίκοπο μαχαίρι",
+      "tit": "Agàpi pu ghines dìkopo machieri",
+      "alias": "",
+      "at": "Μιχάλης Κακογιάννης",
+      "am": "Μάνος Χατζιδάκις",
+      "yr": "1955",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "LAm              SOL           LAm\nΑγάπη που 'γινες δίκοπο μαχαίρι\nLAm               SOL           DO\nκάποτε μου 'δινες μόνο τη χαρά\nDO                LAm          REm\nΜα τώρα πνίγεις τη χαρά στο δάκρυ     \nREm         MI                      LAm\nΔεν βρίσκω άκρη, δε βρίσκω γιατρειά  \nDO                LAm          REm\nΜα τώρα πνίγεις τη χαρά στο δάκρυ     \nREm         MI                      LAm\nΔεν βρίσκω άκρη, δε βρίσκω γιατρειά \n\nLAm              SOL           LAm\nΦωτιές ανάβουνε μες στα δυο του μάτια\nLAm               SOL           DO\nΤ' αστέρια πέφτουνε όταν με θωρεί\nDO                LAm          REm\nΣβήστε τα φώτα, σβήστε το φεγγάρι      \nREm         MI                      LAm\nσαν θα με πάρει, τον πόνο μου μη δει  \nDO                LAm          REm\nΣβήστε τα φώτα, σβήστε το φεγγάρι      \nREm         MI                      LAm\nσαν θα με πάρει, τον πόνο μου μη δει",
+      "tr": "Agàpi pu ghines dìkopo machieri\n\nAghápi pu 'ghines díkopo machéri\nkápote mu 'dines móno ti chará\nMa tóra pnígis ti chará sto dákri\nDen vrísko ákri, de vrísko yiatriá\n\nFotiés anávune mes sta dío tu mátia\nT'astéria péftune ótan me thorí\nSvíste ta fóta, svíste to fengári\nsan tha me pári, ton póno mu mi dí",
+      "ti": "Amore che sei diventato un coltello a doppio taglio\n\nAmore che sei diventato un coltello a doppio taglio\nun tempo mi davi solo gioia\nma ora affoghi la gioia nel pianto\nnon trovo pace, non trovo guarigione\n\nFuochi si accendono nei suoi due occhi\nle stelle cadono quando mi guarda\nspegnete le luci, spegnete la luna\nquando mi porterà via, che non veda il mio dolore\n\nNote:\n\nδίκοπο μαχαίρι — \"coltello a doppio taglio\", metafora per un amore che ferisce quanto dà piacere\nδεν βρίσκω άκρη — idiomatico: \"non trovo un capo/una via d'uscita\", cioè non riesco a venirne fuori\nθωρεί — forma poetica/dialettale per \"κοιτάζει\" (guarda)",
+      "no": "L'attribuzione ufficiale indica musica di Manos Hadjidakis e testo di Michalis Kakoyannis, ma la paternità musicale è in realtà oggetto di una disputa mai del tutto risolta. Ilias Petropoulos, nel suo libro sulle canzoni rebetiko, sostiene che il brano sia in realtà di Vasilis Tsitsanis, e che Hadjidakis in seguito abbia lasciato intendere, con i fatti, che fosse suo; secondo Petropoulos la questione fu chiarita dal giornale Vradyni, che pubblicò l'etichetta del disco originale riportante il nome di Tsitsanis. Lo stesso Petropoulos, però, riconosce che nel brano si distinguono chiare influenze colte, tipiche dello stile di Hadjidakis. Coerentemente, lo stesso Hadjidakis, interpellato sull'argomento, avrebbe negato che il brano fosse suo (\"Δεν είναι δικό μου\"). La disputa resta quindi aperta: alcune fonti musicali accreditano ancora oggi la musica a Hadjidakis (talvolta con menzione tra parentesi di Tsitsanis e della paroliera Ioanna Georgakopoulou), mentre altre sposano la tesi di Petropoulos a favore di Tsitsanis."
+    },
     {
       "id": "s_1787483028349",
       "offsets": {},
@@ -7773,6 +7914,20 @@
         "am",
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1787590096314",
+      "name": "Μιχάλης Κακογιάννης",
+      "nameit": "Michàlis Kakoghiànnis",
+      "born": "11 giugno 1922, Limassol, Cipro britannica",
+      "died": "25 luglio 2011, Atene",
+      "bio": "Il padre, Panayotis Loizou Cacoyannis, era stato insignito del titolo di cavaliere nel 1936 dal re Edoardo VIII per i suoi servizi pubblici a Cipro. La sorella, Stella Soulioti, divenne una politica. \n\nRegista, sceneggiatore, produttore e montatore greco-cipriota, tra i più importanti nel far conoscere il cinema greco nel mondo nel dopoguerra\nDurante la Seconda guerra mondiale lavorò come produttore per il servizio greco della BBC a Londra\nFu membro della giuria del Festival di Cannes nel 1959\nDiresse film di successo come Windfall in Athens (1953), Stella (1955, con Melina Mercouri), Ragazza in nero (1956), Una questione di dignità (1958)\nIl suo capolavoro più celebre è Zorba il Greco (1964), con Anthony Quinn, tratto dal romanzo di Nikos Kazantzakis, con musiche di Mikis Theodorakis: ottenne diverse candidature all'Oscar\nDiresse anche adattamenti delle tragedie greche classiche: Elettra (1962), Le Troiane (1971, con Katharine Hepburn e Vanessa Redgrave), Ifigenia (1977)\nNel 1983 curò la ripresa a Broadway del musical tratto da Zorba\nNel 2003 fondò la Michael Cacoyannis Foundation, istituzione dedicata alle arti performative\nUltimo film: Il giardino dei ciliegi (1999)",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kakoghiannis.jpg",
+      "roles": [
+        "at"
       ]
     }
   ]
