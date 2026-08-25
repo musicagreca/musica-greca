@@ -1,8 +1,116 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-25T07:46:17.959Z",
+  "exportedAt": "2026-08-25T09:32:20.625Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787650332169",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ρόζα Εσκενάζυ",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Am5TKGg2SBM&list=RDAm5TKGg2SBM&start_radio=1"
+        },
+        {
+          "who": "Στελλάκης Περπινιάδης",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=PFFzMqu1L90&list=RDPFFzMqu1L90&start_radio=1"
+        }
+      ],
+      "date": "2026-08-25",
+      "tgr": "Βάλε με στην αγκαλιά σου",
+      "tit": "Vàle me stin angalià su",
+      "alias": "",
+      "at": "Βαγγέλης Παπάζογλου,  Αγγελική Παπάζογλου",
+      "am": "Βαγγέλης Παπάζογλου",
+      "yr": "1934",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "Ousák",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "LAm\nΒάλε με στην αγκαλιά σου, βάλε με στην αγκαλιά σου\nLAm\nβάλε με στην αγκαλιά σου για να κοιμηθώ κοντά σου\nLAm                                       REm\nΒάλε με στην αγκαλιά σου για να κοιμηθώ κοντά σου\nLAm                          SOLm              LAm\nΒάλε με, φως μου, βάλε με και πριν να φέξει βγάλε με\n\nLAm\nΜη φοβάσαι τη μαμά σου, μη φοβάσαι τη μαμά σου\nLAm\nμη φοβάσαι τη μαμά σου, βάλε με στην κάμαρά σου\nLAm                                   REm\nΜη φοβάσαι τη μαμά σου, βάλε με στην κάμαρά σου\nLAm                          SOLm              LAm\nΒάλε με, φως μου, βάλε με και πριν να φέξει βγάλε με\n\nLAm\nΒάλε μ' από το πορτί σου, βάλε μ' από το πορτί σου\nLAm\nβάλε μ' από το πορτί σου για να κοιμηθώ μαζί σου\nLAm                                   REm\nΒάλε μ' από το πορτί σου για να κοιμηθώ μαζί σου\nLAm                          SOLm              LAm\nΒάλε με, φως μου, βάλε με και πριν να φέξει βγάλε με\n\nLAm\nΒάλε μ' από το ντουβάρι, βάλε μ' από το ντουβάρι\nLAm\nβάλε μ' από το ντουβάρι, μη μάς πάρουνε χαμπάρι\nLAm                                   REm\nΒάλε μ' από το ντουβάρι, μη μάς πάρουνε χαμπάρι\nLAm                          SOLm              LAm\nΒάλε με, φως μου, βάλε με κι από τη μάντρα βγάλε με",
+      "tr": "Vàle me stin angalià su\n\nVále me stin anghaliá su, vále me stin anghaliá su\nvále me stin anghaliá su gia na kimithó kondá su\nVále me stin anghaliá su gia na kimithó kondá su\nVále me, fos mu, vále me ke prin na féksi vghále me\n\nMi fováse ti mamá su, mi fováse ti mamá su\nmi fováse ti mamá su, vále me stin kámará su\nMi fováse ti mamá su, vále me stin kámará su\nVále me, fos mu, vále me ke prin na féksi vghále me\n\nVále m'apó to portí su, vále m'apó to portí su\nvále m'apó to portí su gia na kimithó mazí su\nVále m'apó to portí su gia na kimithó mazí su\nVále me, fos mu, vále me ke prin na féksi vghále me\n\nVále m'apó to nduvári, vále m'apó to nduvári\nvále m'apó to nduvári, mi mas párune chabári\nVále m'apó to nduvári, mi mas párune chabári\nVále me, fos mu, vále me ki apó ti mándra vghále me",
+      "ti": "Mettimi tra le tue braccia\n\nMettimi tra le tue braccia, mettimi tra le tue braccia\nmettimi tra le tue braccia per dormire vicino a te\nmettimi tra le tue braccia per dormire vicino a te\nmettimi, luce mia, mettimi, e prima che spunti l'alba tirami fuori\n\nNon temere tua madre, non temere tua madre\nnon temere tua madre, portami nella tua stanza\nnon temere tua madre, portami nella tua stanza\nmettimi, luce mia, mettimi, e prima che spunti l'alba tirami fuori\n\nFammi entrare dal tuo cancelletto, fammi entrare dal tuo cancelletto\nfammi entrare dal tuo cancelletto per dormire con te\nfammi entrare dal tuo cancelletto per dormire con te\nmettimi, luce mia, mettimi, e prima che spunti l'alba tirami fuori\n\nFammi passare dal muro, fammi passare dal muro\nfammi passare dal muro, che non ci scoprano\nfammi passare dal muro, che non ci scoprano\nmettimi, luce mia, mettimi, e dal recinto tirami fuori\n\nNote:\n\nφως μου — vezzeggiativo \"luce mia\", già incontrato in altre canzoni\nπορτί — piccolo cancello/porticina (diminutivo popolare di \"πόρτα\")\nντουβάρι — muro (turchismo gergale, da \"duvar\")\nχαμπάρι — notizia/voce; \"να μη μάς πάρουνε χαμπάρι\" = \"che non se ne accorgano/non ci scoprano\" (turchismo gergale)\nμάντρα — recinto, muro di cinta di un cortile/proprietà\ntesto dal tono scherzoso-erotico, con richieste ripetute a farsi introdurre di nascosto in casa dall'amata, evitando la sorveglianza della madre e dei vicini",
+      "no": "Una sera, mentre Αγγελική, ormai cieca, aspettava il marito Βαγγέλης che suonava in un locale, si scatenò un violento temporale. La casa lasciava passare l'acqua da tutte le parti e lei, non potendo ripararsi, si mise a piangere. Quando Βαγγέλης tornò e la trovò bagnata e spaventata, la prese in braccio, la portò in un angolo asciutto del letto, aprì un ombrello e rimasero così abbracciati fino al mattino, quando smise di piovere. Ispirata da quell'episodio, Αγγελική scrisse i versi della canzone, a cui il marito mise poi la musica."
+    },
+    {
+      "id": "s_1787648992326",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Βασίλης Αυλωνίτης",
+          "year": "1957",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=tvVzU7oGG38&list=RDtvVzU7oGG38&start_radio=1"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1957",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=sxrlmzLKUp8&list=RDsxrlmzLKUp8&start_radio=1"
+        }
+      ],
+      "date": "2026-08-25",
+      "tgr": "Αχ βρε παλιομισοφόρια",
+      "tit": "Ach vre paliomisoforia",
+      "alias": "",
+      "at": "Αλέκος Σακελλάριος",
+      "am": "Μάνος Χατζιδάκις",
+      "yr": "1957",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "RE\nΈνα βράδυ στην Καστέλα\nLA        RE\nσε μια όμορφη κοπέλα\nRE\nπου 'παιρνε τ' απεριτίφ της\nLA        RE\nρίχτηκε ένας τσίφτης απ' την Κοκκινιά\n\nRE\nΔεν εγνώριζε όμως ότι\nLA        RE\nτα 'χε μ' ένα πειραιώτη\nRE\nΠειραιώτη ντερμπεντέρη\nLA        RE\nσίδερο στο χέρι, άσο στη μπουνιά\n\nRE       MIm      RE       LA\nΑχ, ρε παλιομισοφόρια, τι τραβάν για σάς τ' αγόρια \nRE\nτι τραβάν για σάς τ' αγόρια \nRE       MIm      RE       LA\nΑχ, ρε παλιομισοφόρια, τι τραβάν για σάς τ' αγόρια \nRE\nτι τραβάν για σάς τ' αγόρια \n\nRE\nΑλλά και ο κοκκινιώτης\nLA        RE\nήταν παλικάρι πρώτης\nRE\nΚαι στο τέλος και οι δύο\nLA        RE\nστο νοσοκομείο πήγαν σηκωτοί\n\nRE\nΚαι οι δύο σε αφασία\nLA        RE\nμα εκείνη σημασία\nRE\nπου τους έφαγ' η μαρμάγκα\nLA        RE\nκαι με άλλο μάγκα έκανε χαρτί\n\nRE       MIm      RE       LA\nΑχ, ρε παλιομισοφόρια, τι τραβάν για σάς τ' αγόρια \nRE\nτι τραβάν για σάς τ' αγόρια \n\nRE       MIm      RE       LA\nΑχ, ρε παλιομισοφόρια, τι τραβάν για σάς τ' αγόρια \nRE\nτι τραβάν για σάς τ' αγόρια | 2x",
+      "tr": "Ach, re paliomisofória\n\nÉna vrádi stin Kastéla\nse mia ómorfi kopéla\npu 'perne t'aperitíf tis\nríchtike énas tsíftis ap'tin Kokiniá\n\nDen eghnórize ómos óti\nta 'che m'éna pireóti\nPireóti dermbendéri\nsídero sto chéri, áso sti buniá\n\nAch, re paliomisofória, ti travávan gia sas t'aghória\nti travávan gia sas t'aghória\n\nAlá ke o kokiniótis\nítan palikári prótis\nKe sto télos ke i dío\nsto nosokomío pígan sikotí\n\nKe i dío se afasía\nma ekíni simasía\npu tus éfagh'i marmángha\nke me álo mángha ékane chartí\n\nAch, re paliomisofória, ti travávan gia sas t'aghória\nti travávan gia sas t'aghória\n\nAch, re paliomisofória, ti travávan gia sas t'aghória\nti travávan gia sas t'aghória",
+      "ti": "Ah, ehi vecchie sottovesti\n\nUna sera a Kastella\na una bella ragazza\nche sorseggiava il suo aperitivo\nsi avvicinò un damerino di Kokkinia\n\nNon sapeva però\nche se la intendeva con un tizio del Pireo\nun tipo del Pireo spregiudicato\nferro in mano, asso nel pugno\n\nAh, ehi vecchie sottovesti, quanto ne fate passare a voi ragazzi\nquanto ne fate passare a voi ragazzi\n\nMa anche quello di Kokkinia\nera un ragazzo di prima categoria\ne alla fine tutti e due\nfinirono portati di peso all'ospedale\n\nEd entrambi in stato confusionale\nma a lei importava\nsolo che se li era mangiati la sfortuna in amore\ne con un altro mangas se ne andò in giro\n\nAh, ehi vecchie sottovesti, quanto ne fate passare a voi ragazzi\nquanto ne fate passare a voi ragazzi\n\nAh, ehi vecchie sottovesti, quanto ne fate passare a voi ragazzi\nquanto ne fate passare a voi ragazzi\n\nNote:\n\nτσίφτης — damerino/tipo elegante e spavaldo, spesso con connotazione di corteggiatore sfrontato\nντερμπεντέρης — spregiudicato, sregolato (dallo stesso termine turco \"derbeder\" già incontrato in \"ντερμπεντέρισσα\")\nπαλιομισοφόρια — letteralmente \"vecchie sottovesti/mutande\", espressione gergale scherzosa e un po' irriverente per riferirsi collettivamente alle donne come causa di guai tra uomini\nμαρμάγκα — trappola/tagliola, qui usata figurativamente per \"sfortuna/rovina in amore\"\nέκανε χαρτί — idiomatico gergale: letteralmente \"fece carta\", nel senso di \"se ne andò/sparì con disinvoltura\", qui reso come \"se ne andò in giro\" riferito al cambiare partner con leggerezza\nσηκωτοί — \"portati di peso/in barella\", riferito ai due rivali finiti in ospedale dopo la rissa",
+      "no": ""
+    },
+    {
+      "id": "s_1787645499306",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Τώνης Μαρούδας",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=syDzm1_ARTQ&list=RDsyDzm1_ARTQ&start_radio=1"
+        },
+        {
+          "who": "Νίκος Γούναρης",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=GQ5-VLyy0Fs&list=RDGQ5-VLyy0Fs&start_radio=1"
+        }
+      ],
+      "date": "2026-08-25",
+      "tgr": "Άρχισαν τα όργανα",
+      "tit": "Archisan ta organa",
+      "alias": "",
+      "at": "Αλέκος Σακελλάριος",
+      "am": "Μιχάλης Σουγιούλ",
+      "yr": "1953",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm      LA       REm\nΆρχισαν τα όργανα, σήκω απ' τη θέση σου\nSOLm       DO       FA\nΧόρεψε ζεϊμπέκικο, λύγισε τη μέση σου\nSOLm       LA       REm\nΧτύπησε τα πόδια σου πάνω στον ασίκικο σκοπό \nREm       LA       REm\nΈτσι μου γουστάρεις, έτσι σ' αγαπώ \nSOLm       LA       REm\nΧτύπησε τα πόδια σου πάνω στον ασίκικο σκοπό \nREm       LA       REm\nΈτσι μου γουστάρεις, έτσι σ' αγαπώ\n\nREm      LA       REm\nΆρχισαν τα όργανα το παλιό ντερβίσικο\nSOLm       DO       FA\nΝα μη μου το χόρευες θα 'τανε αφύσικο\nSOLm       LA       REm\nΧόρεψ' το κορίτσι μου, παλαμάκια εγώ θα σου χτυπώ \nREm       LA       REm\nΈτσι μου γουστάρεις, έτσι σ' αγαπώ \nSOLm       LA       REm\nΧόρεψ' το κορίτσι μου, παλαμάκια εγώ θα σου χτυπώ \nREm       LA       REm\nΈτσι μου γουστάρεις, έτσι σ' αγαπώ \n\nREm      LA       REm\nΆρχισαν τα όργανα, το μπουζούκι εργάζεται\nSOLm       DO       FA\nΝάτο το κορίτσι μου, σειέται και τινάζεται\nSOLm       LA       REm\nΦτου σου κοπελλάρα μου, ε βρε τι μου κάνεις πω-πω-πω \nREm       LA       REm\nΈτσι μου γουστάρεις, έτσι σ' αγαπώ\nSOLm       LA       REm\nΦτου σου κοπελλάρα μου, ε βρε τι μου κάνεις πω-πω-πω \nREm       LA       REm\nΈτσι μου γουστάρεις, έτσι σ' αγαπώ",
+      "tr": "Árchisan ta órgana,\n\nÁrchisan ta órgana, síko ap'ti thési su\nChórepse zeibékiko, líyise ti mési su\nChtípise ta pódia su páno ston asíkiko skopó\nÉtsi mu gustáris, étsi s'agapó\n\nÁrchisan ta órgana to palió dervísiko\nNa mi mu to chórevis tha 'tane afísiko\nChórepс'to korítsi mu, palamákia eghó tha su chtipó\nÉtsi mu ghustáris, étsi s'agapó\n\nÁrchisan ta órgana, to buzúki ergázete\nNáto to korítsi mu, siéte ke tinázete\nFtu su kopelára mu, e vre ti mu kánis po-po-po\nÉtsi mu gustáris, étsi s'agapó",
+      "ti": "Hanno iniziato gli strumenti\n\nHanno iniziato gli strumenti, alzati dal tuo posto\nballa lo zeibekiko, piega la tua vita\nbatti i tuoi piedi sul ritmo appassionato\ncosì mi piaci, così ti amo\n\nHanno iniziato gli strumenti, il vecchio ballo dei dervisci\nse non me lo avessi ballato sarebbe stato innaturale\nballa, ragazza mia, io ti batterò le mani\ncosì mi piaci, così ti amo\n\nHanno iniziato gli strumenti, il bouzouki lavora\neccola la mia ragazza, si scuote e si dimena\nsputo su di te (per scongiuro), ragazzaccia mia, ehi cosa mi combini, wow-wow-wow\ncosì mi piaci, così ti amo\n\nNote:\n\nζεϊμπέκικο — danza tradizionale greca solitaria, lenta e introspettiva, tipica del rebetiko, ballata tradizionalmente dagli uomini\nασίκικο — aggettivo gergale (dal turco \"aşık\", innamorato/appassionato) per indicare qualcosa di pieno di passione, \"da innamorati\"\nντερβίσικο — \"dei dervisci\", riferito allo stile della danza che richiama i movimenti rotatori/estatici dei dervisci sufi\nφτου σου — espressione popolare di scongiuro contro il malocchio (si \"sputa\" simbolicamente su qualcuno/qualcosa di troppo bello o ammirato, per proteggerlo dall'invidia)\nκοπελλάρα — accrescitivo scherzoso/affettuoso di \"κοπέλα\" (ragazza), reso liberamente come \"ragazzaccia\" per il tono confidenziale",
+      "no": ""
+    },
     {
       "id": "s_1787640734075",
       "offsets": {},
@@ -3391,12 +3499,6 @@
           "year": "1925",
           "note": "",
           "link": "https://www.youtube.com/watch?v=bYsxZ3kw3gs"
-        },
-        {
-          "who": "Γιάννης Πάριος. Ελένη Βιτάλη, Ελένη Τσαλιγοπούλου",
-          "year": "1982",
-          "note": "",
-          "link": "https://www.youtube.com/watch?v=WPTsrv5YNKI"
         }
       ],
       "date": "2026-08-06",
@@ -8272,6 +8374,66 @@
       "roles": [
         "at",
         "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787644346566",
+      "name": "Στέλιος Κερομύτης",
+      "nameit": "Stélios Keromìtis",
+      "born": "1908 (alcune fonti indicano 1903), Pireo — zona chiamata \"στου Βάβουλα τη γούβα\"",
+      "died": "6 marzo 1979",
+      "bio": "Soprannomi: \"Μπούμπης\" e \"Αριστοκράτης\" (\"l'Aristocratico\")\n\nOrigine familiare da Κύθηρα (l'antica Cerigo), villaggio di Κερομυτιάνικα — non da Prussa (Bursa), come erroneamente riportato in alcuni siti\nFamiglia benestante; il padre Χαρίλαος era un buon suonatore di bouzouki (tra i cinque migliori del Pireo dell'epoca), ma dilettante, mai professionista\nIl padre proibì inizialmente al giovane Στέλιος di imparare il bouzouki (\"Se Στέλιος impara il bouzouki, l'abbiamo perso\"), ma il ragazzo imparò comunque di nascosto, ascoltando e osservando il padre e altri musicisti nei locali del Pireo — venendo anche picchiato per questo\nDal 1923 (secondo alcune fonti dal 1926) conosce Μάρκος Βαμβακάρης, diventando suo stretto collaboratore per molti anni\nNel 1934 entra a far parte della prima formazione professionale del rebetiko guidata da Βαμβακάρης, insieme ad altri musicisti storici del genere, prendendo il posto di Ανέστης Δελιάς dopo un contrasto di quest'ultimo con Βαμβακάρης\nNel 1937 debutta nella discografia con il successo \"Μες στου Βάβουλα τη γούβα\" (etichetta His Master's Voice, Atene)\nGrazie alla somiglianza vocale con Βαμβακάρης, divenne la sua \"controparte vocale\" nelle incisioni per Columbia e His Master's Voice\nAneddoto curioso: quando si presentò alla Columbia nel 1937 per la sua prima incisione, i responsabili, vedendolo così elegante e distinto, esclamarono: \"Questo non può essere un suonatore di bouzouki!... Sembra un avvocato!\" — da qui il soprannome \"Αριστοκράτης\"\nCome compositore ha lasciato circa 15 canzoni; come cantante ha partecipato a oltre 40 incisioni fino al 1953",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kerumitis.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787644897068",
+      "name": "Τώνης Μαρούδας",
+      "nameit": "Tónis Maroúdas",
+      "born": "17 marzo 1920, Patrasso (piazza Omonia)",
+      "died": "22 luglio 1988,  Atene",
+      "bio": "Vero nome: Αντώνης Μαρούδας (Antónis Maroúdas) — \"Τώνης\" è il diminutivo di Αντώνης\n\n\nConosciuto come \"il cantante dell'amore\" (\"ο τραγουδιστής της αγάπης\") per il suo stile interpretativo originale, di ispirazione occidentale\nFamiglia povera, di origini paterne zacinzie (Ζάκυνθος); perse il padre a soli due anni\nPer le difficoltà economiche non riuscì a completare la scuola elementare, ma imparò da autodidatta a leggere e scrivere, e parlava correntemente anche il francese\nA 16 anni partì da solo per Atene con appena 100 dracme in tasca, per inseguire il sogno della musica\nNel 1937 pubblicò il suo primo disco\nIl suo più grande successo fu \"Τι 'ναι αυτό που το λένε αγάπη\" (\"Cos'è questa cosa che chiamano amore\"), cantato in duetto con Sofia Loren in greco, per il film Boy on a Dolphin (in Grecia: \"Το παιδί και το δελφίνι\") — il disco vendette 2,5 milioni di copie, ma i creatori greci del brano ricevettero solo 5.000 dollari (link disponibile)\nNello stesso film interpretò anche il valzer \"Στο Μουράγιο\" (testo di Αλέκος Σακελλάριος e Χρήστος Γιαννακόπουλος, musica di Μιχάλης Σουγιούλ)\nSposato con Ερασμία, ebbe due figli, Τάκης e Μιχάλης\nNonostante il grande successo, restò una persona modesta e gentile, in buoni rapporti anche con artisti \"rivali\" come Νίκος Γούναρης\nMorì di cancro nel 1988; negli ultimi anni di vita continuò a cantare pur avendo un solo polmone funzionante\nSepolto al Primo Cimitero di Atene\nDal 2009 il Comune di Patrasso organizza in suo onore un festival annuale chiamato \"Μαρούδεια\"",
+      "link": "",
+      "listen": "https://www.youtube.com/watch?v=MDMiUPcZst8&list=RDMDMiUPcZst8&start_radio=1",
+      "photo": "https://musicagreca.github.io/musica-greca/images/marudas.jpg",
+      "roles": [
+        "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787646118192",
+      "name": "Βασίλης Αυλωνίτης",
+      "nameit": "Vasílis Avlonítis",
+      "born": "1 gennaio 1904, Thisío (Atene)",
+      "died": "10 marzo 1970, Atene",
+      "bio": "Secondogenito (dopo il fratello Αντώνης) di Αλέξανδρος e Κωνσταντίνα (Ντίνα); il padre abbandonò la famiglia, costringendolo a lavorare fin da prima di finire la scuola elementare per aiutare economicamente la madre\nDa ragazzo \"studiò\" il teatro osservando dal terrazzo di casa gli spettacoli del Teatro Estivo Έντεν, nel quartiere di Thisío\nLavorò occasionalmente in quel teatro come aiuto scenografo; debuttò come attore nel 1924 nell'operetta di Ν. Χατζηαποστόλου, \"Το κορίτσι της γειτονιάς\"\nDal 1928 si dedicò alla rivista teatrale (επιθεώρηση), diventando capocomico di una propria compagnia\nFratello dell'attore Γιάννης Αυλωνίτης; zio dell'attrice Ελένη Αυλωνίτου e prozio dell'attrice e soprano Μάρα Θρασυβουλίδου\nRecitò in circa 80 film, tra cui i più noti: \"Η ωραία των Αθηνών\" (1954), \"Λατέρνα, Φτώχεια και Φιλότιμο\" (1955), \"Ο Θησαυρός του Μακαρίτη\" (1959), \"Η Χιονάτη και τα 7 Γεροντοπαλίκαρα\" (1960)\nSpesso in coppia con l'attrice Γεωργία Βασιλειάδου, con cui formò uno dei duo comici più amati del cinema greco\nEbbe una forte passione per le corse dei cavalli (era un habitué dell'ippodromo di Φάληρο), al punto che Βασιλειάδου lo convinse per un periodo a farle custodire i suoi guadagni per evitare che li spendesse tutti alle corse\nMorì d'infarto ad Atene nel 1970",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/avlonitis.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787650241665",
+      "name": "Αγγελική Παπάζογλου",
+      "nameit": "Angelikí Papázoglou",
+      "born": "8 novembre 1899, Smirne",
+      "died": "17 agosto 1983, Nea Kokkinia (Atene)",
+      "bio": "Nota anche come Αγγέλα Παπάζογλου\n\nNome da nubile: Μαρωνίτη (anche detta \"Χιωτάκη\")\n\nApparteneva a un'importante famiglia di musicisti popolari: il padre, Δημήτριος Μαρωνίτης, era un noto violinista e suonatore di santouri\nSalì per la prima volta sul palco a 11 anni, accanto al padre\nA 16-17 anni cantava già in un locale chiamato \"μπίρα Μέλης\" (che fungeva contemporaneamente da cinema e teatro), poi nei locali di Αράπογλου, Τζίζικας, Αυταράς e alla \"Σκάλα του Κορδελιού\"\nVeniva chiamata \"Αγγελίτσα\" per distinguerla da un'altra cantante omonima\nSposò il celebre compositore rebetiko Βαγγέλης Παπάζογλου (Smirne 1896 – Nea Kokkinia, 27 giugno 1943), tra i più importanti musicisti pre-bellici del genere\nIl marito, pur essendo uno dei compositori smirnioti di maggior talento, non teneva in grande considerazione la professione della moglie e le chiese di smettere di cantare\nPerse completamente la vista nel 1929 a causa di problemi di salute\nLasciò solo sei registrazioni discografiche\nIl figlio, Γιώργης Παπάζογλου, raccolse i suoi racconti e ricordi nel libro \"Ονείρατα της άκαυτης και της καμένης Σμύρνης\" (\"Sogni della Smirne non bruciata e di quella bruciata\")\nMorì nella sua casa a Nea Kokkinia nel 1983",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/papazoglua.jpg",
+      "roles": [
+        "at",
         "ar"
       ]
     }
