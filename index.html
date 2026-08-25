@@ -958,6 +958,19 @@ function extractChords(chLine){
   while((m=re.exec(chLine))!==null){ if(isChTok(m[1])) out.push({col:m.index,raw:m[1]}); }
   return out;
 }
+function renderLyricsOnly(song){
+  // Stesso parser del testo+accordi, ma mostra solo i versi (senza la riga degli accordi)
+  var blocks=parseRaw(song.ch||'');
+  var html='<div class="songbook lyrics-only">';
+  for(var bi=0;bi<blocks.length;bi++){
+    var b=blocks[bi];
+    if(b.type==='spacer'){html+='<div style="height:.6rem"></div>';continue;}
+    if(b.type==='label'){html+='<span class="sb-lbl">'+esc(b.text)+'</span>';continue;}
+    if(b.type==='text'){html+='<div class="sb-txtonly">'+esc(b.text)+'</div>';continue;}
+    if(b.type==='pair'){html+='<div class="sb-txtonly">'+esc(b.txLine||'')+'</div>';continue;}
+  }
+  return html+'</div>';
+}
 function renderSB(song,st,CH2){
   var blocks=parseRaw(song.ch||''), offsets=song.offsets||{};
   var html='<div class="songbook">', pi=0;
@@ -1212,8 +1225,6 @@ function renderElencoCanzoni(){
       ||(s.yr||'').toLowerCase().indexOf(q)>=0
       ||alias.indexOf(q)>=0
       // ── ricerca anche dentro il testo della canzone (greco/traslitterato/traduzione) ──
-      // normalizziamo togliendo gli accenti, cosi' funziona sia digitando in greco
-      // (con o senza tonos) sia in italiano/traslitterato
       ||stripAccents((s.ch||'').toLowerCase()).indexOf(qNorm)>=0
       ||stripAccents((s.tr||'').toLowerCase()).indexOf(qNorm)>=0
       ||stripAccents((s.ti||'').toLowerCase()).indexOf(qNorm)>=0
@@ -1525,6 +1536,7 @@ function renderCanzone(){
   // costruisci tabs solo per contenuti esistenti
   var tabsH2='';
   if(s.ch) tabsH2+='<button class="itab'+(songTab==='chords'?' on':'')+'" onclick="setTab(\'chords\')">Testo + Accordi</button>';
+  if(s.ch) tabsH2+='<button class="itab'+(songTab==='lyrics'?' on':'')+'" onclick="setTab(\'lyrics\')">Solo testo</button>';
   if(s.tr) tabsH2+='<button class="itab'+(songTab==='trans'?' on':'')+'" onclick="setTab(\'trans\')">Trascrizione</button>';
   if(s.ti) tabsH2+='<button class="itab'+(songTab==='it'?' on':'')+'" onclick="setTab(\'it\')">Traduzione</button>';
   if(s.no) tabsH2+='<button class="itab'+(songTab==='notes'?' on':'')+'" onclick="setTab(\'notes\')">Note</button>';
@@ -1565,6 +1577,8 @@ function renderTab(){
   var semVal=songSemi===0?'originale':sg+songSemi+' st.';
   if(songTab==='chords'){
     e.innerHTML='<div class="semi-ctrl"><label>🎵 Tonalità:</label><button class="sbtn" onclick="chSemi(-6)" style="font-size:10px;width:28px">-6</button><button class="sbtn" onclick="chSemi(-1)">−</button><span class="semi-val">'+semVal+'</span><button class="sbtn" onclick="chSemi(+1)">+</button><button class="sbtn" onclick="chSemi(+6)" style="font-size:10px;width:28px">+6</button><button onclick="chSemi(0,true)" style="height:24px;padding:0 8px;font-size:11px;border:1px solid var(--b2);border-radius:var(--rad);background:var(--sur);cursor:pointer;margin-left:2px">Reset</button><div style="width:1px;background:var(--b2);margin:0 2px;align-self:stretch"></div><span style="font-size:11px;color:var(--t2)">Notaz.:</span><div class="nseg"><button class="'+(notation==='it'?'on':'')+'" onclick="notation=\'it\';renderTab()">Do Re Mi</button><button class="'+(notation==='en'?'on':'')+'" onclick="notation=\'en\';renderTab()">C D E</button><button class="'+(notation==='flat'?'on':'')+'" onclick="notation=\'flat\';renderTab()">b</button></div></div>'+renderSB(s,songSemi);
+  } else if(songTab==='lyrics'){
+    e.innerHTML=s.ch?renderLyricsOnly(s):'<p style="color:var(--t3)">Nessun testo.</p>';
   } else if(songTab==='trans'){
     e.innerHTML=s.tr?'<div class="text-blk">'+esc(s.tr)+'</div>':'<p style="color:var(--t3)">Nessuna trascrizione.</p>';
   } else if(songTab==='it'){
@@ -1661,6 +1675,8 @@ function doPrint(){
     tmpCtx.font='12pt "Noto Sans Mono",monospace';
     var CH12=tmpCtx.measureText('M').width;
     contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Testo + Accordi'+sn+'</div>'+renderSB(s,songSemi,CH12);
+  } else if(songTab==='lyrics'){
+    contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Solo testo</div>'+renderLyricsOnly(s);
   } else if(songTab==='trans'){
     contenuto=meta+'<div style="font-size:8pt;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#666;border-bottom:.5pt solid #ccc;padding-bottom:2pt;margin-bottom:6pt">Trascrizione fonetica</div><div style="font-size:11pt;line-height:1.85;white-space:pre-wrap">'+esc(s.tr||'')+'</div>';
   } else if(songTab==='it'){
