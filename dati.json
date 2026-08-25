@@ -1,8 +1,145 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-24T18:37:12.042Z",
+  "exportedAt": "2026-08-25T05:07:51.104Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787634433985",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στράτος Παγιουμτζής,  Στελλάκης Περπινιάδης",
+          "year": "1939",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=rulHKvbuQyI&list=RDrulHKvbuQyI&start_radio=1"
+        },
+        {
+          "who": "Σπύρος Ζαγοραίος",
+          "year": "1976",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=oGAiH3dlYLw&list=RDoGAiH3dlYLw&start_radio=1"
+        }
+      ],
+      "date": "2026-08-25",
+      "tgr": "Αποβραδίς ξεκίνησα",
+      "tit": "Apovradis ksekinisa",
+      "alias": "Χατζηκυριάκειο",
+      "at": "Δημήτρης Γκόγκος",
+      "am": "Δημήτρης Γκόγκος",
+      "yr": "1938",
+      "ar": "",
+      "lb": "His Master's Voice (codice AO 2471).",
+      "gn": "",
+      "dr": "Ραστ",
+      "bal": "Chasaposèrvikos",
+      "ll": "",
+      "li": "",
+      "ch": "LAm      MI  LAm\nΑποβραδίς ξεκίνησα\nSOL       LAm\nμ' έναν παλιό μου φίλο\nLA        REm\nγια το Χατζηκυριάκειο \nMI        LAm\nκαι για τον άγιο Nείλο \nLA        REm\nγια το Χατζηκυριάκειο \nMI        LAm\nκαι για τον άγιο Nείλο \n\nLAm      MI  LAm\nΠου 'χει ρετσίνα δροσερή\nSOL       LAm\nκαι όμορφα κορίτσια\nLA        REm\nμόνο που σε παιδεύουνε \nMI        LAm\nμε νάζια και καπρίτσια \nLA        REm\nμόνο που σε παιδεύουνε \nMI        LAm\nμε νάζια και καπρίτσια\n\nLAm      MI  LAm\nΈχει και μια μελαχρινή\nSOL       LAm\nπου είναι όλο νάζι\nLA        REm\nπρώτα με κέρναγε φιλιά \nMI        LAm\nκαι τώρα δε τη νοιάζει \nLA        REm\nπρώτα με κέρναγε φιλιά \nMI        LAm\nκαι τώρα δε τη νοιάζει \n\nLAm      MI  LAm\nΚαι κάθε βράδυ καρτερώ\nSOL       LAm\nστο δρόμο να περάσει\nLA        REm\nκι αν δεν την κλέψω μια βραδιά \nMI        LAm\nο κόσμος θα χαλάσει \nLA        REm\nκι αν δεν την κλέψω μια βραδιά \nMI        LAm\nο κόσμος θα χαλάσει",
+      "tr": "Apovradís ksekínisa\n\nApovradís ksekínisa\nm'énan palió mu fílo\ngia to Chatzikiriákio\nke gia ton áyio Nílo\n\nPu 'chi retsína droserí\nke ómorfa korítsia\nmóno pu se pedévune\nme názia ke kaprítsia\n\nÉchi ke mia melachriní\npu íne ólo názi\npróta me kérnaye filiá\nke tóra de ti niázi\n\nKe káthe vrádi karteró\nsto drómo na perási\nki an den tin klépso mia vradiá\no kósmos tha chalási",
+      "ti": "Sono partito ieri sera\n\nSono partito ieri sera\ncon un mio vecchio amico\nverso il Chatzikyriakio\ne verso Agios Nilos\n\nDove c'è retsina fresca\ne belle ragazze\nsolo che ti tormentano\ncon smancerie e capricci\n\nC'è anche una bruna\nche fa sempre la difficile\nprima mi offriva baci\ne ora non le importa più\n\nE ogni sera aspetto\nche passi per strada\ne se non la rapisco una sera\nil mondo andrà in rovina\n\nNote:\n\nΧατζηκυριάκειο — istituto/orfanotrofio storico del Pireo (Chatzikyriakeio), qui usato come riferimento toponomastico di zona\nΆγιος Νείλος — chiesa/zona di Agios Nilos, altro riferimento geografico del Pireo\nνάζια — smancerie, moine, atteggiamenti civettuoli, già incontrato in altre canzoni\nκαπρίτσια — capricci (italianismo/francesismo entrato nel greco popolare)\nο κόσμος θα χαλάσει — idiomatico: \"il mondo andrà in rovina/crollerà\", iperbole scherzosa per dire che l'evento è di importanza vitale (qui, riferito scherzosamente al rapimento/conquista della ragazza)",
+      "no": "Alcune fonti d'archivio attribuiscono parte dei versi a Kostas Kanoulas, sebbene il brano sia registrato a nome di Gogos.  Una curiosità storica locale narra che il brano sia stato scritto di pugno dall'autore seduto ai tavolini del caffè gestito dal padre del futuro grande attore greco Dimitris Papamichael."
+    },
+    {
+      "id": "s_1787632418432",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=El-HZh3PZe0&list=RDEl-HZh3PZe0&start_radio=1"
+        },
+        {
+          "who": "Μάρκος Βαμβακάρης",
+          "year": "1935",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=bxcpVcYdYsw&list=RDbxcpVcYdYsw&start_radio=1"
+        },
+        {
+          "who": "Σπύρος Ζαγοραίος,  Ζωή Ζαγοραίου",
+          "year": "1976",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=wG8tHpnLqUo&list=RDwG8tHpnLqUo&start_radio=1"
+        }
+      ],
+      "date": "2026-08-25",
+      "tgr": "Αντιλαλούνε οι φυλακές",
+      "tit": "Antilalùne i filakès",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1935",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE       SOL   RE      SOL\nΑντιλαλούν οι φυλακές, αντιλαλούν οι φυλακές\nMIm         SOL   MIm      SOL    MIm        SOL     MIm\nαντιλαλούν οι φυλακές, το Μπούρτζι κι ο Γεντί-Κουλές\nSOL          MIm    SOL       MIm  SOL          MIm\nΑντιλαλούν δυο σύρματα, Συγγρού και παραπήγματα\n\nRE          SOL     RE          SOL\nΑν είσαι μάνα και πονείς, αν είσαι μάνα και πονείς\nMIm             SOL   MIm      SOL   MIm      SOL   MIm\nαν είσαι μάνα και πονείς, έλα στην δίκη να με δεις\nSOL          MIm     SOL         MIm    SOL          MIm\nΈλα πριν με δικάσουνε κλάψε να μ' απαλλάξουνε\n\nRE        SOL      RE        SOL\nΤο σκότος και η φυλακή, το σκότος και η φυλακή\nMIm            SOL   MIm    SOL\nτο σκότος και η φυλακή είναι μεγάλο λακριντί\n\nRE       SOL   RE      SOL\nΑντιλαλούν οι φυλακές, αντιλαλούν οι φυλακές\nMIm         SOL   MIm       SOL\nαντιλαλούν οι φυλακές, το δύο και Γεντί-Κουλές",
+      "tr": "Antilalùne i filakès\n\nAndilalún i filakés, andilalún i filakés\nandilalún i filakés, to Búrtzi ki o Yendí-Kulés\nAndilalún dío sírmata, Singhrú ke parapíghmata\n\nAn íse mána ke poní̱s, an íse mána ke poní̱s\nan íse mána ke poní̱s, éla stin díki na me dis\nÉla prin me dikásune klápse na m'apaláksune\n\nTo skótos ke i filakí, to skótos ke i filakí\nto skótos ke i filakí íne meghálo lakrindí\n\nAndilalún i filakés, andilalún i filakés\nandilalún i filakés, to dío ke Yendí-Kulés",
+      "ti": "Rimbombano le prigioni, rimbombano le prigioni\nRimbombano le prigioni, il Burtzi e lo Yedi Kule\nRimbombanoo due reticolati, Syngrou e le baracche\n\nSe sei madre e soffri, se sei madre e soffri\nse sei madre e soffri, vieni al processo a vedermi\nvieni prima che mi giudichino, piangi perché mi assolvano\n\nIl buio e la prigione, il buio e la prigione\nil buio e la prigione sono una storia lunga da raccontare\n\nRimbombano le prigioni, rimbombano le prigioni\nrimbombano le prigioni, il due e lo Yedi Kule\n\nNote:\n\nΜπούρτζι — antica fortezza-prigione, usata in Grecia come carcere in diversi periodi storici\nΓεντί-Κουλές (Yedi Kule) — celebre e temuta prigione ottomana/greca a Salonicco (\"le sette torri\"), spesso citata nei canti di prigione\nΣυγγρού — riferimento alla prigione/carcere sulla via Syngrou ad Atene\nπαραπήγματα — baracche, costruzioni provvisorie carcerarie improvvisate\nσήμαντρα — sono i pezzi di ferro o legno battuti dalle guardie (simili ai simandri usati nei monasteri ortodossi) per scandire la giornata dei detenuti, ma qui indicano metaforicamente il rumore metallico delle sbarre percosse\nλακριντί — espressione popolare/gergale per \"storia lunga, faccenda complicata da raccontare\"",
+      "no": ""
+    },
+    {
+      "id": "s_1787631316492",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-25",
+      "tgr": "Άνοιξε γιατί δεν αντέχω",
+      "tit": "Anikse ghiatì den andècho",
+      "alias": "Το παράθυρο κλεισμένο",
+      "at": "",
+      "am": "",
+      "yr": "1948",
+      "ar": "Σωτηρία Μπέλλου, Στελλάκης Περπινιάδης",
+      "lb": "HMV AO-2799 / 0GA-1338",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=T6hUH4m7b3Q&list=RDT6hUH4m7b3Q&start_radio=1",
+      "li": "",
+      "ch": "RE                 RE#RE                     SOLm\nΤο παράθυρο κλεισμένο, σφαλισμένο, σκοτεινό\nDOm             RE        SOLm    RE                  RE#RE\nΓια ποιο λόγο δεν τ' ανοίγεις, πεισματάρα, να σε ιδώ\n\nSOLm    DOm      SOLm              RE SOLm DOm\nΆνοιξε, άνοιξε, γιατί δεν αντέ-χω         \nDOm        SOLm          RE        RE#   RE\nΦτάνει πια, φτάνει πια, να με τυραννάς   \nSOLm    DOm      SOLm              RE SOLm DOm\nΆνοιξε, άνοιξε, γιατί δεν αντέ-χω         \nDOm        SOLm          RE        RE#   RE\nΦτάνει πια, φτάνει πια, να με τυραννά\n\nRE                 RE#RE                     SOLm\nΞεροστάλιασα στ' αγιάζι, ώρες να σου τραγουδώ\nDOm             RE        SOLm    RE                  RE#RE\nΗ καρδιά μου φλόγες βγάζει, μα δε βγαίνεις να σε ιδώ\n\nSOLm    DOm      SOLm              RE SOLm DOm\nΆνοιξε, άνοιξε, γιατί δεν αντέ-χω         \nDOm        SOLm          RE        RE#   RE\nΦτάνει πια, φτάνει πια, να με τυραννάς    \nSOLm    DOm      SOLm              RE SOLm DOm\nΆνοιξε, άνοιξε, γιατί δεν αντέ-χω         \nDOm        SOLm          RE        RE#   RE\nΦτάνει πια, φτάνει πια, να με τυραννά",
+      "tr": "Anikse ghiatì den andècho\n\nTo paráthiro klisméno, sfalisméno, skotinó\nGia pio lógho den t'aníyis, pismatára, na se idó\n\nÁnikse, ánikse, giatí den andécho\nFtáni pia, ftáni pia, na me tiranás\n\nKserostáliasa st'ayiázi, óres na su traghudó\nI kardiá mu flóyes vghází, ma de vyénis na se idó\n\nÁnikse, ánikse, giatí den andécho\nFtáni pia, ftáni pia, na me tiranás",
+      "ti": "Apri, perché non ce la faccio più\n\nLa finestra chiusa, sbarrata, buia\nper quale motivo non la apri, testarda, per farmi vederti\n\nApri, apri, perché non ce la faccio più\nbasta ormai, basta ormai, di tormentarmi\n\nSono rimasto assiderato nella brina, ore a cantarti\nil mio cuore emette fiamme, ma tu non esci per farti vedere\n\nApri, apri, perché non ce la faccio più\nbasta ormai, basta ormai, di tormentarmi\n\nNote:\n\nξεροστάλιασα — verbo popolare che indica il restare fermi, intirizziti/sfiniti nell'attesa (spesso al freddo o sotto la pioggia), reso qui come \"sono rimasto assiderato\"\nαγιάζι — la brina/rugiada notturna, il freddo umido della notte\nπεισματάρα — testarda, ostinata (femminile), già incontrato in altre canzoni con lo stesso registro affettuoso-rimproverante",
+      "no": ""
+    },
+    {
+      "id": "s_1787630744526",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Απόστολος Χατζηχρήστος,  Γιώργος Κωνσταντινίδης",
+          "year": "1939",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ZUtfwd0woA8&list=RDZUtfwd0woA8&start_radio=1"
+        },
+        {
+          "who": "Σωτηρία Μπέλλου",
+          "year": "1979",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=7quGvFtsW3s&list=RD7quGvFtsW3s&start_radio=1"
+        }
+      ],
+      "date": "2026-08-25",
+      "tgr": "Αλήτη μ' είπες μια βραδιά",
+      "tit": "Alíti m'ípes mia vradiá",
+      "alias": "Το παράπονο του αλήτη",
+      "at": "Γιάννης Λελάκης",
+      "am": "Απόστολος Χατζηχρήστος",
+      "yr": "1939",
+      "ar": "Γιώργος Κωνσταντινίδης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "LA         MI             LA\nΑλήτη μ' είπες μια βραδιά\nLA         MI     LA\nχωρίς καμιά αιτία\nRE            MI      LA\nΜα του αλήτη η καρδιά   | 2x\nMI                   LA\nδεν σου κρατάει κακία   | 2x\n\nLA         MI             LA\nΘα 'ρθει καιρός όμως μικρή\nLA         MI     LA\nνα το μετανοήσεις\nRE            MI      LA\nΓια του αλήτη την καρδιά   | 2x\nMI                   LA\nθα κλάψεις, θα δακρύσεις   | 2x\n\nLA         MI             LA\nΑλήτη μ' είπες, μα εγώ\nLA         MI     LA\nχωρίς να σε μισήσω\nRE            MI      LA\nγελώ ακόμα κι αν πονώ\nMI                   LA\nγια να μη σε λυπήσω",
+      "tr": "Alíti m'ípes mia vradiá\n\nAlíti m'ípes mia vradiá\nchorís kamiá aitía\nMa tu alíti i kardiá\nden su kratái kakía\n\nTha 'rthi kerós ómos mikrí\nna to metanoísis\nGia tu alíti tin kardiá\ntha klápsis, tha dakrísis\n\nAlíti m'ípes, ma eghó\nchorís na se misíso\ngheló akóma ki an ponó\ngia na mi se lipíso",
+      "ti": "Vagabondo mi hai chiamato una sera\n\nVagabondo mi hai chiamato una sera\nsenza alcun motivo\nma il cuore del vagabondo\nnon ti serba rancore\n\nVerrà il tempo però, piccola,\nin cui te ne pentirai\nper il cuore del vagabondo\npiangerai, verserai lacrime\n\nVagabondo mi hai chiamato, ma io\nsenza odiarti\nrido anche se soffro\nper non farti dispiacere",
+      "no": ""
+    },
     {
       "id": "s_1787596518747",
       "offsets": {},
@@ -7928,6 +8065,51 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/kakoghiannis.jpg",
       "roles": [
         "at"
+      ]
+    },
+    {
+      "id": "p_1787630116472",
+      "name": "Γιάννης Λελάκης",
+      "nameit": "Ghiànnis Lelàkis",
+      "born": "1914",
+      "died": "1978",
+      "bio": "Paroliere del rebetiko, attivo nell'ambiente di Δραπετσώνα/Πειραιάς\nNel 1937 inizia la collaborazione con il compositore Απόστολος Χατζηχρήστος (sua prima collaborazione in assoluto): si conoscono a Δραπετσώνα, dove Χατζηχρήστος abitava da anni\nIl suo metodo: scriveva i testi ascoltando le melodie che Χατζηχρήστος suonava nel negozio di strumenti di Μακαρόνας (Νίκος Κωνσταντινίδης), che accompagnava con la chitarra\nTra le prime canzoni della coppia: \"Αλήτη μ' είπες μια βραδιά\" (1939)\nAttraversò un periodo di grande povertà prima di affermarsi (episodio raccontato a proposito della canzone \"Φτώχεια\"/\"Καταραμένη φτώχεια\")\nHa scritto un'autobiografia, citata come fonte nel libro \"Ρεμπέτικη ιστορία 1 – Περπινιάδης, Γενίτσαρης, Μάθεσης, Λελάκης (ο στιχουργός)\" di Κώστας Χατζηδουλής (εκδόσεις Νεφέλη, 1978)\n\nAltri testi scritti per Απόστολος Χατζηχρήστος: \"Παραπονιάρικο\", \"Καρδιά παραπονιάρα\", \"Κατινούλα\", \"Μην είσαι ψεύτρα δίγνωμη\", \"Απόψε μάνα σε συλλογιέμαι\" (1956), \"Νύχτα αξημέρωτη\"",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/lelakis.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1787632938167",
+      "name": "Ζωή Ζαγοραίου",
+      "nameit": "Zoí Zagoraíou",
+      "born": "1930, Salonicco (da genitori di origine microasiatica)",
+      "died": "19 aprile 2015, Egaleo",
+      "bio": "Nome da nubile: Ζωή Μοσχονησιώτη\n\nNel 1957, a 27 anni, conosce il cantante Σπύρος Ζαγοραίος\nI genitori di lei si oppongono al matrimonio probabilmente anche per la disabilità fisica di Σπύρος, così i due fuggono insieme e si stabiliscono ad Αγία Βαρβάρα, dove lui lavorava come fotografo cantando parallelamente\nÈ lui a farla debuttare nella discografia come \"seconda voce\" (σιγόντα), pur senza che lei avesse esperienza musicale\nDai primi anni '60 lo accompagna stabilmente nel canto, formando insieme uno dei duetti più popolari della musica laika\nSepolta al Γ' Νεκροταφείο Αθηνών accanto al marito (morto pochi mesi prima, il 20 ottobre 2014)",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/zagoreu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787633607155",
+      "name": "Δημήτρης Γκόγκος",
+      "nameit": "Dimítris Gógos",
+      "born": "28 febbraio 1903, Chatzikiriàkio, Pireo",
+      "died": "18 novembre 1985, Atene",
+      "bio": "Ultimo (o penultimo) di 22 figli di Γιάννης Γκόγκος, sottufficiale della Marina Reale originario di Πόρος, e di Αγγελική, originaria di Ύδρα; famiglia benestante con proprietà a Πόρος\nDa ragazzo suonava mandolino, chitarra e violino; dal 1924 iniziò a imparare bouzouki e baglamàs, contro il parere del padre\nIl soprannome \"Μπαγιαντέρας\" deriva dal 1925, quando arrangiò ed eseguì al bouzouki brani dell'operetta La Bayadère di Emmerich Kálmán, compreso il brano omonimo\nDurante l'Occupazione (Κατοχή) aderì all'ΕΑΜ; visse in povertà, cercando latte per i figli nei συσσίτια * di giorno e suonando nelle taverne di notte\nNell'aprile 1941 perse completamente la vista sul palco, mentre cantava — causa avitaminosi, aggravata da un glaucoma preesistente; rimase cieco per il resto della vita\nNonostante la cecità, continuò a comporre: è considerato una delle figure di spicco del rebetiko della Resistenza Nazionale (canzoni sull'ΕΑΜ, l'ΕΛΑΣ, Άρης Βελουχιώτης)\nTra i suoi maggiori successi: \"Ζούσα μοναχός χωρίς αγάπη\", \"Χατζηκυριάκειο\", \"Σα μαγεμένο το μυαλό μου\"\nNel 1971 pubblica un 45 giri, \"Καθρέφτης\", in duetto con Διονύσης Σαββόπουλος\nTrascorse gli ultimi anni isolato nella sua casa a Περιστέρι (quartiere Άγιος Ιερόθεος) con la moglie Δέσποινα\nMorì all'ospedale Ευαγγελισμός il 18 novembre 1985, dopo un ictus (inizio ottobre) seguito da un'infezione urinaria e respiratoria\n\n* συσσίτια = mense popolari/pubbliche — punti dove durante l'Occupazione (specialmente nei periodi di carestia, 1941-42) si distribuiva cibo gratuito o a basso costo alla popolazione povera, spesso organizzate da enti di beneficenza, chiese o dopo il '43 dal movimento di resistenza. Nel caso di Γκόγκος: andava lì al mattino per procurare il latte ai suoi figli.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/gogos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
       ]
     }
   ]
