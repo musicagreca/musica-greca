@@ -278,7 +278,7 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
   <button class="tb-back" onclick="go('elenchi')">← Elenchi</button>
 </div>
 <div class="wrap">
-  <div id="srch-c-wrap" class="search-bar"><input type="text" id="srch-c" placeholder="Cerca canzone…" oninput="renderElencoCanzoni()"></div>
+  <div id="srch-c-wrap" class="search-bar"><input type="text" id="srch-c" placeholder="Cerca canzone, autore, parola nel testo (greco o italiano)…" oninput="renderElencoCanzoni()"></div>
   <div id="mode-tier"></div>
   <div id="list-canzoni"></div>
 </div>
@@ -1198,6 +1198,7 @@ function renderElencoCanzoni(){
   }
 
   // Filtro
+  var qNorm = stripAccents(q);
   var list=songs.filter(function(s){
     var alias=(s.alias||'').toLowerCase();
     var matchQ = srchMode!=='titolo' || !q
@@ -1209,7 +1210,14 @@ function renderElencoCanzoni(){
       ||(s.gn||'').toLowerCase().indexOf(q)>=0
       ||(s.dr||'').toLowerCase().indexOf(q)>=0
       ||(s.yr||'').toLowerCase().indexOf(q)>=0
-      ||alias.indexOf(q)>=0;
+      ||alias.indexOf(q)>=0
+      // ── ricerca anche dentro il testo della canzone (greco/traslitterato/traduzione) ──
+      // normalizziamo togliendo gli accenti, cosi' funziona sia digitando in greco
+      // (con o senza tonos) sia in italiano/traslitterato
+      ||stripAccents((s.ch||'').toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((s.tr||'').toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((s.ti||'').toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((s.no||'').toLowerCase()).indexOf(qNorm)>=0;
     var matchG = srchMode!=='genere' || !srchGenere || normGenereKey((s.gn||''))===srchGenere;
     var matchBal = srchMode!=='ballo' || !srchBallo || (s.bal||'').trim()===srchBallo;
     var matchA = srchMode!=='alfabetico' || !srchAlpha || (
