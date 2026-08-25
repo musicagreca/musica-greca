@@ -1,8 +1,67 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-25T05:07:51.104Z",
+  "exportedAt": "2026-08-25T06:10:25.716Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787638215067",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-25",
+      "tgr": "Απόψε μ' εγκατέλειψες",
+      "tit": "Apòpse m'egatèlipses",
+      "alias": "",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Στέλιος Χρυσίνης",
+      "yr": "1950",
+      "ar": "Ρένα Στάμου",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=ApjEiyP0EQQ&list=RDApjEiyP0EQQ&start_radio=1",
+      "li": "",
+      "ch": "REm  DO  FA ...  SIb  DO  FA  REm\nΑπόψε μ' εγκατέλειψες\nSOLm      REm\nΠως βάσταξε η καρδιά σου\nDO   FA      SOLm    LA7\nΚαι μες την νύχτα χάνονται -αι -αι -αι \nREm      LA7 \nΑργά τα βή, αργά τα βήματα σου \nDO   FA      SOLm    LA7\nΚαι μες την νύχτα χάνονται -αι -αι -αι \nREm      LA7 \nΑργά τα βή, αργά τα βήματα σου \n\nREm  DO  FA ...  SIb  DO  FA  REm\nΜονάχα συ μ' απόμεινες\nSOLm      REm\nΤο μόνο στήριγμα μου\nDO   FA      SOLm    LA7\nΤώρα που φεύγεις που αλλού\nREm      LA7\nΘα βρω παρη, θα βρω παρηγοριά μου\n\nREm  DO  FA ...  SIb  DO  FA  REm\nΑπόψε μ' εγκατέλειψες\nSOLm      REm\nΚαι μια ζωή γκρεμίζει\nDO   FA      SOLm    LA7\nΓια μένα μαύρη κόλαση\nREm      LA7\nΣτο βίος μου, στο βίος μου αρχίζει",
+      "tr": "Apópse m'engatélipses\n\nApópse m'engatélipses\nPos vástakse i kardiá su\nKe mes tin níchta chánonde -e -e -e\nArghá ta ví, arghá ta vímata su\n\nMonácha si m'apómines\nTo móno stíringhó mu\nTóra pu févyis pu aló\nTha vro pari, tha vro pariyoriá mu\n\nApópse m'engatélipses\nKe mia zoí gremízi\nGia ména mávri kólasi\nSto víos mu, sto víos mu archízi",
+      "ti": "Stasera mi hai abbandonato\n\nStasera mi hai abbandonato\ncome ha retto il tuo cuore\ne nella notte si perdono, ah ah ah\nlenti i tuoi, lenti i tuoi passi\n\nSolo tu mi eri rimasta\nil mio unico sostegno\nora che te ne vai, dove altro\ntroverò conforto, troverò la mia consolazione\n\nStasera mi hai abbandonato\ne una vita crolla\nper me un inferno nero\nnella mia vita, nella mia vita comincia\n\nNote:\n\nστήριγμα — sostegno, appoggio (anche in senso figurato/emotivo)\nπαρηγοριά — conforto, consolazione\nβίος — vita (forma più letteraria/arcaica rispetto a \"ζωή\", usata qui probabilmente per motivi di metrica/rima)\nil testo presenta alcune irregolarità grammaticali/sintattiche (es. \"θα βρω παρη-\" interrotto, \"στο βίος μου\" con articolo neutro invece che maschile) che sembrano riflettere fedelmente il testo originale così come trascritto, forse con piccole imperfezioni di trascrizione dall'ascolto",
+      "no": ""
+    },
+    {
+      "id": "s_1787637318703",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κυρία Κούλα",
+          "year": "1920",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=lNoDbblC-bI&list=RDlNoDbblC-bI&start_radio=1"
+        },
+        {
+          "who": "Καίτη Γκρέυ",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=tQRAXsk-GsE&list=RDtQRAXsk-GsE&start_radio=1"
+        }
+      ],
+      "date": "2026-08-25",
+      "tgr": "Από ξένο τόπο",
+      "tit": "Apo ksèno tòpo",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "sirtòs",
+      "ll": "",
+      "li": "",
+      "ch": "REm      SOLm      REm\nΑπό ξένο τόπο κι απ' αλαργινό \nREm      SOLm      REm\nΑπό ξένο τόπο κι απ' αλαργινό \nREm                SOLm                  LA\nήρθε ένα κορίτσι, φως μου, δεκαοχτώ χρονώ\nREm       LA                        REm\nήρθε ένα κορίτσι, φως μου, δεκαοχτώ χρονώ\n\n\nREm         SOLm                 REm\nΟύτε στην πόρτα βγαίνει, ούτε στο στενό \nREm              SOLm              REm\nΟύτε στην πόρτα βγαίνει, ούτε στο στενό \nREm                  SOLm                     LA\nΟύτε στο παραθύρι, φως μου, δυο λόγια να τής πω \nREm      LA                               REm\nΟύτε στο παραθύρι, φως μου, δυο λόγια να τής πω \nREm      SOLm                  REm\nΈβγα κόρη του γιαλού, άστρο λαμπερό \nREm      SOLm                  REm\nΈβγα κόρη του γιαλού, άστρο λαμπερό\nREm                     SOLm             LA\nχάρισέ μου την ελιά σου που 'χεις στο λαιμό \nREm                     SOLm           REm\nχάρισέ μου την ελιά σου που 'χεις στο λαιμό",
+      "tr": "Apó kséno tópo\n\nApó kséno tópo ki ap'alarghinó\nírthe éna korítsi, fos mu, dekachtó chronó\nírthe éna korítsi, fos mu, dekachtó chronó\n\nÚte stin pórta vghéni, úte sto stenó\nÚte sto parathíri, fos mu, dío lóghia na tis po\n\nÉvgha kóri tu ghialú, ástro labiró\nchárisé mu tin eliá su pu 'chis sto lemó",
+      "ti": "Da un luogo straniero\n\nDa un luogo straniero e lontano\nè arrivata una ragazza, luce mia, di diciotto anni\nè arrivata una ragazza, luce mia, di diciotto anni\n\nNon esce nemmeno sulla porta, né nel vicolo\nné alla finestra, luce mia, per dirle due parole\n\nEsci, fanciulla del mare, stella luminosa\nregalami il tuo neo che hai sul collo\n\nNote:\n\nφως μου — vezzeggiativo letterale \"luce mia\", espressione d'affetto molto comune nel greco popolare\nαλαργινό — lontano (forma dialettale/poetica, da \"άλαργα\")\nκόρη του γιαλού — \"fanciulla del mare/della riva\", immagine poetica per una ragazza che vive vicino al mare o proveniente da una zona costiera\nελιά — qui non l'olivo/oliva ma, come in altre canzoni popolari greche, un neo sulla pelle (paragonato scherzosamente a un'oliva per forma e colore)",
+      "no": "Questa non è una singola canzone con un testo fisso, ma una famiglia di brani tradizionali imparentati, che nel corso di decenni sono stati registrati con titoli diversi, testi diversi e persino atmosfere musicali diverse, pur condividendo la stessa origine melodica di fondo (ambientazione musicale hitzaz-hitzaskiar). Ecco la cronologia principale:\n\n1905, Costantinopoli — \"Από τας Αθήνας\", interprete Πέτρος Ζουναράκης (prima incisione conosciuta, etichetta Gramophone/Zonophone)\n1906, Costantinopoli — altre due incisioni con lo stesso titolo\n1908, Costantinopoli — nuova incisione di Ζουναράκης: qui le prime due strofe restano nella forma tradizionale, poi il brano si trasforma in un manés (canto più libero e melismatico, molto diverso da una canzone strofica)\n1910 — Γιαγκούλης (Jangouli / Γιάγκος Ψαμαθιανός) registra la stessa versione\n1917, New York — \"Από ξένο κόσμο\", interprete Μάριος Λυμπερόπουλος\n1920, New York — \"Από ξένο τόπο\", interprete Κα Κούλα (Κυριακή Γιορτζή-Αντωνοπούλου), etichetta Panhellenion American Disc PAN-8035 — incisione priva della prima strofa\n1922 e 1939, Atene — altre incisioni con il titolo \"Από ξένο τόπο\"\n1926, 1927, 1934, Atene e 1928, New York — titolo \"Έχασα το μαντήλι\"\n1928, New York — titolo \"Ο Βαγγέλης\"\n\nLe versioni testuali differiscono profondamente tra loro: in una variante la protagonista è una ragazza di 12 anni che resta chiusa in casa, e il pretendente le chiede in dono un neo sul collo come pegno d'amore; in un'altra (interpretata anche da Καίτη Γκρέυ) la ragazza ha 20 anni e viene sedotta/rapita con l'astuzia dal protagonista, che la bacia sulla guancia; nella versione di Ζουναράκης del 1908, invece, il protagonista passa da Atene, vede una ragazza alla finestra e la implora di dirgli perché non lo ama.\n\nIl brano ha inoltre varianti testuali e musicali documentate anche in Turchia ed Egitto, ed è stato usato come base per il film turco Katip (1968)."
+    },
     {
       "id": "s_1787634433985",
       "offsets": {},
@@ -8110,6 +8169,34 @@
         "am",
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1787636463834",
+      "name": "Κυρία Κούλα",
+      "nameit": "Kirìa Kùla",
+      "born": "21 maggio 1878, Costantinopoli (Impero Ottomano)",
+      "died": "11 ottobre 1954, New York City, USA",
+      "bio": "Vero nome: Κυριακή Γιορτζή-Αντωνοπούλου — \"Κούλα\" è il diminutivo di Κυριακή, usato come nome d'arte\n\n\nNota anche come \"Madame Coula\"\nPrima cantante greca a diventare una vera e propria star negli Stati Uniti\nAttiva dal 1916 al 1950 circa\nHa inciso oltre 420 canzoni nel corso della carriera\nHa registrato per diverse etichette: Columbia Records, Orpheum Records, Panhellenion Records, Victor Records, Panhellenic Records\nRepertorio: musica popolare greca, musica popolare turca, rebetiko\nNel 1920 a New York ha inciso una versione di \"Από ξένο τόπο\" (etichetta Panhellenion American Disc PAN-8035), con il clarinettista Αντώνης Σακελλαρίου — incisione priva purtroppo della prima strofa",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kula.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787638188588",
+      "name": "Ρένα Στάμου",
+      "nameit": "Réna Stámou",
+      "born": "4 luglio 1930, Chaniá (Creta)",
+      "died": "28 marzo 2022, Londra",
+      "bio": "Vero nome: Ρένα Δασκαλάκη-Σεβδαλή (Réna Daskalákí-Sevdalí)\n\nInfanzia molto difficile: non ha mai conosciuto il padre; fino ai dodici anni è cresciuta nell'orfanotrofio di Iráklio; poi ha vissuto in condizioni difficili a casa della madre, a Il Pireo\nDurante l'Occupazione tedesca è stata accolta da una famiglia nel quartiere di Patísia, ad Atene\nVagando per Atene, è stata poi presa in casa dalla grande cantante popolare Καίτη Γκρέυ, che le è diventata amica\nGrazie a quell'ambiente conosce i musicisti popolari, in particolare Στέλιος Χρυσίνης\nNel 1948 incide il suo primo disco con due canzoni di Γιώργος Μητσάκης, \"Σεμιχά\" e \"Φτωχοκόριτσο\", con il nome \"Ρένα\" sull'etichetta\nNel biennio 1950-1952 incide diverse canzoni insieme a Πρόδρομος Τσαουσάκης — nella sua biografia racconta anche della collaborazione con Στέλιος Καζαντζίδης, allora militare di leva al ΚΕΒΟΠ di Χαϊδάρι\nNel 2009 esce la sua biografia, curata da Νέαρχος Γεωργιάδης e Τάνια Ραχματούλινα, dal titolo \"Ρένα Στάμου – Μια εγκυκλοπαίδεια του Ρεμπέτικου\" (\"Rena Stamou – Un'enciclopedia del rebetiko\")\nA 76 anni pubblica un disco intitolato \"Απόψε μ' εγκατέλειψες\" (proprio la canzone appena documentata), in cui reincide i suoi grandi successi insieme a brani meno conosciuti\nLa sua ultima incisione risale al 2013, per il disco \"Ξεριζωμός – 91 χρόνια μετά\" (\"Sradicamento – 91 anni dopo\"), dedicato alla catastrofe dell'Asia Minore, su musica di Χρήστος Παπαδόπουλος e testo di Κώστας Μπαλαχούτης\nMorta a Londra, dove viveva con la figlia, in una casa di cura — alcune fonti sottolineano che è morta \"dimenticata\" (ξεχασμένη)",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/stamu.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
