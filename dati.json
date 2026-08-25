@@ -1,8 +1,67 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-25T15:37:57.387Z",
+  "exportedAt": "2026-08-25T16:59:31.530Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787676015446",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-25",
+      "tgr": "Γιάννη μου το μαντήλι σου",
+      "tit": "Ghiàni mou to mandìli sou",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "Σάββας Σιάτρας, Δόμνα Σαμίου",
+      "lb": "",
+      "gn": "dimotikò Epiro",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=KNjcQaZfU_I&list=RDKNjcQaZfU_I&start_radio=1",
+      "li": "",
+      "ch": "REm  FA#m  REm       FA       REm\nΓιάννη μου το, Γιάννη μου το, άιντε\nREm  FA#m  REm       FA       REm\nΓιάννη μου το μαντήλι σου, έλα\n       FA                      SOLm              REm\nΆιντε, τι το 'χεις λερωμένο, βρε Γιαννή, Γιαννάκη μου\n        FA     SOLm       REm         FA        REm\nΆιντε, τι το 'χεις λερωμένο, βρε παλικαράκι μου, έλα\n\nREm  FA#m  REm       FA       REm\nΤο λέρωσε, το λέρωσε, άιντε\nREm  FA#m  REm       FA       REm\nτο λέρωσε η ξενιτιά, έλα\n       FA                      SOLm              REm\nΆιντε, τα έρημα τα ξένα, βρε Γιαννή, Γιαννάκη μου\n        FA     SOLm       REm         FA        REm\nΆιντε, τα έρημα τα ξένα, βρε παλικαράκι μου, έλα\n\nREm  FA#m  REm       FA       REm\nΓια δεν το πλέ-, για δεν το πλέ-, άιντε\nREm  FA#m  REm       FA       REm\nΓια δεν το πλένεις με νερό, έλα\n       FA                      SOLm              REm\nΓια δεν το σαπουνίζεις, βρε Γιαννή, Γιαννάκη μου\n        FA     SOLm       REm         FA        REm\nΓια δεν το σαπουνίζεις, βρε παλικαράκι μου, έλα\n\nREm  FA#m  REm       FA       REm\nΔώσ' μου το μένα, Γιάννη μου, άιντε\nREm  FA#m  REm       FA       REm\nΔώσ' μου το μένα, Γιάννη μου, έλα\n       FA                      SOLm              REm\nΝα σου το σαπουνίσω, βρε Γιαννή, Γιαννάκη μου\n        FA     SOLm       REm         FA        REm\nΝα σου το σαπουνίσω, βρε παλικαράκι μου, έλα\n\nREm  FA#m  REm       FA       REm\nΠέντε ποτά-, πέντε ποτά-, άιντε\nREm  FA#m  REm       FA       REm\nπέντε ποτάμια το 'πλενα, έλα\n       FA                      SOLm              REm\nΆιντε, και βάψαν και τα πέντε, βρε Γιαννή, Γιαννάκη μου\n        FA     SOLm       REm         FA        REm\nΆιντε, και βάψαν και τα πέντε, βρε παλικαράκι μου, έλα\n\nREm  FA#m  REm       FA       REm\nΚαι βάψαν και, και βάψαν και, άιντε\nREm  FA#m  REm       FA       REm\nκαι βάψαν και τη θάλασσα\n       FA                      SOLm              REm\nκαι όλα τα καράβια, βρε Γιαννή, Γιαννάκη μου\n        FA     SOLm       REm         FA        REm\nκαι όλα τα καράβια, βρε παλικαράκι μου, έλα\n\nREm  FA#m  REm       FA       REm\nΠέρασε κι έ-, πέρασε κι έ-, άιντε\nREm  FA#m  REm       FA       REm\nΠέρασε και ένα πουλί, έλα\n       FA                      SOLm              REm\nκαι βάψαν τα φτερά του, βρε Γιαννή, Γιαννάκη μου\n        FA     SOLm       REm         FA        REm\nκαι βάψαν τα φτερά του, βρε παλικαράκι μου, έλα",
+      "tr": "Ghiàni mou to mandìli sou\n\nGhiáni mu to, ghiáni mu to, áinde\nGhiáni mu to mandíli su, éla\nÁinde, ti to 'chis leroméno, vre Ghianí, Ghianáki mu\nÁinde, ti to 'chis leroméno, vre palikaráki mu, éla\n\nTo lérose, to lérose, áinde\nto lérose i ksenitiá, éla\nÁinde, ta érima ta kséna, vre Ghianí, Ghianáki mu\nÁinde, ta érima ta kséna, vre palikaráki mu, éla\n\nGhia den to plé-, gia den to plé-, áinde\nGhia den to plénis me neró, éla\nGhia den to sapunízis, vre Ghianí, Ghianáki mu\nGhia den to sapunízis, vre palikaráki mu, éla\n\nDós' mu to ména, Ghiáni mu, áinde\nDós' mu to ména, Ghiáni mu, éla\nNa su to sapunízo, vre Ghianí, Ghianáki mu\nNa su to sapunízo, vre palikaráki mu, éla\n\nPénde potá-, pénde potá-, áinde\npénde potámia to 'plena, éla\nÁinde, ke vápsan ke ta pénde, vre Ghianí, Ghianáki mu\nÁinde, ke vápsan ke ta pénde, vre palikaráki mu, éla\n\nKe vápsan ke, ke vápsan ke, áinde\nke vápsan ke ti thálasa\nke óla ta karávia, vre Ghianí, Ghianáki mu\nke óla ta karávia, vre palikaráki mu, éla\n\nPérase ki é-, pérase ki é-, áinde\nPérase ke éna pulí, éla\nke vápsan ta fterá tu, vre Ghianí, Ghianáki mu\nke vápsan ta fterá tu, vre palikaráki mu, éla",
+      "ti": "Gianni mio il tuo fazzoletto\n\nGiannis mio, il tuo, Giannis mio, il tuo, dai\nGiannis mio, il tuo fazzoletto, vieni\ndai, perché ce l'hai sporco, ehi Giannis, Giannakis mio\ndai, perché ce l'hai sporco, ehi bel ragazzo mio, vieni\n\nL'ha sporcato, l'ha sporcato, dai\nl'ha sporcato l'esilio, vieni\ndai, le desolate terre straniere, ehi Giannis, Giannakis mio\ndai, le desolate terre straniere, ehi bel ragazzo mio, vieni\n\nPerché non lo lavi, perché non lo lavi, dai\nperché non lo lavi con l'acqua, vieni\nperché non lo insaponi, ehi Giannis, Giannakis mio\nperché non lo insaponi, ehi bel ragazzo mio, vieni\n\nDammelo a me, Giannis mio, dai\ndammelo a me, Giannis mio, vieni\nche te lo insaponi io, ehi Giannis, Giannakis mio\nche te lo insaponi io, ehi bel ragazzo mio, vieni\n\nCinque fiumi, cinque fiumi, dai\nin cinque fiumi lo lavavo, vieni\ndai, e si sono tinti tutti e cinque, ehi Giannis, Giannakis mio\ndai, e si sono tinti tutti e cinque, ehi bel ragazzo mio, vieni\n\nE si è tinto anche, e si è tinto anche, dai\ne si è tinto anche il mare\ne tutte le navi, ehi Giannis, Giannakis mio\ne tutte le navi, ehi bel ragazzo mio, vieni\n\nÈ passato anche un, è passato anche un, dai\nè passato anche un uccello, vieni\ne si sono tinte le sue ali, ehi Giannis, Giannakis mio\ne si sono tinte le sue ali, ehi bel ragazzo mio, vieni\n\nNote:\n\nξενιτιά — l'esilio/la vita in terra straniera, tema ricorrente nella canzone popolare greca legato all'emigrazione e alla nostalgia\nτα έρημα τα ξένα — \"le desolate terre straniere\", espressione poetica che rafforza il senso di solitudine e abbandono legato all'emigrazione\nil \"fazzoletto sporco\" è immagine simbolica tradizionale: il sangue/la sofferenza patita lontano da casa che nessun lavaggio (nemmeno cinque fiumi o il mare) riesce a cancellare — la macchia si estende fino a tingere il mare, le navi e persino un uccello di passaggio, amplificando il dolore in chiave iperbolica/poetica",
+      "no": ""
+    },
+    {
+      "id": "s_1787674908586",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ανέστης Δελιάς",
+          "year": "1936",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=NEnCvzL4IWc&list=RDNEnCvzL4IWc&start_radio=1"
+        },
+        {
+          "who": "Γιώργος Κατσαρός (Θεολογίτης)",
+          "year": "1938",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=pB-RjCc2VXU&list=RDpB-RjCc2VXU&start_radio=1"
+        }
+      ],
+      "date": "2026-08-25",
+      "tgr": "Βρε μάγκα το μαχαίρι σου",
+      "tit": "Vre mànga to machieri sou",
+      "alias": "το Κουτσαβάκι",
+      "at": "Νίκος Μάθεσης",
+      "am": "Ανέστης Δελιάς",
+      "yr": "1936",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Aptaliko",
+      "ll": "",
+      "li": "",
+      "ch": "RE\nΒρε μάγκα το μαχαίρι σου\nRE\nγια να το κουσουμάρης\nRE \nπρέπει να έ-έχεις στην ψυχή\n           DOm    RE \nκαρδιά για να το βγάλεις \nRE \nπρέπει να έ-έχεις στην ψυχή\n           DOm    RE\nκαρδιά για να το βγάλεις\n\nRE\nΣ' εμένα δεν περνάν αυτά\nRE\nκαι κρύψε το σπαθί σου\n    RE\nΓιατί μαστούρης θα -α γενώ \n               DOm    RE\nΚαι θα ρθω στο τσαρντί σου \n    RE\nΓιατί μαστούρης θα -α γενώ \n               DOm    RE\nΚαι θα ρθω στο τσαρντί σου\n\nRE\nΑλλού να πας βρε μάγκα μου\nRE\nνα κάνεις τη φιγούρα\nRE\nγιατί και γώ φουμάρισα\n               DOm    RE\nκι εγώ τρελή μαστούρα \nRE\nγιατί και γώ φουμάρισα\n               DOm    RE\nκι εγώ τρελή μαστούρα\n\nRE\nΣ' εμένα δεν περνάν αυτά\nRE\nκαι κρύψε το σπαθί σου\nRE\nΓιατί μαστούρης θα -α γενώ \n               DOm    RE\nΚαι θα ρθω στο τσαρντί σου",
+      "tr": "Vre mànga to machieri sou\n\nVre mánga to machIéri su\ngia na to kusumáris\nprépi na échis stin psichí\nkardiá gia na to vgális\n\nS'eména den pernán aftá\nke krípse to spathí su\nGiatí mastúris tha ghenó\nKe tha rtho sto tsardí su\n\nAlú na pas vre mánga mu\nna kánis ti fighúra\ngiatí ke gho fumárisa\nki eghó trelí mastúra\n\nS'eména den pernán aftá\nke krípse to spathí su\nGiatí mastúris tha ghenó\nKe tha rtho sto tsardí su",
+      "ti": "Ehi mangas, il tuo coltello\n\nEhi mangas, il tuo coltello\nper poterlo usare (sfoderare con vanto)\ndevi avere nell'anima\nil cuore per tirarlo fuori\n\nCon me queste cose non attaccano\ne nascondi la tua spada\nperché sballata diventerò\ne verrò nel tuo covo\n\nVai altrove, ehi mangas mio\na fare lo sbruffone\nperché anch'io ho fumato\ne sono anch'io sballata pazza\n\nCon me queste cose non attaccano\ne nascondi la tua spada\nperché sballata diventerò\ne verrò nel tuo covo\n\nNote:\n\nκουσουμάρω — usare/sfoderare con orgoglio uno strumento o un'arte propria (gergale, dal turco \"kusum\", riferito qui provocatoriamente al coltello del mangas)\nμαστούρης/μαστούρα — sballato/sballata (da hashish), maschile e femminile\nτσαρντί — covo, tana, rifugio (gergale, spazio informale legato al mondo dei tekè/mangas)\nφιγούρα — fare scena/sbruffoneria, mettersi in mostra\nδεν περνάν αυτά — idiomatico: \"queste cose non attaccano/non funzionano con me\", cioè \"non mi fai impressione\"\nil testo è una sorta di \"duello\" verbale/di sfida tra un mangas e una donna che rivendica di essere altrettanto spavalda e navigata nell'ambiente del tekè",
+      "no": "Μάθεσης ne scrisse il testo su una musica già composta da Ανέστης Δελιάς — uno zeibekiko nato durante una giornata tra amici sul monte vicino a Κερατσίνι, insieme allo stesso Δελιάς, a Μπάτης e a Μήτσος Καρυδάκιας. Il brano fu inciso per la prima volta da Δελιάς nel 1936, e reinterpretato due anni dopo, nel 1938, a New York, da Γιώργος Κατσαρός."
+    },
     {
       "id": "s_1787650332169",
       "offsets": {},
@@ -8442,6 +8501,84 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/papazoglua.jpg",
       "roles": [
         "at",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787673903686",
+      "name": "Ανέστης Δελιάς",
+      "nameit": "Anéstis Deliás",
+      "born": "4 marzo 1912, Smirne",
+      "died": "31 luglio 1944, Atene",
+      "bio": "Vero nome: Αναστάσιος Δέλλιος (Anastásios Déllios)\nSoprannomi: \"Ανεστάκι\", e soprattutto \"Αρτέμης\" — soprannome datogli dallo stesso Γιώργος Μπάτης\n\n\nFiglio di Παναγιώτης Δέλλιος, celebre suonatore di santouri in tutta la Microasia, soprannominato \"Μαύρος Γάτος\" (\"Gatto Nero\"); nipote del violinista popolare Μιχάλης Δέλλιος — proveniva quindi da una vera dinastia di musicisti\nDopo la Catastrofe di Smirne (1922) si stabilì con la famiglia (madre e sorelle) a Δραπετσώνα\nDa ragazzo suonava chitarra; prese in mano il bouzouki solo intorno al 1930, spinto da Μάρκος Βαμβακάρης\nNel 1934, insieme a Βαμβακάρης, Στράτος Παγιουμτζής e Γιώργος Μπάτης, formò la prima vera compagnia rebetika della storia greca, la \"Τετράς η ξακουστή του Πειραιώς\"\nLasciò pochissime incisioni — come Μπάτης, Παπάζογλου e Γιοβάν Τσαούς, si rifiutò di sottoporsi alla censura di Μεταξάς\nTra le sue incisioni più celebri: \"Το χαρέμι στο χαμάμ\" (Columbia DG 6165, 1935 — oggi nota anche come \"Μες στης πόλης το χαμάμ\"), e l'anno prima, tristemente profetico, \"Ο πόνος του πρεζάκια\"\nAltri titoli noti: \"Ο Νίκος ο Τρελάκιας\", \"Το σακκάκι\", \"Η Αθηναίισα\"\nTra il 1936 e il 1937 si legò a Κούλα \"Σκουλαρικού\", donna dei quartieri malfamati di Βούρλα, già dipendente da eroina, che lo trascinò nella dipendenza\nNel 1938 fu esiliato come tossicodipendente sull'isola di Ío; qui, grazie all'aiuto del collega musicista Μιχάλης Γενίτσαρης, anch'egli confinato, riuscì a disintossicarsi\nTornato ad Atene, tentò di allontanarsi da lei rifugiandosi per un periodo a Salonicco, ma una volta rientrato lei lo ritrovò comunque, e la ricaduta fu definitiva\nNell'estate del 1944, ormai allo stremo per fame e miseria (l'Occupazione tedesca), continuava comunque a suonare insieme a Στράτος e Γενίτσαρης presso il locale \"του Βλάχου\" — ma non riusciva più a reggersi sul palco\nLa famiglia si esaurì economicamente nel tentativo di sostenerlo: vendeva i propri vestiti per comprare droga; amici e parenti gliene compravano di nuovi, e lui tornava a impegnarli al banco dei pegni\nMorì il 31 luglio 1944: fu trovato senza vita dal carretto comunale fuori dal τεκές di Ντανάκουλης, nel quartiere di Μεταξουργείο ad Atene\nÈ considerato l'unico grande rebetis morto per uso di eroina (a differenza degli altri musicisti dell'epoca, generalmente legati all'hashish)\nMolti commentatori ritengono che, se non fosse morto così giovane, avrebbe potuto rivaleggiare persino con Βασίλης Τσιτσάνης",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/delias.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787674831522",
+      "name": "Γιώργος Κατσαρός (Θεολογίτης)",
+      "nameit": "Ghiòrgos Katsaròs (Theologhìtis)",
+      "born": "20 dicembre 1888, Amorgós",
+      "died": "22 giugno 1997, Florida, USA",
+      "bio": "Vero nome: Γεώργιος Θεολογίτης — \"Κατσαρός\" (\"Riccioluto\") è il soprannome ricevuto in America per la sua caratteristica chioma riccia, che mantenne folta fino alla morte\n\nSecondogenito di una famiglia benestante di Amorgós\nNel 1907, per povertà, si trasferì ad Atene, dove visse e lavorò alcuni anni\nEmigrò poi in America, imbarcandosi sulla linea Pireo-New York con la sua chitarra tra i bagagli — divenne la figura creativa più importante del rebetiko della \"prima ondata\" migratoria greco-americana\nUno dei pochissimi solisti capaci di esibirsi senza bisogno di altri strumenti: cantava accompagnandosi con la sola chitarra, spaziando su un repertorio vastissimo — canzoni leggere, brani da rivista teatrale, romanze, canzoni straniere, fino al rebetiko più \"pesante\"\nAneddoto celebre: nel 1930, mentre suonava in un locale di San Francisco, un gruppo di persone entrò e uno di loro rimase incantato a fissargli le dita mentre suonava la chitarra. Finito il numero, l'uomo lo invitò al proprio tavolo e si presentò come Andrés Segovia — il grande riformatore della chitarra classica, colui che per primo la introdusse nell'orchestra sinfonica trasformandola da strumento d'accompagnamento a strumento solista. Κατσαρός rimase senza parole\nProfondamente religioso, sottolineava sempre l'importanza della fede e della preghiera: solo nell'area di Chicago, per sua iniziativa, sono state costruite 25 chiese\nNel 1995 partecipò a Salonicco al primo Consiglio Mondiale dell'Ellenismo della Diaspora\nVisse e creò negli Stati Uniti per otto decenni, una vita quasi leggendaria, ma oggi pochissimi ne conoscono davvero la storia",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/katsarosg.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787675972854",
+      "name": "Σάββας Σιάτρας",
+      "nameit": "Sávvas Siátras",
+      "born": "18 gennaio 1944, Karítsa di Dodóni, Ioánnina (Epiro)",
+      "died": "",
+      "bio": "Tra i più importanti e apprezzati interpreti della musica tradizionale dell'Epiro, considerato una figura di spicco dei \"τραγουδιστές δημοτικών τραγουδιών\" — la generazione di cantanti che contribuì a fissare su vinile, e poi in formato digitale, questo repertorio tradizionale\nStudiò per due anni nella sezione distaccata della Ζωσιμαία Σχολή a Ζίτσα, poi per sei anni alla Ριζάρειος Εκκλησιαστική Σχολή ad Atene, dove acquisì solide basi di musica bizantina e salmodia — formazione che influenzò profondamente il suo stile vocale\nLa sua infanzia, trascorsa in una zona di lunga tradizione di musica popolare e strumentisti, fu determinante per la sua identità artistica\nDivenne particolarmente noto attraverso le trasmissioni della YENED e successivamente della ERT (radiotelevisione pubblica greca)\nRepertorio molto ampio: canzoni per il Carnevale, i matrimoni, l'estate e la primavera, l'emigrazione (ξενιτιά), l'amore, canti klefti (canti di guerriglia dell'epoca ottomana) e brani legate a ogni fase del ciclo della vita, dalla nascita alla morte\nLa sua voce e le sue interpretazioni sono descritte come particolarmente amate dagli epiroti emigrati all'estero, capaci di far commuovere \"il cuore della madre e della figlia\" nel momento della separazione",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/siatras.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787676700763",
+      "name": "Άκης Πάνου",
+      "nameit": "Akis Pànu",
+      "born": "15 dicembre 1933, Kallithéa (Atene) — quartiere \"Χαροκόπου\"",
+      "died": "7 aprile 2000, Patíssia, Atene",
+      "bio": "Vero nome: Αθανάσιος-Δημήτριος Πάνου — \"Άκης\" è il diminutivo con cui tutti lo conobbero\n\n\nTerzo di sei figli; il padre Στέφανος lavorava come amministratore della guardia reale, la madre Ελευθερία Σακελλαριάδη si occupava della casa\nCrebbe in un quartiere popolato da molti profughi, immerso fin da piccolo in musica, canti pontici e strumenti tradizionali come il kemenzé; ascoltò moltissimo rebetiko, diffuso ovunque nella zona, e imparò anche dallo zio materno Περικλής Σακελλαριάδης, chitarrista classico\nDurante l'Occupazione, ancora bambino, si guadagnò da vivere vendendo sigarette e ciambelle per strada\nA 9 anni lasciò la scuola per lavorare, imparando nel frattempo baglamàs e mandolino\nNel 1947, insieme a Σπόρος (Γιάννης Σταματίου), debuttò sul palco alla taverna di Σιλιβάνης — compenso: un piatto di cibo e le mance spicciole dei clienti\nPur non avendo una voce particolarmente notevole, le sue mani (l'abilità strumentale) parlavano da sole\nNelle sue composizioni fece ampio uso del ritmo tradizionale in 9/8 tipico della musica rebetika\nTra i suoi maggiori successi: \"Η πιο μεγάλη ώρα\", \"Η ζωή μου όλη\", \"Ρολόι-κομπολόι\", \"Νά 'χα το κουράγιο\", \"Στον σταθμό του Μονάχου\", \"Είδα τα μάτια σου κλαμμένα\", \"Χαροκόπου\" (dedicata al suo quartiere d'infanzia)\nCollaborò con numerosi artisti: Σταμάτης Κόκοτας, Μαρινέλλα, Πόλυ Πάνου, Μιχάλης Μενιδιάτης, Λίτσα Διαμάντη, Τόλης Βοσκόπουλος, Γιώργος Μαρίνος\nSposò nel 1954 Δήμητρα, da cui non ebbe figli; vissero poi separati\nEbbe una figlia, Ελευθερία, dal cui destino la sua vita fu segnata tragicamente negli ultimi anni (vedi sotto)\nUomo dal carattere descritto come rude, appassionato e \"di vecchio stampo\" — non tollerava che qualcuno \"gli mettesse le mani addosso\" nel senso figurato dell'onore personale\nPubblicò due raccolte di testi: \"Ο κόσμος ο δικός μου\" (1980) e \"Άκης Πάνου - Στίχοι τραγουδιών\" (1990, curata da Γιώργος Χρονάς)\nNel 1985 pubblicò un 45 giri intitolato \"Άκης Πάνου 100% Πρόβα\", con due brani, \"Πες μου παππού\" e \"Πριν, τώρα, πάντα\", presentato come qualcosa di \"unico a livello mondiale\" — non è chiaro dalle fonti in cosa consistesse esattamente questa unicità\nTornò sul palco per alcune esibizioni nel 1989 (su spinta di amici, insieme a Μανώλης Ρασούλης), poi ancora nel 1994 e nel 1996\n\nGli ultimi anni: il 1° agosto 1997 uccise a colpi di pistola Σωτήρης Γιαλαμάς, il compagno di sua figlia Ελευθερία, sparandogli davanti a tutta la famiglia nella propria casa. Γιαλαμάς — all'epoca sposato e padre di un altro figlio — si era presentato per chiarire un malinteso con l'intenzione di sposare Ελευθερία. Πάνου, sentendosi profondamente offeso dalla situazione, perse il controllo e lo uccise con una pistola che teneva come ricordo del servizio in Marina. Il tribunale non gli riconobbe attenuanti — nemmeno quella invocata dalla difesa, relativa al suo contributo alla cultura greca — e lo condannò all'ergastolo, più 20 mesi per detenzione illegale d'armi. Poco dopo gli fu diagnosticato un cancro al pancreas in stadio terminale; nel 1999 ottenne la sospensione della pena per motivi di salute. Morì il 7 aprile 2000, sorvegliato, all'ospedale Ευγενίδειο di Atene, prima del processo d'appello — mentre sua figlia Ελευθερία cresceva da sola il figlio nato dalla relazione con la vittima, che l'uomo non fece mai in tempo a conoscere.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/panua.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787677161298",
+      "name": "Στράτος Διονυσίου",
+      "nameit": "Strátos Dionysíou",
+      "born": "8 novembre 1934 (alcune fonti indicano 1935), Nigríta (Sérres)",
+      "died": "11 maggio 1990, Atene",
+      "bio": "Figlio di Άγγελος e Στάσα Διονυσίου, profughi originari di Αϊβαλί, in Asia Minore\nInfanzia segnata da povertà e dalle difficoltà dell'Occupazione; nel 1948 perse il padre, restando orfano\nNel 1947 si trasferì da solo nel quartiere di Επτάλοφος, ad Αμπελόκηποι di Salonicco\nPrima di diventare cantante professionista, lavorò come piccolo commerciante ambulante e come sarto; cantava intanto gratuitamente nei locali notturni\nDebuttò come cantante professionista al locale \"Φαρίντα\" di Salonicco; dalle prime esibizioni del 1959 attirò l'attenzione di alcuni artisti, che lo spinsero a trasferirsi ad Atene per collaborazioni più importanti\nFirmò un contratto con la Columbia, ottenendo i primi successi: \"Δεν με πόνεσε κανείς\" (rielaborazione di una canzone indiana, \"Duniya mein hum aaye hain\", cantata da Nargish nel film \"Mother India\"), \"Στης αγάπης μου το δίσκο\" (o \"Ηλεκτρόφωνο\", musica e testo di Μπάμπης Μπακάλης), \"Φύγε φύγε\" (Στράτος Ατταλίδης / Κώστας Βίρβος)\nNel 1955 sposò il suo amore d'infanzia, Γεωργία Λαβένη, da cui ebbe quattro figli: Άγγελος, Τασούλα, Στέλιος e Διαμαντής — tre di loro, Άγγελος, Στέλιος e Διαμαντής Διονυσίου, sarebbero diventati a loro volta cantanti noti\nIl 1967 fu un anno di svolta: conobbe Άκης Πάνου, che gli scrisse alcuni dei suoi più grandi successi: \"Γιατί, καλέ γειτόνισσα\" (1968), \"Φέρτε το παιδί του χάρου\" (1971), \"Στο σταθμό του Μονάχου\" (1972), \"Ήταν ψεύτικα\" (1972), \"Μια γυναίκα\" (1984), \"Ασ' τη να φύγει\" (1984)\nCollaborò con moltissimi altri grandi autori del λαϊκό: Τάκης Μουσαφίρης, Θανάσης Πολυκανδριώτης, Γιάννης Πάριος, Αλέκος Χρυσοβέργης, Σπύρος Γιατράς, Τάκης Σούκας, Σπύρος Παπαβασιλείου, Χρήστος Νικολόπουλος, Λευτέρης Παπαδόπουλος\nIl paroliere Τάκης Σούκας disse di lui: \"Διονυσίου è l'unico cantante che non ha mai perso, nemmeno una volta in tutti questi anni, la propria intonazione!\"\nAltri titoli noti: \"Υποκρίνεσαι\", \"Τα πήρες όλα\", \"Και λέγε-λέγε\", \"Ο Σαλονικιός\", \"Με σκότωσε γιατί την αγαπούσα\", \"Εγώ ο ξένος\", \"Ο ταξιτζής\"\nMorì improvvisamente l'11 maggio 1990: secondo alcune fonti per un attacco cardiaco, secondo altre per la rottura di un aneurisma dell'aorta addominale, dentro un taxi, di fronte alle colonne del tempio di Zeus Olimpio — poche ore dopo aver ancora intrattenuto il pubblico nel locale \"ΣΤΡΑΤΟΣ\", in via Φιλελλήνων\nAi funerali, celebrati al Primo Cimitero di Atene, migliaia di greci resero omaggio all'uomo che, solo poche ore prima, li aveva ancora fatti divertire dal palco",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/dionisiu.jpg",
+      "roles": [
         "ar"
       ]
     }
