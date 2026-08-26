@@ -993,11 +993,12 @@ function songArrowHTML(s,cls){
   var n=(s.executions||[]).length;
   var multi=n>1;
   var single=!multi&&(s.ll||n===1);
-  var col=multi?'var(--acc)':'var(--t3)';
+  var col=multi?'#d9480f':'#9a9a9a';
+  var fw=multi?'900':'400';
   var ttl='';
   if(multi) ttl=' title="Scelta delle versioni ('+n+')"';
   else if(single) ttl=' title="Ascolto diretto"';
-  return '<span class="'+cls+'" data-sid="'+s.id+'" style="font-size:16px;color:'+col+';cursor:pointer"'+ttl+'>&rarr;</span>';
+  return '<span class="'+cls+'" data-sid="'+s.id+'" style="font-size:22px;font-weight:'+fw+';color:'+col+';cursor:pointer;display:inline-block;line-height:1"'+ttl+'>&rarr;</span>';
 }
 function parseRaw(raw){
   var lines=(raw||'').split('\n'), blocks=[], i=0;
