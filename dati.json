@@ -1,8 +1,178 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-25T16:59:31.530Z",
+  "exportedAt": "2026-08-26T08:38:53.053Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787733464669",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-26",
+      "tgr": "Δεν ξέρω πόσο σ' αγαπώ",
+      "tit": "Den ksèro pòso s'agapò",
+      "alias": "",
+      "at": "Χρήστος Αργυρόπουλος",
+      "am": "Απόστολος Καλδάρας",
+      "yr": "1965",
+      "ar": "Βίκυ Μοσχολιού",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=pPY34AvItwE&list=RDpPY34AvItwE&start_radio=1",
+      "li": "",
+      "ch": "MIm                    MI                  LAm\nΔεν ξέρω πόσο σ' αγαπώ, δεν ξέρω πόσο σ' αγαπώ\nμέτρο δεν έχει η αγάπη\n\nMIm                    MI                  LAm\nΕίν' απ' τον ήλιο πιο ψηλά, είν' απ' τον ήλιο πιο ψηλά\n        SI              MIm\nκαι δεν την φτάνει μάτι\n\nSOL                    MI          LAm  DO      LAm        SI\nΉταν μια σπίθα στην αρχή   και μιας βροχής ψιχάλα\nMIm                                    LAm\nΚι έγινε η σπίθα πυρκαγιά, κι έγινε η σπίθα πυρκαγιά\n      SI                MIm\nκαι πέλαγος η στάλα\n\n\nMIm                    MI                  LAm\nΗ αγάπη που μας έδεσε, η αγάπη που μας έδεσε\n      SI            MIm\nπόνο δε θα γνωρίσει\nMIm                              LAm\nΕίμαστε δυο σταλαγματιές, είμαστε δυο σταλαγματιές\n        MIm\nαπό την ίδια βρύση\n\nΉταν μια σπίθα στην αρχή...",
+      "tr": "Den kséro póso s'aghapó\n\nDen kséro póso s'aghapó, den kséro póso s'aghapó\nmétro den échi i aghápi\n\nÍn'ap'ton ílio pio psiлá, ín'ap'ton ílio pio psiлá\nke den tin ftáni máti\n\nítan mia spítha stin archí ke mias vrochís psichála\nKi éghine i spítha pirkayiá, ki éghine i spítha pirkayiá\nke pélaghos i stála\n\nI aghápi pu mas édese, i aghápi pu mas édese\npóno de tha ghnorísi\nÍmaste dío stalaghmatiés, ímaste dío stalaghmatiés\napó tin ídia vrísi\n\nÍtan mia spítha stin archí...",
+      "ti": "Non so quanto ti amo\n\nNon so quanto ti amo, non so quanto ti amo\nnon ha misura l'amore\n\nÈ più alto del sole, è più alto del sole\ne non lo raggiunge occhio umano\n\nEra una scintilla all'inizio, e una goccia di pioggia\ne la scintilla divenne incendio, e la scintilla divenne incendio\ne la goccia divenne mare\n\nL'amore che ci ha legati, l'amore che ci ha legati\nnon conoscerà mai dolore\nsiamo due gocce, siamo due gocce\ndella stessa sorgente\n\nEra una scintilla all'inizio...\n\nNote:\n\nδεν την φτάνει μάτι — idiomatico: \"l'occhio non la raggiunge\", cioè è così alto/grande da non poter essere colto con lo sguardo\nσταλαγματιά — goccia (da stillicidio), qui usata poeticamente per \"goccia d'acqua\"\nβρύση — fontana/sorgente; l'immagine delle \"due gocce dalla stessa sorgente\" indica un'unione/origine comune profonda tra gli amanti\nil testo gioca su una progressione poetica: scintilla → incendio, goccia → mare, per descrivere la crescita dell'amore da un inizio piccolo a qualcosa di immenso",
+      "no": ""
+    },
+    {
+      "id": "s_1787732453825",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-26",
+      "tgr": "Δεν έχει δρόμο να διαβώ",
+      "tit": "Den echi dròmo na diavò",
+      "alias": "Χάθηκες",
+      "at": "Δημήτρης Χριστοδούλου",
+      "am": "Γιώργος Ζαμπέτας",
+      "yr": "1964",
+      "ar": "Πάνος Τζανετής",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=J9b01xG9D6M&list=RDJ9b01xG9D6M&start_radio=1",
+      "li": "",
+      "ch": "REm    RE   SOLm  LA\nΔεν έχει δρόμο να διαβώ\nREm\nσοκάκι να περάσω\nSOLm       RE  SOLm\nγωνιά να μη σε θυμηθώ -ώ-ώ\nLA   SOLm  REm  LA  REm\nημέρα να-α -α μην κλάψω\n\nREm    RE   SOLm  LA\nΔεν έχει μέρα να μη πω\nREm\nβραδιά να μη μιλήσω\nSOLm       RE  SOLm\nνύχτα να μη σ' αναζητώ\nLA   SOLm  REm  LA  REm\nβαθιά να σε φιλήσω\n\nREm    RE   SOLm  LA\nΌλες οι ώρες γίνανε\nREm\nφωνή που σε φωνάζουν\nSOLm       RE  SOLm\nΚι οι νύχτες γίναν δάκρυα\nLA   SOLm  REm  LA  REm\nπου στην καρδιά μου στάζουν",
+      "tr": "Den échi drómo na diavó\n\nDen échi drómo na diavó\nsokáki na perásο\nghoniá na mi se thimithó -ó-ó\niméra na-a -a min klápso\n\nDen échi méra na mi po\nvradiá na mi milíso\nníchta na mi s'anazitó\nvathiá na se filíso\n\nÓles i óres ghínane\nfoní pu se fonázun\nKi i níchtes ghínan dákria\npu stin kardiá mu stázun",
+      "ti": "Non c'è strada che io possa attraversare\n\nNon c'è strada che io possa attraversare\nvicolo che io possa passare\nangolo dove non pensarti — a — a\ngiorno in cui — in cui — non piangere\n\nNon c'è giorno in cui io non parli\nsera in cui io non dica nulla\nnotte in cui non ti cerchi\nprofondamente per baciarti\n\nTutte le ore sono diventate\nuna voce che ti chiama\ne le notti sono diventate lacrime\nche gocciolano nel mio cuore\n\nNote:\n\nil titolo alternativo \"Χάθηκες\" significa \"sei scomparsa/ti sei persa\" — riferito alla persona amata che non c'è più",
+      "no": ""
+    },
+    {
+      "id": "s_1787731280357",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στράτος Διονυσίου",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=6hv-JJaZTL0&list=RD6hv-JJaZTL0&start_radio=1"
+        },
+        {
+          "who": "Ελένη Βιτάλη",
+          "year": "1984",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=QJvfYFWhoh0&list=RDQJvfYFWhoh0&start_radio=1"
+        }
+      ],
+      "date": "2026-08-26",
+      "tgr": "Δε με πόνεσε κανείς",
+      "tit": "De me pònese kanìs",
+      "alias": "Καρδιά μου καημένη",
+      "at": "Δημήτρης Γκούτης",
+      "am": "Μπάμπης Μπακάλης",
+      "yr": "1960",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm\nΚαρδιά μου καημένη, πώς βαστάς και δε ραγίζεις  | 2x\n          SI               MI          SI      MI\nστον ψεύτη ντουνιά τόση απονιά που αντικρίζεις  | 2x\n\n       LA                SI            MI\nΗσυχία και χαρά μέσα στη ζωή δεν έχω νιώσει  | 2x\n        LA                  SI              MI\nκαι μια αγάπη ακόμα που 'χα πιστέψει μ' έχει πληγώσει  | 2x\n\nMIm\nΔε με πόνεσε κανείς, -εις\nMI\nΔε με πόνεσε κανείς, ούτε στιγμή μες στη ζωή μου\nMI                        LA          SI\nΜες στους δρόμους ξαφνικά κάποιο πρωί θα βγει η ψυχή μου\n\nMIm\nΚαρδιά μου καημένη, πώς βαστάς και δε ραγίζεις  | 2x\n          SI               MI          SI      MI\nστον ψεύτη ντουνιά τόση απονιά που αντικρίζεις  | 2x\n\nMIm\nΗ δική μου η καρδιά μοιάζει σαν αυγή συννεφιασμένη  | 2x\n          SI               MI          SI      MI\nΑπ' το μίσος του κόσμου κι από αγάπη είναι καμένη  | 2x\n\nMIm\nΔε με πόνεσε κανείς, -εις\nMI\nΔε με πόνεσε κανείς, ούτε στιγμή μες στη ζωή μου\nMI                        LA          SI\nΜες στους δρόμους ξαφνικά κάποιο πρωί θα βγει η ψυχή μου\n\nMIm\nΚαρδιά μου καημένη, πώς βαστάς και δε ραγίζεις  | 2x\n          SI               MI          SI      MI\nστον ψεύτη ντουνιά τόση απονιά που αντικρίζεις  | 2x",
+      "tr": "Kardiá mu kaiméni\n\nKardiá mu kaiméni, pos vastás ke de raghízis\nston pséfti nduniá tósi aponiá pu andikrízis\n\nIsichía ke chará mésa sti zoí den écho niósi\nke mia aghápi akóma pu 'cha pistépsi m'échi plighósi\n\nDe me pónese kanís, -is\nDe me pónese kanís, úte stighmí mes sti zoí mu\nMes stus drómus ksafniká kápio proí tha vghi i psichí mu\n\nKardiá mu kaiméni, pos vastás ke de raghízis\nston pséfti nduniá tósi aponiá pu andikrízis\n\nI dikí mu i kardiá miázi san avghí sinnefiasméni\nAp'to míson tu kósmu ki apó aghápi íne kaméni\n\nDe me pónese kanís, -is\nDe me pónese kanís, úte stighmí mes sti zoí mu\nMes stus drómus ksafniká kápio proí tha vghi i psichí mu\n\nKardiá mu kaiméni, pos vastás ke de raghízis\nston pséfti nduniá tósi aponiá pu andikrízis",
+      "ti": "Cuore mio infelice\n\nCuore mio infelice, come fai a reggere e non spezzarti\nin questo mondo bugiardo, di fronte a tanta indifferenza che incontri\n\nPace e gioia dentro la vita non ho mai provato\ne anche un amore in cui avevo creduto mi ha ferito\n\nNessuno ha avuto pietà di me, -a\nnessuno ha avuto pietà di me, nemmeno un istante nella mia vita\nper le strade, all'improvviso, un mattino uscirà la mia anima\n\nCuore mio infelice, come fai a reggere e non spezzarti\nin questo mondo bugiardo, di fronte a tanta indifferenza che incontri\n\nIl mio cuore assomiglia a un'alba nuvolosa\nè bruciato dall'odio del mondo e dall'amore\n\nNessuno ha avuto pietà di me, -a\nnessuno ha avuto pietà di me, nemmeno un istante nella mia vita\nper le strade, all'improvviso, un mattino uscirà la mia anima\n\nCuore mio infelice, come fai a reggere e non spezzarti\nin questo mondo bugiardo, di fronte a tanta indifferenza che incontri\n\nNote:\n\nντουνιάς — il mondo, la vita terrena (turchismo, \"dünya\"), spesso con connotazione di caducità/inganno, come qui \"ψεύτης ντουνιάς\" (mondo bugiardo/ingannevole)\nαπονιά — durezza di cuore/indifferenza, già incontrato in altre canzoni\nθα βγει η ψυχή μου — idiomatico: \"uscirà la mia anima\", cioè morirò; espressione popolare per indicare una morte improvvisa per strada, spesso di dolore o stenti\nla ripetizione spezzata \"κανείς, -εις\" all'inizio della terza strofa riflette probabilmente un'esitazione o un singhiozzo vocale nell'esecuzione originale, riprodotta fedelmente nel testo scritto",
+      "no": "La musica è del musicista indiano Ali Naushad   [[2026-08-09|Approfondimento sul fenomeno Indoprepì]]"
+    },
+    {
+      "id": "s_1787729087726",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-26",
+      "tgr": "Γυφτοπούλα στο χαμάμ",
+      "tit": "Ghiftopùla sto chamàm",
+      "alias": "",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1934",
+      "ar": "Γιώργος Μπάτης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Karsilamàs",
+      "ll": "https://www.youtube.com/watch?v=YVVitN-n6aA&list=RDYVVitN-n6aA&start_radio=1",
+      "li": "",
+      "ch": "REm                                          SOLm\nΓυφτοπούλα στο χαμάμ, κι εγώ πληρώνω μπιρ-ταμάμ\nREm              DO                 REm\nόσα-όσα τα πλερώνω, να σε βλέπω μπιρ-ταμάμ\n\nFA                  DO                       REm\nΓια να μπεις να κάνεις μπάνιο, να μην πέσω κι αποθάνω\nREm      DO       REm\nτσίμπι-ρίμπι γιάλα\n\nREm                                   SOLm\nΌταν βάνεις το τσεμπέρι, το λελούδι στο αυτί\nREm              DO                       REm\nτα τσιγάρα μες στο χέρι, και στα κέντρα περπατείς\n\nFA                  DO                      REm\nΝα χαρείς την εμορφιά σου, το φουστάνι το μακρύ\nREm                       DO               REm\nτ' αψηλό σου το τακούνι, περπατάς και τρέμει η γη\n\nREm                                         SOLm\nΓυφτοπούλα μου γλυκιά, μου 'χεις κλέψει την καρδιά\nREm              DO                           REm\nμωρ' μ' έκανες να τρελαθώ, γιατί φως μου σ' αγαπώ\n\nFA                          DO              REm\nΝα χαρείς την εμορφιά σου, την ποδιά σου τη χρυσή\nREm                       DO            REm\nαχ ξεσκάλτσωτη γυρίζεις, γυφτοπούλα μου εσύ\n\nREm                                       SOLm\nΔεν μπορώ να καταλάβω, Τούρκα αν είσαι για Ρωμιά\nREm                       DO                 REm\nγια Εγγλέζα, για Φραντσέζα, κι έχεις τόσην εμορφιά\n\nFA                  DO              REm\nΌταν βάνεις το παπάκι με τη φούντα τη χρυσή\nREm                          DO             REm\nτρέμει ο ουρανός να πέσει, με τ' αστέρια του μαζί",
+      "tr": "Ghiftopúla sto chamám\n\nGhiftopúla sto chamám, ki eghó pliróno bir-tamám\nósa-ósa ta pleróno, na se vlépo bir-tamám\n\nGia na bis na kánis bánio, na min péso ki apotháno\ntsíbi-rίbi yiála\n\nÓtan vánis to tsembéri, to lelúdi sto aftí\nta tsighára mes sto chéri, ke sta kéndra perpatís\n\nNa charís tin emorfiá su, to fustáni to makrí\nt'apsiló su to takúni, perpatás ke trémi i ghi\n\nGhiftopúla mu ghlikiá, mu 'chis klépsi tin kardiá\nmor' m'ékanes na treláthó, giatí fos mu s'aghapó\n\nNa charís tin emorfiá su, tin podiá su ti chrisí\nach kseskáltsoti ghirízis, ghiftopúla mu esí\n\nDen boró na katalávo, Túrka an íse gia Romiá\ngia Englézα, gia Frandzéza, ki échis tósin emorfiá\n\nÓtan vánis to papáki me ti fúnda ti chrisí\ntrémi o uranós na pési, me t'astéria tu mazí",
+      "ti": "Zingarella al bagno turco,\n\nZingarella al bagno turco, e io pago senza discutere\nper quanto costi lo pago, per poterti vedere, va bene così\n\nPer farti entrare a fare il bagno, per non cadere stecchito\ntsibi-ribi già la (ritornello scherzoso senza senso letterale)\n\nQuando ti metti il fazzoletto in testa, il fiore all'orecchio\nle sigarette in mano, e cammini per i locali\n\nChe tu possa godere la tua bellezza, il vestito lungo\ni tuoi tacchi alti, cammini e trema la terra\n\nZingarella mia dolce, mi hai rubato il cuore\naccidenti, mi hai fatto impazzire, perché, luce mia, ti amo\n\nChe tu possa godere la tua bellezza, il tuo grembiule dorato\nah, giri scalza, zingarella mia\n\nNon riesco a capire se sei turca o greca\ninglese o francese, e hai tanta bellezza\n\nQuando indossi la piccola papalina con la nappa dorata\ntrema il cielo dal timore di cadere, insieme alle sue stelle\n\nNote:\n\nγύφτισσα/γυφτοπούλα — termine popolare per \"zingara/zingarella\"; nel gergo rebetiko dell'epoca era spesso usato senza intento offensivo diretto, come figura esotica ed evocativa nelle canzoni d'amore, sebbene oggi possa suonare desueto o sensibile\nχαμάμ — bagno turco\nμπιρ-ταμάμ — espressione turca (\"bir tamam\") usata qui come intercalare gergale, con il senso di \"va bene/d'accordo, qualunque cifra sia\"\nτσίμπι-ρίμπι γιάλα — ritornello onomatopeico/gergale senza significato letterale preciso, tipico riempitivo ritmico delle canzoni rebetiko dell'epoca\nτσεμπέρι — foulard/fazzoletto da testa tradizionale (turchismo)\nξεσκάλτσωτη — scalza, senza calze (da \"σκαλτσώνω\", mettersi le calze, con il prefisso negativo \"ξε-\")\nπαπάκι — qui non \"papero\" ma copricapo/berretto tradizionale femminile ornato di nappa, tipico dell'abbigliamento popolare dell'epoca\nil testo gioca sull'ambiguità dell'origine etnica della ragazza (turca, greca, inglese, francese), enfatizzandone il fascino esotico e universale, tema ricorrente nelle canzoni \"ανατολίτικα\" (orientaleggianti) del rebetiko primitivo",
+      "no": ""
+    },
+    {
+      "id": "s_1787726766878",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ρένα Ντάλια",
+          "year": "1950",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=QXnWVMNzg-w&list=RDQXnWVMNzg-w&start_radio=1"
+        },
+        {
+          "who": "Στέλλα Χασκίλ",
+          "year": "1951",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=I0ArFAd-MVU&list=RDI0ArFAd-MVU&start_radio=1"
+        },
+        {
+          "who": "Μαρίκα Νίνου",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=LO8k2FHm8XU&list=RDLO8k2FHm8XU&start_radio=1"
+        }
+      ],
+      "date": "2026-08-26",
+      "tgr": "Γκιουλμπαχάρ",
+      "tit": "Giulbachàr",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1950",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "LA      LA#       LA   REm     LA#       LA\nΚάποια βραδιά μαγική μέσα στο Μισίρι την είδα\n      LA#   LA   LA#        SOLm           LA\nΉταν ξωτική ομορφιά, η Γκιουλμπαχάρ η γλυκιά\n\nLA                              SOLm\nΓιαραμπίμ το γιαχαμπί, γιαραμπίμ το γιαχαβάχ \nLA                      REm\nΑχ λουλούδι μου, Γκιουλμπαχάρ \n                 LA#     LA\nΑράπ-χαβάς, γιαβάς-γιαβάς \nREm          LA#    LA     REm    LA#        LA\nΜου το 'χες πει με φιλιά, σαν σε κρατούσα αγκαλιά \n\nLA        LA#          LA   REm             LA#     LA\nΣκλάβος στο γλυκό της φιλί, είμαι στο σεβντά της δεμένος\n        LA#   LA   LA#           SOLm             LA\nΚλαίω, νοσταλγώ και πονώ, την Γκιουλμπαχάρ δεν ξεχνώ\n\nLA                            SOLm\nΓιαραμπίμ το γιαχαμπί, γιαραμπίμ το γιαχαβάχ \nLA                     REm\nΑχ λουλούδι μου, Γκιουλμπαχάρ\n              LA#     LA\nΑράπ-χαβάς, γιαβάς-γιαβάς\nREm         LA#     LA      REm      LA#      LA\nΜου το 'χες πει με φιλιά, σαν σε κρατούσα αγκαλιά",
+      "tr": "Giulbachàr\n\nKápia vradiá maghikí mésa sto Misíri tin ída\nÍtan ksotikí omorfiá, i Gkiulbachár i ghlikiá\n\nYarambím to yachambí, yarambím to yachavách\nAch lulúdi mu, Gkiulbachár\nArápchavás, yavás-yavás\nMu to 'chis pi me filiá, san se kratúsa anghaliá\n\nSklávos sto ghlikó tis filí, íme sto sevdá tis deménos\nKléo, nostalghó ke ponó, tin Gkiulbachár den ksechnó\n\nYarambím to yachambí, yarambím to yachavách\nAch lulúdi mu, Gkiulbachár\nArápchavás, yavás-yavás\nMu to 'chis pi me filiá, san se kratúsa anghaliá",
+      "ti": "Giulbachàr\n\nUna sera magica, in mezzo all'Egitto, la vidi\nera una bellezza esotica, Gulbachar la dolce\n\n(ritornello in turco, non tradotto — vedi nota)\nAh, fiore mio, Gulbachar\n(espressioni arabe/turche di intensità, \"piano piano\")\nMe l'avevi detto con baci, mentre ti tenevo abbracciata\n\nSchiavo del suo dolce bacio, sono legato alla sua passione\npiango, ho nostalgia e soffro, Gulbachar non la dimentico\n\n(ritornello come sopra)\n\nNote:\n\nΜισίρι — l'Egitto (forma popolare/dialettale per \"Αίγυπτος\", dal turco \"Mısır\")\nΓκιουλμπαχάρ — nome proprio femminile di origine turco-persiana (\"gül\" = rosa, \"bahar\" = primavera): \"rosa di primavera\"\nσεβντάς — passione amorosa intensa (turchismo, già incontrato in altre canzoni)\nil ritornello \"Γιαραμπίμ το γιαχαμπί, γιαραμπίμ το γιαχαβάχ\" e \"Αράπ-χαβάς, γιαβάς-γιαβάς\" sono espressioni onomatopeiche/esotizzanti in turco-arabo stilizzato, tipiche delle canzoni greche a tema orientale (anatolitika/tsifteteli) degli anni '30-'50: non hanno una traduzione letterale precisa in italiano, ma evocano un'atmosfera \"orientale\" per l'ascoltatore greco — \"γιαβάς-γιαβάς\" significa letteralmente \"piano piano/adagio adagio\" (dal turco \"yavaş yavaş\"), mentre le altre espressioni sono vocalizzi/ritornelli esotizzanti senza un significato letterale preciso",
+      "no": ""
+    },
+    {
+      "id": "s_1787725389355",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-26",
+      "tgr": "Γιατί καλέ γειτόνισσα",
+      "tit": "Ghiatì kalè ghitònissa",
+      "alias": "",
+      "at": "Άκης Πάνου",
+      "am": "Άκης Πάνου",
+      "yr": "1968",
+      "ar": "Στράτος Διονυσίου",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=p5DV3MfjhN4&list=RDp5DV3MfjhN4&start_radio=1",
+      "li": "",
+      "ch": "MIm       SOL           SOL#   SOL          MIm\nΒρήκα την πόρτα σου κλειστή και το κλειδί παρμένο\nMIm  SOL  SOL#  SOL         MIm\nΚοντεύουνε χαράματα κι απ' έξω περιμένω\n\nMIm                                  SOL\nΓιατί καλέ γειτόνισσα, αφού σου τηλεφώνησα\nSOL\nκαι είπες πως θ' αφήσεις το κλειδί\nMIm                                          SOL\nΓιατί σκληρή γειτόνισσα παιδεύεις την καρδούλα μου\nSOL#  SOL  RE  MIm\nΓιατί με βασανίζεις δηλαδή\n\nMIm  SOL  SOL#  SOL  MIm\nΠότε μου λες πως δε με θες και πότε με γυρεύεις\nMIm  SOL  SOL#  SOL  MIm\nΑς ήξερα πώς σκέφτεσαι και τι Θεό λατρεύεις\n\nMIm      SOL\nΓιατί καλέ γειτόνισσα, αφού σου τηλεφώνησα\nSOL\nκαι είπες πως θ' αφήσεις το κλειδί\nMIm                                SOL\nΓιατί σκληρή γειτόνισσα παιδεύεις την καρδούλα μου\nSOL#  SOL  RE        MIm\nΓιατί με βασανίζεις δηλαδή",
+      "tr": "Ghiatì kalè ghitònissa\n\nVríka tin pórta su klistí ke to klidí parméno\nKondévune charámata ki ap'ékso periméno\n\nGiatí kalé ghitónisa, afú su tilefónisa\nke ípes pos th'afísis to klidí\nGiatí sklirí ghitónisa pedévis tin kardúla mu\nGiatí me vasanízis diladí\n\nPóte mu les pos de me thes ke póte me ghirévis\nAs íksera pos skéftese ke ti theó latrévis\n\nGiatí kalé ghitónisa, afú su tilefónisa\nke ípes pos th'afísis to klidí\nGiatí sklirí ghitónisa pedévis tin kardúla mu\nGiatí me vasanízis diladí",
+      "ti": "Perché cara vicina\n\nHo trovato la tua porta chiusa e la chiave presa\nsi avvicina l'alba e io aspetto fuori\n\nPerché, cara vicina, dopo che ti ho telefonato\ne mi avevi detto che avresti lasciato la chiave\nperché, dura vicina, tormenti il mio piccolo cuore\nperché mi fai soffrire, insomma\n\nA volte mi dici che non mi vuoi e a volte mi cerchi\nse solo sapessi come pensi e quale dio adori\n\nPerché, cara vicina, dopo che ti ho telefonato\ne mi avevi detto che avresti lasciato la chiave\nperché, dura vicina, tormenti il mio piccolo cuore\nperché mi fai soffrire, insomma\n\nNote:\n\nγειτόνισσα — vicina di casa; qui usata come vezzeggiativo/appellativo affettuoso verso l'amata, gioco tipico su vicinato e amore clandestino\nκαρδούλα — diminutivo affettuoso di \"καρδιά\" (cuore), \"piccolo cuore/cuoricino\"\nδηλαδή — \"insomma/cioè\", intercalare colloquiale usato qui a fine verso con funzione quasi rassegnata/enfatica\nτι Θεό λατρεύεις — idiomatico: \"quale dio adori\", espressione retorica per dire \"non capisco proprio cosa pensi/cosa ti guida\"",
+      "no": ""
+    },
     {
       "id": "s_1787676015446",
       "offsets": {},
@@ -5593,9 +5763,9 @@
       "name": "Λεονάρδος Μπουρνέλης",
       "nameit": "Leonardos Burnelis",
       "born": "1930 Ios Cicladi",
-      "died": "2017",
+      "died": "12 agosto 2017, Atene/Acharnés-Menídi",
       "nat": "",
-      "bio": "Leonardo Bournelis, compositore e suonatore di bouzouki, nacque a Ios, nelle Cicladi, nel 1930. Nel 1949 si stabilì ad Atene. Suonatore professionista di bouzouki dal 1965, ha fatto il suo ingresso nella discografia nel 1969 con la canzone \"Tu sei Aristokratissa\" (testo: Charalambos Vasiliadis, Tsantas), che divenne un grande successo di Giorgos Taliouris. Ha eseguito personalmente molte delle sue canzoni (come \"Ano kato haka ton skosmo\"). Ha anche scritto eccellenti tsiftetelli strumentali. Ci ha lasciato nel 2017.",
+      "bio": "Bouzukista autodidatta, cantante e compositore, dal 1949 residente ad Atene\nDebuttò nella discografia con \"Εσύ είσαι αριστοκράτισσα\" (testo di Γιώργος Ταλιούρης)\nAttivo per le etichette Columbia, Minos, Panivar; fondò poi la propria etichetta discografica, \"Κυκλάδες\", gestendola per anni\nCominciò con repertorio tradizionale e νησιώτικο (isolano), passando poi al λαϊκό e soprattutto ai τσιφτετέλια, genere in cui divenne famosissimo — soprannominato \"il re del tsifteteli\"\nFu proprio negli anni '70 che la sua voce \"pesante e da μάγκας\" (μάγκικη φωνή) esplose in popolarità\nCollaborò come paroliere principalmente con Παναγιώτης Μιχαλόπουλος\nNel 2013 fu premiato dal Comune di Acharnés per il contributo dato alla canzone greca\nIl figlio Νίκος Μπουρνέλης è a sua volta cantante e insegnante di pianoforte al Conservatorio Comunale di Acharnés\nL'annuncio della morte fu dato dallo stesso Νίκος su Facebook",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/burnelis.jpg",
@@ -8580,6 +8750,66 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/dionisiu.jpg",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1787728409704",
+      "name": "Γιώργος Μπάτης",
+      "nameit": "Ghiórgos Bátis",
+      "born": "1886-1890 (fonti discordanti), Pireo o Méthana (Peloponneso)",
+      "died": "10 marzo 1967, Pireo — sepolto poi a Méthana",
+      "bio": "Vero nome Γιώργος Τσώρος\nSoprannominato \"il Re del Pireo\"\nFondatore, insieme a Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής e Ανέστης Δελιάς, della \"Τετράς η ξακουστή του Πειραιώς\" (1934) — la prima vera compagnia rebetika della storia\nGestì il celebre caffè-τεκές \"Ζώρζ Μπατέ\" (1931-1937) e una scuola di ballo, \"Κάρμεν\" (dal 1925)\nSmise di incidere dischi nel 1937 per non sottostare alla censura di Μεταξάς\nLasciò solo 17 canzoni incise, tra cui \"Μπάτης ο δερβίσης\", \"Ο μπουφετζής\", \"Σου 'χει λάχει\"\nCelebre per il suo carattere di burlone bonario, immortalato in aneddoti diventati leggendari nell'ambiente del rebetiko\nDiónysis Savvópoulos gli dedicò la canzone \"Ζεϊμπέκικο\" (1972/75)\n\n[[2026-08-18|Approfondimento su Batis e i rebetes]]",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/batis6.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787729978234",
+      "name": "Δημήτρης Γκούτης",
+      "nameit": "Dimítris Gkoútis",
+      "born": "15 agosto 1926, Peristéri (Atene)",
+      "died": "21 settembre 1987",
+      "bio": "Compositore e paroliere, attivo nella discografia greca dal 1955\nDebuttò con \"Τύρρανε τι θα κερδίσεις\" / \"Βρε πού πάμε\" (musica e voce di Γρηγόρης Μπιθικώτσης)\nSecondo Κώστας Βίρβος, apparteneva — insieme a Μπάμπης Μπακάλης e Γεράσιμος Κλουβάτος — alla scuola compositiva rappresentativa degli anni '50-'60 legata ai δρόμοι bizantini, distinta dallo stile più \"τσιτσανέικο\" (alla Τσιτσάνης)\nSecondo una fonte (artsandthecity.gr), firmò il testo di \"Δεν με πόνεσε κανείς\" (Στράτος Διονυσίου, 1960), con la musica attribuita direttamente al compositore indiano Ali Naushad — versione diversa da quella più diffusa che attribuisce l'intera diascevì a Μπάμπης Μπακάλης",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/gutis.jpg",
+      "roles": [
+        "at",
+        "am"
+      ]
+    },
+    {
+      "id": "p_1787732422194",
+      "name": "Πάνος Τζανετής",
+      "nameit": "Pános Tzanetís",
+      "born": "6 agosto 1940, Chalkída (nel quartiere allora chiamato Καράμπαμπας, oggi Κάνηθος)",
+      "died": "21 novembre 2009, Chalkída",
+      "bio": "Da bambino sedeva su una sedia fuori casa e, con un rituale tutto suo, tirava fuori il bouzouki dalla custodia di pelle per suonare per i ragazzini del quartiere\nDominò la scena discografica e i locali notturni tra il 1960 e il 1967, guadagnandosi il soprannome di \"l'Elvis Presley del λαϊκό\"\n\"Figlio spirituale\" di Γιώργος Ζαμπέτας, con cui cantò insieme, oltre che con Βίκυ Μοσχολιού, Στέλιος Καζαντζίδης, Μαρινέλλα, Μανώλης Μητσιάς, Μπέμπα Μπλανς\nCollaborò anche con Μάνος Χατζιδάκις, Γιάννης Μαρκόπουλος, Γιάννης Σπανός, Σταύρος Ξαρχάκος, Κώστας Βίρβος\nInterpretò oltre 300 canzoni, tra cui \"Δεν έχει δρόμο να διαβώ\" e \"Τι σου 'κανα και μ' εγκατέλειψες\" (entrambe di Ζαμπέτας — testo rispettivamente di Δ. Χριστοδούλου e Κ. Μάνεση), \"Βοριάς είν' η αγάπη σου\", \"Κλαίει απόψε ο ουρανός\"\nPartecipò anche a diversi film greci dell'epoca\nNel 1968, per ragioni familiari, abbandonò improvvisamente la musica per fare il tassista a Chalkída\nNel 1979 tornò brevemente in scena con un unico disco personale, \"Τα καλύτερά μου τραγούδια\" (con testi di Ηλίας Πολυδώρου e Β. Φωτεινάκης), ma senza seguito\nDal 1993 visse stabilmente a Chalkída fino alla morte\nSi sposò due volte, ebbe un figlio",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/tzanetis.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787733162518",
+      "name": "Χρήστος Αργυρόπουλος",
+      "nameit": "Chrístos Argyrópoulos",
+      "born": "1915, Mazéika (oggi Kleitoría), Kalávryta",
+      "died": "morto in data sconosciuta",
+      "bio": "Membro di una famiglia numerosa (7 figli); il padre Δημήτρης era giurista\nTrascorse un'infanzia agiata; a 17 anni si trasferì ad Atene per studiare Giurisprudenza\nIl suo coinvolgimento nella musica iniziò nel 1950\nParoliere del λαϊκό, autore di un numero limitato di canzoni ma di buona qualità\nIl suo testo più celebre è \"Δεν ξέρω πόσο σ' αγαπώ\" (1968), musica di Απόστολος Καλδάρας, portato al successo da Βίκυ Μοσχολιού\nAltri titoli: \"Ο κόκκορας\", \"Μας ζηλεύουνε\", \"Η γυναίκα που ψηφίζει\", \"Τέλος δεν έχει ο ουρανός\"",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/argiropulosc.jpg",
+      "roles": [
+        "at"
       ]
     }
   ]
