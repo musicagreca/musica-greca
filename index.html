@@ -253,6 +253,18 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
   <div class="hcard" onclick="go('accordi')"><div class="hcard-ico">🎸</div><div class="hcard-ttl">Accordi</div><div class="hcard-sub">Diagrammi per chitarra</div></div>
   <div class="hcard" onclick="go('info')"><div class="hcard-ico">ℹ</div><div class="hcard-ttl">Informazioni</div><div class="hcard-sub">Fonti e note sul sito</div></div>
 </div>
+<div class="home-arg" id="guide-box" style="cursor:default">
+  <div style="display:flex;justify-content:space-between;align-items:center;cursor:pointer" onclick="toggleGuide()">
+    <strong style="font-family:'Cormorant',serif;font-size:1.15rem">💡 Come usare il sito</strong>
+    <span id="guide-toggle-ico" style="font-size:.8rem;color:var(--t3)">▲</span>
+  </div>
+  <div id="guide-body" style="margin-top:.9rem;font-size:13.5px;line-height:1.7;color:var(--txt)">
+    <p style="margin:0 0 .7rem"><strong>Canzoni</strong> — ogni scheda ha il testo greco con accordi, il testo greco da solo, la trascrizione fonetica (per chi non legge il greco) e la traduzione italiana. La casella di ricerca cerca anche <em>dentro</em> i testi: prova a scrivere una parola o una frase, anche senza accenti (es. "αγαπη" trova "αγάπη"), e trovi tutte le canzoni che la contengono.</p>
+    <p style="margin:0 0 .7rem"><strong>Cantanti, Autori musica, Autori testo, Musicisti</strong> — le biografie di chi ha scritto o interpretato le canzoni.</p>
+    <p style="margin:0 0 .7rem"><strong>Generi e Ballo/Ritmo</strong> — utile se cerchi non una canzone precisa ma un tipo di musica (es. zeibekiko, rebetiko, canzoni tradizionali di una regione).</p>
+    <p style="margin:0"><strong>Approfondimenti</strong> — articoli più lunghi su temi, storie e aneddoti che vanno oltre la singola canzone o persona.</p>
+  </div>
+</div>
 <div class="home-footer">Μουσική — Archivio di musica greca &nbsp;·&nbsp; <span onclick="go('info')" style="cursor:pointer;text-decoration:underline">Informazioni e fonti</span></div>
 </div>
 
@@ -1068,6 +1080,20 @@ function formatNotesWithLinks(raw){
 }
 
 /* ── HOME ── */
+function initGuide(){
+  var box=el('guide-box'); if(!box) return;
+  var closed=false;
+  try{ closed=localStorage.getItem('mousg_guide_closed')==='1'; }catch(e){}
+  el('guide-body').style.display=closed?'none':'block';
+  el('guide-toggle-ico').textContent=closed?'▼':'▲';
+}
+function toggleGuide(){
+  var body=el('guide-body'), ico=el('guide-toggle-ico');
+  var isOpen=body.style.display!=='none';
+  body.style.display=isOpen?'none':'block';
+  ico.textContent=isOpen?'▼':'▲';
+  try{ localStorage.setItem('mousg_guide_closed', isOpen?'1':'0'); }catch(e){}
+}
 function renderHome(){
   el('home-stats').innerHTML='<div style="text-align:center"><div class="stat-n">'+songs.length+'</div><div class="stat-l">Canzoni</div></div><div style="text-align:center"><div class="stat-n">'+persons.length+'</div><div class="stat-l">Artisti</div></div><div style="text-align:center"><div class="stat-n">'+args.length+'</div><div class="stat-l">Approfondimenti</div></div>';
   // Immagine home: priorità a quella salvata in dati.json, altrimenti fallback a localStorage (compatibilità versioni precedenti)
@@ -1078,6 +1104,7 @@ function renderHome(){
     if(homeImg){ el('home-img').src=homeImg; imgWrap.style.display='block'; }
     else { imgWrap.style.display='none'; }
   }
+  initGuide();
 }
 
 
