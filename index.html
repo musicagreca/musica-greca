@@ -1426,14 +1426,14 @@ function renderElencoCanzoni(){
     el('mode-tier')._hasFilterDelegation=true;
   }
 
-  // Lista principale + voci alias ordinate insieme
+  // Lista principale + voce alias (l'intero campo, senza spezzarlo per virgola:
+  // una virgola può far parte del titolo stesso, es. "Ιστορίες μου, μάτια μου")
   var allItems=[];
   for(var i=0;i<list.length;i++){
     allItems.push({type:'song',s:list[i],sortKey:list[i].tgr||''});
-    if(list[i].alias){
-      list[i].alias.split(',').map(function(a){return a.trim();}).filter(Boolean).forEach(function(al){
-        allItems.push({type:'alias',s:list[i],aliasName:al,sortKey:al});
-      });
+    if(list[i].alias && list[i].alias.trim()){
+      var al=list[i].alias.trim();
+      allItems.push({type:'alias',s:list[i],aliasName:al,sortKey:al});
     }
   }
   allItems.sort(function(a,b){return a.sortKey.localeCompare(b.sortKey,'el');});
