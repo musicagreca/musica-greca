@@ -1206,7 +1206,9 @@ var srchMode='titolo';
 var srchAutoreMusica=null;
 var srchAutoreTesto=null;
 var srchEsecutore=null;
-var srchNameLetter=null;
+var srchNameLetter; // undefined = non ancora scelto nulla (non mostra l'elenco);
+                     // null = "Tutti" cliccato esplicitamente (mostra tutti);
+                     // 'A'.. = lettera scelta (mostra solo quelli)
 function nameLetters(set, dispFn){
   var L=[];
   set.forEach(function(n){
@@ -1229,7 +1231,7 @@ var dispScript='el'; // 'el' = grafia greca, 'it' = traslitterata
 function stripAccents(s){return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
 function scriptToggleHTML(){
   return '<div class="script-toggle" style="display:flex;gap:6px;margin-bottom:.5rem;align-items:center">'+
-    '<span style="font-size:10px;font-weight:700;color:var(--t3)">Grafia</span>'+
+    '<span style="font-size:10px;font-style:italic;color:var(--t3);background:var(--s2);padding:3px 8px;border-radius:16px">Grafia:</span>'+
     '<button class="srch-gbtn script-btn'+(dispScript==='el'?' on':'')+'" data-script="el">Greca</button>'+
     '<button class="srch-gbtn script-btn'+(dispScript==='it'?' on':'')+'" data-script="it">Traslitterata</button>'+
   '</div>';
@@ -1238,7 +1240,7 @@ function bindScriptToggle(container, rerenderFn){
   if(container._hasScriptToggle) return;
   container.addEventListener('click',function(ev){
     var sbtn=ev.target.closest('.script-btn');
-    if(sbtn){ dispScript=sbtn.getAttribute('data-script'); srchNameLetter=null; rerenderFn(); }
+    if(sbtn){ dispScript=sbtn.getAttribute('data-script'); srchNameLetter=undefined; rerenderFn(); }
   });
   container._hasScriptToggle=true;
 }
@@ -1361,28 +1363,40 @@ function renderElencoCanzoni(){
     }
   } else if(srchMode==='autore-musica'){
     panelH+=nameLetterBarHTML(amSet, personDisplayName);
-    var amShow=srchNameLetter?amSet.filter(function(n){return stripAccents((personDisplayName(n)||'?')[0]).toUpperCase()===srchNameLetter;}):amSet;
-    amShow=amShow.slice().sort(function(a,b){return personDisplayName(a).localeCompare(personDisplayName(b),dispScript==='it'?'it':'el');});
-    panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
-    panelH+='<button class="srch-gbtn'+(srchAutoreMusica===null?' on':'')+'" data-g="" data-type="am">Tutti</button>';
-    amShow.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchAutoreMusica===n?' on':'')+'" data-g="'+esc(n)+'" data-type="am">'+esc(personDisplayName(n))+'</button>'; });
-    panelH+='</div>';
+    if(srchNameLetter===undefined){
+      panelH+='<div style="font-size:12px;color:var(--t3);padding:.4rem 0">Scegli una lettera, oppure "Tutti" per vedere l\'elenco completo.</div>';
+    } else {
+      var amShow=srchNameLetter?amSet.filter(function(n){return stripAccents((personDisplayName(n)||'?')[0]).toUpperCase()===srchNameLetter;}):amSet;
+      amShow=amShow.slice().sort(function(a,b){return personDisplayName(a).localeCompare(personDisplayName(b),dispScript==='it'?'it':'el');});
+      panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
+      panelH+='<button class="srch-gbtn'+(srchAutoreMusica===null?' on':'')+'" data-g="" data-type="am">Tutti</button>';
+      amShow.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchAutoreMusica===n?' on':'')+'" data-g="'+esc(n)+'" data-type="am">'+esc(personDisplayName(n))+'</button>'; });
+      panelH+='</div>';
+    }
   } else if(srchMode==='autore-testo'){
     panelH+=nameLetterBarHTML(atSet, personDisplayName);
-    var atShow=srchNameLetter?atSet.filter(function(n){return stripAccents((personDisplayName(n)||'?')[0]).toUpperCase()===srchNameLetter;}):atSet;
-    atShow=atShow.slice().sort(function(a,b){return personDisplayName(a).localeCompare(personDisplayName(b),dispScript==='it'?'it':'el');});
-    panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
-    panelH+='<button class="srch-gbtn'+(srchAutoreTesto===null?' on':'')+'" data-g="" data-type="at">Tutti</button>';
-    atShow.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchAutoreTesto===n?' on':'')+'" data-g="'+esc(n)+'" data-type="at">'+esc(personDisplayName(n))+'</button>'; });
-    panelH+='</div>';
+    if(srchNameLetter===undefined){
+      panelH+='<div style="font-size:12px;color:var(--t3);padding:.4rem 0">Scegli una lettera, oppure "Tutti" per vedere l\'elenco completo.</div>';
+    } else {
+      var atShow=srchNameLetter?atSet.filter(function(n){return stripAccents((personDisplayName(n)||'?')[0]).toUpperCase()===srchNameLetter;}):atSet;
+      atShow=atShow.slice().sort(function(a,b){return personDisplayName(a).localeCompare(personDisplayName(b),dispScript==='it'?'it':'el');});
+      panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
+      panelH+='<button class="srch-gbtn'+(srchAutoreTesto===null?' on':'')+'" data-g="" data-type="at">Tutti</button>';
+      atShow.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchAutoreTesto===n?' on':'')+'" data-g="'+esc(n)+'" data-type="at">'+esc(personDisplayName(n))+'</button>'; });
+      panelH+='</div>';
+    }
   } else if(srchMode==='esecutore'){
     panelH+=nameLetterBarHTML(arSet, personDisplayName);
-    var arShow=srchNameLetter?arSet.filter(function(n){return stripAccents((personDisplayName(n)||'?')[0]).toUpperCase()===srchNameLetter;}):arSet;
-    arShow=arShow.slice().sort(function(a,b){return personDisplayName(a).localeCompare(personDisplayName(b),dispScript==='it'?'it':'el');});
-    panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
-    panelH+='<button class="srch-gbtn'+(srchEsecutore===null?' on':'')+'" data-g="" data-type="ar">Tutti</button>';
-    arShow.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchEsecutore===n?' on':'')+'" data-g="'+esc(n)+'" data-type="ar">'+esc(personDisplayName(n))+'</button>'; });
-    panelH+='</div>';
+    if(srchNameLetter===undefined){
+      panelH+='<div style="font-size:12px;color:var(--t3);padding:.4rem 0">Scegli una lettera, oppure "Tutti" per vedere l\'elenco completo.</div>';
+    } else {
+      var arShow=srchNameLetter?arSet.filter(function(n){return stripAccents((personDisplayName(n)||'?')[0]).toUpperCase()===srchNameLetter;}):arSet;
+      arShow=arShow.slice().sort(function(a,b){return personDisplayName(a).localeCompare(personDisplayName(b),dispScript==='it'?'it':'el');});
+      panelH+='<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:.65rem">';
+      panelH+='<button class="srch-gbtn'+(srchEsecutore===null?' on':'')+'" data-g="" data-type="ar">Tutti</button>';
+      arShow.forEach(function(n){ panelH+='<button class="srch-gbtn'+(srchEsecutore===n?' on':'')+'" data-g="'+esc(n)+'" data-type="ar">'+esc(personDisplayName(n))+'</button>'; });
+      panelH+='</div>';
+    }
   }
   el('mode-tier').innerHTML=scriptToggleHTML()+tierH+panelH;
   bindScriptToggle(el('mode-tier'), renderElencoCanzoni);
@@ -1394,7 +1408,7 @@ function renderElencoCanzoni(){
         var newMode=mbtn.getAttribute('data-mode');
         if(newMode!==srchMode){
           srchMode=newMode;
-          srchAlpha=null; srchGenere=null; srchBallo=null; srchNameLetter=null;
+          srchAlpha=null; srchGenere=null; srchBallo=null; srchNameLetter=undefined;
           srchAutoreMusica=null; srchAutoreTesto=null; srchEsecutore=null;
           if(el('srch-c')) el('srch-c').value='';
         }
