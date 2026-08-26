@@ -260,10 +260,17 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
     <span id="guide-toggle-ico" style="font-size:.8rem;color:var(--t3)">▲</span>
   </div>
   <div id="guide-body" style="margin-top:.9rem;font-size:13.5px;line-height:1.7;color:var(--txt)">
-    <p style="margin:0 0 .7rem"><strong>Canzoni</strong> — ogni scheda ha il testo greco con accordi, il testo greco da solo, la trascrizione fonetica (per chi non legge il greco) e la traduzione italiana. La casella di ricerca cerca anche <em>dentro</em> i testi: prova a scrivere una parola o una frase, anche senza accenti (es. "αγαπη" trova "αγάπη"), e trovi tutte le canzoni che la contengono.</p>
-    <p style="margin:0 0 .7rem"><strong>Cantanti, Autori musica, Autori testo, Musicisti</strong> — le biografie di chi ha scritto o interpretato le canzoni.</p>
-    <p style="margin:0 0 .7rem"><strong>Generi e Ballo/Ritmo</strong> — utile se cerchi non una canzone precisa ma un tipo di musica (es. zeibekiko, rebetiko, canzoni tradizionali di una regione).</p>
-    <p style="margin:0"><strong>Approfondimenti</strong> — articoli più lunghi su temi, storie e aneddoti che vanno oltre la singola canzone o persona.</p>
+    <p style="margin:0 0 .9rem"><strong>Elenco canzoni</strong><br>Nella riga superiore potete cercare una canzone che contenga un testo o una parte di testo, sia scritta con caratteri greci (che siano o no accentati) che in caratteri latini. Purtroppo se la ricerca è fatta con caratteri latini dev'essere scritta con la traslitterazione usata nel sito (ad esempio agapi non è uguale ad aghapi ecc.).</p>
+    <p style="margin:0 0 .9rem">Si può avere intanto la possibilità di scegliere la grafia, se greca o traslitterata in caratteri latini.</p>
+    <p style="margin:0 0 .9rem">Selezionando la casella "Titolo" si ha la lista di tutti i titoli dei brani presenti nel sito. Quelli scritti in corsivo sono il secondo titolo, ovvero un titolo alternativo con il quale il brano è noto. La freccetta sulla destra ci porta direttamente alla scheda del brano, indicando se per quel brano sono disponibili più versioni audio (freccia rossa), una sola versione audio (freccia grigia) o, se il titolo del brano è in corsivo, ti porta alla scheda del brano con il titolo originale (freccia grigia piccola).</p>
+    <p style="margin:0 0 .9rem">Se selezioniamo "Alfabetico" si aprirà la scelta del titolo per lettera iniziale. A seconda della grafia scelta si aprirà un alfabeto diverso.</p>
+    <p style="margin:0 0 .9rem">Se selezioniamo "Genere" si apriranno i generi musicali a cui brani sono stati assegnati. Questa attribuzione è spesso soggettiva, in quanto anche se è ben chiara la distinzione tra alcuni generi (ad esempio smirneico e neo Kima) può essere molto soggettivo distinguere tra tardo rembetico e laikà.</p>
+    <p style="margin:0 0 .9rem">Se selezioniamo "Ballo/Ritmo" si aprirà la lista dei balli/ritmi a cui i brani sono assegnati, se sono brani ballabili.</p>
+    <p style="margin:0 0 .9rem">Selezionando gli elenchi di persone, "Autore musica", "Autore testo", "Esecutore", si può cliccare sull'opzione tutti per avere l'elenco delle varie persone appartenenti alle singole liste oppure sulle singole lettere per avere l'elenco delle varie persone con quell'iniziale del cognome.</p>
+    <p style="margin:0 0 .9rem">Se apriamo una scheda canzone, dopo le varie informazioni sul brano, troviamo il tasto di ascolto o, se ci sono diverse versioni del brano, si apre una scheda che ti permette di selezionale la versione desiderata.</p>
+    <p style="margin:0 0 .9rem">Se proseguiamo, troviamo le varie opzioni di visualizzazione del testo: testo in greco con gli accordi, solo testo in greco, trascrizione del testo in caratteri latini e traduzione del testo in italiano, con eventuali note alla traduzione. Ognuna di queste opzioni ha la possibilità di stampa e di scorrimento del testo, con velocità variabile. Quest'ultima funzione serve soprattutto nel caso si sia suonando la chitarra e si abbiano le mani impegnate… Per i suonatori c'è anche la funzione di modifica della tonalità, da -6 a +6, e di modifica della notazione musicale.</p>
+    <p style="margin:0 0 .9rem">Per quanto riguarda gli approfondimenti, sono frutto di un lavoro di ricerca ma non saranno certo completi. Danno qualche informazione e qualche spunto di discussione e l'unico scopo è creare un focolaio di interesse.</p>
+    <p style="margin:0">Per quanto riguarda l'elenco delle fonti da cui il materiale è tratto, è tutto scritto nelle informazioni.</p>
   </div>
 </div>
 <div class="home-footer">Μουσική — Archivio di musica greca &nbsp;·&nbsp; <span onclick="go('info')" style="cursor:pointer;text-decoration:underline">Informazioni e fonti</span></div>
@@ -1649,7 +1656,8 @@ function renderCanzone(){
   if(s.tr) tabsH2+='<button class="itab'+(songTab==='trans'?' on':'')+'" onclick="setTab(\'trans\')">Trascrizione</button>';
   if(s.ti) tabsH2+='<button class="itab'+(songTab==='it'?' on':'')+'" onclick="setTab(\'it\')">Traduzione</button>';
   if(s.no) tabsH2+='<button class="itab'+(songTab==='notes'?' on':'')+'" onclick="setTab(\'notes\')">Note</button>';
-  if((s.executions||[]).length) tabsH2+='<button class="itab'+(songTab==='exec'?' on':'')+'" onclick="setTab(\'exec\')">Versioni</button>';
+  // La scheda "Versioni" è stata tolta dalla fila: si accede alle esecuzioni
+  // solo tramite il pulsante "🎧 Scegli versione" in alto, per non duplicare l'accesso
 
   var linksH='';
   var execCount=(s.executions||[]).length;
