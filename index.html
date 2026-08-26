@@ -1241,6 +1241,11 @@ function nameLetterBarHTML(set, dispFn){
   h+='</div>';
   return h;
 }
+function personDisplayName(n){
+  if(dispScript!=='it') return n;
+  var p=persons.filter(function(pp){return pp.name===n;})[0];
+  return (p&&p.nameit)?p.nameit:n;
+}
 function personPanelHTML(set, srchAutoreVal, type){
   var h=nameLetterBarHTML(set, personDisplayName);
   if(srchNameLetter===undefined){
@@ -1321,11 +1326,6 @@ function renderElencoCanzoni(){
   });
   var elCmp=function(a,b){return a.localeCompare(b,'el');};
   amSet.sort(elCmp); atSet.sort(elCmp); arSet.sort(elCmp);
-  function personDisplayName(n){
-    if(dispScript!=='it') return n;
-    var p=persons.filter(function(pp){return pp.name===n;})[0];
-    return (p&&p.nameit)?p.nameit:n;
-  }
 
   // Filtro
   var qNorm = stripAccents(q);
