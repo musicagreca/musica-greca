@@ -996,8 +996,8 @@ function songArrowHTML(s,cls){
   var col=multi?'#d9480f':'#9a9a9a';
   var fw=multi?'900':'400';
   var ttl='';
-  if(multi) ttl=' title="Scelta delle versioni ('+n+')"';
-  else if(single) ttl=' title="Ascolto diretto"';
+  if(multi) ttl=' title="Vai alla scheda — ascolto con più versioni disponibili"';
+  else if(single) ttl=' title="Vai alla scheda — ascolto disponibile"';
   return '<span class="'+cls+'" data-sid="'+s.id+'" style="font-size:22px;font-weight:'+fw+';color:'+col+';cursor:pointer;display:inline-block;line-height:1"'+ttl+'>&rarr;</span>';
 }
 function parseRaw(raw){
@@ -1450,7 +1450,7 @@ function renderElencoCanzoni(){
       h+='<div class="list-title" style="font-style:italic">'+esc(item.aliasName)+'</div>';
       var aliasTarget=(dispScript==='it'&&s.tit)?s.tit:s.tgr;
       h+='<div class="list-sub">&#8594; '+esc(aliasTarget)+'</div>';
-      h+='</div><span class="c-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer">&rarr;</span></div>';
+      h+='</div><span class="c-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer" title="Vai alla scheda con il titolo originale">&rarr;</span></div>';
     } else {
       num++;
       var links='';
