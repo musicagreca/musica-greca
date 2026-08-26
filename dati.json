@@ -1,8 +1,56 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-26T10:53:24.520Z",
+  "exportedAt": "2026-08-26T15:47:41.904Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787759245978",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Καίτη Γκρέυ",
+          "year": "1954",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=87lyhaY1obI&list=RD87lyhaY1obI&start_radio=1"
+        },
+        {
+          "who": "Λουκάς Νταράλας",
+          "year": "1975",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=N7QUfjxClK4&list=RDN7QUfjxClK4&start_radio=1"
+        },
+        {
+          "who": "Μαρίκα Νίνου",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=F7MxZw9wdVw&list=RDF7MxZw9wdVw&start_radio=1"
+        },
+        {
+          "who": "Γιώργος Νταλάρας",
+          "year": "2002",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=21WLl6ywb_M&list=RD21WLl6ywb_M&start_radio=1"
+        }
+      ],
+      "date": "2026-08-26",
+      "tgr": "Το βουνό",
+      "tit": "To vounò",
+      "alias": "",
+      "at": "Βαγγέλης Πρέκας",
+      "am": "Λουκάς Νταράλας",
+      "yr": "1954",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                  FA\nΘ' ανέβω και θα τραγουδήσω\n       DOm      REm\nστο πιο ψηλότερο βουνό\nLA#            RE\nν' ακούγεται στην ερημιά \n   REm       DOm     REm\nο πόνος μου με την πενιά \nLA#            RE\nν' ακούγεται στην ερημιά \n   REm       DOm     REm\nο πόνος μου με την πενιά\n\nREm                  FA\nΜε το βουνό θα γίνω φίλος\n       DOm      REm\nκαι με τα πεύκα συντροφιά\nLA#            RE\nκι όταν θα κλαίω και πονώ \n   REm       DOm     REm\nθ' αναστενάζει το βουνό \nLA#            RE\nκι όταν θα κλαίω και πονώ \n   REm       DOm     REm\nθ' αναστενάζει το βουνό\n\nREm                  FA\nΑπάνω στο βουνό θα μείνω\n       DOm      REm\nκι από τον κόσμο μακριά\nLA#            RE\nθα κλαίω μόνος, θα πονώ\n   REm       DOm     REm\nκαι θα μ' ακούει το βουνό \nLA#            RE\nθα κλαίω μόνος, θα πονώ\n   REm       DOm     REm\nκαι θα μ' ακούει το βουνό",
+      "tr": "To vounò\n\nTh'anévo ke tha traghudíso\nsto pio psilótero vunó\nn'akúyete stin erimiá\no pónos mu me tin peniá\n\nMe to vunó tha ghíno fílos\nke me ta pévka sindrofiá\nki ótan tha kléo ke ponó\nth'anastenázi to vunó\n\nApáno sto vunó tha míno\nki apó ton kósmo makriá\ntha kléo mónos, tha ponó\nke tha m'akúi to vunó",
+      "ti": "La montagna\n\nSalirò e canterò\nsulla montagna più alta\nperché si senta nel deserto\nil mio dolore con il plettro\n\nCon la montagna diventerò amico\ne con i pini farò compagnia\ne quando piangerò e soffrirò\nla montagna sospirerà\n\nIn cima alla montagna resterò\ne lontano dal mondo\npiangerò da solo, soffrirò\ne la montagna mi ascolterà\n\nNote:\n\nπενιά — colpo di plettro (sul bouzouki o strumento a corde), qui usato metonimicamente per indicare il canto/suono accompagnato dallo strumento\nερημιά — deserto/solitudine, luogo desolato senza presenza umana\nil testo personifica la montagna come unica confidente/compagna del cantante, tema ricorrente nella poesia popolare greca del dolore in solitudine e dell'isolamento dal mondo",
+      "no": ""
+    },
     {
       "id": "s_1787741596808",
       "offsets": {},
@@ -8988,6 +9036,37 @@
       "photo": "",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1787757736893",
+      "name": "Βαγγέλης Πρέκας",
+      "nameit": "Vanghélis Prékas",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Ruoli: Autore testo / Esecutore vocale\n\nParoliere e cantante attivo nell'epoca del grammofono degli anni '50\nScrisse il testo del celebre \"Το βουνό\", portato al successo da Λουκάς Νταράλας (musica accreditata a Παναγιώτης Κόντης secondo alcune fonti, anche se una copertina d'epoca lo attribuì erroneamente a Βασίλης Τσιτσάνης — segno di quanto fosse approssimativa la documentazione discografica dell'epoca)\nScrisse anche il testo di \"Αφήνω το βουνό και φεύγω\" (1954), pubblicata lo stesso anno come \"risposta\" a \"Το βουνό\", interpretata da Θανάσης Ευγενικός\nAltri testi noti: \"Αυτό το βράδυ κάθισα\", \"Για κρατήστε με πια φίλοι\" (Π. Γαβαλάς), \"Ραγίσαν τα τοιχώματα\" (Ανθούλα Αλιφραγκή), \"Θλιμμένο ερημόσπιτο\", \"Αλήτης του λιμανιού\" (Βαγγέλης Περπινιάδης)\nUna sua canzone, \"Θα σκίσω το φυλλάδιο\", risulta ancora oggi introvabile in nessuna registrazione conosciuta, pur essendo nota per tradizione orale sull'isola di Σύρος (secondo una discussione su un forum specializzato di rebetiko)\nCome esecutore (non solo paroliere), compare accreditato in almeno due incisioni: \"Ο Χάρος\" / \"Πρόσεχε καλά την μάνα\" (Olympic Records, testo e musica di Αργύρης Νικολέσκο e Δημήτρης Μπατάγιας) e \"Κι' εγώ μεγάλωσα παιδιά\" / \"Στα δυο σου χέρια πάρε με\" (insieme a Μ. Παπαβραμίδου, Σπύρος Σκορδίλης, Λένα Νταϊνά)",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/prekas.jpg",
+      "roles": [
+        "at",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787758735738",
+      "name": "Λουκάς Νταράλας",
+      "nameit": "Loukás Ntarálas",
+      "born": "1927, Atene",
+      "died": "12 giugno 1977, Atene",
+      "bio": "Figlio di Χρήστος Νταράλας (1880-1942), violinista virtuoso originario di Καρδίτσα, che compare già in un disco Columbia del 1935\nPadre del celebre cantante Γιώργος Νταλάρας\nCompositore, cantante e virtuoso del bouzouki, attivo soprattutto negli anni '50 e primi anni '60\nLa sua composizione più celebre è \"Το βουνό\", su testo di Ευάγγελος (Βαγγέλης) Πρέκας — proprio quello di cui abbiamo appena parlato: prima incisa nel marzo 1954 da Καίτη Γκρέυ e Δημήτρης Ρουμελιώτης, poi, pochi mesi dopo lo stesso anno, da Μαρίκα Νίνου; lo stesso Νταράλας ne incise una propria versione solo nel 1975\nAltri titoli noti: \"Στο πικραμένο δειλινό\", \"Η απάτη\", \"Το πλουσιόπαιδο\", \"Ο θάνατος της μάνας\", \"Πικρός καημός\", \"Μια μάνα είχα στη ζωή\", \"Μου 'κλεισες βαριά την πόρτα\"\nSposato due volte, ebbe tre figli\nCantò per anni anche all'estero, tra Germania e Belgio\nEbbe una carriera discografica ufficiale sorprendentemente ridotta: solo due dischi propri in tutta la vita — \"Ένας ρεμπέτης\" (1974, contenente la sua interpretazione di \"Το βουνό\") e \"Εγώ και το ρεμπέτικο\" (1975), quest'ultimo senza lo stesso successo\nMorì nel 1977, a soli 50 anni, per cirrosi epatica",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/daralas.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
       ]
     }
   ]
