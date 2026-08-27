@@ -1,8 +1,67 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-27T05:46:09.638Z",
+  "exportedAt": "2026-08-27T09:19:21.376Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787822352832",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Απόστολος Χατζηχρήστος, Γιάννης Σταμούλης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=p4RDpcQJ2aw&list=RDp4RDpcQJ2aw&start_radio=1"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης,  Βασίλης Τσιτσάνης",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=uaFmXehY3UM&list=RDuaFmXehY3UM&start_radio=1"
+        }
+      ],
+      "date": "2026-08-27",
+      "tgr": "Η άμαξα μες στη βροχή",
+      "tit": "I amaksà mes sti vrochì",
+      "alias": "Ο αμαξάς",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Απόστολος Χατζηχρήστος",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE\nΗ άμαξα μες στη βροχή\nSOL          LA      RE\nτράβα αμαξά μη μου βραχεί\nSIm           SOL\nΤο κορίτσι που 'ναι μέσα\nLA        SOL      RE\nόμορφο σαν πριγκηπέσα\nLAm      RE\nμη μου βραχεί\nSIm           SOL\nΤο κορίτσι που 'ναι μέσα\nLA        SOL      RE\nόμορφο σαν πριγκηπέσα\nLA          RE   LA      RE\nμην τυχόν και μου βραχεί\n\nRE\nΤράβα αμαξά μου να χαρείς\nSOL          LA      RE\nόσο πιο γρήγορα μπορείς\nSIm           SOL\nΗ βροχή όλο δυναμώνει\nLA        SOL      RE\nτο κορίτσι μου κρυώνει\nLAm      RE\nμη μου βραχεί\nSIm           SOL\nΗ βροχή όλο δυναμώνει\nLA        SOL      RE\nτο κορίτσι μου κρυώνει\nLA          RE   LA      RE\nμην τυχόν και μου βραχεί\n\nRE\nΈβγα στην άσφαλτο αμαξά\nSOL          LA      RE\nκαι στρίψε πάλι απ' τη γωνιά\nSIm           SOL\nΝα μάς πας για το τσαρδί μας\nLA        SOL      RE\nστη φωλίτσα τη δική μας\nLAm      RE\nτράβα αμαξά\nSIm           SOL\nΝα μάς πας για το τσαρδί μας\nLA        SOL      RE\nστη φωλίτσα τη δική μας\nLA          RE   LA      RE\nτράβηξε βρε αμαξά",
+      "tr": "I ámaksa mes sti vrochí\n\nI ámaksa mes sti vrochí\ntráva amaksá mi mu vrachí\nTo korítsi pu 'ne mésa\nómorfo san prighkipésa\nmi mu vrachí\nTo korítsi pu 'ne mésa\nómorfo san prighkipésa\nmin tichón ke mu vrachí\n\nTráva amaksá mu na charís\nóso pio ghríghora borís\nI vrochí ólo dinamóni\nto korítsi mu kriόni\nmi mu vrachí\nI vrochí ólo dinamóni\nto korítsi mu kriόni\nmin tichón ke mu vrachí\n\nÉvgha stin ásfalto amaksá\nke strípse páli ap'ti ghoniá\nNa mas pas gia to tsardí mas\nsti folítsa ti dikí mas\ntráva amaksá\nNa mas pas gia to tsardí mas\nsti folítsa ti dikí mas\ntráviikse vre amaksá",
+      "ti": "La carrozza sotto la pioggia\n\nLa carrozza sotto la pioggia\ntira, cocchiere, che non si bagni\nla ragazza che è dentro\nbella come una principessa\nche non si bagni\nla ragazza che è dentro\nbella come una principessa\nche per caso non si bagni\n\nTira, cocchiere mio, che tu possa gioire\nil più veloce che puoi\nla pioggia aumenta sempre di più\nla mia ragazza si raffredda\nche non si bagni\nla pioggia aumenta sempre di più\nla mia ragazza si raffredda\nche per caso non si bagni\n\nEsci sull'asfalto, cocchiere\ne gira di nuovo dall'angolo\nportaci al nostro nido\nal nostro piccolo rifugio\ntira, cocchiere\nportaci al nostro nido\nal nostro piccolo rifugio\ntira, ehi cocchiere\n\nNote:\n\nαμαξάς — cocchiere, conducente di carrozza (da \"άμαξα\", carrozza)\nπριγκηπέσα — principessa, già incontrata in altre canzoni come vezzeggiativo per la donna amata\nτσαρδί — covo, tana, rifugio informale, già incontrato in altre canzoni del rebetiko\nφωλίτσα — diminutivo affettuoso di \"φωλιά\" (nido), qui nel senso di piccolo rifugio d'amore\nil testo ha un tono romantico-popolare, con l'immagine tradizionale della carrozza sotto la pioggia come cornice per un momento intimo tra gli innamorati",
+      "no": ""
+    },
+    {
+      "id": "s_1787811224281",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-27",
+      "tgr": "Ζιγκουάλα",
+      "tit": "Ziguala",
+      "alias": "",
+      "at": "Νίκος Μουρκάκος",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1959",
+      "ar": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=QKdIAT4vERI&list=RDQKdIAT4vERI&start_radio=1",
+      "li": "",
+      "ch": "SOLm\nΖιγκουάλα, Ζιγκουάλα, Ζιγκουάλα\nSOLm         REm\nείσαι ο ήλιος, το φεγγάρι και το φως μου\nSOLm         DOm\nΤο μονάκριβο στολίδι είσαι του κόσμου\nRE#                                    FA\nΤο μονάκριβο στολίδι είσαι του κόσμου\n\nRE#            REm      RE#         REm\nΜελαχρινή ομορφιά μου, παντοτινή χαρά μου\nRE#                     DOm         REm\nΜελαχρινή ομορφιά μου, παντοτινή χαρά μου\n\nSOLm      DOm      REm\nΖιγκουάλα, Ζιγκουάλα, Ζιγκουάλα\n\nSOLm\nΖιγκουάλα, Ζιγκουάλα, Ζιγκουάλα\nSOLm         REm\nπες μου ποιο είναι το πικρό παράπονό σου\nSOLm         DOm\nΑν μου φύγεις, δεν θ' αντέξω στο χαμό σου\nRE#                                    FA\nΜελαχρινή ομορφιά μου, παντοτινή χαρά μου\nSOLm      DOm      REm\nΖιγκουάλα, Ζιγκουάλα, Ζιγκουάλα",
+      "tr": "Zigouála\n\nZigouála, Zigouála, Zigouála\níse o ílios, to fengári ke to fos mu\nTo monákrivo stolídi íse tu kósmu\nMelachriní omorfiá mu, pandotiní chará mu\n\nZigouála, Zigouála, Zigouála\n\nZigouála, Zigouála, Zigouála\npes mu pio íne to pikró paráponó su\nAn mu fíyis, den th'andékso sto chamó su\nMelachriní omorfiá mu, pandotiní chará mu\nZigouála, Zigouála, Zigouála",
+      "ti": "Zigouàla\n\nZigouàla, Zigouàla, Zigouàla\nsei il sole, la luna e la mia luce\nsei l'ornamento più prezioso del mondo\nmia bellezza bruna, mia gioia eterna\n\nZigouàla, Zigouàla, Zigouàla\n\nZigouàla, Zigouàla, Zigouàla\ndimmi qual è la tua amara lamentela\nse mi lasci, non reggerò alla tua perdita\nmia bellezza bruna, mia gioia eterna\nZigouàla, Zigouàla, Zigouàla\n\nNote:\n\nΖιγκουάλα — nome/vezzeggiativo usato come appellativo affettuoso ripetuto per la donna amata, senza un significato letterale specifico in greco (probabile invenzione fonetica/esotizzante del paroliere)\nμελαχρινή — bruna, dai capelli/carnagione scura, aggettivo affettuoso frequente nelle canzoni popolari greche\nχαμός — letteralmente \"perdita/rovina/morte\", qui nel senso di \"non sopravvivrei alla tua perdita/al fatto di perderti\"",
+      "no": "Il nome \"Zigouàla\" è l'adattamento greco di Singoalla, un celebre personaggio letterario di una storia svedese del XIX secolo scritta da Viktor Rydberg, da cui fu tratto un famosissimo film nel 1949 intitolato appunto Singoalla (storia d'amore incentrata su una ragazza rom). Kazantzidis e Mourkakos rimasero affascinati dal suono del nome e lo ellenizzarono in \"Zigouala\" per renderlo il perfetto nome esotico della protagonista."
+    },
     {
       "id": "s_1787809563246",
       "offsets": {},
@@ -9249,6 +9308,20 @@
       "photo": "",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1787810700946",
+      "name": "Νίκος Μουρκάκος",
+      "nameit": "Níkos Mourkákos",
+      "born": "1923",
+      "died": "26 gennaio 2005",
+      "bio": "Originario dι Mani, Mourkakos fu paroliere di successi del laïkó (tra cui \"Ζιγκουάλα\"/\"Zigouála\"), oltre che dirigente sportivo di lungo corso — fu figura chiave dell'Ethnikos Pireo, di cui fu presidente dalle prime anni '50 fino alla metà degli anni '80.\n\nEbbe un ruolo storicamente rilevante per la musica greca come conduttore radiofonico e direttore di programma alla Radio delle Forze Armate greche (Ραδιοφωνικός Σταθμός Ενόπλων Δυνάμεων). Nel periodo 1953–1957, quando un decreto reale vietava la trasmissione di canzoni rembetika e laïká, Mourkakos introdusse gradualmente trasmissioni dal vivo in cui si esibivano musicisti, compositori e cantanti dell'epoca — contribuendo così a rompere l'isolamento che teneva il buzuki e il laïkó fuori dagli studi radiofonici ufficiali, quando questo genere era ancora bollato come \"musica da hashish\".\n\nFu inoltre il primo radiocronista sportivo della radio, trasmettendo partite dal vivo dal 1954 al 1963.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/murkakos.jpg",
+      "roles": [
+        "at"
       ]
     }
   ]
