@@ -1,8 +1,119 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-27T03:54:41.278Z",
+  "exportedAt": "2026-08-27T05:46:09.638Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787809563246",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-27",
+      "tgr": "Ζαΐρα",
+      "tit": "Zaìra",
+      "alias": "",
+      "at": "Κώστας Βίρβος",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1954",
+      "ar": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης, Αθανάσιος Γιαννόπουλος, Γιάννης Σαλασίδης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "Χιτζασκάρ",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=tsqo8pEWwRo&list=RDtsqo8pEWwRo&start_radio=1",
+      "li": "",
+      "ch": "DO                 LA#          LA\nΓιαλαούμπι, γιαλαχούμπι, γκέλ, γιαχαμπίμπι για\nDO        LA#          LA\nγιαλαούμπι, γιαχαμπίμπι για\n\nLA\nΖαΐρα, θα 'ρθω να σε κλέψω κάποια βραδιά\n                    REm\nαπ' την αγκαλιά του μαχαραγιά\n                    LA                    SOLm\nΣβήνω απ' τον πόθο μ' άλλον σαν σε νιώθω \n                    LA\nαχ Ζαΐρα μου γλυκιά \n                    LA                    SOLm\nΣβήνω απ' τον πόθο μ' άλλον σαν σε νιώθω \n                    LA\nαχ Ζαΐρα μου γλυκιά\n\n\nLA                    REm         SOLm    LA\nΓιαλελέλι, γιαλελέ-λελι, γιαλελέλι, ω\n                    REm\nΣβήνω απ' τον πόθο μ' άλλον σαν σε νιώθω\n                    SOLm    LA\nαχ Ζαΐρα μου γλυκιά\n\nDO                              LA#          LA\nΓιαλαούμπι, γιαλαχούμπι, γκέλ, γιαχαμπίμπι για\nDO            LA#          LA\nγιαλαούμπι, γιαχαμπίμπι για\n\nLA\nΖαΐρα, λάμπεις σαν αστέρι στην Αραπιά\n                    REm\nμ' άναψες φωτιά, δεν αντέχω πια\n                    LA                    SOLm\nΚάστρα θα γκρεμίσω, μα δε θα σ' αφήσω\n                    LA\nσκλάβα του μαχαραγιά\n\nLA                    REm         SOLm    LA\nΓιαλελέλι, γιαλελέλι, γιαλελέλι, ω\n                    REm\nΚάστρα θα γκρεμίσω, μα δε θα σ' αφήσω\n                    SOLm    LA\nσκλάβα του μαχαραγιά\n\nDO                              LA#          LA\nΓιαλαούμπι, γιαλαχούμπι, γκέλ, γιαχαμπίμπι για\nDO                              LA#          LA\nγιαλαούμπι, γιαχαμπίμπι για",
+      "tr": "Zaìra\n\nYialaúbi, yialachúbi, gkel, yiachambíbi ghia\nyialaúbi, yiachambíbi ghia\n\nZaíra, tha 'rtho na se klépso kápia vradiá\nap'tin anghaliá tu macharaghiá\nSvíno ap'ton pótho m'álon san se niótho\nach Zaíra mu ghlikiá\n\nYialeleli, yialelé-leli, yialeleli, o\nSvíno ap'ton pótho m'álon san se niótho\nach Zaíra mu ghlikiá\n\nYialaúbi...\n\nZaíra, lámbis san astéri stin Arapiá\nm'ánapses fotiá, den andécho pia\nKástra tha gremíso, ma de tha s'afíso\nsklάva tu macharaghiá\n\n\nYialeleli, yialelé-leli, yialeleli, o\nKástra tha gremíso, ma de tha s'afíso\nsklάva tu macharaghiá\n\nYialaúbi...",
+      "ti": "Zaira\n\nZaira, verrò a rapirti una sera\ndalle braccia del maragià\nmi spengo dal desiderio, quando sento un altro accanto a te\nah, Zaira mia dolce\n\n\nZaira, splendi come una stella in Arabia\nmi hai acceso un fuoco, non resisto più\nabbatterò castelli, ma non ti lascerò\nschiava del maragià\n\n\n\nNote:\n\nμαχαραγιάς — maragià (dal sanscrito/hindi \"maharaja\"), qui usato come figura esotica di rivale ricco e potente, tipica dell'immaginario orientaleggiante di queste canzoni\nΑραπιά — \"terra degli arabi\", regione araba/esotica genericamente intesa, già incontrata in altre canzoni\nil ritornello \"Γιαλαούμπι, γιαλαχούμπι, γκελ, γιαχαμπίμπι για\" e \"Γιαλελέλι\" sono vocalizzi/ritornelli esotizzanti in falso arabo-turco, senza traduzione letterale, tipici del genere \"ανατολίτικα\" (orientaleggiante) — la stessa melodia fu poi riutilizzata nello stesso anno (1954) per un'altra canzone, \"Χαμπίμπα\", cambiando solo il nome della protagonista e pochi versi",
+      "no": ""
+    },
+    {
+      "id": "s_1787807424718",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-27",
+      "tgr": "Έχεις κορμί αράπικο",
+      "tit": "Echis kormì arapikò",
+      "alias": "",
+      "at": "Χρήστος Κολοκοτρώνης",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1958",
+      "ar": "Στέλιος Καζαντζίδης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "Nihavent",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=WzkVmdRedhA&list=RDWzkVmdRedhA&start_radio=1",
+      "li": "",
+      "ch": "REm       LA        REm      LA         REm\nΈχεις κορμί αράπικο και μαύρα μάτια πλάνα\nSOLm      DO        FA         \nΗ μάνα που σε γέννησε θα ήτανε τσιγγάνα\n\n REm                    LA              REm\nΓιαχαμπίμπι, γιαλελέλι, χόρεψέ μου τσιφτετέλι\nSOLm      DO           FA          LA    REm\nΕίσαι κούκλα μου τσαχπίνα, μια φελάχα αραπίνα\nSOLm      DO           FA     LAdim   LA    REm\nΓιαχαμπίμπι, γιαλελέλι, χόρεψέ μου τσιφτετέλι\n\nREm       LA        REm      LA         REm\nΗ ομορφιά σου μάνα μου φουντώνει το σεβντά μου\nSOLm      DO        FA    \nΈλα γλυκιά σουλτάνα μου για πάντα στον οντά μου\n\n\n REm                    LA              REm\nΓιαχαμπίμπι, γιαλελέλι, χόρεψέ μου τσιφτετέλι\nSOLm      DO           FA          LA    REm\nΕίσαι κούκλα μου τσαχπίνα, μια φελάχα αραπίνα\nSOLm      DO           FA     LAdim   LA    REm\nΓιαχαμπίμπι, γιαλελέλι, χόρεψέ μου τσιφτετέλι\n\n(Σόλο)\n\n\n REm                    LA              REm\nΓιαχαμπίμπι, γιαλελέλι, χόρεψέ μου τσιφτετέλι\nSOLm      DO           FA          LA    REm\nΕίσαι κούκλα μου τσαχπίνα, μια φελάχα αραπίνα\nSOLm      DO           FA     LAdim   LA    REm\nΓιαχαμπίμπι, γιαλελέλι, χόρεψέ μου τσιφτετέλι",
+      "tr": "Échis kormí arápiko\n\nÉchis kormí arápiko ke mávra mátia plána\nI mána pu se yénise tha ítane tsingána\n\nYachambíbi, yialelέli, chorépsé mu tsiftetéli\nÍse kúkla mu tsachpína, mia felácha arapína\nYachambíbi, yialelέli, chorépsé mu tsiftetéli\n\nI omorfiá su mána mu fundóni to sevdá mu\nÉla ghlikiá sultána mu gia pánda ston odá mu\n\nYachambíbi, yialelέli...",
+      "ti": "Hai un corpo arabo e occhi neri seducenti\ntua madre, che ti ha partorita, doveva essere una zingara\n\n(ritornello esotizzante in stile turco-arabo, senza significato letterale preciso), balla per me il tsifteteli\nSei la mia bambola birichina, una fellaha araba\n(ritornello come sopra), balla per me il tsifteteli\n\nLa tua bellezza, cara, accende la mia passione\nvieni, dolce sultana mia, per sempre nella mia stanza\n\n(ritornello come sopra)\n\nNote:\n\nτσιφτετέλι — danza orientale/da ballo del ventre, molto diffusa nella musica greca di ambientazione anatolica\nφελάχα — dall'arabo \"fellah\" (contadina), qui usato come epiteto esotico/romantico per la donna\nσεβντάς — passione amorosa intensa (turchismo), già incontrato in altre canzoni\nοντάς — stanza/camera (turchismo, da \"oda\"), già incontrato in \"Πέντε μάγκες στον Περαία\"\nγιαχαμπίμπι — dall'arabo \"ya habibi\" (\"oh amore mio\"), esclamazione affettuosa tipica di queste canzoni a tema orientale/anatolitiko\nil brano appartiene al filone delle canzoni \"ανατολίτικα\" (orientaleggianti), con immaginario esotico stilizzato molto diffuso nel repertorio greco tra gli anni '30 e '50, simile per stile a \"Γυφτοπούλα στο χαμάμ\" già incontrata",
+      "no": ""
+    },
+    {
+      "id": "s_1787806590841",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-27",
+      "tgr": "Έχε γεια Παναγιά",
+      "tit": "Eche ghià Panaghià",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "LA                         SOLm        LA\nΣτο Γαλατά ψιλή βροχή και στα Ταταύλα μπόρα\nLA          SOLm\nΒασίλισσα των κοριτσιών είναι η μαυροφόρα \nLA          SOLm\nΒασίλισσα των κοριτσιών είναι η μαυροφόρα \n\nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε \nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε\n\n                           \nLA                         SOLm        LA\nΣτο Γαλατά θα πιω κρασί, στο Πέρα θα μεθύσω\nLA          SOLm\nκαι μέσα απ' το Γεντί Κουλέ κοπέλα θ' αγαπήσω \nLA          SOLm\nκαι μέσα απ' το Γεντί Κουλέ κοπέλα θ' αγαπήσω \n\nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε \nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε\n\nLA                            SOLm        LA\nΓεντί Κουλέ και Θεραπιά, Ταταύλα και Νιχώρι\nLA          SOLm\nΑυτά τα τέσσερα χωριά 'μορφαίνουνε την Πόλη \nLA          SOLm\nΑυτά τα τέσσερα χωριά 'μορφαίνουνε την Πόλη \n\nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε \nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε",
+      "tr": "Eche ghià Panaghià\n\nSto Ghalatá psilí vrochí ke sta Tatávla bóra\nVasílisa ton koritsión íne i mavrofóra\n\nÉche ghia Panaghiá, ta milísame\nÓniro ítane, ta lismonísame\n\nSto Ghalatá tha pio krasí, sto Péra tha methíso\nke mésa ap'to Yendí Kulé kopéla th'aghapíso\n\nÉche ghia Panaghiá...\n\nYendí Kulé ke Therapiá, Tatávla ke Nichóri\nAftá ta téssera choriá 'morféinune tin Póli\n\nÉche ghia Panaghiá...",
+      "ti": "Addio Madonna\n\nA Galatà pioggerella fine e a Tatavla temporale\nregina delle ragazze è quella vestita di nero\n\nAddio Madonna, ne abbiamo parlato\nera un sogno, l'abbiamo dimenticato\n\nA Galatà berrò vino, a Pera mi ubriacherò\ne dentro Yedi Kule una ragazza amerò\n\nAddio Madonna...\n\nYedi Kule e Terapia, Tatavla e Nihori\nquesti quattro quartieri abbelliscono la Città (Costantinopoli)\n\nAddio Madonna...\n\nNote:\n\nΓαλατάς, Ταταύλα, Πέρα, Γεντί Κουλέ, Θεραπιά, Νιχώρι — storici quartieri/zone di Costantinopoli (Galata, Tatavla oggi Kurtuluş, Pera/Beyoğlu, Yedikule, Tarabya, Nihori), popolati un tempo da comunità greche\nη Πόλη — \"la Città\" per antonomasia, modo tradizionale con cui i greci si riferiscono a Costantinopoli (dal greco \"εις την Πόλιν\", origine anche del nome turco \"İstanbul\")\nμαυροφόρα — donna vestita di nero (spesso riferito a lutto, ma qui usato come immagine di fascino/bellezza malinconica, tipica figura poetica)\nΈχε γεια — espressione di saluto/commiato, \"stammi bene/addio\"\nil brano è un canto nostalgico sulla vita e la geografia della comunità greca di Costantinopoli, con richiami a luoghi simbolo della presenza greca nella città",
+      "no": "Il dilemma del titolo: Nella tradizione orale, c'è una forte assonanza tra l'invocazione «Παναγιά» (Panagia, la Vergine) e l'espressione di saluto «πάντα γεια» (panta geia, addio per sempre). La stessa ricerca sul campo ha mostrato come i cantori passassero fluidamente da una formula all'altra."
+    },
+    {
+      "id": "s_1787805868508",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μαίρη Λω",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=shXpM3XtZTc&list=RDshXpM3XtZTc&start_radio=1"
+        },
+        {
+          "who": "Μελίνα Μερκούρη",
+          "year": "1955",
+          "note": "spezzone dal film Stella",
+          "link": "https://www.youtube.com/watch?v=YcLCbpFpmcM&list=RDYcLCbpFpmcM&start_radio=1"
+        },
+        {
+          "who": "Σταμάτης Κόκοτας",
+          "year": "1984",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=XjJd1342dDg&list=RDXjJd1342dDg&start_radio=1"
+        }
+      ],
+      "date": "2026-08-27",
+      "tgr": "Εφτά τραγούδια θα σου πω",
+      "tit": "Eftà tragùdia tha su po",
+      "alias": "",
+      "at": "Μιχάλης Κακογιάννης",
+      "am": "Μάνος Χατζιδάκις",
+      "yr": "1955",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno / Laïko Moderno",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "DO                          FA\nΒγήκανε τ' άστρα κι οι κοπέλες με τ' άσπρα\n\nSOL                          DO\nκατεβαίνουν στην κάτω γειτονιά\n\nDO\nΤα παλικάρια παρατάνε τα ζάρια\n                    MI\nκι ανταμώνουν στου δρόμου τη γωνιά\n\n           SOLm                          REm\nΣτου παραδείσου τα μπουζούκια θα με πας \n\nLA                              REm\nκι αφού χορέψουμε και πάψει ο σαματάς \n\n        MI                                          LAm\nΕφτά τραγούδια θα σου πω, για να διαλέξεις το σκοπό \n\nREm                    MI              LAm\nπου θα μου πεις για να σου πω το σ' αγαπώ \n\n\n        MI                                          LAm\nΕφτά τραγούδια θα σου πω, για να διαλέξεις το σκοπό \n\nREm                    MI              LAm\nπου θα μου πεις για να σου πω το σ' αγαπώ",
+      "tr": "Eftà tragùdia tha su po\n\nVghíkane t'ástra ki i kopéles me t'áspra\nkateveínun stin káto ghitoniá\nTa palikária paratáne ta zária\nki andamónun stu drómu ti ghoniá\n\nStu paradísu ta buzúkia tha me pas\nki afú chorépsume ke pápsi o samatás\nEftá traghúdia tha su po, gia na dialéksis to skopó\npu tha mu pis gia na su po to s'aghapó",
+      "ti": "Sette canzoni ti canterò\n\nSono uscite le stelle e le ragazze vestite di bianco\nscendono nel quartiere più in basso\ni giovanotti lasciano i dadi\ne si incontrano all'angolo della strada\n\nAl paradiso dei bouzouki mi porterai\ne dopo aver ballato e finito il baccano\nsette canzoni ti canterò, perché tu scelga la melodia\nche mi dirai, perché io ti dica il \"ti amo\"\n\nNote:\n\nσαματάς — chiasso, baccano, confusione (gergale)\nπαράδεισος των μπουζουκιών — \"paradiso dei bouzouki\", espressione poetica per indicare un locale/taverna dove si suona e si balla, luogo di svago e romanticismo\nil testo descrive una tipica serata di corteggiamento popolare, tra balli, musica e la promessa di una dichiarazione d'amore attraverso la scelta di una canzone",
+      "no": ""
+    },
     {
       "id": "s_1787759245978",
       "offsets": {},
@@ -9067,6 +9178,77 @@
         "am",
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1787805405606",
+      "name": "Μαίρη Λω",
+      "nameit": "Méri Lo",
+      "born": "1928, Palaió Fáliro (Grecia) — alcune fonti riportano il 1932, ma la maggior parte concorda sul 1928",
+      "died": "",
+      "bio": "Vero nome: Maria Mandonanaki (Μαρία Μαντωνανάκη), successivamente Maria Giakovleff dopo il matrimonio\n\nMary Lo è una delle voci più importanti della canzone leggera greca (elafró tragoúdi) del secondo dopoguerra. Si diplomò in canto e, ancora studentessa liceale, conobbe il compositore Nikis Giakovleff (proprietario della celebre pasticceria \"Petrograd\" di Odós Stadíou ad Atene), che la avviò al repertorio moderno e con cui si sposò nel 1951, avendo due figli. Divenne nota al grande pubblico nel 1948 con il brano \"Kapetánie\". Negli anni '50 e '60 si esibì nei maggiori locali e in tournée internazionali (Londra, Parigi, Bruxelles, Amburgo, Barcellona, Lussemburgo, Egitto), incidendo anche brani di Manos Chatzidakis. Resta oggi celebre soprattutto per l'interpretazione del brano jazz \"Variémai\" (1962), tornato virale nel 2024.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/merilo.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787805839668",
+      "name": "Σταμάτης Κόκοτας",
+      "nameit": "Stamátis Kókotas",
+      "born": "Atene, 23 marzo 1937",
+      "died": "Atene, 1 ottobre 2022",
+      "bio": "Stamatis Kokotas è stato uno dei più importanti interpreti greci della canzone popolare (laïkó), noto per le lunghe basette che ne caratterizzavano l'immagine. Il suo esordio fu segnato dal grande successo firmato Xarchakos-Gatsos \"Ena mesimeri stis Akropolis ta meri\" nell'ottobre 1965 — la prima volta che un interprete veniva accolto dal pubblico fin dal primo brano. Nel 1966 incatenò una serie di successi con brani di Dimos Moutsis su testi di Gatsos — \"Peiraiótissa\", \"Sigá-sigá\", \"Mi mou chtypás mesánychta tin pórta\" — diventando una star. Collaborò nel corso della carriera con molti tra i principali compositori greci, tra cui Stavros Xarchakos, Dimos Moutsis, Apostolos Kaldaras e Vasilis Tsitsanis. Fu tifoso storico del Panathinaikos e appassionato di sport motoristici. Fu padre del cantante Dimitris Kokotas.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kokotas.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787807133479",
+      "name": "Χρήστος Κολοκοτρώνης",
+      "nameit": "Christos Kolokotronis",
+      "born": "25 dicembre 1922, Kallithea (Atene)",
+      "died": "13 novembre 1999. Atene",
+      "bio": "Cresciuto a Glykomilia, nomo di Trikala\nDiscendente in linea diretta (trisnipote) dell'eroe della guerra d'indipendenza del 1821 Theodoros Kolokotronis, fu uno dei principali stichourgoí (parolieri) e compositori del laïkó tragoúdi del secondo dopoguerra.\n\nInsieme a Eftychia Papagiannopoulou, Charalambos Vasiliadis e Kostas Virvos formò la \"tetrade d'oro\" della paroliera del laïkó postbellico, legando il proprio nome alla stagione d'oro della Columbia, in cui fu protagonista per due decenni.\n\nIl suo esordio discografico come autore risale al 1952 con \"Peiraiás kai Athína\" (Parlophone B-74279), cantata da Sotiria Bellou e Michalis Daskalakis.\n\nScrisse alcune centinaia di canzoni interpretate dalle maggiori voci del genere — tra cui Stelios Kazantzidis, Manolis Chiotis, Panos Gavalas, Kaiti Grey, Stratos Dionysiou, Mary Linda e Poly Panou — firmando anche testi per l'elafró, l'éntechno e il demotikó, e talvolta componendo la musica. Usò anche gli pseudonimi M. Thessalos, Christos Kyprios e A. Diamantis.\n\nDal 1967 si esibì anche come interprete dei propri brani nei locali di Atene.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kolokotronis.jpg",
+      "roles": [
+        "at",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787808972137",
+      "name": "Γιάννης Σαλασίδης",
+      "nameit": "Giánnis Salasídis",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Cantante attivo nel giro discografico legato a Vasilis Tsitsanis nella metà degli anni '50. \n\nNel 1954 fece parte del terzetto vocale (insieme a Marika Ninou e Athanasios Giannopoulos) che interpretò per la Philips, dal vivo al locale \"Parnassós\" di Atene, brani come \"Ζαΐρα\" (testo Kostas Virvos, musica Tsitsanis/Vlachos) e \"Συννεφιασμένη Κυριακή\". \n\nCantò inoltre in prima esecuzione altri brani insieme a Marika Ninou, tra cui \"Έλα όπως είσαι\" e \"Αη Νικόλα\", oltre a \"Απόψε κάνεις μπαμ\" insieme allo stesso Tsitsanis.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787809087848",
+      "name": "Αθανάσιος Γιαννόπουλος",
+      "nameit": "Athanásios Giannópoulos",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Cantante attivo nel giro discografico legato a Vasilis Tsitsanis nella metà degli anni '50. \nFece parte, insieme a Marika Ninou e Giannis Salasidis, del terzetto vocale della storica registrazione dal vivo del 1954 al locale \"Parnassós\" di Atene per l'etichetta olandese Philips — la prima registrazione live ufficiale di canzoni laïká. \nCantò inoltre in un altro terzetto, insieme a Prodromos Tsaousakis e Rena Dallia, il brano \"Όμορφη Θεσσαλονίκη\" (testo e musica Tsitsanis/Vlachos).",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
       ]
     }
   ]

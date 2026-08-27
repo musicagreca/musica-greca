@@ -1079,6 +1079,26 @@ var songSemi=0, songTab='chords';
 var autoscrollTimer=null, autoscrollSpeed=2;
 var alphaF={};
 
+/* ── PREFERENZE PER CANZONE (tonalità e velocità di scorrimento), salvate nel browser ── */
+function getSongSemi(id){
+  if(!id) return 0;
+  var v=parseInt(localStorage.getItem('semi:'+id),10);
+  return isNaN(v)?0:Math.max(-11,Math.min(11,v));
+}
+function saveSongSemi(id,val){
+  if(!id) return;
+  try{ localStorage.setItem('semi:'+id, String(val)); }catch(e){}
+}
+function getSongSpeed(id){
+  if(!id) return 2;
+  var v=parseFloat(localStorage.getItem('speed:'+id));
+  return isNaN(v)?2:v;
+}
+function saveSongSpeed(id,val){
+  if(!id) return;
+  try{ localStorage.setItem('speed:'+id, String(val)); }catch(e){}
+}
+
 /* ── NAVIGATION (con integrazione cronologia browser, per il tasto Indietro) ── */
 function applyState(state, doScroll){
   curSongId = state.songId || null;
@@ -1105,7 +1125,7 @@ function applyState(state, doScroll){
   else if(pid==='elenco-balli') renderElencoBalli();
   else if(pid==='argomento') renderArgomento();
   else if(pid==='accordi') renderAccordi();
-  else if(pid==='canzone'){ songSemi=0; songTab='chords'; notation='it'; renderCanzone(); }
+  else if(pid==='canzone'){ songSemi=getSongSemi(curSongId); autoscrollSpeed=getSongSpeed(curSongId); songTab='chords'; notation='it'; renderCanzone(); }
   else if(pid==='persona') renderPersona();
   else if(pid==='info') {}
 }
@@ -1691,7 +1711,7 @@ function toggleAutoscroll(){
     if(btn) btn.textContent='⏸ Ferma';
   }
 }
-function setAutoscrollSpeed(v){ autoscrollSpeed=parseFloat(v)||2; }
+function setAutoscrollSpeed(v){ autoscrollSpeed=parseFloat(v)||2; saveSongSpeed(curSongId,autoscrollSpeed); }
 function setTab(tab){ songTab=tab; renderCanzone(); }
 function renderTab(){
   var s=songs.filter(function(x){return x.id===curSongId;})[0];
@@ -1728,6 +1748,7 @@ function renderTab(){
 function chSemi(d,reset){
   if(reset) songSemi=0;
   else songSemi=Math.max(-11,Math.min(11,songSemi+d));
+  saveSongSemi(curSongId,songSemi);
   renderTab();
 }
 function goPersonaByName(name){
