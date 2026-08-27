@@ -1,8 +1,187 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-27T09:19:21.376Z",
+  "exportedAt": "2026-08-27T15:10:31.587Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787840492047",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργος Βιδάλης, Ελληνική Εστουδιαντίνα",
+          "year": "1919",
+          "note": "Έλλη Έλλη",
+          "link": "https://www.youtube.com/watch?v=2w1C5GEaoOk"
+        },
+        {
+          "who": "Γιώργος Κατσαρός (Θεολογίτης)",
+          "year": "1927",
+          "note": "Α! Κακούργα Έλλη",
+          "link": "https://movio.club/video/342805"
+        },
+        {
+          "who": "Μαρίκα Παπαγκίκα",
+          "year": "1925",
+          "note": "Η Έλλη",
+          "link": "https://vmrebetiko.gr/item/?id=4035"
+        },
+        {
+          "who": "Γιώργος Βιδάλης, Δημήτρης Σέμσης",
+          "year": "1926",
+          "note": "Η Έλλη θέλει σκότωμα",
+          "link": "https://vmrebetiko.gr/item/?id=4935"
+        },
+        {
+          "who": "Αμαλία Βάκα",
+          "year": "1920",
+          "note": "Η Έλλη",
+          "link": "https://www.youtube.com/watch?v=ayg5iYQAXSM"
+        },
+        {
+          "who": "Μαρίκα Παπαγκίκα",
+          "year": "1920",
+          "note": "Η Ελλη",
+          "link": "https://www.youtube.com/watch?v=Fu91_XPEm6k&list=RDFu91_XPEm6k&start_radio=1"
+        },
+        {
+          "who": "Γιώργος Κατσαρός (Θεολογίτης)",
+          "year": "1927 (1919)",
+          "note": "Α! Κακούργα Ελλη",
+          "link": "https://www.youtube.com/watch?v=LXbGaZHuVn8&list=RDLXbGaZHuVn8&start_radio=1"
+        },
+        {
+          "who": "Κώστας Γκαντίνης",
+          "year": "1939",
+          "note": "versione strumentale",
+          "link": "https://www.youtube.com/watch?v=xjsipk0-Igw&list=RDxjsipk0-Igw&start_radio=1"
+        }
+      ],
+      "date": "2026-08-27",
+      "tgr": "Η Έλλη",
+      "tit": "I Elli",
+      "alias": "Η Έλλη θέλει σκότωμα",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "tradizionale Asia Minore",
+      "dr": "",
+      "bal": "Sirtòs (Asia Minore)",
+      "ll": "",
+      "li": "",
+      "ch": "RE           FAdim     RE   RE#   RE\nΒρε, νη ν' Έλλη, άντε, θέλει θέλει σκότωμα\n            DOm     RE         DOm      RE\nμε δίκοπο μαχαίρι, με δίκοπο μαχαίρι\nRE           FAdim     RE   RE#   RE\nγιατ' άφησε, άντε, τον άντρα της\n          DOm     RE         DOm      RE\nκαι πήρε κομισιέρη, και πήρε κομισιέρη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nαπό τον κομισιέρη\n \nRE              FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, τ' απεφάσισε\n        DOm     RE         DOm      RE\nλεβέντισσα να ζήσει, λεβέντισσα να ζήσει\nRE               FAdim     RE   RE#   RE\nβρε, και δε τη νοιάζει, άντε, στο ντουνιά\n            DOm     RE         DOm      RE\nστους δρόμους κι ας 'πομείνει, στους δρόμους κι ας 'πομείνει\n \nRE\nΆμαν, αμάνα, Έλλη\nRE\nρε, κανένας δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nστη γάμπα τσιμπημένη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nπαράτησες τον άντρα σου\nRE\nκαι πήρες κομισιέρη\n \nRE           FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, θέλει ζάχαρη\n                DOm     RE         DOm      RE\nκαι ρούσικο, βρ' αλεύρι, και ρούσικο, βρ' αλεύρι\nRE            FAdim     RE   RE#   RE\nβρε, να φτιάξει, άντε, τα γλυκίσματα\n           DOm     RE         DOm      RE\nνα πά' στον κομισιέρη, να πά' στον κομισιέρη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nαπό τον κομισιέρη\n \nR        FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, επερπάτησε\n      DOm     RE         DOm      RE\nστης Σμύρνης τα σοκάκια, στης Σμύρνης τα σοκάκια\nRE        FAdim     RE   RE#   RE \nκι οι Τούρκοι, άντε, ενομίσανε\n      DOm     RE         DOm      RE\nπως είναι ραμαζάνια, πως είναι ραμαζάνια",
+      "tr": "I Elli\n\nVre, ni n'Éli, ánde, théli théli skótoma\nme díkopo machéri, me díkopo machéri\nyiat'áfise, ánde, ton ándra tis\nke píre komisiéri, ke píre komisiéri\n\nA vre, kakúrgha Éli\nfandáros de se théli\nyiatí íse filiméni\napó ton komisiéri\n\nVre, ni n'Éli, ánde, t'apefásise\nlevéndisa na zísi, levéndisa na zísi\nvre, ke de ti niázi, ánde, sto nduniá\nstus drómus ki as 'pomíni, stus drómus ki as 'pomíni\n\nÁman, amána, Éli\nre, kanénas de se théli\nyiatí íse filiméni\nsti ghámba tsimbiméni\n\nA vre, kakúrgha Éli\nfandáros de se théli\nparátises ton ándra su\nke píres komisiéri\n\nVre, ni n'Éli, ánde, théli záchari\nke rúsiko, vr'alévri, ke rúsiko, vr'alévri\nvre, na ftiáksi, ánde, ta ghlikísmata\nna pá' ston komisiéri, na pá' ston komisiéri\n\nA vre, kakúrgha Éli\nfandáros de se théli\nyiatí íse filiméni\napó ton komisiéri\n\nVre, ni n'Éli, ánde, eperpátise\nstis Smírnis ta sokákia, stis Smírnis ta sokákia\nki i Túrki, ánde, enomísane\npos íne ramazánia, pos íne ramazánia",
+      "ti": "Elli\n\nEhi, Elli, dai, merita, merita di essere uccisa\ncon un coltello a doppio taglio, con un coltello a doppio taglio\nperché ha lasciato, dai, suo marito\ne si è presa un commissario, e si è presa un commissario\n\nAh, ehi, cattiva Elli\nun soldato non ti vuole\nperché sei stata baciata\ndal commissario\n\nEhi, Elli, dai, ha deciso\ndi vivere da spavalda, di vivere da spavalda\nehi, e non le importa, dai, del mondo\nanche se resta per le strade, anche se resta per le strade\n\nAhimè, ahimè, Elli\nehi, nessuno ti vuole\nperché sei stata baciata\ne morsicata sul polpaccio\n\nAh, ehi, cattiva Elli\nun soldato non ti vuole\nhai abbandonato tuo marito\ne ti sei presa un commissario\n\nEhi, Elli, dai, vuole zucchero\ne farina russa, ehi farina\nehi, per fare, dai, i dolci\nda portare al commissario, da portare al commissario\n\nAh, ehi, cattiva Elli\nun soldato non ti vuole\nperché sei stata baciata\ndal commissario\n\nEhi, Elli, dai, ha camminato\nper i vicoli di Smirne, per i vicoli di Smirne\ne i turchi, dai, hanno pensato\nche fosse il Ramadan, che fosse il Ramadan\n\nNote:\n\nκομισιέρης — \"commissario\" (di polizia o autorità straniera/occupante), figura con cui Elli avrebbe una relazione, motivo dello scandalo cantato\nφαντάρος — soldato semplice (qui probabilmente greco), contrapposto al più potente/prestigioso \"commissario\" — il rifiuto dei soldati verso Elli sottolinea il suo essere \"compromessa\"\nλεβέντισσα — femminile di \"λεβέντης\" (giovane fiero e coraggioso), qui riferito a Elli che sceglie sfacciatamente il proprio stile di vita libero, sfidando il giudizio sociale\nl'ultima strofa, sul suo camminare per Smirne facendo credere ai turchi che fosse Ramadan, è un'iperbole scherzosa/ironica sulla sua fama, o forse un'allusione al suo essere \"digiuna\" d'amore/onore secondo la morale corrente — il canto, secondo le fonti storiche, nasce da uno scandalo reale della società di Smirne di fine '800 legato a una donna di nome Elli\nil brano appartiene al repertorio tradizionale dell'Asia Minore (Μικρασιάτικο), con lo schema tipico della canzone satirico-narrativa a più strofe con ritornello fisso di biasimo",
+      "no": "[[2026-08-19|Approfondimento Elli]]"
+    },
+    {
+      "id": "s_1787827758565",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-27",
+      "tgr": "Η Ελένη η ζωντοχήρα",
+      "tit": "I Eleni i zontochira",
+      "alias": "",
+      "at": "Γιοβάν Τσαούς",
+      "am": "Γιοβάν Τσαούς",
+      "yr": "1936",
+      "ar": "Αντώνης Καλυβόπουλος",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "ουσάκ",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=OUFkmV3CAcM&list=RDOUFkmV3CAcM&start_radio=1",
+      "li": "",
+      "ch": "REm\nΗ Ελένη η ζωντοχήρα, ντέρτι έχει η κακομοίρα\n                                 SOLm    REm\nΈνα γέρο άντρα έχει κι η καημένη δεν αντέχει\n\nREm\nΚάθε μέρα αναστενάζει κι απ' το στόμα φλόγες βγάζει\n                                DOm     REm\nΝέα είμαι, δεν ταιριάζει, γέρος να με αγκαλιάζει\n\nREm\nΕξεπόρτισε και λέει, τι να κάνω, κι όλο κλαίει\n                             DOm     SOLm\nΟ μπακάλης τη λυπάται, κάθε βράδυ τη θυμάται\n\nREm\nΚι ο μανάβης σαν περνάει, στέκει, την παρηγοράει\n                                     DOm     REm\nΈτσι το 'θελεν η μοίρα, Ελένη να 'σαι ζωντοχήρα\n\nREm\nΣαν τ' ακούει το μπαρμπεράκι και τρέχει με μεράκι\n                                SOLm    REm\nΈλα δω βρε Ελενάκι, να σου βγάλω το φαρμάκι\n\nREm\nΤο 'μαθε το χασαπάκι, τηνε στέλνει ένα αρνάκι\n                                   DOm     REm\nΨήσε το με το σπανάκι, γιατί θα 'ρθω το βραδάκι",
+      "tr": "I Eléni i zondochíra\n\nI Eléni i zondochíra, ndérti échi i kakomíra\nÉna yéro ándra échi ki i kaiméni den andéchi\n\nKáthe méra anastenázi ki ap'to stóma flóyes vgházi\nNéa íme, den teriázi, yéros na me anghaliázi\n\nEkseportíse ke léi, ti na káno, ki ólo kléi\nO bakális ti lipáte, káthe vrádi ti thimáte\n\nKi o manávis san pernái, stéki, tin parigorái\nÉtsi to 'thelen i míra, Eléni na 'se zondochíra\n\nSan t'akúi to barberáki ke tréchi me meráki\nÉla dó vre Elenáki, na su vgálo to farmáki\nTo 'mathe to chasapáki, tíne stélni éna arnáki\nPsíse to me to spanáki, yiatí tha 'rtho to vradáki",
+      "ti": "Elena la giovane vedova vivente\n\nElena la giovane vedova ha un cruccio, la poveretta\nha un marito vecchio e la povera non ce la fa\nogni giorno sospira, dalla bocca sputa fuoco\n«sono giovane, non sta bene che un vecchio mi abbracci»\nLo ha cacciato di casa e dice «cosa devo fare», e piange in continuazione\nil droghiere ha compassione di lei, ogni sera pensa a lei\n\nE il fruttivendolo, quando passa, si ferma, la consola\n«così ha voluto il destino, Eleni, di essere una giovane vedova»\nNon appena lo sente il barbierino, ecco che corre con passione\n«vieni qui, ehi Elenina, che ti tolga il veleno»\nLo viene a sapere il macellaino, le manda un agnellino\n«cucinalo con gli spinaci, perché verrò la seratina»\n\nNote:\n\nζωντοχήρα — \"vedova vivente\", cioè donna sposata a un uomo molto più anziano, quasi vedova ancora in vita per l'assenza di una vera vita coniugale/amorosa\nξεπόρτισε — lo ha cacciato/mandato fuori di casa (da \"ξεπορτίζω\")\nφαρμάκι — veleno, qui in senso figurato per \"l'amarezza/il dolore\" che il barbiere promette di \"spegnere/guarire\"\nil testo, con tono scherzoso e leggermente piccante, elenca in sequenza vari uomini del vicinato (droghiere, fruttivendolo, barbiere, macellaio) che tentano di consolare e corteggiare la giovane e trascurata Elena, gareggiando a chi le fa più regali e attenzioni",
+      "no": ""
+    },
+    {
+      "id": "s_1787826894584",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος, Γιάννης Παπαϊωάννου",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=GiY_yIP4DOc"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης, Βασίλης Τσιτσάνης",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=jtFaLFCUPS0&list=RDjtFaLFCUPS0&start_radio=1"
+        },
+        {
+          "who": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=jBp_1J3QBHY&list=RDjBp_1J3QBHY&start_radio=1"
+        }
+      ],
+      "date": "2026-08-27",
+      "tgr": "Η δροσούλα",
+      "tit": "I drosùla",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "σαμπάχ",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm\nΆνω κάτω χτες τα κάνανε\n              LA           REm\nστου Σιδέρη τον παλιό τεκέ\n\nSOL\nΠρωί-πρωί με τη δροσούλα\nSOL\nπάνω στη γλυκιά μαστούρα\nSOL              RE\nστήσανε καυγά δυο μάγκες\nSOL                 RE\nγια να κάνουν ματσαράγκες\n\nREm\nΤεκετζή μου, βάστα να σου πω\n            LA           REm\nσου μιλάει ο μάγκας με καημό\n\nSOL\nΤο χασίσι κι αν φουμάρω\nSOL\nεγώ κανέναν δεν πειράζω\nSOL                     RE\nΕίμαι μάγκας και αλάνης\nSOL                    RE\nμπήκα στον τεκέ χαρμάνης\n\nREm\nΜπήκα μόνος μέσα στον τεκέ\n        LA           REm\nνα φουμάρω ένα ναργιλέ\n\nSOL               RE\nΝα φουμάρω, να μπαφιάσω\nSOL               RE\nκαι τις πίκρες να ξεχάσω\nSOL                     RE\nΜες στην τόση μου σκοτούρα\nSOL                   RE\nβρίσκω γλέντι στη μαστούρα",
+      "tr": "I drosùla\n\nÁno káto chtes ta kánane\nstu Sidéri ton palió teké\nProí-proí me ti drosúla\npáno sti ghlikiá mastúra\nstísane kavghá dío mánges\ngia na kánun matsaránges\n\nTeketzí mu, vásta na su po\nsu milái o mángas me kaimó\nTo chasísi ki an fumáro\neghó kanénan den pirázo\nÍme mángas ke alánis\nbíka ston teké charmánis\n\nBíka mónos mésa ston teké\nna fumáro éna narghilé\nNa fumáro, na bafiáso\nke tis píkres na ksecháso\nMes stin tósi mu skotúra\nvrísko ghlénti sti mastúra",
+      "ti": "La rugiada\n\nSottosopra ieri hanno fatto tutto\nal vecchio tekè di Sideris\n\nDi primo mattino, con la rugiada\nsopra la dolce sballatura\ndue mangas hanno litigato\nper fare imbrogli/truffette\n\nGestore del tekè mio, aspetta che ti dica\nti parla il mangas con dolore\nse fumo hashish\nio non disturbo nessuno\nsono un mangas e un vagabondo\nsono entrato nel tekè in astinenza\n\nSono entrato solo dentro il tekè\nper fumare un narghilè\nper fumare, per sballarmi bene\ne dimenticare le amarezze\nin mezzo a tanta mia inquietudine\ntrovo festa nello sballo\n\nNote:\n\nΣιδέρης — nome proprio, riferito qui al gestore/proprietario di un noto tekè (locale per hashish) storico del Pireo o di Salonicco\nδροσούλα — diminutivo affettuoso di \"δροσιά\" (rugiada/freschezza), qui usato anche come titolo poetico del brano, riferito al fresco del primo mattino\nματσαράγκα — imbroglio, truffetta, raggiro (gergale)\nτεκετζής — gestore/proprietario di un tekè\nχαρμάνης — in stato di astinenza da hashish, con forte desiderio di fumare (gergale)\nμπαφιάζω — sballarsi profondamente fumando hashish (gergale, da \"μπαφιάζω\" = soffocare/saturarsi di fumo)\nσκοτούρα — pensiero fisso, affanno, preoccupazione assillante, già incontrato in altre canzoni",
+      "no": ""
+    },
+    {
+      "id": "s_1787825379045",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ελένη Ροδά",
+          "year": "1968",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=aj8eWTcvD2A&list=RDaj8eWTcvD2A&start_radio=1"
+        },
+        {
+          "who": "Δημήτρης Ευσταθίου",
+          "year": "1968",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=8kIOk9VgBb0&list=RD8kIOk9VgBb0&start_radio=1"
+        },
+        {
+          "who": "Δημήτρης Μητροπάνος",
+          "year": "2009",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=69qNqCAmrFo&list=RD69qNqCAmrFo&start_radio=1"
+        }
+      ],
+      "date": "2026-08-27",
+      "tgr": "Η δουλειά κάνει τους άντρες",
+      "tit": "I dulià kàni tous àntres",
+      "alias": "",
+      "at": "Λευτέρης Παπαδόπουλος",
+      "am": "Μάνος Λοΐζος",
+      "yr": "1968",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "MI            FA          MI\nΤο πλαστό το πασαπόρτι\nLAm                 MI\nσα και τη καρδιά σου μόρτη\nREm            LAm     FA          MI\nσα τη κάλπικη καρδιά σου τη σκληρή\n\nREm\nΜη βροντοχτυπάς τις χάντρες\nLAm\nη δουλειά κάνει τους άντρες\nREm         FA          REm     MI\nτο γιαπί, το πηλοφόρι, το μυστρί\nREm\nΜη βροντοχτυπάς τις χάντρες\nLAm\nη δουλειά κάνει τους άντρες\nREm         FA          REm     MI\nτο γιαπί, το πηλοφόρι, το μυστρί\n\nREm\nΡημαδιό, ζωή και σπίτι\nLAm\nαπ' τα χούγια σου αλήτη\nREm         FA          REm     MI\nπου μετράς το αντριλίκι με βρισιές\n\nREm\nΜη βροντοχτυπάς τα ζάρια\nLAm\nόσοι είναι παλικάρια\nREm         FA          REm     MI\nτη ζωή τους τη περνούν στις σκαλωσιές\nREm\nΜη βροντοχτυπάς τα ζάρια\nLAm\nόσοι είναι παλικάρια\nREm         FA          REm     MI\nτη ζωή τους τη περνούν στις σκαλωσιές",
+      "tr": "I dulià kàni tous àntres\n\nTo plastó to pasapórti\nsa ke ti kardiá su mórti\nsa ti kálpiki kardiá su ti sklirí\n\nMi vrondochtipás tis chándres\ni duliá káni tus ándres\nto yiapí, to pilofóri, to mistrí\nMi vrondochtipás tis chándres\ni duliá káni tus ándres\nto yiapí, to pilofóri, to mistrí\n\nRimadió, zoí ke spíti\nap'ta chúyia su alíti\npu metrás to andrilíki me vrisiés\n\nMi vrondochtipás ta zária\nósi íne palikária\nti zoí tus ti pernún stis skalosiés\nMi vrondochtipás ta zária\nósi íne palikária\nti zoí tus ti pernún stis skalosiés",
+      "ti": "Il lavoro fa gli uomini\n\nIl passaporto falso\ncome il tuo cuore, imbroglione\ncome il tuo cuore contraffatto e duro\n\nNon far sbattere rumorosamente i grani del komboloi\nil lavoro fa gli uomini\nl'impalcatura, il portacalce, la cazzuola\nnon far sbattere rumorosamente i grani\nil lavoro fa gli uomini\nl'impalcatura, il portacalce, la cazzuola\n\nRovina, vita e casa\ndalle tue abitudini da vagabondo\nche misuri la virilità a colpi di insulti\n\nNon far sbattere rumorosamente i dadi\nquelli che sono davvero uomini coraggiosi\npassano la vita sulle impalcature\nnon far sbattere rumorosamente i dadi\nquelli che sono davvero uomini coraggiosi\npassano la vita sulle impalcature\n\nNote:\n\nχάντρες — qui i grani del komboloi (il \"rosario\" greco senza funzione religiosa, usato per passare il tempo); \"βροντοχτυπάω τις χάντρες\" è gesto tipico dell'ozioso spaccone da caffè, contrapposto simbolicamente al vero lavoro manuale\nγιαπί — cantiere/impalcatura edile (turchismo)\nπηλοφόρι — contenitore per portare malta/calce in cantiere; per estensione, il manovale che la trasporta\nμυστρί — cazzuola, attrezzo del muratore\nμόρτης — furbo, imbroglione, mascalzone (gergale)\nρημαδιό — rovina, casa/vita in malora\nαντριλίκι — virilità, il \"fare l'uomo\" (spesso in senso ironico/critico verso una virilità vuota fatta solo di parole e spavalderia)\nil brano è una critica sociale pungente: contrappone l'uomo vero, che suda sulle impalcature dei cantieri, al fanfarone da caffè che gioca a dadi e fa tintinnare il komboloi senza mai lavorare davvero",
+      "no": "Uscita nel 1968, in pieno regime dei Colonnelli (la dittatura militare greca), la canzone fu inizialmente guardata con sospetto per via dell'orientamento politico di sinistra di Loïzos e per i riferimenti sociali. Tuttavia, la giunta militare finì per tollerarla (e persino promuoverla in radio), interpretandola erroneamente come una semplice celebrazione dell'etica del lavoro promossa dal regime per la ricostruzione nazionale."
+    },
     {
       "id": "s_1787822352832",
       "offsets": {},
@@ -5621,6 +5800,14 @@
   ],
   "args": [
     {
+      "id": "a_1787838315751",
+      "title": "Η Έλλη θέλει σκότωμα — la storia vera dietro la calunnia",
+      "tag": "storie di donne",
+      "date": "2026-08-19",
+      "body": "C'è una canzone smirneota conosciuta con due incipit diversi — \"Η Έλλη\" (o \"Έλλη Έλλη\") e \"Η Έλλη θέλει σκότωμα\" — che in realtà è la stessa: un unico canto su una melodia micrasiatica del XIX secolo, con varianti testuali diverse a seconda di chi la cantava e dove.\n\nIl testo racconta di una donna, Elli, che avrebbe abbandonato marito e figli per un funzionario turco (il \"κομισέρης\"). Una storia di disonore, raccontata con toni duri: \"Η Έλλη θέλει σκότωμα\" significa letteralmente \"Elli merita di essere uccisa\".\n\nMa dietro la canzone c'è una donna reale — Elli Perivola, nata Tenekidou, di Vourla, in Ionia — e sulla sua storia esistono oggi tre versioni tra loro incompatibili, ciascuna sostenuta con sicurezza da una fonte diversa.\n{{img:https://musicagreca.com/images/vurla2.jpg|centro}}\n{{img:https://musicagreca.com/images/vurla3.jpg|centro}}\n\nVersione 1 — la calunnia (la voce della famiglia)\n\nSecondo una lunga lettera scritta nel 2009 dalla nipote di Elli, Eleni Perivola-Pipini, e pubblicata su un giornale della comunità micrasiatica, Elli nacque intorno al 1886 a Vourla da una famiglia benestante di Smirne. Sposò, giovanissima — con un \"rapimento\" concordato per superare la differenza di classe — Giannis Perivolas, di una nota famiglia del posto; ebbero sei figli, cinque sopravvissuti.\n\nQuando il marito partì per il servizio militare, i cognati la maltrattarono e la defraudarono della sua parte di patrimonio, lasciando lei e i bambini nella fame. Elli li denunciò in tribunale — un atto scandaloso per l'epoca, una donna sola contro la famiglia del marito — e vinse: il giudice, turco, le diede ragione. Fu proprio questo, secondo la nipote, a scatenare la vendetta dei cognati: fecero circolare la voce che Elli avesse vinto la causa concedendosi al giudice. Il marito, tornato dal servizio e istigato dai fratelli, non le permise più di tornare a casa. La coppia si separò. Con la Catastrofe del 1922, Elli arrivò profuga al Pireo con i figli. Morì a Kokkinia nel 1969, cieca negli ultimi anni, portandosi dietro fino alla fine il peso di un'accusa che, secondo i suoi discendenti, non era mai stata vera.\n{{img:https://musicagreca.com/images/elligiornale.jpg|centro}}\n\nVersione 2 — il marito che abbandona\n\nUn'altra fonte, citata da un ricercatore di storia del rembetiko, sostiene l'esatto contrario: non fu Elli ad abbandonare la famiglia, ma il marito Giannis Perivolas ad abbandonare lei e i cinque figli.\n\nVersione 3 — la fuga con il comandante turco\n\nUna terza fonte, dedicata alla discografia storica del brano, racconta i fatti senza alcuna ambiguità: colloca la vicenda durante il blocco navale di Smirne (1915-1917) e afferma direttamente che Elli lasciò davvero la famiglia per il comandante turco della gendarmeria di Vourla. Aggiunge un dettaglio che nessun'altra fonte riporta: la famiglia di Elli avrebbe tentato di bloccare la circolazione della canzone — senza riuscirci.\n\nTre narrazioni opposte, un secolo dopo i fatti, ciascuna raccontata con piena sicurezza. È forse la prova più chiara di quanto sia impossibile, ormai, stabilire cosa sia realmente accaduto a Vourla agli inizi del '900 — e di quanto una canzone possa diventare più forte, e più duratura, della verità che pretende di raccontare.\n\nUn canto che si indurisce nel tempo\n\nConfrontando i testi delle diverse incisioni emerge un dettaglio interessante: il canto sembra essersi \"indurito\" con gli anni.\n\nLa versione più antica che conosciamo (Vidalis, 1919) ha un tono quasi malinconico: comincia descrivendo Elli come bella, con i capelli neri — \"Η Έλλη ήταν έμορφη, μαύρα 'ταν τα μαλλιά της\" — prima di arrivare all'accusa. Non contiene ancora la minaccia di morte che caratterizzerà le versioni successive.\n\nLe incisioni di metà anni '20 (Katsaros 1927, Vidalis-Semsis 1926) introducono invece il verso più duro: \"Η Έλλη θέλει σκότωμα με δίκοπο μαχαίρι\" — \"Elli merita di essere uccisa con un coltello a doppio taglio\". La versione oggi più diffusa attenua leggermente l'immagine, sostituendo il coltello con la ghigliottina (\"θέλει καραμανιόλα\"), ma mantiene la stessa violenza di fondo.\n\nQuesta stessa versione aggiunge un'accusa che le altre non hanno: non solo di aver lasciato il marito, ma di aver abbandonato \"tutti i suoi figli\" (\"και τα παιδιά της όλα\") — un'accusa che la testimonianza della nipote smentisce con forza, insistendo che Elli restò sempre vicina ai figli, fino alla propria morte.\n\nAnche il ritornello cambia da un'incisione all'altra — a volte è \"Γιάννης\" (il marito) a non volere più Elli, altre volte è genericamente un \"φαντάρος\" (soldato) — piccole variazioni che raccontano quanto il canto sia passato di bocca in bocca, adattandosi a chi lo cantava.\n\nUn solo dettaglio compare esclusivamente nella versione di Marika Papangika (1925): una scena quasi cinematografica ambientata il giorno di Natale — \"Ανήμερα Χριστούγεννα χτυπούσαν οι καμπάνες, οι χριστιανοί στις Εκκλησιές κι η Έλλη στους αγάδες\" (\"Il giorno di Natale suonavano le campane, i cristiani in chiesa ed Elli con gli agà\") — che nessun'altra incisione conserva.\n\nIl seguito della storia: il locale che divenne un pezzo di storia del rembetiko\n{{img:https://musicagreca.com/images/perivolas3.jpg|sinistra}}\n{{img:https://musicagreca.com/images/perivolas1.jpg|destra}}\nIl figlio maggiore di Elli, Kostas Perivolas (1903-1983), aprì nel 1927 a Kokkinia un locale che chiamò, non a caso, \"Ο Περιβόλας\". \n\n\nCon gli anni diventò uno dei centri più importanti della musica popolare greca del dopoguerra. Ci passarono, nel corso di oltre quarant'anni di attività (chiuse nel 1968), praticamente tutti i grandi nomi: Markos Vamvakaris, Vasilis Tsitsanis, Sotiria Bellou, Marika Ninou, Stelios Kazantzidis, Grigoris Bithikotsis, e molti altri.\n{{img:https://musicagreca.com/images/perivolask.jpg|destra}}\n\nUn altro figlio, Sotiris, ebbe una vita segnata dalla militanza politica di sinistra: anni di carcere, un esilio, una condanna a morte a cui scampò per un soffio nel 1948.\n\nQualunque sia la versione vera, resta il fatto che per un secolo una donna è stata giudicata da una canzone, non da chi l'ha conosciuta davvero.",
+      "link": ""
+    },
+    {
       "id": "a_1787672258612",
       "title": "Γιώργος Μπάτης e la nascita del rebetiko: un ritratto e il suo mondo",
       "tag": "storia di un altro brutto periodo",
@@ -9322,6 +9509,66 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/murkakos.jpg",
       "roles": [
         "at"
+      ]
+    },
+    {
+      "id": "p_1787824472729",
+      "name": "Ελένη Ροδά",
+      "nameit": "Eléni Rodá",
+      "born": "Larissa",
+      "died": "",
+      "bio": "Vero nome: Eleni Panagiotopoulou (Ελένη Παναγιωτοπούλου) — se si tratta della stessa persona dell'attrice\n\nEsistono riferimenti a una Eleni Roda attrice (nota per Trouba '67, 1967; I archóntissa tou limaniou, 1969; Provocation, 1971) e a una Eleni Roda cantante, che secondo una fonte online avrebbe inciso, proprio in Trouba '67, la primissima versione su 45 giri di un brano poi diventato celebre nell'interpretazione di Dimitris Efstathiou (nell'album O Stathmós di Manos Loizos, 1968).\n\nNon è confermato che si tratti della stessa persona — è un'ipotesi plausibile (stesso nome, presenza nello stesso film) ma non verificata con fonti solide.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/roda.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787825233366",
+      "name": "Δημήτρης Ευσταθίου",
+      "nameit": "Dimítris Efstathíou",
+      "born": "1 agosto 1923, Kolonós (Atene)",
+      "died": "11 agosto 1996",
+      "bio": "Detto anche \"Mítsos\" o \"Bachaviólos\")\n \n\nCantante, compositore, paroliere e virtuoso di buzuki del laïkó e del rembetiko, visse gran parte della vita nel quartiere di Dafni ad Atene. Iniziò il percorso nel canto negli anni '40, con il debutto discografico nel decennio successivo (dal 1950 in poi). Fu tra gli ultimi grandi esponenti della \"generazione\" di virtuosi/cantanti del rembetiko più recente (dal 1946 in avanti).\n\nCollaborò nel corso della carriera con numerosi artisti di primo piano, tra cui Vasilis Tsitsanis e Manos Loizos. Fu fratello di Spyros Efstathiou, anch'egli virtuoso di buzuki e cantante — insieme formarono una delle coppie di fratelli più note del genere, con Dimitris distintosi soprattutto come cantante/paroliere/compositore e Spyros più come solista dello strumento.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/efstathiu.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787838519166",
+      "name": "Αμαλία Βάκα",
+      "nameit": "Amalía Váka",
+      "born": "Ioannina — l'anno varia tra le fonti (1890 secondo alcune, 1897 secondo altre)",
+      "died": "Stati Uniti, 1979 o 1980 (le fonti divergono anche qui)",
+      "bio": "Νota anche come \"Αμαλία Χανίμ\" o \"Matsa\"\n\nVero nome: Mazaltov (Mally) Matsa\n\nCantante di origine ebraica romaniota di Ioannina, terza figlia di una famiglia povera della comunità ebraica della città. \nEmigrò negli Stati Uniti nel 1912. \nAll'inizio degli anni '20 si affermò come interprete nei caffè-amán di New York con il nome d'arte \"Amalia\". Cantava sia in greco che in turco, con un timbro molto personale, specializzandosi soprattutto in repertorio tradizionale.\n\nNello stesso periodo incise per la prima volta, insieme a M. G. Parkesian, sei canzoni turche. Nel 1924 sposò il greco Gus Bakas, e nel 1926 si convertì all'ortodossia greca. È tra le voci storiche del repertorio micrasiatico registrato in America, con incisioni che vanno dagli anni '20 fino al 1943.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vaka.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787839286131",
+      "name": "Κώστας Γκαντίνης",
+      "nameit": "Kóstas Gantínis",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Clarinettista greco-americano, attivo a New York tra gli anni '30 e '40, considerato uno dei musicisti più geniali della sua generazione nell'ambiente discografico greco d'America. Suonava con sei clarinetti diversi, spaziando dal repertorio dimotikó a quello smirneco fino alle canzoni cittadine dell'epoca, con una tecnica e un'eleganza fuori dal comune.\n\nFu soprannominato \"Tsarly o Makedonas\" (Charlie il Macedone) — nome con cui esigeva fosse presentato nelle incisioni — oppure \"il Benny Goodman della Grecia\", come lo pubblicizzavano le case discografiche, o ancora \"o Daskalos\" (il Maestro), come lo chiamavano i musicisti suoi contemporanei.\n\nTra le sue incisioni newyorkesi figura anche una versione strumentale del celebre \"Η Έλλη\" (1939).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/gadinis.jpg",
+      "roles": [
+        "ar",
+        "mu"
       ]
     }
   ]
