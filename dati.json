@@ -1,8 +1,119 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-27T15:43:33.781Z",
+  "exportedAt": "2026-08-28T05:52:21.196Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787896322316",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Σοφία Βέμπο",
+          "year": "1950",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=c4WCJdhhA78&list=RDc4WCJdhhA78&start_radio=1"
+        },
+        {
+          "who": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+          "year": "1950",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=zXOcoqLUdgw&list=RDzXOcoqLUdgw&start_radio=1"
+        },
+        {
+          "who": "Δάκης",
+          "year": "2021",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Pa2sCOdkJ7s&list=RDPa2sCOdkJ7s&start_radio=1"
+        }
+      ],
+      "date": "2026-08-28",
+      "tgr": "Η ταμπακιέρα",
+      "tit": "I tabakièra",
+      "alias": "",
+      "at": "Μίμης Τραϊφόρος, Γιώργος Γιαννακόπουλος",
+      "am": "Ιωσήφ Ριτσιάρδης",
+      "yr": "1950",
+      "ar": "",
+      "lb": "",
+      "gn": "archontorembétiko",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                                LA\nΤι μου την χάρισες αυτή την ταμπακέρα\nLA                          REm\nαφού για μένα πονηρά έχεις σκεφτεί\n\n                    RE                SOLm\nΚι αφού στο βάθος θέλεις να με κάνεις πέρα \n            LA                REm\nτι μου την χάρισες την ταμπακέρα \n                    RE                SOLm\nΚι αφού στο βάθος θέλεις να με κάνεις πέρα \n            LA                REm\nτι μου την χάρισες την ταμπακέρα \n\nREm                        LA\nΤην ταμπακέρα σου δεν έπρεπε να πάρω\nLA                          REm\nγιατί την βλέπω και βαθιά μελαγχολώ\n\n                RE         SOLm\nΜέχρι που σκέφτομαι να κόψω το τσιγάρο \n          LA                      REm\nγια να σε διώξω μια στιγμή απ' το μυαλό \n                RE         SOLm\nΜέχρι που σκέφτομαι να κόψω το τσιγάρο \n          LA                      REm\nγια να σε διώξω μια στιγμή απ' το μυαλό \n\nREm                                LA\nΠοτέ δεν μ' άφησες να δω μιαν άσπρη μέρα\nLA                          REm\nκαι σου γουστάρει πάντα να με τυραννάς\n\n                    RE            SOLm\nΚι ίσως μου χάρισες αυτή την ταμπακέρα \n                    LA            REm\nγια να μου γίνει και το κάπνισμα βραχνάς \n                    RE            SOLm\nΚι ίσως μου χάρισες αυτή την ταμπακέρα \n                    LA            REm\nγια να μου γίνει και το κάπνισμα βραχνάς",
+      "tr": "I tabakièra\n\nTi mu tin chárises aftí tin tabakéra\nafú gia ména ponirá échis skeftí\n\nKi afú sto váthos thélis na me kánis péra\nti mu tin chárises tin tabakéra\n\nTin tabakéra su den éprepe na páro\ngiatí tin vlépo ke vathiá melangholó\n\nMéchri pu skéftome na kópso to tsighάro\ngia na se dióxo mia stighmí ap'to mialó\n\nPoté den m'áfises na do mian áspri méra\nke su ghustári pánda na me tiranás\n\nKi ísos mu chárises aftí tin tabakéra\ngia na mu ghíni ke to kápnisma vrachnás",
+      "ti": "La rabacchiera (il portasigarette)\n\nPerché me l'hai regalata questa tabacchiera\nse hai pensato male di me\n\nE dato che nel profondo vuoi allontanarmi\nperché me l'hai regalata, la tabacchiera\n\nLa tua tabacchiera non avrei dovuto prenderla\nperché la guardo e mi rattristo profondamente\n\nAl punto che penso di smettere di fumare\nper scacciarti anche solo un istante dalla mente\n\nNon mi hai mai lasciato vedere un giorno sereno\ne ti piace sempre tormentarmi\n\nE forse me l'hai regalata questa tabacchiera\nperché anche il fumare diventasse per me un incubo\n\nNote:\n\nταμπακέρα — tabacchiera, portasigarette; oggetto-simbolo del brano, dono che diventa fonte di malinconia\nβραχνάς — incubo, tormento notturno (letteralmente \"chi soffoca nel sonno\"), qui usato in senso figurato per un tormento continuo\nil testo gioca sul contrasto tra il gesto apparentemente affettuoso del regalo e la sofferenza che esso provoca, diventando simbolo di un amore/rapporto doloroso e ambiguo",
+      "no": "La canzone fu composta appositamente per la grandiosa inaugurazione del neonato Teatro Vempo ad Atene, di proprietà della leggendaria cantante Sofia Vempo. Il brano faceva parte dello spettacolo di rivista teatrale intitolato \"Vira tis agkyres\" (Βίρα τις άγκυρες - Salpate le ancore), che debuttò il 18 giugno 1950.\nC'è anche un aneddoto delizioso sulla prima esecuzione: Vembo entrò in scena con un abito da sera nero aderente, con uno spacco (audace per l'epoca) sulla gamba sinistra, da cui si intravedeva la giarrettiera che reggeva una tabacchiera d'argento — il pubblico esplose in applausi, gridando \"όλο\" e \"μπις\" (bis), tanto che dovette ripetere la canzone quattro volte di seguito prima di poter lasciare il palco."
+    },
+    {
+      "id": "s_1787893864869",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-28",
+      "tgr": "Σεράχ",
+      "tit": "Serach",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1946",
+      "ar": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=ybAKgyDu2cs&list=RDybAKgyDu2cs&start_radio=1",
+      "li": "",
+      "ch": "LAm       SOL       FA          LAm\nΠίσω στα πυκνά τα καφάσια σαν τη δαιμονισμένη γυρνά\nREm          FA      MIm  DO          LAm\nΧρόνια το γλυκό παλικάρι περιμένει η Σεράχ κι αγρυπνά\n\nLAm\nΑστράφτει το σπαθί του καβαλάρη σαν τη φωτιά\nLAm\nΤα σίδερα λυγίζουν και σπαράζονται τα κορμιά\n                          LA#              FA\nΚαι αρπάζει τη Σεράχ, κι όλες λεν Αλλάχ-Αλλάχ\nDO      LAm  DO        LAm\nΕϊ γκιουλέ ολσούν, εϊ γκιουλέ ολσούν\n\nLAm       SOL       FA          LAm\nΚλαίνε στα χαρέμια οι σκλάβες, τρέμουν την οργή του πασά\nREm          FA      MIm  DO          LAm\nΚλαίνε στο σαράι οι αγάδες, που ποθούσαν της Σεράχ την ομορφιά\n\nLAm\nΑστράφτει το σπαθί του καβαλάρη σαν τη φωτιά\nLAm\nΤα σίδερα λυγίζουν και σπαράζονται τα κορμιά\n                          LA#              FA\nΚαι αρπάζει τη Σεράχ, κι όλες λεν Αλλάχ-Αλλάχ\nDO      LAm  DO        LAm\nΕϊ γκιουλέ ολσούν, εϊ γκιουλέ ολσούν",
+      "tr": "Seràch\n\nPíso sta pikná ta kafásia san ti daimonisméni ghirná\nChrόnia to ghlikό palikári periméni i Serách ki aghripná\n\nAstráfti to spathí tu kavalári san ti fotiá\nTa sídera liyízun ke sparázonde ta kormiá\nKe arpázi ti Serách, ki óles len Alách-Alách\nEi ghiulé olsún, ei ghiulé olsún\n\nKlέne sta charémia i sklάves, trémun tin orghí tu pasá\nKlέne sto saráï i aghádes, pu pothúsan tis Serách tin omorfiá\n\nAstráfti to spathí...",
+      "ti": "Serah\n\nDietro le fitte grate gira come un'indemoniata\nda anni il dolce giovane aspetta Serah e resta sveglio\n\nBrilla la spada del cavaliere come il fuoco\ni ferri si piegano e si dilaniano i corpi\ne afferra Serah, e tutte gridano \"Allah, Allah\"\n(esclamazione turca di giubilo, \"che sia benedetto/che porti bene\")\n\nPiangono negli harem le schiave, tremano per l'ira del pascià\npiangono nel serraglio gli agà, che desideravano la bellezza di Serah\n\nBrilla la spada...\n\nNote:\n\nκαφάσια — grate/inferriate di legno traforato, tipiche delle finestre degli harem ottomani, da cui le donne potevano guardare senza essere viste\nΕϊ γκιουλέ ολσούν — espressione turca (\"iyi olsun\", con storpiatura popolare) usata come esclamazione di augurio/giubilo, qui resa come \"che sia benedetto/che vada bene\"\nσαράι — serraglio, palazzo/harem del sovrano (dal turco \"saray\")\nαγάς — titolo ottomano di rango, già incontrato in altre canzoni",
+      "no": "Sebbene la canzone sia stata scritta nel 1946, la prima incisione è del 1951"
+    },
+    {
+      "id": "s_1787888507641",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-28",
+      "tgr": "Ηρωίνη και μαυράκι",
+      "tit": "Iroini kie mavraki",
+      "alias": "Προύσα",
+      "at": "Σωτήρης Γαβαλάς",
+      "am": "Σωτήρης Γαβαλάς",
+      "yr": "1936",
+      "ar": "Στελλάκης Περπινιάδης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=nJcoNM6KkSY&list=RDnJcoNM6KkSY&start_radio=1",
+      "li": "",
+      "ch": "LAm          MI      LAm                      LAm\nΝα ξεφύγω δε μπορούσα, καθώς γύριζ' απ' τη Προύσα\nREm         DOm      MI      LAm        MI       LAm\nΜε πρόδωσαν κάτι μπρά-άβοι και με πιάσαν στο καρά-άβι  \nREm         DOm      MI      LAm        MI       LAm\nΜε πρόδωσαν κάτι μπρά-άβοι και με πιάσαν στο καρά-άβι \n\nLAm         MI   LAm          \nΕίχα ράψει στο σακάκι\nREm     DOm   MI   LAm\nΔυο σακούλες με μαυράκι\nLAm                 MI   LAm                     \nΚαι στα κούφια μου τακού-ούνια \nREm      DOm   MI       LAm\nηρωίνη ως τα μπού-ούνια \nLAm                 MI   LAm                     \nΚαι στα κούφια μου τακού-ούνια \nREm      DOm   MI       LAm\nηρωίνη ως τα μπού-ούνια\n\nLAm     MI      LAm               \nΘα γεμίζαν οι λουλάδες\nREm    DOm    MI    LAm\nΚλάψτε τώρα ντερβισάδες\nLAm       MI      LAm                   \nΘα γινότανε γιαγκί-ίνι \nREm   DOm   MI    LAm\nμε μαυράκι κι ηρωί-ίνη \nLAm       MI      LAm                   \nΘα γινότανε γιαγκί-ίνι \nREm   DOm   MI    LAm\nμε μαυράκι κι ηρωί-ίνη \n\nLAm      MI      LAm             \nΕ ρε το 'χω κάνει τάμα\nREm    DOm    MI     LAm\nΘα μισέψω γι' άλλο πράμα\nLAm     MI            LAm                    \nΓεια σου Προύσα παινεμέ-ένη \nREm     DOm    MI      LAm\nκαι στον κόσμο ξακουσμέ-ένη \nLAm     MI            LAm                    \nΓεια σου Προύσα παινεμέ-ένη \nREm     DOm    MI      LAm\nκαι στον κόσμο ξακουσμέ-ένη",
+      "tr": "Na ksefígho den borúsa\nKathós ghíriz'ap'tin Prúsa\nMe pródosan káti brávi\nKe me piásan sto karávi\n\nÍcha rápsi sto sakáki\nDío sakúles me mavráki\nKe sta kúfia mu takúnia\niroíni os ta búnia\n\nTha ghemízan i luládes\nKlápsте tóra dervisádes\nTha ghinótane yiangíni\nme mavráki ki iroíni\n\nE re to 'cho káni táma\nTha misépso yi álo práma\nYiásu Prúsa penemέni\nke ston kósmo ksakusmέni",
+      "ti": "Eroina e hascisc nero\n\nNon ho potuto scappare\nmentre tornavo da Prusa\nmi hanno tradito certi teppisti\ne mi hanno preso sulla nave\n\nAvevo cucito nella giacca\ndue sacchetti di hashish\ne nel cavo dei miei tacchi\neroina fino in cima\n\nSi sarebbero riempiti gli involtini\npiangete ora, dervisci\nsarebbe scoppiato un putiferio\ncon hashish ed eroina\n\nAh, l'ho fatto come voto\npartirò per fare altro\naddio Prusa lodata\ne nel mondo famosa\n\nNote:\n\nΠρούσα (Prusa/Bursa) — città dell'Asia Minore, storica meta di traffici/contrabbando nell'immaginario del rebetiko\nμαυράκι — letteralmente \"nericcio\", eufemismo gergale per hashish\nλουλάς — pipa per oppio/hashish, già incontrato in altre canzoni; qui \"θα γεμίζαν οι λουλάδες\" indica l'abbondanza di droga che sarebbe stata disponibile per fumare\nγιαγκίνι — incendio/putiferio (turchismo gergale), usato qui in senso figurato per \"gran casino/scompiglio\"\nντερβισάδες — dervisci, qui riferiti scherzosamente ai frequentatori del tekè, delusi per la merce sequestrata\nτάμα — voto religioso/promessa solenne, qui usato ironicamente per il proposito di cambiare \"mestiere\" dopo l'arresto\nil brano racconta in prima persona il tentativo fallito di contrabbando di droga (hashish ed eroina) nascosta nei vestiti, con arresto alla dogana/nave — tema classico del rebetiko sulla vita ai margini della legge",
+      "no": "Gli esperti di rebetiko evidenziano come la struttura del testo sia in realtà una raccolta di strofe tradizionali itineranti (dette mourmourika). Gavalas unì diverse rime che circolavano oralmente nelle carceri e nei porti, tra cui il celebre elogio finale a Bursa (\"Geia sou Prousa painemeni...\"), presente anche in altre canzoni tradizionali dell'Asia Minore."
+    },
+    {
+      "id": "s_1787886372609",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-28",
+      "tgr": "Ήθελα να ‘μαι στο χωριό",
+      "tit": "Ithela na me sto choriò",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "Ελένη Λεγάκη",
+      "lb": "",
+      "gn": "dimotikò nisiòtiko",
+      "dr": "",
+      "bal": "Sirtòs",
+      "ll": "https://www.youtube.com/watch?v=aHZbTQ-7Ceo&list=RDaHZbTQ-7Ceo&start_radio=1",
+      "li": "",
+      "ch": "LAm         SOL      LAm\nΉθελα να 'μαι στο χωριό ένα βαρύ χειμώνα\n                    SOL         LAm\nΜε μια αγάπη μου παλιά που τη θυμάμαι ακόμα\nLAm         SOL      LAm\nΌταν θυμάμαι το χωριό κλαίει η καρδιά μου πάντα\n                    SOL         LAm\nο νους μου γίνεται θεριό, Χριστέ μου και μα γιάντα\n\nLAm         SOL      LAm\nΉθελα να 'μαι στο χωριό με κρύο και με χιόνια\n                    SOL         LAm\nστο σπίτι μου το πατρικό που 'χω να πάω χρόνια\nLAm         SOL      LAm\nΝα ψήνω τη ρακόμελη όταν θα πέφτει χιόνι\n                    SOL         LAm\nνα πίνω και να τραγουδώ μαζί με τσοι γειτόνοι\n\nLAm         SOL      LAm\nΘα πάρω την απόφαση και στο χωριό θα ζήσω\n                    SOL         LAm\nπου 'ναι η ζωή απόλαυση την κόλαση ν' αφήσω\nLAm         SOL      LAm\nΝα ξαναζήσω τα παλιά και όλα τα περασμένα\n                    SOL         LAm\nστα χρόνια μου τα παιδικά ίντα 'χω καμωμένα\n\nLAm         SOL      LAm\nΉθελα να με στο χωριό ένα βαρύ χειμώνα\n                    SOL         LAm\nμε μια αγάπη μου παλιά που τη θυμάμαι ακόμα\nLAm         SOL      LAm\nΝα ξαναζήσω τα παλιά και όλα τα περασμένα\n                    SOL         LAm\nστα χρόνια μου τα παιδικά ίντα 'χω καμωμένα",
+      "tr": "Ithela na me sto choriò\n\nÍthela na 'me sto choriό éna varí chimόna\nMe mia aghápi mu paliá pu ti thimáme akóma\nÓtan thimáme to choriό kléi i kardiá mu pánda\no nus mu ghínete theriό, Christé mu ke ma yiánda\n\nÍthela na 'me sto choriό me krío ke me chiónia\nsto spíti mu to patrikό pu 'cho na páo chrónia\nNa psíno ti rakómeli ótan tha péfti chióni\nna píno ke na traghudó mazí me tsi ghitóni\n\nTha páro tin apófasi ke sto choriό tha zíso\npu 'ne i zoí apólafsi tin kólasi n'afíso\nNa ksanazíso ta paliá ke óla ta perasména\nsta chrónia mu ta pediká índa 'cho kamoména\n\nÍthela na me sto choriό éna varí chimόna\nme mia aghápi mu paliá pu ti thimáme akóma\nNa ksanazíso ta paliá ke óla ta perasména\nsta chrónia mu ta pediká índa 'cho kamoména",
+      "ti": "Vorrei essere al paese\n\nVorrei essere al villaggio in un inverno pesante\ncon un mio vecchio amore che ricordo ancora\nquando penso al villaggio piange sempre il mio cuore\nla mia mente diventa una belva, Cristo mio, che pena\n\nVorrei essere al villaggio col freddo e con la neve\nnella mia casa paterna dove non vado da anni\na preparare il rakomelo quando cade la neve\na bere e cantare insieme ai vicini\n\nPrenderò la decisione e andrò a vivere al villaggio\ndove la vita è godimento, per lasciare l'inferno\nper rivivere le cose vecchie e tutto il passato\nnegli anni della mia infanzia, cosa ho combinato\n\nVorrei essere al villaggio in un inverno pesante\ncon un mio vecchio amore che ricordo ancora\nper rivivere le cose vecchie e tutto il passato\nnegli anni della mia infanzia, cosa ho combinato\n\nNote:\n\nρακόμελο — bevanda tradizionale cretese, raki mescolata con miele e spezie, tipicamente scaldata e bevuta d'inverno\nίντα — forma dialettale cretese per \"τι\" (cosa); il testo presenta diversi tratti dialettali cretesi (es. \"τσοι γειτόνοι\" invece di \"τους γειτόνους\")\nγιάντα — anche questa forma dialettale cretese, equivalente a \"γιατί\" (perché)",
+      "no": ""
+    },
     {
       "id": "s_1787840492047",
       "offsets": {},
@@ -9563,6 +9674,94 @@
       "roles": [
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1787886341993",
+      "name": "Ελένη Λεγάκη",
+      "nameit": "Eléni Legáki",
+      "born": "1956, Atene",
+      "died": "",
+      "bio": "Cresciuta ad Agios Ioannis Rentis\n\nUna delle interpreti più note del canto nisiótiko (delle isole) greco contemporaneo. Figlia della celebre Eirini Konitopoulou-Legaki e quindi appartenente alla grande famiglia dei Konitopoulos di Naxos, un'intera dinastia di musicisti. Mostrò talento fin da piccolissima: a nove anni si esibì per la prima volta in pubblico con \"Να σ' αγαπώ ήντα 'θελα\", ricevendo il primo applauso della sua carriera.\n\nHa portato avanti l'eredità musicale materna, diventando lei stessa una delle voci di riferimento del repertorio delle isole dell'Egeo, esibendosi ancora oggi in feste e panigyria in tutta la Grecia (Andros, Nasso, Paros, Karpathos, Evia e altrove).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/legaki.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787888307826",
+      "name": "Σωτήρης Γαβαλάς",
+      "nameit": "Sotíris Gavalás",
+      "born": "1880(?)",
+      "died": "1965 (?), Atene (?)",
+      "bio": "Detto: \"Μεμέτης\" — Memétis\n\nCompositore con una piccola ma preziosa produzione discografica di 15 brani, tutti di particolare interesse lirico e musicale. Nonostante l'importanza, non esiste ancora oggi una raccolta organica della sua opera.\n\nDai pochi indizi biografici che si conoscono — tramandati soprattutto dai racconti di Angela Papazoglou — arrivò in Grecia dopo il 1922 (con ogni probabilità come rifugiato dall'Asia Minore) e si stabilì a Nikaia. Nel 1950 si trasferì a Agios Artemios (Gouva), dove visse fino alla fine della vita.\n\nLa sua prima apparizione in discografia come compositore — e l'unica come cantante — risale probabilmente al 1932, quando incise per l'etichetta americana Victor i brani \"Απ' του Μεμέτη το νερό\" e \"Στου Μπεζεστένη την αυλή\". Le altre sue composizioni furono registrate nel periodo 1932-1937, interpretate dalle grandi voci dell'epoca tra le due guerre.\n\nDopo la guerra non tornò più in discografia, e fino alla morte, avvenuta a metà degli anni '60, non ci sono testimonianze di ulteriore attività musicale.\n\nUna delle poche testimonianze dirette su di lui viene dal grande cantante Kostas Roukounas, che raccontò come proprio Gavalàs gli avesse insegnato, nel 1929, il celebre brano \"Δυο γυφτοπούλες στο βουνό\" — descrivendolo come \"un grande rebetis\" che a quell'epoca aveva già circa 65 anni. Esiste anche una fotografia storica, scattata al Pireo intorno al 1935, che lo ritrae insieme al paroliere Nikos Mathesis \"Trelakias\" e a un terzo uomo non identificato.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/gavalas.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787894591947",
+      "name": "Σοφία Βέμπο",
+      "nameit": "Sofía Vémpo",
+      "born": "10 febbraio 1910, Gallipoli (Tracia Orientale, Impero Ottomano)",
+      "died": "11 marzo 1978, Atene",
+      "bio": "Vero nome: Sofia Bempou (Σοφία Μπέμπου) — cambiò legalmente cognome in \"Vembo\" perché era così che il pubblico si era abituato a pronunciarlo\n\nDopo la Catastrofe dell'Asia Minore, la famiglia si stabilì a Tsaritsani (Larissa) e poi a Volos, dove i genitori lavoravano come operai del tabacco. Iniziò quasi per caso: nell'autunno del 1933, in visita al fratello Tzortzis a Salonicco, si mise a cantare durante il viaggio in nave sulla Kefallinia, come passeggera.\n\nNel 1934 la troviamo alla celebre \"Mandra\" di Attik come poetessa/presentatrice; nel 1936 all'Oasis; nel 1939-40 come voce di collegamento al teatro Mondial.\n\nLa nascita del mito della \"Cantante della Vittoria\": nel 1938 aveva interpretato per prima \"Ζεχρά\" (testo di Emilios Savvidis, musica di Michalis Sougioul). Con lo scoppio della guerra il 28 ottobre 1940, il paroliere Mimis Traiforos riscrisse il testo su quella stessa melodia, trasformandola in \"Παιδιά της Ελλάδος παιδιά\" — brano scritto letteralmente durante un intervallo dello spettacolo. Quella sera stessa fu un trionfo, e nacque il mito.\n\nTutte le riviste teatrali riadattarono i propri repertori con testi patriottici. Vembo divenne la voce nazionale che incoraggiava i soldati greci al fronte, commuovendo l'intero paese — al punto da donare personalmente 2.000 sterline d'oro alla Marina greca. Con l'ingresso delle truppe naziste ad Atene, fu fatta fuggire travestita da suora verso il Medio Oriente, dove continuò a cantare per i soldati.\n\nEbbe anche carriera cinematografica (\"Προσφυγοπούλα\", 1938; \"Στέλλα\", 1955) e teatrale, proseguita fino a metà anni '60, con un ritiro definitivo nei primi anni '70.\n\nSua celebre frase, spesso citata: \"In quella guerra tutti diedero la vita. Io cosa ho dato? La mia voce.\"",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vembo.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787894932801",
+      "name": "Ιωσήφ Ριτσιάρδης",
+      "nameit": "Iosíf Ritsiárdis",
+      "born": "3 giugno 1896, Corfù",
+      "died": "18 settembre 1979, Atene",
+      "bio": "Compositore e pianista, tra le figure di spicco della canzone leggera (elafró tragoúdi) e dell'operetta greca — e uno dei principali esponenti dell'archontorembétiko. A 6 anni ricevette le prime lezioni di pianoforte e armonia da Alex Grek a Corfù. Nel 1912 si trasferì a Kiev per proseguire gli studi, poi a Monaco di Baviera, dove li perfezionò con studi teorici superiori e direzione d'orchestra.\n\nDebuttò a Volos con un piccolo teatro d'opera italiano. Dopo la guerra balcanica lavorò con lo stesso teatro a Smirne e Costantinopoli, poi in Russia, e successivamente con un teatro tedesco a Monaco, dove fu anche assistente del direttore d'orchestra in un teatro d'operetta.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ritsiadis.jpg",
+      "roles": [
+        "am",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787895088065",
+      "name": "Μίμης Τραϊφόρος",
+      "nameit": "Mímis Traïfóros",
+      "born": "e fonti divergono tra il 16 ottobre 1913 (Wikipedia) e il 18 maggio 1912 (altre fonti), Pireo",
+      "died": "28 marzo 1998, Atene",
+      "bio": "Paroliere di canzoni leggere, autore teatrale, poeta e attore. Fin da giovane si dedicò al teatro, alla scrittura, alla regia e alla poesia. Si diplomò attore alla Scuola Drammatica del Teatro Reale, frequentando allo stesso tempo la Facoltà di Giurisprudenza dell'Università di Atene.\n\nNel 1934 arrivò alla celebre \"Mandra\" di Attik come poeta e presentatore (\"konferansié\"), e due anni dopo, nel 1936, all'Oasis. Nel 1939-40 fu voce di collegamento al teatro Mondial. Fu proprio lì, nel 1940, che scrisse per Sofia Vembo — sua compagna e poi moglie — il celebre \"Παιδιά της Ελλάδος παιδιά\", riadattando il testo sulla melodia di \"Ζεχρά\". Durante la guerra scrisse oltre quaranta riviste teatrali per la compagnia di Vembo.\n\nNel corso della carriera scrisse oltre 350 riviste teatrali e 10 opere in prosa, tra cui \"Όταν γυρίζουν τα χελιδόνια\", \"Ο 13ος Θεός\", \"Ο ουρανοκατέβατος\". Firmò anche i testi dell'inno ufficiale del PAOK (squadra di calcio di Salonicco).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/traiforos.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1787896291349",
+      "name": "Δάκης",
+      "nameit": "Dákis",
+      "born": "26 agosto 1943, Alessandria d'Egitto",
+      "died": "29 maggio 2022, Atene",
+      "bio": "Vero nome: Vrasidas Charalampidis (Βρασίδας Χαραλαμπίδης) — \"Dakis\" era il vezzeggiativo di famiglia, poi adottato come nome d'arte\n\nUno degli interpreti più popolari del panorama pop ed elafró tragoúdi greco negli anni '60 e '70. Fu scoperto ad Alessandria dalla coppia di musica leggera Takis Morakis e Nadia Konstantopoulou. Arrivò in Grecia nel 1963 e, circa un anno dopo, iniziò a cantare nei locali di intrattenimento.\n\nNel 1964 incise il suo primo disco in inglese, \"Deep in the Heart of Athens\", seguito da brani in francese, italiano e inglese che ottennero subito grande successo — tra questi \"Monsieur Cannibal\", \"Tu veux ou tu veux pas\", \"Mourir ou vivre\", \"Gaston\". Rappresentò la Grecia in festival internazionali della canzone, ottenendo premi e riconoscimenti. Dal 1967 fu stabilmente tra le voci di punta della musica greca.\n\nTra i suoi maggiori successi in greco: \"Τόσα καλοκαίρια\" e \"Εκείνο το πρωί στην Κηφισιά\". La sua discografia conta 39 tra LP e CD e 19 singoli/45 giri. L'ultimo lavoro discografico fu il CD \"Moments\" (Minos, 2008) di Mimis Plessas, in cui cantò in 7 lingue diverse.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/dakis.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
