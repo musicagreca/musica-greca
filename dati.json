@@ -1,8 +1,187 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-28T05:52:21.196Z",
+  "exportedAt": "2026-08-28T16:06:18.071Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787933166393",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-28",
+      "tgr": "Ο καϊξής",
+      "tit": "O Kaïksís",
+      "alias": "",
+      "at": "Γιώργος Φωτίδας",
+      "am": "Απόστολος Χατζηχρήστος",
+      "yr": "1948",
+      "ar": "Απόστολος Χατζηχρήστος, Ευάγγελος Χατζηχρήστος, Μάρκος Βαμβακάρης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "Minore Armonico",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm            DO      REm\nΓκελ, γκελ, καϊξή, γιαβάς, γιαβάς\nLA#            FA      SOLm    REm     SOLm\nΜες στης πόλης τ' ακρογιάλι, μες στη σιγαλιά\nLA#            FA      SOLm    REm\nΜες στου χαρεμιού τη λίμνη\nREm            DO      REm\nΓκελ, γκελ, καϊξή\n\nREm            DO      REm\nΝα κλέψω την Γκιουζέλ-Χανούμ\nLA#            FA      SOLm    REm     SOLm\nΣκλάβα μέσα στο κελί της κλαίει και θρηνεί\nLA#            FA      SOLm    REm\nΚαι ζητάει τη λευτεριά της\nREm            DO      REm\nΓκελ, γκελ, καϊξή",
+      "tr": "O Kaïksís\n\nGkel, gkel, kaïksí, yiavás, yiavás\nMes stis pόlis t'akroyáli, mes sti sighaliá\nMes stu charemiú ti límni\nGkel, gkel, kaïksí\n\nNa klépso tin Gkiuzél-Chanúm\nSklάva mésa sto kelí tis kléi ke thriní\nKe zitái ti lefteriá tis\nGkel, gkel, kaïksí",
+      "ti": "Il barcaiolo \n\nVieni, vieni, barcaiolo, piano piano\nlungo la riva della Città, nella quiete\ndentro il lago dell'harem\nvieni, vieni, barcaiolo\n\nPer rapire la bella Ghiuzel-Hanum\nschiava, dentro la sua cella piange e si lamenta\ne chiede la sua libertà\nvieni, vieni, barcaiolo\n\nNote:\n\nκαϊξής — barcaiolo, conducente di piccola imbarcazione (dal turco \"kayıkçı\")\nγιαβάς-γιαβάς — \"piano piano\" (dal turco \"yavaş yavaş\"), già incontrato in \"Γκιουλμπαχάρ\"\nη Πόλη — Costantinopoli, già incontrato in altre canzoni\nΓκιουζέλ-Χανούμ — nome composto: \"γκιουζέλ\" (bella, dal turco \"güzel\") + \"χανούμ\" (signora/donna turca, già incontrato)\nil brano appartiene al filone \"ανατολίτικα\" (orientaleggiante), con l'immaginario tipico di harem, schiave prigioniere e rapimenti romantici via acqua, già visto in canzoni come \"Η Σεράχ\" e \"Γκιουλμπαχάρ\"",
+      "no": "Il brano abbonda di parole turche entrate nel gergo greco (Gkel, gkel = vieni, vieni; Giavas = piano; Chanum = signora/donna d'oriente). Questa commistione linguistica non era solo un omaggio al passato, ma un modo per aggirare l'occhio vigile della censura post-bellica: mentre le canzoni sui locali clandestini (tekedes) venivano severamente vietate, i brani romantici e d'evasione ambientati in un Oriente da Mille e una notte passavano senza problemi."
+    },
+    {
+      "id": "s_1787911744189",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργος Κονιτόπουλος",
+          "year": "1975",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Q78nrTga5ws&list=RDQ78nrTga5ws&start_radio=1"
+        },
+        {
+          "who": "Γιάννης Πάριος",
+          "year": "1982",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Roltz_Q_lQ4&list=RDRoltz_Q_lQ4&start_radio=1"
+        }
+      ],
+      "date": "2026-08-28",
+      "tgr": "Η αγάπη μου στην Ικαριά",
+      "tit": "I agapi mou stin Ikaria",
+      "alias": "Ικαριώτικος",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò nisiòtiko",
+      "dr": "",
+      "bal": "Ikariotikos",
+      "ll": "",
+      "li": "",
+      "ch": "LAm             SOL         DO\nΧρόνια και χρόνια τώρα τριγυρνώ\nDO         SOLm        LAm\nσαν πουλί περιπλανώμενο\nLAm\nΜες στην ξενιτιά, μες στη μοναξιά\nLAm         SOL         LAm\nπου δεν την αντέχω άλλο πια\nLAm\nγιατί νοσταλγώ, γιατί λαχταρώ\nSOLm             LAm\nτην αγάπη μου και το χωριό\n\nLAm             SOL         DO\nΚαι η αγάπη μου στην Ικαριά\nDO         SOLm        LAm\nέχει μαύρο πόνο στην καρδιά\nLAm\nΔίχως συντροφιά, δίχως αγκαλιά\nLAm         SOL         LAm\nδίχως τα γλυκά μου τα φιλιά\nLAm\nΚι αφού με πονά κι αφού μ' αγαπά\nSOLm             LAm\nείναι κρίμα να 'ναι μοναχιά\n\nLAm             SOL         DO\nθα πάρω θέλω την απόφαση\nDO         SOLm        LAm\nκαι θα πάω στ' όμορφο νησί\nLAm\nθέλω να τής πω πως την αγαπώ\nLAm         SOL         LAm\nκαι μια μέρα θα την παντρευτώ\nLAm\nΜες στην Ικαριά μια γλυκιά βραδιά\nSOLm             LAm\nθα το κάψουμε με τα βιολιά\n\nLAm             SOL         DO\nΚαι θα χορέψουμε μαζί κι οι δυο\nDO         SOLm        LAm\nτο σκοπό τον ικαριώτικο\nLAm\nθα γλεντήσουμε, θα μεθύσουμε\nLAm         SOL         LAm\nτους καημούς θα λησμονήσουμε\nLAm\nμες στην Ικαριά και σαν τα πουλιά\nSOLm             LAm\nθα 'χουμε κι οι δυο ζεστή φωλιά",
+      "tr": "I agapi mou stin Ikaria\n\nChrόnia ke chrόnia tόra trighirnό\nsan pulí periplanόmeno\nMes stin ksenitiá, mes sti monaksiá\npu den tin andécho álo pia\nyiatí nostalghό, yiatí lachtarό\ntin aghápi mu ke to choriό\n\nKe i aghápi mu stin Ikariá\néchi mávro pόno stin kardiá\nDíchos sindrofiá, díchos anghaliá\ndíchos ta ghliká mu ta filiá\nKi afú me poná ki afú m'aghapá\níne kríma na 'ne monachiá\n\nTha páro thélo tin apόfasi\nke tha páo st'ómorfo nisí\nthélo na tis po pos tin aghapό\nke mia méra tha tin pandreftό\nMes stin Ikariá mia ghlikiá vradiá\ntha to κápsume me ta violiá\n\nKe tha chorέpsume mazí ki i dío\nto skopό ton ikariόtiko\ntha ghlendísume, tha methísume\ntus kaimús tha lismonísume\nmes stin Ikariá ke san ta pulyά\ntha 'chume ki i dío zestí foliá",
+      "ti": "Il mio amore a Ikaria\n\nDa anni ormai vago\ncome un uccello errante\nin terra straniera, nella solitudine\nche non sopporto più\nperché ho nostalgia, perché desidero ardentemente\nil mio amore e il mio villaggio\n\nE il mio amore a Ikaria\nha un dolore nero nel cuore\nsenza compagnia, senza abbraccio\nsenza i miei dolci baci\ne anche se mi fa soffrire e anche se mi ama\nè un peccato che sia sola\n\nVoglio prendere la decisione\ne andare sulla bella isola\nvoglio dirle che la amo\ne un giorno la sposerò\na Ikaria, una dolce sera\nla faremo bruciare con i violini (di festa)\n\nE balleremo insieme entrambi\nil motivo ikariotico\nfaremo festa, ci ubriacheremo\ndimenticheremo le pene\na Ikaria, e come gli uccelli\navremo entrambi un caldo nido\n\nNote:\n\nΙκαριώτικος — danza/ritmo tradizionale tipico dell'isola di Ikaria, una delle danze popolari greche più energiche e famose, ballata in cerchio a ritmo veloce\nθα το κάψουμε με τα βιολιά — idiomatico: \"lo bruceremo coi violini\", cioè faremo una festa sfrenata fino a tarda notte con musica dal vivo\nξενιτιά — la vita/terra straniera, tema ricorrente di nostalgia per la patria e gli affetti lontani, già incontrato in altre canzoni",
+      "no": ""
+    },
+    {
+      "id": "s_1787911152455",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "ignoto, Γιώργος Μπάτης",
+          "year": "",
+          "note": "IT Accedi How Dry I Am",
+          "link": "https://www.youtube.com/watch?v=S91FFscVm80&list=RDS91FFscVm80&start_radio=1"
+        },
+        {
+          "who": "Γιώργος Μπάτης",
+          "year": "1935",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=0We8Y7kOIiw&list=RD0We8Y7kOIiw&start_radio=1"
+        },
+        {
+          "who": "Γιάννης Παπαϊωάννου, Σωτηρία Μπέλλου, Στελλάκης Περπινιάδης",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=53BOSi1sqmE&list=RD53BOSi1sqmE&start_radio=1"
+        }
+      ],
+      "date": "2026-08-28",
+      "tgr": "Ο μπουφετζής",
+      "tit": "O Bufetzìs",
+      "alias": "Θέλω να γίνω μπουφετζής",
+      "at": "Γιώργος Μπάτης",
+      "am": "tradizionale",
+      "yr": "1935",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "σαμπάχ",
+      "bal": "Chasaposèrvikos",
+      "ll": "",
+      "li": "",
+      "ch": "RE                           LA          RE\nΘέλω να γίνω μπουφετζής σε τούρκικους μπουφέδες\nRE                           LA          RE\nΝα 'ρχονται οι χανούμισσες με δίχως φερετζέδες\n\nRE                           LA          RE\nΠήγα και 'γω κάποια βραδιά και μπήκα στα μεράκια\nRE                           LA          RE\nΓνώρισα τρεις χανούμισσες, τρία σωστά κουκλάκια\n\nRE                           LA          RE\nΜπουκάρω μέσα στον τεκέ, βλέπω τρία μεράκια\nRE                           LA          RE\nΤρεις κοπελίτσες πεταχτές να πίνουν τσιγαράκια\n\nRE                           LA          RE\nΗ μια ρουφά τον αργιλέ κι η άλλη το τσιμπούκι\nRE                           LA          RE\nκι η τρίτη η μικρότερη τρελή στο μαστουρλούκι\n\nRE                           LA          RE\nΗ μια παίζει τον μπαγλαμά κι η άλλη το μπουζούκι\nRE                           LA          RE\nκι η τρίτη η μικρότερη γυρεύει να φουμάρει",
+      "tr": "O Bufetzìs\n\nThélo na ghíno bufetzí̱ se túrkikus bufédes\nNa 'rchonde i chanúmises me díchos feretzédes\n\nPígha ki gho kápia vradiá ke bíka sta merákia\nGhnórisa tris chanúmises, tría sostά kuklákia\n\nBukáro mésa ston teké, vlépo tría meráкia\nTris kopelítses petachtés na pínun tsighαráкia\n\nI mia rufá ton arghilé ki i áli to tsibúki\nki i tríti i mikróteri trelí sto masturlúki\n\nI mia pézi ton baghlamά ki i áli to buzúki\nki i tríti i mikróteri ghirévi na fumári",
+      "ti": "Il Bufetzìs\n\nVoglio diventare gestore di locale in caffè turchi\nperché vengano le donne turche senza il velo\n\nCi sono andato anch'io una sera ed entrai colto dalla voglia\nconobbi tre donne turche, tre vere bamboline\n\nFaccio irruzione dentro il tekè, vedo tre belle voglie\ntre ragazzine vivaci che fumano sigarette\n\nUna tira il narghilè e l'altra la pipa\ne la terza, la più piccola, impazzita nello sballo\n\nUna suona il baglamàs e l'altra il bouzouki\ne la terza, la più piccola, cerca di fumare\n\nNote:\n\nμπουφετζής — gestore/barista di un caffè-bar (μπουφές)\nχανούμισσα — donna turca, spesso con connotazione di harem/donna musulmana (dal turco \"hanım\")\nφερετζές — velo tradizionale islamico che copre volto e corpo (dal turco \"ferace\")\nμεράκι qui usato al plurale in senso concreto e scherzoso per \"belle ragazze/belle voglie da soddisfare\", oltre al significato più comune di \"passione/voglia\"\nμαστουρλούκι — stato di intontimento/sballo estremo (gergale, rafforzativo di \"μαστούρα\")",
+      "no": "La canzone viene pubblicata in Grecia nella versione di testo di Batis \nΘέλω να γίνω μπουφετζής σε τούρκικους ντεκέδες,Να 'ρχουνται οι χανούμισσες νά πίνουν αργιλέδες..\n(Voglio diventare un banconista nei tekedes turchi, così che vengano le donne ottomane a fumare il narghilè...)\nQuando viene riproposta nel 1948 da Papaioannou il testo è stato depurato:\nΘέλω να γίνω μπουφετζής σε τούρκικους μπουφέδες,να 'ρχουνται οι χανούμισσες με δίχως φερετζέδες...\n(Voglio diventare un banconista nei buffet turchi, così che vengano le donne ottomane senza il velo...)\nPubblichiamo le due versioni e quella di confronto tra l'originale americana, a sua volta derivata da un gospel e quella di Batis"
+    },
+    {
+      "id": "s_1787899078339",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στράτος Παγιουμτζής, Βασίλης Τσιτσάνης",
+          "year": "1940",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Ll4nrDbQ7S4&list=RDLl4nrDbQ7S4&start_radio=1"
+        },
+        {
+          "who": "Φλέρυ Νταντωνάκη",
+          "year": "1970",
+          "note": "Μάνος Χατζιδάκις al pianoforte",
+          "link": "https://www.youtube.com/watch?v=jfv3i0Q7sU8&list=RDjfv3i0Q7sU8&start_radio=1"
+        },
+        {
+          "who": "Καίτη Γκρέυ, Βασίλης Τσιτσάνη, Αντώνης Ρεπάνης",
+          "year": "1960",
+          "note": "Chiotis al bouzouki e Tsitsanis al baglamas",
+          "link": "https://www.youtube.com/watch?v=_okCYlhAmz4&list=RD_okCYlhAmz4&start_radio=1"
+        }
+      ],
+      "date": "2026-08-28",
+      "tgr": "Η μάγισσα της Αραπιάς",
+      "tit": "I Màghissa tis Arapiàs",
+      "alias": "Θα πάω εκεί στην Αραπιά",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1940",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                          SOLm         LA\nΘα πάω εκεί στην Αραπιά γιατί μ' έχουν μιλήσει\nREm                   SOLm         LA          REm\nγια μια μεγάλη μάγισσα, τα μάγια να μου λύσει\nREm                   SOLm         LA          REm\nγια μια μεγάλη μάγισσα, τα μάγια να μου λύσει\n\nREm                          SOLm         LA\nΚαι θα τής πω τα βάσανα, αυτά π' έχω τραβήξει\nREm                 SOLm         LA          REm\nκαι τα σημάδια της τρελής σε μια φωτιά να ρίξει \nREm                 SOLm         LA          REm\nκαι τα σημάδια της τρελής σε μια φωτιά να ρίξει \n\nREm                          SOLm         LA\nΝ' ανάψουνε και να καούν, πως έκαψαν και μένα\nREm               SOLm         LA          REm\nτα μάγια να τής πιάσουνε, να σέρνεται στα ξένα \nREm               SOLm         LA          REm\nτα μάγια να τής πιάσουνε, να σέρνεται στα ξένα",
+      "tr": "I Màghissa tis Arapiàs\n\nTha páo ekí stin Arapiá ghiatí m'échun milísi\ngia mia meghάli mághisa, ta máyia na mu lίsi\n\nKe tha tis po ta vásana, aftá p'écho travíksi\nke ta simádia tis trelís se mia fotiá na ríksi\n\nN'anápsune ke na kaún, pos ékapsan ke ména\nta mághia na tis piásune, na sérnete sta kséna",
+      "ti": "La strega dell'Arabia\n\nAndrò là nella terra degli arabi, perché mi hanno parlato\ndi una grande maga, perché mi sciolga il malocchio\n\nE le racconterò le pene, quelle che ho patito\ne i segni della pazzia getterò nel fuoco\n\nChe si accendano e brucino, come hanno bruciato anche me\nche il sortilegio colpisca lei, che si trascini in terra straniera\n\nNote:\n\nΑραπιά — \"terra degli arabi\", regione araba/esotica genericamente intesa, già incontrata in altre canzoni\nτα μάγια να λύσει — \"sciogliere il malocchio/l'incantesimo\", pratica popolare tradizionale contro sortilegi e sofferenze d'amore attribuite a magie\nνα σέρνεται στα ξένα — idiomatico: \"che si trascini in terra straniera\", augurio di sofferenza ed esilio rivolto a chi ha causato il male al protagonista\nil brano appartiene al genere del \"χασάπικο προπολεμικό\" (hasapiko prebellico), e riflette un tema popolare diffuso: il ricorso a maghe/streghe per liberarsi da un amore tormentato, con desiderio di vendetta simmetrica verso chi ha causato la sofferenza",
+      "no": "Questa melodia era così straordinaria e ipnotica da affascinare persino i compositori di musica colta greca.\n Il celebre compositore d'avanguardia Nikos Skalkottas ne rimase folgorato e utilizzò il tema musicale di Tsitsanis per scriverci sopra una serie di variazioni orchestrali classiche e spettrali.\nAnche il leggendario premio Oscar Manos Hadjidakis celebrò la canzone, includendola in una raffinata veste per pianoforte e voce nel suo monumentale lavoro del 1947, «Pasqua crudele del '45» (Σκληρός Απρίλης του '45), contribuendo a sdoganare il rebetiko presso l'alta borghesia intellettuale greca."
+    },
+    {
+      "id": "s_1787897409537",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Τάκης Μπίνης, Μαρίκα Νίνου",
+          "year": "1954",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=lpY5Ev9OFb4&list=RDlpY5Ev9OFb4&start_radio=1"
+        },
+        {
+          "who": "Παναγιώτης (Πάνoς) Μιχαλόπουλος",
+          "year": "1975",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ePYf2l2tRuc&list=RDePYf2l2tRuc&start_radio=1"
+        }
+      ],
+      "date": "2026-08-28",
+      "tgr": "Θα κάνω ντου βρε πονηρή",
+      "tit": "Tha kano ntou vre poniri",
+      "alias": "",
+      "at": "Κώστας Βίρβος",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1954",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "LAm             RE#dim  REm  LAm          DO\nΘα κάνω ντου βρε πονηρή στα στέκια που αράζεις\nDO\nΚι αν σε τρακάρω πουθενά μ' αυτό τον άνθρωπο ξανά\nRE#dim          MI          LAm\nνα ξέρεις, δε τη βγάζεις \nDO\nΚι αν σε τρακάρω πουθενά μ' αυτό τον άνθρωπο ξανά\nRE#dim          MI          LAm\nνα ξέρεις, δε τη βγάζεις \n\nREm                     SOL         DO\nΚαθάρισε την θέση σου μ' αυτή σου την κατάσταση\nLAm                MI          LAm\nπριν κάνω επανάσταση\n\nLAm             RE#dim  REm  LAm          DO\nΤον τελευταίο τον καιρό μου τα 'χεις κάνει ρόιδο\nDO\nΔυο-τρεις μου την καρφώσανε, πως πάλι σε τσακώσανε \nRE#dim     MI    LAm\nμε κείνο το κορόιδο\nDO\nΔυο-τρεις μου την καρφώσανε, πως πάλι σε τσακώσανε \nRE#dim     MI    LAm\nμε κείνο το κορόιδο\n\nEm                     SOL         DO\nΚαθάρισε την θέση σου μ' αυτή σου την κατάσταση\nLAm        MI      LAm\nπριν κάνω επανάσταση\n\n\nLAm             RE#dim  REm  LAm          DO\nΘα κάνω ντου για να σε βρω Αθήνα και Περαία\nDO\nΚι αν θα σε κάνω τσακωτή, να ξέρεις η βραδιά σου αυτή \nRE#dim      MI     LAm\nθα 'ναι η τελευταία\nDO\nΚι αν θα σε κάνω τσακωτή, να ξέρεις η βραδιά σου αυτή \nRE#dim      MI     LAm\nθα 'ναι η τελευταία \n \nREm                     SOL         DO\nΚαθάρισε την θέση σου μ' αυτή σου την κατάσταση\nLAm                MI          LAm\nπριν κάνω επανάσταση",
+      "tr": "Tha kano ntou vre poniri\n\nTha káno ndu vre ponirí̱ stα stékia pu arázis\nKi an se trakáro puthená m'aftó ton ánthropo ksaná\nna kséris, de ti vgházis\n\nKatharise tin thési su m'aftí su tin katástasi\nprin káno epanástasi\n\nTon teleftéo ton keró mu ta 'chis káni róido\nDío-tris mu tin karfósane, pos páli se tsakósane\nme kíno to koróido\n\nKatharise tin thési su...\n\nTha káno ndu gia na se vro Athína ke Piraía\nKi an tha se káno tsakotí, na kséris i vradiá su aftí\ntha 'ne i teleftéa\n\nKatharise tin thési su...",
+      "ti": "Farò irruzione, ehi furbacchiona\n\nFarò irruzione, ehi furbacchiona, nei locali dove bazzichi\ne se ti sorprendo da qualche parte con quest'uomo di nuovo\nsappi che non la scampi\n\nSgombra il tuo posto, con questa tua situazione\nprima che io faccia una rivoluzione\n\nUltimamente mi hai reso ridicolo (come un melograno spaccato)\ndue o tre me l'hanno fatto sapere, che ti hanno beccata di nuovo\ncon quel babbeo\n\nSgombra il tuo posto...\n\nFarò irruzione per trovarti, ad Atene e al Pireo\ne se ti coglierò sul fatto, sappi che questa sera tua\nsarà l'ultima\n\nSgombra il tuo posto...\n\nNote:\n\nντου — dal tedesco \"du\" (\"tu\"), termine gergale nato durante l'Occupazione tedesca per indicare un'irruzione/retata improvvisa; qui usato nel senso di \"farò irruzione/ti sorprenderò di sorpresa\"\nτρακάρω — sorprendere/imbattersi per caso in qualcuno (gergale)\nδε τη βγάζεις — idiomatico: \"non la scampi/non te la cavi\"\nμου τα 'χεις κάνει ρόιδο — idiomatico: letteralmente \"me l'hai fatto diventare un melograno\" (riferito al cuore/all'orgoglio spaccato in mille pezzi come i chicchi del melograno), cioè \"mi hai coperto di vergogna/ridicolo\"\nκορόιδο — sciocco, babbeo, persona presa in giro; qui riferito con disprezzo al rivale\nτσακωτή — colta sul fatto, sorpresa in flagrante\nil brano nacque, secondo il paroliere Virvos, ispirato ai truffatori (παπατζήδες) del mercato Varvakios di Atene nell'Atene del dopoguerra, sotto il clima di paura per le retate (\"ντου\") della polizia dell'epoca",
+      "no": "La parola \"ντου\" (pronunciata du) deriva dal gergo della malavita e dei rifugiati asiatici (morfologia slava o turca legata all'attacco o al balzo improvviso). Significa letteralmente fare un assalto, una carica o un'irruzione a sorpresa in un luogo.\nGrazie a questa canzone, le frasi \"Θα κάνω ντου\" (faccio un blitz) e \"Καθάρισε τη θέση σου\" (\"Chiarisci la tua posizione\", presente nel ritornello) sono entrate stabilmente nel modo di parlare quotidiano dei greci quando si affronta qualcuno con decisione."
+    },
     {
       "id": "s_1787896322316",
       "offsets": {},
@@ -2787,7 +2966,7 @@
       "date": "2026-08-11",
       "tgr": "Ο καημός",
       "tit": "O kaimòs",
-      "alias": "",
+      "alias": "Καημός",
       "at": "Δημήτρης Χριστοδούλου",
       "am": "Μίκης Θεοδωράκης",
       "yr": "1960",
@@ -9760,6 +9939,80 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/dakis.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787898474829",
+      "name": "Φλέρυ Νταντωνάκη",
+      "nameit": "Fléry Ntantonáki",
+      "born": "11 maggio 1937, Atene (secondo altre fonti Creta/Rethymno)",
+      "died": "18 luglio 1998, Pireo",
+      "bio": "Vero nome Eleftheria Papadantonaki (Ελευθερία Παπαδαντωνάκη)\n\n\nCresciuta in una famiglia d'artisti (il padre era regista, attore e uomo di cinema), si dedicò fin da piccola alle arti, soprattutto alla recitazione. Da giovane si trasferì negli Stati Uniti, dove intraprese una carriera da attrice, partecipando a spettacoli a New York, incluso Broadway.\n\nIl suo debutto discografico è considerato l'LP \"Fleury: The Isles of Greece\" (1965), pubblicato solo negli USA, con repertorio demotikó e laïkó (tra cui brani di Apostolos Kaldaras, oltre a bossa nova brasiliane e tre pezzi di Mikis Theodorakis). Il disco le valse il titolo di \"talento più promettente dell'anno\" dalla rivista Variety.\n\nFu la prima artista greca a esporsi pubblicamente contro la Giunta militare, in diretta sulla televisione americana, accusando il governo statunitense del proprio ruolo nel sostenerla.\n\nDivenne soprattutto musa di Manos Hatzidakis, con cui ebbe una collaborazione fondamentale: la sua interpretazione più celebre resta quella nell'album \"Ο Μεγάλος Ερωτικός\". Fu inoltre l'ultima collaborazione discografica di Hatzidakis nell'ambito del rembetiko, con l'album \"Η Φλέρυ Νταντωνάκη στα Λειτουργικά του Μάνου Χατζιδάκι\" — lo stesso Hatzidakis scrisse di lei: \"La Flery è irripetibile anche quando sbaglia...\".\n\nSoprannominata \"l'usignolo della luna\" (η φεγγαρική αηδόνα).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/dandonaki.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787899002131",
+      "name": "Αντώνης Ρεπάνης",
+      "nameit": "Antónis Repánis",
+      "born": "15 agosto 1933, Peristeri (Atene)",
+      "died": "30 maggio 2019",
+      "bio": "Cantante, chitarrista virtuoso e compositore tra i più importanti del laïkó tragoúdi. Prima di dedicarsi professionalmente alla musica svolse diversi mestieri (tornitore del legno, corniciaio). Si affermò negli anni '60 interpretando brani di Tsitsanis, Chiotis, Bakalis e altri.\n\nCome compositore firmò grandi successi interpretati sia da lui stesso (\"Η διπρόσωπη\", con testo di Eftychia Papagiannopoulou; \"Δυο γυναίκες, δυο αγάπες\") sia da altri grandi nomi: Stratos Dionysiou (\"Χτες το βράδυ στην ταβέρνα\", \"Παλιατζής\", \"Αγάπη μου επικίνδυνη\"), Panos Gavalas (\"Πού να γυρνάς\", \"Έτσι είναι πάντα μ' ένα αντίο\"), oltre a Poly Panou, Vicky Moscholiou, Antonis Kalogiannis, Manolis Aggelopoulos, Chrystakis, Leonidas Velis e Dimitris Kontolazos.\n\nFu legato da profonda amicizia a Manolis Chiotis, di cui frequentava spesso la casa per le prove — Chiotis voleva che ogni sua canzone fosse perfetta. Per oltre vent'anni rese il locale \"Astrofengia\", nel quartiere di Patissia, il proprio \"regno\": ogni sera saliva sul palco e vi restava per ore, finché gli amici sotto lo chiedevano.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/repanis.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787900150271",
+      "name": "Γιώργος Κάβουρας",
+      "nameit": "Giórgos Kávouras",
+      "born": "1909 (secondo alcune fonti 1907), Kastellorizo",
+      "died": "20 febbraio 1943, Nikaia (Atene)",
+      "bio": "Figlio di Stamatis Kavouras, eccellente violinista e liutaio originario di Livisi (Asia Minore), che nel 1906 trovò rifugio a Kastellorizo per sfuggire alle persecuzioni turche, dove sposò Garoufallia Beygiorgi, anch'essa di origine micrasiatica. Giorgos fu il primogenito della famiglia. Nel 1918 la famiglia si trasferì al Pireo, prima ad Hatzikyriakeio, poi — dopo la Catastrofe dell'Asia Minore — a Drapetsona.\n\nIniziò come strumentista (violino, santouri, chitarra) nella compagnia del padre, suonando nelle taverne del Pireo e alle feste popolari. Alla fine del 1930 \"rapì\" (secondo la tradizione dell'epoca, con la complicità dell'amico Giannis Agoropoulos-Hatzis e di un tassista) Irene Konstantara, che sposò: ebbero quattro figli.\n\nNel 1934 fu l'amico Stellakis Perpiniadis a convincerlo a diventare cantante. I compositori dell'epoca riconobbero presto le enormi potenzialità della sua voce particolarissima. Debuttò in discografia nel 1935/36 con \"Ο σερέτης\" di Iakovos Montanaris. Cantò composizioni di Vangelis Papazoglou (che lo preferiva persino a Perpiniadis, suscitandone l'amarezza), Manolis Chrysafakis, Giannis Dragatsis, Spyros Peristeris — ma fu soprattutto Kostas Skarvelis a affidare alla sua voce la maggioranza dei propri brani dopo il 1935.\n\nUn dato che resta impressionante: non risultano reincisioni delle sue canzoni da parte di altri cantanti dell'epoca — un segno di quanto la sua interpretazione fosse considerata insostituibile. Visse solo 36 anni, lasciandoci circa 70 interpretazioni ineguagliabili.\n\nDopo il 1940, essendo di cittadinanza italiana fino al 1936, fu perseguitato dagli italiani e visse momenti di paura, nascosto, per sé e per la famiglia. Morì il 20 febbraio 1943: secondo la testimonianza della sorella, si sentì male mentre cantava nel locale dell'amico Stellakis a Chaidari; portato all'ospedale di Nikaia (sotto amministrazione italo-tedesca), dove nessuno si prese cura di lui adeguatamente, morì sei giorni dopo per le conseguenze dell'ictus. Fu proprio l'amico Giannis Agoropoulos \"Hatzis\" — nelle cui mani era diventato cantante — a portarlo in ospedale e a stargli accanto fino alla fine.\n\nMarkos Vamvakaris ne pianse la morte in uno dei suoi zeibékika più belli: \"Πού 'σαι καημένε Κάβουρα, να γλυκοτραγουδήσεις, να πεις τραγούδια όμορφα να μας ευχαριστήσεις...\"",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kavuras.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787931993844",
+      "name": "Γιώργος Φωτίδας",
+      "nameit": "Giórgos Fotídas",
+      "born": "1906, quartiere di Psyrrì, Atene",
+      "died": "7 febbraio 1952",
+      "bio": "Paroliere dilettante ma di grande importanza per il rembetiko — non ne fece mai la sua professione principale: lavorò per tutta la vita come impiegato commerciale (εμποροϋπάλληλος). L'ingresso nel mondo della musica avvenne per una circostanza curiosa: il negozio dove lavorava si trovava proprio di fronte alla rappresentanza di Minos Matsas. Lì conobbe quella che sarebbe diventata sua moglie, impiegata di Matsas, e attraverso di lei si legò strettamente ai grandi rebetes dell'epoca.\n\nDivenne amico e collaboratore di figure leggendarie del genere: Markos Vamvakaris, Vasilis Tsitsanis, Giannis Papaioannou, Stratos Pagioumtzis e Apostolos Chatzichristos.\n\nSono stati catalogati 63 brani a suo nome (inclusi quelli firmati con pseudonimi). Tra i suoi successi più celebri e duraturi:\n\n\"Ο Καϊξής\" — musica di Apostolos Chatzichristos, uno dei brani più riconoscibili e simbolici dell'intero rembetiko\n\"Το μαγκαλάκι\" — anch'esso con Chatzichristos\n\"Ρίξε τσιγγάνα τα χαρτιά\"\n\"Βαδίζω με παράπονο\"\n\"Εχτές το δειλινό που τα 'πια\"\n\nE, come già emerso in precedenza: \"Ξέχασέ τα όλα\", \"Πάμε στο Φάληρο\", \"Δίωξε τον Μπαξεβάνη\", \"Μουσολίνι άλλαξε γνώμη\", \"Ρεμπέτες στης Αλβανίας τα βουνά\", tra gli altri.\nMorì a soli 46 anni, per tubercolosi (contratta poco prima dell'Occupazione tedesca)",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/fotidas.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1787932878992",
+      "name": "Ευάγγελος Χατζηχρήστος",
+      "nameit": "Evángelos Chatzichrístos",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "E' stato un cantante e compositore greco di musica rebetika, attivo principalmente a cavallo tra gli anni '30 e '40 del Novecento. \nSebbene la sua figura sia meno celebre rispetto a quella del suo illustre parente, ha lasciato una traccia significativa all'interno della discografia del genere.\nEvangelos era il cugino di primo grado di Apostolos Hatzichristos. I due cugini hanno condiviso una stretta collaborazione artistica: Evangelos ha affiancato Apostolos come seconda voce e corista in diverse registrazioni storiche, arricchendo con la sua vocalità l'armonia tipica dei brani dell'epoca.\nLa produzione artistica documentata di Evangelos Hatzichristos si divide tra l'interpretazione e la scrittura musicale:Cantante di supporto: Ha accompagnato ufficialmente il cugino Apostolos in almeno 6 celebri canzoni. \n\nTra i duetti più noti spiccano tracce storiche del 1948 come\nAs Mi Ximerone Pote (Ας μη ξημέρωνε ποτέ), seconda voce\nTha Se Perimeno Apopse (Θα σε περιμένω απόψε),  seconda voce\nO Alitis Tragouda (Ο αλήτης τραγουδά), seconda voce\nΘα 'ρθει μια μέρα να πονάς  (Tharthi mia mera na ponas) seconda voce con Markos Vamvakaris\nO kaiksis (Ο καϊξής) seconda voce con Markos Vamvakaris\n\nOltre all'attività da interprete, firmò come compositore ufficiale due brani registrati sui dischi a 78 giri dell'epoca.",
+      "link": "",
+      "listen": "",
+      "photo": "",
       "roles": [
         "ar"
       ]
