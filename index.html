@@ -1888,6 +1888,7 @@ function renderPersona(){
       }
       if(roles.length) linked.push({s:s,roles:roles.filter(function(r,i,a){return a.indexOf(r)===i;}),execLink:execLink});
     });
+    linked.sort(function(a,b){ return (a.s.tgr||'').localeCompare(b.s.tgr||'', 'el'); });
   }
 
   var metaH='';
