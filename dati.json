@@ -1,8 +1,138 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-28T16:41:33.487Z",
+  "exportedAt": "2026-08-29T05:25:00.395Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787981015635",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δημήτρης Αραπάκης",
+          "year": "1927",
+          "note": "Γιάννης Κυριακάτης",
+          "link": "https://www.youtube.com/watch?v=2ayTT_1EsAY"
+        },
+        {
+          "who": "Αντώνης Νταλγκάς",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=zCpOXxWRhlE"
+        },
+        {
+          "who": "Ρόζα Εσκενάζυ",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=bjEl3zf536E"
+        }
+      ],
+      "date": "2026-08-29",
+      "tgr": "Κόβω μια κλάρα",
+      "tit": "Kóvo mia klára",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "Tsàmikos",
+      "ll": "",
+      "li": "",
+      "ch": "LAm\nΚόβω μια κλάρα, να ζεις, κουμπάρα,\nREm          MI     LAm\nΚόβω μια κλάρα, λεμονιά.\nLAm\nΚόβω μια κλάρα, λεμονιά,\nREm          MI     LAm\nΜε δυο λεμόνια δίφορα.\n\n \nLAm\nΚαι τη φυτεύω, σε κοροϊδεύω,\nREm          MI     LAm\nΚαι τη φυτεύω στο γιαλό.\nLAm\nΚαι τη φυτεύω στο γιαλό,\nREm          MI     LAm\nΚι αν μαραθεί, δεν σ’ αγαπώ.\n\n \nLAm\nΚι η κλάρα ε…, να ζεις, κουμπάρα,\nREm          MI     LAm\nΚι η κλάρα εμαράθηκε.\nLAm\nΚι η κλάρα εμαράθηκε,\nREm       MI     LAm\nΗ αγάπη με παράτησε.",
+      "tr": "Kóvo mia klára\n\nKóvo mia klára, na zis, kumbára,\nKóvo mia klára, lemoniá.\nKóvo mia klára, lemoniá,\nMe dío lemónia dífora.\n\nKe ti fitévo, se koroidévo,\nKe ti fitévo sto yialó.\nKe ti fitévo sto yialó,\nKi an marathí, den s'aghapó.\n\nKi i klára e..., na zis, kumbára,\nKi i klára emaráthike.\nKi i klára emaráthike,\nI aghápi me parátise.",
+      "ti": "Taglio un ramo\n\nTaglio un ramo, che tu viva, comare,\ntaglio un ramo di limone.\nTaglio un ramo di limone,\ncon due limoni che danno frutto due volte l'anno.\n\nE lo pianto, ti prendo in giro,\ne lo pianto sulla riva.\nE lo pianto sulla riva,\ne se appassisce, non ti amo.\n\nE il ramo si è..., che tu viva, comare,\ne il ramo è appassito.\nE il ramo è appassito,\nl'amore mi ha abbandonato.\n\nNote:\n\nκουμπάρα — comare, termine che indica un legame di parentela spirituale (madrina di nozze/battesimo, o testimone di matrimonio), qui usato come vezzeggiativo affettuoso rivolto all'ascoltatrice/interlocutrice nel canto\nδίφορα — che dà frutto due volte l'anno (aggettivo riferito agli agrumi, come il limone \"bifero\")\nτσάμικος — indicazione di genere: danza/ritmo tradizionale greco in 3/4, tipico della Grecia continentale (Epiro, Grecia centrale)\nil canto usa il tradizionale espediente popolare del \"ramo piantato come presagio d'amore\": se il ramo attecchisce e fiorisce, l'amore è vero; se appassisce, l'amore finisce — qui infatti il ramo appassisce, segnando la fine della storia",
+      "no": ""
+    },
+    {
+      "id": "s_1787979149810",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Βούλα Πάλλα",
+          "year": "anni 70",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=0h-FW-XK7qA"
+        },
+        {
+          "who": "Κυρία Κούλα",
+          "year": "1920",
+          "note": "Γιάννης Κυριακάτης clarino",
+          "link": "https://www.youtube.com/watch?v=swA8Wis5_Xs"
+        },
+        {
+          "who": "Δημήτρης Αραπάκης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=eRoW9qPM4is"
+        }
+      ],
+      "date": "2026-08-29",
+      "tgr": "Ένα νερό, κυρά Βαγγελιώ",
+      "tit": "Éna neró, kìrá Vanghelió",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "kalamatianòs",
+      "ll": "",
+      "li": "",
+      "ch": "RE                    LA          RE\nΈνα νερό κυρά Βαγγελιώ, ένα νερό, κρύο νερό\nSOL          LA          RE\nκι από πούθε κατεβαίνει, Βαγγελιώ μου παινεμένη \nSOL          LA          RE\nκι από πούθε κατεβαίνει, Βαγγελιώ μου παινεμένη \n\nRE\nΠοτίζει κι έ-, κυρά Βαγγελιώ, ποτίζει κι ένα αγιόκλημα\nSOL                       LA                 RE\nΌπου κάνει το σταφύλι, σαν της Βαγγελιώς τα χείλη \nSOL                       LA                 RE\nΌπου κάνει το σταφύλι, σαν της Βαγγελιώς τα χείλη  \n\nRE\nΑπό ψηλά, κυρά Βαγγελιώ, από ψηλά γκρεμίζεται\nSOL                       LA                 RE\nκαι σε περιβόλι μπαίνει, Βαγγελιώ μου παινεμένη \nSOL                       LA                 RE\nκαι σε περιβόλι μπαίνει, Βαγγελιώ μου παινεμένη",
+      "tr": "Éna neró, kìrá Vanghelió\n\nÉna neró kirá Vanghelió, éna neró, krío neró\nki apó púthe kateveni, Vanghelió mu penemeni\n\nPotízi ki é-, kirá Vanghelió, potízi ki éna ayiόklima\nÓpu káni to stafíli, san tis Vanghelió ta chíli\n\nApó psilá, kirá Vanghelió, apó psilá gremízete\nke se perivóli béni, Vanghelió mu penemeni",
+      "ti": "Un'acqua, signora Vangeliò, un'acqua, acqua fredda\ne da dove scende, mia Vangeliò lodata\n\nInnaffia anche, signora Vangeliò, innaffia anche un caprifoglio\ndove nasce l'uva, come le labbra di Vangeliò\n\nDall' alto, signora Vangeliò, dall' alto precipita\ned entra in un giardino, mia Vangeliò lodata\n\nNote:\n\nπαινεμένη — lodata, celebrata (da \"παινεύω\", lodare), epiteto affettuoso ricorrente nei canti popolari\nαγιόκλημα — caprifoglio (pianta rampicante)",
+      "no": ""
+    },
+    {
+      "id": "s_1787974243732",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-29",
+      "tgr": "Κορίτσι μου όλα για σένα",
+      "tit": "Korìtsi mou ola gia sèna",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1967",
+      "ar": "Βασίλης Τσιτσάνης, Χαρούλα Λαμπράκη",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Tsifteteli",
+      "ll": "https://www.youtube.com/watch?v=mE_oU93nGYI&list=RDmE_oU93nGYI&start_radio=1",
+      "li": "",
+      "ch": "RE\nΠάμε βόλτα απόψε με τ' αμάξι\nRE\nέλα και θα σου φερθώ εντάξει\nRE\nστοίχημα να βάλεις και το χάνω\nRE\nτην καρδιά κομμάτια θα την κάνω\n\nSOLm   RE  DOm  RE\nΌλα σπάστα όλα κάφτα\n     DOm   RE#   RE\nκορίτσι μου όλα για σένα\nSOLm   RE  DOm  RE\nΌλα σπάστα όλα κάφτα\n     DOm    RE#    RE\nκορίτσι μου όλα για σένα\n\n\nSOL\nΠω πω πω πω τρέλλες και κέφια\nSOL\nπαίξτε μου βιολιά βαράτε ντέφια\n\nSOLm\nΣήκω χόρεψε τρελλά\nRE\nνα μ' ανάψεις το σεβντά\nDOm        RE#       RE\nκορίτσι μου όλα για σένα\nSOLm\nΣήκω χόρεψε τρελλά\nRE\nνα μ' ανάψεις το σεβντά\nDOm         RE#       RE\nκορίτσι μου όλα για σένα\n\n\nRE\nΠάμε γόησα μου για σεργιάνι\nRE\nστα μπουζούκια βουρ για τον Τσιτσάνη\nRE\nκι όταν η καρδούλα σου το θέλει\nRE\nχόρεψε για μένα τσιφτετέλι\n\nSOLm   RE  DOm  RE\nΌλα σπάστα όλα κάφτα\n     DOm   RE#   RE\nκορίτσι μου όλα για σένα\nSOLm   RE  DOm  RE\nΌλα σπάστα όλα κάφτα\n     DOm    RE#    RE\nκορίτσι μου όλα για σένα\n\n\nSOL\nΠω πω πω πω τρέλλες και κέφια\nSOL\nπαίξτε μου βιολιά βαράτε ντέφια\n\nSOLm\nΣήκω χόρεψε τρελλά\nRE\nνα μ' ανάψεις το σεβντά\nDOm        RE#       RE\nκορίτσι μου όλα για σένα\nSOLm\nΣήκω χόρεψε τρελλά\nRE\nνα μ' ανάψεις το σεβντά\nDOm         RE#       RE\nκορίτσι μου όλα για σένα",
+      "tr": "Korìtsi mou ola gia sèna\n\nPáme vólta apópse me t'amáksi\néla ke tha su ferthó endáksi\nstíchima na váleis ke to cháno\ntin kardiá kommátia tha tin káno\n\nÓla spásta óla káfta\nkorítsi mu óla gia séna\nÓla spásta óla káfta\nkorítsi mu óla gia séna\n\nPo po po po tréles ke kéfia\npéksté mu violiá varáte ndéfia\n\nSíko chórepse trelá\nna m'anápseis to sevdá\nkorítsi mu óla gia séna\nSíko chórepse trelá\nna m'anápseis to sevdá\nkorítsi mu óla gia séna\n\nPáme ghóisa mu gia serghiáni\nsta buzúkia vur gia ton Tsitsáni\nki ótan i kardúla su to théli\nchórepse gia ména tsiftetéli",
+      "ti": "Ragazza mia, tutto per te\n\nAndiamo a fare un giro stasera in carrozza\nvieni e mi comporterò bene, promesso\nscommetti quanto vuoi che perdo\nfarò il mio cuore a pezzi\n\nRompi tutto, brucia tutto\nragazza mia, tutto per te\nrompi tutto, brucia tutto\nragazza mia, tutto per te\n\nAh, che pazzie e che allegria\nsuonatemi i violini, battete i tamburelli\n\nAlzati, balla follemente\nper accendermi la passione\nragazza mia, tutto per te\nalzati, balla follemente\nper accendermi la passione\nragazza mia, tutto per te\n\nAndiamo, incantatrice mia, a passeggio\nai bouzouki, corriamo da Tsitsanis\ne quando il tuo cuoricino lo desidera\nballa per me un tsifteteli\n\nNote:\n\nσεβντάς — passione amorosa intensa (turchismo), già incontrato in altre canzoni\nγόησσα — incantatrice, seduttrice, già incontrata in \"Έλα να νιώσεις\"\nντέφι — tamburello, strumento a percussione tipico della musica popolare greca\nτσιφτετέλι — danza orientale/da ballo del ventre, già incontrata in altre canzoni",
+      "no": "Con grande ironia e fiuto commerciale, Tsitsanis inserisce il suo stesso nome all'interno del testo della canzone: \"πάμε γόησσά μου για σεργιάνι στα μπουζούκια βουρ για τον Τσιτσάνη\" (Andiamo, mia seduttrice, a passeggiare nei bouzoukia, dritti da Tsitsanis!). Diventò una vera e propria pubblicità cantata per i locali in cui lui stesso si esibiva dal vivo ad Atene."
+    },
+    {
+      "id": "s_1787972714650",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-29",
+      "tgr": "Κάν' τονε Σταύρο, κάν' τονε",
+      "tit": "Kán' tone Stávro, kán' tone",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1935",
+      "ar": "Μάρκος Βαμβακάρης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Aptaliko",
+      "ll": "https://www.youtube.com/watch?v=clVAv2nf7i0&list=RDclVAv2nf7i0&start_radio=1",
+      "li": "",
+      "ch": "SOL      RE7      SOL      RE7      SOL\nΚάν' τονε Σταύρο κάν' τονε\n                    RE7\nβάλ' του φωτιά και κάφ' τονε \n                    RE7\nβάλ' του φωτιά και κάφ' τονε\nSOL      RE7      SOL\nΚάν' τονε Σταύρο κάν' τονε\n\n- Αλά...τουρούχου ντάχου ντάχου ντα τουρούχου ντάχου ντούχου ντούχου ντα ντούχου ντάχου ντούχου ντα (φωνή Στράτου Παγιουμτζή)\n\nSOL      RE7      SOL      RE7      SOL\nΔώσε του Γιώργου του τρελού\n                    RE7\nτου μάστορα του ξυλουργού \n                    RE7\nτου μάστορα του ξυλουργού \nSOL      RE7      SOL\nΔώσε του Γιώργου του τρελού\n\nSOL      RE7      SOL      RE7      SOL\nΤράβα βρε Γιάννη αραμπατζή\n                    RE7\nπου 'σαι μαγκιόρος τεκετζής  \n                    RE7\nπου 'σαι μαγκιόρος τεκετζής\nSOL      RE7      SOL\nΤράβα βρε Γιάννη αραμπατζή\n\n- Με λίγωσες αδερφάκι (φωνή Στράτου Παγιουμτζή)\n\nSOL      RE7      SOL      RE7      SOL\nΔώσε του Νικολάκη μας\n                    RE7\nνα βγάλει το μεράκι μας \n                    RE7\nνα βγάλει το μεράκι μας \nSOL      RE7      SOL\nΔώσε του Νικολάκη μας\n\n- Γεια σου Μάρκο μερακλή. Γεια σου κι εσύ τεμπέλη μου με το μπαγλαμά σου (φωνή Γιώργου Μπάτη)\n\nSOL      RE7      SOL      RE7      SOL\nΤζούρα δώσε του Μπάτη μας\n                    RE7\nτου μόρτη του μπερμπάντη μας \n                    RE7\nτου μόρτη του μπερμπάντη μας \nSOL      RE7      SOL\nΤζούρα δώσε του Μπάτη μας\n\n- Φτάνει πια, τον έφαγες (φωνή Στράτου Παγιουμτζή)",
+      "tr": "Kán' tone Stávro, kán' tone\n\nKán' tone Stávro kán' tone\nvál' tu fotiá ke káf' tone\nKán' tone Stávro kán' tone\n\nAlá... turúchu ndáchu ndáchu nda turúchu ndáchu núchu núchu nda núchu ndáchu núchu nda (foní Strátu Payiumtzí)\n\nDóse tu Yiόrghu tu treλú\ntu mástora tu ksilurghú\nDóse tu Yiόrghu tu treλú\n\nTráva vre Yiáni arabatzí\npu 'se maghiόros teketzí\nTráva vre Yiáni arabatzí\n\nMe líghoses aderfáki (foní Strátu Paghiumtzí)\n\nDóse tu Nikoláki mas\nna vgháli to meráki mas\nDóse tu Nikoláki mas\n\nYiásu Márko merakλí. Yiásu ki esí tembéli mu me to baghlamá su (foní Yiόrghu Báti)\n\nDzúra dóse tu Báti mas\ntu mórti tu berbándi mas\nDzúra dóse tu Báti mas\n\nFtáni pia, ton éfayes (foní Strátu Paghiumtzí)",
+      "ti": "Fallo, Stavros, fallo\n\nFallo Stavros, Fallo\ndagli fuoco e brucialo\nfallo Stavros, fallo\n\n(vocalizzo/scat improvvisato, senza significato letterale, voce di Stratos Payoumtzis)\n\nDallo a Giorgos il matto\nil maestro falegname\ndallo a Giorgos il matto\n\nTira, ehi Yannis carrettiere\ntu che sei un abile gestore di tekè\ntira, ehi Yannis carrettiere\n\nMi hai fatto venire meno, fratellino (voce di Stratos Paghiumtzis)\n\nDallo al nostro piccolo Nikos\nche tiri fuori la nostra passione\ndallo al nostro piccolo Nikos\n\nSalute a te, Markos appassionato. Salute anche a te, pigrone mio, col tuo baglamàs (voce di Giorgos Batis)\n\nDai un tiro al nostro Batis\nil nostro furfante spaccone\nDai un tiro al nostro Batis\n\nBasta ormai, l'hai finito (voce di Stratos Paghiumtzis)\n\nNote:\n\nil brano è un classico rebetiko \"corale\" del gruppo storico  del Pireo, dove ogni strofa passa simbolicamente il narghilè/hashish a un membro del gruppo, con inserti parlati/scherzosi dal vivo tra i musicisti\nΚάν' τονε Σταύρο κάν' τονε, βάλ' του φωτιά και κάφ' τονε — \"fallo Stavros e dagli fuoco\": riferimento gergale alla preparazione del narghilè/hashish \nαραμπατζής — carrettiere (da \"αραμπάς\", carro, turchismo)\nτεκετζής — gestore di tekè, già incontrato in altre canzoni\nτζούρα — tiro/boccata di narghilè, già incontrato in altre canzoni\nμπερμπάντης — mascalzone/furfante spaccone, ma con connotazione affettuosa/scherzosa tra amici in questo contesto\nle battute parlate tra parentesi sono inserti dal vivo dei musicisti stessi durante la registrazione originale, tipici delle incisioni conviviali del rebetiko primitivo",
+      "no": ""
+    },
     {
       "id": "s_1787934979585",
       "offsets": {},
@@ -10038,6 +10168,49 @@
       "photo": "",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1787975743200",
+      "name": "Βούλα Πάλλα",
+      "nameit": "Voúla Pálla",
+      "born": "29 marzo 1928 (secondo altre fonti 1929), Korfos (Corinzia)",
+      "died": "28 agosto 1980",
+      "bio": "Vero nome: Paraskevi Palla (Παρασκευή Πάλλα) — dopo il matrimonio prese anche il cognome del marito, Protopapas\n\nInterprete dalla voce particolarissima, capace di spaziare tra éntechno, laïkó e demotikó. Ebbe un'infanzia difficile. Nonostante fosse una cantante di grande valore, secondo diverse fonti non ricevette mai il riconoscimento che avrebbe meritato — descritta come \"una grande ma ingiustamente trascurata interprete\".\n\nIl suo maggiore successo arrivò in un modo del tutto particolare: cantando canzoni Bollywood indiane con testi greci, un fenomeno legato all'ondata di film indiani che invase i cinema greci verso la fine degli anni '50. Questo repertorio, noto come \"ινδοπρεπή τραγούδια\" (canzoni \"di stampo indiano\"), fu al centro di accese polemiche tra i grandi compositori greci dell'epoca sul tema del plagio/ispirazione dalla musica indiana.\n\nFece pochissime esibizioni dal vivo nel corso della carriera. Le copertine dei suoi dischi, con costumi popolari, la facevano somigliare — secondo un ricordo pubblicato dopo la sua morte — a colleghe bulgare o dell'ex Unione Sovietica: un'interpretazione descritta come \"commovente, diretta, e più intellettuale\" rispetto a molte altre cantanti laïkó della sua epoca.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/palla.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787977468588",
+      "name": "Γιάννης Κυριακάτης",
+      "nameit": "Giánnis Kyriakátis",
+      "born": "1884, Paparougia (Lefka), Beozia",
+      "died": "1957, Vagia (Tebe)",
+      "bio": "Uno dei più importanti clarinettisti della musica popolare greca, probabilmente il primo ad aver ricevuto una vera formazione musicale. Da giovane suonava la caramouza (zurna).\n\nEmigrò negli Stati Uniti nel 1906 (secondo altre fonti nel 1910-11), dove l'incontro con il violinista smirneo G. Theologos e, tramite lui, con il celebre Nicolò Zambo, clarinettista ungherese del Conservatorio di New York, gli cambiò letteralmente la vita: studiò musica con loro per sette anni, costruendo un repertorio ricco di \"hore\" e \"doine\" (danze rumene/balcaniche) e uno stile di esecuzione unico che lo rese ricercatissimo sia nella comunità greca d'America che oltre. Iniziò con la musica jazz, poi si dedicò a quella greca.\n\nFu della stessa generazione di Karakostas e Giaouzos, e nella sua epoca fu il più celebre di tutti — fu lui a \"insegnare\" agli Ateniesi ad ascoltare il clarinetto. Insieme a Giaouzos era considerato superiore persino a Karakostas per la capacità di suonare in ogni tonalità e per il repertorio più ampio.\n\nIn America, il \"trio Kyriakatis\" era completato da F. Kefalis al laouto e N. Zacharis al tsimbalo.\n\nDescritto come uomo elegante e imponente, con un carisma che non somigliava a nessun altro musicista della sua epoca. Dopo il ritorno in Grecia visse anche a Vagia, dove sposò Vangelio, zia dei fratelli Konstantinos e Athanasios Meletiou. Qui aprì anche una scuola di clarinetto, come testimoniano vecchi articoli della stampa locale. Ebbe con Vangelio tre figli maschi, che vissero poi in America e Canada. Morì a Vagia (Tebe) nel 1957.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kiriakatis.jpg",
+      "roles": [
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787978479412",
+      "name": "Δημήτρης Αραπάκης",
+      "nameit": "Dimítris Arapákis",
+      "born": "Preveza",
+      "died": "1965 (?), Atene — data incerta",
+      "bio": "Vero nome: Dimitrios Kallinikos, o Kallinikos-Tsousis\n\nConsiderato uno dei massimi interpreti del canto dimotikó (popolare/tradizionale), capace con la stessa naturalezza di eseguire anche il repertorio rembetiko in stile smirneo — l'unico cantante non originario dell'Asia Minore in grado di restituire così bene lo stile smirneo. Tra il 1928 e il 1934 incise circa 150 canzoni.\n\nUn aneddoto racconta bene il suo statuto quasi leggendario: \"A Tebe non si giurava sul Cristo e sulla Madonna, ma su Arapakis\". Prima della guerra si esibiva a Kifissia insieme ad altri due \"Mitsos\" (Mitsos Salonikios e Mitsos Kyriakidis) — file di automobili si accalcavano fuori dal locale, e quando lui cantava scendeva un silenzio assoluto: nessuno parlava. Pescivendoli, macellai coi loro grembiuli e i commercianti dei mercati di Atene e Pireo lo adoravano.\n\nIl musicologo Alekos Garavelis lo descrisse così: \"In certe canzoni, Arapakis era veleno. Ti colpiva, diciamo, dritto al cuore.\" Ascoltarlo cantare era come sentirlo dire: \"Non ascoltare i virtuosismi che la mia gola può fare, ma ascolta cosa provo.\"\n\nTra i suoi brani più noti: \"Εσείς πουλιά πετούμενα\", \"Παναγιωτούλα λυγερή\", \"Κόβω μια κλάρα\", \"Θεωνίτσα\", \"Έβγα Γκόλφω στο βουνό\", \"Τ' αστέρι το λαμπρό\", \"Πέρασα από την πόρτα σου\", \"Καημένε Μήτσο\", \"Ο Μενούσης κι ο Μπερμπίλης\", \"Σαράντα Παλλικάρια\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/arapakis.jpg",
+      "roles": [
+        "ar",
+        "mu"
       ]
     }
   ]
