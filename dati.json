@@ -1,8 +1,145 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-29T05:25:00.395Z",
+  "exportedAt": "2026-08-29T09:03:24.915Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1787994193683",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-29",
+      "tgr": "Μαύρα μάτια, μαύρα φρύδια",
+      "tit": "Màvra màtia, màvra frìdia",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1936",
+      "ar": "Μάρκος Βαμβακάρης, Κώστας Ρούκουνας, Στράτος Παγιουμτζής",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=tn8IL3O2Gz8",
+      "li": "",
+      "ch": "REm                           LAm           REm\nΜαύρα μάτια, μαύρα φρύδια, κατσαρά μαύρα μαλλιά\nREm                           LAm           REm\nΆσπρο πρόσωπο σαν κρίνος και στο μάγουλο ελιά\nREm                           LAm           REm\nΆσπρο πρόσωπο σαν κρίνος και στο μάγουλο ελιά\nREm                           LAm           REm\nΜαύρα μάτια, μαύρα φρύδια, κατσαρά μαύρα μαλλιά\n \nREm              LAm              REm\nΜαυρομάτα μου για σένα εκατάντησα τρελός\nREm              LAm              REm\nΘα πεθάνω, δεν αντέχω, έχω γίνει φθισικός\nREm              LAm              REm\nΘα πεθάνω, δεν αντέχω, έχω γίνει φθισικός \nREm              LAm              REm\nΜαυρομάτα μου για σένα εκατάντησα τρελός\n\nREm                           LAm           REm\nΠόνους έχω εγώ κρυμμένους μες στα φύλλα της καρδιάς\nREm                           LAm           REm\nΜε τα μαγικά σου μάτια, όταν φως μου με κοιτάς\nREm                           LAm           REm\nΜε τα μαγικά σου μάτια, όταν φως μου με κοιτάς \nREm                           LAm           REm\nΠόνους έχω εγώ κρυμμένους μες στα φύλλα της καρδιάς\n\nREm                           LAm           REm\nΤέτοιαν εμορφιά ποτές μου, αχ, τσαχπίνα μου γλυκιά\nREm                           LAm           REm\nδεν την έχω απαντήσει μέσα σε όλο τον ντουνιά\nREm                           LAm           REm\nδεν την έχω απαντήσει μέσα σε όλο τον ντουνιά\nREm                           LAm           REm\nΤέτοιαν εμορφιά ποτές μου, αχ, τσαχπίνα μου γλυκιά",
+      "tr": "Mávra mátia, mávra frídia\n\nMávra mátia, mávra frídia, katsará mávra maliá\nÁspro prósopo san krínos ke sto mágulo eliá\nÁspro prósopo san krínos ke sto mágulo eliá\nMávra mátia, mávra frídia, katsará mávra maliá\n\nMavromáta mu gia séna ekatándisa treлós\nTha pethάno, den andécho, écho ghíni ftisikós\n\nPόnus écho eghό krimménus mes sta fíla tis kardiάs\nMe ta mághikά su mátia, ótan fos mu me kitάs\n\nTétian emorfiά potés mu, ach, tsachpína mu ghlikiá\nden tin écho apandísi mésa se ólo ton nduniά",
+      "ti": "Occhi neri, sopracciglia nere\n\nOcchi neri, sopracciglia nere, capelli neri e ricci\nviso bianco come un giglio e sulla guancia un neo\nviso bianco come un giglio e sulla guancia un neo\nocchi neri, sopracciglia nere, capelli neri e ricci\n\nOcchi neri miei, per te sono diventato pazzo\nmorirò, non resisto, sono diventato tisico\n\nHo dolori nascosti dentro le fibre del cuore\ncon i tuoi occhi ammalianti, quando mi guardi, luce mia\n\nUna tale bellezza mai, ah, mia dolce civettuola\nnon l'ho incontrata in tutto il mondo\n\nNote:\n\nελιά — qui non l'olivo ma un neo sulla pelle, immagine già incontrata in altre canzoni\nφθισικός — tisico, malato di tubercolosi; qui usato iperbolicamente per esprimere quanto il dolore d'amore lo stia consumando fisicamente\nτσαχπίνα — civettuola, birichina, già incontrata in altre canzoni\nντουνιάς — il mondo (turchismo), già incontrato in altre canzoni\nsecondo la tradizione (come riportato dall'articolo di approfondimento), il brano sarebbe stato ispirato da Vamvakaris a una donna realmente esistita, sebbene i dettagli biografici precisi restino incerti/dibattuti tra le fonti",
+      "no": "Nella celebre incisione originale a 78 giri, durante l'assolo di bouzouki si sentono i musicisti scambiarsi saluti e omaggi in dialetto mágkiko. Si distingue chiaramente Roukounas che esclama \"Γεια σου Μάρκο μου Καρούζο!\" (in omaggio ironico, paragonando al tenore Enrico Caruso) e la risposta rivolta al co-interprete, \"Γειά σου Ρούκουνα Κεπούρα!\".\nMarkos nella sua autobiografia narra che la canzone era scritta per una donna cretese (che lavorava in un bordello a Bourla), che si era innamorata di lui e che era contesa anche da Nikos Mathesis; quest'ultimo lo aveva picchiato con un bastone al braccio per gelosia"
+    },
+    {
+      "id": "s_1787992885233",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Αντώνης Νταλγκάς",
+          "year": "1928",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=lxeg5immaKU"
+        },
+        {
+          "who": "Κώστας Καρίπης",
+          "year": "1928",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=jmiponxX-0Y"
+        },
+        {
+          "who": "Γιώργος Βιδάλης",
+          "year": "1928",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Or0m8morxkI"
+        }
+      ],
+      "date": "2026-08-29",
+      "tgr": "Μάγκικο μου",
+      "tit": "Mànghiko mu",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "Smirneico",
+      "dr": "",
+      "bal": "Sirtòs",
+      "ll": "",
+      "li": "",
+      "ch": "SOL                         DO\nΜάγκικό μου, νόστιμο μου, σκέρτσο-πεταχτό\n   RE                       SOL\nμε τα ναζάκια σού μ' έχεις τρελό\nSOL                       DO\nΣαν σε βλέπω από κοντά μου να περνάς μικρό\n   RE                        SOL\nμου ξετρελαίνεις, φως μου, το μυαλό\n \nSOL                         DO\nΈλα δως μου τα φιλιά σου, κλίνε πια μ' εμέ\n   RE                       SOL\nτι θέλεις, φως μου, να χαθώ για σε\nSOL                       DO\nΈλα μάγκικο σκερτόζο, δως μου μια ματιά\n   RE                        SOL\nγια να μου γιάνεις, φως μου, την καρδιά\n \nSOL                         DO\nΜάγκικό μου, νόστιμο μου, σκέρτσο-πεταχτό\n   RE                       SOL\nμε τα ναζάκια σου μ' έχεις τρελό\nSOL                       DO\nΣαν σε βλέπω από κοντά μου να περνάς μικρό\n   RE                        SOL\nμου ξετρελαίνεις, φως μου, το μυαλό",
+      "tr": "Mànghiko mu\n\nMángikó mu, nóstimó mu, skértso-petachtό\nme ta nazákia su m'échis trelό\nSan se vlépo apό kondá mu na perás mikrό\nmu ksetreléni̱s, fos mu, to mialό\n\nÉla dos mu ta filiá su, klíne pia m'emé\nti thélis, fos mu, na chathό gia se\nÉla mánghiko skertόzo, dos mu mia matiά\ngia na mu yiánis, fos mu, tin kardiά\n\nMánghikó mu, nóstimó mu, skértso-petachtό\nme ta nazákia su m'échis trelό\nSan se vlépo apό kondá mu na perás mikrό\nmu ksetreléni̱s, fos mu, to mialό",
+      "ti": "Bricconcello mio\n\nBricconcello mio, saporito mio, scherzoso e vivace\ncon le tue smancerie mi hai fatto impazzire\nquando ti vedo passare vicino a me, piccolo\nmi fai perdere la testa, luce mia\n\nVieni, dammi i tuoi baci, piegati ormai verso di me\nperché vuoi, luce mia, che mi perda per te\nvieni, birbante scherzoso, dammi uno sguardo\nper guarirmi, luce mia, il cuore\n\nBricconcello mio, saporito mio, scherzoso e vivace\ncon le tue smancerie mi hai fatto impazzire\nquando ti vedo passare vicino a me, piccolo\nmi fai perdere la testa, luce mia\n\nNote:\n\nμάγκικος — aggettivo da \"μάγκας\" (furbo, sbruffone, di strada), qui usato come vezzeggiativo scherzoso, reso liberamente come \"bricconcello\"\nσκερτσοπεταχτό/σκέρτσο-πεταχτό — parola composta: \"σκέρτσο\" (scherzo, brio, malizia civettuola) + \"πεταχτό\" (vivace, guizzante), aggettivo che descrive un fascino brioso e provocante\nνόστιμος — letteralmente \"saporito/gustoso\", ma usato qui in senso figurato per \"attraente/carino\"\nναζάκια — diminutivo di \"νάζια\" (smancerie, moine), già incontrato in altre canzoni\nγιάνω — guarire (variante popolare di \"γιατρεύω\"), già incontrato in una variante del testo (\"να μου γιατρέψεις\")",
+      "no": "Sebbene nei registri dell'epoca il brano venisse attribuito al celebre musicista e compositore Kostas Karipis, si tratta in realtà di una melodia tradizionale radicata nella cultura multietnica dell'Asia Minore, con influenze e risonanze legate alla tradizione musicale ebraica dell'area."
+    },
+    {
+      "id": "s_1787987139775",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μαρίκα Παπαγκίκα",
+          "year": "1925",
+          "note": "Chicago",
+          "link": "https://www.youtube.com/watch?v=m1Ym7gb4CBA"
+        },
+        {
+          "who": "Γιώργος Παπασιδέρης",
+          "year": "1937",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=In00mYW4oMI"
+        },
+        {
+          "who": "Κώστας Καλύβας, Γιώργος Κατσαρός (Θεολογίτης)",
+          "year": "1952",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=vIYaYld4EOM"
+        }
+      ],
+      "date": "2026-08-29",
+      "tgr": "Λεμονάκι μυρωδάτο",
+      "tit": "Lemonáki Mιrodáto",
+      "alias": "",
+      "at": "",
+      "am": "",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE      LA   RE      LA   RE\nΛε-, μωρέ, λεμονάκι μυρωδάτο \nRE      LA   RE      LA   RE\nΛε-, μωρέ, λεμονάκι μυρωδάτο\nRE                    MIm     LA        RE\nΛεμονάκι μυ--ρωδάτο κι από περιβό--λι αφράτο \nRE                    MIm     LA        RE\nΛεμονάκι μυ--ρωδάτο κι από περιβό--λι αφράτο \n\nRE      LA   RE      LA   RE\nΜην, μωρέ, μην παραμυρίζεις τόσο \nRE      LA   RE      LA   RE\nΜην, μωρέ, μην παραμυρίζεις τόσο\nRE                    MIm     LA        RE\nΜην παραμυρίζεις τόσο και με κάνεις και νυχτώσω \nRE                    MIm     LA        RE\nΜην παραμυρίζεις τόσο και με κάνεις και νυχτώσω\n\nRE      LA   RE      LA   RE\nΚι αν, μωρέ, κι αν νυχτώσεις παλικάρι\nRE      LA   RE      LA   RE\nΚι αν, μωρέ, κι αν νυχτώσεις παλικάρι\nRE                    MIm     LA        RE\nΚι αν νυχτώσεις παλικάρι, κάτσε να 'βγει το φεγγάρι \nRE                    MIm     LA        RE\nΚι αν νυχτώσεις παλικάρι, κάτσε να 'βγει το φεγγάρι\n\nRE      LA   RE      LA   RE\nΝα, μωρέ, να σε δω να σε γνωρίσω \nRE      LA   RE      LA   RE\nΝα, μωρέ, να σε δω να σε γνωρίσω\nRE                    MIm     LA        RE\nΝα σε δω να σε γνωρίσω, να σε διπλοχαιρετήσω \nRE                    MIm     LA        RE\nΝα σε δω να σε γνωρίσω, να σε διπλοχαιρετήσω",
+      "tr": "Lemonáki Mιrodáto\n\nLe-, moré, lemonáki mirodáto\nLemonáki mi--rodáto ki apó perivó--li afráto\n\nMin, moré, min paramirízis tóso\nMin paramirízis tóso ke me kánis ke nichtóso\n\nKi an, moré, ki an nichtósis palikári\nKi an nichtósis palikári, kátse na 'vghi to fengári\n\nNa, moré, na se do na se ghnoríso\nNa se do na se ghnoríso, na se diplocheretíso",
+      "ti": "Piccolo limone profumato\n\nEhi, limoncino profumato\nlimoncino profumato, di un rigoglioso giardino\n\nNon, ehi, non profumare così tanto\nnon profumare così tanto da farmi fare notte\n\nE se, ehi, se farai notte, giovanotto\nse farai notte, giovanotto, aspetta che esca la luna\n\nFammi, ehi, fammi vederti, conoscerti\nfammi vederti, conoscerti, e salutarti doppiamente\n\nNote:\n\nλεμονάκι μυρωδάτο — \"limoncino profumato\", vezzeggiativo poetico rivolto scherzosamente a un giovane corteggiatore, paragonato a un frutto fragrante\nπαραμυρίζω — profumare intensamente/eccessivamente (verbo popolare rafforzativo di \"μυρίζω\")\nδιπλοχαιρετώ — salutare doppiamente/con particolare calore, gesto di cortesia rafforzata\nil brano appartiene al repertorio dei canti popolari tradizionali (δημοτικά τραγούδια) della Messenia, danzato come \"συρτός καλαματιανός\" in ritmo 7/8, con la struttura tipica a botta e risposta tra i due sessi durante il ballo in cerchio",
+      "no": "In alcune regioni della Macedonia greca e della Grecia centrale, questo brano viene utilizzato per una danza rituale primaverile in cui i ballerini intrecciano dei nastri colorati attorno a un palo centrale, a simboleggiare il risveglio della natura e la fertilità.\nSebbene oggi sia considerata una canzone quasi ingenua, l'ultima strofa nasconde un'arguzia tipica delle antiche osterie di campagna: alla domanda \"Da quale stirpe vieni?\", la risposta finale è \"Vengo dalla stirpe di chi si muove e si piega, e di chi serve da bere nelle taverne!\", svelando l'identità popolare e festosa dei protagonisti."
+    },
+    {
+      "id": "s_1787982599560",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=3LJGV1SvXgI"
+        }
+      ],
+      "date": "2026-08-29",
+      "tgr": "Ο Χαράλαμπης",
+      "tit": "O Charalámbis",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "kalamatianòs",
+      "ll": "",
+      "li": "",
+      "ch": "RE                    LA          RE\nΈλα, βρε Χαραλάμπη, να σε παντρέψουμε\n                    LA          RE\nνα φάμε και να πιούμε και να χορέψουμε \n                    LA          RE\nνα φάμε και να πιούμε και να χορέψουμε \n\n\nREm                     LA\nΔε την θέλω - Θα την πάρεις\nREm                  LA\nΆλλα λόγια λέτε βρε παιδιά\nREm                    LA          REm\nΤι καμώματα είναι τούτα, με το ζόρι παντρειά\n                    LA          RE\nΤι καμώματα είναι τούτα, με το ζόρι παντρειά\n\nRE                    LA          RE\nΑφήσετε τα λόγια και τα μοιρολόγια\n                    LA          RE\nΟ γέρο-Χαραλάμπης δε θέλει παντρειά\n\n\nREm                     LA\nΔε την θέλω - Θα την πάρεις\nREm                  LA\nΆλλα λόγια λέτε βρε παιδιά\nREm                    LA          REm\nΤι καμώματα είναι τούτα, με το ζόρι παντρειά\n                    LA          RE\nΤι καμώματα είναι τούτα, με το ζόρι παντρειά\n\nRE                    LA          RE\nΠάρτην, βρε Χαραλάμπη, είναι νοικοκυρά\n                    LA          RE\nπλένει και σιδερώνει το χρόνο μια φορά\n\n\nREm                     LA\nΔε την θέλω - Θα την πάρεις\nREm                  LA\nΆλλα λόγια λέτε βρε παιδιά\nREm                    LA          REm\nΤι καμώματα είναι τούτα, με το ζόρι παντρειά\n                    LA          RE\nΤι καμώματα είναι τούτα, με το ζόρι παντρειά",
+      "tr": "O Charalámbis\n\nÉla, vre Charalámbi, na se pandrépsume\nna fáme ke na piúme ke na chorέpsume\n\nDe tin thélo - Tha tin páris\nAla lόghia léte vre pediá\n\nTi kamόmata íne túta, me to zόri pandriá\nTi kamόmata íne túta, me to zόri pandriá\n\nAfísete ta lόghia ke ta miroloyiá\nO yero-Charalámbis de théli pandriá\n\nDe tin thélo...\n\nPárten, vre Charalámbi, íne nikokirá\nplέni ke siderόni to chrόno mia forá\n\nDe tin thélo...",
+      "ti": "Charalambis\n\nVieni, ehi Charalambis, che ti sposiamo\nper mangiare, bere e ballare\n\nNon la voglio - La prenderai\naltre chiacchiere fate, ragazzi\n\nChe modi sono questi, un matrimonio forzato\nche modi sono questi, un matrimonio forzato\n\nLasciate le chiacchiere e i lamenti\nil vecchio Charalambis non vuole sposarsi\n\nNon la voglio...\n\nPrendila, ehi Charalambis, è una brava massaia\nlava e stira una volta all'anno\n\nNon la voglio...\n\nNote:\n\nil brano nasce, secondo la tradizione, da un'usanza popolare in cui i familiari di ragazze in età da marito organizzavano vere e proprie \"trappole\" per costringere scapoli renitenti al matrimonio, spesso approfittando di un fidanzamento combinato con l'inganno o l'alcol durante il Carnevale\nil nome \"Χαραλάμπης\" (e la sposa \"Χάιδω\", non presente in questo estratto) è generico, intercambiabile con qualunque nome del giovane di turno preso di mira dalla tradizione\nl'ultima strofa, sulla massaia che \"lava e stira una volta all'anno\", è una battuta ironica/scherzosa contro la sposa proposta, parte del registro satirico-carnevalesco tipico del canto\nil canto è tradizionalmente eseguito durante le feste di Carnevale (Απόκριες), spesso in forma di piccola scenetta recitata con botta e risposta tra i partecipanti",
+      "no": "Le radici di questo canto risalgono almeno al XIX secolo. Il brano era estremamente popolare durante il periodo di Carnevale (Apokries) e, soprattutto, durante i banchetti nuziali. Una partitura stampata e la sua storia documentata sono state ritrovate persino in una pubblicazione del 1899 sulla storica rivista ateniese Estia."
+    },
     {
       "id": "s_1787981015635",
       "offsets": {},
@@ -10208,6 +10345,35 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/arapakis.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1787985114687",
+      "name": "Γιώργος Παπασιδέρης",
+      "nameit": "Giòrgios Papasiderìs",
+      "born": "14 settembre 1902,Salamina",
+      "died": "8 ottobre 1977, Salamina",
+      "bio": "Dopo aver lasciatp la scuola elementare ha lavorato su lavori manuali come marinaio e agricoltore.\nPubblica il suo primo album nel 1928, all'età di 26 anni, eseguendo un'amanes. \nHa cantato con grande successo rebetika e amanedes. \nHa registrato centinaia di canzoni. Circa la metà di loro erano le sue creazioni (lirica / musica) e il resto del folk tradizionale che ha salvato e registrato\nDurante la guerra greco-italiana, contribuì all'incoraggiamento dei soldati sul fronte albanese con canzoni storiche come la \"Dentro la Cleistura le montagne\" e la \"Voi montagne di Korçë\". \nHa avuto una grande influenza sulla casa discografica Columbia e ha contribuito a entrare nel campo grandi artisti, come Tassia Verra, Sofia Kollitiri e il famoso clarinetto Yannis Vpoulos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/papasideris.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1787986367057",
+      "name": "Κώστας Καλύβας",
+      "nameit": "Kòstas Kalìvas",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Kalyvas nacque in Grecia, ma il suo destino fu segnato dal legame familiare con il cugino Ioannis \"Jack\" Chalikias. \nChalikias (originario di Creta) era emigrato giovanissimo negli Stati Uniti diventando una leggenda: fu il primo a registrare un assolo di bouzouki in America nel 1932 (Minore tou Teke), sdoganando uno strumento che all'epoca in Grecia era persino parzialmente bandito e associato alla malavita.Il viaggio verso l'America:\nSulle orme del cugino, Kalyvas emigrò negli Stati Uniti a metà del Novecento (probabilmente tra la fine degli anni '30 e gli anni '40), stabilendosi nel cuore della comunità greca, tra New York e Chicago. .2. La Vita a New York e i \"Club\" Greci \nCome la maggior parte dei musicisti di rebetiko negli Stati Uniti, Kalyvas non viveva solo di musica. Di giorno i musicisti greci lavoravano spesso come operai, carpentieri o ristoratori, mentre di notte si trasformavano nei protagonisti delle taverne o dei locali notturni di Eighth Avenue a Manhattan.Il sodalizio con \"Manga\": Secondo i racconti dei discendenti di Chalikias, Kalyvas era molto noto nell'ambiente per fare coppia fissa (in tour e nelle esibizioni dal vivo) con un altro personaggio pittoresco della New York greca: il chitarrista e cantante Mike Pappas, soprannominato \"Manga\".\nNegli anni '50, Kalyvas fondò la sua formazione musicale. Nei dischi dell'etichetta Grecofone (una delle più importanti case discografiche per immigrati fondata negli USA), non figurava solo come esecutore ma come vero e proprio direttore d'orchestra.\nKalyvas suonava un bouzouki dal suono tipicamente \"americano\": negli Stati Uniti, infatti, i musicisti greci iniziarono per primi a elettrificare gli strumenti e a usare corde metalliche più spesse rispetto a quelle usate ad Atene, creando un sound più squillante e moderno, che avrebbe poi influenzato la musica della stessa Grecia continentale nei decenni successivi.\nFigure come Kostas Kalyvas sono considerate dei \"custodi culturali\". Negli anni '40 e '50, mentre in Grecia il rebetiko subiva censure politiche e mutamenti radicali, la comunità greca negli Stati Uniti lo protesse e lo mantenne puro, legandolo a una forte componente di nostalgia (il cosiddetto dolore della Xenitia, l'esilio). I dischi a 78 giri che Kalyvas ha inciso con  il leggendario chitarrista Giorgos Katsaros sono oggi considerati rarità assolute dai collezionisti di musica etnica.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kalivas.jpg",
       "roles": [
         "ar",
         "mu"
