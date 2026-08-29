@@ -1,8 +1,67 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-29T13:55:31.388Z",
+  "exportedAt": "2026-08-29T18:35:21.230Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788028392024",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργος Παπασιδέρης",
+          "year": "1935",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=dXeOT_8s0Z0"
+        },
+        {
+          "who": "Τέτος Δημητριάδης",
+          "year": "1935",
+          "note": "New York",
+          "link": "https://www.youtube.com/watch?v=OrLFvMxRTSg"
+        }
+      ],
+      "date": "2026-08-29",
+      "tgr": "Μες στον τεκέ της Μαριγώς",
+      "tit": "Mes ston tekè tis Marigòs",
+      "alias": "",
+      "at": "Κώστας Μακρής",
+      "am": "Σπύρος Περιστέρης",
+      "yr": "1935",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "σαμπάχ",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "RE        DOm         RE\nΜες στον τεκέ της Μαριγώς\nRE        DOm         RE\nμ' έπιασε ένας μυστικός\n      SOLm        RE\nΒρε κι απάνω στο μεράκι\nDOm            RE\nβάζει χέρι στο μαυράκι\n\nRE        DOm         RE\nΤον λουλά μας τον εσπάει\nRE        DOm         RE\nκαι τη τσίκα μας αρπάζει\n    SOLm        RE\nΤότε τράβηξα μαχαίρι\n    SOLm        RE\nκαι τον βάρεσα στο χέρι\n\nRE        DOm         RE\nΈγινε μεγάλ' αντάρα\nRE        DOm         RE\nκαι όλα στο τεκέ μαντάρα\n    SOLm        RE\nΤου 'κανα μια ματσαράγκα\n    SOLm        RE\nκαι του το 'στριψα του μάγκα",
+      "tr": "Mes ston tekè tis Marigòs\n\nMes ston teké tis Marighós\nm'épiase énas mistikós\nVre ki apáno sto meráki\nvázi chéri sto mavráki\n\nTon lulá mas ton espái\nke ti tsíka mas arpázi\nTóte tráviksa machéri\nke ton váresa sto chéri\n\nÉghine meghál'andára\nke óla sto teké mandára\nTu 'kana mia matsaránga\nke tu to 'stripsa tu mánga",
+      "ti": "Dentro il tekè di Marigò\n\nDentro il tekè di Marigò\nmi ha sorpreso un poliziotto in borghese\nehi, e proprio nel bel mezzo del piacere\nmette mano sull'hashish\n\nCi rompe la nostra pipa\ne ci sequestra la nostra roba\nallora ho tirato fuori il coltello\ne l'ho colpito alla mano\n\nÈ scoppiato un gran subbuglio\ne tutto nel tekè è andato in disordine\ngli ho fatto un imbroglio\ne l'ho fregato per bene, da mangas\n\nNote:\n\nμυστικός — poliziotto in borghese/agente segreto, qui riferito a un infiltrato che fa irruzione nel tekè\nμαυράκι — hashish, già incontrato in altre canzoni\nλουλάς — pipa per hashish, già incontrato in altre canzoni\nτσίκα — termine gergale per la scorta/quantità di droga posseduta\nαντάρα — subbuglio, gran confusione, scompiglio\nμαντάρα — disordine/casino totale (gergale, spesso nell'espressione \"γίνεται μαντάρα\")\nματσαράγκα — imbroglio/inganno, già incontrato in \"Στου Σιδέρη τον τεκέ\"\nτου το 'στριψα του μάγκα — idiomatico gergale: \"gliel'ho girata/l'ho fregato per bene\", vantandosi di aver ingannato l'agente\nil brano racconta in prima persona una retata della polizia in un tekè, con la reazione violenta del protagonista contro l'agente infiltrato — tema classico della persecuzione poliziesca del mondo hashish/rebetiko degli anni '30",
+      "no": ""
+    },
+    {
+      "id": "s_1788027449731",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-29",
+      "tgr": "Μες στης πόλης το χαμάμ",
+      "tit": "Mes stis polis to chamam",
+      "alias": "Το χαρέμι στο χαμάμ",
+      "at": "Ανέστης Δελιάς",
+      "am": "Ανέστης Δελιάς",
+      "yr": "1936",
+      "ar": "Ανέστης Δελιάς",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "ουσάκ",
+      "bal": "Tsifteteli",
+      "ll": "https://www.youtube.com/watch?v=spe0IaqN6UY",
+      "li": "",
+      "ch": "SOL\nΜες στης πόλης το χαμάμ ένα χαρέμι κολυμπά\nMIm      REm      MIm  REm  MIm  FA SOL LAm MIm\nΑραπάκια το φυλάνε, στον Αλή Πασά το πάνε\nMIm            REm        MIm\nΝτιριντάχτα, ντιρι-ντιριντάχτα...\n\nSOL\nΔιατάζει τη φρουρά του, να το φέρουνε μπροστά του\nMIm      REm      MIm  REm  MIm  FA SOL LAm MIm\nνα το βάλει να χορέψει και μπουζούκι να τού παίξει\nMIm            REm        MIm\nΝτιριντάχτα, ντιρι-ντιριντάχτα...\n\nSOL\nΈτσι την περνάνε όλοι οι πασάδες στο ντουνιά\nMIm      REm      MIm  REm  MIm  FA SOL LAm MIm\nμε χορό και με τραγούδι, μ' αγκαλιές και με φιλιά\nMIm            REm        MIm\nΝτιριντάχτα, ντιρι-ντιριντάχτα...\n\nSOL\nΣτην Περσία το χασίσι το πουλάν με την οκά\nMIm      REm      MIm  REm  MIm  FA SOL LAm MIm\nΣτην Αθήνα δεν το βρίσκεις, ούτε και για μυρουδιά\nMIm            REm        MIm\nΝτιριντάχτα, ντιρι-ντιριντάχτα...",
+      "tr": "Mes stis pόlis to chamάm\n\nMes stis pόlis to chamάm éna charémi kolimbά\nArapάkia to filάne, ston Alí Pasά to páne\nNdirindάchta, ndiri-ndirindάchta...\n\nDiatάzi ti frurά tu, na to férune brostά tu\nna to vάli na chorέpsi ke buzúki na tu péksi\nNdirindάchta, ndiri-ndirindάchta...\n\nÉtsi tin pernάne όli i pasάdes sto nduniά\nme chorό ke me traghúdi, m'anghaliés ke me filiά\nNdirindάchta, ndiri-ndirindάchta...\n\nStin Persía to chasísi to pulάn me tin oká\nStin Athína den to vrískis, úte ke gia mirudiά\nNdirindάchta, ndiri-ndirindάchta...",
+      "ti": "Nel bagno turco della città\n\nNel bagno turco della città nuota un harem\ni moretti lo custodiscono, lo portano ad Ali Pascià\n(ritornello onomatopeico senza significato letterale)\n\nOrdina alla sua guardia di portarlo davanti a sé\ndi farlo ballare e di suonargli il bouzouki\n(ritornello)\n\nCosì se la passano tutti i pascià del mondo\ncon danza e canto, con abbracci e con baci\n(ritornello)\n\nIn Persia l'hashish lo vendono a peso (all'oca)\nad Atene non lo trovi, neanche per odorarlo\n(ritornello)\n\nNote:\n\nχαρέμι — harem; qui il termine è usato collettivamente e trattato quasi come un singolo oggetto/entità (\"το φυλάνε\", \"το πάνε\" al neutro singolare), tipico di questo genere di canzoni esotizzanti\nαραπάκια — diminutivo di \"αράπηδες\" (uomini di colore/mori), guardie del harem nell'immaginario orientaleggiante\nοκά — antica unità di misura per liquidi/solidi, già incontrata in altre canzoni\nντιριντάχτα — ritornello onomatopeico/esotizzante senza traduzione letterale, tipico delle canzoni \"ανατολίτικα\"",
+      "no": ""
+    },
     {
       "id": "s_1788011719924",
       "offsets": {},
