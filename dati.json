@@ -1,8 +1,109 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-29T09:03:24.915Z",
+  "exportedAt": "2026-08-29T13:55:31.388Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788011719924",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στράτος Παγιουμτζής, Στελλάκης Περπινιάδης",
+          "year": "1939",
+          "note": "Baiaderas primo bouzouki, chiotis secondo bouzouki",
+          "link": "https://www.youtube.com/watch?v=pIt2xmn1KhM"
+        },
+        {
+          "who": "Δημήτρης Γκόγκος",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=PusCaj3-l7Y"
+        },
+        {
+          "who": "Καίτη Γκρέυ",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=f8VBh3ZdsQY"
+        }
+      ],
+      "date": "2026-08-29",
+      "tgr": "Μέσα στης ζωής τα μονοπάτια",
+      "tit": "Mesa stis zois ta monopatia",
+      "alias": "Γυρνώ σαν νυχτερίδα",
+      "at": "Δημήτρης Γκόγκος",
+      "am": "Δημήτρης Γκόγκος",
+      "yr": "1939",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "Κιουρδί",
+      "bal": "Chasàpiko",
+      "ll": "",
+      "li": "",
+      "ch": "RE      DOm    SOLm    RE#     RE\nΜέσα στης ζωής τα μονοπάτια\nRE      DOm    SOLm    RE#     RE\nμπρος στα αρχοντικά σου σκαλοπάτια\nSOL     SOLm    RE#     RE\nτριγυρίζω σαν τη νυχτερίδα \n                    DOm      RE\nλίγη για να βρω χαρά κι ελπίδα \nSOL     SOLm    RE#     RE\nτριγυρίζω σαν τη νυχτερίδα \n                    DOm      RE\nλίγη για να βρω χαρά κι ελπίδα \n\nRE      DOm    SOLm    RE#     RE\nΞέρεις πως για σένα ξενυχτάω\nRE      DOm    SOLm    RE#     RE\nσαν σε χάσω λίγο, δεν βαστάω\nSOL     SOLm    RE#     RE\nΣτο κρασί ζητώ τη συντροφιά σου \n                    DOm      RE\nάλληνε δεν βάζω εγώ μπροστά σου \nSOL     SOLm    RE#     RE\nΣτο κρασί ζητώ τη συντροφιά σου \n                    DOm      RE\nάλληνε δεν βάζω εγώ μπροστά σου\n\nRE      DOm    SOLm    RE#     RE\nΜη μου κάνεις σκέρτσα που τα ξέρω\nRE      DOm    SOLm    RE#     RE\nκαι μη θες για σέ να υποφέρω\nSOL     SOLm    RE#     RE\nΈλα πια και δώσ' μου λίγα χάδια\n                    DOm      RE\nΜη μ' αφήνεις μοναχό τα βράδια \nSOL     SOLm    RE#     RE\nΈλα πια και δώσ' μου λίγα χάδια\n                    DOm      RE\nΜη μ' αφήνεις μοναχό τα βράδια",
+      "tr": "Mésa stis zoís ta monopátia\n\nMésa stis zoís ta monopátia\nbrós sta archondiká su skalopátia\ntrighirízo san ti nichterída\nlíghi gia na vro chará ki elpída\n\nKséris pos gia séna ksenichtáo\nsan se cháso lígho, den vastáo\nSto krasí zitó ti sindrofiá su\náline den vázo eghó brostá su\n\nMi mu kánis skértsa pu ta kséro\nke mi thes gia sé na ipoféro\nÉla pia ke dós' mu lígha chádia\nMi m'afínis monachό ta vrádia",
+      "ti": "Nei sentieri della vita\n\nNei sentieri della vita\ndavanti ai tuoi gradini signorili\nmi aggiro come un pipistrello\nper trovare un po' di gioia e speranza\n\nSai che per te resto sveglio di notte\nse ti perdo un poco, non resisto\nnel vino cerco la tua compagnia\nnessun'altra metto io davanti a te\n\nNon farmi le tue moine, che le conosco\ne non voler che io soffra per te\nvieni ormai e dammi un po' di carezze\nnon lasciarmi solo le sere\n\nNote:\n\nνυχτερίδα — pipistrello; l'immagine di sé come pipistrello che si aggira di notte davanti alla porta dell'amata è la metafora centrale del brano (da cui i titoli alternativi \"Γυρνώ σαν νυχτερίδα/Νυχτερίδα\")\nσκέρτσα — moine, civetterie, atteggiamenti provocanti/birichini\nαρχοντικά σκαλοπάτια — \"gradini signorili\", a indicare una casa agiata, sottolineando la distanza sociale tra il narratore e l'amata",
+      "no": "Pochi anni dopo la pubblicazione di questa canzone, durante la dura occupazione nazista della Grecia (1941), Baghianderas contrasse una gravissima infezione che, unita alle privazioni della fame, lo portò alla totale cecità. Da quel momento in poi, i versi di questa canzone (\"Giro come un pipistrello... al buio\") assunsero agli occhi del pubblico un significato tragico e quasi profetico legato al destino del compositore, che passò il resto della vita a suonare al buio."
+    },
+    {
+      "id": "s_1788009570364",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μαρίκα Πολίτισσα",
+          "year": "1932",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ItgovciUJ4k"
+        },
+        {
+          "who": "Ρόζα Εσκενάζυ",
+          "year": "1932",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=4Luxw7Lfqls"
+        }
+      ],
+      "date": "2026-08-29",
+      "tgr": "Γιατί φουμάρω κοκαΐνη",
+      "tit": "Ghiatí fumáro kokaḯni",
+      "alias": "Ο κοκαϊνοπότης",
+      "at": "Παναγιώτης Τούντας",
+      "am": "Παναγιώτης Τούντας",
+      "yr": "1932",
+      "ar": "",
+      "lb": "",
+      "gn": "Smirneico",
+      "dr": "χιτζάζ",
+      "bal": "Tsifteteli",
+      "ll": "",
+      "li": "",
+      "ch": "SOLm          RE      SOLm          RE\nΠου 'ναι εκείνα μου τα κάλλη\n        DOm    SOLm  RE\nΠου 'ναι η τόση εμορφιά\nSOLm    RE          DOm\nΣτην Αθήνα, δεν είχε, άλλη\n        SOLm  RE\nτέτοια λεβεντιά\n\nSOLm                RE\nΉμουν κούκλα, ναι, στ' αλήθεια\n    DOm    SOLm  RE\nΜε μεγάλη αρχοντιά\nSOLm    RE          DOm\nΔεν σας λέγω παραμύθια\n        SOLm  RE\nΤρέλανα ντουνιά\n\n DOm                            SIbm\nΜα μ' έμπλεξε ένας μόρτης, αχ, ένας μάγκας πότης\nFA                 FA  SIbm  FA\nΜου πήρε ότι είχα και μ' αφήνει\nSIbm                    FA\nΜου πήρε την καρδιά μου, τα νιάτα τα λεφτά μου\nFA#                    FA  REm\nΚι απ' το καημό φουμάρω κοκαΐνη\n\nSOLm   RE   SOLm    RE\nΜ' αγαπούσαν αφεντάδες\n        DOm    SOLm  RE\nΝέοι γέροι και παιδιά\nSOLm    RE          DOm\nΚι όλοι πρώτοι κουβαρντάδες\n        SOLm  RE\nμεσ' στην αγορά\n\nSOLm                RE\nΑχ τι όμορφα περνούσα\n    DOm    SOLm  RE\nμε τραγούδια και κρασί\nSOLm    RE          DOm\nΚάθε μέρα εγλεντούσα\n        SOLm  RE\nτι ζωή χρυσή\n\nSOL  RE  SIbm\n\nDOm                                SIbm\nΚαι τώρα η καημένη γυρίζω μαραμένη\n FA                          FA  SIbm  FA\nΓιατί ο σεβντάς του μάγκα δε μ' αφήνει\nSIbm                    FA\nΜε τρέλανε ο μόρτης, ο κοκαϊνοπότης\nFA#                    FA  REm\nΓι' αυτό κι εγώ φουμάρω κοκαΐνη",
+      "tr": "Ghiatí fumáro kokaḯni\n\nPu 'ne ekína mu ta káli\nPu 'ne i tόsi emorfiá\nStin Athína, den íche, áli\ntétia leventiá\n\nÍmun kúkla, ne, st'alíthia\nMe megháli archondiá\nDen sas légho paramíthia\nTrélana nduniá\n\nMa m'ébleksе énas mόrtis, ach, énas mángas pόtis\nMu píre óti ícha ke m'afíni\nMu píre tin kardiá mu, ta niáta ta leftá mu\nKi ap'to kaimό fumáro kokaíni\n\nM'aghapúsan afendádes\nNéi yéri ke pediá\nKi óli prόti kuvarndádes\nmes stin aghorá\n\nAch ti όmorfa pernúsa\nme traghúdia ke krasí\nKáthe méra eglendúsa\nti zoí chrisí\n\nKe tόra i kaiméni ghirízo maraméni\nYiatí o sevdás tu mánga de m'afíni\nMe trélane o mόrtis, o kokainopόtis\nYi'aftό ki eghό fumáro kokaíni",
+      "ti": "Perchè fumo cocaina\n\nDove sono ora quelle mie grazie\ndove è tanta bellezza\nad Atene non c'era un'altra\ncon tanta fierezza\n\nEro una bambola, sì, davvero\ndi grande nobiltà\nnon vi racconto favole\nfacevo impazzire il mondo\n\nMa mi ha irretito un delinquente, ah, un mangas dedito al bere\nmi ha preso tutto quello che avevo e mi lascia\nmi ha preso il cuore, la giovinezza, i miei soldi\ne per il dolore fumo cocaina\n\nMi amavano signori facoltosi\ngiovani, vecchi e ragazzi\ne tutti i migliori spaccaldenaro\nin mezzo al mercato\n\nAh, che bella vita passavo\ncon canzoni e vino\nogni giorno facevo festa\nche vita d'oro\n\nE ora, poveretta, giro appassita\nperché la passione per quel mangas non mi lascia\nmi ha fatto impazzire il delinquente, il bevitore di cocaina\nper questo anch'io fumo cocaina\n\nNote:\n\nμόρτης — delinquente/mascalzone di basso rango, figura ambigua tra il furfante e il seduttore, tipica del rebetiko\nκουβαρντάδες — generosi/spendaccioni, uomini che spendono senza contare (turchismo gergale)\nσεβντάς — passione amorosa intensa, già incontrato in altre canzoni\nil brano è narrato in prima persona da una donna che, dopo una vita di successo e ammiratori facoltosi, viene rovinata da un uomo senza scrupoli che la deruba di tutto, portandola alla dipendenza dalla cocaina — tema di degradazione sociale e dipendenza tipico del rebetiko delle origini (1929), spesso interpretato da voci femminili come Marika Frantzeskopoulou o Roza Eskenazy",
+      "no": ""
+    },
+    {
+      "id": "s_1788007719524",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-29",
+      "tgr": "Μεγάλωσες",
+      "tit": "Megáloses",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1949",
+      "ar": "Πρόδρομος Τσαουσάκης, Ιωάννα Γεωργακοπούλου",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "ουσάκ",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=Ps3eOO24hQk",
+      "li": "",
+      "ch": "REm                              LA\nΜεγάλωσες και πια δεν με προσέχεις\nLA                              REm\nμεγάλωσες κι ανάγκη πια δεν μ' έχεις\nRE                              SOLm\nτώρα απ' το άλλο πεζοδρόμιο περνάς\nDO                         FA\nούτε να κοιτάξεις δεν γυρνάς  \nLA                        REm\nμίλα μου και ας μη μ' αγαπάς\nRE                              SOLm\nτώρα απ' το άλλο πεζοδρόμιο περνάς\nDO                              FA\nούτε να κοιτάξεις δεν γυρνάς  \nLA                  REm\nμίλα μου και ας μη μ' αγαπάς\n\n\nREm                              LA\nΘυμήσου που ερχόσουνα κοντά μου\nLA                              REm\nκαι σ' έβαζα μικρή στα γόνατά μου\nRE                              SOLm\nκι ένα βράδυ στο κατώφλι το γειτονικό \nDO                         FA\nπου 'χαμε καθίσει και οι δυο\nLA                              REm\nμου 'δωσες φιλί ερωτικό\nRE                              SOLm\nκι ένα βράδυ στο κατώφλι το γειτονικό \nDO                        FA\nπου 'χαμε καθίσει και οι δυο\nLA                    REm\nμου 'δωσες φιλί ερωτικό\n\n\nREm                              LA\nΜεγάλωσες κι αυτά τα 'χεις ξεχάσει\nLA                              REm\nκαι μ' άλλον τώρα σ' έχουνε αρραβωνιάσει\nRE                              SOLm\nμα εγώ σε βλέπω και θυμάμαι τις βραδιές\nDO                       FA\nκαι τι αναμνήσεις τις παλιές  \nLA                       REm\nκαι θαρρώ πως ήτανε εχθές\nRE                              SOLm\nμα εγώ σε βλέπω και θυμάμαι τις βραδιές\nDO                       FA\nκαι τι αναμνήσεις τις παλιές  \nLA                       REm\nκαι θαρρώ πως ήτανε εχθές",
+      "tr": "Megáloses\n\nMeghálosés ke pia den me prosέchis\nmeghálosés ki anánghi pia den m'échis\ntóra ap'to álo pezodrόmio pernás\núte na kitáksis den ghirnás\nmíla mu ke as mi m'aghapás\n\nThimísu pu erchόsuna kondá mu\nke s'évaza mikrí sta ghonatá mu\nki éna vrádi sto katόfli to yitonikό\npu 'chame kathísi ke i dío\nmu 'dosés filí erotikό\n\nMeghálosés ki aftá ta 'chis ksechási\nke m'álon tóra s'échune aravoniási\nma eghό se vlέpo ke thimáme tis vradiés\nke ti anamnísis tis paliés\nke tharró pos ítane echthés",
+      "ti": "Sei cresciuta\n\nSei cresciuta e ormai non mi badi più\nsei cresciuta e non hai più bisogno di me\nora passi dall'altro marciapiede\nneanche a guardare ti giri\nparlami anche se non mi ami\n\nRicordati quando venivi vicino a me\ne ti mettevo piccola sulle mie ginocchia\ne una sera sulla soglia di casa del vicinato\ndove ci eravamo seduti tutti e due\nmi hai dato un bacio d'amore\n\nSei cresciuta e queste cose le hai dimenticate\ne ora con un altro ti hanno fidanzata\nma io ti vedo e ricordo quelle sere\ne che ricordi, quelli antichi\ne mi pare che fosse ieri\n\nNote:\n\nπεζοδρόμιο — marciapiede; l'immagine di \"passare dall'altro marciapiede\" è idiomatica per \"evitare qualcuno/ignorarlo deliberatamente\"\nκατώφλι — soglia di casa, luogo tradizionale di incontri furtivi tra innamorati nella cultura popolare greca",
+      "no": ""
+    },
     {
       "id": "s_1787994193683",
       "offsets": {},
@@ -7049,7 +7150,7 @@
       "nameit": "Pròdromos Tsausàkis",
       "born": "15 settembre 1919, Constantinopoli",
       "died": "23 ottobre 1979 Atene",
-      "bio": "Prodromos Tsaousakis era un cantante, paroliere e compositore del rembetiko e della canzone popolare greca del dopoguerra. Riuscì a collegare la nuova canzone popolare con il passato rembetiko. Vasilis Tsitsanis lo definì il gigante del dopoguerra della canzone popolare con la voce rimbombante rembetika.\n\nNacque nel quartiere del Fanar di Costantinopoli nel 1919. Il suo vero cognome era Moutafoglou. Nel 1922, quando aveva 3 anni, con la diaspora la famiglia arrivò in Grecia e si stabilì a Salonicco.\n\nDa giovane divenne lottatore professionista — il pehlivan, come si chiamavano i lottatori che si ungevano il corpo d'olio. Lavorò come lottatore fino al 1940.\n\nFu Tsitsanis stesso a battezzarlo Tsaousakis quando seppe che in guerra era stato caporale — e i caporali si chiamavano tsaousides in turco. Così Prodromos Moutafoglou diventò Prodromos Tsaousakis.\n\n\nNel 1948 fu incisa per la prima volta la Domenica Nuvolosa di Tsitsanis, scritta durante l'occupazione. I primi interpreti furono Prodromos Tsaousakis e Sotiria Bellou.\n\nStélios Kazantzidis, allora quindicenne, ebbe come primo modello canoro Prodromos Tsaousakis. Nei primi tre anni di carriera (1952–1955) portava forte il segno dell'influenza della sua voce.\n\n\nMorì il 23 ottobre 1979 a Kallithea, all'età di 60 anni. Suo figlio Dimitris continuò la tradizione del padre e morì anche lui giovane, a 66 anni, il 19 settembre 2017.",
+      "bio": "Prodromos Tsaousakis era un cantante, paroliere e compositore del rembetiko e della canzone popolare greca del dopoguerra. Riuscì a collegare la nuova canzone popolare con il passato rembetiko. Vasilis Tsitsanis lo definì il gigante del dopoguerra della canzone popolare con la voce rimbombante rembetika.\n\nNacque nel quartiere del Fanar di Costantinopoli nel 1919. Il suo vero cognome era Moutafoglou. Nel 1922, quando aveva 3 anni, con la diaspora la famiglia arrivò in Grecia e si stabilì a Salonicco.\n\nDa giovane divenne lottatore professionista — il pehlivan, come si chiamavano i lottatori che si ungevano il corpo d'olio. Lavorò come lottatore fino al 1940.\n\nFu Tsitsanis stesso a battezzarlo Tsaousakis quando seppe che in guerra era stato caporale — e i caporali si chiamavano tsaousides in turco. Così Prodromos Moutafoglou diventò Prodromos Tsaousakis.\n\n\nNel 1948 fu incisa per la prima volta la Συννεφιασμένη Κυριακή di Tsitsanis, scritta durante l'occupazione. I primi interpreti furono Prodromos Tsaousakis e Sotiria Bellou.\n\nStélios Kazantzidis, allora quindicenne, ebbe come primo modello canoro Prodromos Tsaousakis. Nei primi tre anni di carriera (1952–1955) portava forte il segno dell'influenza della sua voce.\n\n\nMorì il 23 ottobre 1979 a Kallithea, all'età di 60 anni. Suo figlio Dimitris continuò la tradizione del padre e morì anche lui giovane, a 66 anni, il 19 settembre 2017.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/tsausakis.jpg",
@@ -10377,6 +10478,22 @@
       "roles": [
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1788008716297",
+      "name": "Μαρίκα Πολίτισσα",
+      "nameit": "",
+      "born": "1895-1898, Costantinopoli",
+      "died": "1978 (?), Atene",
+      "bio": "Nota anche con il suo vero nome, Μαρίκα Φραντζεσκοπούλου\n\nSi stabilì in Grecia come rifugiato dopo la catastrofe dell'Asia Minore\nÈ entrata nella discografia 1929-1930 con le tradizionali canzoni di Asia Minor \"Katifes\" e \"Erier Karanlik\" (Odeon).\n\nSebbene la sua presenza discografica attiva sia durata alcuni anni (fino al 1935-1936), ha lasciato un segno indelebile.\nHa continuato la sua carriera dopo la guerra sul palco, nelle celebrazioni e ai festival, in collaborazione con i veterani Grigoris Asikis, Lambros Leontaritis e Lambros Savvaidis.\nVisse il resto dei suoi anni ad Atene (zona di Vyronas) e morì alla fine degli anni ’70 (probabilmente nel 1978).\nLa sua voce aveva un'enorme precisione, plasticità e esprimeva profondi sentimenti di rifugiati, emigrazione e amore tragico. Il suo repertorio spaziava da amanedes (cafe-aman) e Smirneica, a pesante rebetika pirata.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/politissa.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
       ]
     }
   ]
