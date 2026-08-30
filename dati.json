@@ -1,8 +1,221 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-30T03:53:22.065Z",
+  "exportedAt": "2026-08-30T07:45:55.382Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788075913190",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Μωρή κοντούλα λεμονιά",
+      "tit": "Mòri Kondùla Lemonià",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "Μιχάλης Ζάμπας",
+      "lb": "",
+      "gn": "dimotikò Epiro",
+      "dr": "",
+      "bal": "Syrtos sta tria",
+      "ll": "https://www.youtube.com/watch?v=61o2yJv_87g",
+      "li": "",
+      "ch": "SOL  RE   MIm   SOL     SOL    DO     MIm\nΜωρή κοντού – μωρή κοντούλα λεμονιά\nSOL                             DO  MIm\nμε τα πολλά λεμό – λεμόνια Βησσανιώτισσα\nSOL           DO  MIm\nΣε φίλησα κι αρρώστησα\nSOL           DO  MIm\nκαι το γιατρό δε φώναξα\n \nSOL  RE   MIm   SOL     SOL    DO     MIm\nΠότε μικρή πότε μικρή μεγάλωσες\nSOL                             DO  MIm\nκαι φύτρωσες βλαστά – βλαστάρια Βησσανιώτισσα\nSOL           DO  MIm\nΚι εσύ Δελβινακιώτισσα\nSOL         DO  MIm\nκαι το  γιατρό δε φώναξα\n \nSOL  RE   MIm   SOL     SOL    DO     MIm\nΧαμήλωσε, χαμήλωσε τους κλώνους σου\nSOL                             DO  MIm\nνα κόψω ένα λεμό – λεμόνι Βησσανιώτισσα\nSOL            DO  MIm\nΚι εσύ Δελβινακιώτισσα\nSOL            DO  MIm\nπου μ' έκανες κι αρρώστησα\n \nSOL  RE   MIm   SOL     SOL    DO     MIm\nΓια να το ζή – για να το ζήψω, να το πιω\nSOL                             DO  MIm\nνα μου διαβούν οι πό– πόνοι Βησσανιώτισσα\nSOL            DO  MIm\nΣε φίλησα κι αρρώστησα\nSOL            DO  MIm\nκαι το γιατρό δε φώναξα",
+      "tr": "Mòri Kondùla Lemonià\n\nMorí kondú – morí kondúla lemoniá\nme ta polá lemό – lemόnia Vissaniόtisa\nSe fílisa ki arrόstisa\nke to yiatrό de fόnaksa\n\nPόte mikrí pόte mikrí meghálosés\nke fítrosés vlastá – vlastária Vissaniόtisa\nKi esí Delvinakiόtisa\nke to yiatrό de fόnaksa\n\nChamílose, chamílose tus klόnus su\nna kόpso éna lemό – lemόni Vissaniόtisa\nKi esí Delvinakiόtisa\npu m'ékanes ki arrόstisa\n\nGia na to zí – gia na to zípso, na to pio\nna mu diavún i pό – pόni Vissaniόtisa\nSe fílisa ki arrόstisa\nke to yiatrό de fόnaksa",
+      "ti": "Ehi piccola, ehi piccolo limone\n\nEhi piccola, ehi piccolo limone\ncon tanti limoni, ragazza di Vissani\nti ho baciata e mi sono ammalato\ne il dottore non ho chiamato\n\nQuando piccola, quando piccola sei cresciuta\ne sono spuntati germogli, ragazza di Vissani\ne tu, ragazza di Delvinaki\ne il dottore non ho chiamato\n\nAbbassa, abbassa i tuoi rami\nche io colga un limone, ragazza di Vissani\ne tu, ragazza di Delvinaki\nche mi hai fatto ammalare\n\nPer berlo, per succhiarlo, per berlo\nche mi passino i dolori, ragazza di Vissani\nti ho baciata e mi sono ammalato\ne il dottore non ho chiamato\n\nNote:\n\nΒησσανιώτισσα — donna/ragazza originaria di Vissani (Βησσάνη), villaggio della regione di Pogoni, nell'Epiro settentrionale\nΔελβινακιώτισσα — donna/ragazza originaria di Delvinaki (Δελβινάκι), altro villaggio della stessa zona dell'Epiro\nil canto utilizza la metafora tradizionale del limone/pianta da cogliere per esprimere il desiderio amoroso, immagine ricorrente nei canti popolari greci (già incontrata in \"Κόβω μια κλάρα\")\nlo schema con sillabe spezzate e ripetute (\"κοντού–κοντούλα\", \"λεμό–λεμόνια\", \"βλαστά–βλαστάρια\") riflette lo stile tipico dell'esecuzione vocale tradizionale dei canti popolari dell'Epiro, con abbellimenti e prolungamenti melismatici",
+      "no": "Secondo la tradizione orale dell'Epiro, il brano venne eseguito per la prima volta in pubblico durante un matrimonio a Vissani nel 1928. Un anziano del villaggio iniziò a cantare a cappella i versi improvvisati e i musicisti presenti (i clarinetti epiroti) iniziarono a seguirlo, codificando la melodia sul momento."
+    },
+    {
+      "id": "s_1788074831114",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ελληνική Εστουδιαντίνα",
+          "year": "1909",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=IFoRyQjwYYI"
+        },
+        {
+          "who": "Εστουδιαντίνα Χριστοδουλίδη",
+          "year": "1918",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=fSuzNwWFlD0"
+        },
+        {
+          "who": "Κυρία Καμέλια",
+          "year": "1905",
+          "note": "Costantinopoli",
+          "link": "https://www.youtube.com/watch?v=367e4NXwwS8"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Μπουρνοβαλιά",
+      "tit": "Burnovalià",
+      "alias": "",
+      "at": "sconosciuto",
+      "am": "sconosciuto",
+      "yr": "sconosciuto",
+      "ar": "",
+      "lb": "",
+      "gn": "Smirneico",
+      "dr": "",
+      "bal": "Sirtòs (Asia Minore)",
+      "ll": "",
+      "li": "",
+      "ch": "Μια μυστικιά ελπίδα πούχω στην καρδιά\nταίρι μου θα σε κάνω και θα ζήσωμε τα δυο, γλυκιά Μπουρνοβαλιά\n \nΕκεί θα χτίσουμε φωλιά στου έρωτος την αγκαλιά\nθα δίνω αμέτρητα φιλιά, μαζί αγάπη μου γλυκιά\n \nΈλα και πες μου το και συ, με την γλυκιά σου την λαλιά\nπως μ' αγαπάς πολύ, χρυσή, μικρή, τρελή, ξανθή Μπουρνοβαλιά\n \nΜε τα γλυκά σου λόγια με μια γλυκιά ματιά\nκαι μ' ένα φίλημα σου μ' έκανες να τρελαθώ Μπουρνοβαλιά\n \nΔεν ήταν όνειρο γλυκό, παρά φωτιά μεγάλη\nμε σένα πού εβρέθηκα μέσ' τα γλυκά σου κάλλη\n \nΈλα να σμίξουμε τα δυο, να κοιμηθούμε σαν τα μικρά πουλιά\nκαι να μου λες, όπως και 'γω\nγλυκιά Μπουρνοβαλιά σου λέω, σ' αγαπώ",
+      "tr": "Burnovalià\n \nMia mistikiá elpída pu 'cho stin kardiá\ntéri mu tha se káno ke tha zísome ta dío, ghlikiá Burnovaliá\n\nEkí tha chtísume foliá stu érotos tin anghaliá\ntha díno amétrita filiá, mazí aghápi mu ghlikiá\n\nÉla ke pes mu to ke si, me tin ghlikiá su tin laliá\npos m'aghapás polí, chrisí, mikrí, trelí, xanthí Burnovaliá\n\nMe ta ghliká su lóghia me mia ghlikiá matiá\nke m'éna fílima su m'ékanes na treláthó Burnovaliá\n\nDen ítan όniro ghlikó, pará fotiá megháli\nme séna pu evréthika mes ta ghliká su káli\n\nÉla na smíksume ta dío, na kimithúme san ta mikrá pulyá\nke na mu les, όpos ke gho\nghlikiá Burnovaliá su léo, s'aghapó",
+      "ti": "Bournovalià\n\nUna segreta speranza che ho nel cuore\nti farò mia compagna e vivremo insieme, dolce Bournovalià\n\nLà costruiremo un nido nell'abbraccio dell'amore\nti darò baci innumerevoli, amore mio dolce, insieme\n\nVieni e dimmelo anche tu, con la tua dolce voce\nche mi ami tanto, dorata, piccola, folle, bionda Bournovalià\n\nCon le tue dolci parole, con uno sguardo dolce\ne con un tuo bacio mi hai fatto impazzire, Bournovalià\n\nNon era un sogno dolce, ma un grande fuoco\ntrovarmi con te tra le tue dolci grazie\n\nVieni, uniamoci noi due, dormiamo come i piccoli uccelli\ne dimmi, come dico io\ndolce Bournovalià, ti dico: ti amo\n\nNote:\n\nΜπουρνοβαλιά — donna originaria di Bournova (Bornova), presso Smirne, qui il nome è usato come vezzeggiativo diretto rivolto all'amata\nταίρι — compagno/a di vita, metà, termine affettuoso per il partner ideale\nκάλλη — le grazie/bellezze (plurale poetico di \"κάλλος\"), già incontrato in altre canzoni",
+      "no": ""
+    },
+    {
+      "id": "s_1788070598785",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κατίνα Χωματιανού",
+          "year": "1933",
+          "note": "Ατσιγγάνα",
+          "link": "https://www.youtube.com/watch?v=384tm0gDRms"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Μπουρνοβαλιά",
+      "tit": "Bournovaliá",
+      "alias": "",
+      "at": "Νίκος Γκάτσος",
+      "am": "",
+      "yr": "1983",
+      "ar": "Σωτηρία Λεονάρδου",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=c7vHFaHbLgQ",
+      "li": "",
+      "ch": "SOLm        RE      DOm         RE#        RE\nΏπα, ώπα, ώπα, ώπα, σου το λέγω και σου το 'πα\nSOLm              RE          DOm     RE#      RE\nΤο κορμάκι το φιδίσιο μην το γέρνεις μπρος και πίσω\nSOLm             RE       DOm      RE#    RE\nΤο κορμάκι το φιδίσιο κράτα το και λίγο ίσιο\n\nRE               DOm                        SOLm\nΧόρεψε Μπουρνοβαλιά μου, να σου στείλω τα φιλιά μου\nRE#       RE      DO   SIm  RE#  DOm  RE\nΧόρεψε αγαπούλα μου, παραμύθι πούλα μου\nRE               DOm                       SOLm\nΧόρεψε Μπουρνοβαλιά μου, να θυμάμαι τα παλιά μου\nRE#       RE      DO   SIm  RE#  DOm  RE\nΧόρεψε χανούμισσα, μου 'μοιασές και σου 'μοιασα\n\nSOLm        RE      DOm         RE#        RE\nΏπα, ώπα, ώπα, ώπα, κοίτα γύρω σου και σώπα\nSOLm              RE          DOm     RE#      RE\nΜάτια σε τρυπάνε χίλια μέσα απ' της καρδιάς τη γρύλια\nSOLm             RE       DOm      RE#    RE\nΜάτια σε τρυπάνε χίλια με χαμόγελο και ζήλια\n\nRE               DOm                        SOLm\nΧόρεψε Μπουρνοβαλιά μου, να σου στείλω τα φιλιά μου\nRE#       RE      DO   SIm  RE#  DOm  RE\nΧόρεψε αγαπούλα μου, παραμύθι πούλα μου\nRE               DOm                       SOLm\nΧόρεψε Μπουρνοβαλιά μου, να θυμάμαι τα παλιά μου\nRE#       RE      DO   SIm  RE#  DOm  RE\nΧόρεψε χανούμισσα, μου 'μοιασές και σου 'μοιασα\n\nRE               DOm                        SOLm\nΧόρεψε Μπουρνοβαλιά μου, να σου στείλω τα φιλιά μου\nRE#       RE      DO   SIm  RE#  DOm  RE\nΧόρεψε αγαπούλα μου, παραμύθι πούλα μου\nRE               DOm                       SOLm\nΧόρεψε Μπουρνοβαλιά μου, να θυμάμαι τα παλιά μου\nRE#       RE      DO   SIm  RE#  DOm  RE\nΧόρεψε χανούμισσα, μου 'μοιασές και σου 'μοιασα",
+      "tr": "Bournovaliá\n\nΌpa, όpa, όpa, όpa, su to légho ke su to 'pa\nTo kormáki to fidísio min to yérnis brós ke píso\nTo kormáki to fidísio kráta to ke lígho ísio\n\nChόrepse Burnovaliá mu, na su stílo ta filiá mu\nChόrepse aghapúla mu, paramíthi púla mu\nChόrepse Burnovaliá mu, na thimáme ta paliá mu\nChόrepse chanúmisa, mu 'miasés ke su 'miasa\n\nΌpa, όpa, όpa, όpa, kíta ghíro su ke sόpa\nMátia se tripáne chília mésa ap'tis kardiás ti ghrília\nMátia se tripáne chília me chamόyelo ke zília\n\nChόrepse Burnovaliá mu...",
+      "ti": "Burnovalià\n\nOpa, opa, opa, opa, te lo dico e te l'ho detto\nil tuo corpicino da serpente non piegarlo avanti e indietro\nil tuo corpicino da serpente tienilo un po' dritto\n\nBalla, mia Bournovalià, che ti mandi i miei baci\nballa, amorino mio, vendimi una favola\nballa, mia Bournovalià, che io ricordi il passato\nballa, mia donna turca, tu mi somigli e io somiglio a te\n\nOpa, opa, opa, opa, guardati intorno e taci\nocchi ti trafiggono a mille dal cancello del cuore\nocchi ti trafiggono a mille con sorriso e gelosia\n\nBalla, mia Bournovalià...\n\nNote:\n\nΜπουρνοβαλιά — donna originaria di Bournova (Bornova), quartiere/cittadina vicino a Smirne, storicamente abitata da una fiorente comunità greca prima della catastrofe dell'Asia Minore\nκορμάκι το φιδίσιο — \"corpicino da serpente\", immagine per un corpo sinuoso e flessuoso nella danza (probabilmente un tsifteteli/danza orientale)\nχανούμισσα — donna turca, già incontrata in altre canzoni\nγρύλια — cancello/grata (variante dialettale), qui usata poeticamente per \"il cancello del cuore\" da cui gli sguardi \"trafiggono\"\nil brano fa parte del disco \"Ρεμπέτικο\" (colonna sonora dell'omonimo film di Kostas Ferris, 1983), ed evoca con nostalgia l'atmosfera e i personaggi della comunità greca smirneota prima del 1922",
+      "no": "Cit. rebetiko.sealabs.net  Probabilmente Xarhakos quando scriveva la sua BOURNOVALIA su REBETIKO ce l'aveva in mente. E la canzone è Atsingàna che proponiamo in ascolto"
+    },
+    {
+      "id": "s_1788069607205",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Μπουζούκι μου διπλόχορδο",
+      "tit": "Bouzouki mou diplòchordo",
+      "alias": "",
+      "at": "Μίνως Μάτσας",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1936",
+      "ar": "Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής",
+      "lb": "Odeon GA-7029 / GO-2708.",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=rbpdSQXN1II",
+      "li": "",
+      "ch": "SOLm                       DOm      RE#      RE\nΜπουζούκι μου διπλόχορδο, μπουζούκι μου καημένο\nSOLm          DOm      RE#      RE\nμονάχα εσύ παρηγορείς κάθε φαρμακωμένο\nDOm            RE#            RE\nΜονάχα εσύ παρηγορείς κάθε φαρμακωμένο\nDOm                 RE      RE#            RE\nΜπουζούκι μου διπλόχορδο, μπουζούκι μου καημένο\n\nSOLm                       DOm      RE#      RE\nΤο ντέρτι που 'χω στην καρδιά το ξέρεις και λυπάσαι\nSOLm                     DOm       RE#      RE\nΠριν να με κάψεις άπιστη, ποιος ήμουν, το θυμάσαι\nDOm                      RE#                  RE\nΠριν να με κάψεις άπιστη, ποιος ήμουν, το θυμάσαι\nDOm                 RE      RE#            RE\nΤο ντέρτι που 'χω στην καρδιά το ξέρεις και λυπάσαι\n\nSOLm                       DOm      RE#      RE\nΤώρα με αποστρέφονται, με λένε αλανιάρη\nSOLm                     DOm       RE#      RE\nΤι θέλω τέτοια μια ζωή, ο Χάρος ας με πάρει\nDOm                      RE#                  RE\nΤι θέλω τέτοια μια ζωή, ο Χάρος ας με πάρει\nDOm                 RE      RE#        RE\nΤώρα με αποστρέφονται, με λένε αλανιάρη\n\nSOLm                       DOm      RE#      RE\nΚι αν είμ' αλάνης, φουκαράς, δε φταίω, σάς το λέω\nSOLm                     DOm       RE#      RE\nγια δυο ματάκια ψεύτικα μέρα και νύχτα κλαίω\nDOm                      RE#                  RE\nΓια δυο ματάκια ψεύτικα μέρα και νύχτα κλαίω\nDOm                 RE      RE#        RE\nκι αν είμ' αλάνης, φουκαράς, δε φταίω, σάς το λέω\n\nSOLm                       DOm      RE#      RE\nΜπουζούκι, σύντροφε πιστέ, εσύ μονάχα μένεις\nSOLm                     DOm       RE#      RE\nαυτή την ψεύτικη ζωή να μου τηνε γλυκαίνεις\nDOm                      RE#                  RE\nΑυτή την ψεύτικη ζωή να μου τηνε γλυκαίνεις\nDOm                 RE      RE#        RE\nμπουζούκι, σύντροφε πιστέ, εσύ μονάχα μένεις",
+      "tr": "Bouzouki mou diplòchordo\n\nBuzúki mu diplόchordo, buzúki mu kaiméno\nmonácha esí pariyorís káthe farmakoméno\nMonácha esí pariyorís káthe farmakoméno\nBuzúki mu diplόchordo, buzúki mu kaiméno\n\nTo ndérti pu 'cho stin kardiá to kséris ke lipáse\nPrin na me kápsis ápisti, pios ímun, to thimáse\nPrin na me kápsis ápisti, pios ímun, to thimáse\nTo ndérti pu 'cho stin kardiá to kséris ke lipáse\n\nTόra me apostréfonde, me léne alaniári\nTi thélo tétia mia zoí, o Chárοs as me pári\nTi thélo tétia mia zoí, o Chárοs as me pári\nTόra me apostréfonde, me léne alaniári\n\nKi an ím'alánis, fukarás, de ftéo, sas to léo\ngia dío matákia pséftika méra ke níchta kléo\nGia dío matákia pséftika méra ke níchta kléo\nki an ím'alánis, fukarás, de ftéo, sas to léo\n\nBuzúki, síndrofe pisté, esí monácha ménis\naftí tin pséftiki zoí na mu tine ghlikénis\nAftí tin pséftiki zoí na mu tine ghlikénis\nbuzúki, síndrofe pisté, esí monácha ménis",
+      "ti": "Bouzouki mio a doppie corde\n\nBouzouki mio a doppie corde, bouzouki mio infelice\nsolo tu consoli ogni cuore avvelenato di pena\nsolo tu consoli ogni cuore avvelenato di pena\nbouzouki mio a doppie corde, bouzouki mio infelice\n\nLa pena che ho nel cuore tu la conosci e ne soffri\nprima che tu, infedele, mi bruciassi, ricordi chi ero\nprima che tu, infedele, mi bruciassi, ricordi chi ero\nla pena che ho nel cuore tu la conosci e ne soffri\n\nOra si allontanano da me, mi chiamano vagabondo\nche me ne faccio di una vita così, che venga pure la morte a prendermi\nche me ne faccio di una vita così, che venga pure la morte a prendermi\nora si allontanano da me, mi chiamano vagabondo\n\nE se sono un vagabondo, un poveraccio, non è colpa mia, ve lo dico\nper due occhietti bugiardi piango giorno e notte\nper due occhietti bugiardi piango giorno e notte\ne se sono un vagabondo, un poveraccio, non è colpa mia, ve lo dico\n\nBouzouki, compagno fedele, solo tu resti\na rendermi dolce questa vita falsa\na rendermi dolce questa vita falsa\nbouzouki, compagno fedele, solo tu resti\n\nNote:\n\nδιπλόχορδο — a doppie corde (riferito alle coppie di corde del bouzouki tradizionale a tre ordini)\nφαρμακωμένος — letteralmente \"avvelenato\", qui in senso figurato per \"colmo di amarezza/dolore\"\nντέρτι — pena/dolore d'amore (turchismo gergale, \"dert\"), già incontrato in altre canzoni\nαλανιάρης — vagabondo, già incontrato in altre canzoni\nο Χάρος ας με πάρει — idiomatico: \"che la Morte mi porti via\", espressione di disperazione/rassegnazione estrema\nil brano personifica il bouzouki come unico vero confidente e compagno fedele del cantante, in contrasto con l'infedeltà della donna amata e il giudizio della società (\"mi chiamano vagabondo\") — tema classico dell'autoironia e della solitudine nel rebetiko delle origini",
+      "no": ""
+    },
+    {
+      "id": "s_1788067995483",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Τέτος Δημητριάδης",
+          "year": "1929",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=snMNQ5GmedY"
+        },
+        {
+          "who": "Κώστας Ρούκουνας",
+          "year": "1935",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=hygFw9OdU-c"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Μπαρμπαούζος",
+      "tit": "Barbaùzo",
+      "alias": "",
+      "at": "Αντώνης Σακελλαρίου",
+      "am": "Αντώνης Σακελλαρίου",
+      "yr": "ignoto",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE\nΟύζο, ούζο ούζο, ούζο ούζο, μπάρμπα ούζο\nRE                           REm          RE\nμε, φωνάζουν όλοι, σαν με βλέπουν οι διαβόλοι\n\nRE            LA    RE        LA        RE\nΒρε, κωθώνια τι γελάτε, γιατί πίνω δε ρωτάτε\n \nRE\nΟύζο, ούζο ούζο, ούζο φέρτε, καραφάκια\nRE                           REm          RE\nαχ, για, να σκεπάσω, πόνους πίκρες και φαρμάκια\n\nRE            LA    RE        LA        RE\nΜες, το ούζο να τα πνίξω, όλα να τα λησμονήσω\n \nRE\nΟύζο, ούζο ούζο, όσο ούζο, κι αν θα ρουφήξω\nRE                      REm          RE\nδεν μπορώ, αχ δεν μπορώ για να τα πνίξω\n\nRE            LA    RE        LA        RE\nέμαθαν και κολυμπάνε, και, στη, κορυφή πετάνε\n \nRE\nΟύζο, ούζο ούζο, ούζο μπάρμπα ούζο ούζο\nRE                           REm          RE\nμε, φωνάζουν όλοι, σαν με βλέπουν οι διαβόλοι\n\nRE            LA    RE        LA        RE\nΒρε, κωθώνια τι γελάτε, γιατί πίνω δε ρωτάτε",
+      "tr": "Barbaùzo\n\nÚzo, úzo úzo, úzo úzo, bárba úzo\nme, fonázun óli, san me vlépun i diávoli\nVre, kothónia ti gheláte, giatí píno de rotáte\n\nÚzo, úzo úzo, úzo férte, karafákia\nach, gia, na skepáso, pόnus píkres ke farmákia\nMes, to úzo na ta pníkso, όla na ta lismoníso\n\nÚzo, úzo úzo, όso úzo, ki an tha rufíkso\nden boró, ach den boró gia na ta pníkso\némathan ke kolimbáne, ke, sti, korifí petáne\n\nÚzo, úzo úzo, úzo bárba úzo úzo\nme, fonázun óli, san me vlépun i diávoli\nVre, kothónia ti gheláte, giatí píno de rotáte",
+      "ti": "Ouzo\n\nOuzo, ouzo ouzo, ouzo ouzo, zio ouzo\nmi chiamano tutti così, appena mi vedono i diavoli\nEhi, sciocchi, di cosa ridete, perché bevo non me lo chiedete\n\nOuzo, ouzo ouzo, ouzo portatemi le caraffe\nah, per coprire dolori, amarezze e veleni\nnell'ouzo voglio affogarli, dimenticarli tutti\n\nOuzo, ouzo ouzo, per quanto ouzo io tiri su\nnon ce la faccio, ah non ce la faccio ad affogarli\nhanno imparato a nuotare, e fino in cima galleggiano\n\nOuzo, ouzo ouzo, ouzo zio ouzo ouzo\nmi chiamano tutti così, appena mi vedono i diavoli\nEhi, sciocchi, di cosa ridete, perché bevo non me lo chiedete\n\nNote:\n\nμπάρμπα ούζο — \"zio ouzo\", soprannome scherzoso che il protagonista si è guadagnato per il suo bere abituale\nκωθώνια — termine gergale/volgare per \"sciocchi/idioti\" (letteralmente riferito ai testicoli, usato come insulto blando o scherzoso)\nδιάβολοι — \"diavoli\", qui usati scherzosamente per indicare la gente/i conoscenti che lo prendono in giro vedendolo bere",
+      "no": "La paternità del brano è attribuita a Antonis Sakelariou, ma è certo solo che lui arrangiò e diresse l'orchestra per l'edizione americana"
+    },
+    {
+      "id": "s_1788065672243",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Κερομύτης, Σπύρος Ζαγοραίος, Στράτος Παγιουμτζής",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=llqnacmY0Hg"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης, Άννα Χρυσάφη",
+          "year": "1967",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=YPms3XoCTL4"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Παίζει το μπαγλαμαδάκι",
+      "tit": "Pèzi to baglamadàki",
+      "alias": "Οι μπαγλαμάδες",
+      "at": "Στράτος Παγιουμτζής",
+      "am": "Κώστας Καπλάνης",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "FA\nΠαίζει το μπαγλαμαδάκι βρε, παίζει το μπαγλαμαδάκι\nREm      DO    REm            DO      REm\nΠαίζει το μπαγλαμαδάκι και χορεύω ζεϊμπεκάκι\nREm      DO    REm            DO      REm\nΚαι χορεύω ζεϊμπεκάκι βρε, παίζει το μπαγλαμαδάκι\n\nFA\nΦέρτε μου το λουλαδάκι βρε, φέρτε μου το λουλαδάκι\nREm      DO    REm            DO      REm\nΦέρτε μου το λουλαδάκι για να πιω ένα τσιμπουκάκι\nREm      DO    REm            DO      REm\nΓια να πιω ένα τσιμπουκάκι βρε, φέρτε μου το λουλαδάκι\n\n\nFA\nΜια και βρέθηκα μαζί σας βρε, μια και βρέθηκα μαζί σας\nREm      DO    REm            DO      REm\nΜια και βρέθηκα μαζί σας, θα φουμάρω στο τσαρδί σας\nREm      DO    REm            DO      REm\nΘα φουμάρω στο τσαρδί σας βρε, μια και βρέθηκα μαζί σας\n\n\nFA\nΚι όταν γίνουμε μαστούρια βρε, κι όταν γίνουμε μαστούρια\nREm      DO    REm            DO      REm\nΚι όταν γίνουμε μαστούρια θα σας πω και δυο τραγούδια\nREm      DO    REm            DO      REm\nΘα σας πω και δυο τραγούδια βρε, κι όταν γίνουμε μαστούρια",
+      "tr": "Pézi to baglamadáki\n\nPézi to baglamadáki vre, pézi to baglamadáki\nPézi to baglamadáki ke chorέvo zeïbekáki\nKe chorέvo zeïbekáki vre, pézi to baglamadáki\n\nFérte mu to luladáki vre, férte mu to luladáki\nFérte mu to luladáki gia na pio éna tsimbukáki\nGia na pio éna tsimbukáki vre, férte mu to luladáki\n\nMia ke vréthika mazí sas vre, mia ke vréthika mazí sas\nMia ke vréthika mazí sas, tha fumáro sto tsardí sas\nTha fumáro sto tsardí sas vre, mia ke vréthika mazí sas\n\nKi ótan ghínume mastúria vre, ki ótan ghínume mastúria\nKi ótan ghínume mastúria tha sas po ke dío traghúdia\nTha sas po ke dío traghúdia vre, ki ótan ghínume mastúria",
+      "ti": "Suona il piccolo baglamà\n\nSuona il baglamàs, ehi, suona il baglamàs\nsuona il baglamàs e io ballo un piccolo zeibekiko\ne ballo un piccolo zeibekiko, ehi, suona il baglamàs\n\nPortatemi la pipa d'hashish, ehi, portatemi la pipa\nportatemi la pipa per fumare un piccolo tiro\nper fumare un piccolo tiro, ehi, portatemi la pipa\n\nDato che mi sono trovato con voi, ehi, dato che mi sono trovato con voi\ndato che mi sono trovato con voi, fumerò nel vostro rifugio\nfumerò nel vostro rifugio, ehi, dato che mi sono trovato con voi\n\nE quando saremo sballati, ehi, e quando saremo sballati\ne quando saremo sballati vi canterò anche due canzoni\nvi canterò anche due canzoni, ehi, quando saremo sballati\n\nNote:\n\nμπαγλαμαδάκι — diminutivo affettuoso di \"μπαγλαμάς\", piccolo strumento a corde della famiglia del bouzouki\nζεϊμπεκάκι — diminutivo di \"ζεϊμπέκικο\", la danza tradizionale già incontrata in altre canzoni\nλουλαδάκι — diminutivo di \"λουλάς\", la pipa per hashish, già incontrata più volte\nτσιμπουκάκι — diminutivo di \"τσιμπούκι\" (pipa), qui inteso come \"un tiro/una boccata\"\nτσαρδί — covo, rifugio informale, già incontrato in altre canzoni del rebetiko\nμαστούρια — stato di intontimento/sballo, già incontrato in altre canzoni\nil brano appartiene al filone più giocoso e \"autocelebrativo\" del rebetiko del dopoguerra, con la struttura tipica a tre versi ripetuti a incastro (terza riga = prima riga della strofa successiva), qui incentrata sul piccolo strumento del baglamàs e sul rituale conviviale di musica, danza e hashish nel tekè",
+      "no": ""
+    },
+    {
+      "id": "s_1788063911121",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Μουρμούρα",
+      "tit": "Murmùra",
+      "alias": "Η γυναίκα μου η μουρμούρα",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1966",
+      "ar": "Μανώλης Αγγελόπουλος",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=aUv30YW_u_4",
+      "li": "",
+      "ch": "MIm    LAm      MIm  LAm  MIm  RE  MIm\nΜην αρχίζεις τη μουρμούρα, άκου πρώτα να σου πω\nMIm      SOLm              MIm    SOLm\nΧθες το βράδι είχα μπλέξει σ' ένα γλέντι φιλικό\nMIm    SOLm              MIm\nΕίχε όμορφες κοπέλες και ξεχάστηκα να 'ρθω\n\nSOL\nΣυγχώρα με, μουρμούρα μου, χτυπούσε η καρδούλα μου\nSOL\nΣτο χορό, στην παραζάλη, με ξελόγιασαν τα κάλλη\n\nMIm    LAm      MIm  LAm  MIm  RE  MIm\nΌμορφες που ήταν όλες, μ' έβαλαν κρασί να πιω\nMIm      SOLm              MIm    SOLm\nΜ' έστρωσαν κι ένα ντιβάνι κι έπεσα να κοιμηθώ\nMIm    SOLm              MIm\nΜ' έστρωσαν κι ένα ντιβάνι κι έπεσα να κοιμηθώ\n\nSOL\nΣυγχώρα με, μουρμούρα μου, χτυπούσε η καρδούλα μου\nSOL\nΣτο χορό, στην παραζάλη, με ξελόγιασαν τα κάλλη\n\nMIm    LAm      MIm  LAm  MIm  RE  MIm\nΜια ξανθιά μικρή σουλτάνα, πω πω πω, με τρέλανε\nMIm      SOLm              MIm    SOLm\nΤέτοια νύχτα μαγεμένη, αχ, να μη ξημέρωνε\nMIm    SOLm              MIm\nΤέτοια νύχτα μαγεμένη, αχ, να μη ξημέρωνε\n\nSOL\nΣυγχώρα με, μουρμούρα μου, χτυπούσε η καρδούλα μου\nSOL\nΣτο χορό, στην παραζάλη, με ξελόγιασαν τα κάλλη",
+      "tr": "Murmùra\n\nMin archízis ti murmúra, áku próta na su po\nChthes to vrádi ícha bléksi s'éna ghlédi filikό\nÍche όmorfes kopéles ke ksecástika na 'rtho\n\nSinchόra me, murmúra mu, chtipúse i kardúla mu\nSto chorό, stin parazáli, me kseloyiásan ta káli\n\nΌmorfes pu ítan όles, m'évalan krasí na pio\nM'éstrosan ki éna ndiváni ki épesa na kimithό\nM'éstrosan ki éna ndiváni ki épesa na kimithό\n\nSinchόra me, murmúra mu, chtipúse i kardúla mu\nSto chorό, stin parazáli, me kseloyiásan ta káli\n\nMia ksanthiá mikrí sultána, po po po, me trélane\nTétia níchta magheméni, ach, na mi ksiméroni\nTétia níchta magheméni, ach, na mi ksiméroni\n\nSinchόra me, murmúra mu, chtipúse i kardúla mu\nSto chorό, stin parazáli, me kseloyiásan ta káli",
+      "ti": "Brontolio\n\nNon iniziare col brontolio, ascolta prima cosa ho da dirti\nieri sera mi ero infilato in una festa tra amici\nc'erano belle ragazze e mi sono scordato di tornare\n\nPerdonami, brontolona mia, batteva forte il mio cuoricino\nnel ballo, nel turbamento, mi hanno incantato le grazie (di quelle ragazze)\n\nErano tutte belle, mi hanno fatto bere vino\nmi hanno steso un divano e sono caduto a dormire\nmi hanno steso un divano e sono caduto a dormire\n\nPerdonami, brontolona mia, batteva forte il mio cuoricino\nnel ballo, nel turbamento, mi hanno incantato le grazie\n\nUna piccola sultana bionda, ah che meraviglia, mi ha fatto impazzire\nuna notte così incantata, ah, se solo non fosse mai spuntato il giorno\nuna notte così incantata, ah, se solo non fosse mai spuntato il giorno\n\nPerdonami, brontolona mia, batteva forte il mio cuoricino\nnel ballo, nel turbamento, mi hanno incantato le grazie\n\nNote:\n\nμουρμούρα — brontolio/lamentela continua; qui usato anche come vezzeggiativo scherzoso rivolto alla moglie/compagna gelosa e imbronciata (\"brontolona mia\")\nπαραζάλη — stordimento, confusione/vertigine (da euforia, alcol o eccitazione)\nξελογιάζω — incantare, far perdere la testa, sedurre\nκάλλη — le grazie/bellezze (plurale poetico di \"κάλλος\"), già incontrato in altre canzoni\nσουλτάνα — sultana, vezzeggiativo esotico-scherzoso per una bella ragazza\nil brano è scritto in ritmo 7/8, e racconta con tono scherzoso e complice il classico scenario del marito che rincasa tardi da una festa, chiedendo perdono alla moglie brontolona per essersi lasciato distrarre dalle belle ragazze presenti",
+      "no": ""
+    },
     {
       "id": "s_1788061978817",
       "offsets": {},
@@ -8434,7 +8647,7 @@
     {
       "id": "p_1786123017891",
       "name": "Στράτος Παγιουμτζής",
-      "nameit": "Stràtps Paghiumtzìs",
+      "nameit": "Stràtos Paghiumtzìs",
       "born": "1904,  Aivalí, Asia Minore",
       "died": "16 novembre 1971,  New York",
       "bio": "Soprannominato \"Τεμπέλης\", il pigro,\n\nCantante rebetiko, tra le voci maschili più importanti dell'epoca classica del genere\n\nArrivò in Grecia con la famiglia prima della Catastrofe dell'Asia Minore, stabilendosi al Pireo. Lavorò fin da bambino, ma la sua vera passione era la musica e il canto. Entrò presto in contatto con i rebetes del Pireo: insieme a Márkos Vamvakáris, Anéstis Delías e Yórgos Bátis formò la prima vera orchestra di rebetiko puro.\n\nDivenne interprete quasi per caso: quando Bátis non riusciva a cantare un brano durante le prove, fu la voce di Παγιουμτζής a essere incisa al suo posto. Da lì iniziò una collaborazione lunghissima con tutti i grandi compositori del rebetiko — Τούντας, Σκαρβέλης, Παπάζογλου, Ογδοντάκης, Σέμσης, Παντελίδης, Κηρομύτης, Μπαγιαντέρας, Παπαϊωάννου, Χατζηχρήστος, il giovane Χιώτης, e soprattutto Βασίλης Τσιτσάνης, che gli affidò metà delle sue canzoni prebelliche — molte delle quali, secondo gli esperti, devono parte del loro successo proprio alla sua voce. Fu proprio lui, insieme a Τσιτσάνης, a incidere per primo, nel 1946, «Μπαξέ Τσιφλίκι».\n\nA metà degli anni '30 la sua voce era già leggendaria — al punto che sulle etichette dei dischi veniva citato semplicemente col nome di battesimo, \"Στράτος\". Tra i suoi successi più celebri: «Ένας μάγκας στο Βοτανικό», «Τα νέα της Αλεξάνδρας», «Βαγγελιώ, δεν είσαι εντάξει», «Φαληριώτισσα».\n\nMorì a New York nel 1971, a 67 anni — lontano dalla sua patria, letteralmente esalando l'ultimo respiro sul palcoscenico durante un'esibizione.",
@@ -8442,6 +8655,7 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/paghiumdzis.jpg",
       "roles": [
+        "at",
         "ar"
       ]
     },
@@ -10707,6 +10921,80 @@
         "at",
         "am",
         "ar"
+      ]
+    },
+    {
+      "id": "p_1788066778455",
+      "name": "Αντώνης Σακελλαρίου",
+      "nameit": "Antónis Sakellaríou",
+      "born": "1889, Arachova",
+      "died": "1964, Arachova",
+      "bio": "Uno dei musicisti greco-americani più poliedrici e importanti tra gli emigrati greci negli Stati Uniti di inizio '900. Pur provenendo dalla tradizione del canto dimotikó, fu tra i primi compositori di rembetiko in America, collocandosi nel periodo di transizione tra il repertorio dimotikó e quello rembetiko.\n\nFu a capo di un'orchestra con strumenti popolari, e incise i suoi primi brani rembetiko con il clarinetto come strumento principale. Tra le sue incisioni: \"Μπαρμπαούζος\" (Victor, New York, 14 febbraio 1929, con Takis Nikolaou alla voce), \"Ο βαρυποινίτης\" (Columbia USA, anni '30, con la sua orchestra: clarinetto, violino, santouri), e la collaborazione con Kyria Koula (Antonopoulou-Giortzi) in \"Από ξένο τόπο\" (1920).\n\nTornò volontario in Grecia per combattere sia nelle Guerre Balcaniche (1912-13) sia nella Campagna dell'Asia Minore (1919-22), dove fu decorato per il coraggio dimostrato.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/antsakelariu.jpg",
+      "roles": [
+        "at",
+        "am",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788071267647",
+      "name": "Κατίνα Χωματιανού",
+      "nameit": "Katína Chomatianoú",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Anche nota come Χωματοπούλου\n\nCantante rembetiko attiva ad Atene nel 1933. Incise complessivamente 6 canzoni, di cui 2 su musica di Vangelis Papazoglou, per l'etichetta Odeon (dischi GA-1765 e GA-1767), accompagnata da un'orchestra con violino, chitarra e outi.\n\nTra i suoi brani: \"Αν ήμουν άντρας\" (musica di Vangelis Papazoglou) e \"Θα είχα... γυναίκες\" (1933) — quest'ultimo un testo dai toni piuttosto audaci e \"emancipati\" per l'epoca, in cui la cantante immagina di avere molti amanti, alla pari di come spesso cantavano gli uomini.\n\nIl suo nome compare in un elenco di voci femminili del rembetiko degli anni '30 accanto a colleghe più note come Rosa Eskenazi, Marika Papangika, Rita Abatzi, e altre.\n\nNota: non è stato possibile reperire data e luogo di nascita/morte — resta una figura minore e poco documentata, nota principalmente per questa breve produzione discografica del 1933.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/chomatianu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788073388519",
+      "name": "Εστουδιαντίνα Χριστοδουλίδη",
+      "nameit": "Estudiantìna Christodulìdi",
+      "born": "",
+      "died": "",
+      "bio": "Una delle estudiantine attive a Costantinopoli a inizio '900, elencata (fonte: Panagiotis Kounadis, tramite l'Archivio Kounadis) insieme ad altre formazioni della capitale ottomana: l'estudiantina del cantante Petros Zounarakis, l'Ellinikí Estudiantína Konstantinoupóleos, il trio Mitsos (armonica, mandolino, chitarra) — a differenza delle estudiantine di Smirne (quella del violinista Kotsos Vlachos, quella dei fratelli Ogdontakis, ecc.) e di quelle di Atene (Estudiantina di M. Kokkinos, che avevamo già in memoria).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/estchrist.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788074093805",
+      "name": "Κυρία Καμέλια",
+      "nameit": "Kirìa Camèlia",
+      "born": "",
+      "died": "",
+      "bio": "Cantante attiva a Costantinopoli nei primi  del 1900. \nSi conoscono 2 brani da lei incisi.\nPurtroppo non si hanno altri dati",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788075862614",
+      "name": "Μιχάλης Ζάμπας",
+      "nameit": "Michàlis Zàmbas",
+      "born": "1982, Preveza",
+      "died": "",
+      "bio": "Inizia da bambino studiando violino e teoria musicale presso il Conservatorio Comunale di Preveza. \nAll'età di 9 anni si avvicina alla musica ecclesiastica bizantina e al folk greco.\nNel 1999 vince il primo premio in musica bizantina e canto tradizionale nel concorso studentesco panellenico indetto dal Ministero dell'Istruzione greco.\nMentre frequenta la Facoltà di Teologia all'Università di Atene, approfondisce la musica nazionale greca presso l'Associazione Simon Karas e sotto la guida del maestro Lykourgos Angelopoulos. Nel 2001 ottiene il diploma in musica bizantina.\nZampas è un musicista versatile che padroneggia diversi strumenti tradizionali, tra cui il santouri, il kanonaki, il violino e il liuto.\nÈ stato membro stabile della celebre Corale Bizantina Greca (2001–2003), esibendosi in patria e all'estero, e del gruppo polifonico Chaonia (2001–2005).\n Ha lavorato al fianco di importanti figure della musica tradizionale ellenica, tra cui la celebre ricercatrice e cantante Domna Samiou, oltre a Chronis Aidonidis, Petroloukas Chalkias e Savvas Siatras\nNel 2005 è stato nominato insegnante e direttore artistico del Coro di Musica Tradizionale del Conservatorio Comunale di Preveza.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/zambas.jpg",
+      "roles": [
+        "ar",
+        "mu"
       ]
     }
   ]
