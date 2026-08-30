@@ -1,8 +1,73 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-30T07:45:55.382Z",
+  "exportedAt": "2026-08-30T08:32:57.204Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788078292614",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Ξεκινά μια ψαροπούλα",
+      "tit": "Ksekinà mià psàropula",
+      "alias": "",
+      "at": "Δημήτρης Γκόγκος",
+      "am": "Δημήτρης Γκόγκος",
+      "yr": "1947",
+      "ar": "Στελλάκης Περπινιάδης, Ιωάννα Γεωργακοπούλου",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=z5M6AZc7Fqo",
+      "li": "",
+      "ch": "RE                    LA          RE  LA  RE\nΞεκινά μια ψαροπούλα απ' το γιαλό, απ' το γιαλό\nSOL                          RE\nξεκινά μια ψαροπούλα απ' την Ύδρα τη μικρούλα\nMIm                              LA  RE  LA RE\nκαι πηγαίνει για σφουγγάρια, όλο γιαλό, όλο γιαλό\n\nRE                    LA          RE  LA  RE\nΈχει μέσα παλικάρια απ' το γιαλό, απ' το γιαλό\nSOL                          RE\nέχει μέσα παλικάρια, που βουτάνε για σφουγγάρια\nMIm                              LA  RE  LA RE\nγιούσερ και μαργαριτάρια, απ' το γιαλό, απ' το γιαλό\n\nRE                    LA          RE  LA  RE\nΓεια-χαρά σας παλικάρια, και στο καλό, και στο καλό\nSOL                          RE\nγεια-χαρά σας παλικάρια, να μάς φέρετε σφουγγάρια\nMIm                              LA  RE  LA RE\nγιούσερ κι όμορφα κοράλλια, απ' το γιαλό\n\nRE                    LA          RE  LA  RE\nΈχει συμιανούς, καλύμνιους απ' το γιαλό, απ' το γιαλό\nSOL                          RE\nΈχει υδραίους και ποριώτες, αιγινήτες και σπετσιώτες\nMIm                              LA  RE  LA RE\nπου 'ναι όλοι παλικάρια απ' το γιαλό, απ' το γιαλό",
+      "tr": "Ksekinά mia psaropúla\n\nKsekinά mia psaropúla ap'to ghialό, ap'to ghialό\nksekinά mia psaropúla ap'tin Ídra ti mikrúla\nke piyéni gia sfunghária, όlo ghialό, όlo ghialό\n\nÉchi mésa palikária ap'to ghialό, ap'to ghialό\néchi mésa palikária, pu vutáne gia sfunghária\nghiúser ke margaritária, ap'to ghialό, ap'to ghialό\n\nGhia-chará sas palikária, ke sto kaló, ke sto kaló\nghia-chará sas palikária, na mas férete sfunghária\nghiúser ki όmorfa korália, ap'to ghialό\n\nÉchi simianús, kalímnius ap'to ghialό, ap'to ghialό\nÉchi idréus ke poriόtes, eyinítes ke spetsiόtes\npu 'ne όli palikária ap'to ghialό, ap'to ghialό",
+      "ti": "Parte una barchetta da pesca\n\nParte una barchetta da pesca dalla riva, dalla riva\nparte una barchetta da pesca dalla piccola Idra\ne va a raccogliere spugne, sempre lungo la riva, sempre lungo la riva\n\nHa a bordo giovani coraggiosi dalla riva, dalla riva\nha a bordo giovani coraggiosi, che si tuffano per le spugne\nmadreperla e perle, dalla riva, dalla riva\n\nSalute a voi, giovani coraggiosi, e buon viaggio, buon viaggio\nsalute a voi, giovani coraggiosi, portateci spugne\nmadreperla e bei coralli, dalla riva\n\nHa a bordo uomini di Symi, di Kalymnos, dalla riva, dalla riva\nha uomini di Idra e di Poros, di Egina e di Spetses\nche sono tutti giovani coraggiosi, dalla riva, dalla riva\n\nNote:\n\nψαροπούλα — piccola barca da pesca, già incontrata in \"Μια ψαροπούλα είναι αραγμένη\"\nπαλικάρια — giovani coraggiosi/valorosi, termine ricorrente per i marinai/pescatori di spugne\nγιούσερ — madreperla (dal turco \"sedef\" o simile termine mediterraneo per la sostanza perlacea)\nil brano elenca gli uomini provenienti dalle principali isole greche storicamente dedite alla pesca delle spugne (Symi, Kalymnos, Idra, Poros, Egina, Spetses), attività fondamentale dell'economia dell'Egeo e del Dodecaneso fino al XX secolo",
+      "no": "Come coautore del testo figura Δ. Αρμπατζόγλου, che era la moglie di Baghiaderas a cui lui cointestò i diritti.\nSecondo quanto rivelato dallo stesso autore al ricercatore Kostas Chatzidoulis, la sessione di registrazione del 1947 vide al bouzouki una collaborazione d'eccezione: il leggendario Vasilis Tsitsanis registrò le tracce di accompagnamento strumentale, sebbene la direzione d'orchestra ufficiale fosse affidata al violinista Dimitris Semsis."
+    },
+    {
+      "id": "s_1788077489081",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Φώτης Πολυμέρης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=3-n6Gh9LeA4"
+        },
+        {
+          "who": "Στελλάκης Περπινιάδης, Ιωάννα Γεωργακοπούλου",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=66EHpEggLSU"
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1989",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ye4HbD6YC-U"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Νύχτες μαγικές",
+      "tit": "Nìchtes maghikès",
+      "alias": "Αραπίνες",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Tsifteteli",
+      "ll": "",
+      "li": "",
+      "ch": "LAm                    SOL\nΝύχτες μαγικές, ονειρεμένες\n                    FA          MI\nαγάπες λάγνες, ξεχασμένες, στην ξενιτιά\nLAm                    SOL\nΤρέχει ο νους μου προς τα περασμένα\n                    FA          MI\nτα βράδια μου τ' αγαπημένα, στην Αραπιά\n\nLAm            MI\nΣας μιλάω με καημό, με σπαραγμό\nFA          MI\nγια τόσες τρέλες που νοσταλγώ\nREm      LAm\nΑραπίνες λάγνες, ερωτιάρες\nLAm            MI                       LAm\nμε ουίσκι, με γλυκές κιθάρες, γλέντι και ποτό\nREm      LAm\nΑραπίνες, μάτια φλογισμένα\nLAm            MI                      LAm\nκαι κορμιά φιδίσια, καμωμένα σαν εξωτικά\n\nLAm                    SOL\nΚάθε βράδυ δυο μεγάλα μάτια\n                    FA          MI\nαράπικα, σωστά διαμάντια, αναζητώ\nLAm                    SOL\nΜα δεν βρίσκω τέτοια μαγεμένα\n                    FA          MI\nσαν τ' άλλα τα ονειρεμένα, γι' αυτό θρηνώ\n\nLAm            MI\nΤραγουδάω με καημό, με σπαραγμό\nFA          MI\nτις τόσες τρέλες που νοσταλγώ\nREm      LAm\nΑραπίνες, όνειρα σβησμένα\nLAm            MI                 LAm\nσαν εκείνα τα ονειρεμένα, γλέντι και ποτό\nREm      LAm\nΑραπίνες, μάτια φλογισμένα\nLAm            MI                  LAm\nκαι κορμιά φιδίσια, καμωμένα σαν εξωτικά",
+      "tr": "Níchtes maghikés\n\nNíchtes maghikés, onireménes\naghápes lághnes, ksechasménes, stin ksenitiá\nTrέchi o nus mu pros ta perasména\nta vrádia mu t'aghapiména, stin Arapiá\n\nSas miláo me kaimό, me sparaghmό\ngia tόses tréles pu nostalghό\nArapínes lághnes, erotiáres\nme uíski, me ghlikés kitháres, ghlédi ke potό\nArapínes, mátia floyisména\nke kormiá fidísia, kaména san eksotiká\n\nKáthe vrádi dío meghála mátia\narápika, sostá diamándia, anazitό\nMa den vrísko tétia magheména\nsan t'ála ta onireména, gi'aftό thrinό\n\nTraghudáo me kaimό, me sparaghmό\ntis tόses tréles pu nostalghό\nArapínes, όnira sviména\nsan ekína ta onireména, ghlédi ke potό\nArapínes, mátia floyisména\nke kormiá fidísia, kaména san eksotiká",
+      "ti": "Notti magiche\n\nNotti magiche, sognate\namori voluttuosi, dimenticati, in terra straniera\nla mia mente corre verso il passato\nverso le mie sere amate, in Arabia\n\nVi parlo con dolore, con strazio\nper tante follie che rimpiango\ndonne arabe voluttuose, amorose\ncon whisky, con dolci chitarre, festa e bevute\ndonne arabe, occhi ardenti\ne corpi sinuosi, fatti come cose esotiche\n\nOgni sera due grandi occhi\narabi, veri diamanti, cerco\nma non trovo tali occhi incantati\ncome quelli sognati, per questo mi lamento\n\nCanto con dolore, con strazio\nper tante follie che rimpiango\ndonne arabe, sogni spenti\ncome quelli sognati, festa e bevute\ndonne arabe, occhi ardenti\ne corpi sinuosi, fatti come cose esotiche\n\nNote:\n\nΑραπίνες — plurale femminile di \"Αράπης/Αραπίνα\", donna araba/di pelle scura; termine dell'immaginario esotico del rebetiko, non riferito a un'etnia precisa ma a una figura femminile stilizzata e sensuale associata all'Oriente\nΑραπιά — \"terra degli arabi\", già incontrata in altre canzoni\nκορμιά φιδίσια — \"corpi sinuosi/da serpente\", stessa immagine già incontrata in \"Μπουρνοβαλιά\"\nξενιτιά — vita/terra straniera, tema della nostalgia già incontrato in altre canzoni",
+      "no": "Tsitsanis compose la melodia e i primi versi durante il durissimo periodo dell'occupazione nazista a Salonicco (intorno al 1942-1943). Non potendo registrarla subito a causa delle restruzioni belliche e della chiusura delle fabbriche di dischi, il brano fu inciso ufficialmente solo nell'ottobre del 1946.\n Il pezzo fu registrato inizialmente il 29 ottobre 1946 con la voce del cantante leggero Fotis Polimeris. Tsitsanis, non del tutto soddisfatto dell'impronta troppo \"occidentale\", incise una seconda versione un mese dopo (novembre 1946) con la voce di Ioanna Georgakopoulou e Stellakis Perpiniadis, che divenne la versione leggendaria e definitiva"
+    },
     {
       "id": "s_1788075913190",
       "offsets": {},
@@ -10995,6 +11060,20 @@
       "roles": [
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1788077240081",
+      "name": "Φώτης Πολυμέρης",
+      "nameit": "Fòtis Polimèris",
+      "born": "20 febbraio 1920, Patrasso",
+      "died": "28 maggio 2013, Atene",
+      "bio": "Vero nome Φώτιος Παλημέρης\nFiglio di Evangelinos-Pavlos Palimeris, nato nel 1884 (20/8) a Kouvalata della Provincia di Pali a Cefalonia. \nNel 1935 pubblicò il suo primo album dopo aver vinto in concorsi di canzoni dell'epoca. \nHa avuto una lunga carriera discografica, registrando oltre 200 canzoni ed è considerato uno dei più grandi cantanti della canzone leggera, mentre ha scritto i testi e la musica in oltre 100 canzoni. \nHa collaborato con tutti i grandi creatori e cantanti del suo tempo così come con ripetizioni come Tsitsanis, Mitsakis, Papaioannou, Vamvakaris e altri.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/polimeris.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
