@@ -1,8 +1,162 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-29T18:35:21.230Z",
+  "exportedAt": "2026-08-30T03:53:22.065Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788061978817",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Σωτηρία Μπέλλου",
+          "year": "1950",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Fr3CUyz2sVs"
+        },
+        {
+          "who": "Πρόδρομος Τσαουσάκης, Ρένα Ντάλια",
+          "year": "1950",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=cicqsSpxW2g"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Μη μου ξαναφύγεις πια",
+      "tit": "Mi mou xanafygeis pia",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1950",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "FA       LA#m    FA  LA#m  FA\nΤο 'ξερα μια μέρα πως θα 'ρθεις\nFA          LA#m  FA  DO  FA\nκαι τις τρέλες σου θα βαρεθείς\n\nSOLm  REm  LA        REm  DO    FA\nΜη μου ξαναφύγεις πια, μάγκα μου\nSOLm  REm  LA        REm\nΜείνε μες στην αγκαλιά μου\nSOLm  REm  LA        REm  DO    FA\nΜη μου ξαναφύγεις πια, μάγκα μου\nSOLm  REm  LA        REm\nΜείνε μες στην αγκαλιά μου\n\nFA     LA#m    FA  LA#m  FA\nΉταν άδικος ο χωρισμός\nFA       LA#m  FA  DO  FA\nκαι ανυπολόγιστα σκληρός\n\n    SOLm  REm  LA        REm  DO    FA\nΜη μου ξαναφύγεις πια, μάγκα μου\nSOLm  REm  LA        REm\nΜείνε μες στην αγκαλιά μου\nSOLm  REm  LA        REm  DO    FA\nΜη μου ξαναφύγεις πια, μάγκα μου\nSOLm  REm  LA        REm\nΜείνε μες στην αγκαλιά μου\n\nFA         LA#m    FA  LA#m  FA\nΒρέθηκα στη στράτα της ζωής\nFA                LA#m  FA  DO  FA\nδίχως μάνα, δίχως συγγενείς\n\nSOLm  REm  LA        REm  DO    FA\nΜη μου ξαναφύγεις πια, μάγκα μου\nSOLm  REm  LA        REm\nΜείνε μες στην αγκαλιά μου\nSOLm  REm  LA        REm  DO    FA\nΜη μου ξαναφύγεις πια, μάγκα μου\nSOLm  REm  LA        REm\nΜείνε μες στην αγκαλιά μου",
+      "tr": "Mi mou ksanafighis pia\n\nTo 'ksera mia méra pos tha 'rthis\nke tis trélles su tha varethís\n\nMi mu ksanafighis pia, mánga mu\nMíne mes stin anghaliá mu\nMi mu ksanafighis pia, mánga mu\nMíne mes stin anghaliá mu\n\nÍtan ádikos o chorismόs\nke anipolόghista sklirόs\n\nMi mu ksanafighis pia...\n\nVréthika sti stráta tis zoís\ndíchos mána, díchos singhenís\n\nMi mu ksanafíghis pia...",
+      "ti": "Non te ne andare mai più\n\nLo sapevo che un giorno saresti tornato\ne ti saresti stancato delle tue follie\n\nNon lasciarmi mai più, mangas mio\nresta tra le mie braccia\nNon lasciarmi mai più, mangas mio\nresta tra le mie braccia\n\nFu ingiusta la separazione\ne incalcolabilmente crudele\n\nNon lasciarmi mai più...\n\nMi sono trovata sulla strada della vita\nsenza madre, senza parenti\n\nNon lasciarmi mai più...\n\nNote:\n\nμάγκας — figura tipica del rebetiko: uomo di strada con proprio codice d'onore, qui usato come vezzeggiativo affettuoso verso l'amato\nανυπολόγιστα σκληρός — \"incalcolabilmente crudele\", intensificativo colto per esprimere una durezza fuori misura\nστράτα της ζωής — \"la strada della vita\", immagine poetica per il cammino/le difficoltà dell'esistenza, qui rafforzata dalla condizione di orfana/senza famiglia della protagonista",
+      "no": ""
+    },
+    {
+      "id": "s_1788061045796",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Πέτρος Γαϊτάνος",
+          "year": "2000",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=w9yYQ05dwtY"
+        },
+        {
+          "who": "Παντελής Θαλασσινός",
+          "year": "1999",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=8ZDUsvUC8LU"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Μήλο μου κόκκινο",
+      "tit": "Mìlo mu kòkino",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "kalamatianòs",
+      "ll": "",
+      "li": "",
+      "ch": "LA           RE          LA       \nΜήλο μου κόκκινο, ρόδο βαμμένο   \n LA           RE          LA       \nΜήλο μου κόκκινο, ρόδο βαμμένο\n LA                MI      LA\nγιατί με μάρανες, τον πικραμένο   \n LA                MI      LA\nγιατί με μάρανες, τον πικραμένο  \n\n LA           RE          LA \nΠηγαίνω κι έρχομαι, μα δε σε βρίσκω \n LA           RE          LA \nΠηγαίνω κι έρχομαι, μα δε σε βρίσκω \n LA                MI      LA \nΒρίσκω την πόρτα σου μανταλωμένη\n LA                MI      LA\nτα παραθύρια σου φεγγοβολούνε\n\n LA           RE          LA    \nΡωτώ την πόρτα σου, πού είν' η κυρά σου  \n LA           RE          LA    \nΡωτώ την πόρτα σου, πού είν' η κυρά σου \n LA                MI      LA\nΚυρά μ' δεν είναι δω, πάησε στη βρύση\n LA                MI      LA\nπάησε να πιει νερό και να γιομίσει",
+      "tr": "Mìlo mu kòkino\n\nMílo mu kόkino, rόdo vaméno\nyiatí me máranes, ton pikraméno\n\nPiyéno ki érchome, ma de se vrísko\nVrísko tin pόrta su mandaloméni\nta parathíria su fenghovolúne\n\nRotó tin pόrta su, pu 'n' i kirá su\nKirá m' den íne dó, pýise sti vrísi\npýise na pi neró ke na ghiomísi",
+      "ti": "Mia mela rossa\n\nMela mia rossa, rosa dipinta\nperché mi hai fatto appassire, me infelice\n\nVado e vengo, ma non ti trovo\ntrovo la tua porta sprangata\nle tue finestre risplendono\n\nChiedo alla tua porta, dov'è la tua padrona\nla mia padrona non è qui, è andata alla fontana\nè andata a bere acqua e a riempire (la brocca)\n\nNote:\n\nρόδο βαμμένο — \"rosa dipinta/tinta\", immagine poetica per una bellezza vivida e intensa, in coppia con \"μήλο κόκκινο\" (mela rossa) come classici epiteti d'amore nella canzone popolare greca\nπικραμένος — amareggiato, colmo di dolore; participio spesso usato come autodefinizione malinconica del cantore nei canti popolari\nμανταλωμένη — sprangata/chiusa con il chiavistello (da \"μάνταλο\", catenaccio)\nil canto usa il tradizionale schema del dialogo con un oggetto/luogo (qui la porta di casa) invece che con la persona stessa, espediente tipico dei canti popolari (δημοτικά τραγούδια) per esprimere l'assenza e l'attesa dell'amata\nl'andare \"alla fontana a prendere acqua\" è motivo ricorrente nella tradizione popolare greca, spesso luogo/pretesto di incontri amorosi tra giovani",
+      "no": ""
+    },
+    {
+      "id": "s_1788059550881",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μάρκος Βαμβακάρης",
+          "year": "1937",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Fg5G99eMW78"
+        },
+        {
+          "who": "Πρόδρομος Τσαουσάκης",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=kvMqjx8HHLE"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Μικρός αρραβωνιάστηκα",
+      "tit": "Mikròs arravoniàstika",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1937",
+      "ar": "",
+      "lb": "Odeon Ell. GA 7041 / GO-2747",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "ll": "https://www.youtube.com/watch?v=Fg5G99eMW78",
+      "li": "",
+      "ch": "RE        RE#      RE            RE#      RE \nΜικρός αρραβωνιάστηκα, κορόιδο που επιάστηκα\n     SOLm        RE        DOm         RE\nκαι πήρα μια μπεμπέκα μαγκιώρα για γυναίκα \n     SOLm        RE        DOm         RE\nκαι πήρα μια μπεμπέκα μαγκιώρα για γυναίκα \n \nRE        RE#      RE            RE#      RE \nΣτο γάμο μάγκα να 'σουνα, να δεις καλαμπαλίκι\n     SOLm        RE        DOm         RE\nΣαν να 'μουνα υπόδικος και περιμένω δίκη  \n     SOLm        RE        DOm         RE\nΣαν να 'μουνα υπόδικος και περιμένω δίκη\n \nRE        RE#      RE        RE#      RE \nΚαι βγήκε η απόφαση πως είμαι παντρεμένος\n     SOLm        RE        DOm         RE\nνα κουβαλώ καθημερνώς σα γάιδαρος στρωμένος\n     SOLm        RE        DOm         RE\nνα κουβαλώ καθημερνώς σα γάιδαρος στρωμένος  \n \nRE        RE#      RE            RE#      RE \nΤην άλλη μέρα ξύπνησα, τότε να δεις μεράκια\n     SOLm        RE        DOm         RE\nεμείς δεν είχαμε ψιλή κι αυτή ήθελε χαδάκια \n     SOLm        RE        DOm         RE\nεμείς δεν είχαμε ψιλή κι αυτή ήθελε χαδάκια \n \nRE        RE#      RE            RE#      RE \nΝα φύγω και να κουνηθώ δε μ' άφηνε απ' το σπίτι\n     SOLm        RE        DOm         RE\nκι ένα χαλκά από σίδερο μου πέρασε στη μύτη \n     SOLm        RE        DOm         RE\nκι ένα χαλκά από σίδερο μου πέρασε στη μύτη \n \nRE        RE#      RE            RE#      RE \nΜάζεψα τα υπάρχοντα, παίρνω το μπουγιουρντί μου\n     SOLm        RE        DOm         RE\nτα σέα μου, τα μέα μου και βουρ για το τσαρδί μου \n     SOLm        RE        DOm         RE\nτα σέα μου, τα μέα μου και βουρ για το τσαρδί μου \n \nRE        RE#      RE            RE#      RE \nΠαίρνω ένα ξύλο από οξιά κι απάνω της το σπάω\n     SOLm        RE        DOm         RE\nτής δίνω ξύλο αλύπητο, φεύγω κι ακόμα πάω \n     SOLm        RE        DOm         RE\nτής δίνω ξύλο αλύπητο, φεύγω κι ακόμα πάω",
+      "tr": "Mikròs arravoniàstika\n\nMikrós aravoniástika, korόido pu epiástika\nke píra mia bebéka mangiόra gia yinéka\n\nSto ghámo mánga na 'suna, na dis kalambalíki\nSan na 'muna ipόdikos ke periméno díki\n\nKe vghíke i apόfasi pos íme pandreménos\nna kuvaló kathimernόs sa gháidaros stroménos\n\nTin áli méra ksípnisa, tόte na dis meráкia\nemís den íchame psilí ki aftí íthele chadákia\n\nNa fíyo ke na kunithó de m'áfine ap'to spíti\nki éna chalká apό sídero mu pérase sti míti\n\nMázepsa ta ipárchonda, pérno to buyiurdí mu\nta séa mu, ta méa mu ke vur gia to tsardí mu\n\nPérno éna ksílo apό oksiá ki apáno tis to spáo\ntis díno ksílo alípito, févgo ki akόma páo",
+      "ti": "Mi sono fidanzato giovane\n\nMi sono fidanzato giovane, che babbeo, mi sono fatto irretire\ne ho preso come moglie una bambolina prepotente\n\nAl matrimonio, se c'eri, avresti visto che baraonda\ncome se fossi un imputato in attesa di processo\n\nE uscì la sentenza che sono sposato\nper trasportare quotidianamente pesi come un asino bardato\n\nIl giorno dopo mi sono svegliato, allora sì che sono guai\nnoi non avevamo soldi e lei voleva coccole\n\nAndare via e muovermi non me lo lasciava fare da casa\ne un anello di ferro mi ha infilato al naso\n\nHo raccolto le mie cose, prendo il mio decreto (di sfratto/rottura)\nil mio e il suo, e via, verso il mio rifugio\n\nPrendo un bastone di faggio e glielo spacco addosso\nle do botte senza pietà, me ne vado e continuo ad andare\n\nNote:\n\nμπεμπέκα μαγκιώρα — \"bambolina prepotente/spavalda\", ossimoro scherzoso tra la dolcezza apparente (\"μπεμπέκα\", bambolina) e il carattere autoritario (\"μαγκιώρα\", da \"μάγκας\" al femminile rafforzato)\nκαλαμπαλίκι — baraonda, confusione, gran trambusto (turchismo gergale)\nχαλκάς στη μύτη — \"anello al naso\", immagine idiomatica per indicare l'essere completamente sottomesso/controllato da qualcuno, come un animale al guinzaglio\nμπουγιουρντί — originariamente un decreto/ordinanza ottomana (turchismo); qui usato scherzosamente nel senso di \"il mio atto di separazione/la mia via di fuga\"\nτσαρδί — covo, rifugio, già incontrato in altre canzoni\nil brano, in tipico tono scherzoso-autoironico del rebetiko, racconta la disillusione di un giovane sposo dominato dalla moglie, che alla fine si ribella con violenza e se ne va di casa — tema comico-popolare del \"matrimonio infelice\" molto diffuso nel genere",
+      "no": "Prima registrazione: Markos Vamvakaris al bouzouki, Spìros Peristèris alla chitarra e Batis al baglama"
+    },
+    {
+      "id": "s_1788058213350",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Μια παλιά ιστορία",
+      "tit": "Mia paliá istoría",
+      "alias": "",
+      "at": "Κώστας Βίρβος",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1962",
+      "ar": "Στέλιος Καζαντζίδης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=vn0zZm4A6Qw",
+      "li": "",
+      "ch": "LAm       MI       LAm      MI          LAm\nΜην σκαλίζεις τη στάχτη να ξανάβρεις φωτιά\n     MI    LAm     MI         LAm\nη δική μας αγάπη τώρα έσβησε πια\n    REm       LAm       MI           LAm\nΚι αν υπάρχουνε σπίθες που ακόμα κρατούν\n      REm      LAm   MI            LAm            SOL\nμ' ένα φύσημα αγέρα και αυτές θα χαθούν\n\nDO            REm          MI      LAm\nΜε μια αγάπη καινούργια θα χαράξω πορεία\nDO            REm          MI      LAm\nεσύ ήσουνα για μένα μια παλιά ιστορία\nDO            REm          MI      LAm\nεσύ ήσουνα για μένα μια παλιά ιστορία\nDO            REm          MI      LAm\nΜε μια αγάπη καινούργια θα χαράξω πορεία\n\nDO            REm          MI      LAm\nΜια φορά εγελούσες όταν έκλαιγα εγώ\n     MI      LAm        MI           LAm\nΣαν σκυλί με τραβούσες πότε εκεί, πότε εδώ\nREm            LAm            MI        LAm\nΜα περάσαν τα χρόνια κι ήρθαν άλλοι καιροί\nREm            LAm        MI     LAm            SOL\nΤώρα εγώ θα γελάω μα θα κλάψεις εσύ\n\nDO            REm          MI      LAm\nΜε μια αγάπη καινούργια θα χαράξω πορεία\nDO            REm          MI      LAm\nεσύ ήσουνα για μένα μια παλιά ιστορία\nDO            REm          MI      LAm\nεσύ ήσουνα για μένα μια παλιά ιστορία\nDO            REm          MI      LAm\nΜε μια αγάπη καινούργια θα χαράξω πορεία\n\n\nLAm       MI       LAm      MI          LAm\nΗ δική σου εικόνα έχει πλέον χαθεί\n     MI    LAm     MI         LAm\nΤην σκεπάζουν αράχνες και την κρύβει η ντροπή\nREm            LAm            MI            LAm\nΠροκειμένου να είσαι της ζωής μου σκιά\nREm            LAm            MI            LAm            SOL\nκοίτα βρες κάποιον άλλο, πριν γεράσει η καρδιά\n\nDO            REm          MI      LAm\nΜε μια αγάπη καινούργια θα χαράξω πορεία\nDO            REm          MI      LAm\nεσύ ήσουνα για μένα μια παλιά ιστορία\nDO            REm          MI      LAm\nεσύ ήσουνα για μένα μια παλιά ιστορία\nDO            REm          MI      LAm\nΜε μια αγάπη καινούργια θα χαράξω πορεία",
+      "tr": "Mia paliá istoría\n\nMin skalízis ti stáchti na ksanávris fotiá\ni dikí mas aghápi tόra ésvise pia\nKi an ipárchune spíthes pu akόma kratún\nm'éna físima aghéra ke aftés tha chathún\n\nMe mia aghápi kenúrghia tha charákso poría\nesí ísuna gia ména mia paliá istoría\nesí ísuna gia ména mia paliá istoría\nMe mia aghápi kenúrghia tha charákso poría\n\nMia forá eghelúses όtan éklegha eghό\nSan skilí me travúses pόte ekí, pόte edό\nMa pérasan ta chrόnia ki írthan áli keroí\nTόra eghό tha gheláo ma tha klápsis esí\n\nMe mia aghápi kenúrghia...\n\nI dikí su eikόna échi pléon chathí\nTin skepázun aráchnes ke tin krívi i ndropí\nProkiménu na íse tis zoís mu skiá\nkíta vrés kápion álo, prin ghirási i kardiá\n\nMe mia aghápi kenúrghia...",
+      "ti": "Una vecchia storia\n\nNon frugare nella cenere per ritrovare il fuoco\nil nostro amore ormai si è spento\ne se ci sono ancora scintille che resistono\ncon un soffio di vento anch'esse spariranno\n\nCon un amore nuovo traccerò la mia rotta\ntu sei stata per me una vecchia storia\ntu sei stata per me una vecchia storia\ncon un amore nuovo traccerò la mia rotta\n\nUna volta ridevi quando io piangevo\nmi trascinavi come un cane, ora qui, ora lì\nma sono passati gli anni e sono arrivati altri tempi\nora sarò io a ridere, ma piangerai tu\n\nCon un amore nuovo...\n\nLa tua immagine ormai è svanita\nla coprono i ragni e la nasconde la vergogna\npiuttosto che essere l'ombra della mia vita\ncerca, trova qualcun altro, prima che il cuore invecchi\n\nCon un amore nuovo...\n\nNote:\n\nσκαλίζω τη στάχτη — idiomatico: \"frugare nella cenere\", cioè riportare a galla un sentimento ormai spento/finito\nθα χαράξω πορεία — letteralmente \"traccerò una rotta\", immagine marinaresca per \"prenderò una nuova direzione nella vita\"\nσκιά της ζωής μου — \"ombra della mia vita\", espressione per indicare una presenza sbiadita e senza più peso reale, in contrasto con l'orgoglio recuperato del narratore",
+      "no": ""
+    },
+    {
+      "id": "s_1788057378505",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Μια όμορφη μελαχροινή",
+      "tit": "Mià òmorfi melachrinì",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1939",
+      "ar": "Μάρκος Βαμβακάρης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "χιτζάζ",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=cTo8UNg0VME",
+      "li": "",
+      "ch": "RE\nΜια όμορφη μελαχρινή ναζιάρα και σκερτσόζα  \nRE\nΜια όμορφη μελαχρινή ναζιάρα και σκερτσόζα \nSOLm            RE           DOm      RE\nτόσο πολύ με τυραννεί και μου κρατάει πόζα\nSOLm            RE      DOm   RE   RE#   RE\nτόσο πολύ με τυραννεί και μου κρατάει πόζα \n\nRE \nΘα την ζυγώσω μια βραδιά και θα την αρωτήσω         \nRE \nΘα την ζυγώσω μια βραδιά και θα την αρωτήσω   \nSOLm            RE           DOm      RE\nπως γίνεσαι τόσο κακιά για σένα θα αρρωστήσω   \nSOLm            RE      DOm   RE   RE#   RE\nπως γίνεσαι τόσο κακιά για σένα θα αρρωστήσω  \n \nRE\nΤα κατσαρά σου τα μαλλιά τα μάτια σου τα μαύρα \nRE\nΤα κατσαρά σου τα μαλλιά τα μάτια σου τα μαύρα \nSOLm            RE           DOm      RE    \nμες την δική μου αγκαλιά θα σβήσουν κάθε λαύρα      \nSOLm            RE      DOm   RE   RE#   RE\nμες την δική μου αγκαλιά θα σβήσουν κάθε λαύρα \n\n\nSOLm            RE           DOm      RE  \nΜες την δική μου αγκαλιά θα σβήσουν κάθε λαύρα \nSOLm            RE      DOm   RE   RE#   RE\nΤα κατσαρά σου τα μαλλιά τα μάτια σου τα μαύρα",
+      "tr": "Mià òmorfi melachrinì\n\nMia όmorfi melachriní\nnaziára ke skertsόza\ntόso polí me tiranní\n\nke mu kratái pόza\ntόso polí me tiranní\nke mu kratái pόza\n\nTha tin zighόso mia vradiá\nke tha tin arotíso\npos ghínese tόso kakiá\ngia séna tha arostíso\n\nTa katsará su ta maliá\nta mátia su ta mávra\nmes tin dikí mu anghaliá\ntha svísun káthe lávra\n\nMes tin dikí mu anghaliá\ntha svísun káthe lávra",
+      "ti": "Una bella ragazza bruna\n\nUna bella ragazza bruna\ncapricciosa e civettuola\nmi tormenta così tanto\n\ne mi tiene sulle spine\nmi tormenta così tanto\ne mi tiene sulle spine\n\nLe mi avvicinerò una sera\ne le chiederò\ncome fai a essere così cattiva\nper te mi ammalerò\n\nI tuoi capelli ricci\ni tuoi occhi neri\ntra le mie braccia\nspegneranno ogni bruciore\n\nTra le mie braccia\nspegneranno ogni bruciore\n\nNote:\n\nσκερτσόζα — civettuola, brillante e maliziosa, già incontrato in altre canzoni (\"σκέρτσο-πεταχτό\")\nκρατάει πόζα — idiomatico: \"mi tiene in posa/mi fa aspettare con distacco\", cioè mantiene un atteggiamento altezzoso e distante\nλαύρα — bruciore/vampata intensa (anche di lava), qui usato figurativamente per il tormento/ardore d'amore",
+      "no": "Orchestra con bouzouki, chitarra e baglama. Al bouzouki  Spiros Peristeris."
+    },
     {
       "id": "s_1788028392024",
       "offsets": {},

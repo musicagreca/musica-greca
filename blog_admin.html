@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Μουσική — Amministrazione</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f7f4ef;--surface:#fff;--s2:#f0ece4;
+  --border:#e0d8cc;--b2:#c8bfb0;
+  --text:#1a1814;--t2:#5a5448;--t3:#8a7f72;
+  --accent:#2244aa;--abg:#e6f1fb;
+  --green:#1a6a2a;--gbg:#e1f5ee;
+  --amber:#854f0b;--ambg:#faeeda;
+  --purple:#534ab7;--pbg:#eeedfe;
+  --coral:#993c1d;--cbg:#faece7;
+  --radius:6px;--font:'Arial',sans-serif;
+  --admin-accent:#7c2d12;--admin-bg:#fff7ed;
+  --acc:var(--accent);--sur:var(--surface);--bor:var(--border)
+}
+body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14px;line-height:1.6;min-height:100vh}
+
+/* LOGIN */
+.login-wrap{min-height:100vh;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1a2a5e,#7c2d12)}
+.login-box{background:#fff;border-radius:12px;padding:2.5rem 2rem;width:340px;box-shadow:0 8px 32px rgba(0,0,0,.2)}
+.login-logo{text-align:center;font-size:2rem;font-weight:700;color:var(--accent);margin-bottom:.3rem;letter-spacing:.04em}
+.login-sub{text-align:center;font-size:.85rem;color:var(--t3);margin-bottom:1.5rem}
+.login-label{display:block;font-size:12px;font-weight:700;color:var(--t2);margin-bottom:3px}
+.login-input{width:100%;padding:8px 10px;border:1px solid var(--b2);border-radius:var(--radius);font-size:13px;font-family:var(--font);color:var(--text);margin-bottom:1rem}
+.login-input:focus{outline:none;border-color:var(--accent)}
+.login-btn{width:100%;padding:.65rem;background:var(--accent);color:#fff;border:none;border-radius:var(--radius);font-size:14px;font-weight:700;cursor:pointer;font-family:var(--font)}
+.login-btn:hover{opacity:.9}
+.login-err{font-size:12px;color:#a32d2d;text-align:center;margin-top:.5rem;min-height:1.2em}
+.login-note{font-size:11px;color:var(--t3);text-align:center;margin-top:1rem;line-height:1.5}
+
+/* ADMIN UI */
+.admin-wrap{display:none;min-height:100vh}
+.admin-nav{background:#1a1814;padding:0 1rem;display:flex;align-items:center;gap:.4rem;flex-wrap:wrap;position:sticky;top:0;z-index:100}
+.admin-brand{font-size:14px;font-weight:700;color:#fff;padding:.65rem .8rem .65rem 0;border-right:1px solid #3a3830;margin-right:.3rem;white-space:nowrap}
+.admin-brand span{color:#f97316;margin-left:4px}
+.admin-tab{padding:.65rem .65rem;font-size:12px;color:#9a9080;cursor:pointer;border:none;background:none;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap;font-family:var(--font)}
+.admin-tab:hover{color:#fff}
+.admin-tab.active{color:#f97316;border-bottom-color:#f97316;font-weight:700}
+.admin-logout{margin-left:auto;font-size:11px;color:#9a9080;cursor:pointer;padding:.4rem .7rem;border:1px solid #3a3830;border-radius:var(--radius);background:none}
+.admin-logout:hover{color:#fff;border-color:#666}
+
+/* PAGINE ADMIN */
+.apage{display:none;padding:1.1rem .9rem;max-width:920px;margin:0 auto}
+.apage.active{display:block}
+.apage-title{font-size:1rem;font-weight:700;color:var(--text);margin-bottom:1rem;padding-bottom:.5rem;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px}
+.admin-badge{font-size:10px;padding:2px 7px;background:var(--admin-bg);color:var(--admin-accent);border:1px solid #fed7aa;border-radius:10px;font-weight:700}
+
+/* LISTA ADMIN */
+.admin-list{display:flex;flex-direction:column;gap:6px;margin-bottom:1rem}
+.admin-row{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:.55rem .85rem;display:flex;align-items:center;gap:8px}
+.admin-row-main{flex:1;overflow:hidden}
+.admin-row-title{font-size:13px;font-weight:700;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.admin-row-sub{font-size:11px;color:var(--t3)}
+.admin-row-actions{display:flex;gap:4px;flex-shrink:0}
+.abtn{height:26px;padding:0 9px;font-size:11.5px;border:1px solid var(--b2);border-radius:var(--radius);background:var(--surface);cursor:pointer;display:inline-flex;align-items:center;gap:3px;font-family:var(--font)}
+.abtn:hover{background:var(--s2)}
+.abtn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+.abtn.primary:hover{opacity:.88}
+.abtn.danger{color:var(--coral);border-color:#fdd}
+.abtn.danger:hover{background:var(--cbg)}
+.abtn.orange{background:#f97316;color:#fff;border-color:#f97316}
+.abtn.orange:hover{opacity:.88}
+
+/* FORM */
+.form-section{margin-bottom:.9rem}
+.form-section label{display:block;font-size:11.5px;font-weight:700;color:var(--t2);margin-bottom:3px}
+.form-section input,.form-section textarea,.form-section select{width:100%;padding:6px 9px;border:1px solid var(--b2);border-radius:var(--radius);font-size:13px;font-family:var(--font);color:var(--text);background:var(--surface);resize:vertical}
+.form-section textarea{min-height:65px}
+.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.form-grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:9px}
+/* AUTOCOMPLETE */
+.ac-wrap{position:relative}
+.ac-dd{position:absolute;top:100%;left:0;right:0;background:var(--surface);border:1px solid var(--b2);border-top:none;border-radius:0 0 var(--radius) var(--radius);z-index:200;max-height:260px;overflow-y:auto;box-shadow:0 4px 12px rgba(0,0,0,.1);display:none}
+.ac-item{padding:.3rem .75rem;font-size:12.5px;cursor:pointer;color:var(--text);display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border)}
+.ac-item:last-child{border-bottom:none}
+.ac-item:hover{background:var(--abg)}
+/* esecuzioni nel form */
+.exec-form-list{display:flex;flex-direction:column;gap:4px;margin-bottom:.4rem}
+.exec-form-item{padding:.35rem .65rem;background:var(--s2);border-radius:var(--radius);border:1px solid var(--border);font-size:12px;display:flex;align-items:center;gap:6px}
+.exec-del{margin-left:auto;color:var(--coral);cursor:pointer;font-size:10px;padding:1px 5px;border:1px solid #fdd;border-radius:10px;background:none}
+.exec-del:hover{background:var(--cbg)}
+.exec-add{display:flex;gap:4px;flex-wrap:wrap}
+.exec-add input{flex:1;min-width:70px;height:25px;padding:0 6px;font-size:11.5px;border:1px solid var(--b2);border-radius:var(--radius);background:var(--surface);color:var(--text)}
+.exec-add button{height:25px;padding:0 9px;font-size:11.5px;border:1px solid var(--b2);border-radius:var(--radius);background:var(--surface);color:var(--accent);cursor:pointer}
+.exec-add button:hover{background:var(--abg)}
+/* CANZONIERE preview */
+.songbook{font-family:'Courier New',monospace;font-size:14px}
+.sb-label{font-size:10px;font-weight:700;color:var(--t3);text-transform:uppercase;letter-spacing:.08em;display:block;margin:.25rem 0 .1rem}
+.sb-pair{margin-bottom:2px;padding-top:22px;position:relative}
+.sb-chords-row{position:absolute;top:0;left:0;right:0;height:20px;overflow:visible}
+.sb-chord{position:absolute;top:0;font-family:'Courier New',monospace;font-size:14px;font-weight:700;color:#000;white-space:nowrap;user-select:none}
+.sb-chord .mv{display:none;position:absolute;top:-20px;left:50%;transform:translateX(-50%);background:var(--surface);border:1px solid var(--b2);border-radius:12px;padding:0 2px;white-space:nowrap;z-index:20;box-shadow:0 2px 8px rgba(0,0,0,.12)}
+.sb-chord:hover .mv{display:flex}
+.mv-b{border:none;background:none;color:var(--accent);cursor:pointer;font-size:13px;padding:2px 6px;border-radius:10px;line-height:1.2}
+.mv-b:hover{background:var(--abg)}
+.sb-text{font-family:'Courier New',monospace;font-size:14px;color:var(--text);line-height:1.1;white-space:pre;display:block;padding-bottom:2px}
+.sb-text-only{font-family:'Courier New',monospace;font-size:14px;color:var(--text);white-space:pre;display:block;margin-bottom:2px}
+/* semi ctrl */
+.semi-ctrl{display:flex;align-items:center;gap:6px;margin-bottom:.7rem;flex-wrap:wrap}
+.semi-ctrl label{font-size:11.5px;color:var(--t2)}
+.sbtn{width:24px;height:24px;border-radius:var(--radius);border:1px solid var(--b2);background:var(--surface);cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center}
+.sbtn:hover{background:var(--s2)}
+.semi-val{font-size:12.5px;font-weight:700;min-width:26px;text-align:center;color:var(--accent)}
+.nseg button{height:22px;padding:0 6px;font-size:11px;border:1px solid var(--b2);border-radius:var(--radius);background:var(--surface);color:var(--t2);cursor:pointer}
+.nseg{display:flex;gap:2px}
+.nseg button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.divider{height:1px;background:var(--border);margin:.75rem 0}
+.alert{padding:.45rem .75rem;border-radius:var(--radius);font-size:12px;margin-bottom:.65rem}
+.alert.ok{background:var(--gbg);color:var(--green);border:1px solid #9fe1cb}
+.alert.err{background:#fcebeb;color:#a32d2d;border:1px solid #f09595}
+.role-pill{font-size:10px;padding:2px 8px;border-radius:10px;font-weight:700}
+.rp-at{background:var(--ambg);color:var(--amber);border:1px solid #fac775}
+.rp-am{background:var(--pbg);color:var(--purple);border:1px solid #afa9ec}
+.rp-ar{background:var(--gbg);color:var(--green);border:1px solid #9fe1cb}
+.tag{display:inline-block;font-size:10px;padding:2px 6px;border-radius:10px;background:var(--s2);border:1px solid var(--border);color:var(--t3);margin-right:2px}
+.fhint{font-size:10.5px;color:var(--t3);background:var(--s2);border:1px solid var(--border);border-radius:var(--radius);padding:.35rem .6rem;margin-top:.25rem;line-height:1.5}
+@media(max-width:600px){.form-grid,.form-grid3{grid-template-columns:1fr}}
+@media print{
+  body *{visibility:hidden}
+  #stampa-content,#stampa-content *{visibility:visible}
+  #stampa-content{position:fixed;top:0;left:0;width:100%;font-family:Arial,sans-serif}
+}
+.alpha-btn{font-size:11px;padding:2px 7px;border:1px solid var(--bor);border-radius:4px;background:var(--sur);color:var(--t2);cursor:pointer;min-width:24px;text-align:center;font-family:'Arial',sans-serif}
+.alpha-btn:hover,.alpha-btn.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+</style>
+</head>
+<body>
+
+<!-- LOGIN OVERLAY -->
+<div class="login-wrap" id="login-wrap">
+  <div class="login-box">
+    <div class="login-logo">Μουσική</div>
+    <div class="login-sub">Area amministrazione</div>
+    <label class="login-label">Password</label>
+    <div style="position:relative">
+      <input type="password" class="login-input" id="pwd-input" style="padding-right:38px" onkeydown="if(event.key==='Enter')doLogin()">
+      <span onclick="const i=document.getElementById('pwd-input');const t=document.getElementById('pwd-eye');if(i.type==='password'){i.type='text';t.textContent='🙈';}else{i.type='password';t.textContent='👁️';}" id="pwd-eye" style="position:absolute;right:10px;top:50%;transform:translateY(-50%);cursor:pointer;user-select:none;font-size:16px">👁️</span>
+    </div>
+    <button class="login-btn" onclick="doLogin()">Accedi</button>
+    <div class="login-err" id="login-err"></div>
+    <div class="login-note">Questa pagina è riservata all'amministratore.<br>La pagina pubblica è <strong>blog_pubblico.html</strong>.</div>
+  </div>
+</div>
+
+<!-- ADMIN UI (visibile solo dopo login) -->
+<div class="admin-wrap" id="admin-wrap">
+  <nav class="admin-nav">
+    <div class="admin-brand">Μουσική <span>ADMIN</span></div>
+    <button class="admin-tab active" onclick="showAPage('canzoni')">♪ Canzoni</button>
+    <button class="admin-tab" onclick="showAPage('persone')">👤 Persone</button>
+    <button class="admin-tab" onclick="showAPage('argomenti')">📖 Approfondimenti</button>
+    <button class="admin-tab" onclick="showAPage('accordi')">🎸 Accordi</button>
+    <button class="admin-tab" onclick="showAPage('elenchi-stampa')">📋 Elenchi</button>
+    <button class="admin-tab" onclick="showAPage('esporta')">📤 Esporta</button>
+    <button class="admin-logout" onclick="doLogout()">✕ Esci</button>
+  </nav>
+
+  <!-- CANZONI -->
+  <div class="apage active" id="apage-canzoni">
+    <div class="apage-title">♪ Gestione canzoni <span class="admin-badge">ADMIN</span></div>
+    <div style="margin-bottom:.5rem;display:flex;gap:8px;align-items:center">
+      <button class="abtn primary" onclick="openSongForm()">+ Nuova canzone</button>
+      <input type="text" id="admin-srch-songs" placeholder="Cerca…" oninput="renderAdminSongs()" style="flex:1;padding:5px 9px;border:1px solid var(--bor);border-radius:var(--rad);font-size:12px;font-family:'Arial',sans-serif">
+    </div>
+    <div id="admin-alpha-songs" style="display:flex;flex-wrap:wrap;gap:3px;margin-bottom:.6rem"></div>
+    <div class="admin-list" id="admin-song-list"></div>
+    <!-- FORM CANZONE -->
+    <div id="song-form-wrap" style="display:none">
+      <div class="divider"></div>
+      <div style="font-size:12px;font-weight:700;color:var(--admin-accent);margin-bottom:.6rem" id="song-form-mode-label">Nuova canzone</div>
+      <div id="song-form-alert"></div>
+      <div class="form-grid">
+        <div class="form-section"><label>Titolo in greco</label><input type="text" id="sf-tgr"></div>
+        <div class="form-section"><label>Titolo traslitterato</label><input type="text" id="sf-tit"></div>
+      </div>
+      <div class="form-grid">
+        <div class="form-section"><label>Titoli alternativi / alias</label><input type="text" id="sf-alias"></div>
+      </div>
+      <div class="form-grid3">
+        <div class="form-section"><label>Autore testo</label>
+          <div class="ac-wrap"><input type="text" id="sf-at" autocomplete="off" oninput="acIn('sf-at','at')" onfocus="acIn('sf-at','at')" onblur="acHide('sf-at')"><div class="ac-dd" id="ac-sf-at"></div></div>
+        </div>
+        <div class="form-section"><label>Autore musica</label>
+          <div class="ac-wrap"><input type="text" id="sf-am" autocomplete="off" oninput="acIn('sf-am','am')" onfocus="acIn('sf-am','am')" onblur="acHide('sf-am')"><div class="ac-dd" id="ac-sf-am"></div></div>
+        </div>
+        <div class="form-section"><label>Anno</label><input type="text" id="sf-yr"></div>
+      </div>
+      <div class="form-section">
+        <label>Esecutore/i vocali (separati da virgola)</label>
+        <div class="ac-wrap"><input type="text" id="sf-ar" autocomplete="off" oninput="acInMulti('sf-ar','ar')" onfocus="acInMulti('sf-ar','ar')" onblur="acHide('sf-ar')"><div class="ac-dd" id="ac-sf-ar"></div></div>
+        <div class="fhint">Solo cantanti e interpreti vocali. Per i musicisti strumentisti usa il campo Annotazioni.</div>
+      </div>
+      <div class="form-grid">
+        <div class="form-section"><label>Casa discografica</label>
+          <div class="ac-wrap"><input type="text" id="sf-lb" autocomplete="off" oninput="acInGeneric('sf-lb',getLabelValues)" onfocus="acInGeneric('sf-lb',getLabelValues)" onblur="acHide('sf-lb')"><div class="ac-dd" id="ac-sf-lb"></div></div>
+        </div>
+        <div class="form-section"><label>Genere</label><input type="text" id="sf-gn" list="gn-datalist" placeholder="es. Ρεμπέτικο, Laïká"><datalist id="gn-datalist"></datalist></div>
+        <div class="form-section"><label>Dromos</label>
+          <div class="ac-wrap"><input type="text" id="sf-dr" placeholder="es. Ousak, Hijaz, Rast" autocomplete="off" oninput="acInGeneric('sf-dr',getDromosValues)" onfocus="acInGeneric('sf-dr',getDromosValues)" onblur="acHide('sf-dr')"><div class="ac-dd" id="ac-sf-dr"></div></div>
+        </div>
+        <div class="form-section"><label>Ballo/Ritmo</label><input type="text" id="sf-bal" list="bal-datalist" placeholder="es. Ζεϊμπέκικο, Χασάπικο"><datalist id="bal-datalist"></datalist></div>
+      </div>
+      <div class="form-grid">
+        <div class="form-section"><label>Link ascolto</label><input type="url" id="sf-ll"></div>
+        <div class="form-section"><label>Link spiegazione</label><input type="url" id="sf-li"></div>
+      </div>
+      <div class="form-section">
+        <label>Testo + Accordi (riga accordi poi riga testo)</label>
+        <textarea id="sf-ch" rows="10" style="font-family:'Courier New',monospace;font-size:12.5px"></textarea>
+        <div class="fhint">Riga accordi + riga testo. Righe vuote = separatori strofe. [Etichetta] = titolo sezione. Usa la scheda Accordi per spostare gli accordi sulla sillaba giusta.</div>
+      </div>
+      <div class="form-grid">
+        <div class="form-section"><label>Trascrizione fonetica</label><textarea id="sf-tr" rows="3"></textarea></div>
+        <div class="form-section"><label>Traduzione italiana</label><textarea id="sf-ti" rows="3"></textarea></div>
+      </div>
+      <div class="form-section">
+        <label>Annotazioni</label>
+        <textarea id="sf-no" rows="3"></textarea>
+        <div class="fhint">🎸 I musicisti e strumentisti che hanno partecipato al brano vanno citati qui nelle annotazioni, non nel campo Esecutore (riservato al cantante/interprete vocale).</div>
+      </div>
+      <div class="form-section">
+        <label>Esecuzioni / versioni</label>
+        <div class="exec-form-list" id="sf-exec-list"></div>
+        <div class="exec-add">
+          <div class="ac-wrap" style="flex:1;min-width:70px"><input id="sf-ew" placeholder="Esecutore" autocomplete="off" oninput="acInMulti('sf-ew','ar')" onfocus="acInMulti('sf-ew','ar')" onblur="acHide('sf-ew')" style="width:100%"><div class="ac-dd" id="ac-sf-ew"></div></div>
+          <input id="sf-ey" style="max-width:64px" placeholder="Anno">
+          <input id="sf-en" placeholder="Note">
+          <input id="sf-el" placeholder="Link ascolto (URL)" style="flex:2">
+          <button onclick="addSongExec()">+ Aggiungi</button>
+        </div>
+      </div>
+      <div style="display:flex;gap:7px;margin-top:.4rem">
+        <button class="abtn orange" onclick="saveSong()">💾 Salva canzone</button>
+        <button class="abtn" onclick="closeSongForm()">Annulla</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- PERSONE -->
+  <div class="apage" id="apage-persone">
+    <div class="apage-title">👤 Gestione persone <span class="admin-badge">ADMIN</span></div>
+    <div style="margin-bottom:.5rem;display:flex;gap:8px;align-items:center">
+      <button class="abtn primary" onclick="openPersonForm()">+ Nuova persona</button>
+      <input type="text" id="admin-srch-persons" placeholder="Cerca per cognome…" oninput="renderAdminPersons()" style="flex:1;padding:5px 9px;border:1px solid var(--bor);border-radius:var(--rad);font-size:12px;font-family:'Arial',sans-serif">
+    </div>
+    <div id="admin-alpha-persons" style="display:flex;flex-wrap:wrap;gap:3px;margin-bottom:.6rem"></div>
+    <div class="admin-list" id="admin-person-list"></div>
+    <div id="person-form-wrap" style="display:none">
+      <div class="divider"></div>
+      <div style="font-size:12px;font-weight:700;color:var(--admin-accent);margin-bottom:.6rem" id="person-form-mode-label">Nuova persona</div>
+      <div id="person-form-alert"></div>
+      <div class="form-grid">
+        <div class="form-section"><label>Nome in greco *</label><input type="text" id="pf-name"></div>
+        <div class="form-section"><label>Nome italiano / traslitterato</label><input type="text" id="pf-nameit"></div>
+      </div>
+      <div class="form-grid3">
+        <div class="form-section"><label>Nato/a</label><input type="text" id="pf-born"></div>
+        <div class="form-section"><label>Morto/a</label><input type="text" id="pf-died"></div>
+
+      </div>
+      <div class="form-section">
+        <label>Ruoli</label>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:3px">
+          <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-at"> Autore testo</label>
+          <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-am"> Autore musica</label>
+          <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-ar"> Esecutore / cantante</label>
+          <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-mu"> 🎸 Musicista / strumentista <span style="font-size:10px;color:var(--t3);margin-left:4px">(non collegato ai brani)</span></label>
+        </div>
+      </div>
+      <div class="form-section"><label>Biografia e note</label><textarea id="pf-bio" rows="6"></textarea></div>
+      <div class="form-grid">
+        <div class="form-section"><label>Link Wikipedia / sito</label><input type="url" id="pf-link"></div>
+        <div class="form-section"><label>Link ascolto / YouTube</label><input type="url" id="pf-listen"></div>
+      </div>
+      <div class="form-section">
+        <label>URL foto</label>
+        <input type="url" id="pf-photo">
+        <div class="fhint">Incolla l'URL diretto di un'immagine (es. da Wikipedia: tasto destro sulla foto → Copia indirizzo immagine). Verrà mostrata solo la foto, senza scritte.</div>
+      </div>
+      <div style="display:flex;gap:7px;margin-top:.4rem">
+        <button class="abtn orange" onclick="savePerson()">💾 Salva persona</button>
+        <button class="abtn" onclick="closePersonForm()">Annulla</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ARGOMENTI -->
+  <div class="apage" id="apage-argomenti">
+    <div class="apage-title">📖 Approfondimento del giorno <span class="admin-badge">ADMIN</span></div>
+    <div style="margin-bottom:.75rem;display:flex;gap:8px;align-items:center">
+      <button class="abtn primary" onclick="openArgForm()">+ Nuovo approfondimento</button>
+      <input type="text" id="admin-srch-args" placeholder="Cerca…" oninput="renderAdminArgs()" style="flex:1;padding:5px 9px;border:1px solid var(--bor);border-radius:var(--rad);font-size:12px;font-family:'Arial',sans-serif">
+    </div>
+    <div class="admin-list" id="admin-arg-list"></div>
+    <div id="arg-form-wrap" style="display:none">
+      <div class="divider"></div>
+      <div id="arg-form-alert"></div>
+      <div class="form-section"><label>Titolo *</label><input type="text" id="af-title"></div>
+      <div class="form-grid">
+        <div class="form-section"><label>Categoria</label>
+          <div class="ac-wrap"><input type="text" id="af-tag" autocomplete="off" oninput="acInGeneric('af-tag',getArgTagValues)" onfocus="acInGeneric('af-tag',getArgTagValues)" onblur="acHide('af-tag')"><div class="ac-dd" id="ac-af-tag"></div></div>
+        </div>
+        <div class="form-section"><label>Data</label><input type="date" id="af-date"></div>
+      </div>
+      <div class="form-section"><label>Contenuto *</label><textarea id="af-body" rows="7"></textarea></div>
+      <div class="form-section"><label>Link</label><input type="url" id="af-link"></div>
+      <div style="display:flex;gap:7px;margin-top:.4rem">
+        <button class="abtn orange" onclick="saveArg()">💾 Pubblica</button>
+        <button class="abtn" onclick="closeArgForm()">Annulla</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ELENCHI STAMPA -->
+  <div class="apage" id="apage-elenchi-stampa">
+    <div class="apage-title">📋 Elenchi <span class="admin-badge">ADMIN</span></div>
+    <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1rem">
+      <button class="abtn primary" onclick="renderStampaLista('canzoni')">♪ Canzoni</button>
+      <button class="abtn primary" onclick="renderStampaLista('cantanti')">🎤 Cantanti</button>
+      <button class="abtn primary" onclick="renderStampaLista('autori-musica')">♫ Autori musica</button>
+      <button class="abtn primary" onclick="renderStampaLista('autori-testo')">✍ Autori testo</button>
+      <button class="abtn primary" onclick="renderStampaLista('musicisti')">🎸 Musicisti</button>
+    </div>
+    <div id="stampa-lista-wrap"></div>
+  </div>
+
+  <!-- ESPORTA -->
+  <div class="apage" id="apage-esporta">
+    <div class="apage-title">📤 Esporta dati per il sito pubblico <span class="admin-badge">ADMIN</span></div>
+    <div style="background:var(--sur);border:1px solid var(--bor);border-radius:var(--rad);padding:1rem;margin-bottom:1.2rem">
+      <div style="font-size:12px;font-weight:700;color:var(--t2);margin-bottom:.4rem">🖼 Immagine home</div>
+      <div style="font-size:12px;color:var(--t3);margin-bottom:.5rem">URL immagine da mostrare nella home del blog. Lascia vuoto per non mostrare nulla.</div>
+      <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+        <input type="url" id="home-img-url" style="flex:1;min-width:200px;padding:6px 9px;border:1px solid var(--bor);border-radius:var(--rad);font-size:12px;font-family:'Arial',sans-serif">
+        <button class="abtn primary" onclick="saveHomeImg()">Salva</button>
+        <button class="abtn" onclick="clearHomeImg()">Rimuovi</button>
+      </div>
+      <div id="home-img-preview" style="margin-top:.6rem;display:none"><img id="home-img-prev-img" src="" style="max-width:100%;max-height:160px;border-radius:var(--rad);border:1px solid var(--bor)"></div>
+    </div>
+
+    <div style="background:#fff7ed;border:1px solid #fed7aa;border-radius:var(--radius);padding:1rem 1.1rem;margin-bottom:1.2rem;max-width:680px">
+      <div style="font-size:13px;font-weight:700;color:#9a3412;margin-bottom:.5rem">Come pubblicare il blog</div>
+      <ol style="font-size:13px;color:#7c2d12;line-height:2;padding-left:1.2rem">
+        <li>Clicca <strong>Esporta dati (dati.json)</strong> qui sotto</li>
+        <li>Salva il file <code style="background:#fef3c7;padding:1px 5px;border-radius:3px">dati.json</code> nella stessa cartella di <code style="background:#fef3c7;padding:1px 5px;border-radius:3px">blog_pubblico.html</code></li>
+        <li>Carica entrambi i file sul tuo hosting (Netlify, GitHub Pages, qualsiasi server web)</li>
+        <li>Il blog pubblico leggerà i dati dal JSON automaticamente</li>
+        <li>Ogni volta che modifichi i dati, riesegui l'esportazione e ricarica solo <code style="background:#fef3c7;padding:1px 5px;border-radius:3px">dati.json</code></li>
+      </ol>
+    </div>
+
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:1.5rem">
+      <button class="abtn orange" style="height:38px;font-size:14px;padding:0 1.4rem" onclick="exportData()">
+        📥 Esporta dati (dati.json)
+      </button>
+      <div id="export-ok" style="display:none;align-items:center;gap:6px;font-size:13px;color:var(--green)">
+        ✓ File scaricato — caricalo sul server insieme a blog_pubblico.html
+      </div>
+    </div>
+
+    <div style="max-width:680px">
+      <div style="font-size:11.5px;font-weight:700;color:var(--t2);margin-bottom:.4rem">Anteprima dati da esportare</div>
+      <div id="export-preview" style="background:var(--s2);border:1px solid var(--border);border-radius:var(--radius);padding:.75rem 1rem;font-size:12px;color:var(--t2);line-height:1.8"></div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div style="max-width:680px">
+      <div style="font-size:11.5px;font-weight:700;color:var(--t2);margin-bottom:.4rem">Importa dati da file JSON</div>
+      <div style="font-size:12px;color:var(--t3);margin-bottom:.5rem">Carica un file <code>dati.json</code> precedentemente esportato per ripristinare i dati.</div>
+      <div style="display:flex;gap:8px;align-items:center">
+        <input type="file" id="import-file" accept=".json" onchange="importData(this)" style="font-size:12px;font-family:var(--font)">
+      </div>
+      <div id="import-msg" style="font-size:12px;margin-top:.4rem;min-height:1.2em"></div>
+    </div>
+  </div>
+
+  <!-- ACCORDI -->
+  <div class="apage" id="apage-accordi">
+    <div class="apage-title">🎸 Editor accordi <span class="admin-badge">ADMIN</span></div>
+    <div class="form-section" style="max-width:360px">
+      <label>Seleziona canzone</label>
+      <select id="acc-song-sel" onchange="loadAccordiSong()" style="padding:6px 9px;border:1px solid var(--b2);border-radius:var(--radius);font-size:13px;font-family:var(--font);color:var(--text);background:var(--surface);width:100%">
+        <option value="">— scegli —</option>
+      </select>
+    </div>
+    <div id="accordi-content"></div>
+  </div>
+</div>
+
+<canvas id="ruler" style="display:none" width="200" height="20"></canvas>
+
+<script>
+/* ── PASSWORD ── v20260726_163129 ── */
+const ADMIN_PWD='Nire28091957';
+function doLogin(){
+  const v=document.getElementById('pwd-input').value;
+  if(v===ADMIN_PWD){
+    document.getElementById('login-wrap').style.display='none';
+    document.getElementById('admin-wrap').style.display='block';
+    sessionStorage.setItem('mousg_admin','1');
+    initAdmin();
+  } else {
+    document.getElementById('login-err').textContent='Password errata.';
+  }
+}
+function doLogout(){sessionStorage.removeItem('mousg_admin');location.reload();}
+// Il controllo sessione viene fatto nel blocco INIT in fondo
+
+/* ── CHAR WIDTH ── */
+let CH=8;
+(function(){const c=document.getElementById('ruler');const ctx=c.getContext('2d');ctx.font='14px "Courier New",monospace';CH=ctx.measureText('M').width;})();
+
+/* ── STORAGE ── */
+const SK='mousg_songs',AK='mousg_args',PK='mousg_persons';
+let songs=[],args=[],persons=[];
+var GITHUB_DATI_URL='https://raw.githubusercontent.com/musicagreca/musica-greca/main/dati.json';
+function loadData(){
+  try{songs=JSON.parse(localStorage.getItem(SK)||'[]')}catch(e){songs=[]}
+  try{args=JSON.parse(localStorage.getItem(AK)||'[]')}catch(e){args=[]}
+  try{persons=JSON.parse(localStorage.getItem(PK)||'[]')}catch(e){persons=[]}
+  if(!songs.length && !args.length && !persons.length){
+    // Memoria locale vuota: prova a recuperare i dati veri da GitHub prima di caricare i dati d'esempio
+    tryRestoreFromGithub();
+    return;
+  }
+  if(!songs.length)initSongs();if(!args.length)initArgs();if(!persons.length)initPersons();
+}
+function tryRestoreFromGithub(){
+  var banner=document.createElement('div');
+  banner.id='restore-banner';
+  banner.style.cssText='position:fixed;top:0;left:0;right:0;z-index:99999;background:#7c2d12;color:#fff;text-align:center;padding:10px;font-family:Arial,sans-serif;font-size:13px';
+  banner.textContent='La memoria locale è vuota — provo a recuperare i tuoi dati da GitHub...';
+  document.body.appendChild(banner);
+  fetch(GITHUB_DATI_URL+'?t='+Date.now())
+    .then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+    .then(function(data){
+      songs=data.songs||[]; args=data.args||[]; persons=data.persons||[];
+      sv(); sva(); svp();
+      if(typeof data.homeImg==='string' && data.homeImg){
+        try{ localStorage.setItem('mousg_home_img', data.homeImg); }catch(e){}
+      }
+      banner.style.background='#1a6a2a';
+      banner.textContent='Dati recuperati da GitHub: '+songs.length+' canzoni, '+persons.length+' persone, '+args.length+' approfondimenti. Ricarico...';
+      setTimeout(function(){ location.reload(); }, 1800);
+    })
+    .catch(function(err){
+      banner.style.background='#993c1d';
+      banner.textContent='Impossibile recuperare i dati da GitHub ('+err.message+'). Importa manualmente l\'ultimo dati.json da Esporta \u2192 Importa, oppure controlla il link del repository.';
+      var closeBtn=document.createElement('button');
+      closeBtn.textContent='Continua comunque con dati vuoti';
+      closeBtn.style.cssText='margin-left:10px;padding:4px 10px;border-radius:4px;border:none;cursor:pointer';
+      closeBtn.onclick=function(){
+        banner.remove();
+        if(!songs.length)initSongs();if(!args.length)initArgs();if(!persons.length)initPersons();
+        location.reload();
+      };
+      banner.appendChild(closeBtn);
+    });
+}
+function sv(){try{localStorage.setItem(SK,JSON.stringify(songs))}catch(e){alert('⚠️ ATTENZIONE: salvataggio canzoni fallito! La memoria del browser è piena.\n\nLe modifiche NON sono state salvate. Esporta subito i dati (pulsante Esporta) prima di ricaricare o chiudere la pagina, altrimenti le perderai.\n\nErrore tecnico: '+e.message);}}
+function sva(){try{localStorage.setItem(AK,JSON.stringify(args))}catch(e){alert('⚠️ ATTENZIONE: salvataggio approfondimenti fallito! La memoria del browser è piena.\n\nEsporta subito i dati prima di ricaricare la pagina.\n\nErrore tecnico: '+e.message);}}
+function svp(){try{localStorage.setItem(PK,JSON.stringify(persons))}catch(e){alert('⚠️ ATTENZIONE: salvataggio persone fallito! La memoria del browser è piena.\n\nEsporta subito i dati prima di ricaricare la pagina.\n\nErrore tecnico: '+e.message);}}
+function initSongs(){songs=[{id:'s1',tgr:'Συννεφιασμένη Κυριακή',tit:'Domenica nuvolosa',at:'Βασίλης Τσιτσάνης',am:'Βασίλης Τσιτσάνης',yr:'1943',ar:'Σωτηρία Μπέλλου',lb:'',gn:'Ρεμπέτικο / Dromos Ousak',ll:'https://www.youtube.com/results?search_query=Συννεφιασμένη+Κυριακή',li:'',ch:'Am      Dm    E7      Am\nΣυννεφιασμένη Κυριακή\n\nAm         Dm        E7    Am\nμε κάνεις και αναστενάζω',tr:'Sinnefiasméni Kiriakí\nme kánis ke anastenázo',ti:'Domenica nuvolosa\nmi fai sospirare',no:"Dromos Ousak su La. Scritto durante l'occupazione tedesca.",date:'1943',executions:[{who:'Σωτηρία Μπέλλου',year:'1948',note:'Prima registrazione'},{who:'Χάρις Αλεξίου',year:'1975',note:'Reinterpretazione'}],offsets:{}},{id:'s2',tgr:'Τα παιδιά του Πειραιά',tit:'I ragazzi del Pireo',at:'Νίκος Γκάτσος',am:'Μάνος Χατζιδάκις',yr:'1960',ar:'Μελίνα Μερκούρη',lb:'Columbia',gn:'Laïká',ll:'',li:'',ch:'Dm    Am      E7\nΤα παιδιά του Πειραιά\n\nAm      Dm    Am\nπηγαίνουν στη δουλειά',tr:'Ta pediá tu Pireá',ti:'I ragazzi del Pireo',no:'Dal film Mai di domenica (1960). Oscar per la migliore canzone originale.',date:'1960',executions:[{who:'Μελίνα Μερκούρη',year:'1960',note:'Versione originale del film'}],offsets:{}}];sv();}
+function initArgs(){args=[{id:'a1',title:'I dromoi nella musica greca',tag:'Musica',date:new Date().toISOString().slice(0,10),body:"Il dromos è una scala modale con preciso carattere espressivo.\n\n• Ousak — minore naturale, malinconico\n• Hijaz — seconda aumentata, orientale\n• Saba — lugubre, profondo\n• Rast — maggiore, luminoso",link:''}];sva();}
+function initPersons(){persons=[{id:'p1',name:'Βασίλης Τσιτσάνης',nameit:'Vasilis Tsitsanis',born:'1915, Trikala',died:'1984, Londra',nat:'Greco',roles:['at','am'],bio:"Uno dei più grandi compositori di rembetiko.",link:'https://el.wikipedia.org/wiki/Βασίλης_Τσιτσάνης',listen:''},{id:'p2',name:'Σωτηρία Μπέλλου',nameit:'Sotiria Bellou',born:'1921, Halkida',died:'1997, Atene',nat:'Greca',roles:['ar'],bio:"Voce iconica del rembetiko.",link:'',listen:''},{id:'p3',name:'Μελίνα Μερκούρη',nameit:'Melina Mercouri',born:'1920, Atene',died:'1994, New York',nat:'Greca',roles:['ar'],bio:"Attrice e cantante.",link:'',listen:''},{id:'p4',name:'Μάνος Χατζιδάκις',nameit:'Manos Hadjidakis',born:'1925, Xanthi',died:'1994, Atene',nat:'Greco',roles:['am'],bio:"Compositore, Oscar 1961.",link:'',listen:''},{id:'p5',name:'Νίκος Γκάτσος',nameit:'Nikos Gatsos',born:'1911, Asea',died:'1992, Atene',nat:'Greco',roles:['at'],bio:"Poeta e paroliere.",link:'',listen:''}];svp();}
+
+/* ── UTILS ── */
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+function g(id){return document.getElementById(id)}
+function gv(id){const e=g(id);return e?e.value.trim():''}
+function showAlert(cid,msg,type){const el=g(cid);if(!el)return;el.innerHTML=`<div class="alert ${type}">${msg}</div>`;setTimeout(()=>{el.innerHTML='';},3000);}
+
+function formatDate(d){
+  if(!d) return '';
+  var p=d.split('-');
+  if(p.length===3) return p[2]+'/'+p[1]+'/'+p[0];
+  return d;
+}
+/* ── NOTE ENGINE ── */
+const IT_S=['Do','Do#','Re','Re#','Mi','Fa','Fa#','Sol','Sol#','La','La#','Si'];
+const IT_F=['Do','Reb','Re','Mib','Mi','Fa','Solb','Sol','Lab','La','Sib','Si'];
+const EN_S=['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
+const IT_M={do:0,'do#':1,dob:11,reb:1,re:2,'re#':3,mib:3,mi:4,'mi#':5,fa:5,'fa#':6,fab:4,solb:6,sol:7,'sol#':8,lab:8,la:9,'la#':10,sib:10,si:11,'si#':0};
+const EN_M={c:0,'c#':1,cb:11,db:1,d:2,'d#':3,eb:3,e:4,'e#':5,f:5,'f#':6,fb:4,gb:6,g:7,'g#':8,ab:8,a:9,'a#':10,bb:10,b:11,'b#':0};
+function pNote(str){const s=str.toLowerCase();for(const t of ['sol#','solb','sol','do#','dob','re#','mib','fa#','fab','la#','sib','lab','si#','mi#','reb','do','re','mi','fa','la','si'])if(s.startsWith(t)&&IT_M[t]!==undefined)return{idx:IT_M[t],len:t.length};for(const t of ['c#','cb','db','d#','eb','e#','f#','fb','gb','g#','ab','a#','bb','b#','c','d','e','f','g','a','b'])if(s.startsWith(t)&&EN_M[t]!==undefined)return{idx:EN_M[t],len:t.length};return null;}
+function nOut(i,nt){return nt==='it'?IT_S[i]:nt==='flat'?IT_F[i]:EN_S[i];}
+function trTok(tok,st,nt){const p=pNote(tok);if(!p)return tok;const rest=tok.slice(p.len);const bm=rest.match(/^(.*)(\/[A-Za-z][A-Za-z0-9#b]*)$/);let q=rest,bs='';if(bm){q=bm[1];bs=bm[2];}const ni=((p.idx+st)%12+12)%12;let r=nOut(ni,nt)+q;if(bs){const pb=pNote(bs.slice(1));r+='/'+(pb?nOut(((pb.idx+st)%12+12)%12,nt):bs.slice(1));}return r;}
+function isChTok(w){const c=w.replace(/[.,;:!?()\[\]]+$/,'').replace(/^[.,;:!?()\[\]]+/,'');if(!c)return false;const p=pNote(c);if(!p)return false;return /^(m(?:aj|in)?|M(?:AJ)?|sus|aug|dim|add|dom|mmaj)?[0-9]*(\/[A-Za-z][A-Za-z0-9#b]*)?$/i.test(c.slice(p.len));}
+function isChLine(line){const ws=line.trim().split(/\s+/).filter(w=>w);if(!ws.length)return false;return ws.filter(isChTok).length/ws.length>=0.55;}
+function parseRaw(raw){const lines=(raw||'').split('\n');const blocks=[];let i=0;while(i<lines.length){const line=lines[i];if(!line.trim()){blocks.push({type:'spacer'});i++;continue;}if(/^\[[^\]]+\]$/.test(line.trim())){blocks.push({type:'label',text:line.trim().slice(1,-1)});i++;continue;}if(isChLine(line)&&i+1<lines.length&&lines[i+1].trim()&&!isChLine(lines[i+1])&&!/^\[[^\]]+\]$/.test(lines[i+1].trim())){blocks.push({type:'pair',chLine:line,txLine:lines[i+1]});i+=2;continue;}if(isChLine(line)){blocks.push({type:'pair',chLine:line,txLine:''});i++;continue;}blocks.push({type:'text',text:line});i++;}return blocks;}
+function extractChords(chLine){const re=/(\S+)/g;let m;const out=[];while((m=re.exec(chLine))!==null){if(isChTok(m[1]))out.push({col:m.index,raw:m[1]});}return out;}
+function renderSB(song,st,nt,editable){
+  const blocks=parseRaw(song.ch||'');const offsets=song.offsets||{};
+  let html='<div class="songbook">';let pi=0;
+  for(const b of blocks){
+    if(b.type==='spacer'){html+='<div style="height:.6rem"></div>';continue;}
+    if(b.type==='label'){html+=`<span class="sb-label">${esc(b.text)}</span>`;continue;}
+    if(b.type==='text'){html+=`<div class="sb-text-only">${esc(b.text)}</div>`;continue;}
+    if(b.type==='pair'){
+      const pairIdx=pi++;const tokens=extractChords(b.chLine);let cH='';
+      for(let ti=0;ti<tokens.length;ti++){
+        const t=tokens[ti];const oKey='p'+pairIdx+':'+ti;const offset=offsets[oKey]||0;
+        const col=Math.max(0,t.col+offset);const leftPx=(col*CH).toFixed(2);const tc=trTok(t.raw,st,nt);
+        if(editable){cH+=`<span class="sb-chord" style="left:${leftPx}px"><span class="mv"><button class="mv-b" onmousedown="event.preventDefault();mvAcc('${oKey}',-1)">&#8592;</button><button class="mv-b" onmousedown="event.preventDefault();mvAcc('${oKey}',+1)">&#8594;</button></span>${esc(tc)}</span>`;}
+        else{cH+=`<span class="sb-chord" style="left:${leftPx}px">${esc(tc)}</span>`;}
+      }
+      html+=`<div class="sb-pair"><div class="sb-chords-row">${cH}</div><div class="sb-text">${esc(b.txLine||'')}</div></div>`;
+    }
+  }
+  return html+'</div>';
+}
+
+/* ── ADMIN PAGES ── */
+function showAPage(name){
+  document.querySelectorAll('.apage').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.admin-tab').forEach(t=>t.classList.remove('active'));
+  g('apage-'+name).classList.add('active');
+  document.querySelectorAll('.admin-tab').forEach(t=>{
+    if(t.textContent.toLowerCase().includes(name.slice(0,4)))t.classList.add('active');
+  });
+  if(name==='canzoni')renderAdminSongs();
+  if(name==='persone')renderAdminPersons();
+  if(name==='argomenti')renderAdminArgs();
+  if(name==='accordi')renderAccordiSel();
+  if(name==='elenchi-stampa') renderStampaLista('canzoni');
+  if(name==='esporta'){
+    renderExportPreview();
+    var savedImg='';
+    try{ savedImg=localStorage.getItem('mousg_home_img')||''; }catch(e){}
+    if(g('home-img-url')) g('home-img-url').value=savedImg;
+    showHomeImgPreview(savedImg);
+  }
+}
+function initAdmin(){
+  loadData();
+  renderAdminSongs();
+  renderAdminPersons();
+  renderAdminArgs();
+  const af=g('af-date');if(af)af.value=new Date().toISOString().slice(0,10);
+  renderExportPreview();
+}
+
+/* ── CANZONI ADMIN ── */
+let editingSongId=null;
+var adminAlphaP=null;
+var adminAlphaS=null;
+let tempExecutions=[];
+function renderAdminSongs(){
+  const q=(g('admin-srch-songs')?g('admin-srch-songs').value.toLowerCase():'');
+  const el=g('admin-song-list');
+  const alphaEl=g('admin-alpha-songs');
+
+  // Ordina alfabeticamente per titolo greco
+  let list=[...songs].sort((a,b)=>(a.tgr||'').localeCompare(b.tgr||'','el'));
+
+  // Barra alfabetica
+  const letters=[...new Set(list.map(s=>stripAccents((s.tgr||'?')[0]).toUpperCase()))].sort((a,b)=>a.localeCompare(b,'el'));
+  if(alphaEl){
+    alphaEl.innerHTML=letters.map(l=>`<button class="alpha-btn${adminAlphaS===l?' on':''}" data-al="${l}">${l}</button>`).join('')
+      +`<button class="alpha-btn${adminAlphaS===null?' on':''}" data-al="" style="margin-left:4px">Tutti</button>`;
+    alphaEl.querySelectorAll('.alpha-btn').forEach(btn=>{
+      btn.addEventListener('click',function(){
+        adminAlphaS=this.getAttribute('data-al')||null;
+        renderAdminSongs();
+      });
+    });
+  } else {
+    // Alpha bar non nel DOM — aggiungi listener dopo render
+    setTimeout(function(){
+      var btns=document.querySelectorAll('#admin-alpha-songs .alpha-btn');
+      btns.forEach(function(btn){
+        btn.addEventListener('click',function(){
+          adminAlphaS=this.getAttribute('data-al')||null;
+          renderAdminSongs();
+        });
+      });
+    },0);
+  }
+
+  // Filtri
+  if(adminAlphaS) list=list.filter(s=>stripAccents((s.tgr||'?')[0]).toUpperCase()===adminAlphaS);
+  if(q) list=list.filter(s=>(s.tgr||'').toLowerCase().includes(q)||(s.tit||'').toLowerCase().includes(q));
+
+  el.innerHTML=list.length?list.map(s=>`
+  <div class="admin-row">
+    <div class="admin-row-main">
+      <div class="admin-row-title">${esc(s.tgr)}</div>
+      <div class="admin-row-sub">${[s.tit,s.yr,s.gn,s.at?'✍'+s.at:''].filter(Boolean).join(' · ')}</div>
+    </div>
+    <div class="admin-row-actions">
+      <button class="abtn" onclick="editSong('${s.id}')">✎ Modifica</button>
+      <button class="abtn danger" onclick="delSong('${s.id}')">✕</button>
+    </div>
+  </div>`).join(''):'<div style="padding:1rem;color:var(--t3);text-align:center">Nessuna canzone trovata</div>';
+}
+
+function populateGnDatalist(){
+  const dl=g('gn-datalist');if(!dl)return;
+  const vals=[...new Set(songs.map(s=>(s.gn||'').trim()).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'el'));
+  dl.innerHTML=vals.map(v=>`<option value="${v.replace(/"/g,'&quot;')}">`).join('');
+}
+function populateBalDatalist(){
+  const dl=g('bal-datalist');if(!dl)return;
+  const vals=[...new Set(songs.map(s=>(s.bal||'').trim()).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'el'));
+  dl.innerHTML=vals.map(v=>`<option value="${v.replace(/"/g,'&quot;')}">`).join('');
+}
+function openSongForm(prefill){
+  editingSongId=null;tempExecutions=[];
+  g('song-form-mode-label').textContent='Nuova canzone';
+  ['sf-tgr','sf-tit','sf-alias','sf-at','sf-am','sf-yr','sf-ar','sf-lb','sf-gn','sf-dr','sf-bal','sf-ll','sf-li','sf-ch','sf-tr','sf-ti','sf-no','sf-ew','sf-ey','sf-en'].forEach(id=>{const e=g(id);if(e)e.value='';});
+  if(g('sf-el'))g('sf-el').value='';
+  if(prefill&&prefill.name){g('pf-name').value=prefill.name;}
+  renderSfExecList();
+  populateGnDatalist();
+  populateBalDatalist();
+  g('song-form-wrap').style.display='block';
+  g('song-form-wrap').scrollIntoView({behavior:'smooth'});
+}
+function closeSongForm(){g('song-form-wrap').style.display='none';editingSongId=null;tempExecutions=[];}
+function editSong(id){
+  const s=songs.find(x=>x.id===id);if(!s)return;
+  editingSongId=id;tempExecutions=[...(s.executions||[])];
+  g('song-form-mode-label').textContent='Modifica: '+s.tgr;
+  [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{const e=g(f);if(e)e.value=s[k]||'';});
+  ['sf-ew','sf-ey','sf-en','sf-el'].forEach(id=>{const e=g(id);if(e)e.value='';});
+  renderSfExecList();
+  populateGnDatalist();
+  populateBalDatalist();
+  g('song-form-wrap').style.display='block';
+  g('song-form-wrap').scrollIntoView({behavior:'smooth'});
+}
+function delSong(id){if(!confirm('Eliminare questa canzone?'))return;songs=songs.filter(s=>s.id!==id);sv();renderAdminSongs();}
+function renderSfExecList(){
+  g('sf-exec-list').innerHTML=tempExecutions.map((e,i)=>`<div class="exec-form-item"><span style="font-weight:700">${esc(e.who)}</span> <span style="color:var(--t3);font-size:11px">${e.year?'· '+e.year:''} ${e.note?'— '+e.note:''}</span>${e.link?`<a href="${esc(e.link)}" target="_blank" style="font-size:11px;color:var(--acc);margin-left:6px">▶</a>`:''}<button class="abtn" style="padding:1px 7px;font-size:11px;margin-left:6px" onclick="editSfExec(${i})">✎</button><button class="exec-del" onclick="delSfExec(${i})">✕</button></div>`).join('');
+}
+function editSfExec(i){
+  const e=tempExecutions[i];
+  if(!e) return;
+  if(g('sf-ew')) g('sf-ew').value=e.who||'';
+  if(g('sf-ey')) g('sf-ey').value=e.year||'';
+  if(g('sf-en')) g('sf-en').value=e.note||'';
+  if(g('sf-el')) g('sf-el').value=e.link||'';
+  tempExecutions.splice(i,1);
+  renderSfExecList();
+}
+function addSongExec(){const who=gv('sf-ew');if(!who)return;tempExecutions.push({who,year:gv('sf-ey'),note:gv('sf-en'),link:gv('sf-el')});g('sf-ew').value='';g('sf-ey').value='';g('sf-en').value='';g('sf-el').value='';renderSfExecList();}
+function delSfExec(i){tempExecutions.splice(i,1);renderSfExecList();}
+function saveSong(){
+  const tgr=gv('sf-tgr');if(!tgr){showAlert('song-form-alert','Inserisci il titolo in greco.','err');return;}
+  if(editingSongId){
+    let idx=songs.findIndex(x=>x.id===editingSongId);
+    if(idx<0){
+      // La canzone non è stata trovata nell'array — la aggiunge come nuova
+      // (può succedere se i dati sono stati reinizializzati)
+      const s={id:editingSongId,offsets:{},executions:[...tempExecutions],date:new Date().toISOString().slice(0,10)};
+      [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
+      songs.unshift(s);
+      sv();
+      showAlert('song-form-alert','Canzone salvata come nuova (id precedente non trovato).','ok');
+    } else {
+      // Aggiornamento normale
+      const campi=[['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']];
+      campi.forEach(([f,k])=>{songs[idx][k]=gv(f);});
+      songs[idx].executions=[...tempExecutions];
+      // Salva e verifica
+      try{
+        localStorage.setItem(SK,JSON.stringify(songs));
+        const verifica=JSON.parse(localStorage.getItem(SK)||'[]');
+        const ok=verifica.find(x=>x.id===editingSongId);
+        if(ok){
+          showAlert('song-form-alert','✓ Salvato: '+esc(ok.tgr),'ok');
+        } else {
+          showAlert('song-form-alert','Attenzione: salvataggio non verificato. Riprova.','err');
+        }
+      }catch(e){
+        showAlert('song-form-alert','Errore salvataggio: '+e.message,'err');
+      }
+    }
+  } else {
+    // Nuova canzone
+    const s={id:'s_'+Date.now(),offsets:{},executions:[...tempExecutions],date:new Date().toISOString().slice(0,10)};
+    [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
+    songs.unshift(s);
+    sv();
+    showAlert('song-form-alert','✓ Canzone salvata!','ok');
+  }
+  closeSongForm();
+  renderAdminSongs();
+  renderAccordiSel();
+}
+
+/* ── PERSONE ADMIN ── */
+let editingPersonId=null;
+const RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Musicista'};
+const RC={at:'rp-at',am:'rp-am',ar:'rp-ar'};
+function renderAdminPersons(){
+  const q=(g('admin-srch-persons')?g('admin-srch-persons').value.toLowerCase():'');
+  const el=g('admin-person-list');
+  const alphaEl=g('admin-alpha-persons');
+
+  function lastName(name){
+    const w=(name||'').trim().split(/\s+/).filter(x=>/^[\p{L}]/u.test(x));
+    return w.length>1?w[w.length-1]:(w[0]||name);
+  }
+
+  // Ordina per cognome
+  let list=[...persons].sort((a,b)=>lastName(a.name).localeCompare(lastName(b.name),'el'));
+
+  // Barra alfabetica
+  const letters=[...new Set(list.map(p=>stripAccents(lastName(p.name||'?')[0]).toUpperCase()))].sort((a,b)=>a.localeCompare(b,'el'));
+  if(alphaEl){
+    alphaEl.innerHTML=letters.map(l=>`<button class="alpha-btn${adminAlphaP===l?' on':''}" data-al="${l}">${l}</button>`).join('')
+      +`<button class="alpha-btn${adminAlphaP===null?' on':''}" data-al="" style="margin-left:4px">Tutti</button>`;
+    document.querySelectorAll('#admin-alpha-persons .alpha-btn').forEach(btn=>{
+      btn.addEventListener('click',function(){
+        adminAlphaP=this.getAttribute('data-al')||null;
+        renderAdminPersons();
+      });
+    });
+  }
+
+  // Filtri
+  if(adminAlphaP) list=list.filter(p=>stripAccents(lastName(p.name||'?')[0]).toUpperCase()===adminAlphaP);
+  if(q) list=list.filter(p=>lastName(p.name||'').toLowerCase().includes(q)||(p.name||'').toLowerCase().includes(q));
+
+  el.innerHTML=list.length?list.map(p=>`
+  <div class="admin-row">
+    <div class="admin-row-main">
+      <div class="admin-row-title">${esc(p.name)} ${p.nameit?`<span style="font-size:11px;color:var(--t3)">(${esc(p.nameit)})</span>`:''}</div>
+      <div class="admin-row-sub">${(p.roles||[]).map(r=>`<span class="role-pill ${RC[r]||''}" style="font-size:9.5px">${RL[r]||r}</span>`).join(' ')}</div>
+    </div>
+    <div class="admin-row-actions">
+      <button class="abtn" onclick="editPerson('${p.id}')">✎ Modifica</button>
+      <button class="abtn danger" onclick="delPerson('${p.id}')">✕</button>
+    </div>
+  </div>`).join(''):'<div style="padding:1rem;color:var(--t3);text-align:center">Nessuna persona trovata</div>';
+}
+
+function openPersonForm(){
+  editingPersonId=null;
+  g('person-form-mode-label').textContent='Nuova persona';
+  ['pf-name','pf-nameit','pf-born','pf-died','pf-bio','pf-link','pf-listen','pf-photo'].forEach(id=>{const e=g(id);if(e)e.value='';});
+  ['pf-r-at','pf-r-am','pf-r-ar','pf-r-mu'].forEach(id=>{const e=g(id);if(e)e.checked=false;});
+  g('person-form-wrap').style.display='block';
+  g('person-form-wrap').scrollIntoView({behavior:'smooth'});
+}
+function closePersonForm(){g('person-form-wrap').style.display='none';editingPersonId=null;}
+function editPerson(id){
+  const p=persons.find(x=>x.id===id);if(!p)return;editingPersonId=id;
+  g('person-form-mode-label').textContent='Modifica: '+p.name;
+  g('pf-name').value=p.name||'';g('pf-nameit').value=p.nameit||'';
+  g('pf-born').value=p.born||'';g('pf-died').value=p.died||'';
+  g('pf-bio').value=p.bio||'';
+  g('pf-link').value=p.link||'';g('pf-listen').value=p.listen||'';
+  if(g('pf-photo'))g('pf-photo').value=p.photo||'';
+  ['at','am','ar','mu'].forEach(r=>{const e=g('pf-r-'+r);if(e)e.checked=(p.roles||[]).includes(r);});
+  g('person-form-wrap').style.display='block';
+  g('person-form-wrap').scrollIntoView({behavior:'smooth'});
+}
+function delPerson(id){if(!confirm('Eliminare questa persona?'))return;persons=persons.filter(p=>p.id!==id);svp();renderAdminPersons();}
+function savePerson(){
+  const name=gv('pf-name');if(!name){showAlert('person-form-alert','Inserisci il nome.','err');return;}
+  const roles=[];['at','am','ar','mu'].forEach(r=>{if(g('pf-r-'+r)?.checked)roles.push(r);});
+  if(editingPersonId){
+    let idx=persons.findIndex(x=>x.id===editingPersonId);
+    if(idx<0){
+      // Upsert: non trovata, aggiunge come nuova mantenendo l'id
+      persons.push({id:editingPersonId,name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles});
+      svp();showAlert('person-form-alert','Persona salvata come nuova (id precedente non trovato).','ok');
+    } else {
+      persons[idx]={...persons[idx],name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles};
+      svp();showAlert('person-form-alert','✓ Persona aggiornata e salvata!','ok');
+    }
+  } else {
+    const p={id:'p_'+Date.now(),name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles};
+    persons.push(p);svp();showAlert('person-form-alert','Persona salvata!','ok');
+  }
+  closePersonForm();renderAdminPersons();
+}
+
+/* ── ARGOMENTI ADMIN ── */
+let editingArgId=null;
+function renderAdminArgs(){
+  const el=g('admin-arg-list');
+  el.innerHTML=args.length?args.map(a=>`
+  <div class="admin-row">
+    <div class="admin-row-main">
+      <div class="admin-row-title">${esc(a.title)}</div>
+      <div class="admin-row-sub">${formatDate(a.date)} ${a.tag?'· <span class="tag">'+esc(a.tag)+'</span>':''}</div>
+    </div>
+    <div class="admin-row-actions">
+      <button class="abtn" onclick="editArg('${a.id}')">✎ Modifica</button>
+      <button class="abtn danger" onclick="delArg('${a.id}')">✕</button>
+    </div>
+  </div>`).join(''):'<div style="color:var(--t3);font-size:13px;padding:.5rem">Nessun approfondimento.</div>';
+}
+function openArgForm(){editingArgId=null;['af-title','af-tag','af-body','af-link'].forEach(id=>{const e=g(id);if(e)e.value='';});g('af-date').value=new Date().toISOString().slice(0,10);g('arg-form-wrap').style.display='block';g('arg-form-wrap').scrollIntoView({behavior:'smooth'});}
+function closeArgForm(){g('arg-form-wrap').style.display='none';editingArgId=null;}
+function editArg(id){const a=args.find(x=>x.id===id);if(!a)return;editingArgId=id;g('af-title').value=a.title||'';g('af-tag').value=a.tag||'';g('af-date').value=a.date||'';g('af-body').value=a.body||'';g('af-link').value=a.link||'';g('arg-form-wrap').style.display='block';g('arg-form-wrap').scrollIntoView({behavior:'smooth'});}
+function delArg(id){if(!confirm('Eliminare?'))return;args=args.filter(a=>a.id!==id);sva();renderAdminArgs();}
+function saveArg(){
+  const title=gv('af-title');const body=g('af-body').value.trim();
+  if(!title||!body){showAlert('arg-form-alert','Titolo e contenuto obbligatori.','err');return;}
+  if(editingArgId){
+    let idx=args.findIndex(x=>x.id===editingArgId);
+    if(idx<0){
+      args.unshift({id:editingArgId,title,tag:gv('af-tag'),date:gv('af-date')||new Date().toISOString().slice(0,10),body,link:gv('af-link')});
+      sva();showAlert('arg-form-alert','✓ Approfondimento salvato (id precedente non trovato).','ok');
+    } else {
+      args[idx]={...args[idx],title,tag:gv('af-tag'),date:gv('af-date')||new Date().toISOString().slice(0,10),body,link:gv('af-link')};
+      sva();showAlert('arg-form-alert','✓ Approfondimento aggiornato e salvato!','ok');
+    }
+  } else {
+    args.unshift({id:'a_'+Date.now(),title,tag:gv('af-tag'),date:gv('af-date')||new Date().toISOString().slice(0,10),body,link:gv('af-link')});
+    sva();showAlert('arg-form-alert','Pubblicato!','ok');
+  }
+  closeArgForm();renderAdminArgs();
+}
+
+/* ── ACCORDI ADMIN ── */
+let accSongId=null,accSemi=0,accNot='it';
+function renderAccordiSel(){
+  const sel=g('acc-song-sel');
+  sel.innerHTML='<option value="">— scegli —</option>'+songs.map(s=>`<option value="${s.id}">${esc(s.tgr)}</option>`).join('');
+  if(accSongId)sel.value=accSongId;
+}
+function loadAccordiSong(){
+  const id=g('acc-song-sel').value;accSongId=id;accSemi=0;accNot='it';
+  if(!id){g('accordi-content').innerHTML='';return;}
+  renderAccordi();
+}
+function renderAccordi(){
+  const s=songs.find(x=>x.id===accSongId);if(!s)return;
+  const sg=accSemi>=0?'+':'';
+  g('accordi-content').innerHTML=`
+  <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden">
+    <div style="padding:.65rem 1rem;border-bottom:1px solid var(--border);background:var(--s2)">
+      <div style="font-size:13px;font-weight:700">${esc(s.tgr)}</div>
+      ${s.tit?`<div style="font-size:11px;color:var(--t3)">${esc(s.tit)}</div>`:''}
+    </div>
+    <div style="padding:.8rem 1rem">
+      <div class="semi-ctrl">
+        <label>Semitoni:</label>
+        <button class="sbtn" onclick="accSemi=Math.max(-11,accSemi-1);renderAccordi()">&#8722;</button>
+        <span class="semi-val">${sg}${accSemi}</span>
+        <button class="sbtn" onclick="accSemi=Math.min(11,accSemi+1);renderAccordi()">+</button>
+        <button style="height:22px;padding:0 7px;font-size:10.5px;border:1px solid var(--b2);border-radius:var(--radius);background:var(--surface);cursor:pointer;margin-left:2px" onclick="accSemi=0;renderAccordi()">Reset</button>
+        <div class="nseg" style="margin-left:5px">
+          <button class="${accNot==='it'?'on':''}" onclick="accNot='it';renderAccordi()">Do Re Mi</button>
+          <button class="${accNot==='en'?'on':''}" onclick="accNot='en';renderAccordi()">C D E</button>
+          <button class="${accNot==='flat'?'on':''}" onclick="accNot='flat';renderAccordi()">b</button>
+        </div>
+      </div>
+      <div style="font-size:11px;color:var(--t3);margin-bottom:.5rem">🖱 Passa il mouse su un accordo → &#8592; &#8594; per spostarlo. Salvato automaticamente.</div>
+      <div id="acc-songbook">${renderSB(s,accSemi,accNot,true)}</div>
+    </div>
+  </div>`;
+}
+function mvAcc(key,delta){
+  const s=songs.find(x=>x.id===accSongId);if(!s)return;
+  if(!s.offsets)s.offsets={};
+  s.offsets[key]=(s.offsets[key]||0)+delta;
+  const idx=songs.findIndex(x=>x.id===accSongId);if(idx>=0)songs[idx].offsets=s.offsets;
+  sv();
+  const el=document.querySelector('#acc-songbook .songbook');
+  if(el)el.outerHTML=renderSB(s,accSemi,accNot,true);
+  else renderAccordi();
+}
+
+/* ── AUTOCOMPLETE ── */
+function stripAccents(s){return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+const elCollator=new Intl.Collator('el',{sensitivity:'base',numeric:true});
+function isLatinName(name){return !/[\u0370-\u03FF\u1F00-\u1FFF]/.test(name||'');}
+function getPersonNames(){const set=new Set();persons.forEach(p=>{if(p.name)set.add(p.name);});return[...set].sort((a,b)=>{const la=isLatinName(a),lb=isLatinName(b);if(la!==lb)return la?1:-1;return elCollator.compare(a,b);});}
+function acIn(fid,role){
+  const val=gv(fid).toLowerCase();const dd=g('ac-'+fid);if(!dd)return;
+  // Se è specificato un ruolo, mostra solo le persone che hanno quel ruolo.
+  // Altrimenti (nessun ruolo) escludi solo i puri musicisti (solo role 'mu').
+  const allNames=getPersonNames().filter(n=>{
+    const p=persons.find(x=>x.name===n||x.nameit===n);
+    if(!p)return false;
+    const roles=p.roles||[];
+    if(role)return roles.includes(role);
+    return !(roles.length>0&&roles.every(r=>r==='mu'));
+  });
+  const matches=allNames.filter(n=>stripAccents(n.toLowerCase()).includes(stripAccents(val)));
+  if(!matches.length){dd.style.display='none';return;}
+  dd.innerHTML=matches.map(n=>{
+    const p=persons.find(x=>x.name===n||x.nameit===n);
+    const roles=(p?p.roles||[]:[]). map(r=>({at:'✍',am:'♪',ar:'🎤'}[r]||'')).join('');
+    return`<div class="ac-item" onmousedown="event.preventDefault();acSel('${fid}','${n.replace(/\\/g,'\\\\').replace(/'/g,"\\'")}')"><span>${esc(n)}</span><span style="font-size:10px;color:var(--t3)">${roles}</span></div>`;
+  }).join('');dd.style.display='block';
+}
+function acInMulti(fid,role){
+  const el=g(fid);if(!el)return;
+  const parts=el.value.split(',');const last=parts[parts.length-1].trim().toLowerCase();
+  const dd=g('ac-'+fid);if(!dd)return;
+  const allNames=getPersonNames().filter(n=>{
+    const p=persons.find(x=>x.name===n||x.nameit===n);
+    if(!p)return false;
+    const roles=p.roles||[];
+    if(role)return roles.includes(role);
+    return !(roles.length>0&&roles.every(r=>r==='mu'));
+  });
+  const matches=allNames.filter(n=>stripAccents(n.toLowerCase()).includes(stripAccents(last)));
+  if(!matches.length){dd.style.display='none';return;}
+  dd.innerHTML=matches.map(n=>`<div class="ac-item" onmousedown="event.preventDefault();acSelMulti('${fid}','${n.replace(/\\/g,'\\\\').replace(/'/g,"\\'")}')"><span>${esc(n)}</span></div>`).join('');
+  dd.style.display='block';
+}
+function acSel(fid,val){const el=g(fid);if(el)el.value=val;const dd=g('ac-'+fid);if(dd)dd.style.display='none';}
+function acSelMulti(fid,val){const el=g(fid);if(!el)return;const parts=el.value.split(',');parts[parts.length-1]=' '+val;el.value=parts.join(',').replace(/^\s*,/,'');const dd=g('ac-'+fid);if(dd)dd.style.display='none';}
+function acHide(fid){setTimeout(()=>{const dd=g('ac-'+fid);if(dd)dd.style.display='none';},200);}
+function acInGeneric(fid,getVals){
+  const val=gv(fid).toLowerCase();const dd=g('ac-'+fid);if(!dd)return;
+  const allVals=getVals();
+  const matches=allVals.filter(n=>stripAccents(n.toLowerCase()).includes(stripAccents(val)));
+  if(!matches.length){dd.style.display='none';return;}
+  dd.innerHTML=matches.map(n=>`<div class="ac-item" onmousedown="event.preventDefault();acSel('${fid}','${n.replace(/\\/g,'\\\\').replace(/'/g,"\\'")}')"><span>${esc(n)}</span></div>`).join('');
+  dd.style.display='block';
+}
+function getLabelValues(){return [...new Set(songs.map(s=>(s.lb||'').trim()).filter(Boolean))].sort(elCollator.compare);}
+function getDromosValues(){return [...new Set(songs.map(s=>(s.dr||'').trim()).filter(Boolean))].sort(elCollator.compare);}
+function getArgTagValues(){return [...new Set(args.map(a=>(a.tag||'').trim()).filter(Boolean))].sort(elCollator.compare);}
+
+/* ── ESPORTA / IMPORTA ── */
+async function saveHomeImg(){
+  var url=gv('home-img-url');
+  try{ localStorage.setItem('mousg_home_img', url); }catch(e){}
+  showHomeImgPreview(url);
+  showAlert('export-alert','Immagine home salvata.','ok');
+}
+function clearHomeImg(){
+  try{ localStorage.removeItem('mousg_home_img'); }catch(e){}
+  if(g('home-img-url')) g('home-img-url').value='';
+  var prev=g('home-img-preview');
+  if(prev) prev.style.display='none';
+  showAlert('export-alert','Immagine home rimossa.','ok');
+}
+function showHomeImgPreview(url){
+  var prev=g('home-img-preview');
+  var img=g('home-img-prev-img');
+  if(!prev||!img) return;
+  if(url){ img.src=url; prev.style.display='block'; }
+  else { prev.style.display='none'; }
+}
+function renderStampaLista(cat){
+  var wrap=g('stampa-lista-wrap');
+  if(!wrap) return;
+  var titoli={canzoni:'♪ Canzoni','cantanti':'🎤 Cantanti','autori-musica':'♫ Autori musica','autori-testo':'✍ Autori testo','musicisti':'🎸 Musicisti'};
+
+  function lastName(name){ const w=(name||'').trim().split(/\s+/).filter(x=>/^[\p{L}]/u.test(x)); return w.length>1?w[w.length-1]:(w[0]||name); }
+
+  var items=[];
+  if(cat==='canzoni'){
+    items=[...songs].sort((a,b)=>a.tgr.localeCompare(b.tgr,'el')).map(s=>s.tgr+(s.tit?' — '+s.tit:''));
+  } else {
+    var role={cantanti:'ar','autori-musica':'am','autori-testo':'at','musicisti':'mu'}[cat];
+    items=[...persons].filter(p=>(p.roles||[]).includes(role))
+      .sort((a,b)=>lastName(a.name).localeCompare(lastName(b.name),'el'))
+      .map(p=>p.name+(p.nameit?' ('+p.nameit+')':''));
+  }
+
+  var listH=items.map((t,i)=>`<div style="font-size:12px;padding:2px 0;border-bottom:1px solid var(--bor)">${i+1}. ${esc(t)}</div>`).join('');
+  var html=`<div id="stampa-content">
+    <div style="font-size:13px;font-weight:700;margin-bottom:.5rem;color:var(--acc)">${titoli[cat]} — ${items.length} voci</div>
+    <div style="columns:2;column-gap:1.5rem">${listH}</div>
+  </div>
+  <div style="margin-top:.75rem">
+    <button class="abtn primary" onclick="window.print()">🖨 Stampa</button>
+  </div>`;
+  wrap.innerHTML=html;
+}
+async function exportData(){
+  let homeImg='';
+  try{ homeImg=localStorage.getItem('mousg_home_img')||''; }catch(e){}
+  const data={
+    version:1,
+    exportedAt:new Date().toISOString(),
+    homeImg:homeImg,
+    songs:songs,
+    args:args,
+    persons:persons
+  };
+  const json=JSON.stringify(data,null,2);
+  const blob=new Blob([json],{type:'application/json'});
+
+  // Prova showSaveFilePicker (Chrome/Edge moderni) — permette di scegliere
+  // dove salvare e sovrascrivere direttamente il vecchio dati.json
+  if(window.showSaveFilePicker){
+    try{
+      const fh=await window.showSaveFilePicker({
+        suggestedName:'dati.json',
+        types:[{description:'File JSON',accept:{'application/json':['.json']}}]
+      });
+      const writable=await fh.createWritable();
+      await writable.write(blob);
+      await writable.close();
+      const ok=g('export-ok');
+      if(ok){ok.textContent='✓ File salvato direttamente sul disco!';ok.style.display='flex';setTimeout(()=>{ok.style.display='none';ok.textContent='✓ File scaricato — caricalo sul server insieme a blog_pubblico.html';},4000);}
+      renderExportPreview();
+      return;
+    }catch(e){
+      if(e.name==='AbortError')return; // utente ha annullato
+      // Fallback al download classico se showSaveFilePicker fallisce
+    }
+  }
+
+  // Fallback: download classico (Firefox, Safari, o se l'API non è disponibile)
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a');
+  a.href=url;a.download='dati.json';
+  document.body.appendChild(a);a.click();
+  document.body.removeChild(a);URL.revokeObjectURL(url);
+  const ok=g('export-ok');
+  if(ok){ok.style.display='flex';setTimeout(()=>{ok.style.display='none';},5000);}
+  renderExportPreview();
+}
+function renderExportPreview(){
+  const el=g('export-preview');if(!el)return;
+  // Legge direttamente dal localStorage per mostrare i dati realmente salvati
+  let lsSongs=[],lsPersons=[],lsArgs=[];
+  try{lsSongs=JSON.parse(localStorage.getItem(SK)||'[]')}catch(e){}
+  try{lsPersons=JSON.parse(localStorage.getItem(PK)||'[]')}catch(e){}
+  try{lsArgs=JSON.parse(localStorage.getItem(AK)||'[]')}catch(e){}
+  el.innerHTML=`
+    <div style="font-size:11px;color:var(--t3);margin-bottom:.3rem">Dati nel localStorage (quelli che verranno esportati):</div>
+    <div>📀 <strong>${lsSongs.length}</strong> canzoni &nbsp;·&nbsp; 👤 <strong>${lsPersons.length}</strong> persone &nbsp;·&nbsp; 📖 <strong>${lsArgs.length}</strong> approfondimenti</div>
+    <div style="margin-top:.4rem;color:var(--t3);font-size:11px">Ultima lettura: ${new Date().toLocaleString('it-IT')}</div>
+    <div style="margin-top:.6rem;font-size:11.5px">
+      <div style="font-weight:700;margin-bottom:2px">Canzoni:</div>
+      ${songs.map(s=>`<div style="padding-left:.8rem">• ${esc(s.tgr)} ${s.yr?'('+s.yr+')':''}</div>`).join('')}
+    </div>
+    ${persons.length?`<div style="margin-top:.5rem;font-size:11.5px">
+      <div style="font-weight:700;margin-bottom:2px">Persone:</div>
+      ${persons.map(p=>`<div style="padding-left:.8rem">• ${esc(p.name)} ${p.nameit?'('+esc(p.nameit)+')':''} — ${(p.roles||[]).map(r=>RL[r]||r).join(', ')}</div>`).join('')}
+    </div>`:''}`;
+}
+function importData(input){
+  const file=input.files[0];if(!file)return;
+  const reader=new FileReader();
+  reader.onload=function(e){
+    try{
+      const data=JSON.parse(e.target.result);
+      if(!data.songs||!Array.isArray(data.songs)){
+        g('import-msg').innerHTML='<span style="color:#a32d2d">File non valido: manca l\'array songs.</span>';return;
+      }
+      if(!confirm(`Importare ${data.songs.length} canzoni, ${(data.persons||[]).length} persone e ${(data.args||[]).length} approfondimenti${data.homeImg?' (inclusa la foto home)':''}? I dati attuali verranno sostituiti.`))return;
+      songs=data.songs||[];
+      args=data.args||[];
+      persons=data.persons||[];
+      sv();sva();svp();
+      if(typeof data.homeImg==='string'){
+        try{ localStorage.setItem('mousg_home_img', data.homeImg); }catch(e){}
+        if(g('home-img-url')) g('home-img-url').value=data.homeImg;
+        showHomeImgPreview(data.homeImg);
+      }
+      g('import-msg').innerHTML='<span style="color:var(--green)">✓ Dati importati correttamente.</span>';
+      renderAdminSongs();renderAdminPersons();renderAdminArgs();renderExportPreview();
+    }catch(err){
+      g('import-msg').innerHTML='<span style="color:#a32d2d">Errore nel file JSON: '+err.message+'</span>';
+    }
+  };
+  reader.readAsText(file);
+}
+
+/* ── INIT ── */
+(function(){
+  const isLogged = sessionStorage.getItem('mousg_admin')==='1';
+  if(isLogged){
+    const lw=document.getElementById('login-wrap');
+    const aw=document.getElementById('admin-wrap');
+    if(lw)lw.style.display='none';
+    if(aw)aw.style.display='block';
+    initAdmin();
+  }
+})();
+</script>
+<button id="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" style="display:none;position:fixed;right:16px;bottom:16px;z-index:999;background:var(--accent);color:#fff;border:none;border-radius:50%;width:44px;height:44px;font-size:18px;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.25)" title="Torna a inizio pagina">↑</button>
+<script>
+(function(){
+  var btn=document.getElementById('back-to-top');
+  var ticking=false;
+  function update(){
+    btn.style.display = (window.scrollY>300) ? 'block' : 'none';
+    ticking=false;
+  }
+  function onScroll(){
+    if(!ticking){ ticking=true; requestAnimationFrame(update); }
+  }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll, {passive:true});
+  update();
+})();
+</script>
+</body>
+</html>
