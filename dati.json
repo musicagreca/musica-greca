@@ -1,8 +1,125 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-30T08:32:57.204Z",
+  "exportedAt": "2026-08-30T17:52:08.259Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788112321435",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Ο καλόγηρος",
+      "tit": "O kalòghiros",
+      "alias": "Βαρέθηκα τις Γκόμενες",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1946",
+      "ar": "Μάρκος Βαμβακάρης, Ρόζα Εσκενάζυ",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=X7OrKS_0K8A",
+      "li": "",
+      "ch": "REm\nΒαρέθηκα τις γκόμενες\nSOLm       LA#   LA\nκοντεύω να τα χάσω\nSOLm\nγι αυτό και τ' αποφάσισα    \n          LA#   LA\nγια να φορέσω ράσο         \nSOLm\nγι αυτό και τ' αποφάσισα    \n          LA#   LA\nγια να φορέσω ράσο \n \nREm\nΌσα λεφτά κονόμαγα\nSOLm       LA#   LA\nφράγκο δεν αποκτούσα\nSOLm\nμαζί μ' αυτές τα χάλαγα   \n          LA#   LA\nκαι ρέστος τριγυρνούσα    \nSOLm\nμαζί μ' αυτές τα χάλαγα   \n          LA#   LA\nκαι ρέστος τριγυρνούσα  \n \nREm\nΜπελάδες και τραβήγματα\nSOLm       LA#   LA\nξενύχτια φασαρίες\nSOLm\nκαι τακτικά τραβιόμουνα   \n          LA#   LA\nκαι πλήρωνα αμαρτίες       \nSOLm\nκαι τακτικά τραβιόμουνα   \n          LA#   LA\nκαι πλήρωνα αμαρτίες \n \nREm\nΤώρα θ' αλλάξω πια ζωή\nSOLm       LA#   LA\nδεν θα με λεν μπατίρη\nSOLm\nκαι πάω για καλόγηρος  \n          LA#   LA\nσε κάποιο μοναστήρι \nSOLm\nκαι πάω για καλόγηρος  \n          LA#   LA\nσε κάποιο μοναστήρι",
+      "tr": "O kalòghiros\n\nVaréthika tis gkómenes\nkondévo na ta cháso\ngi'aftό ke t'apofásisa\ngia na forέso ráso\n\nΌsa leftá konόmagha\nfrángo den apoktúsa\nmazí m'aftés ta chálagha\nke réstos trighirnúsa\n\nBeládes ke traviímata\nksenίchtia fasaríes\nke taktiká traviόmuna\nke plíroπna amartíes\n\nTόra th'aláxo pia zoí\nden tha me len batíri\nke páo gia kalόyiros\nse kápio monastíri",
+      "ti": "Il frate \n\nMi sono stancato delle donne\nsto quasi per perdere la testa\nper questo ho deciso\ndi indossare il saio\n\nTutti i soldi che guadagnavo\nnon riuscivo a metterne da parte un soldo\ncon loro li sperperavo\ne giravo sempre al verde\n\nGuai e tira e molla\nnotti in bianco e liti\ne regolarmente venivo trascinato in risse\ne pagavo per i miei peccati\n\nOra cambierò vita finalmente\nnon mi chiameranno più squattrinato\ne vado a farmi monaco\nin qualche monastero\n\nNote:\n\nγκόμενες — ragazze/amanti (termine gergale colloquiale)\nκονομάω — guadagnare denaro (gergale)\nχαλάω λεφτά — sperperare/spendere soldi\nμπατίρης — squattrinato, al verde (turchismo gergale)\nκαλόγηρος — monaco, già incontrato in \"Ο τρελός καλόγερος\"; qui il brano ha tono scherzoso-autoironico, contrapposto al tono mistico-visionario dell'altra canzone",
+      "no": "Entrambe le tracce portano la firma di Vamvakaris per la musica e i testi, con il virtuoso Yannis Tatasopoulos che faceva il suo debutto al bouzouki. Il disco a 78 giri originale che conteneva questi due capolavori sui lati A e B rappresenta l'unica, vera testimonianza della loro collaborazione vocale diretta"
+    },
+    {
+      "id": "s_1788107445357",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Ο καλόγερος",
+      "tit": "O Kalóghieros",
+      "alias": "",
+      "at": "Κ.Χ. Μύρης",
+      "am": "Γιάννης Μαρκόπουλος",
+      "yr": "1972",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=hRul51EJoWc",
+      "li": "",
+      "ch": "FA                    LA#         FA\nΟ τρελός καλόγερος απ' τη Καππαδοκία\nLA#         FA             DO     FA\nήρθε κάποια νύχτα στην αγρύπνια μας\nFA             LA#               FA \nΣτάχτη στα γένια, στάχτη στα μαλλιά\nFA          LA#        DO        FA\nκαι μια φωτίτσα ζωντανή στο κούτελο\n\nFA\nΩ μη κοιμάστε, ω μη νυστάζετε\nFA\nΩ μη κοιμάστε, ω μη νυστάζετε\n\nFA \nΘά 'ρθει καιρός και για την άγια νύστα\nFA                            LA#        FA \nΌταν πεινάσει το παιδί, χορτάσει το σκουλήκι\nFA                   LA#        FA \nόταν τα φίδια ρίξουνε φαρμάκι στα νερά\nFA\nτότες η γης θ' ανοίξει να φανερωθώ\nLA#                  DO        FA\nθα με γνωρίσεις και θα σε γνωρίσω\n\nFA \nΣτου πηγαδιού την άκρη θ' ανταμώσουμε\nLA#                  DO        FA\nκαι θ' ανεβούμε συντροφιά την ανηφόρα\nFA \nΤότες η γης θ' ανοίξει να φανερωθώ\nFA                LA#   DO    FA\nθα με γνωρίσεις και θα σε γνωρίσω\n\nFA\nΩ μη κοιμάστε, ω μη νυστάζετε\nFA\nΩ μη κοιμάστε, ω μη νυστάζετε\n \nFA\nΑιώνες μακρινοί και θεοσκότεινοι\nFA              DO              FA\nστη ρίζα του βουνού σε κάποια πέτρα\nFA                DO              FA\nκρυφά μαστόρευα και φύλαγα για σένα \nFA            DO                FA\nτο ράσο, το ραβδί το ράσο, το ραβδί\nFA            DO             FA\nτο ράσο, το ραβδί και το ταγάρι\n \nFA                    LA#         FA\nΟ τρελός καλόγερος απ' τη Καππαδοκία\nLA#         FA             DO     FA\nήρθε κάποια νύχτα στην αγρύπνια μας\nFA             LA#               FA \nΣτάχτη στα γένια, στάχτη στα μαλλιά\nFA          LA#        DO        FA\nκαι μια φωτίτσα ζωντανή στο κούτελο\n\nFA\nΩ μη κοιμάστε, ω μη νυστάζετε\nFA\nΩ μη κοιμάστε, ω μη νυστάζετε",
+      "tr": "O Kalóghieros\n\nO trelόs kalόghieros ap'ti Kapadokía\nírthe kápia níchta stin agrípnia mas\nStáchti sta ghiénia, stáchti sta maliá\nke mia fotítsa zondaní sto kútelo\nO mi kimáste, o mi nistázete\n\nTha 'rthi kerόs ke gia tin ághia nísta\nÓtan pinási to pedí, chortási to skulíki\nόtan ta fídia ríksune farmáki sta nerá\ntόtes i ghis th'anίksi na fanerothό\ntha me ghnorísis ke tha se ghnoríso\n\nStu pigadiú tin ákri th'andamόsume\nke th'anevúme sindrofiá tin anifόra\nTόtes i yis th'anίksi na fanerothό\ntha me ghnorísis ke tha se ghnoríso\nO mi kimáste, o mi nistázete\n\nEónes makrinoí ke theoskότini\nsti ríza tu vunú se kápia pétra\nkrifá mastόreva ke fílagha gia\nséna to ráso, to ravdí ke to taghári\n\nO trelόs kalόghieros ap'ti Kapadokía",
+      "ti": "Il frate\n\nIl monaco pazzo di Cappadocia\nvenne una notte alla nostra veglia\ncenere sulla barba, cenere sui capelli\ne una piccola fiamma viva sulla fronte\noh, non dormite, oh, non assopitevi\n\nVerrà il tempo anche per il santo torpore\nquando il bambino avrà fame, si sazierà il verme\nquando i serpenti getteranno veleno nelle acque\nallora la terra si aprirà perché io mi riveli\ntu mi riconoscerai e io riconoscerò te\n\nAl bordo del pozzo ci incontreremo\ne saliremo insieme la salita\nallora la terra si aprirà perché io mi riveli\ntu mi riconoscerai e io riconoscerò te\noh, non dormite, oh, non assopitevi\n\nSecoli lontani e bui come dio\nalla radice della montagna, su una certa pietra\nin segreto lavoravo e custodivo per\nte il saio, il bastone e la bisaccia\n\nIl monaco pazzo di Cappadocia\n\nNote:\n\nκαλόγερος — monaco (termine popolare/tradizionale greco per \"monaco ortodosso\")\nαγία νύστα — \"santo torpore/sonnolenza\", espressione paradossale che accosta il sacro all'assopimento, suggerendo un sonno/attesa quasi mistica\nταγάρι — bisaccia, sacca da viandante/pellegrino, tipica dell'abbigliamento del monaco itinerante",
+      "no": "Per evitare che il regime dei Colonnelli bloccasse il disco, gli autori presentarono la canzone come una ballata storica di ispirazione bizantina e religiosa. I militari non compresero subito il potenziale sovversivo della frase \"Non dormite\", permettendone inizialmente la pubblicazione.\nScegliere un monaco della Cappadocia (regione storica oggi in Turchia, legata alla diaspora greca) richiamava il concetto di sradicamento e la forza d'animo dei profughi, toccando corde emotive profondissime nel pubblico ellenico."
+    },
+    {
+      "id": "s_1788103233107",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μελίνα Μερκούρη, Μάνος Χατζιδάκις",
+          "year": "1963",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=9L4Tg2a5Q7k"
+        },
+        {
+          "who": "Νάνα Μούσχουρη",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=1MOsUadrm0o"
+        },
+        {
+          "who": "Λένα Πλάτωνος",
+          "year": "1983",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Mb8DtaH375U"
+        },
+        {
+          "who": "Γιώργος Ζαμπέτας",
+          "year": "1971",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=IcCk3y_wjmw"
+        }
+      ],
+      "date": "2026-08-30",
+      "tgr": "Ο κυρ Αντώνης",
+      "tit": "O Kir Antònis",
+      "alias": "",
+      "at": "Μάνος Χατζιδάκις",
+      "am": "Μάνος Χατζιδάκις",
+      "yr": "1961",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm                              LA\nΟ κυρ-Αντώνης πάει καιρός που ζούσε στην αυλή\nLA                              REm\nμ' ένα κανάτι κι ένα κρεβάτι και με κρασί πολύ\nREm                              LA\nΕίχε δυο μάτια γαλανά κι αχτένιστα μαλλιά\nLA                              REm\nκι ένα λουλούδι πάντα φορούσε στα ρούχα τα παλιά\n\nLA#            DO      FA          RE\nΑχ κυρ-Αντώνη πώς σ' αγαπάμε και μαζί σου τ' άστρα μετράμε\nRE#            DOm\nΤις φωτιές για σένα πηδάμε ώσπου να 'ρθει βροχή\nLA#            DO      FA          RE\nΚαι τον θυμό σου πάντα ξεχνάω σαν πουλιά μαζί τριγυρνάμε\nRE#            DOm      LA\nσαν παιδιά με σένα γελάμε σαν κάνεις προσευχή\n\nREm                              LA\nΟ κυρ-Αντώνης βιάζεται να πάει να κοιμηθεί\nLA                              REm\nγιατί το βράδυ στα όνειρά του θέλει να θυμηθεί\nREm                              LA\nΌτι ποτέ δεν έζησε, μες στ' όνειρό του ζει\nLA                              REm\nμα η νύχτα φεύγει και λυπημένο τον βρίσκει η χαραυγή\n\nLA#            DO      FA          RE\nΑχ κυρ-Αντώνη πώς σ' αγαπάμε και μαζί σου τ' άστρα μετράμε\nRE#            DOm\nΤις φωτιές για σένα πηδάμε ώσπου να 'ρθει βροχή\nLA#            DO      FA          RE\nΚαι τον θυμό σου πάντα ξεχνάω σαν πουλιά μαζί τριγυρνάμε\nRE#            DOm      LA\nσαν παιδιά με σένα γελάμε σαν κάνεις προσευχή\n\n\nREm                              LA\nΜα ένα βράδυ ο κυρ-Αντώνης στρώνει να κοιμηθεί\nLA                              REm\nκι όταν ξυπνάμε τον καρτεράμε στην πόρτα να βρεθεί\nREm                              LA\nΜα ο κυρ-Αντώνης δεν θα βγει ποτέ του στην αυλή\nLA                              REm\nαφού για πάντα μες στ' όνειρό του θέλησε πια να ζει",
+      "tr": "O Kir Antònis\n\nO kir-Andόnis pái kerόs pu zúse stin avlí\nm'éna kanáti ki éna kreváti ke me krasí polí\nÍche dío mátia ghalaná ki achténista maliá\nki éna lulúdi pánda forúse sta rúcha ta paliá\n\nAch kir-Andόni pόs s'aghapáme ke mazí su t'ástra metráme\nTis fotiés gia séna pidáme όspu na 'rthi vrochí\nKe ton thimό su pánda ksechnáo san puliά mazí trighirnáme\nsan pediá me séna gheláme san kánis prosefchí\n\nO kir-Andόnis viázete na pái na kimithí\ngiatí to vrádi sta ónirá tu théli na thimithí\nÓti poté den ézise, mes st'όniró tu zi\nma i níchta févyi ke lipiméno ton vrísкi i charavghí\n\nAch kir-Andόni...\n\nMa éna vrádi o kir-Andόnis strόni na kimithí\nki όtan ksipnáme ton karterάme stin pόrta na vrethí\nMa o kir-Andόnis den tha vghi poté tu stin avlí\nafú ghia pánda mes st'όniró tu thélise pia na zi",
+      "ti": "Il signor Antonio\n\nIl signor Antonis, è da tanto che viveva nel cortile\ncon una brocca e un letto e tanto vino\naveva due occhi azzurri e capelli spettinati\ne portava sempre un fiore sui suoi vecchi vestiti\n\nAh, signor Antonis, quanto ti amiamo, e insieme a te contiamo le stelle\nper te saltiamo sopra i fuochi finché non arriva la pioggia\ne la tua rabbia sempre la dimentichiamo, giriamo intorno insieme come uccelli\ncome bambini ridiamo con te quando preghi\n\nIl signor Antonis ha fretta di andare a dormire\nperché la notte nei suoi sogni vuole ricordare\nquello che non ha mai vissuto, vive dentro il suo sogno\nma la notte se ne va, e l'alba lo trova triste\n\nAh, signor Antonis...\n\nMa una sera il signor Antonis si prepara per dormire\ne quando ci svegliamo lo aspettiamo che si trovi alla porta\nma il signor Antonis non uscirà mai più nel cortile\nperché per sempre, dentro il suo sogno, ha voluto ormai vivere\n\nNote:\n\nil brano ha un tono fiabesco e malinconico: il \"signor Antonis\" è una figura povera e sognatrice, quasi un folle di paese amato dai bambini/dal vicinato, che finisce per \"restare\" per sempre nel proprio sogno — probabile eufemismo poetico per la morte\nκανάτι — brocca/caraffa di terracotta, oggetto simbolo della povertà dignitosa del personaggio\nτις φωτιές πηδάμε — riferimento al tradizionale salto sui fuochi la notte di San Giovanni (Κλήδονας), usanza popolare greca legata al solstizio d'estate\nχαραυγή — l'alba (forma poetica di \"αυγή\")",
+      "no": ""
+    },
+    {
+      "id": "s_1788093853533",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-30",
+      "tgr": "Ο γιατρός",
+      "tit": "O Giatros",
+      "alias": "Δεν μπορώ μανούλα μ",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "Ελένη Βιτάλη",
+      "lb": "",
+      "gn": "dimotikò Epiro",
+      "dr": "",
+      "bal": "",
+      "ll": "https://kithara.to/stixoi/MTEzNjM4MDE1/giatros-bitali-eleni-lyrics",
+      "li": "",
+      "ch": "FA\nΔεν μπορώ μανούλα μ', δεν μπορώ\nαχ, σύρε να φέρεις το γιατρό\nΑχ, σύρε να φέρεις το γιατρό\nμην πεθάνω μάνα μ' και χαθώ\n \nΑγάπησα, μάνα μ', αγάπησα\nπικρά ο δόλιος το μετάνιωσα\nΠικρά ο δόλιος το μετάνιωσα\nαχ, μανούλα μου, δεν σ' άκουσα\n \nΣώπα γιε μου, και μην κλαις εσύ\nθα φέρω το γιατρό ταχιά πρωί\nΘα φέρω το γιατρό ταχιά πρωί\nνα σου γιάνει γιε μου την πληγή\n \nΦέρτονε, μανούλα μ' τον γιατρό\nνα μου γιάνει, μάνα μ' τον καημό\nΤον καημό γλυκιά μανούλα μου     \nπου 'χω μέσα στην καρδούλα μου  \nΤον καημό γλυκιά μανούλα μου     \nπου 'χω μέσα στην καρδούλα μου",
+      "tr": "O ghiatròs\n\nDen boró manúla m', den boró\nach, síre na féris to yiatró\nAch, síre na féris to yiatró\nmin petháno mána m' ke chathó\n\nAghápisa, mána m', aghápisa\npikrá o dόlios to metánosa\nPikrá o dόlios to metánosa\nach, manúla mu, den s'ákusa\n\nSόpa yie mu, ke min kléis esí\ntha féro to yiatró tachiá proí\nTha féro to yiatró tachiá proí\nna su yiáni yie mu tin pliyí\n\nFértone, manúla m' ton yiatró\nna mu yiáni, mána m' ton kaimό\nTon kaimό ghlikiá manúla mu\npu 'cho mésa stin kardúla mu",
+      "ti": "Il dottore\n\nNon ce la faccio, mamma, non ce la faccio\nah, vai a chiamare il dottore\nah, vai a chiamare il dottore\nche non muoia, mamma, e non mi perda\n\nMi sono innamorato, mamma, mi sono innamorato\namaramente, povero me, me ne sono pentito\namaramente, povero me, me ne sono pentito\nah, mamma mia, non ti ho ascoltato\n\nTaci, figlio mio, e non piangere tu\nporterò il dottore domattina presto\nporterò il dottore domattina presto\nper guarirti, figlio mio, la ferita\n\nPortatemelo, mamma mia, il dottore\nche mi guarisca, mamma, il dolore\nil dolore, dolce mamma mia\nche ho dentro il mio cuoricino\n\nNote:\n\nδόλιος — povero, misero, sventurato (participio spesso usato come autodefinizione compassionevole, già incontrato in altre canzoni come \"δόλια καρδιά\")\nil canto usa il classico dialogo madre-figlio della tradizione popolare, dove la \"ferita\"/\"dolore\" fisico è in realtà metafora della sofferenza d'amore, e il \"dottore\" invocato non può in realtà guarire un male del cuore — schema tipico dei canti popolari greci che uniscono immagine di malattia fisica e pena amorosa",
+      "no": "La melodia originale è antichissima ed è nata originariamente come un lamento (moirologi) strumentale. Nei dischi storici a 78 giri della prima metà del '900, questo tema musicale veniva registrato con il titolo di \"Elbasan\", dal nome della città dell'omonima regione (oggi in Albania centrale, storicamente legata ai flussi migratori e commerciali dell'Epiro).\nFino alla metà del secolo scorso, il brano era prevalentemente strumentale o legato a vecchi lamenti funebri. Fu solo a partire dagli anni '60 che al brano vennero integrati i versi moderni legati al \"dolore d'amore\" (il mal d'amore curabile solo dal \"medico\"), trasformandolo nel brano popolare odierno e cambiandone definitivamente il nome in \"O Giatros\".\nIl brano è strettamente legato a una danza omonima (\"Danza del Medico\"). Anticamente, in alcuni villaggi, la danza assumeva una valenza quasi teatrale o catartica: l'innamorato fingeva di accasciarsi per il dolore e la comunità ballava intorno a lui per curarlo, a simboleggiare il potere terapeutico della musica e della danza collettiva contro le sofferenze dell'anima."
+    },
     {
       "id": "s_1788078292614",
       "offsets": {},
@@ -1236,7 +1353,7 @@
       "bal": "Sirtòs (Asia Minore)",
       "ll": "",
       "li": "",
-      "ch": "RE           FAdim     RE   RE#   RE\nΒρε, νη ν' Έλλη, άντε, θέλει θέλει σκότωμα\n            DOm     RE         DOm      RE\nμε δίκοπο μαχαίρι, με δίκοπο μαχαίρι\nRE           FAdim     RE   RE#   RE\nγιατ' άφησε, άντε, τον άντρα της\n          DOm     RE         DOm      RE\nκαι πήρε κομισιέρη, και πήρε κομισιέρη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nαπό τον κομισιέρη\n \nRE              FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, τ' απεφάσισε\n        DOm     RE         DOm      RE\nλεβέντισσα να ζήσει, λεβέντισσα να ζήσει\nRE               FAdim     RE   RE#   RE\nβρε, και δε τη νοιάζει, άντε, στο ντουνιά\n            DOm     RE         DOm      RE\nστους δρόμους κι ας 'πομείνει, στους δρόμους κι ας 'πομείνει\n \nRE\nΆμαν, αμάνα, Έλλη\nRE\nρε, κανένας δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nστη γάμπα τσιμπημένη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nπαράτησες τον άντρα σου\nRE\nκαι πήρες κομισιέρη\n \nRE           FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, θέλει ζάχαρη\n                DOm     RE         DOm      RE\nκαι ρούσικο, βρ' αλεύρι, και ρούσικο, βρ' αλεύρι\nRE            FAdim     RE   RE#   RE\nβρε, να φτιάξει, άντε, τα γλυκίσματα\n           DOm     RE         DOm      RE\nνα πά' στον κομισιέρη, να πά' στον κομισιέρη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nαπό τον κομισιέρη\n \nR        FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, επερπάτησε\n      DOm     RE         DOm      RE\nστης Σμύρνης τα σοκάκια, στης Σμύρνης τα σοκάκια\nRE        FAdim     RE   RE#   RE \nκι οι Τούρκοι, άντε, ενομίσανε\n      DOm     RE         DOm      RE\nπως είναι ραμαζάνια, πως είναι ραμαζάνια",
+      "ch": "RE           FAdim     RE   RE#   RE\nΒρε, νη ν' Έλλη, άντε, θέλει θέλει σκότωμα\n            DOm     RE         DOm      RE\nμε δίκοπο μαχαίρι, με δίκοπο μαχαίρι\nRE           FAdim     RE   RE#   RE\nγιατ' άφησε, άντε, τον άντρα της\n          DOm     RE         DOm      RE\nκαι πήρε κομισιέρη, και πήρε κομισιέρη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nαπό τον κομισιέρη\n \nRE              FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, τ' απεφάσισε\n        DOm     RE         DOm      RE\nλεβέντισσα να ζήσει, λεβέντισσα να ζήσει\nRE               FAdim     RE   RE#   RE\nβρε, και δε τη νοιάζει, άντε, στο ντουνιά\n            DOm     RE         DOm      RE\nστους δρόμους κι ας 'πομείνει, στους δρόμους κι ας 'πομείνει\n \nRE\nΆμαν, αμάνα, Έλλη\nRE\nρε, κανένας δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nστη γάμπα τσιμπημένη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nπαράτησες τον άντρα σου\nRE\nκαι πήρες κομισιέρη\n \nRE           FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, θέλει ζάχαρη\n                DOm     RE         DOm      RE\nκαι ρούσικο, βρ' αλεύρι, και ρούσικο, βρ' αλεύρι\nRE            FAdim     RE   RE#   RE\nβρε, να φτιάξει, άντε, τα γλυκίσματα\n           DOm     RE         DOm      RE\nνα πά' στον κομισιέρη, να πά' στον κομισιέρη\n \nRE\nΑ βρε, κακούργα Έλλη\nRE\nφαντάρος δε σε θέλει\nRE\nγιατί είσαι φιλημένη\nRE\nαπό τον κομισιέρη\n \nRE        FAdim     RE   RE#   RE \nΒρε, νη ν' Έλλη, άντε, επερπάτησε\n      DOm     RE         DOm      RE\nστης Σμύρνης τα σοκάκια, στης Σμύρνης τα σοκάκια\nRE        FAdim     RE   RE#   RE \nκι οι Τούρκοι, άντε, ενομίσανε\n      DOm     RE         DOm      RE\nπως είναι ραμαζάνια, πως είναι ραμαζάνια",
       "tr": "I Elli\n\nVre, ni n'Éli, ánde, théli théli skótoma\nme díkopo machéri, me díkopo machéri\nyiat'áfise, ánde, ton ándra tis\nke píre komisiéri, ke píre komisiéri\n\nA vre, kakúrgha Éli\nfandáros de se théli\nyiatí íse filiméni\napó ton komisiéri\n\nVre, ni n'Éli, ánde, t'apefásise\nlevéndisa na zísi, levéndisa na zísi\nvre, ke de ti niázi, ánde, sto nduniá\nstus drómus ki as 'pomíni, stus drómus ki as 'pomíni\n\nÁman, amána, Éli\nre, kanénas de se théli\nyiatí íse filiméni\nsti ghámba tsimbiméni\n\nA vre, kakúrgha Éli\nfandáros de se théli\nparátises ton ándra su\nke píres komisiéri\n\nVre, ni n'Éli, ánde, théli záchari\nke rúsiko, vr'alévri, ke rúsiko, vr'alévri\nvre, na ftiáksi, ánde, ta ghlikísmata\nna pá' ston komisiéri, na pá' ston komisiéri\n\nA vre, kakúrgha Éli\nfandáros de se théli\nyiatí íse filiméni\napó ton komisiéri\n\nVre, ni n'Éli, ánde, eperpátise\nstis Smírnis ta sokákia, stis Smírnis ta sokákia\nki i Túrki, ánde, enomísane\npos íne ramazánia, pos íne ramazánia",
       "ti": "Elli\n\nEhi, Elli, dai, merita, merita di essere uccisa\ncon un coltello a doppio taglio, con un coltello a doppio taglio\nperché ha lasciato, dai, suo marito\ne si è presa un commissario, e si è presa un commissario\n\nAh, ehi, cattiva Elli\nun soldato non ti vuole\nperché sei stata baciata\ndal commissario\n\nEhi, Elli, dai, ha deciso\ndi vivere da spavalda, di vivere da spavalda\nehi, e non le importa, dai, del mondo\nanche se resta per le strade, anche se resta per le strade\n\nAhimè, ahimè, Elli\nehi, nessuno ti vuole\nperché sei stata baciata\ne morsicata sul polpaccio\n\nAh, ehi, cattiva Elli\nun soldato non ti vuole\nhai abbandonato tuo marito\ne ti sei presa un commissario\n\nEhi, Elli, dai, vuole zucchero\ne farina russa, ehi farina\nehi, per fare, dai, i dolci\nda portare al commissario, da portare al commissario\n\nAh, ehi, cattiva Elli\nun soldato non ti vuole\nperché sei stata baciata\ndal commissario\n\nEhi, Elli, dai, ha camminato\nper i vicoli di Smirne, per i vicoli di Smirne\ne i turchi, dai, hanno pensato\nche fosse il Ramadan, che fosse il Ramadan\n\nNote:\n\nκομισιέρης — \"commissario\" (di polizia o autorità straniera/occupante), figura con cui Elli avrebbe una relazione, motivo dello scandalo cantato\nφαντάρος — soldato semplice (qui probabilmente greco), contrapposto al più potente/prestigioso \"commissario\" — il rifiuto dei soldati verso Elli sottolinea il suo essere \"compromessa\"\nλεβέντισσα — femminile di \"λεβέντης\" (giovane fiero e coraggioso), qui riferito a Elli che sceglie sfacciatamente il proprio stile di vita libero, sfidando il giudizio sociale\nl'ultima strofa, sul suo camminare per Smirne facendo credere ai turchi che fosse Ramadan, è un'iperbole scherzosa/ironica sulla sua fama, o forse un'allusione al suo essere \"digiuna\" d'amore/onore secondo la morale corrente — il canto, secondo le fonti storiche, nasce da uno scandalo reale della società di Smirne di fine '800 legato a una donna di nome Elli\nil brano appartiene al repertorio tradizionale dell'Asia Minore (Μικρασιάτικο), con lo schema tipico della canzone satirico-narrativa a più strofe con ritornello fisso di biasimo",
       "no": "[[2026-08-19|Approfondimento Elli]]"
@@ -2317,7 +2434,7 @@
       "bal": "",
       "ll": "https://www.youtube.com/watch?v=azozKyjFIDg",
       "li": "",
-      "ch": "RE                      LA            RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω\nRE                        LA          RE\nΚι απ' την πολλή μαστούρα μου κανένα δε γνωρίζω\nRE                      LA            RE\nΑπ' την πολλή τη σούρα μου το νου μου δεν ορίζω\nRE                        LA          RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω\n\nRE                      LA            RE\nΤσοντάρεις, αδερφούλα μου, να πιούμε τσιμπουκάκι\nRE                        LA          RE\nΜαζί να μαστουριάσουμε να παίξω μπουζουκάκι   ] 2x\nRE                      LA            RE\nΤσοντάρεις, αδερφούλα, μου να πιούμε τσιμπουκάκι\n\nRE                      LA            RE\nΚάντονε, ντερβισόμαγκα, τον αργιλέ να τρίζει\nRE                        LA          RE\nΚαι με φωτιές του θυμαριού, να πιω και να σφυρίζει \nRE                        LA          RE\nΚαι με φωτιές του θυμαριού, να πιω και να σφυρίζει   \nRE                      LA            RE\nΚάντονε, ντερβισόμαγκα, τον αργιλέ να τρίζει\n\nRE                      LA            RE\nΜαστούρια όταν γίνουμε μέσα μες στον τεκέ μας\nRE                        LA          RE\nΌλοι εσένα αγαπούν, περήφαν' αργιλέ μας   \nRE                        LA          RE\nΌλοι εσένα αγαπούν, περήφαν' αργιλέ μας  \nRE                      LA            RE\nΜαστούρια όταν γίνουμε μέσα μες στον τεκέ μας\n\nRE                      LA            RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω...",
+      "ch": "RE                      LA            RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω\nRE                        LA          RE\nΚι απ' την πολλή μαστούρα μου κανένα δε γνωρίζω\nRE                      LA            RE\nΑπ' την πολλή τη σούρα μου το νου μου δεν ορίζω\nRE                        LA          RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω\n\nRE                      LA            RE\nΤσοντάρεις, αδερφούλα μου, να πιούμε τσιμπουκάκι\nRE                        LA          RE\nΜαζί να μαστουριάσουμε να παίξω μπουζουκάκι \nRE                        LA          RE\nΜαζί να μαστουριάσουμε να παίξω μπουζουκάκι   \nRE                      LA            RE\nΤσοντάρεις, αδερφούλα, μου να πιούμε τσιμπουκάκι\n\nRE                      LA            RE\nΚάντονε, ντερβισόμαγκα, τον αργιλέ να τρίζει\nRE                        LA          RE\nΚαι με φωτιές του θυμαριού, να πιω και να σφυρίζει \nRE                        LA          RE\nΚαι με φωτιές του θυμαριού, να πιω και να σφυρίζει   \nRE                      LA            RE\nΚάντονε, ντερβισόμαγκα, τον αργιλέ να τρίζει\n\nRE                      LA            RE\nΜαστούρια όταν γίνουμε μέσα μες στον τεκέ μας\nRE                        LA          RE\nΌλοι εσένα αγαπούν, περήφαν' αργιλέ μας   \nRE                        LA          RE\nΌλοι εσένα αγαπούν, περήφαν' αργιλέ μας  \nRE                      LA            RE\nΜαστούρια όταν γίνουμε μέσα μες στον τεκέ μας\n\nRE                      LA            RE\nΕίμαι αλανιάρης στους δρόμους και γυρίζω...",
       "tr": "Alaniàris\n\nÍme alaniáris stus drómus ke ghirízo\nKi ap'tin polí mastúra mu kanéna de ghnorízo\nAp'tin polí ti súra mu to nu mu den orízo\nÍme alaniáris stus drómus ke ghirízo\n\nTsondáris, adherfúla mu, na piúme tsibukáki\nMazí na masturiásume na pékso buzukáki\nTsondáris, adherfúla, mu na piúme tsibukáki\n\nKándone, dervisómanga, ton arghilé na trízi\nKe me fotiés tu thimariú, na pio ke na sfirízi\nKándone, dervisómanga, ton arghilé na trízi\n\nMastúria ótan ghínume mésa mes ston deké mas\nÓli eséna aghapún, periфán' arghilé mas\nMastúria ótan ghínume mésa mes ston deké mas\n\nÍme alaniáris stus drómus ke ghirízo...",
       "ti": "Vagabondo\n\nSono un vagabondo per le strade e giro\ne per la mia grande sballatura non riconosco nessuno\nper la mia grande ubriacatura non controllo la mia mente\nsono un vagabondo per le strade e giro\n\nMetti anche tu la tua parte, fratellino, beviamo un tiro di narghilè\ninsieme sballiamoci, che io suoni il bouzouki\nmetti anche tu la tua parte, fratellino, beviamo un tiro di narghilè\n\nFai, o mangas dervisico, scricchiolare il narghilè\ne con i fuochi del timo, fammi bere e fischiare\nfai, o mangas dervisico, scricchiolare il narghilè\n\nQuando ci sballiamo dentro il nostro tekè\ntutti amano te, nostro fiero narghilè\nquando ci sballiamo dentro il nostro tekè\n\nSono un vagabondo per le strade e giro...\n\nNote:\n\nμαστούρα / σούρα — stato di intontimento/sballo (da hashish o alcol); \"σούρα\" più specificamente indica anche l'ubriachezza\nτσοντάρω — mettere la propria parte/quota (per pagare qualcosa insieme, es. la droga o il conto)\nαδερφούλα — letteralmente \"sorellina\", ma qui vezzeggiativo gergale tra amici stretti/compagni (come \"βλαμάκι\" incontrato in altre canzoni)\nντερβισόμαγκας — parola composta scherzosa: \"mangas-dervisico\", che unisce la figura del mangas (uomo di strada) a quella del \"dervisάς\" (termine gergale associato ai frequentatori dei tekè, richiamando i dervisci come immagine di estasi/trance)\nτεκές — locale/fumeria per hashish e narghilè, ambiente tipico del rebetiko\nαργιλές — narghilè, qui quasi personificato e \"amato\" da tutti come simbolo della compagnia",
       "no": ""
@@ -7231,7 +7348,10 @@
       "died": "15/06/1994, Atene",
       "nat": "Greco",
       "roles": [
-        "am"
+        "at",
+        "am",
+        "ar",
+        "mu"
       ],
       "bio": "Manos (Emmanuil) Hadjidakis ( Xanthi , 23 ottobre 1925 – Atene , 15 giugno 1994) è stato un importante compositore , poeta , cantautore , direttore d'orchestra e pianista greco . È considerato il primo ad aver collegato, con il suo lavoro teorico e compositivo, la musica lirica del dopoguerra alla tradizione della musica popolare.  Molte delle sue centinaia di opere sono oggi riconosciute come classici.\n\nNel 1960, gli fu assegnato l' Oscar per la migliore canzone originale per il brano \" I figli del Pireo \" tratto dal film \" Mai di domenica \" del regista Jules Dassin . Tuttavia, Manos Hadjidakis non partecipò alla cerimonia di premiazione, né lo fece nessun altro al suo posto. Il premio fu spedito qualche giorno dopo, ma andò perduto durante il tragitto. Nella foto che lo ritrae con l'Oscar, lo tiene in mano da Katina Paxinou, da cui lo aveva preso in prestito.",
       "link": "https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CE%BD%CE%BF%CF%82_%CE%A7%CE%B1%CF%84%CE%B6%CE%B9%CE%B4%CE%AC%CE%BA%CE%B9%CF%82",
@@ -8431,7 +8551,7 @@
       "nameit": "Ghiòrgos Zambètas",
       "born": "25 gennaio 1925, Metaxourgío  Atene",
       "died": "10 marzo 1992, Atene",
-      "bio": "Compositore, cantante e straordinario virtuoso del bouzouki\n\nNato: 25 gennaio 1925, nel quartiere di Metaxourgío ad Atene (famiglia originaria di Kýthnos)\nMorto: 10 marzo 1992\n\nBiografia\n\nFiglio di Michális Zabétas, barbiere, e di Maríka Moraḯti, nipote di un noto baritono dell'epoca. Fin da piccolissimo mostrò una passione irrefrenabile per la musica: mentre aiutava il padre nella bottega da barbiere, \"abbozzava\" di nascosto sul bouzouki le sue prime melodie. Qualunque suono prodotto dalla natura lo affascinava e ispirava le sue composizioni, come raccontò lui stesso nella sua autobiografia poco prima di morire. Già nel 1932, a soli 7 anni, vinse il suo primo premio scolastico suonando in un concorso da alunno di prima elementare.\n\nDal 1950 iniziò a lavorare professionalmente nei locali popolari, ed entrò in discografia nel 1953. Il 1965 fu un anno di svolta: diventò celebre in tutta la Grecia grazie al cinema e ai suoi successi, in un periodo di fortissima concorrenza nella canzone popolare. Suonò il bouzouki nella colonna sonora del film «Zorba il greco», incise brani insieme a Stélios Kazantzídis, recitò in diversi film, e divenne amico intimo persino di Aristotele Onassis.\n\nFu legato ad Atene da un rapporto quasi \"sacro\": alla città diede l'affettuoso soprannome \"Σίτι\" (City), ancora oggi usato dai suoi abitanti. Compose brani entrati nella storia come «Τα δειλινά», «Τα ξημερώματα» e «Δεν έχει δρόμο να διαβώ», e scrisse per interpreti come Pródromos Tsaousákis, Stélios Kazantzídis, Manólis Kanarídis e Póli Pánou. Ebbe anche un legame speciale con Χαράλαμπος Βασιλειάδης (\"Τσάντας\"), il paroliere che lo considerava un \"figlio\" mentre lui lo chiamava \"padre\".\n\nIl critico Leftéris Papadópoulos lo definì tra le prime dieci grandi figure del rebetiko e del laiko: come compositore tra i migliori in assoluto, come bouzouktzís il migliore per suono personale, ma come showman semplicemente unico — un artista che, se fosse nato in America, avrebbe probabilmente conquistato la scena mondiale.\n\nNegli anni '80 iniziò il declino del genere, insieme al progressivo tramonto della sua parabola artistica, raccontata poi nella sua autobiografia «Και η βροχή έπιπτε... στρέιτ θρου» (raccolta da Ioánna Klísiou).\n\nIl Comune di Egaleo ha onorato il grande compositore nella vita in occasione di eventi che ha organizzato nell'aprile 1988 e nel settembre 1990, mentre una piazza della città vicino alla sua casa porta il suo nome.",
+      "bio": "Figlio di Michális Zabétas, barbiere, e di Maríka Moraḯti, nipote di un noto baritono dell'epoca. Fin da piccolissimo mostrò una passione irrefrenabile per la musica: mentre aiutava il padre nella bottega da barbiere, \"abbozzava\" di nascosto sul bouzouki le sue prime melodie. Qualunque suono prodotto dalla natura lo affascinava e ispirava le sue composizioni, come raccontò lui stesso nella sua autobiografia poco prima di morire. Già nel 1932, a soli 7 anni, vinse il suo primo premio scolastico suonando in un concorso da alunno di prima elementare.\n\nDal 1950 iniziò a lavorare professionalmente nei locali popolari, ed entrò in discografia nel 1953. Il 1965 fu un anno di svolta: diventò celebre in tutta la Grecia grazie al cinema e ai suoi successi, in un periodo di fortissima concorrenza nella canzone popolare. Suonò il bouzouki nella colonna sonora del film «Zorba il greco», incise brani insieme a Stélios Kazantzídis, recitò in diversi film, e divenne amico intimo persino di Aristotele Onassis.\n\nFu legato ad Atene da un rapporto quasi \"sacro\": alla città diede l'affettuoso soprannome \"Σίτι\" (City), ancora oggi usato dai suoi abitanti. Compose brani entrati nella storia come «Τα δειλινά», «Τα ξημερώματα» e «Δεν έχει δρόμο να διαβώ», e scrisse per interpreti come Pródromos Tsaousákis, Stélios Kazantzídis, Manólis Kanarídis e Póli Pánou. Ebbe anche un legame speciale con Χαράλαμπος Βασιλειάδης (\"Τσάντας\"), il paroliere che lo considerava un \"figlio\" mentre lui lo chiamava \"padre\".\n\nIl critico Leftéris Papadópoulos lo definì tra le prime dieci grandi figure del rebetiko e del laiko: come compositore tra i migliori in assoluto, come bouzouktzís il migliore per suono personale, ma come showman semplicemente unico — un artista che, se fosse nato in America, avrebbe probabilmente conquistato la scena mondiale.\n\nNegli anni '80 iniziò il declino del genere, insieme al progressivo tramonto della sua parabola artistica, raccontata poi nella sua autobiografia «Και η βροχή έπιπτε... στρέιτ θρου» (raccolta da Ioánna Klísiou).\n\nIl Comune di Egaleo ha onorato il grande compositore nella vita in occasione di eventi che ha organizzato nell'aprile 1988 e nel settembre 1990, mentre una piazza della città vicino alla sua casa porta il suo nome.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/zambetas.jpg",
@@ -11074,6 +11194,49 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/polimeris.jpg",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1788102197231",
+      "name": "Νάνα Μούσχουρη",
+      "nameit": "Nána Múschuri",
+      "born": "13 ottobre 1934, La Canea (Creta)",
+      "died": "",
+      "bio": "Cantante greca di fama internazionale, tra le artiste con le vendite più alte nella storia della musica: oltre 300 milioni di dischi venduti (secondo alcune fonti fino a 380 milioni). Nacque a La Canea, dove il padre Konstantinos lavorava come proiezionista in un cinema locale, mentre la madre Aliki Katsarou (originaria di Sinies, Corfù) vi lavorava come maschera. A tre anni si trasferì con la famiglia ad Atene. Durante l'Occupazione il padre prese parte attiva alla Resistenza contro i tedeschi.\n\nStudiò al Conservatorio di Atene. Possiede una voce da soprano particolarissima — nacque con una sola corda vocale — e la capacità di cantare in modo convincente in molte lingue diverse, oltre a un repertorio molto vario, elementi che le permisero di costruire una carriera internazionale memorabile. In Francia è la donna artista con più dischi d'oro nella storia del paese.\n\nAttiva dal 1958 al 2008, poi di nuovo dal 2011. Nel 2003 sposò, dopo una lunga relazione, il produttore musicale francese André Chapelle. In precedenza fu sposata con Giorgos Petsilas (1960-1974), da cui ebbe i figli Nikolaos ed Eleni. Nel 2004 iniziò la sua \"Tournée mondiale d'addio\", conclusasi in Grecia nel 2008. Tornò poi nel 2018 con l'album Forever Young (reinterpretazioni di Dylan, Sinatra, Barrett).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/muschuri.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788102896500",
+      "name": "Λένα Πλάτωνος",
+      "nameit": "Léna Plátonos",
+      "born": "21 ottobre 1951, Heraklion (Creta)",
+      "died": "",
+      "bio": "Musicista, pianista e compositrice di musica elettronica e éntechno, considerata pioniera non tanto della musica elettronica greca in sé, quanto della canzone greca — capace di introdurre linguaggi radicalmente nuovi nel songwriting nazionale. Fu protagonista della scena elettronica greca degli anni '80, e la sua opera divenne fonte d'ispirazione per i musicisti electronica greci delle generazioni successive.\n\nFiglia di Georgios Platon, noto compositore e primo pianista dell'Opera Nazionale Greca (Εθνική Λυρική Σκηνή), che le insegnò il pianoforte fin da piccolissima: già a 3 anni e mezzo un giornale dell'epoca (\"Έθνος\", luglio 1955) la descriveva come una bambina che suonava musica classica al pianoforte. Crebbe ad Atene. Studiò al Conservatorio di Atene con Foivi Vallinda e Marika Papaioannou, diventando pianista professionista prima dei diciott'anni; nel 1963 vinse il Primo Premio del Concorso Kaiti Papaioannou.\n\nEbbe un incontro artistico importante con Manos Hatzidakis. Fu anche legata alla collaborazione con Marianina Kriezi per l'album \"Σαμποτάζ\" (Lyra) — periodo in cui iniziò a scrivere testi propri, dopo essersi formata da adolescente sulla poesia surrealista (Embirikos, Engonopoulos).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/platonos.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788103967624",
+      "name": "Κ.Χ. Μύρης",
+      "nameit": "K.Ch. Mìris",
+      "born": "17 settembre 1937, Lamia",
+      "died": "6 dicembre 2024, Atene",
+      "bio": "Vero nome: Kostas Georgousopoulos (Κώστας Γεωργουσόπουλος)\n\nFilologo e critico teatrale di grande fama, divenuto noto anche come paroliere sotto lo pseudonimo \"K.Ch. Myris\". Studiò alla Facoltà di Lettere dell'Università di Atene (dipartimento di Storia e Archeologia) e teatro alla Scuola Drammatica del Conservatorio di Atene, con maestri come Dimitris Rontiris e Giannis Sideris. Lavorò nell'istruzione pubblica e privata per 35 anni, dal 1964 al 1999. Entrò nel campo della critica teatrale nel 1971, diventando critico teatrale ed editorialista, collaborando anche con diverse riviste letterarie.\n\nCome paroliere, la sua collaborazione più nota fu con il compositore Giannis Markopoulos, interpretata soprattutto dalla voce di Nikos Xylouris (e in alcuni brani da Maria Dimitriadi) — tra cui l'album \"Χρονικό\" (1970). Fu autore anche del testo di \"Καφενείον η Ελλάς\". In tempi più recenti collaborò anche con Stamatis Kraounakis, Evanthia Reboutsika, Panagiotis Kalatzopoulos e Kostas Leivadas nell'album \"Χορικά\" (2007).\n\nCome studioso pubblicò diverse opere di saggistica teatrale, tra cui \"Ελληνικό θέατρο\" (1984), \"Οι πλάγιες ερωτήσεις του Πορφύριου\" (1984), \"Τα μετά το θέατρο\" (1985, Primo Premio Statale di Saggistica), \"Προσωπολατρία\" (1992), \"Θίασος Ποικιλιών\" (1993), \"Το νήμα της στάθμης\" (1996).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/gheorgu.jpg",
+      "roles": [
+        "at"
       ]
     }
   ]
