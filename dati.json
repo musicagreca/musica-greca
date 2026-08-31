@@ -1,8 +1,133 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-30T17:52:08.259Z",
+  "exportedAt": "2026-08-31T06:22:25.450Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788157279139",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργος Σαρρής",
+          "year": "1983",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ni87KdJ_hPQ&list=PLfHw9FlKF1q8-ViwTM9QUcQrsIZhLH10f"
+        }
+      ],
+      "date": "2026-08-31",
+      "tgr": "Οι νταλίκες",
+      "tit": "I dalìkes",
+      "alias": "Με τα φώτα νυσταγμένα",
+      "at": "Μανώλης Ρασούλης",
+      "am": "Χρήστος Νικολόπουλος",
+      "yr": "1982",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm      LAm      REm\nΜε τα φώτα νυσταγμένα και βαριά\nSOLm            LA\nτριγυρνάνε οι νταλίκες στην Αθήνα\nSOLm      RE      SOLm\nΣτα λιμάνια, στους σταθμούς, στην αγορά\nDO      REm\nό,τι ψάχνεις στη ζωή να βρεις, ξεκίνα\n\nLA#      SOLm      LAm\nΣ' έχω δει πολλές φορές να τριγυρνάς\nSOLm      DO      FA      REm\nστο λαβύρινθο της πόλης σα χαμένος\nLA#      SOLm      LAm\nΤο σακάκι σου στον ώμο να κρατάς\nLA      REm\nκαι όλους όσους δε θυμούνται φορτωμένος\n\nREm      LAm      REm\nΣα σκηνές από ταινία προσεχώς\nSOLm            LA\nμοιάζεις μέσα στις στροφές αυτού του νόστου\nSOLm      RE      SOLm\nΔυο γενιές χαμένες πίσω δυστυχώς\nDO      REm\nκι η Αθήνα μια μητρόπολη του νότου\n\nLA#      SOLm      LAm\nΣ' έχω δει πολλές φορές να τριγυρνάς\nSOLm      DO      FA      REm\nστο λαβύρινθο της πόλης σα χαμένος\nLA#      SOLm      LAm\nΤο σακάκι σου στον ώμο να κρατάς\nLA      REm\nκαι όλους όσους δε θυμούνται φορτωμένος",
+      "tr": "I dalìkes\n\nMe ta fόta nistaghména ke variá\ntrighirnáne i ndalíkes stin Athína\nSta limánia, stus stathmús, stin aghorá\nόti psáchnis sti zoí na vris, ksekína\n\nS'écho di polés forés na trighirnás\nsto lavírintho tis pόlis sa chaménos\nTo sakáki su ston όmo na kratás\nke όlus όsus de thimúnde fortoménos\n\nSa skinés apό tenía prosechόs\nmiázis mésa stis strofés aftú tu nόstu\nDío yenés chaménes píso distichόs\nki i Athína mia mitrόpoli tu nόtu\n\nS'écho di polés forés na trighirnás\nsto lavírintho tis pόlis sa chaménos\nTo sakáki su ston όmo na kratás\nke όlus όsus de thimúnde fortoménos",
+      "ti": "I camion\n\nCon le luci assonnate e pesanti\ngirano i camion per Atene\nnei porti, nelle stazioni, al mercato\nqualunque cosa cerchi nella vita, inizia da lì\n\nTi ho visto tante volte aggirarti\nnel labirinto della città come uno smarrito\ntenendo la giacca sulla spalla\ne carico di tutti quelli che non ricordano\n\nCome scene da un film \"prossimamente\"\nassomigli, dentro le strofe di questo ritorno\ndue generazioni perdute alle spalle, purtroppo\ne Atene, una metropoli del sud\n\nTi ho visto tante volte aggirarti\nnel labirinto della città come uno smarrito\ntenendo la giacca sulla spalla\ne carico di tutti quelli che non ricordano\n\nNote:\n\nνταλίκα — camion/autoarticolato, immagine del traffico merci notturno della città\nνόστος — termine colto/poetico per \"ritorno\" (dal greco antico, alla base della parola \"nostalgia\"), qui usato per indicare un ritorno esistenziale/generazionale, non solo fisico",
+      "no": ""
+    },
+    {
+      "id": "s_1788155916775",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Πρόδρομος Τσαουσάκης, Ρένα Ντάλια, Αθανάσιος Γιαννόπουλος",
+          "year": "1950",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=oiaHSl_YwOc"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης, Πόλυ Πάνου",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ppys3yYBK6M"
+        }
+      ],
+      "date": "2026-08-31",
+      "tgr": "Όμορφη Θεσσαλονίκη",
+      "tit": "Omorfi Thessalonìki",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1950",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm              LA#       LA\nΕίσαι το καμάρι της καρδιάς μου\nSOLm                    REm\nΘεσσαλονίκη όμορφη γλυκιά\nSOLm                           REm\nΚι αν ζω στην ξελογιάστρα την Αθήνα\nLA                       REm\nγια σένα τραγουδώ κάθε βραδιά\n\nRE      SI      MIm    SOL    RE\nΩ, ω, ω, ω, όμορφη Θεσσαλονίκη\nRE      SI      MIm    SOL    LA    RE\nΩ, ω, ω, ω, τα μαγικά σου βράδια νοσταλγώ\n\nREm      LA#             LA\nΜέσα στα στενά σου τα σοκάκια\nSOLm                  REm\nέζησα τις πιο γλυκές στιγμές\nSOLm                      REm\nΚαντάδες χίλιες νύχτες έχω κάνει\nLA                          REm\nγια όλες τις μποέμικες καρδιές\n\nRE      SI      MIm    SOL    RE\nΩ, ω, ω, ω, όμορφη Θεσσαλονίκη\nRE      SI      MIm    SOL    LA    RE\nΩ, ω, ω, ω, τα μαγικά σου βράδια νοσταλγώ\n\nREm               LA#          LA\nΠάντα με κρατάς στην αγκαλιά σου\nSOLm               REm\nΠάντα σε θυμάμαι και πονώ\nSOLm                         REm\nΚι αν είμαι τώρα λίγο μακριά σου\nLA                        REm\nμε τον καιρό κοντά σου θα βρεθώ\n\nRE      SI      MIm    SOL    RE\nΩ, ω, ω, ω, όμορφη Θεσσαλονίκη\nRE      SI      MIm    SOL    LA    RE\nΩ, ω, ω, ω, τα μαγικά σου βράδια νοσταλγώ",
+      "tr": "Omorfi Thessalonìki\n\nÍse to kamári tis kardiás mu\nThesaloníki όmorfi ghlikiá\nKi an zo stin kseloyiástra tin Athína\ngia séna traghudó káthe vradiá\n\nO, o, o, o, όmorfi Thesaloníki\nO, o, o, o, ta maghiká su vrádia nostalghό\n\nMésa sta stená su ta sokákia\nézisa tis pio ghlikés stighmés\nKandádes chílies níchtes écho káni\ngia όles tis boémikes kardiés\n\nO, o, o, o, όmorfi Thesaloníki\nO, o, o, o, ta maghiká su vrádia nostalghό\n\nPánda me kratás stin anghaliá su\nPánda se thimáme ke ponó\nKi an íme tόra lígho makriá su\nme ton kerό kondá su tha vrethό\n\nO, o, o, o, όmorfi Thesaloníki\nO, o, o, o, ta maghiká su vrádia nostalghό",
+      "ti": "Bella Salonicco\n\nSei l'orgoglio del mio cuore\nSalonicco bella e dolce\ne anche se vivo nella seducente Atene\nper te canto ogni sera\n\nOh, oh, oh, oh, bella Salonicco\noh, oh, oh, oh, ho nostalgia delle tue notti magiche\n\nDentro i tuoi stretti vicoli\nho vissuto i momenti più dolci\nmille notti ho fatto serenate\nper tutti i cuori bohémien\n\nOh, oh, oh, oh, bella Salonicco\noh, oh, oh, oh, ho nostalgia delle tue notti magiche\n\nSempre mi tieni tra le tue braccia\nsempre ti ricordo e soffro\ne se ora sono un po' lontano da te\ncol tempo tornerò vicino a te\n\nOh, oh, oh, oh, bella Salonicco\noh, oh, oh, oh, ho nostalgia delle tue notti magiche\n\nNote:\n\nξελογιάστρα — seducente/che fa perdere la testa, già incontrato in altre canzoni riferito alla notte; qui riferito ad Atene, in contrapposizione romantica a Salonicco\nκαντάδα — serenata (italianismo, da \"canzonetta/cantata\")\nμποέμικος — bohémien, dallo stile di vita artistico e anticonformista",
+      "no": "Tsitsanis, pur essendo originario di Trikala, visse a Salonicco durante gli anni drammatici dell'occupazione nazista (dal 1938 al 1946), dove aprì una celebre taverna (l'Ouzeri Tsitsanis). Lì compose gran parte delle sue opere migliori. \"Omorfi Thessaloniki\" nasce come un vero e proprio inno di profonda nostalgia scritto quando il compositore era già tornato a vivere ad Atene, in cui confessa che, nonostante si trovi nella capitale \"ammaliatrice\", il suo cuore batte e canta ogni sera solo per le notti magiche e i vicoli di Salonicco."
+    },
+    {
+      "id": "s_1788154001294",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-08-31",
+      "tgr": "Ο μαχαραγιάς",
+      "tit": "O macharaghiás",
+      "alias": "",
+      "at": "Νίκος Γκούμας",
+      "am": "Σταύρος Τζουανάκος",
+      "yr": "1952",
+      "ar": "Σταύρος Τζουανάκος, Ρένα Στάμου",
+      "lb": "Columbia DG 6953",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=ZBa5NLMrYFY",
+      "li": "",
+      "ch": "LAm            SOL      LAm\nΟ μαχαραγιάς βγαίνει σεργιάνι\nREm      LAm      LAm    REm    LAm\nΜε νταούλια και βιολιά\nLAm            SOL      LAm\nΘα σκορπίσει για να κάνει κέφι\nREm      LAm      LAm    REm    LAm\nΛίρες και φλουριά\n\nSOL\nΛάμπει στα διαμάντια \nREm\nΑστράφτει στα μπριλάντια \nMI          LAm\nΟ μαχααααραγιάς \nSOL\nΛάμπει στα διαμάντια \nREm\nΑστράφτει στα μπριλάντια \nMI          LAm\nΟ μαχααααραγιάς\n\nLAm    MIbdim7    REm      LAm\nΟοοοοοοο, οοοοοοο O μαχαραγιάς \nLAm    MIbdim7    REm      LAm\nΟοοοοοοο, οοοοοοο O μαχαραγιάς\n\nLAm            SOL      LAm\nΤο λαχταριστό γυμνό χαρέμι\nREm      LAm      LAm    REm    LAm\nΜπρος του σαν περνά\nLAm            SOL      LAm\nΑναστέναξε και σιγοτρέμει\nREm      LAm      LAm    REm    LAm\nΚαι τον προσκυνά\n\nSOL\nΚι όλος ασικλίκι \nREm\nΚουνάει το σαρίκι \nMI          LAm\nΟ μαχαραγιάς\nSOL\nΚι όλος ασικλίκι \nREm\nΚουνάει το σαρίκι \nMI          LAm\nΟ μαχαραγιάς \n\nLAm    MIbdim7    REm      LAm\nΟοο, ο μαχαραγιάς, οοο, ο μαχαραγιάς\n\nSOL\nΛάμπει στα διαμάντια\nREm\nΑστράφτει στα μπριλάντια\nMI          LAm\nΟ μαχαραγιάς\n\nLAm    MIbdim7    REm      LAm\nΟ μαχαραγιάς",
+      "tr": "O macharaghiás\n\nO macharaghiás vghéni serghiáni\nMe ndaúlia ke violiá\nTha skorpísi gia na káni kéfi\nLíres ke fluriá\n\nLámbi sta diamándia\nAstráfti sta briliándia\nO machaaaaraghiás\n\nOooooooo, ooooooo O macharaghiás\n\nTo lachtaristó ghimnó charémi\nBros tu san perná\nAnasténaxe ke sighotrémi\nKe ton proskiná\n\nKi όlos asiklíki\nKunái to sarίki\nO macharaghiás\n\nOo, o macharaghiás, oo, o macharaghiás\n\nLámbi sta diamándia\nAstráfti sta briliándia\nO macharaghiás\n\nO macharaghiás",
+      "ti": "Il maragià\n\nIl maragià esce a passeggio\ncon tamburi e violini\nspargerà per farsi festa\nlire e monete d'oro\n\nSplende di diamanti\nscintilla di brillanti\nil maraaaragià\n\nOoooooo, ooooooo il maragià\n\nIl desiderabile harem nudo\nquando gli passa davanti\nsospira e trema piano\ne lo venera\n\nE tutto voglioso di piacere\nscuote il turbante\nil maragià\n\nOo, il maragià, oo, il maragià\n\nSplende di diamanti\nscintilla di brillanti\nil maragià\n\nIl maragià\n\nNote:\n\nμαχαραγιάς — maragià\nασικλίκι — dal turco \"aşıklık\" (l'essere innamorato/pieno di desiderio amoroso), qui reso come \"voglioso di piacere\"\nσαρίκι — turbante (turchismo)",
+      "no": ""
+    },
+    {
+      "id": "s_1788151874230",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Magic De Spell",
+          "year": "1993",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Pm8fURpYRpk"
+        },
+        {
+          "who": "Γιώργος Ζαμπέτας",
+          "year": "1964",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=uCtpb-ESY1Q"
+        }
+      ],
+      "date": "2026-08-31",
+      "tgr": "Ο μαθητής",
+      "tit": "O mathitìs",
+      "alias": "Ο πιο καλός ο μαθητής",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Γιώργος Ζαμπέτας",
+      "yr": "1961",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "ll": "",
+      "li": "",
+      "ch": "SOL                                    RE\nΈνα καιρό που μ' έστελνε η μάνα μου σχολείο\nRE                    SOL      RE   SOL      RE \nΚι ο δάσκαλός μου μ' έβαζε στο πρώτο το θρανίο\n\nSOL                                    RE\nΟ πιο καλός ο μαθητής ήμουν εγώ στην τάξη\nRE                    SOL      RE   SOL      RE \nΚι οι δάσκαλοί μου μ' είχανε μη βρέξει και μη στάξει\n\nSOL                                    RE\nΠάντοτε στο τετράδιο βαθμό έπαιρνα δέκα\nRE                    SOL      RE   SOL      RE \nΚι αν στη ζωή πήρα μηδέν, τα φταίει μια γυναίκα\n\nSOL                                    RE\nΟ πιο καλός ο μαθητής ήμουν εγώ στην τάξη\nRE                    SOL      RE   SOL      RE \nΚι οι δάσκαλοί μου μ' είχανε μη βρέξει και μη στάξει\n\nSOL                              RE\nΣτον έλεγχο διαγωγή είχα κοσμιωτάτη\nRE                          SOL\nΚι όμως οι συναναστροφές όλες αυτές, \n SOL              SOL      RE \nΜανόλη μου μου βγάλανε το μάτι\n\nSOL                                    RE\nΟ πιο καλός ο μαθητής ήμουν εγώ στην τάξη\nRE                    SOL      RE   SOL      RE \nΚι οι δάσκαλοί μου μ' είχανε μη βρέξει και μη στάξει",
+      "tr": "O mathitìs\n\nÉna kerό pu m'éstelne i mána mu scholío\nKi o dáskalόs mu m'évaze sto prόto to thranío\n\nO pio kalόs o mathitís ímun eghό stin táksi\nKi i dáskalí mu m'íchane mi vréksi ke mi stáksi\n\nPándote sto tetrádio vathmό épérna déka\nKi an sti zoí píra midén, ta fténi mia yinéka\n\nO pio kalόs o mathitís...\n\nSton élengcho diaghoyí ícha kosmiotáti\nKi όmos i sinanastrofés όles aftés, Manόli mu\nmu vghálane to máti",
+      "ti": "Lo studente\n\nUn tempo, quando mia madre mi mandava a scuola\ne il mio maestro mi metteva al primo banco\n\nEro io il migliore studente della classe\ne i miei maestri mi tenevano al riparo da ogni pioggia (mi coccolavano)\n\nSul quaderno prendevo sempre dieci\ne se nella vita ho preso zero, la colpa è di una donna\n\nEro io il migliore studente...\n\nNella pagella in condotta avevo il voto più esemplare\neppure tutte quelle cattive compagnie, Manolis mio\nmi hanno rovinato\n\nNote:\n\nμη βρέξει και μη στάξει — idiomatico: \"che non piova né goccioli su di lui\", cioè essere trattato con grande cura e protezione, coccolato\nκοσμιωτάτη — superlativo di \"κόσμιος\" (esemplare/di ottimo comportamento)\nμου βγάλανε το μάτι — idiomatico: letteralmente \"mi hanno cavato l'occhio\", nel senso di \"mi hanno rovinato/mi hanno fatto un gran danno\"",
+      "no": ""
+    },
     {
       "id": "s_1788112321435",
       "offsets": {},
@@ -11237,6 +11362,65 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/gheorgu.jpg",
       "roles": [
         "at"
+      ]
+    },
+    {
+      "id": "p_1788152648003",
+      "name": "Νίκος Γκούμας",
+      "nameit": "Níkos Goúmas",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Paroliere, collaboratore abituale del compositore Stavros Tzouanakos nel repertorio laïkó/rembetiko del dopoguerra. Tra i suoi testi più noti, scritti su musica di Tzouanakos: \"Ο μαχαραγιάς\" (1952, prima esecuzione Rena Stamou e Tzouanakos, poi ripreso anche da Babis Golés e Aliki Vougiouklaki), \"Παλιό μεράκι\", \"Σταλαγματιά\".\n\n\"Ο μαχαραγιάς\" appartiene al filone \"orientaleggiante\" della canzone greca del dopoguerra, con la sua immaginario esotico da corte indiana — diamanti, harem, sultani con turbanti (\"σαρίκι\") — molto simile per spirito a brani come \"Ο Καϊξής\" e \"Σεράχ\".\n\nNota: non è stato possibile reperire data/luogo di nascita o morte — resta una figura documentata principalmente attraverso la sua collaborazione discografica con Tzouanakos.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1788153614775",
+      "name": "Σταύρος Τζουανάκος",
+      "nameit": "Stávros Tzouanákos",
+      "born": "14 agosto 1925, Pireo",
+      "died": "17 dicembre 1974, Florida (USA)",
+      "bio": "Figlio di Thanasis Manatis e di Eleni Georgakopoulou (di origini maniate/kyparissiote)\n\nNato da famiglia povera, mostrò fin da piccolissimo un'inclinazione per la musica, ma per le difficoltà economiche familiari ottenne il suo primo strumento — una chitarra — solo in adolescenza. Autodidatta, imparò rapidamente a suonare bene, per poi passare al bouzuki a tre corde, strumento in cui si perfezionò. Fu costretto fin da giovanissimo a lavorare per aiutare economicamente la famiglia.  Impara un po' l'arte dell'orafo che lavora in un negozio di Omonia, nell'orafo del suo padrino e zio, ma faceva principalmente lavori ausiliari. Allo stesso tempo, va a scuola nel Pireo e finisce con mille difficoltà la notte Gymnasium (otto gradi allora). Allo stesso tempo, nella sua adolescenza, impara l'arte dell'idraulico, che da allora ha praticato durante i difficili periodi della sua vita, insieme al suo impiego come musicista e cantante. \nNel 1956 incontrò la sua futura moglie Maria-Rita Binopoulou, sorella della nota attrice Anna Gal, che era la moglie di Marios Dalezios, nota proprietaria del noto centro-cafè popolare a 8 Ionos Street (che era il ritrovo dei più grandi artisti folk dell'epoca). La loro conoscenza ebbe luogo nel famoso \"Triana\" di Heilas, a Syggrou, che fu allora il primo negozio popolare di Atene e Stavros Tzounakos apparve lì con la sua band popolare nel periodo 1955 - 1956. I due giovani, Stavros e Maria, si innamorano dei fulmini e si sposano nel 1957.\n\nNello stesso anno, Stavros sta facendo il suo primo breve viaggio artistico in America, dove è apparso nei centri di intrattenimento greci \"New Life\", \"Club Astor\", \"Zorba\" e \"Giardino di Allah\" e ha collaborato lì con altri musicisti e cantanti emigrati greci come, Yannis Tatasopoulos, Marika Ninou, Kostas Kaplanis, ecc.\nTorna in Grecia e impressionato da questo viaggio decide con la moglie di emigrare per un'installazione definitiva  in America, nel 1958.\nNei 16 anni d’America (1958 – 1974) Stavros Tzouanakos ha lavorato come cantante e musicista essenzialmente in tre centri di intrattenimento, in tre città. Due anni a New York, altri due a Detroit e dodici in California.\nNello stesso periodo, ha registrato nuove canzoni originali, così come riesecuzioni di canzoni ben note e altri compositori, nelle case discografiche americane BALKAN, TITAN, UNITED ARTIST, ASTRO, EUROTONE, ecc.\nNel 1973 torna per l'ultima volta in Grecia e registra alla compagnia STANDARD l'LP \"TZOUANAKOS: I migliori successi\" con riesecuzioni delle sue migliori canzoni e con i bouzoukis Christos Nikolopoulos e Giannis Palaiologos. L'album è stato pubblicato nel 1974.\nLa sua vita finisce improvvisamente con un attacco di cuore in un hotel della Florida in cui alloggiava e dove era andato per qualche lavoro.\n\nConsiderato un esempio perfetto di creatore completo: compositore, paroliere, cantante e strumentista allo stesso tempo. Nel periodo tra il 1948 e il 1964 regalò al rembetiko e al laïkó circa 100 belle canzoni di grande successo. Appartiene all'ultima \"generazione\" dei creatori del rembetiko più recente (insieme a Christos Argyropoulos, N. Meimaris, Christos Kolokotronis e altri, come già visto). Un critico lo descrive come una delle prime cinque voci maschili del rembetiko genuino del dopoguerra, per la sua voce genuinamente rembetiko, espressiva e \"nostalgica\" (νταλγκαδιάρικη), capace di \"toccare il cuore\".\n\nFu autore/interprete di brani noti come \"Ο μαχαραγιάς\" (testo Nikos Goumas), \"Παλιό μεράκι\", \"Σταλαγματιά\", oltre a innumerevoli altri con vari parolieri (Kostas Virvos, Kostas Kofiniotis, Nikos Routsos, tra gli altri).\n\nEbbe due figli, nel 1958 il primogenito Thanasis, nel 1964 la figlia Ioanna — entrambi rimasti a vivere in America. La piccola Ioanna, a soli 10 anni, cantò con lui nell'ultima canzone della sua carriera, \"Δεν είμ' ο Σταύρος σου που αγαπάς\" (1974), insieme a Maria Flori — poco prima della sua morte, avvenuta lontano dalla Grecia, in Florida.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/tzouanakos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788156456702",
+      "name": "Χρήστος Νικολόπουλος",
+      "nameit": "Christos Nikolopoulos",
+      "born": "11 luglio 1947, Kapsochori (Imathia).",
+      "died": "",
+      "bio": "La sua famiglia non aveva le risorse finanziarie necessarie per i suoi studi. L'occupazione con qualcosa di professionale intorno alla musica, come la sua famiglia era già coinvolto in esso, sembrava essere una strada a senso unico per Christos Nikolopoulos fin dalla sua giovane età. Per motivi di sostentamento e per aiutare la sua famiglia povera, è stato coinvolto professionalmente giocando in tutta la regione della sua patria, in club, festival, matrimoni, fiere, ecc. Nel 1963, all’età di sedici anni, con il desiderio del padre come unico mezzo di sostegno, arrivò ad Atene. Su Veranzerou Street e Satovriandou Street in Omonia c’era il “Cafè dei Musicisti”. Lì incontrò musicisti che lo aiutarono a suonare su dischi di piccole etichette. Stelios Zafiriou, un virtuoso bouzouki, lo ha ascoltato e ha suggerito che suonassero insieme sulle registrazioni per etichette più grandi. Ben presto Christos Nikolopoulos cominciò a diventare più famoso e molte persone parlarono del suo “grande talento musicale”, elogiando la sua modestia allo stesso tempo. Nel 1964 ha lavorato per una stagione in cui Manolis Angelopoulos, che è stato descritto come un grande cantante di quel periodo, stava cantando. Nel 1965, il musicista Petros Iatrou lo presentò a Stelios Kazantzidis, con cui lavorò durante gli ultimi anni di esibizioni di Kazantzidis (1965-1966). Sono andati in tournée in America, Germania e in tutta la Grecia. Stelios Kazantzidis nella primavera del 1966 si ritirò dai club e da allora non apparve più (solo molto più tardi e simbolicamente ora). Più tardi e nonostante le buone relazioni che i due uomini avevano in passato, c'era una disputa tra loro sulla paternità di alcune canzoni, che era ampiamente coperta dai media di quel tempo. Christos Nikolopoulos ha continuato la sua carriera in modo autonomo, ha incontrato e lavorato con quasi tutti i ripetitori dell'epoca (Vassilis Tsitsanis, Giannis Papaioannou, Giorgos Kyriazis, Markos Vamvakaris, Stavros Kouyoumtzis). Nel 1968 inizia a scrivere le sue canzoni. Nel periodo 1969-70 Manolis Chiotis collaborava e lo aiutava molto nei suoi studi musicali. Come menziona regolarmente Christos Nikolopoulos, “Con Manolis Chiotis è stato come se avessi conseguito un diploma post-laurea con lui”. È ampiamente noto che almeno i vecchi virtuosi di bouzouki avevano Manolis Chiotis come idolo e Manolis Chiotis si espresse nei migliori termini su Christos Nikolopoulos. Christos Nikolopoulos è stato anche uno stretto collaboratore con George Zambetas e anche in una dedica George Zambetas lo chiama suo “figlio”. Christos Nikolopoulos da almeno 40 anni ha suonato con i suoi bouzouki una parte molto grande della discografia greca (alcuni contributori musicali la stimano all'80% nel campo della musica popolare) e ha anche composto, un lavoro molto scrupoloso per un musicista.\n\nNel dicembre 2005 Christos Nikolopoulos ha pubblicato la colonna sonora della nota serie tv “Il lago dei sospiri”. L’album comprende 18 brani, alcuni dei quali orchestrali, con la firma musicale di Christos Nikolopoulos e suo figlio Vassilis Nikolopoulos, in due di loro (“On the Opposite Shore”, “Morning Ride”), mentre i testi sono curati da Philippos Grapsas. Le canzoni sono eseguite da Maria Spyropoulou.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/nikolopulos.jpg",
+      "roles": [
+        "am"
+      ]
+    },
+    {
+      "id": "p_1788157069483",
+      "name": "Γιώργος Σαρρής",
+      "nameit": "Ghiòrgos Sarrìs",
+      "born": "22 settembre 1948, Tebe",
+      "died": "12 ottobre 2017, Nea Smirni",
+      "bio": "Vero nome Γεώργιος Ρουπάκας\nFratello maggiore di due anni di Charoula Alexiou. Quando era molto piccolo, la sua famiglia si trasferì ad Atene. Nel canto debuttò nel 1973, ma la canzone che lo rese famoso furono le celebri \"Νταλίκες\" (Camion), su musica di Christos Nikolopoulos e testo di Manolis Rasoulis, nel 1982. \nIl compositore Dimos Moutsis, nel 1976, gli attribuì — su sollecitazione della sorella Charoula Alexiou — la musica di tre canzoni che quest'ultima interpretò e che furono incluse nel suo secondo grande disco personale intitolato \"Charis Alexiou 2\", pubblicato quello stesso anno. Ciò avvenne perché Moutsis aveva un contratto in esclusiva con la casa discografica Columbia e non potevano inserire il suo nome.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/sarris.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
