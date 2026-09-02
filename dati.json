@@ -1,8 +1,114 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-31T06:22:25.450Z",
+  "exportedAt": "2026-09-02T07:13:09.831Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788332386483",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-02",
+      "tgr": "Όλοι οι ρεμπέτες του ντουνιά",
+      "tit": "Oli i rebètes tu dunià",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1937",
+      "ar": "Μάρκος Βαμβακάρης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=-K5D_lVMYDE",
+      "li": "",
+      "ch": "REm        LA        REm\nΌλοι οι ρεμπέτες του ντουνιά\nSOLm      LA      REm\nεμένα μ' αγαπούνε\nSOLm      LA      REm\nΜόλις θα μ' αντικρίσουνε \nLA          REm\nθυσία θα γενούνε \nSOLm      LA      REm\nΜόλις θα μ' αντικρίσουνε \nLA          REm\nθυσία θα γενούνε \n\nREm        LA      REm\nΌλοι οι κουτσαβάκηδες\nSOLm      LA      REm\nπου ζούνε στο κουρμπέτι\nSOLm           LA            REm\nκι αυτοί μες στην καρδούλα τους \nLA              REm\nέχουν μεγάλο ντέρτι \nSOLm           LA            REm\nκι αυτοί μες στην καρδούλα τους \nLA              REm\nέχουν μεγάλο ντέρτι\n\nREm        LA      REm\nΕγώ φτωχός γεννήθηκα\nSOLm      LA      REm\nτον κόσμο έχω γνωρίσει\nSOLm            LA         REm\nΜέσα απ' τα φύλλα της καρδιάς \nLA             REm\nεγώ έχω μαρτυρήσει \nSOLm            LA         REm\nΜέσα απ' τα φύλλα της καρδιάς \nLA             REm\nεγώ έχω μαρτυρήσει",
+      "tr": "Oli i rebètes tu dunià\n\nΌli i rebétes tu nduniá\neména m'aghapúne\nMόlis tha m'andikrísune\nthisía tha yenúne\n\nΌli i kutsavákides\npu zúne sto kurbéti\nki aftí mes stin kardúla tus\néchun meghálo ndérti\n\nEghό ftochόs yenníthika\nton kόsmo écho ghnorísi\nMésa ap'ta fίla tis kardiás\neghό écho martirísi",
+      "ti": "Tutti i rebetes del mondo\nmi vogliono bene\nappena mi vedranno\nsi sacrificheranno per me\n\nTutti i \"koutsavakidi\" (spavaldi di strada)\nche vivono in esilio/lontano da casa\nanche loro nel loro cuoricino\nportano una grande pena\n\nIo sono nato povero\nho conosciuto il mondo\ndentro le fibre del cuore\nio ho sofferto molto\n\nNote:\n\nρεμπέτης — figura maschile del rebetiko, uomo di strada libero e anticonformista, già incontrato in \"ρεμπέτισσα\"\nκουτσαβάκης — figura simile al \"μάγκας\", uomo spavaldo e sbruffone dell'Atene di fine '800/inizio '900, spesso con connotazione di bulletto di quartiere\nκουρμπέτι — vita da emigrante/esiliato, il vivere lontano dalla patria (turchismo gergale)\nντέρτι — pena/dolore, già incontrato in altre canzoni\nμαρτυρήσω — qui non nel senso di \"testimoniare\" ma di \"soffrire il martirio\", cioè patire grandi sofferenze",
+      "no": "Quando si dice: troviamoci con gli amici a suonare\nVoce e primo bouzouki Markos Vamvakaris\nSecondo bouzouki Vasilis Tsitsanis molto giovane, agli esordi ad Atene\nBaglamas Stratos Paioumtzis\nChitarra e Direzione d'orchestra: Spiros Peristeris"
+    },
+    {
+      "id": "s_1788330499129",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Τρίο Σαβαρή",
+          "year": "1927",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=yt7Obsi_Ges"
+        },
+        {
+          "who": "Λευτέρης Μενεμενλής",
+          "year": "1926",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=D4vGNUhXp4A"
+        },
+        {
+          "who": "Γιώργος Βιδάλης",
+          "year": "1927",
+          "note": "con altro testo e titolo Ta kommena mallia",
+          "link": "https://www.youtube.com/watch?v=9W_-9Mnx0BA"
+        },
+        {
+          "who": "Ρόζα Εσκενάζυ",
+          "year": "",
+          "note": "anno non indicato ma registrato in tarda età dalla Eskenazi",
+          "link": "https://www.youtube.com/watch?v=FgFiX5-7Vb0"
+        },
+        {
+          "who": "Μαρίκα Παπαγκίκα",
+          "year": "1927",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=6t2SHA8Fr4Y"
+        },
+        {
+          "who": "Νίκος Παπάζογλου",
+          "year": "",
+          "note": "live",
+          "link": "https://www.youtube.com/watch?v=1HQAuHz2Pnk"
+        }
+      ],
+      "date": "2026-09-02",
+      "tgr": "Οι Ψαράδες",
+      "tit": "I psaràdes",
+      "alias": "Σε καινούρια βάρκα μπήκα",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "dr": "",
+      "bal": "Sirtòs",
+      "ll": "",
+      "li": "",
+      "ch": "LAm\nΕεε\nLAm                 MIm\nΣε καινούρια βάρκα μπήκα\nLAm                  MIm\nΣε καινούρια βάρκα μπήκα\nSOL                  MIm\nΣε καινούρια βάρκα μπήκα\nRE      REm      MIm\nκαι στον Αϊ-Γιώργη βγήκα\nRE      REm      MIm\nκαι στον Αϊ-Γιώργη βγήκα\n\nLAm\nΕεε\nLAm                MIm\nΒρήκα ναύτες παλικάρια \nLAm                MIm\nΒρήκα ναύτες παλικάρια \nSOL                  MIm\nΒρήκα ναύτες παλικάρια \nLAm              MIm\nπου ψαρεύανε τα ψάρια \nLAm              MIm\nπου ψαρεύανε τα ψάρια \n\nLAm\nΕεε\nLAm              MIm\nΈχετε ψαράδες ψάρια \nLAm             MIm\nΈχετε ψαράδες ψάρια\nSOL              MIm\nΈχετε ψαράδες ψάρια\nLAm                MIm\nαστακούς και καλαμάρια \nLAm                MIm\nαστακούς και καλαμάρια \n\nLAm\nΕεε\nLAm              MIm\nΈμπα μέσα, διάλεξέ τα \nLAm              MIm\nΈμπα μέσα, διάλεξέ τα \nSOL              MIm\nΈμπα μέσα, διάλεξέ τα \nLAm                    MIm\nκαι στην παλάντζα ζύγισέ τα \nLAm                   MIm\nκαι στην παλάντζα ζύγισέ τα\n\nLAm\nΕεε\nLAm             MIm\nΠάρε βούρλα, περασέ τα \nLAm             MIm\nΠάρε βούρλα, περασέ τα \nSOL              MIm\nΠάρε βούρλα, περασέ τα \nLAm                 MIm\nκι όσο θέλεις πλήρωσέ τα \nLAm                  MIm\nκι όσο θέλεις πλήρωσέ τα\n\nLAm\nΕεε\nLAm                MIm\nΠου να έβρω τόσα βούρλα \nLAm                MIm\nΠου να έβρω τόσα βούρλα \nSOL              MIm\nΠου να έβρω τόσα βούρλα \nLAm               MIm\nΓια να τα πλερώσω ούλα \nLAm             MIm\nΓια να τα πλερώσω ούλα \n\nLAm\nΕεε\nLAm                  MIm\nΚάνε τα μαλλιά σου βούρλα\nLAm                  MIm\nΚάνε τα μαλλιά σου βούρλα\nSOL                MIm\nΚάνε τα μαλλιά σου βούρλα\nLAm                 MIm\nΓια να τα πλερώσεις ούλα\nLAm                 MIm\nΓια να τα πλερώσεις ούλα",
+      "tr": "I psaràdes\n\nEee\nSe kenúria várka bíka\nSe kenúria várka bíka\nSe kenúria várka bíka\nke ston Ai-Yiόrghi vgíka\nke ston Ai-Yiόrghi vgíka\n\nEee\nVríka náftes palikária\npu psarévane ta psária\n\nEee\nÉchete psarádes psária\nastakús ke kalamária\n\nEee\nÉmba mésa, diáleksé ta\nke stin paládza zíyisé ta\n\nEee\nPáre vúrla, perasé ta\nki όso thélis plírosé ta\n\nEee\nPu na évro tόsa vúrla\nGia na ta plerόso úla\n\nEee\nKáne ta maliá su vúrla\nGia na ta plerόsis úla",
+      "ti": "I pescatori\n\nEee\nSono salito su una barca nuova\nsono salito su una barca nuova\nsono salito su una barca nuova\ne sono sbarcato a Ai-Yiorgis\ne sono sbarcato a Ai-Yiorgis\n\nEee\nHo trovato marinai valorosi\nche pescavano i pesci\n\nEee\nAvete, pescatori, pesci\naragoste e calamari?\n\nEee\nEntra dentro, scegliteli\ne sulla bilancia pesali\n\nEee\nPrendi giunchi, infilaceli (come spago per legarli)\ne pagali quanto vuoi\n\nEee\nDove troverò tanti giunchi\nper pagarli tutti\n\nEee\nFai dei tuoi capelli dei giunchi\nper pagarli tutti\n\nNote:\n\nΑϊ-Γιώργης — Sant'Aghia Yioris, comune toponimo greco per chiese/paesi dedicati a San Giorgio\nπαλάντζα — bilancia (turchismo/italianismo, da \"bilancia\")\nβούρλα — giunchi (piante palustri), con doppio senso nella canzone, il primo sono i giunchi usati per il trasporto (un metodo tradizionale, come uno spago naturale che si infilava tra le branchie dei pesci). Il verbo \"βούρλισέ τα\" significa proprio \"infilzali sui giunchi\", il secondo senso è la \"moneta\" scherzosa/improbabile per pagare il pesce, dando il via alla battuta finale sul \"pagare con i capelli fatti a giunchi\" — gioco di parole tipico dei canti popolari con finale a sorpresa scherzosa",
+      "no": "Il brano proviene originariamente dal komidyllio (commedia musicale leggera) \"Η τράτα του Καπετάν Κωνσταντή\" (\"La rete a strascico del Capitan Costantis\"), testo di Ioannis Laios e musica di Ludovikos Spinellis, andato in scena per la prima volta il 3 settembre 1894 al Teatro Tsocha di Atene. La melodia si staccò presto dall'opera originale, diventando una canzone popolare a sé, incisa più volte tra il 1926 e il 1928 sia in Grecia (Atene) che a Costantinopoli e negli Stati Uniti (New York, con Marika Papangika).\n\nIl testo racconta l'incontro scherzoso tra un cliente e dei pescatori: dopo la contrattazione sul pesce, il venditore propone di pagarlo con \"βούρλα\" — i giunchi tradizionalmente usati per infilzare/legare il pesce — scatenando un botta e risposta comico: il cliente si lamenta di non poterne trovare abbastanza per pagare tutto, e il pescatore rilancia invitandolo scherzosamente a trasformarsi i capelli in giunchi (\"κάνε τα μαλλιά σου βούρλα\"). Proprio per questa battuta, alcune incisioni storiche del brano portano il titolo alternativo \"Τα κομμένα μαλλιά\" (\"I capelli tagliati\")."
+    },
+    {
+      "id": "s_1788323631762",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-02",
+      "tgr": "Οι πόνοι της Παναγιάς",
+      "tit": "I pòni tis Panaghiàs",
+      "alias": "",
+      "at": "Κώστας Βάρναλης",
+      "am": "Λουκάς Θάνος",
+      "yr": "1978",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=ExvwQirHaTk",
+      "li": "",
+      "ch": "LAm      MIm      LAm (sol-la-si-do)\nΠού να σε κρύψω, γιόκα μου, να μη σε φτάνουν οι κακοί\nDO      REm (do-si-la-sol) SOL      MI (mi7 do-si-la)\nσε ποιο νησί του ωκεανού, σε πια κορφήν ερημική\nLAm      SOL      DO      SOL      LAm\nΔεν θα σε μάθω να μιλάς και τ' άδικο φωνά--ξεις\nLAm      SOL      DO      SOL      LAm\nξέρω πως θα 'χεις την καρδιά, τόσο καλή, τόσο γλυκή\nSOL      LAm      SOL      LAm      DO      REm      LAm      DO      MIm      LAm\nπου μες στα βρόχια της οργής, ταχιά, ταχιά θε να σπαρά--ξεις\nDO      REm      LAm      DO      MIm      LAm      SOL      MIm      LAm\nταχιά, ταχιά θε να σπαρά---------ξεις\n\nLAm      MIm      LAm\nΣυ θα 'χεις μάτια γαλανά, θα 'χεις κορμάκι τρυφερό\nDO      REm      SOL      MI\nΘα σε φυλάω από ματιά κακή κι από κακό καιρό\nLAm      SOL      DO      SOL      LAm\nΑπό το πρώτο ξάφνιασμα της ξυπνημένης νιότης\nLAm      SOL      DO      SOL      LAm\nδεν είσαι εσύ για μαχητές, δεν είσαι εσύ για το σταυρό\nSOL      LAm      SOL      LAm      DO      REm      LAm      DO      MIm      LAm\nεσύ νοικοκερόπουλο, όχι σκλάβος, όχι σκλάβος ή προδότης\nDO      REm      LAm      DO      MIm      LAm      SOL      MIm      LAm\nόχι σκλάβος, όχι σκλάβος ή προδότης\n\nLAm      MIm      LAm\nΚι αν κάποτε τα φρένα σου, το δίκιο φως της αστραπής\nDO      REm      SOL      MI\nκι αν μια αλήθεια σου χτυπήσουνε, παιδάκι μου να μην τα πεις\nLAm      SOL      DO      SOL      LAm\nθεριά οι ανθρώποι δεν μπορούν το φως να το σηκώσουν\nLAm      SOL      DO      SOL      LAm\nδεν είναι αλήθεια πιο χρυσή σαν την αλήθεια της σιωπής\nSOL      LAm      SOL      LAm      DO      REm      LAm      DO      MIm      LAm\nχίλιες φορές να γεννηθείς, τόσες, τόσες θα σε σταυρώσουν\nDO      REm      LAm      DO      MIm      LAm      SOL      MIm      LAm\nτόσες, τόσες θα σε σταυρώσουν",
+      "tr": "I pòni tis Panaghiàs\n\nPu na se krípso, yόka mu, na mi se ftánun i kakί\nse pio nisί tu okeanú, se pia korfίn erimikί\nDen tha se mátho na miлás ke t'ádiko fonáksis\nkséro pos tha 'chis tin kardiá, tόso kalí, tόso ghlikί\npu mes sta vrόchia tis orghís, tachiá, tachiá the na sparáksis\ntachiá, tachiá the na sparáksis\n\nSi tha 'chis mátia ghalaná, tha 'chis kormáki triferό\nTha se filáo apό matiá kakί ki apό kakό kerό\nApό to prόto ksáfniasma tis ksipiménis niόtis\nden íse esí gia machités, den íse esí gia to stavrό\nesí nikokerόpulo, όchi sklávos, όchi sklávos í prodόtis\nόchi sklávos, όchi sklávos í prodόtis\n\nKi an kápote ta fréna su, to díkio fos tis astrapís\nki an mia alíthia su chtipísune, pediáki mu na min ta pis\ntheriá i ánthropi den borún to fos na to sikόsun\nden íne alíthia pio chrisí san tin alíthia tis siopís\nchílies forés na yenithís, tόses, tόses tha se stavrόsun\ntόses, tόses tha se stavrόsun",
+      "ti": "I dolori della Madonna\n\nDove nasconderti, figlio mio, perché i cattivi non ti raggiungano\nin quale isola dell'oceano, su quale cima solitaria\nNon ti insegnerò a parlare né a gridare contro l'ingiustizia\nso che avrai il cuore così buono, così dolce\nche nelle reti della rabbia, presto, presto ti lacererai\npresto, presto ti lacererai\n\nTu avrai occhi azzurri, avrai un corpicino delicato\nti proteggerò da ogni sguardo cattivo e da ogni tempo avverso\ndal primo risveglio improvviso della giovinezza che si desta\ntu non sei fatto per i combattenti, non sei fatto per la croce\ntu piccolo capofamiglia tranquillo, non schiavo, non schiavo né traditore\nnon schiavo, non schiavo né traditore\n\nE se mai i tuoi freni, la giusta luce del lampo\ne se una tua verità dovesse colpire, bambino mio, non dirla\nle belve, gli uomini, non possono sollevare la luce\nnon c'è verità più dorata della verità del silenzio\nmille volte tu possa rinascere, altrettante volte ti crocifiggeranno\naltrettante volte ti crocifiggeranno\n\nNote:\n\nil testo è tratto da \"Οι πόνοι της Παναγιάς\" (\"I dolori della Madonna\"), parte della raccolta poetica \"Σκλάβοι Πολιορκημένοι\" (1927) di Kostas Varnalis, uno dei maggiori poeti greci del Novecento; segue la tradizione popolare del lamento (μοιρολόι) mettendo in bocca alla Vergine Maria la premonizione del destino del figlio\nβρόχια της οργής — \"le reti della rabbia/dell'ira\", immagine della trappola del mondo violento in cui il figlio innocente resterà impigliato\nνοικοκερόπουλο — diminutivo di \"νοικοκύρης\" (capofamiglia/persona perbene e tranquilla), qui usato per augurare al figlio una vita semplice e pacifica, lontana da eroismi e martirio",
+      "no": ""
+    },
     {
       "id": "s_1788157279139",
       "offsets": {},
@@ -87,7 +193,7 @@
       "bal": "",
       "ll": "https://www.youtube.com/watch?v=ZBa5NLMrYFY",
       "li": "",
-      "ch": "LAm            SOL      LAm\nΟ μαχαραγιάς βγαίνει σεργιάνι\nREm      LAm      LAm    REm    LAm\nΜε νταούλια και βιολιά\nLAm            SOL      LAm\nΘα σκορπίσει για να κάνει κέφι\nREm      LAm      LAm    REm    LAm\nΛίρες και φλουριά\n\nSOL\nΛάμπει στα διαμάντια \nREm\nΑστράφτει στα μπριλάντια \nMI          LAm\nΟ μαχααααραγιάς \nSOL\nΛάμπει στα διαμάντια \nREm\nΑστράφτει στα μπριλάντια \nMI          LAm\nΟ μαχααααραγιάς\n\nLAm    MIbdim7    REm      LAm\nΟοοοοοοο, οοοοοοο O μαχαραγιάς \nLAm    MIbdim7    REm      LAm\nΟοοοοοοο, οοοοοοο O μαχαραγιάς\n\nLAm            SOL      LAm\nΤο λαχταριστό γυμνό χαρέμι\nREm      LAm      LAm    REm    LAm\nΜπρος του σαν περνά\nLAm            SOL      LAm\nΑναστέναξε και σιγοτρέμει\nREm      LAm      LAm    REm    LAm\nΚαι τον προσκυνά\n\nSOL\nΚι όλος ασικλίκι \nREm\nΚουνάει το σαρίκι \nMI          LAm\nΟ μαχαραγιάς\nSOL\nΚι όλος ασικλίκι \nREm\nΚουνάει το σαρίκι \nMI          LAm\nΟ μαχαραγιάς \n\nLAm    MIbdim7    REm      LAm\nΟοο, ο μαχαραγιάς, οοο, ο μαχαραγιάς\n\nSOL\nΛάμπει στα διαμάντια\nREm\nΑστράφτει στα μπριλάντια\nMI          LAm\nΟ μαχαραγιάς\n\nLAm    MIbdim7    REm      LAm\nΟ μαχαραγιάς",
+      "ch": "LAm            SOL      LAm\nΟ μαχαραγιάς βγαίνει σεργιάνι\nREm      LAm      LAm    REm    LAm\nΜε νταούλια και βιολιά\nLAm            SOL      LAm\nΘα σκορπίσει για να κάνει κέφι\nREm      LAm      LAm    REm    LAm\nΛίρες και φλουριά\n\nSOL\nΛάμπει στα διαμάντια \nFA\nΑστράφτει στα μπριλάντια \nMI          LAm\nΟ μαχααααραγιάς \nSOL\nΛάμπει στα διαμάντια \nFA\nΑστράφτει στα μπριλάντια \nMI          LAm\nΟ μαχααααραγιάς\n\nLAm    MIbdim7    REm      LAm\nΟοοοοοοο, οοοοοοο O μαχαραγιάς \nLAm        REm     MI        LAm\nΟοοοοοοο, οοοοοοο O μαχαραγιάς\n\nLAm            SOL      LAm\nΤο λαχταριστό γυμνό χαρέμι\nREm      LAm      LAm    REm    LAm\nΜπρος του σαν περνά\nLAm            SOL      LAm\nΑναστέναξε και σιγοτρέμει\nLAm        REm     MI        LAm\nΚαι τον προσκυνά\n\nSOL\nΚι όλος ασικλίκι \nFA\nΚουνάει το σαρίκι \nMI          LAm\nΟ μαχαραγιάς\nSOL\nΚι όλος ασικλίκι \nFA\nΚουνάει το σαρίκι \nMI        LAm\nΟ μαχαραγιάς \n\nLAm        REm     MI        LAm\nΟοο, ο μαχαραγιάς, οοο, ο μαχαραγιάς\n\nSOL\nΛάμπει στα διαμάντια\nFA\nΑστράφτει στα μπριλάντια\nMI          LAm\nΟ μαχαραγιάς\n\nLAm     REm   MI   LAm\nΟ μαχαραγιάς",
       "tr": "O macharaghiás\n\nO macharaghiás vghéni serghiáni\nMe ndaúlia ke violiá\nTha skorpísi gia na káni kéfi\nLíres ke fluriá\n\nLámbi sta diamándia\nAstráfti sta briliándia\nO machaaaaraghiás\n\nOooooooo, ooooooo O macharaghiás\n\nTo lachtaristó ghimnó charémi\nBros tu san perná\nAnasténaxe ke sighotrémi\nKe ton proskiná\n\nKi όlos asiklíki\nKunái to sarίki\nO macharaghiás\n\nOo, o macharaghiás, oo, o macharaghiás\n\nLámbi sta diamándia\nAstráfti sta briliándia\nO macharaghiás\n\nO macharaghiás",
       "ti": "Il maragià\n\nIl maragià esce a passeggio\ncon tamburi e violini\nspargerà per farsi festa\nlire e monete d'oro\n\nSplende di diamanti\nscintilla di brillanti\nil maraaaragià\n\nOoooooo, ooooooo il maragià\n\nIl desiderabile harem nudo\nquando gli passa davanti\nsospira e trema piano\ne lo venera\n\nE tutto voglioso di piacere\nscuote il turbante\nil maragià\n\nOo, il maragià, oo, il maragià\n\nSplende di diamanti\nscintilla di brillanti\nil maragià\n\nIl maragià\n\nNote:\n\nμαχαραγιάς — maragià\nασικλίκι — dal turco \"aşıklık\" (l'essere innamorato/pieno di desiderio amoroso), qui reso come \"voglioso di piacere\"\nσαρίκι — turbante (turchismo)",
       "no": ""
@@ -11419,6 +11525,20 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/sarris.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788328742064",
+      "name": "Τρίο Σαβαρή",
+      "nameit": "Trio Savarì",
+      "born": "",
+      "died": "",
+      "bio": "Composto da:\n\nΓιώργος Σαβαρής (Giórgos Savarís)\nΤζον Μηλιάρης (John Miliáris)\nΛουσιέν Μηλιάρης (Lucien/Loukianós Miliáris)\n\nTrio vocale attivo tra il 1927 e il 1929, con incisioni per Columbia sia ad Atene che a Milano. Il loro repertorio spaziava tra generi diversi dell'epoca: tango, fox-trot, canzoni popolari e brani più \"colti\" (musica su poesia, romanze). Tra le loro incisioni: \"Λησμόνησε\" (tango, Milano 1927), \"Πιφ παφ πουφ\" (fox, Atene 1927), \"Έλα μαζί\" (barcarola su testo del poeta Georgios Drosinis, musica di P.D. Tsabounaris), \"Τα νιάτα φεύγουν\" (Atene 1929, con coro), oltre alla loro versione di \"Οι ψαράδες\" (1927).\n\nGiorgos Savaris e Τζον (John) Μηλιάρης risultano anche attivi singolarmente nel repertorio legato al grande Attik, tra le voci storiche delle sue incisioni (1926-1956) — es. \"Το Φαληράκι\" (Savaris) e \"Τα νιάτα\" (John Miliaris).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/triosavari.jpg",
       "roles": [
         "ar"
       ]
