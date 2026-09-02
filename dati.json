@@ -1,8 +1,73 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-02T07:13:09.831Z",
+  "exportedAt": "2026-09-02T12:45:58.382Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788352202378",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Λάκης Χαλκιάς",
+          "year": "1977",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=qy_egkQGRZc"
+        },
+        {
+          "who": "Ειρήνη Παπά",
+          "year": "1979",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ST96IThUphs"
+        },
+        {
+          "who": "Τζίμης Πανούσης",
+          "year": "2012",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=4Jnq1Fe5ums"
+        }
+      ],
+      "date": "2026-09-02",
+      "tgr": "Ο Μενούσης",
+      "tit": "O menùsis",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò Epiro",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "SOL                   LAm      MIm     RE\nΟ Μενούσης, ο Μπιρμπίλης κι ο Ρεσουλ-Αγάς\nDO          REm              DO           REm\nσε κρασοπουλειό πηγαίναν για να φαν, να πιουν\n\nSOL                   LAm      MIm         RE\nΚει που τρώγαν, κει που πίναν, κει που γλένταγαν\nDO          REm        DO           REm\nκάπως πέσαν σε κουβέντα για τις όμορφες\n\nSOL               LAm      MIm         RE\nΌμορφη γυναίκα που 'χεις, βρε Μενούσ'-Αγά\nDO          REm              DO           REm\nΠού την είδες, πού την ξέρεις και τη μολογάς\n\nSOL               LAm      MIm         RE\nΧθες την είδα στο πηγάδι που 'παιρνε νερό\nDO          REm           DO           REm\nκαι τής δίνω το μαντήλι και μου το 'πλυνε\n\nSOL                   LAm      MIm         RE\nΣαν την είδες, σαν την ξέρεις, πες μας τι φορεί\nDO      REm         DO         REm\nΆσπρο φερετζέ φορούσε, κόκκινη ποδιά\n\nSOL                   LAm      MIm         RE\nκαι τριγύρω στον λαιμό της κίτρινα φλουριά\nDO        REm         DO         REm\nκαι ανάμεσα στα στήθια είχε μιαν ελιά\n\nSOL            LAm      MIm         RE\nΟ Μενούσης μεθυσμένος, πάει την έσφαξε\nDO        REm        DO         REm\nτο πρωί ξεμεθυσμένος, πάει την έκλαψε\n\nSOL                   LAm      MIm         RE\nΣήκω πάπια μ', σήκω χήνα μ', σήκω πέρδικά μ'\nDO          REm         DO           REm\nσήκω λούσου και χτενίσου κι έμπα στο χορό\n\nSOL               LAm      MIm         RE\nΝα σε δουν τα παλικάρια, να μαραίνονται\nDO         REm           DO           REm\nνα σε δω κι εγώ ο καημένος και να χαίρομαι",
+      "tr": "O Menúsis, o Birbílis ki o Resúl-Aghás\nse krasopuliό pighénan gia na fan, na piun\n\nKí pu trόghan, kí pu pínan, kí pu ghlédaghan\nkápos pésan se kuvénda gia tis όmorfes\n\nΌmorfi ghinéka pu 'chis, vre Menús'-Aghá\nPu tin ídes, pu tin kséris ke ti mologhás\n\nChthes tin ída sto pighádi pu 'perne nerό\nke tis díno to mandíli ke mu to 'plene\n\nSan tin ídes, san tin kséris, pes mas ti forí\nÁspro feretzé forúse, kόkini podiá\n\nke trighíro ston lemό tis kítrina fluriá\nke anámesa sta stíthia íche mian eliá\n\nO Menúsis methisménos, pái tin ésfakse\nto proí ksemethisménos, pái tin éklapse\n\nSíko pápia m', síko chína m', síko pérdika m'\nsíko lúsu ke chtenísu ki émba sto chorό\n\nNa se dun ta palikária, na maréinonde\nna se do ki eghό o kaiménos ke na chiérome",
+      "ti": "Menousis\n\nMenousis, Birbilis e Resoul-Agàs\nandavano in una taverna a mangiare, a bere\n\nLà dove mangiavano, là dove bevevano,\nlà dove facevano festa\nin qualche modo caddero a parlare delle belle donne\n\n\"Che bella moglie hai, ehi signor Menousis\ndove l'hai vista, dove la conosci, che ne parli così?\"\n\n\"Ieri l'ho vista al pozzo mentre prendeva acqua\ne le do il mio fazzoletto e lei me lo lava\"\n\n\"Dato che l'hai vista, dato che la conosci, \ndicci come è vestita\"\n\"Portava un velo bianco, un grembiule rosso\n\ne intorno al collo monete d'oro\ne tra il petto aveva un neo\"\n\nMenousis, ubriaco, va e la sgozza\nil mattino, sobrio, va e la piange\n\n\"Alzati, papera mia, alzati, oca mia, alzati, pernice mia\nalzati, lavati e pettinati ed entra nel ballo\n\nche ti vedano i giovani coraggiosi, \ne si strugga​no (di desiderio/dolore)\nche ti veda anch'io, il misero, e possa gioirne\"\n\nNote:\n\nφερετζές — velo tradizionale islamico, già incontrato in \"Θέλω να γίνω μπουφετζής\"\nελιά — qui un neo sulla pelle, immagine già incontrata in altre canzoni\nil vezzeggiativo finale (\"papera, oca, pernice mia\") rivolto alla moglie ormai morta è tipico stilema dei canti popolari greci, che intensifica il dolore/rimpianto tramite immagini della natura, nonostante l'assurdità della richiesta rivolta a chi non può più rialzarsi\ncome approfondito in precedenza, la canzone è basata su una storia vera dell'epoca della Turcocrazia, e il verso finale (\"che ti vedano i giovani struggersi, che ti veda anch'io per gioirne\") è l'espressione più celebre e citata dell'intero canto, spesso ripresa isolatamente nella cultura popolare greca",
+      "no": "[[2026-08-20|leggi la storia di Menussis]]"
+    },
+    {
+      "id": "s_1788336805034",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-02",
+      "tgr": "Ο μαρμαρωμένος βασιλιάς",
+      "tit": "O marmaromènos vasiliàs",
+      "alias": "",
+      "at": "Πυθαγόρας",
+      "am": "Απόστολος Καλδάρας",
+      "yr": "1972",
+      "ar": "Χάρις Αλεξίου",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=iG7IA5LLExI",
+      "li": "",
+      "ch": "LAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nπου λένε τα γραμμένα\nLAm      REm      SOL\nΤο 'να σκοτώθηκε, τ' άλλο λαβώθηκε\nLAm\nδεν γύρισε κανένα\nLAm      REm      SOL\nΤο 'να σκοτώθηκε, τ' άλλο λαβώθηκε\nLAm\nδεν γύρισε κανένα\nLAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nπου λένε τα γραμμένα\n\nLAm      MIm\nΓια το μαρμαρωμένο βασιλιά\nMIm      LAm\nούτε φωνή, ούτε λαλιά\nLAm      MIm\nΤον τραγουδάει όμως στα παιδιά\nMIm      MI7\nσαν παραμύθι η γιαγιά\n\nLAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nπου λένε τα γραμμένα...\n\nLAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nδυο πετροχελιδόνια\nLAm      REm      SOL\nΜα εκεί εμείνανε κι όνειρο γίνανε\nLAm\nκαι δακρυσμένα χρόνια\nLAm      REm      SOL\nΜα εκεί εμείνανε...\n\nLAm      MIm\nΓια το μαρμαρωμένο βασιλιά...\n\nLAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nδυο πετροχελιδόνια...",
+      "tr": "O marmaromènos vasiliàs\n\nÉsteila dío pulyά stin kόkini Miliá\npu léne ta ghraména\nTo 'na skotόthike, t'álo lavόthike\nden ghίrise kanéna\nTo 'na skotόthike, t'álo lavόthike\nden ghίrise kanéna\nÉsteila dío pulyά stin kόkini Miliá\npu léne ta ghraména\n\nGia to marmaroméno vasiliá\núte foní, úte laliá\nTon traghudái όmos sta pediá\nsan paramíthi i yiayiá\n\nÉsteila dío pulyά stin kόkini Miliá\npu léne ta ghraména...\n\nÉsteila dío pulyά stin kόkini Miliá\ndío petrochelidόnia\nMa ekí eμίnane ki όniro yίnane\nke dakrisména chrόnia\nMa ekí eμίnane...\n\nGia to marmaroméno vasiliá...\n\nÉsteila dío pulyά stin kόkini Miliá\ndío petrochelidόnia...",
+      "ti": "Il re di marmo\n\nHo mandato due uccelli verso la Mela Rossa\ncome dice il destino scritto\nuno è morto, l'altro è stato ferito\nnessuno dei due è tornato\nuno è morto, l'altro è stato ferito\nnessuno dei due è tornato\nho mandato due uccelli verso la Mela Rossa\ncome dice il destino scritto\n\nDel re di marmo\nnon c'è né voce né parola\nlo canta però ai bambini\ncome una favola la nonna\n\nHo mandato due uccelli verso la Mela Rossa\ncome dice il destino scritto...\n\nHo mandato due uccelli verso la Mela Rossa\ndue rondini di pietra\nma là sono rimasti e sono diventati un sogno\ne anni pieni di lacrime\nma là sono rimasti...\n\nDel re di marmo...\n\nHo mandato due uccelli verso la Mela Rossa\ndue rondini di pietra...\n\nNote:\n\nτα γραμμένα — \"le cose scritte\", cioè il destino/fato prestabilito (espressione idiomatica popolare)\nπετροχελιδόνι — letteralmente \"rondine di pietra\" (topino/balestruccio), qui scelto probabilmente anche per l'assonanza poetica con la pietra/marmo del re",
+      "no": "Quando Costantinopoli cadde in mano ottomana il 29 maggio 1453, l'ultimo imperatore bizantino, Costantino XI Paleologo, morì combattendo alle porte della città. Ma la tradizione popolare greca non si è mai rassegnata a quella fine: secondo la leggenda, un angelo lo salvò all'ultimo istante, trasformandolo in marmo e nascondendolo in una grotta segreta vicino alla Porta d'Oro di Costantinopoli — pronto a risvegliarsi un giorno, riprendere la spada, e liberare la città per restituirla ai greci.\n\nLa \"Κόκκινη Μηλιά\" (Mela Rossa) citata nella canzone è un altro luogo leggendario del folklore greco: una terra ai confini estremi del mondo, simbolo di un destino lontano e forse irraggiungibile — qui, gli uccelli mandati a cercare notizie del re non tornano mai."
+    },
     {
       "id": "s_1788332386483",
       "offsets": {},
@@ -21,9 +86,9 @@
       "bal": "Chasàpiko",
       "ll": "https://www.youtube.com/watch?v=-K5D_lVMYDE",
       "li": "",
-      "ch": "REm        LA        REm\nΌλοι οι ρεμπέτες του ντουνιά\nSOLm      LA      REm\nεμένα μ' αγαπούνε\nSOLm      LA      REm\nΜόλις θα μ' αντικρίσουνε \nLA          REm\nθυσία θα γενούνε \nSOLm      LA      REm\nΜόλις θα μ' αντικρίσουνε \nLA          REm\nθυσία θα γενούνε \n\nREm        LA      REm\nΌλοι οι κουτσαβάκηδες\nSOLm      LA      REm\nπου ζούνε στο κουρμπέτι\nSOLm           LA            REm\nκι αυτοί μες στην καρδούλα τους \nLA              REm\nέχουν μεγάλο ντέρτι \nSOLm           LA            REm\nκι αυτοί μες στην καρδούλα τους \nLA              REm\nέχουν μεγάλο ντέρτι\n\nREm        LA      REm\nΕγώ φτωχός γεννήθηκα\nSOLm      LA      REm\nτον κόσμο έχω γνωρίσει\nSOLm            LA         REm\nΜέσα απ' τα φύλλα της καρδιάς \nLA             REm\nεγώ έχω μαρτυρήσει \nSOLm            LA         REm\nΜέσα απ' τα φύλλα της καρδιάς \nLA             REm\nεγώ έχω μαρτυρήσει",
-      "tr": "Oli i rebètes tu dunià\n\nΌli i rebétes tu nduniá\neména m'aghapúne\nMόlis tha m'andikrísune\nthisía tha yenúne\n\nΌli i kutsavákides\npu zúne sto kurbéti\nki aftí mes stin kardúla tus\néchun meghálo ndérti\n\nEghό ftochόs yenníthika\nton kόsmo écho ghnorísi\nMésa ap'ta fίla tis kardiás\neghό écho martirísi",
-      "ti": "Tutti i rebetes del mondo\nmi vogliono bene\nappena mi vedranno\nsi sacrificheranno per me\n\nTutti i \"koutsavakidi\" (spavaldi di strada)\nche vivono in esilio/lontano da casa\nanche loro nel loro cuoricino\nportano una grande pena\n\nIo sono nato povero\nho conosciuto il mondo\ndentro le fibre del cuore\nio ho sofferto molto\n\nNote:\n\nρεμπέτης — figura maschile del rebetiko, uomo di strada libero e anticonformista, già incontrato in \"ρεμπέτισσα\"\nκουτσαβάκης — figura simile al \"μάγκας\", uomo spavaldo e sbruffone dell'Atene di fine '800/inizio '900, spesso con connotazione di bulletto di quartiere\nκουρμπέτι — vita da emigrante/esiliato, il vivere lontano dalla patria (turchismo gergale)\nντέρτι — pena/dolore, già incontrato in altre canzoni\nμαρτυρήσω — qui non nel senso di \"testimoniare\" ma di \"soffrire il martirio\", cioè patire grandi sofferenze",
+      "ch": "REm        LA        REm\nΌλοι οι ρεμπέτες του ντουνιά\nSOLm      LA      REm\nεμένα μ' αγαπούνε\nSOLm      LA      REm\nΜόλις θα μ' αντικρίσουνε \nLA          REm\nθυσία θα γενούνε \nSOLm      LA      REm\nΜόλις θα μ' αντικρίσουνε \nLA          REm\nθυσία θα γενούνε \n\nREm        LA        REm\nΌσοι δε με γνωρίζουνε\nSOLm      LA      REm\nΤώρα θα με γνωρίσουν\nSOLm      LA      REm\nΕγώ κάνω την τσάρκα μου\nLA          REm\nΚι ασ με καλαμπουρίζουν\nSOLm      LA      REm\nΕγώ κάνω την τσάρκα μου\nLA          REm\nΚι ασ με καλαμπουρίζουν\n\n\nREm        LA      REm\nΕγώ φτωχός γεννήθηκα\nSOLm      LA      REm\nτον κόσμο έχω γνωρίσει\nSOLm            LA         REm\nΜέσα απ' τα φύλλα της καρδιάς \nLA             REm\nεγώ έχω μαρτυρήσει \nSOLm            LA         REm\nΜέσα απ' τα φύλλα της καρδιάς \nLA             REm\nεγώ έχω μαρτυρήσει\nREm        LA      REm\nΌλοι οι κουτσαβάκηδες\nSOLm      LA      REm\nπου ζούνε στο κουρμπέτι\nSOLm           LA            REm\nκι αυτοί μες στην καρδούλα τους \nLA              REm\nέχουν μεγάλο ντέρτι \nSOLm           LA            REm\nκι αυτοί μες στην καρδούλα τους \nLA              REm\nέχουν μεγάλο ντέρτι",
+      "tr": "Oli i rebètes tu dunià\n\nΌli i rebétes tu nduniá\neména m'aghapúne\nMόlis tha m'andikrísune\nthisía tha yenúne\n\nΌsi de me ghnorízune\nTόra tha me ghnorísun\nEghό káno tin tsárka mu\nKi as me kalabburízun\n\nEghό ftochόs ghienníthika\nton kόsmo écho ghnorísi\nMésa ap'ta fίla tis kardiás\neghό écho martirísi\n\nΌli i kutsavákides\npu zúne sto kurbéti\nki aftí mes stin kardúla tus\néchun meghálo ndérti",
+      "ti": "Tutti i rebetes del mondo\nmi vogliono bene\nappena mi vedranno\nsi sacrificheranno per me\n\nQuelli che non mi conoscono\nora mi conosceranno\nio faccio il mio giro\ne lascia pure che mi prendano in giro\n\nIo sono nato povero\nho conosciuto il mondo\ndentro le fibre del cuore\nio ho sofferto molto\n\nTutti i \"koutsavakidi\" (spavaldi di strada)\nche vivono in esilio/lontano da casa\nanche loro nel loro cuoricino\nportano una grande pena\n\n\n\nNote:\n\nρεμπέτης — figura maschile del rebetiko, uomo di strada libero e anticonformista, già incontrato in \"ρεμπέτισσα\"\nκουτσαβάκης — figura simile al \"μάγκας\", uomo spavaldo e sbruffone dell'Atene di fine '800/inizio '900, spesso con connotazione di bulletto di quartiere\nκουρμπέτι — vita da emigrante/esiliato, il vivere lontano dalla patria (turchismo gergale)\nντέρτι — pena/dolore, già incontrato in altre canzoni\nμαρτυρήσω — qui non nel senso di \"testimoniare\" ma di \"soffrire il martirio\", cioè patire grandi sofferenze\nτσάρκα — giro/passeggiata\nκαλαμπουρίζω — prendere in giro/scherzare a spese di qualcuno, fare battute canzonatorie",
       "no": "Quando si dice: troviamoci con gli amici a suonare\nVoce e primo bouzouki Markos Vamvakaris\nSecondo bouzouki Vasilis Tsitsanis molto giovane, agli esordi ad Atene\nBaglamas Stratos Paioumtzis\nChitarra e Direzione d'orchestra: Spiros Peristeris"
     },
     {
@@ -7314,6 +7379,14 @@
   ],
   "args": [
     {
+      "id": "a_1788349765380",
+      "title": "\"Ο Μενούσης\" — un delitto attraverso i secoli",
+      "tag": "storie di canzoni",
+      "date": "2026-08-20",
+      "body": "Origine e storia\n\nÈ uno dei canti popolari (δημοτικά τραγούδια) più celebri e diffusi di tutta la Grecia: originario dell'Epiro, si è propagato ovunque — dalla Tracia alle isole, dal Mar Egeo settentrionale allo Ionio, dal Peloponneso alla Tessaglia — fino a diventare ormai un canto \"panellenico\".\n\nLe radici di alcune varianti potrebbero risalire ai canti \"acritici\" del Medioevo greco, ma la maggior parte risale alla fine del XVII-inizio XVIII secolo; dopo la metà del XIX secolo si affermò la versione epirota, oggi la più conosciuta. Esistono oltre 100 varianti diverse, diffuse nello spazio e nel tempo.\n\nLa storia raccontata\n\nSecondo la tradizione, la vicenda sarebbe basata su un fatto reale. Durante il periodo della dominazione ottomana, tre amici — due greci, Menousis e Berbilis, e un turco, Resoul-Agas — si trovano in una piccola taverna a fare bagordi. Parlano di donne, finché il turco elogia la bellezza della moglie di Menousis. Alle domande gelose del marito, l'amico mente affermando di averla incontrata al pozzo, dove lei avrebbe accettato di lavargli il fazzoletto — un gesto che, secondo il codice morale dell'epoca, era già di per sé simbolo d'infedeltà: la donna onesta non doveva non solo circolare per strada senza motivo o senza accompagnamento, ma nemmeno doveva \"circolare\" il suo nome.\n\nPreso dall'ubriachezza e dalla gelosia, Menousis torna a casa e uccide la sua bella moglie. Il giorno dopo, sobrio, la piange e la invoca: \"Alzati, oca, alzati, salice, che ti vedano i giovani struggersi, che ti veda anch'io, povero me, per rallegrarmene.\"\n\nUso e diffusione\n\nViene cantato come canto da taverna/banchetto (τραγούδι της τάβλας), come canto di nozze, e perfino come ninna-nanna. Si balla sia da uomini che da donne, in ritmi lenti e veloci, danzato in cerchio aperto.\n\nHa ispirato rielaborazioni di compositori non tradizionali, tra cui Giorgos Katsaros e Vangelis Papathanassiou, e nel 1969 ne fu tratto anche un film, \"Ο Μενούσης\", per la regia di Vasilis Kontaxis. La storica Eftychia Liata ha dedicato al canto uno studio approfondito, \"Ο Μενούσης, ιστορία...\", esaminando cento varianti diverse diffuse nello spazio e nel tempo — un dato interessante che emerge dal suo lavoro è che, tra le versioni, cambiano musica e ritmo, mentre il testo resta praticamente identico.\n\nUna lettura più profonda\n\n\"Ο Μενούσης\" racconta una storia cupa e tragica di gelosia. Sebbene i nomi possano cambiare da versione a versione, il nucleo resta sempre lo stesso: l'ingiusto omicidio di una donna, caduta vittima di calunnia, leggerezza e gelosia altrui.\n\nDurante l'occupazione ottomana la donna era tenuta a seguire un rigido codice d'onore che ne determinava ogni comportamento nella vita quotidiana e nelle relazioni sociali — un codice che ne calpestava completamente i diritti, trasferendo persino all'uomo la responsabilità di \"difenderla\", anziché lasciare a lei quella di difendersi. La storica Eftychia Liata osserva che, in fondo, la moglie di Menousis non viene punita per la sua infedeltà — reale o immaginata — ma per il soffio di un'etica nuova che il suo comportamento sembra portare con sé.\n\nMenousis, dal canto suo, è insieme colpevole e vittima di quello stesso rigido codice, che lo spinge a distruggere due vite. Non sapremo mai se fosse davvero geloso di una moglie che — presumibilmente — aveva solo parlato con un altro uomo, o se si sentisse disonorato dal suo comportamento. In entrambi i casi resta una figura profondamente tragica, conservata nella memoria collettiva come un eroe popolare sospeso sulla soglia tra un vecchio mondo e uno nuovo.",
+      "link": ""
+    },
+    {
       "id": "a_1787838315751",
       "title": "Η Έλλη θέλει σκότωμα — la storia vera dietro la calunnia",
       "tag": "storie di donne",
@@ -11540,6 +11613,52 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/triosavari.jpg",
       "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788351439493",
+      "name": "Λάκης Χαλκιάς",
+      "nameit": "Lákis  Chalkiás",
+      "born": "30 agosto 1943, Ioannina",
+      "died": "2 agosto 2026, Atene",
+      "bio": "Cantante, compositore e polistrumentista, figlio del celebre clarinettista Tasos Chalkias e di Marika Chalkias — proveniva da una delle famiglie musicali più note della tradizione dell'Epiro. Suonava cinque strumenti (chitarra, buzuki, laouto, tzourás, outi) e si dedicò al canto fin dall'età di sette anni. Da bambino, durante le estati, la compagnia musicale di famiglia girava l'entroterra greco tra feste patronali e matrimoni.\n\nTra il 1960 e il 1967 fu già attivo ad Atene accanto a grandi nomi come Sotiria Bellou, Stelios Kazantzidis, Grigoris Bithikotsis e Giorgos Zampetas, collaborando anche con Vamvakaris, Papaioannou e Tsitsanis. Nel 1967 emigrò negli Stati Uniti e in Canada, dove rimase per circa quattro anni, esibendosi come cantante/musicista nei locali della comunità greca; lì ebbe modo di collaborare con Anthony Quinn, partecipando a una presentazione televisiva di \"Zorba\" sulla musica di Theodorakis.\n\nTornato in Grecia nel 1971, nel pieno della dittatura, l'incontro con il compositore Giannis Markopoulos al mitico locale Kyttaro cambiò per sempre il corso della sua carriera, segnando la nascita dell'éntechno del periodo della Metapolitefsi. Fu il produttore della Columbia Takis Lampropoulos a riconoscere per primo, nella sua voce, qualcosa di più profondo di un semplice cantante laïkó.\n\nDivenne una delle voci simbolo di quel periodo storico, celebre soprattutto per l'interpretazione di \"Η φάμπρικα\" (\"La fabbrica\", dei \"Metanastes\"), uno degli zeibékika più difficili e travolgenti della canzone greca. Collaborò nel corso della carriera anche con Nikos Xylouris, Loukianos Kilaidonis, Mikis Theodorakis, Christos Leontis, Christos Nikolopoulos, Marios Tokas, Giorgos Katsaros, Apostolos Kaldaras.\n\nMomento culminante della carriera fu la presentazione dell'opera \"2.500 χρόνια Ελληνική Μουσική\", all'Odeon di Erode Attico. Rimase sempre lontano dai riflettori mediatici.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/chalkias.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788352154394",
+      "name": "Ειρήνη Παπά",
+      "nameit": "Eiríni Papá",
+      "born": "3 settembre 1929, Chiliomodi (Corinzia)",
+      "died": "14 settembre 2022, Kifissia,",
+      "bio": "Irene Papas\n\nVero nome: Eiríni Lélekou (Ειρήνη Λελέκου)\n\nNata in una famiglia di insegnanti (il nonno, i genitori e la zia erano tutti maestri), studiò recitazione alla Scuola Drammatica del Teatro Nazionale. Una delle pochissime attrici greche ad aver superato i confini nazionali costruendo una vera carriera internazionale — figura austera e dorica, considerata simbolo della bellezza mediterranea e della tragedia antica greca nel mondo.\n\nRecitò in produzioni internazionali di primo piano: \"I cannoni di Navarone\" (1961), \"Zorba il Greco\" (1964, al fianco di Anthony Quinn), e \"Z\" (1969) di Costa-Gavras, film che vinse l'Oscar come miglior film straniero — lei stessa partecipò a tre pellicole candidate all'Oscar in quella categoria. Altri ruoli noti: \"Anna dei mille giorni\", \"Cristo si è fermato a Eboli\", \"Il mandolino del capitano Corelli\". Indimenticabile Penelope nell'Odissea televisiva trasmessa dalla RAI nel 1968.\n\nLegame musicale: nel 1979 collaborò con Vangelis all'album \"Odes\", prestando la sua voce a testi tratti dalla tradizione popolare e rivoluzionaria greca — un'opera che unisce musica elettronica e canto tradizionale, particolarmente rilevante per il repertorio greco.\n\nSposò nel 1947 (secondo altre fonti già dal 1943) il regista e attore Alkis Papas, da cui il celebre cognome d'arte; divorziarono nel 1951, ma lei mantenne il cognome per tutta la carriera. Non ebbe figli propri. Rivelò nel 2004, dopo la morte di Marlon Brando, di aver avuto con lui una lunga relazione, iniziata a Roma nel 1954 — definendolo \"la grande passione della sua vita\".\n\nFu insignita di numerosi riconoscimenti: Commendatore dell'Ordine della Fenice (1995), titolo di \"Donna d'Europa\" (2000), Premio Roma (2008), Leone d'oro alla carriera della Biennale Teatro di Venezia (2009).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/pappa.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788352664665",
+      "name": "Τζίμης Πανούσης",
+      "nameit": "Tzímis Panoúsis",
+      "born": "12 febbraio 1954, Ampelokipoi, Atene",
+      "died": "13 gennaio 2018, Atene",
+      "bio": "Vero nome: Dimítrios Panoúsis\n\nFiglio di profughi micrasiati (Theodoros e Fotini), musicista, cantautore, comico satirico, produttore radiofonico, attore e scrittore. Considerato un pioniere dello stand-up comedy in Grecia e un \"Aristofane contemporaneo\", noto per la satira senza confini e l'umorismo caustico e originale, rivolto tanto alla situazione politico-sociale greca quanto alla psiche umana in generale.\n\nGuidò per anni il gruppo rock \"Μουσικές Ταξιαρχίες\" (Brigate Musicali), riunitosi anche nel 2015 per una serie di concerti al mitico Kyttaro, dopo 30 anni di assenza. Oltre alla musica, fu attivo nella radio come produttore per Top FM, Kanali 15, Och FM, Flash 9.61, SKAI 100.3, City FM 99.5 — celebre il suo programma \"Δούρειος Ήχος\".\n\nPubblicò anche sei libri, in gran parte basati sui suoi programmi radiofonici: \"Η Ζάλη των Τάξεων\" (1989), \"Πικρέ, Μικρέ Μου Αράπη\" (1990, radiosoap in 22 episodi), \"Το Κυνήγι της Γκόμενας\" (1992), fino a \"Υγιεινή Διαστροφή\" (1996, per i 20 anni di carriera, con il CD \"Disco Tsoutsouni\" e la raccolta completa dei suoi testi).\n\nEbbe un malore sul palco del Kyttaro il 2 dicembre 2017 mentre cantava, venendo ricoverato; morì poco più di un mese dopo, il 13 gennaio 2018.\n\nPerché Tzimis Panousis\n\nDifficilmente troverete un'altra sua canzone su questo sito — non era un cantante nel senso tradizionale, ma una delle voci più originali e caustiche della scena satirica greca degli anni '80 e '90. Lo includiamo qui con una versione a cappella di questo brano per poterlo  ricordare: dietro l'umorismo tagliente e fuori dagli schemi, Panousis era anche un musicista capace di momenti di autentica bellezza. Una figura che merita di essere citata.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/panusis.jpg",
+      "roles": [
+        "at",
+        "am",
         "ar"
       ]
     }
