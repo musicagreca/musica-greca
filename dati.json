@@ -1,8 +1,184 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-02T12:45:58.382Z",
+  "exportedAt": "2026-09-03T09:16:32.714Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788424577621",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-03",
+      "tgr": "Οι φυλακές του Ωρωπού",
+      "tit": "I filakès tu Oropù",
+      "alias": "",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1934",
+      "ar": "Γιώργος Μπάτης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "https://www.youtube.com/watch?v=1arKS9W68Qs",
+      "li": "",
+      "ch": "Πες μας τα μεγαλεία του Ωρωπού\n \nRE         REm    RE         REm\nΣτο Ωροπό καλέ, την περνάμε φίνα\nRE         REm    DO    REm\nπιο καλά κι απ', την Αθήνα\n \nFA                    REm\nΤρίτη Πέμπτη, μακαρόνια\nFA               DO    REm\nμα ο μάγκας, βγάζει χρόνια\n \nRE         REm RE         REm\nΚαι την Κυριακή, μακρέα\nRE         REm   DO    REm\nτζάμπα είναι, κι ο κουρέα\n \nΠες μας τώρα και τα ζοριλίκια του θαλάμου\n\nFA                    REm \nΕις το πρώτο, βγαίν' το χαρμανλίκι\nFA                    REm\nΕις το δέυτερο, το μαστουρλίκι\n \nRE         REm   RE         REm\nΚαι στο τρίτο, βγαιν' το νταηλίκι\nRE         REm    RE         REm\nκαι στο τέταρτο, ωχ το ζοριλίκι\n \nFA                        REm \nΚαι στο πέμπτο, της λαθρεμπορίας\nFA                       REm \nκαι στο έκτο, όλη η σκευωρία\n \nRE         REm    RE         REm\nΚαι στο έβδομο, οι τεκετζήδες\nRE         REm     RE         REm\nκαι στο όγδοο, όλοι οι αστένηδες\n \nFA                 REm \nΚαι στο νούμερο, το δέκα\nFA                REm \nτην αμολάνε, όλοι αβέρτα",
+      "tr": "I filakès tu Oropù\n\nPes mas ta meghalía tu Oropú\n\nSto Oropό kalé, tin pernáme fína\npio kalá ki ap', tin Athína\n\nTríti Pémpti, makarόnia\nma o mángas, vgházi chrόnia\n\nKe tin Kiriakí, makréa\ntzába íne, ki o kuréa\n\nPes mas tόra ke ta zorilíkia tu thalámu\n\nIs to prόto, vghén' to charmanlíki\nIs to déftero, to masturlíki\n\nKe sto trίto, vyén' to ndailíki\nke sto tétarto, och to zorilíki\n\nKe sto pémpto, tis lathrembórias\nke sto ékto, όli i skevoría\n\nKe sto évdomo, i teketzídes\nke sto όghdoo, όli i asténides\n\nKe sto número, to déka\ntin amoláne, όli avérta",
+      "ti": "La prigione di Oropos\n\nRaccontaci le grandezze di Oropo\n\nA Oropo, caro mio, la passiamo bene\nmeglio anche che ad Atene\n\nMartedì e giovedì, pasta al forno\nma il mangas ci passa gli anni (di pena)\n\nE la domenica, distanza (o \"lontano\" - senso incerto)\nè gratis anche il barbiere\n\nRaccontaci ora anche le durezze del reparto (cella)\n\nNella prima (cella), esce (si vive) l'astinenza da hashish\nnella seconda, lo sballo\n\nE nella terza, esce la prepotenza\ne nella quarta, ah, la durezza\n\nE nella quinta, quella del contrabbando\ne nella sesta, tutto l'intrigo/la macchinazione\n\nE nella settima, i gestori di tekè\ne nell'ottava, tutti i malati\n\nE al numero dieci\nli lasciano andare tutti liberi, alla rinfusa\n\nNote:\n\nΩρωπός — Oropos, località dell'Attica dove storicamente sorgeva un carcere/riformatorio greco, noto nel gergo popolare\nχαρμανλίκι — stato di astinenza da hashish, già incontrato come \"χαρμάνης\" in altre canzoni\nμαστουρλίκι — stato di sballo, già incontrato come \"μαστουρλούκι\"\nνταηλίκι — prepotenza/spavalderia da bullo (da \"νταής\", prepotente)\nζοριλίκι — durezza/costrizione (da \"ζόρι\", sforzo/costrizione, turchismo)\nτεκετζήδες — gestori di tekè, già incontrati in altre canzoni\nil testo ha struttura di filastrocca/elenco satirico sulla vita interna del carcere di Oropos, con ogni \"cella\" o reparto (\"θάλαμος\") associato scherzosamente a un diverso tipo di detenuto o vizio — tipico registro ironico-gergale della cultura carceraria rebetika, alcuni termini (come \"μακρέα\") restano di significato incerto per mancanza di contesto/fonti verificabili",
+      "no": ""
+    },
+    {
+      "id": "s_1788406810850",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στράτος Παγιουμτζής",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=NEDAaGHeCH8"
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1989",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=CTbj8IhpX3g"
+        }
+      ],
+      "date": "2026-09-03",
+      "tgr": "Ο ψαράς",
+      "tit": "O psaràs",
+      "alias": "Γιατί δε με θες, κυρά μου",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1946",
+      "ar": "",
+      "lb": "His Master's Voice, codice AO 2738",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm      DO      REm\nΓιατί δε με θες κυρά μου\nREm      DO      REm\nεπειδή είμαι ψαράς\nSOL             DO\nΚι είμαι λίγο αλανιάρης\nSOL                 DO\nσαν ψαράς και σαν βαρκάρης\nREm                 FA\nκαι θαρρείς ότι με μένα \nDO                REm\nδεν θα την περνάς καλά \nREm                 FA\nκαι θαρρείς ότι με μένα \nDO                REm\nδεν θα την περνάς καλά \n\nREm      DO      REm\nΈχω μια μικρούλα βάρκα\nREm      DO      REm\nμε κουπιά και με πανί\nSOL               DO\nκαι ψαρεύω κάθε βράδυ\nSOL              DO\nμόνος με το παραγάδι\nREm                   FA\nκαι τα ψάρια που θα πιάσω \nDO              REm\nτα πουλώ στην αγορά \nREm                   FA\nκαι τα ψάρια που θα πιάσω \nDO              REm\nτα πουλώ στην αγορά \n\n\nREm      DO      REm\nΚι αν ξυπόλητος γυρίζω\nREm      DO      REm\nμη με βλέπεις και γελάς\nSOL                DO\nΤη γυναίκα που θα έχω\nSOL              DO\nξέρω να την επροσέχω\nREm                   FA\nκαι τα κέφια της να κάνω \nDO                    REm\nμην κοιτάς που είμαι ψαράς \nREm                   FA\nκαι τα κέφια της να κάνω \nDO                    REm\nμην κοιτάς που είμαι ψαράς",
+      "tr": "O psaràs\n\nGhiatí de me thes kirá mu\nepidí íme psarás\nKi íme lígho alaniáris\nsan psarás ke san varkáris\nke tharís όti me ména\nden tha tin pernás kalá\n\nÉcho mia mikrúla várka\nme kupiá ke me paní\nke psarévo káthe vrádi\nmόnos me to paraghádi\nke ta psária pu tha piáso\nta pulό stin aghorá\n\nKi an ksipόlitos ghirízo\nmi me vlépis ke ghielás\nTi ghinéka pu tha écho\nkséro na tin eprosécho\nke ta kéfia tis na káno\nmin kitás pu íme psarás",
+      "ti": "Il pescatore\n\nPerché non mi vuoi, signora mia\nsolo perché sono un pescatore\ne sono un po' vagabondo\ncome pescatore e come barcaiolo\ne pensi che con me\nnon te la passerai bene\n\nHo una piccola barca\ncon remi e con vela\ne pesco ogni sera\nda solo con il palangaro\ne i pesci che prenderò\nli vendo al mercato\n\nE se giro scalzo\nnon guardarmi e ridere\nla donna che avrò\nsaprò prendermene cura\ne accontentare i suoi capricci\nnon guardare che sono un pescatore\n\nNote:\n\nαλανιάρης — vagabondo, già incontrato in altre canzoni\nπαραγάδι — palangaro, attrezzo da pesca con lenza lunga e più ami, usato dai pescatori tradizionali\nκέφια — capricci/voglie/umori (buon umore), qui nel senso di \"soddisfare i desideri\" della futura moglie",
+      "no": ""
+    },
+    {
+      "id": "s_1788405546625",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-03",
+      "tgr": "Όταν στα κέντρα σε πηγαίνω",
+      "tit": "Otan sta kèntra se pighièno",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1947",
+      "ar": "Στράτος Παγιουμτζής",
+      "lb": "Columbia, codice matrice CG 2250 / catalogo DG 664",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=RY1X7hgm-Ew",
+      "li": "",
+      "ch": "SOLm\nΌταν τα βράδια μες στα κέντρα σε πηγαίνω\nSOL                                DOm\nκι όλοι τριγύρω σε κοιτάζουνε στα μάτια\nRE7                                            DOm\nνα μην τολμήσεις να προσέξεις μην τυχόν παρεκτραπείς \nSOLm      RE#      RE7      SOLm      RE7      SOLm\nγιατί να ξέρεις πως θα παρεξηγηθείς \nRE7                                           DOm\nνα μην τολμήσεις να προσέξεις μην τυχόν παρεκτραπείς \nSOLm      RE#      RE7      SOLm      RE7      SOLm\nγιατί να ξέρεις πως θα παρεξηγηθείς \n\nSOLm\nΔε θα την πάθω όπως την έχουν πάθει όλοι\nSOL                                 DOm\nγιατί οι γυναίκες όλες είσαστε διαβόλοι\nRE7                                         DOm\nπου μας τα κάνετε όλα ρόιδο στην πεζή μας τη ζωή \nSOLm      RE#      RE7      SOLm      RE7      SOLm\nδε θα με γράψεις για κορόιδο την αυγή \nRE7                                         DOm\nπου μας τα κάνετε όλα ρόιδο στην πεζή μας τη ζωή \nSOLm      RE#      RE7      SOLm      RE7      SOLm\nδε θα με γράψεις για κορόιδο την αυγή\n\nSOLm\nΜη σου περάσει από το νου πως σε ζηλεύω\nSOL                                   DOm\nκαι πως μπορείς εσύ να μ' έχεις για ρεζέρβα\nRE7                                    DOm\nΑπλώς σου κάνω θεωρία μην τυχόν παρεκτραπείς \nSOLm      RE#      RE7      SOLm      RE7      SOLm\nγιατί να ξέρεις πως θα παρεξηγηθείς \nRE7                                    DOm\nΑπλώς σου κάνω θεωρία μην τυχόν παρεκτραπείς \nSOLm      RE#      RE7      SOLm      RE7      SOLm\nγιατί να ξέρεις πως θα παρεξηγηθείς",
+      "tr": "Otan sta kèntra se pighièno\n\nΌtan ta vrádia mes sta kéndra se pighièno\nki όli trighíro se kitázune sta mátia\nna min tolmísis na proséksis min tichόn parektrapís\ngiatí na kséris pos tha pareksighithís\n\nDe tha tin pátho όpos tin échun páthi όli\ngiatí i ghinékes όles ísaste diávoli\npu mas ta kánete όla rόido stin pezí mas ti zoí\nde tha me grápsis ghia korόido tin avghí\n\nMi su perási apό to nu pos se zilévo\nke pos borís esí na m'échis gia rezérva\nAplόs su káno theoría min tichόn parektrapís\ngiatí na kséris pos tha pareksighithís",
+      "ti": "Quando la sera ti porto nei locali\n\nQuando la sera ti porto nei locali\ne tutti intorno ti guardano negli occhi\nnon osare fare caso, che tu non ti azzardi a comportarti male\nperché sappi che ti fraintenderai il senso (capirai male le mie intenzioni)\n\nNon mi capiterà quello che è capitato a tutti\nperché voi donne siete tutte diavoli\nche ci rovinate completamente la nostra semplice vita\nnon mi segnerai come un babbeo all'alba\n\nNon ti passi per la testa che sono geloso\ne che tu possa tenermi come riserva\nti faccio solo un discorso, che tu non ti azzardi a comportarti male\nperché sappi che ti fraintenderai il senso\n\nNote:\n\nπαρεκτραπείς — che tu ecceda/ti comporti in modo sconveniente (da \"παρεκτρέπομαι\")\nρόιδο — letteralmente \"melograno spaccato\", già incontrato in \"Θα κάνω ντου βρε πονηρή\" nel senso di \"rovinare/coprire di vergogna\"\nρεζέρβα — \"riserva\" (di ricambio), qui nel senso di tenere qualcuno come seconda scelta/piano B\nκορόιδο — sciocco/babbeo, già incontrato in altre canzoni",
+      "no": "Questo brano è legato alle ultime fasi d'oro della carriera discografica di Stratos Pagioumtzis prima che il mercato cambiasse. Pagioumtzis, rimasto povero, venne riscoperto solo anni dopo da Giorgos Zambetas e morì tragicamente a New York nel 1971 proprio mentre si esibiva su un palco davanti agli immigrati greci."
+    },
+    {
+      "id": "s_1788404813234",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργος Μανισαλής, Γιώργος Μητσάκης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=OLwR6_4bUJk"
+        },
+        {
+          "who": "Στράτος Παγιουμτζής, Κώστας Καπλάνης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=sjCEk0SNYuM"
+        },
+        {
+          "who": "Ιωάννα Γεωργακοπούλου, Μανώλης Χιώτης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=V1lrLEhVy1o"
+        },
+        {
+          "who": "Απόστολος Νικολαΐδης",
+          "year": "1973",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=xdk11lE1NVY"
+        }
+      ],
+      "date": "2026-09-03",
+      "tgr": "Όταν καπνίζει ο λουλάς",
+      "tit": "Otan kapnizi o lulàs",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "RE      LA      RE\nΌταν καπνίζει ο λουλάς\nRE      LA      RE\nεσύ δεν πρέπει να μιλάς\nSOLm                LA      RE        LA           RE\nΚοίταξε τρι-γύρω οι μάγκες κάνουν όλοι, κάνουν τουμπεκί\nSOLm                LA      RE        LA           RE\nΚοίταξε τρι-γύρω οι μάγκες κάνουν όλοι, κάνουν τουμπεκί\n\nRE      LA      RE\nΆκου που παίζει ο μπαγλαμάς\nRE      LA      RE\nκαι πάτα αργιλέ για μάς\nSOLm                LA      RE        LA           RE\nΣα θα γίνουμε μαστούρια, θα 'μαστε πολύ προσεκτικοί\nSOLm                LA      RE        LA           RE\nΣα θα γίνουμε μαστούρια, θα 'μαστε πολύ προσεκτικοί\n\nRE      LA      RE\nΚανένα μάτι μη μάς δει\nRE      LA      RE\nκαι μάς μπλοκάρουν δηλαδή\nSOLm                LA      RE        LA           RE\nΝα μη μάς βρούνε καμιάν αιτία και μάς πάνε όλους φυλακή\nSOLm                LA      RE        LA           RE\nΝα μη μάς βρούνε καμιάν αιτία και μάς πάνε όλους φυλακή",
+      "tr": "Otan kapnizi o lulàs\n\nΌtan kapnízi o lulás\nesí den prépi na miлás\nKítakse trighíro i mánges kánun όli, kánun tumbekí\nKítakse trighíro i mánges kánun όli, kánun tumbekí\n\nÁku pu pézi o baghlamás\nke páta arghilé gia mas\nSa tha ghínume mastúria, tha 'maste polí prosektikí\nSa tha ghínume mastúria, tha 'maste polí prosektikí\n\nKanéna máti mi mas dí\nke mas blokárun diladí\nNa mi mas vrúne kamián etía ke mas páne όlus filakí\nNa mi mas vrúne kamián etía ke mas páne όlus filakí",
+      "ti": "Quando fuma il braciere del narghilè\n\nQuando fuma la pipa d'hashish\ntu non devi parlare\nguarda intorno, i mangas fanno tutti, fumano tabacco misto\nguarda intorno, i mangas fanno tutti, fumano tabacco misto\n\nAscolta come suona il baglamàs\ne prepara il narghilè per noi\nquando saremo tutti sballati, saremo molto attenti\nquando saremo tutti sballati, saremo molto attenti\n\nChe nessun occhio ci veda\ne che ci blocchino, cioè\nche non trovino nessun motivo per portarci tutti in prigione\nche non trovino nessun motivo per portarci tutti in prigione\n\nNote:\n\nλουλάς — pipa per hashish, \nτουμπεκί — tabacco/miscela per narghilè \nμαστούρια — stato di sballo\nμπλοκάρουν — qui nel senso gergale di \"ci bloccano/ci arrestano\" (dal verbo \"μπλοκάρω\", bloccare)",
+      "no": "La nascita di questa canzone è legata a un aneddoto memorabile avvenuto nel 1946 in un tekès clandestino nel quartiere di Pireo. Giorgos Mitsakis era seduto a fumare insieme al leggendario virtuoso del bouzouki Manolis Chiotis. Osservando l'atmosfera tesa dei presenti che temevano un raid della polizia, Mitsakis prese un pezzo di carta e iniziò a scarabocchiare i versi di \"Otan kapnizei o loulas\".Chiotis, guardando l'amico scrivere così velocemente ispirato da quel momento di fumo clandestino, esclamò ridendo la famosa frase: \"Άντε κουφάλα Πολίτισσα, πάλι σου ήρθε η έμπνευση!\" (ovvero: \"Forza, vecchia volpe di Costantinopoli, ti è venuta di nuovo l'ispirazione!\" – Mitsakis era infatti nato a Istanbul/Costantinopoli)."
+    },
+    {
+      "id": "s_1788403544845",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-03",
+      "tgr": "Όσοι έχουνε πολλά λεφτά",
+      "tit": "Osi èchune polà leftà",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1936",
+      "ar": "Μάρκος Βαμβακάρης",
+      "lb": "Odeon, codice GA-1959",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Aptaliko",
+      "ll": "https://www.youtube.com/watch?v=8bmJBCs6j6w",
+      "li": "",
+      "ch": "SOL      RE      SOL\nΌσοι έχουνε πολλά λεφτά\nSOL      RE      SOL\nνα ξέρα τι τα κάνουν\nSOL      RE      SOL\nάραγε σαν ποθάνουνε ψεύτη ντουνιά\nSOL      RE      SOL\nμαζί τους θα τα πάρουν\n\nSOL      RE      SOL\nΕγώ ψιλή στην τσέπη μου\nSOL      RE      SOL\nποτέ δεν αποτάσσω\nSOL      RE      SOL\nκι όλες οι σκοτούρες μου ψεύτη ντουνιά\nSOL      RE      SOL\nφεύγουν σαν μαστουριάσω\n\nSOL      RE      SOL\nΌσοι έχουνε πολλά λεφτά\nSOL      RE      SOL\nδεν ξέρουν να τα φάνε\nSOL      RE      SOL\nΑφού στον άλλο το ντουνιά βρε αμάν αμάν\nSOL      RE      SOL\nλεφτά δεν θα περνάνε\n\nΔεύτερη εκδοχή για τις δύο τελευταίες στροφές:\n\nSOL      RE      SOL\nΕγώ ψιλή στην τσέπη μου\nSOL      RE      SOL\nποτέ δεν αποτάσσω\nSOL      RE      SOL\nκι όλα τα ντέρτια μου ξεχνώ, ψεύτη ντουνιά\nSOL      RE      SOL\nμόνο σαν μαστουριάζω\n\nSOL      RE      SOL\nΑφού στον άλλονε ντουνιά\nSOL      RE      SOL\nλεφτά δεν θα περνάνε\nSOL      RE      SOL\nτα 'χουν και τα θυμιάζουνε, ψεύτη ντουνιά\nSOL      RE      SOL\nδεν ξέρουν να τα φάνε",
+      "tr": "Osi èchune polà leftà\n\nΌsi échune polá leftá\nna kséra ti ta kánun\nárage san pothánune pséfti nduniá\nmazí tus tha ta párun\n\nEghό psilí stin tsépi mu\npoté den apotásso\nki όles i skotúres mu pséfti nduniá\nfévghun san masturiáso\n\nΌsi échune polá leftá\nden kséroun na ta fáne\nAfú ston álo to nduniá vre amán amán\nleftá den tha pernáne\n\nΔεύτερη εκδοχή:\n\nEghό psilí stin tsépi mu\npoté den apotásso\nki όla ta ndértia mu ksechnό, pséfti nduniá\nmόno san masturiázo\n\nAfú ston álone nduniá\nleftá den tha pernáne\nta 'chun ke ta thimiázune, pséfti nduniá\nden kséroun na ta fáne",
+      "ti": "Quelli che hanno tanti soldi\n\nQuelli che hanno tanti soldi\nvorrei sapere cosa se ne fanno\nforse quando moriranno, mondo bugiardo\nse li porteranno con sé?\n\nIo, spiccioli in tasca\nnon ne accumulo mai\ne tutti i miei affanni, mondo bugiardo\nse ne vanno quando mi sballo\n\nQuelli che hanno tanti soldi\nnon sanno godersELi\nvisto che nell'altro mondo, ah che pena, che pena\ni soldi non passeranno (non li porteranno con sé)\n\nSeconda versione:\n\nIo, spiccioli in tasca\nnon ne accumulo mai\ne tutte le mie pene le dimentico, mondo bugiardo\nsolo quando mi sballo\n\nVisto che nell'altro mondo\ni soldi non passeranno\nli hanno e li ammassano, mondo bugiardo\nnon sanno godersELi\n\nNote:\n\nψεύτη ντουνιά — \"mondo bugiardo/ingannevole\", espressione già incontrata in altre canzoni (variante di \"ψεύτης ντουνιάς\")\nαποτάσσω — mettere da parte/accumulare (denaro)\nσκοτούρα — pensiero fisso, affanno, già incontrato in altre canzoni\nντέρτι — pena/dolore, già incontrato in altre canzoni\nθυμιάζω — letteralmente \"incensare\" (come con l'incenso in chiesa), qui usato in senso figurato scherzoso per \"adorare/venerare eccessivamente\" il denaro",
+      "no": "bouzouki Markos Vamvakaris\nchitarra Kostas Skarvelis\nbaglama Stràtos Paghiumtzìs"
+    },
+    {
+      "id": "s_1788402780361",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-03",
+      "tgr": "Ο θερμαστής",
+      "tit": "O thermastìs",
+      "alias": "Μηχανικός στη μηχανή",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1934",
+      "ar": "Γιώργος Μπάτης",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=YAl9FRTwauo",
+      "li": "",
+      "ch": "REm      LA      REm\nΜηχανικός στη μη-ηχανή\nREm      LA      REm\nκαι ναύτης στο τιμόνι\nREm      LA      REm\nΚι ο θερμαστής στο στόκολο\nREm      LA      REm\nμ' έξι φωτιές μαλώ-ώνει\n\nREm      LA      REm\n\nREm      LA      REm\nΑγάντα θέρμαστάκι μου\nREm      LA      REm\nκαι ρίχνε τις φτιαργιές σου\nREm      LA      REm\nΜέσα στο καζανά-άκι σου\nREm      LA      REm\nνα φτιάξουν οι φωτιές σου\n\nREm      LA      REm\nΚάργα ρασκέτα, ωχ, και λοστό\nREm      LA      REm\nτον Μπέι να περά-άσω\nREm      LA      REm\nΚαι μες στου Κάρντιφ τα νερά\nREm      LA      REm\nεκεί να πά ν' αράξω\n\nREm      LA      REm\nΜα η φωτιά είναι φωτιά\nREm      LA      REm\nΜα η φωτιά είναι λάβρα\nREm      LA      REm\nΚι η θάλασσα μου τα 'κανε\nREm      LA      REm\nτα σωθικά μου μαύρα - εχ!",
+      "tr": "O thermastìs\n\nMichanikόs sti michaní\nke náftis sto timόni\nKi o thermastís sto stόkolo\nm'éksi fotiés malόni\n\nAghánda thérmastáki mu\nke ríchne tis ftiaryiés su\nMésa sto kazanáki su\nna ftiáksun i fotiés su\n\nKárgha raskéta, och, ke lostό\nton Béi na perάso\nKe mes tu Kárdif ta nerά\nekí na pá n'aráxo\n\nMa i fotiá íne fotiá\nMa i fotiá íne lávra\nKi i thálasa mu ta 'kane\nta sothiká mu mávra - ech!",
+      "ti": "Il fuochista\n\nIl meccanico alla macchina\ne il marinaio al timone\ne il fuochista alla caldaia\ncon sei fuochi litiga (fatica)\n\nTieni duro, mio piccolo fuochista\ne getta le tue palate (di carbone)\ndentro il tuo piccolo forno\nche si accendano bene i tuoi fuochi\n\nA tutta forza con raschietto, ah, e leva\nper superare il Bey (lo stretto/il capo)\ne nelle acque di Cardiff\nlà andare ad ancorare\n\nMa il fuoco è fuoco\nma il fuoco è vampa ardente\ne il mare mi ha reso\nle viscere nere - eh!\n\nNote:\n\nθερμαστής — fuochista, l'addetto ad alimentare le caldaie a carbone delle navi a vapore\nστόκολο — sala macchine/caldaie della nave (dall'italiano \"stiva del carbone\" o termine marinaresco affine)\nαγάντα — \"tieni duro/resisti\", comando marinaresco (dal veneziano/italiano \"agguanta\")\nρασκέτα — raschietto, strumento per pulire/raschiare (usato qui nel lavoro di caldaia)\nΜπέης — qui probabilmente riferito a un punto di passaggio geografico (forse il Bosforo o uno stretto controllato storicamente da un \"bey\" ottomano)\nΚάρντιφ — Cardiff, storico porto gallese, tra i principali centri di esportazione del carbone usato per alimentare le navi a vapore nel XIX-XX secolo\nσωθικά — le viscere/l'intimo, già incontrato in altre canzoni, qui in senso fisico-lavorativo: il fuochista, sporco di carbone e sfinito dalla fatica del fuoco, sente \"annerite\" le proprie viscere",
+      "no": "secondo alcuni esisteva un'altra strofa ( in realtà chissà quante...)\n\nΗ βλάβη τούτη, μάστορα,\nδέν είναι απο μένα.\nΤο κάρβουνο είναι ψιλό,\nτά τουμπα είναι φραγμένα\n\nI vlávi túti, mástora,\nden íne apό ména.\nTo kárvuno íne psilό,\nta túmba íne fraghména\n\nQuesto guasto, capo,\nnon dipende da me.\nIl carbone è (troppo) fine/polveroso,\ni tubi sono ostruiti\n\nSi dice che Batis abbia composto il brano basandosi sui racconti ravvicinati di suo cognato, che aveva lavorato proprio come fuochista sui mercantili transoceanici.\n Esiste un dibattito filologico durato decenni tra gli appassionati di rebetiko. Nel testo Batis canta \"με τσι φωτιές μαλώνει\" (litiga con le fiamme) o \"μ' έξι φωτιές μαλώνει\" (litiga con sei fiamme)? Il regista Kostas Ferris ha ripulito digitalmente la traccia originale scoprendo che Batis dice proprio \"sei fiamme\". Questo coincide storicamente con la struttura tecnica dei mercantili dell'epoca (due caldaie a tre focolari ciascuna, per un totale di 6 fuochi da alimentare contemporaneamente)."
+    },
     {
       "id": "s_1788352202378",
       "offsets": {},
@@ -7379,6 +7555,14 @@
   ],
   "args": [
     {
+      "id": "a_1788426134191",
+      "title": "Le carceri di Oropos: un luogo di memorie, terremoto e musica",
+      "tag": "storie di luoghi",
+      "date": "2026-08-21",
+      "body": "Origini: un terreno, due benefattori, due istituzioni\n\nLa storia di questo luogo comincia lontano dalla sua fama più cupa. Nel 1897, il grande benefattore nazionale Andreas Syngros — imprenditore, banchiere e filantropo nato a Costantinopoli, una delle figure più influenti e controverse della Grecia di fine '800     \n{{img:https://musicagreca.com/images/singros.jpg|centro}}     (celebrato come \"grande benefattore\", ma descritto da alcuni storici anche come spregiudicato speculatore finanziario, il cui filantropismo postumo servì forse anche a lucidare un'immagine pubblica ambigua) — lasciò con testamento il terreno di Oropos, due anni prima di morire. Su quel terreno, a partire dal 1906/1909, sorsero i primi edifici come sede distaccata dell'Orfanotrofio Amalieio (dedicato alla regina Amalia), pensati come ospedale per orfane.\n\nParallelamente, ad Atene (quartiere di Ampelokipoi), nacque un'istituzione distinta: l'Asilo Embirikos per Bambini Senzatetto, finanziato dalla generosa donazione di Antonis Embirikos, della potente famiglia di armatori e benefattori di Andros. La costruzione di quell'edificio iniziò nel 1917, e nel 1925 passò sotto la gestione del Ministero della Previdenza Sociale. Nel 1926, le attività e i ragazzi di questa istituzione ateniese si trasferirono nel complesso già esistente di Oropos, dando vita lì all'Emperikeio Asylo Arrenon (l'asilo maschile) — che nel frattempo aveva già ospitato, temporaneamente, bambini profughi armeni (1915) e dell'Asia Minore e del Ponto (1922) in fuga dalle persecuzioni e dalla Catastrofe.     {{img:https://musicagreca.com/images/arrivorifugiatioropos.jpg|destra}}\n\nNel 1929 i ragazzi furono trasferiti a Syros, e nel 1933 lo Stato greco riscattò l'intera proprietà, trasformandola in carcere agricolo. Da subito, marzo 1933, vi furono rinchiusi anche i primi detenuti politici.\n\nIl terremoto del 1938: una notte di terrore\n{{img:https://musicagreca.com/images/oroposprigioni2.jpg|centro}}\nIl 20 luglio 1938, alle 2:25 del mattino, un terremoto di magnitudo 6 con epicentro a Oropos scosse l'Attica. Il carcere, colto nel sonno e al buio, visse ore di puro terrore. Le testimonianze dirette dei detenuti, pubblicate sui giornali dell'epoca, restituiscono immagini scioccanti:\n\n\"Non eravamo diversi da topi chiusi in trappola. Tutto l'edificio tremava e pensavamo che sarebbe crollato su di noi...\"\n— un detenuto, Η βραδυνή, 21 luglio 1938\n\n\"La terra ci sfuggiva sotto i piedi, i muri crollavano con fragore, una nuvola di polvere ci soffocava, fuori le guardie sparavano e noi urlavamo come indemoniati... Alcuni, insieme a dei tedeschi, avevano delle lime — non so dove le avessero trovate — e cominciarono a limare le sbarre delle porte!\"\n— un detenuto, Η βραδυνή, 21 luglio 1938\n{{img:https://musicagreca.com/images/oroposprigioni3.jpg|centro}}\nIl bilancio: 3 detenuti morti (tra cui il barbiere Doulfis, incarcerato per aver ucciso tre dei propri figli nel 1930, colto da infarto per il terrore — non schiacciato dai crolli, come chiarì un altro detenuto testimone, correggendo le cronache dell'epoca), un gendarme morto, decine di feriti. Il direttore del carcere, E. Kritsas, raccontò come priorità assoluta fosse impedire la fuga dei circa 550 detenuti presenti — anche nel pieno del caos. Ivan Metaxas visitò le rovine quel pomeriggio, commentando: \"Ci voleva proprio il terremoto a distruggerla.\"   I 484 detenuti superstiti furono trasferiti, ammanettati a coppie, alle carceri di Syngrou. Gli edifici furono poi ricostruiti esclusivamente come carcere.   {{img:https://musicagreca.com/images/oroposprigioni4.jpg|destra}}\n\nDal dopoguerra alla Giunta\n\nIl carcere proseguì la sua attività ordinaria fino al 1967, quando la Giunta militare lo trasformò in luogo di detenzione ed esilio specificamente per i prigionieri politici — tra cui Manolis Glezos, Andreas Lentakis, Charilaos Florakis e Mikis Theodorakis.\n\nIl filo musicale\n\nIl legame tra Oropos e la musica popolare greca nasce quasi insieme al carcere stesso: già nel 1934, appena un anno dopo la trasformazione in carcere agricolo, il rebetis Giorgos Batis scrisse \"Οι Φυλακές του Ωρωπού\".\n\nDurante la prigionia di Theodorakis nacquero le canzoni \"Μην ξεχνάς τον Ωρωπό\" e \"Διότι δεν συνεμορφώθην\" (nata dopo che la direzione del carcere bloccò una sua lettera di protesta alla Croce Rossa Internazionale, giustificandosi che \"non si era conformato alle disposizioni\").\n\nL'episodio più celebre resta però quello legato a Manolis Chiotis. Nella primavera del 1970, con la salute già minata dal cancro dopo anni difficili, Chiotis si recò insieme ad altri tre artisti fuori dal filo spinato del carcere per suonare col suo buzuki \"Σε πότισα ροδόσταμο\" (musica di Theodorakis, testo di Nikos Gatsos) — un gesto di solidarietà per cui, secondo diverse fonti, fu poi arrestato e torturato dalla Sicurezza di Stato. Sulla data esatta le fonti divergono: la ricostruzione storica la colloca tra fine febbraio e inizio marzo, settimane prima della sua morte (21 marzo 1970); lo stesso Theodorakis, in un'intervista del 2007, la racconta invece come avvenuta proprio il giorno della morte di Chiotis — una versione più \"leggendaria\", coerente con la sua fede dichiarata in una misteriosa \"Armonia Universale\" che avrebbe spinto l'amico a venire a salutarlo per l'ultima volta.\n\nDalla chiusura a oggi\n\nIl carcere cessò l'attività nel 1974, con la caduta della Giunta. Seguì un periodo di uso \"di ripiego\": una parte degli edifici ospitò il Ginnasio di Oropos (1976-1989), poi il Liceo locale (fino al 2006), mentre il resto cadeva lentamente in abbandono.\n {{img:https://musicagreca.com/images/fylakes-oropos.jpg|centro}}\nNel 2021 il complesso fu ufficialmente intitolato a Mikis Theodorakis, diventando il \"Centro di Storia, Democrazia e Cultura Mikis Theodorakis\". I lavori di restauro sono iniziati nel maggio 2024 (budget di 6,7 milioni di euro). Nel frattempo, in uno degli edifici ha già aperto una piccola Λαογραφική Στέγη (casa del folklore locale), con ambienti d'epoca ricostruiti e materiali storici sulla vita della zona.",
+      "link": ""
+    },
+    {
       "id": "a_1788349765380",
       "title": "\"Ο Μενούσης\" — un delitto attraverso i secoli",
       "tag": "storie di canzoni",
@@ -10239,6 +10423,7 @@
       "roles": [
         "at",
         "am",
+        "ar",
         "mu"
       ]
     },
