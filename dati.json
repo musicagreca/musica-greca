@@ -1,8 +1,54 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-04T04:57:54.065Z",
+  "exportedAt": "2026-09-04T06:42:19.609Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788504131050",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-04",
+      "tgr": "Πού με βρήκες, πού σε βρήκα",
+      "tit": "Pu me vrìkes, pu se vrìka",
+      "alias": "",
+      "at": "Κώστας Μάνεσης",
+      "am": "Γιάννης Παπαϊωάννου",
+      "yr": "1950",
+      "ar": "Σωτηρία Μπέλλου, Νίκος Καλλέργης",
+      "lb": "Columbia DG-6850",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "ll": "https://www.youtube.com/watch?v=Xtg89ZW0wJA",
+      "li": "",
+      "ch": "MI      REm      MI\nΠου με βρήκες που σε βρήκα\nLAm                MI\nόμορφή μου πιτσιρίκα\nREm                    MI\nΠου σε βρήκα βρε μαργιόλα \nMI            REm      MI\nκαι μου τα 'χεις φάει όλα \nREm                    MI\nΠου σε βρήκα βρε μαργιόλα \nMI            REm      MI\nκαι μου τα 'χεις φάει όλα\n\nMI            REm      MI\nΠου με βρήκες που σε βρήκα\nLAm                 MI\nνόμιζα πως έχεις γλύκα\nREm                MI\nμα το πρώτο σου φιλάκι \nMI       REm      MI\nμε επότισε φαρμάκι \nREm                MI\nμα το πρώτο σου φιλάκι \nMI       REm      MI\nμε επότισε φαρμάκι\n\nMI              REm      MI\nΠου με βρήκες που σε βρήκα\nLAm                      MI\nστην καρδιά σου μέσα μπήκα\nREm                 MI\nκι έγινε καβγάς μεγάλος \nMI      REm      MI\nγιατί μέσα ήταν άλλος\n \nREm                 MI\nΚι έγινε καβγάς μεγάλος \nMI      REm        MI\nγιατί μέσα ήταν άλλος \nREm                 MI\nΚι έγινε καβγάς μεγάλος \nMI      REm        MI\nγιατί μέσα ήταν άλλος",
+      "tr": "Pu me vríkes pu se vríka\n\nPu me vríkes pu se vríka\nόmorfí mu pitsiríka\nPu se vríka vre marghiόla\nke mu ta 'chis fái όla\n\nPu me vríkes pu se vríka\nnόmiza pos échis ghlίka\nma to prόto su filáki\nme epόtise farmáki\n\nPu me vríkes pu se vríka\nstin kardiá su mésa bíka\nki éghine kavghás meghálos\ngiatí mésa ítan álos\n\nKi éghine kavghás meghálos\ngiatí mésa ítan álos",
+      "ti": "Dove mi hai trovato, dove ti ho trovata\n\nDove mi hai trovato, dove ti ho trovata\nmia bella ragazzina\ndove ti ho trovata, ehi civettuola\ne mi hai mangiato tutto (rovinato tutto)\n\nDove mi hai trovato, dove ti ho trovata\npensavo avessi dolcezza\nma il tuo primo bacetto\nmi ha fatto bere veleno\n\nDove mi hai trovato, dove ti ho trovata\nsono entrato dentro il tuo cuore\ne scoppiò una grande lite\nperché dentro c'era un altro\n\nE scoppiò una grande lite\nperché dentro c'era un altro\n\nNote:\n\nπιτσιρίκα — ragazzina/giovincella (termine colloquiale affettuoso)\nμαργιόλα — civettuola, maliziosa (termine popolare simile a \"τσαχπίνα\")\nμου τα 'χεις φάει όλα — idiomatico: \"mi hai mangiato tutto\", cioè mi hai rovinato/consumato tutto (economicamente o emotivamente)",
+      "no": ""
+    },
+    {
+      "id": "s_1788499546563",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-04",
+      "tgr": "Πότε Βούδας, πότε Κούδας",
+      "tit": "",
+      "alias": "",
+      "at": "Μανώλης Ρασούλης",
+      "am": "Πέτρος Βαγιόπουλος",
+      "yr": "1986",
+      "ar": "Νίκος Παπάζογλου",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Tsifteteli",
+      "ll": "https://www.youtube.com/watch?v=KGInK6zHD1U",
+      "li": "",
+      "ch": "REm                      DO                 FA\nΠότε Βούδας, πότε Κούδας, πότε Ιησούς κι Ιούδας\nSOLm      REm              SOLm      REm\nΈχω καταλάβει ήδη της ζωής μου το παιχνίδι\nREm                     DO            FA\nΈχω καταλάβει ήδη της ζωής μου το παιχνίδι\nSOLm      REm      SOL           DOm      REm\nΠότε Βούδας, πότε Κούδας, πότε Ιησούς κι Ιούδας\n\nREm                      DO                FA\nΌλο ίδια και τα ίδια, του μυαλού σου ροκανίδια\nSOLm          REm       SOLm          REm\nΆλλο ο ανοιχτομάτης κι άλλο ο αυγουλομάτης\n\nREm                           DO                FA\nΣτο 'πα μια και στο 'πα δύο, στο 'πα χίλιες δέκα δύο\nSOLm        REm         SOL        DOm      REm\nβρε δεν είναι εδώ το Σούλι, εδώ είναι του Ρασούλη\n\nREm                      DO                 FA\nΠότε Βούδας, πότε Κούδας, πότε Ιησούς κι Ιούδας\nSOLm      REm              SOLm      REm\nΈχω καταλάβει ήδη της ζωής μου το παιχνίδι\nREm                     DO            FA\nΈχω καταλάβει ήδη της ζωής μου το παιχνίδι\nSOLm      REm      SOL           DOm      REm\nΠότε Βούδας, πότε Κούδας, πότε Ιησούς κι Ιούδας",
+      "tr": "Pόte Vúdas, pόte Kúdas\n\nPόte Vúdas, pόte Kúdas, pόte Iisús ki Iúdas\nÉcho katalávi ídi tis zoís mu to pechnίdi\nÉcho katalávi ídi tis zoís mu to pechnίdi\nPόte Vúdas, pόte Kúdas, pόte Iisús ki Iúdas\n\nΌlo ídia ke ta ídia, tu mialú su rokanídia\nÁlo o anichtomátis ki álo o avghulomátis\n\nSto 'pa mia ke sto 'pa dίo, sto 'pa chίlies déka dίo\nvre den íne edό to Súli, edό íne tu Rasúli\n\nPόte Vúdas, pόte Kúdas...",
+      "ti": "Ora Budda, ora Kuda, ora Gesù e Giuda\nho già capito il gioco della mia vita\nho già capito il gioco della mia vita\nora Budda, ora Kuda, ora Gesù e Giuda\n\nSempre le stesse cose e le stesse cose, trucioli del tuo cervello\naltro è chi ha gli occhi aperti (sveglio), altro è chi ha gli occhi da uovo (ingenuo)\n\nTe l'ho detto una volta, te l'ho detto due, te l'ho detto mille e dodici volte\nehi, qui non è Souli, qui è terra di Rasouli\n\nOra Budda, ora Kuda...\n\nNote:\n\nροκανίδια — trucioli (di legno), qui usato figurativamente per \"sciocchezze/idee vuote\"\nανοιχτομάτης — \"occhi aperti\", cioè persona sveglia/scaltra\nαυγουλομάτης — parola inventata/gergale, letteralmente \"occhi d'uovo\", probabilmente per indicare ingenuità o sguardo vacuo, in contrasto con l'\"ανοιχτομάτης\"\nΣούλι — regione storica dell'Epiro, celebre per la resistenza degli Souliotes contro gli Ottomani, simbolo di eroismo/resistenza nella cultura greca\nΡασούλης —autocitazione dell'autore del testo",
+      "no": "Il testo è nato da un colpo di genio di Manolis Rasoulis ed è legato a Giorgos Koudas, il più grande calciatore della storia del PAOK Salonicco e vera e propria divinità vivente in Macedonia.\nRasoulis era a Salonicco e notò come i tifosi locali venerassero Koudas quasi come una figura divina o mistica. Essendo un appassionato di filosofia orientale, Rasoulis unì il sacro e il profano scrivendo il verso: «Πότε Βούδας, πότε Κούδας, πότε Ιησούς κι Ιούδας» (Un po' Buddha, un po' Koudas, un po' Gesù e Giuda). Il significato profondo è che l'essere umano cambia costantemente \"idoli\" e stati d'animo, ma alla fine gira sempre intorno alle stesse cose («Όλο ίδια και τα ίδια...»).\nGiorgos Koudas ha raccontato in un'intervista che la prima volta che sentì il brano alla radio mentre guidava, accostò l'auto spaventato, chiedendosi cosa avesse fatto per finire in mezzo a Buddha e Gesù. In seguito, lui e Rasoulis divennero grandi amici."
+    },
     {
       "id": "s_1788497343554",
       "offsets": {},
@@ -12084,6 +12130,34 @@
       "roles": [
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1788498836029",
+      "name": "Πέτρος Βαγιόπουλος",
+      "nameit": "Pétros Vagiópoulos",
+      "born": "7 settembre 1949, Sofades (Karditsa)",
+      "died": "",
+      "bio": "Compositore greco, laureato in Matematica a Salonicco. Per una decina d'anni fu proprietario e direttore di frontistíria (scuole private di preparazione) per l'accesso alle Scuole Superiori — quindi la musica non fu mai la sua unica professione. Fin dagli anni scolastici si dedicò parallelamente alla composizione.\n\nNel 1977 iniziò a collaborare con il poeta Dimitris Christodoulou. Nel 1983 conobbe Manolis Rasoulis, con cui lavorò per 30 anni, in numerosi dischi e concerti — una delle collaborazioni più durature e significative della sua carriera.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vaghiopulos.jpg",
+      "roles": [
+        "am"
+      ]
+    },
+    {
+      "id": "p_1788502581901",
+      "name": "Νίκος Καλλέργης",
+      "nameit": "Níkos Kallérgis",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Cantante del rembetiko/laïkó, co-interprete insieme a Sotiria Bellou della prima esecuzione di \"Που με βρήκες που σε βρήκα\" (testo di Kostas Manesis, musica di Giannis Papaioannou), registrata nel 1950.\n\nNota: non è stato possibile reperire alcuna informazione biografica (nascita, morte, altre notizie) — resta documentato solo attraverso questa collaborazione discografica con una delle voci più importanti del rembetiko.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kalerghis.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
