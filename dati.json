@@ -1,8 +1,164 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-03T15:30:17.931Z",
+  "exportedAt": "2026-09-04T04:57:54.065Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788497343554",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Σωτηρία Μπέλλου, Βασίλης Τσιτσάνης",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=opKD5_IHV0A"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1973",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=AS0BZH-FSjM"
+        }
+      ],
+      "date": "2026-09-04",
+      "tgr": "Πέφτεις σε λάθη",
+      "tit": "Péftis se láthi",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1948",
+      "ar": "",
+      "lb": "Columbia DG 6747)",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "ll": "",
+      "li": "",
+      "ch": "LAm      SOL      LAm\nΠέφτεις σε λάθη, τι έχεις πάθει\n             LA            REm\nκαι κάθε μέρα βρίζεις και γελάς\nMI      FA      LAm      FA\nΜε πικραίνεις, σαν ξένο με κοιτάς \nSOL      FA      MI      LAm\nκαι στο ρέμα με τραβάς \nMI      FA      LAm      FA\nΜε πικραίνεις, σαν ξένο με κοιτάς \nSOL      FA      MI      LAm\nκαι στο ρέμα με τραβάς \n\nLAm               SOL      LAm\nΔεν είσαι εκείνη που είχα γνωρίσει\n             LA             REm\nκι ήτανε σφάλμα να σε παντρευτώ\nMI      FA      LAm      FA\nΜε προδίνεις και πρέπει να σε βρει \nSOL     FA   MI    LAm\nτιμωρία σοβαρή \nMI      FA      LAm      FA\nΜε προδίνεις και πρέπει να σε βρει \nSOL     FA   MI    LAm\nτιμωρία σοβαρή \n\nLAm              SOL      LAm\nΈχεις αλλάξει και μ' έχεις κάψει\nLA      REm\nτην προσβολή σου δε θα τη δεχτώ\nMI      FA      LAm      FA\nΔε σ' αντέχω, κυρά μου δε βαστώ \nSOL      FA      MI      LAm\nκαι το δρόμο μου τραβώ \nMI      FA      LAm      FA\nΔε σ' αντέχω, κυρά μου δε βαστώ \nSOL      FA      MI      LAm\nκαι το δρόμο μου τραβώ",
+      "tr": "Péftis se láthi\n\nPéftis se láthi, ti échis páthi\nke káthe méra vrízis ke ghielás\nMe pikrénis, san kséno me kitás\nke sto réma me travás\n\nDen íse ekíni pu ícha ghnorísi\nki ítane sfálma na se pandreftό\nMe prodίnis ke prépi na se vrí\ntimoría sovarí\n\nÉchis aláksi ke m'échis kápsi\ntin prosvolí su de tha ti dechtό\nDe s'andécho, kirá mu de vastό\nke to drόmo mu travό",
+      "ti": "Cadi negli errori (Stai sbagliando)\n\nCadi negli errori, cosa ti è successo\nche ogni giorno insulti e ridi\nmi amareggi, mi guardi come un estraneo\ne mi trascini nella rovina\n\nNon sei quella che avevo conosciuto\ned è stato uno sbaglio sposarti\nmi tradisci e devi ricevere\nuna punizione severa\n\nSei cambiata e mi hai bruciato (di dolore)\nla tua offesa non l'accetterò\nnon ti sopporto, signora mia, non resisto\ne prendo la mia strada\n\nNote:\n\nστο ρέμα με τραβάς — idiomatico: \"mi trascini nel torrente/nella rovina\", cioè mi porti alla rovina/al disastro\nκυρά μου — \"signora mia\", appellativo formale-ironico usato qui in tono di distacco/rimprovero verso la moglie, non più affettuoso",
+      "no": ""
+    },
+    {
+      "id": "s_1788496361759",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Οδυσσέας Μοσχονάς",
+          "year": "1947",
+          "note": "al violino  Δημήτρης Σέμσης",
+          "link": "https://www.youtube.com/watch?v=Mzq4k4FuZIo"
+        },
+        {
+          "who": "Γιάννης Παπαϊωάννου",
+          "year": "1966",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=4LYPa01j040"
+        },
+        {
+          "who": "Μάρκος Μελκόν",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=AM-gIQhLAFk"
+        }
+      ],
+      "date": "2026-09-04",
+      "tgr": "Πέντε Έλληνες στον Άδη",
+      "tit": "Pènde èllines ston Adi",
+      "alias": "",
+      "at": "Κώστας Μάνεσης",
+      "am": "Γιάννης Παπαϊωάννου",
+      "yr": "1947",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm\nΠέντε Έλληνες στον Άδη\nREm        DOm    REm\nανταμώσαν ένα βράδυ\nREm                 SOLm\nΚαι το γλέντι αρχινάνε\n              DOm      REm\nκι όλα γύρω τους τα σπάνε\n\nREm\nΜε μπουζούκια, μπαγλαμάδες\nREm        DOm    REm\nτρέλαναν τους σατανάδες\nREm                 SOLm\nΚι από κέφι ζαλισμένοι\n              DOm      REm\nχόρευαν οι κολασμένοι\n\nREm\nΣτο ρωμαίικο τραγούδι\nREm        DOm    REm\nκάηκε το πελεκούδι\nREm                 SOLm\nΚι όλοι φώναζαν αράδα\n              DOm      REm\nνα μάς ζήσει η Ελλάδα\n\nREm\nΩς κι ο Χάροντας ακόμα\nREm        DOm    REm\nμένει με ανοιχτό το στόμα\nREm                 SOLm\nκαι φωνάζει από πάνου\n              DOm      REm\nΓεια σου Παπαϊωάννου",
+      "tr": "Pénde Élines ston Ádi\n\nPénde Élines ston Ádi\nandamόsan éna vrádi\nKe to gléndi archinane\nki όla ghíro tus ta spáne\n\nMe buzúkia, baglamádes\ntrélanan tus satanádes\nKi apό kéfi zalisméni\nchόrevan i kolasméni\n\nSto romέiko tragúdi\nkáike to pelekúdi\nKi όli fόnazan aráda\nna mas zísi i Eláda\n\nOs ki o Chárondas akόma\nméni me anichtό to stόma\nke fonázi apό pánu\nGhiásu Papaiοánnu",
+      "ti": "Cinque greci nell'Ade\n\nCinque greci nell'Ade\nsi incontrarono una sera\ne iniziano la festa\ne rompono tutto intorno a loro\n\nCon bouzouki, baglamàs\nfecero impazzire i diavoli\ne storditi dal buon umore\nballavano i dannati\n\nSul canto romeo (greco)\nsi consumò il tizzone/legnetto (per l'intensità del suono)\ne tutti gridavano in fila\nche viva la Grecia\n\nPersino Caronte stesso\nrimane a bocca aperta\ne grida dall'alto\nsalute a te, Papaioannou\n\nNote:\n\nρωμαίικο τραγούδι — canto \"romeo/greco\", termine con cui i greci si autodefinivano tradizionalmente come eredi di Bisanzio (Ρωμηοί)\nπελεκούδι — piccolo legnetto/scheggia di legno, usato qui in senso figurato scherzoso per indicare l'ardore/intensità della festa (\"si è consumato il legnetto\" dal troppo ballare/suonare)\nΧάροντας — Caronte, personificazione popolare greca della Morte, già presente nella tradizione come traghettatore dell'Ade",
+      "no": "L'allegoria dell'Ade e della Resistenza: Il brano fu scritto e registrato nel 1947, in un momento in cui la Grecia stava uscendo dal trauma della Seconda Guerra Mondiale e dall'Occupazione dell'Asse, trovandosi nel pieno della guerra civile. L'idea di \"Cinque Greci che scendono nell'Ade\" e iniziano a fare festa, ballare e suonare il bouzouki davanti a Caronte è una metafora della resilienza e dello spirito indomito del popolo greco, capace di sconfiggere la tristezza e la morte stessa con la musica e il ballo. \nIl celebre verso finale: Il brano si chiude con il verso «Να μας ζήσει η Ελλάδα, βρε παιδιά» (\"Che l'Grecia possa vivere, ragazzi!\"). All'epoca, questa frase non aveva una connotazione semplicemente nazionalista, ma esprimeva il profondo desiderio di rinascita, fratellanza e sopravvivenza di un popolo stremato da anni di sofferenze."
+    },
+    {
+      "id": "s_1788494294182",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Τάκης Μπίνης, Στέλλα Χασκίλ, Μανώλης Χιώτης",
+          "year": "1951",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=8IoZ5iX6riw"
+        },
+        {
+          "who": "Μαίρη Λίντα, Μανώλης Χιώτης",
+          "year": "1959",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Gxdq01e-Q5k"
+        }
+      ],
+      "date": "2026-09-04",
+      "tgr": "Παρτίδες",
+      "tit": "Partìdes",
+      "alias": "",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Μανώλης Χιώτης",
+      "yr": "1951",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                           LA\nΠαρτίδες αδερφάκι μου θ' ανοίξουμε\nLA                           REm\nκαι την παλιά φιλία μας θα σβήσουμε\nSOLm           REm           SOLm           REm\nΡε μάγκα το παράκανες, θαρρώ πολλά μού τα 'κανες \nLA     REm  DO  FA      REm\nΣτη γκόμενά μου μην ξανακολλά-----ς \nSOLm           REm           SOLm           REm\nΡε μάγκα το παράκανες, θαρρώ πολλά μού τα 'κανες \nLA     REm  DO  FA      REm\nΣτη γκόμενά μου μην ξανακολλά-----ς \n\nREm                           LA\nΚαι κόψ' τα σούρτα-φέρτα μπρός στο σπίτι της\nLA                           REm\nΚαλά και σώνει πας να μπεις στη μύτη της\nSOLm           REm           SOLm           REm\nΑς το χωρέσει η κούτρα σου, δεν είναι για τα μούτρα σου \nLA     REm  DO  FA      REm\nΣτη γκόμενά μου μην ξανακολλάς \nSOLm           REm           SOLm           REm\nΑς το χωρέσει η κούτρα σου, δεν είναι για τα μούτρα σου \nLA     REm  DO  FA      REm\nΣτη γκόμενά μου μην ξανακολλάς\n\nREm                           LA\nΤο ξέρεις πως για χάρη μου τρελαίνεται\nLA                           REm\nκαι μάγκες σαν και σένα τους σιχαίνεται\nSOLm           REm           SOLm           REm\nΓι αυτό λοιπόν σαχλόμαγκα, παράτα τα καμώματα \nLA     REm  DO  FA      REm\nΤη γκομενίτσα δε θα μου τη φας \nSOLm           REm           SOLm           REm\nΓι αυτό λοιπόν σαχλόμαγκα, παράτα τα καμώματα \nLA     REm  DO  FA      REm\nΤη γκομενίτσα δε θα μου τη φας",
+      "tr": "Partídes\n\nPartídes aderfáki mu th'aníksume\nke tin paliá filía mas tha svísume\nRe mánga to parákanes, tharró polá mu ta 'kanes\nSti gómená mu min ksanakolás\n\nKe kόps' ta súrta-férta brόs sto spíti tis\nKalá ke sόni pas na bis sti míti tis\nAs to chorési i kútra su, den íne gia ta mútra su\nSti gómená mu min ksanakolás\n\nTo kséris pos gia chári mu treléneте\nke mánges san ke séna tus sichéneте\nGi'aftό lipόn sachlόmanga, paráta ta kamόmata\nTi gomenítsa de tha mu ti fas",
+      "ti": "Partite\n\nApriremo delle partite, fratellino mio\ne la nostra vecchia amicizia la spegneremo\nehi mangas, hai esagerato, credo che tu me ne abbia fatte tante\nnon attaccarti più alla mia ragazza\n\nE taglia corto con l'andirivieni davanti a casa sua\nproprio ci tieni ad entrarle nelle grazie (letteralmente \"nel naso\")\nche se lo metta bene in testa la tua zucca, non fa per la tua faccia\nnon attaccarti più alla mia ragazza\n\nLo sai che va pazza per me\ne i mangas come te li detesta\nper questo, sciocco spaccone, pianta le tue moine\nla ragazzina non me la porterai via\n\nNote:\n\nπαρτίδες θ' ανοίξουμε — idiomatico gergale: \"apriremo partite/conti in sospeso\", cioè minaccia di rottura definitiva/regolamento di conti\nσούρτα-φέρτα — andirivieni, andare e venire continuo (espressione onomatopeica popolare)\nμπαίνω στη μύτη κάποιου — idiomatico: letteralmente \"entrare nel naso di qualcuno\", nel senso di intrufolarsi nelle sue grazie/farsi notare con insistenza\nκούτρα — testa/zucca (gergale, spesso con sfumatura dispregiativa)\nσαχλόμαγκας — parola composta spregiativa: \"mangas sciocco/insulso\" (da \"σαχλός\", sciocco/insipido + \"μάγκας\")\nγκομενίτσα — diminutivo di \"γκόμενα\" (ragazza/fidanzata)",
+      "no": ""
+    },
+    {
+      "id": "s_1788492035830",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Απόστολος Χατζηχρήστος",
+          "year": "1940",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=67aXmrQfXvo"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=EdqBLrIOLIE"
+        },
+        {
+          "who": "Δημήτρης Λίβανος, Φωτούλα",
+          "year": "2004",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=RJ4vgG21bIU"
+        }
+      ],
+      "date": "2026-09-04",
+      "tgr": "Παραπονιάρικό μου",
+      "tit": "Paraponiàrikò mu",
+      "alias": "",
+      "at": "Γιάννης Λελάκης",
+      "am": "Απόστολος Χατζηχρήστος",
+      "yr": "1940",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "E        RE#         RE            RE#           RE\nΌ,τι κι αν έχεις στην καρδιά, να μου το λες μικρό μου\nSOLm                     RE      RE#      RE\nΚι όχι να κάθεσαι να κλαις, παραπονιάρικό μου\nSOLm      RE      SOL#      DOm      RE\nΚι όχι να κάθεσαι να κλαις, παραπονιάρικό μου\n\nRE      RE#      RE      RE#      RE\nΚαι αν σε πίκρανα εγώ με τον εγωισμό μου\nSOLm                   RE      RE#      RE\nΣυμπάθησέ με και μην κλαις, παραπονιάρικό μου \nSOLm                   RE      RE#      RE\nΣυμπάθησέ με και μην κλαις, παραπονιάρικό μου\n\nRE      RE#      RE      RE#      RE\nΑπόψε θα 'ρθω να στο πω, πως σ' αγαπώ μικρό μου\nSOLm                RE      RE#      RE\nΚαι μην κρυφοστενάζεις πια, παραπονιάρικό μου \nSOLm                   RE      RE#      RE\nΚαι μην κρυφοστενάζεις πια, παραπονιάρικό μου",
+      "tr": "Paraponiàrikò mu\n\nΌti ki an échis stin kardiá, na mu to les mikrό mu\nKi όchi na káthese na klais, parapoyiáriкό mu\nKi όchi na káthese na klais, paraponiáriкό mu\n\nKe an se píkrana egό me ton egoismό mu\nSimbáthisé me ke min kles, paraponiáriкό mu\n\nApόpse tha 'rtho na sto po, pos s'aghapό mikrό mu\nKie min krifostenázis pia, paraponiáriкό mu",
+      "ti": "Mia lamentosa\n\nQualunque cosa tu abbia nel cuore, dimmela, piccola mia\ne non stare seduta a piangere, mia lamentosa\ne non stare seduta a piangere, mia lamentosa\n\nE se ti ho amareggiata io col mio egoismo\nperdonami e non piangere, mia lamentosa\n\nStasera verrò a dirtelo, che ti amo, piccola mia\ne non sospirare più di nascosto, mia lamentosa\n\nNote:\n\nπαραπονιάρικο — vezzeggiativo da \"παράπονο\" (lamentela), letteralmente \"la mia piccola lamentosa/che si lamenta sempre\", usato qui con affetto verso la partner\nκρυφοστενάζω — sospirare di nascosto/in segreto, verbo composto che indica un dolore trattenuto e non condiviso apertamente",
+      "no": ""
+    },
     {
       "id": "s_1788449299620",
       "offsets": {},
@@ -6299,9 +6455,9 @@
       "offsets": {},
       "executions": [],
       "date": "2026-08-03",
-      "tgr": "Ωφ αμάν",
-      "tit": "Of aman",
-      "alias": "Πίνω και μεθώ",
+      "tgr": "Πίνω και μεθώ",
+      "tit": "Pìno kie metò",
+      "alias": "Ωφ αμάν",
       "at": "Σπύρος Περιστέρης",
       "am": "Σπύρος Περιστέρης",
       "yr": "1934",
@@ -8595,7 +8751,7 @@
       "nameit": "Manòlis Chiòtis",
       "born": "21 marzo 1920 Salonicco",
       "died": "21 marzo 1970, Atene",
-      "bio": "Nato il 21 marzo 1920 (o 1921) a Salonicco (secondo altri a Nauplia), da famiglia comunque proveniente da Nauplia, — esattamente nel giorno del suo compleanno. Compositore, uno dei più importanti della canzone popolare greca, e straordinario virtuoso del bouzouki.\n\nLe origini\n\nIl padre si chiamava Diamantis Chiotis, un varymángas nato al Pireo con origini da Leonidio in Arcadia. Da piccolo cominciò a studiare chitarra, bouzouki e in seguito oud con un insegnante di Salonicco. A 15 anni, quando la famiglia si trasferì a Nauplia, cominciò a lavorare professionalmente come musicista. Nel 1936 andò ad Atene dove si esibì per un breve periodo ai \"Pagonia\" e subito dopo al \"Dasos\", accanto al grande Stratos Pagioumtzis.\n\nInfluenzò la canzone popolare e la musica greca in generale inventando la variante tetracorde del bouzouki — il cosiddetto kitharobouzouko — che rispetto al tradizionale tricorde offriva maggiore velocità, flessibilità e un suono più vicino alla chitarra. La scelta fu controversa: i tradizionalisti lo criticarono aspramente, ma la nuova accordatura si diffuse e diventò dominante. La \"scuola di Chiotis\" fu abbracciata da compositori e virtuosi come Lemónopoulos, Zambetas, Zafiriou, Spóros, Tatassópoulos, Tzouanakos, Kaldaras, Mitsakis e altri.\n\n\nCreò anche il primo \"centro cosmopolita\" — un locale elegante che portò il bouzouki fuori dai quartieri popolari e lo introdusse nella borghesia ateniese, contribuendo alla trasformazione del laïká in musica di massa.\n\n\nTrascorse un lungo periodo negli Stati Uniti dove registrò per il mercato della diaspora greca, lasciando una discografia americana significativa e meno conosciuta.\n\nViene ricordato come il \"Beethoven del bouzouki\".",
+      "bio": "Figlio di Diamantis Chiotis, un \"varýmangas\" (mangas di rispetto) nato al Pireo. Fin da piccolo si avvicinò agli strumenti popolari, studiando chitarra, buzuki e poi outi con il maestro di musica salonicchiota Giorgos Lolos.\n\nÈ considerato una delle figure più influenti della musica popolare greca del '900, protagonista decisivo della transizione dal rembetiko al laïkó del dopoguerra. La sua innovazione più celebre: introdusse il buzuki a quattro corde (tetráchordo) a metà degli anni '50 — una vera rivoluzione tecnica e sonora che trasformò per sempre lo strumento, ampliandone le possibilità espressive e contribuendo a elevarne lo status sociale, allontanandolo dall'immagine legata al mondo del rembetiko \"di bassa lega\" delle origini. Fu anche il creatore del primo \"kosmikó kéntro\" — il locale notturno elegante, di classe medio-alta, che sostituì la vecchia taverna popolare come spazio per la musica dal vivo.\n\nSposò la cantante Mary Linda nel 1958; divorziarono nel 1967.\n\nL'aneddoto con Jimi Hendrix: nel 1965, mentre Chiotis e Mary Linda si esibivano in un locale accanto a quello dove suonava Hendrix, quest'ultimo lo ascoltò cantare \"Την έδιωξα κι όμως την αγαπώ\" — rimase talmente colpito dalla velocità con cui suonava senza perdere una nota, sia alla chitarra che al buzuki, da tornare ad ascoltarlo più volte. Pronunciò la frase, ormai leggendaria: \"Manolis Chiotis suona la chitarra meglio di me\" — e aveva ragione. Anche il presidente americano Lyndon Johnson ne ammirò il talento.\nNegli ultimi anni di vita, con la salute già segnata dalla malattia, continuò comunque a esibirsi e a impegnarsi anche politicamente: nella primavera del 1970 si recò, insieme ad altri tre artisti, fuori dal filo spinato delle carceri di Oropos per suonare \"Σε πότισα ροδόσταμο\" (di Mikis Theodorakis, allora detenuto politico della Giunta) — un gesto di solidarietà per cui fu poi arrestato e torturato dalla Sicurezza di Stato.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/chiotis.jpg",
@@ -10857,7 +11013,8 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/lelakis.jpg",
       "roles": [
-        "at"
+        "at",
+        "mu"
       ]
     },
     {
@@ -11883,6 +12040,49 @@
       "roles": [
         "at",
         "am",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788491946351",
+      "name": "Φωτούλα",
+      "nameit": "Fotoúla",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Cantante del circuito rembetiko/laïkó della Beozia, attiva nei locali della zona di Distomo. Si esibiva regolarmente insieme a Nikos Pappas \"Kakourgos\" (1945-2026), figura di riferimento del rembetiko autentico beotico, e al buzukista Dimitris Livanos, tra gli altri artisti che animavano il locale di Kakourgos — un punto di ritrovo che ha contribuito in modo significativo a mantenere viva la tradizione rembetiko nella zona.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788494049543",
+      "name": "Μαίρη Λίντα",
+      "nameit": "Mèri Línda",
+      "born": "9 novembre 1935, Pyrgos (Elide)",
+      "died": "22 luglio 2026, Atene",
+      "bio": "Vero nome: Maria Dimitropoulou (Μαρία Δημητροπούλου)\n\nInterprete del laïkó tragoúdi greco, cresciuta dai due anni e mezzo nel quartiere di Kolonós ad Atene, dove la famiglia si era trasferita per la grave malattia del padre, che necessitava di cure ospedaliere — un'infanzia segnata dalla povertà.\n\nIniziò la carriera giovanissima grazie al talent scout Orestis Laskos, che le diede anche lo pseudonimo d'arte \"Mairi Linda\". Proseguì tra varietà e cabaret dell'epoca, finché — secondo Wikipedia, già a 12 anni — incontrò Manolis Chiotis, con cui formò una delle coppie artistiche più popolari degli anni '60, apparendo insieme anche in numerosi film del cinema greco. Fu sua moglie per un decennio (1958-1967).\n\nNonostante sia rimasta nella memoria collettiva legata soprattutto al sodalizio con Chiotis, le fonti la descrivono come una vera stella a sé, capace di brillare sia nel laïkó che nell'éntechno, con un temperamento e un'ironia \"vulcanici\" che la resero un personaggio a tutto tondo del panorama musicale greco.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/linda.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788495758096",
+      "name": "Μάρκος Μελκόν",
+      "nameit": "Márkos Melkón",
+      "born": "1895 (secondo alcune fonti 1899), Smirne/Izmir, Impero Ottomano",
+      "died": "1975",
+      "bio": "Cognome di famiglia: Alemsherian\n\nMusicista armeno, noto come \"Markos con l'outi\". Per evitare il servizio militare nell'esercito ottomano trascorse un periodo in Grecia da giovane, per poi emigrare definitivamente negli Stati Uniti (stabilendovisi dal 1921, secondo alcune fonti da Istanbul).\n\nPoliglotta — fluente in armeno, greco e turco — incise canzoni in tutte e tre le lingue. Fu tra i musicisti fondamentali per la scena rembetiko e per la musica mediorientale/della danza del ventre negli Stati Uniti, sostenendo e aiutando molti musicisti emigrati dal Levante.\n\nEbbe una carriera lunghissima: si esibì ancora nel 1971, morendo nel 1975. Tra le sue incisioni, quella del 1948 di \"Πέντε Έλληνες στον Άδη\" per l'etichetta americana \"Balkan\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/melkon.jpg",
+      "roles": [
+        "ar",
         "mu"
       ]
     }
