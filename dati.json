@@ -1,12 +1,107 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-04T06:42:19.609Z",
+  "exportedAt": "2026-09-04T09:36:04.315Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
-      "id": "s_1788504131050",
+      "id": "s_1788512531723",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργος Μουσταΐρας",
+          "year": "1980",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=5GPSqYP8Qo4"
+        },
+        {
+          "who": "Δημήτρης Κοντογιάννης",
+          "year": "2003",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=VGgCcx29rzg"
+        },
+        {
+          "who": "Christian Ronig",
+          "year": "2017",
+          "note": "Dude's Prayer",
+          "link": "https://www.youtube.com/watch?v=hpIIbUX2L-4"
+        }
+      ],
+      "date": "2026-09-04",
+      "tgr": "Η προσευχή του μάγκα",
+      "tit": "I prosefchì tu mànga",
+      "alias": "Θεέ μου μεγαλοδύναμε",
+      "at": "sconosciuto",
+      "am": "sconosciuto",
+      "yr": "sconosciuto",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm      SOLm      REm      SOLm      REm      LA\nREm      SOLm      REm      SOLm      REm      LA\n\nREm\nΘεέ μου μεγαλοδύναμε\nDO      REm\nπου 'σαι ψηλά κει πάνω\nSOLm      REm\nΡίξε λιγάκι τουμπεκί Θεούλη μου\nDO      REm\nστον ναργιλέ μου απάνω\n\nSOLm      REm\nΡίξε λιγάκι τουμπεκί Θεούλη μου\nDO      REm\nστον ναργιλέ μου απάνω\n\nREm      SOLm      REm      SOLm      REm      LA\nREm      SOLm      REm      SOLm      REm      LA\n\nREm      SOLm      REm\nΑνάμεσα στης εκκλησιάς\nLA      REm\nτις αψηλές καμάρες\nREm      SOLm\nΑρχίσαμε τις ντουμανιές Θεούλη μου\nLA      REm\nσα να 'τανε λαμπάδες\n\nREm      SOLm\nΑρχίσαμε τις ντουμανιές Θεούλη μου\nLA      REm\nσα να 'τανε λαμπάδες\n\nREm      SOLm      REm      SOLm      REm      LA\nREm      SOLm      REm      SOLm      REm      LA\n\nREm      SOLm      REm\nΜπρος στον Άγιο Σπυρίδωνα\nLA      REm\nμε τ' άσπρα του τα γένια\nREm      SOLm\nτραβάω μία ντουμανιά Θεούλη μου\nLA      REm\nξεραίνεται στα γέλια\n\nREm      SOLm\nτραβάω μία ντουμανιά Θεούλη μου\nLA      REm\nξεραίνεται στα γέλια\n\nREm      SOLm      REm      SOLm      REm      LA\nREm      SOLm      REm      SOLm      REm      LA\n\nREm      SOLm      REm\nΌταν φουντώσει ο ναργιλές\nLA      REm\nΚι' έρθουμε σε ντουμάνι\nREm      SOLm\nβάλ' όλους τους αγγέλους σου Θεούλη μου\nLA      REm\nνα πουν το νάνι νάνι\n\nREm      SOLm\nβάλ' όλους τους αγγέλους σου Θεούλη μου\nLA      REm\nνα πουν το νάνι νάνι\n\nREm      SOLm      REm      SOLm      REm\nREm      SOLm      REm      SOLm      REm\nREm      SOLm      REm      SOLm      REm",
+      "tr": "I prosefchì tu mànga\n\nTheé mu meghalodíname\npu 'se psilá kí páno\nRíkse ligháki tumbekí Theúli mu\nston narghilé mu apáno\n\nRíkse ligháki tumbekí Theúli mu\nston narghilé mu apáno\n\nAnámesa stis eklisiás\ntis apsilés kamáres\nArchísame tis ndumaniés Theúli mu\nsa na 'tane labádes\n\nArchísame tis ndumaniés Theúli mu\nsa na 'tane labádes\n\nBros ston Áyio Spirídona\nme t'áspra tu ta yénia\ntravávo mia ndumaniá Theúli mu\nkseréinete sta yélia\n\ntravávo mia ndumaniá Theúli mu\nkseréinete sta yélia\n\nΌtan fundόsi o narghilés\nKi'érthume se ndumáni\nvál'όlus tus anghélus su Theúli mu\nna pun to náni náni\n\nvál'όlus tus anghélus su Theúli mu\nna pun to náni náni",
+      "ti": "La preghiera del mangas\n\nDio mio onnipotente\nche sei lassù in alto\ngetta un po' di tabacco, Diosino mio\nsul mio narghilè\n\ngetta un po' di tabacco, Diosino mio\nsul mio narghilè\n\nTra le alte volte\ndella chiesa\nabbiamo iniziato le nuvole di fumo, Diosino mio\ncome se fossero candele\n\nabbiamo iniziato le nuvole di fumo, Diosino mio\ncome se fossero candele\n\nDavanti a Sant'Spiridione\ncon la sua barba bianca\ntiro una boccata, Diosino mio\nsi secca (lui stesso) dalle risate\n\ntiro una boccata, Diosino mio\nsi secca dalle risate\n\nQuando si accenderà bene il narghilè\ne ci troveremo nel fumo\nmanda tutti i tuoi angeli, Diosino mio\na cantarci la ninna nanna\n\nmanda tutti i tuoi angeli, Diosino mio\na cantarci la ninna nanna\n\nNote:\n\nτουμπεκί — tabacco/miscela per narghilè\nΘεούλης — vezzeggiativo affettuoso/irriverente per \"Θεός\" (Dio), reso come \"Diosino\"\nντουμάνι/ντουμανιά — nuvola di fumo densa\nξεραίνεται στα γέλια — idiomatico: \"si secca dalle risate\", cioè \"scoppia a ridere fino a non poterne più\"",
+      "no": "Secondo una leggenda metropolitana dei bassifondi di Salonicco, questo pezzo veniva tradizionalmente cantato a bassa voce dai frequentatori dei tekes (i locali clandestini di fumo) ogni volta che uno di loro moriva, quasi a voler propiziare il suo viaggio verso un paradiso a misura di \"mangas\".\nTrattandosi di un brano della tradizione orale dei bassifondi, non esiste una datazione certa, ma si stima sia nato nei primi decenni del XX secolo (probabilmente tra gli anni '10 e '20)."
+    },
+    {
+      "id": "s_1788512084668",
       "offsets": {},
       "executions": [],
+      "date": "2026-09-04",
+      "tgr": "Προσευχή",
+      "tit": "Prosefchì",
+      "alias": "",
+      "at": "Σπύρος Ζαγοραίος",
+      "am": "Σπύρος Ζαγοραίος",
+      "yr": "1962",
+      "ar": "Σπύρος Ζαγοραίος, Ζωή Ζαγοραίου",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=GDOYOOlQ6Z8",
+      "li": "",
+      "ch": "FA      DO      REm      DO      FA      DO      REm\nSOLm      FA      RE#      REm\nSOLm      FA      RE#      REm    \n\nFA              REm\nΠροσευχή, τα χείλη μου\nRE                      SOLm\nτα χείλη μου για σένανε λένε\nFA                 RE#      REm\nκαι τα μάτια μου μερόνυχτα κλαίνε\nRE#      REm\nμερόνυχτα κλαίνε\nSOLm              REm\nΝα ξαναρθείς κοντά μου\nSOLm              REm\nγλυκιά παρηγοριά μου\n\nDO      FA      DO      REm\nΈφαγα τη γη να σ' αναζητάω\nDO      FA      DO      REm\nσχίζω τα βουνά και παντού ρωτάω\nSOLm      FA      RE#      REm\nποιος είδε τα μάτια που αγαπάω\nSOLm      FA      RE#      REm\nποιος είδε τα μάτια που αγαπάω\n\nFA      DO      REm      DO      FA      DO      REm\nSOLm      FA      RE#      REm \nSOLm      FA      RE#      REm \n\nFA               REm\nΜα γιατί, μ' αρνήθηκες\nRE                        SOLm\nμ' αρνήθηκες χαμένο μου ταίρι\n     FA             RE#      REm\nπου να βρίσκεσαι κανένας δεν ξέρει\nRE#      REm\nκανένας δεν ξέρει\nREm        SOLm      REm\nΝα ξαναρθείς κοντά μου\nREm        SOLm      REm\nμέσα στην αγκαλιά μου",
+      "tr": "Prosefchí\n\nProsefchí, ta chíli mu\nta chíli mu gia sénane léne\nke ta mátia mu merόnichta kléne\nmerόnichta kléne\nNa ksanarthís kondá mu\nghlikiá pariyoriá mu\n\nÉfagha ti ghi na s'anazitáo\nschízo ta vuná ke pandú rotáo\npios íde ta mátia pu aghapáo\npios íde ta mátia pu aghapáo\n\nMa ghiatí, m'arníthikes\nm'arníthikes chaméno mu téri\npu na vrísкese kanénas den kséri\nkanénas den kséri\nNa ksanarthís kondá mu\nmésa stin angaliá mu",
+      "ti": "Preghiera\n\nPreghiera, le mie labbra\nle mie labbra parlano di te\ne i miei occhi giorno e notte piangono\ngiorno e notte piangono\nche tu torni di nuovo vicino a me\nmia dolce consolazione\n\nHo percorso tutta la terra per cercarti\nsquarcio le montagne e chiedo ovunque\nchi ha visto gli occhi che amo\nchi ha visto gli occhi che amo\n\nMa perché mi hai rifiutato\nmi hai rifiutato, mia compagna perduta\ndove tu ti trovi nessuno lo sa\nnessuno lo sa\nche tu torni di nuovo vicino a me\ntra le mie braccia\n\nNote:\n\nμερόνυχτα — \"giorno e notte\" (composto da \"μέρα\" + \"νύχτα\"), espressione poetica per indicare un tempo continuo, senza sosta\nταίρι — compagno/a di vita, metà\nέφαγα τη γη — idiomatico: \"ho mangiato la terra\", cioè ho percorso il mondo intero, ho cercato ovunque instancabilmente",
+      "no": ""
+    },
+    {
+      "id": "s_1788511402031",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-04",
+      "tgr": "Πριγκιπέσσα",
+      "tit": "Prighipèsa",
+      "alias": "",
+      "at": "Σωκράτης Μάλαμας",
+      "am": "Σωκράτης Μάλαμας",
+      "yr": "2000",
+      "ar": "Σωκράτης Μάλαμας",
+      "lb": "",
+      "gn": "Entechno / Laïko d'Autore",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm      SOLm      RE#  DOm      REm\n\nREm             DOm             SOLm\nΆλλα θέλω κι άλλα κάνω πώς να σου το πω\nDOm             FA              REm\nέλεγα περνούν τα χρόνια θα συμμορφωθώ\nREm      SOLm\nΜα είναι δώρο άδωρο ν' αλλάξεις χαρακτήρα\nREm      DOm      RE#      REm\nτζάμπα κρατάς λογαριασμό τζάμπα σωστός με το στανιό\n\nREm      SOLm      RE#  DOm      REm      DOm\n\nDOm                        REm\nΈξω φυσάει αέρας κι όμως μέσα μου\nDOm                    FA      REm\nμέσα σ' αυτό το σπίτι πριγκιπέσσα μου\nSOLm\nτο φως σου και το φως χορεύουν γύρω μας\nREm      DOm      RE#          REm\nαπίστευτος ο κόσμος κι ο χαρακτήρας μας\n\nREm            DOm               SOLm\nΆλλα θέλω κι άλλα κάνω κι έφτασα ως εδώ\nDOm             FA               REm\nλάθη στραβά και πάθη μ' έβγαλαν σωστό\nREm                       SOLm\nΞημερώματα στο δρόμο ρίχνω πετονιά\nREm          DOm      RE#          REm\nπιάνω τον εαυτό μου και χάνω το μυαλό μου\n\nDOm                        REm\nΈξω φυσάει αέρας κι όμως μέσα μου\nDOm                    FA      REm\nμέσα σ' αυτό το σπίτι πριγκιπέσσα μου\nSOLm\nτο φως σου και το φως χορεύουν γύρω μας\nREm      DOm      RE#          REm\nαπίστευτος ο κόσμος κι ο χαρακτήρας μας",
+      "tr": "Prighipèsa\n\nÁla thélo ki ála káno pos na su to po\néleghа pernún ta chrόnia tha simorfothό\nMa íne dόro ádoro n'aláksis charaktíra\ntzába kratás loghariasmό tzába sostόs me to staniό\n\nÉkso fisái aéras ki όmos mésa mu\nmésa s'aftό to spíti prighipésa mu\nto fos su ke to fos chorévun ghίro mas\napίstevtos o kόsmos ki o charaktíras mas\n\nÁla thélo ki ála káno ki éftasa os edό\nláthi strává ke páthi m'évghalan sostό\nKsimerόmata sto drόmo ríchno petoniá\npiáno ton eaftό mu ke cháno to milό mu\n\nÉkso fisái aéras ki όmos mésa mu...",
+      "ti": "Principessa\n\nVoglio altre cose e ne faccio altre, come dirtelo\npensavo, passano gli anni e mi correggerò\nma è un dono senza valore cambiare il proprio carattere\ninutilmente tieni i conti, inutilmente sei giusto per forza\n\nFuori soffia il vento, eppure dentro di me\ndentro questa casa, principessina mia\nla tua luce e la luce danzano intorno a noi\nincredibile il mondo e il nostro carattere\n\nVoglio altre cose e ne faccio altre, e sono arrivato fin qui\nerrori storti e sofferenze mi hanno reso giusto\nall'alba per strada getto la lenza\nafferro me stesso e perdo la testa\n\nFuori soffia il vento, eppure dentro di me...\n\nNote:\n\nδώρο άδωρο — idiomatico: \"dono senza dono/regalo vuoto\", cioè qualcosa di inutile o vano nonostante l'apparenza positiva\nμε το στανιό — \"per forza/controvoglia\" (espressione idiomatica popolare)\nπριγκιπέσσα — variante ortografica di \"πριγκηπέσα\" (principessa), vezzeggiativo affettuoso\nρίχνω πετονιά — letteralmente \"getto la lenza (da pesca)\", usato qui in senso figurato per \"tentare/cercare qualcosa\", forse un'immagine di introspezione o ricerca di senso",
+      "no": ""
+    },
+    {
+      "id": "s_1788504131050",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Αντώνης Παπαϊωάννου, Λιζέτα Νικολάου",
+          "year": "1974",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Y_bmP3NVv8s"
+        }
+      ],
       "date": "2026-09-04",
       "tgr": "Πού με βρήκες, πού σε βρήκα",
       "tit": "Pu me vrìkes, pu se vrìka",
@@ -2401,6 +2496,12 @@
           "year": "1977",
           "note": "",
           "link": "https://www.youtube.com/watch?v=kEDSkfCfzA0&list=RDkEDSkfCfzA0&start_radio=1"
+        },
+        {
+          "who": "Christian Ronig",
+          "year": "2019",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=boM4wOZatb8"
         }
       ],
       "date": "2026-08-26",
@@ -10269,6 +10370,7 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/zagoreos.jpg",
       "roles": [
         "at",
+        "am",
         "ar"
       ]
     },
@@ -12158,6 +12260,68 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/kalerghis.jpg",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1788510518018",
+      "name": "Αντώνης Παπαϊωάννου",
+      "nameit": "Antónis Papaïoánnou",
+      "born": "26 marzo 1950, Tzitzifiés (Kallithea, Atene)",
+      "died": "8 agosto 2025",
+      "bio": "Interprete rembetiko, secondo dei tre figli del leggendario Giannis Papaioannou (\"Kapetán Zeppos\") — gli altri due erano Takis (sposato da Vasilis Tsitsanis in persona) e Chrysa. Fin da piccolo mostrò interesse per la musica, influenzato profondamente dalla grande personalità del padre. Quest'ultimo lo avrebbe voluto avviato agli studi economici, tanto da farlo frequentare il liceo commerciale — ma Antonis gli comunicò presto l'intenzione di seguire le sue orme artistiche.\n\nLavorò con piccole formazioni, lontano da qualsiasi eccesso di ricercatezza, lasciando un proprio segno personale anche in discografia: le sue reincisioni delle canzoni del padre furono al tempo stesso un tributo e una continuazione viva di una grande eredità musicale.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/apapaioannu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788510901552",
+      "name": "Σωκράτης Μάλαμας",
+      "nameit": "Sokrátis Málamas",
+      "born": "29 settembre 1957, Sykia (Calcidica)",
+      "died": "",
+      "bio": "Cantautore, cantante e chitarrista, tra i più noti interpreti greci e uno degli esempi più caratteristici del cosiddetto éntechno tragoúdi. Per ragioni di lavoro dei genitori trascorse l'infanzia a Stoccarda, in Germania, fino all'adolescenza, quando tornò a Salonicco.\n\nIl primo contatto con la musica avvenne a 7 anni, quando il padre gli regalò un bοuzοuki; l'amore vero per la musica nacque però a 13 anni, quando i genitori — come premio per il buon rendimento scolastico — gli comprarono la sua prima chitarra.\n\nPubblicò il suo quarto disco personale, \"Κύκλος\", nel dicembre 1993 (composizioni proprie, interpretate da lui stesso), seguito nel febbraio 1996 dall'album omonimo \"Σωκράτης Μάλαμας\". Nel corso della carriera diede anche alcune sue canzoni ad altri interpreti (due a Melina Kana, due a Manolis Lidakis) — tra i suoi maggiori successi: \"Πριγκηπέσσα\", \"Χαμένο ρούχο\", \"Τίποτα δε χάθηκε\".\n\nHa collaborato con molti dei più importanti nomi della scena musicale greca: i compositori Nikos Xydakis e Giorgos Christianakis, il chitarrista Babis Papadopoulos, le interpreti Haris Alexiou e Melina Kana, il cantautore/compositore Alkinoos Ioannidis, i cantautori Orfeas Peridis e Thanasis Papakonstantinou; tra i parolieri Giannis Tsatsopoulos, Manolis Rasoulis, Giorgos Athanasopoulos, Alkis Alkaios, Foteini Lampridi, Pigi Kafetzopoulou, Thodoris Gonis, Michalis Ganas, Odysseas Ioannou.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/malamas.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788513465432",
+      "name": "Γιώργος Μουσταΐρας",
+      "nameit": "Giórgos Moustaïras",
+      "born": "1956, Dalamanara (Argos)",
+      "died": "",
+      "bio": "Giornalista, scrittore e ricercatore, residente ad Argos. Si laureò alla Facoltà di Veterinaria dell'Università di Salonicco, ma lavorò per trent'anni come giornalista e produttore musicale, sia a livello locale (Argolide) che nazionale. Fu eletto in diversi consigli direttivi di organi giornalistici locali e panellenici.\n\nAutore di cinque libri tra narrativa e opere di ricerca storica, tra cui \"Σκάβοντας και γκρεμίζοντας\" (2008), \"Ιστορίες στο περιθώριο της Ιστορίας\", \"Στιγμές στο Άπειρο του Χρόνου\" (racconti, 2025), \"Σκόρπια φύλλα καρδιάς\" (poesia) — pluripremiato per le sue opere letterarie.\n\nIl legame diretto con il rembetiko: è un ricercatore della storia della canzone rembetiko, ha tenuto numerosi concerti dedicati al genere e ha inciso un proprio CD. Tra i suoi lavori figura anche un libro intitolato \"Ρεμπέτ Ασκέρι\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/mustairas.jpg",
+      "roles": [
+        "at",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788514391149",
+      "name": "Δημήτρης Κοντογιάννης",
+      "nameit": "Dimítris Kontogiánnis",
+      "born": "1950, Davlia (Beozia)",
+      "died": "",
+      "bio": "Interprete e musicista con 50 anni di carriera nel canto popolare greco (demotikó, rembetiko, contemporaneo). Le sue prime esperienze musicali risalgono all'infanzia trascorsa a Davlia, in Beozia — dove, curiosamente, suo nonno era il famoso capobrigante Kontogiannis (ληστάρχος).\n\nIniziò le prime collaborazioni professionali nelle \"boîte\" del quartiere di Plaka ad Atene, insieme (tra gli altri) a Vasilis Papakonstantinou. Fu protagonista della nascita e dell'affermazione della \"Rembetikí Kompanía\". Nel corso della lunghissima carriera collaborò con un elenco impressionante di grandi nomi: Vasilis Tsitsanis, Prodromos Tsaousakis, Sotiria Bellou, Vasilis Binis, Kostas Virvos, Manolis Chiotis (Koros?), Vangelis Perpiniadis, Giota Lydia, Manolis Mamangakis, Manolis Rasoulis, Manos Loizos, Christos Nikolopoulos, Takis Soukas, Kleon, Haris Alexiou, Vitali, Giorgos Ntalaras, Glykeria.\n\nNel 2023 è uscita la sua biografia ufficiale, \"Δημήτρης Κοντογιάννης — 50 Χρόνια Λαϊκό Τραγούδι\" (edizioni Chamam), scritta da Kostas Balachoutis — con prefazioni di Stavros Xarhakos, Christos Nikolopoulos, Giorgis Exarchos e Apostolos Kefalas.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kontogianis.jpg",
+      "roles": [
+        "at",
+        "ar",
+        "mu"
       ]
     }
   ]
