@@ -1,8 +1,185 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-04T09:36:04.315Z",
+  "exportedAt": "2026-09-04T15:09:57.721Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788534382794",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλλα Χασκίλ",
+          "year": "1947",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ywczb67RH70"
+        },
+        {
+          "who": "Γιάννης Παπαϊωάννου",
+          "year": "1972",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=aW4JVzaRoGc"
+        }
+      ],
+      "date": "2026-09-04",
+      "tgr": "Μπιρ Αλλάχ",
+      "tit": "Bir Allah",
+      "alias": "Σαν βγαίνει ο Χότζας στο τζαμί",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Γιάννης Σταμούλης",
+      "yr": "1947",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm      DOm      REm      DOm      REm\nΣαν βγαίνει ο Χότζας στο τζαμί\nREm      DOm      REm      DOm      REm\nΑργά σαν σουρουπώνει\nSOLm      RE      SOLm      FA      RE#      REm\nΚι όταν θα πει το μπιρ Αλλάχ, μπιρ Αλλάχ\nREm      DOm      RE#      REm\nτο στήθος μου ματώνει\nSOLm      RE      SOLm      FA      RE#      REm\nΚι όταν θα πει το μπιρ Αλλάχ, μπιρ Αλλάχ\nREm      DOm      REm      RE#      REm\nτο στήθος μου ματώνει\n\nREm      DOm      REm      DOm      REm\nΤέτοια στιγμή σε γνώρισα\nREm      DOm      REm      DOm      REm\nστα μακρινά τα ξένα\nSOLm      RE      SOLm      FA      RE#      REm\nΚι όταν ακούω μπιρ Αλλάχ, μπιρ Αλλάχ \nREm      DOm      RE#      REm\nο νους μου πάει σε σένα \nSOLm      RE      SOLm      FA      RE#      REm\nΚι όταν ακούω μπιρ Αλλάχ, μπιρ Αλλάχ \nREm      DOm      RE#      REm\nο νους μου πάει σε σένα \n\nREm      DOm      REm      DOm      REm\nΣτα βάθη της Ανατολής\nREm      DOm      REm      DOm      REm\nστη μαύρη ερημιά μου\nSOLm      RE      SOLm      FA      RE#      REm\nΌταν ακούω το μπιρ Αλλάχ, μπιρ Αλλάχ \nREm      DOm      RE#      REm\nματώνει η καρδιά μου \nSOLm      RE      SOLm      FA      RE#      REm\nΌταν ακούω το μπιρ Αλλάχ, μπιρ Αλλάχ \nREm      DOm      RE#      REm\nματώνει η καρδιά μου",
+      "tr": "Βir Alách\n\nSan vghéni o Chόtzas sto tzamí\nArgá san surupόni\nKi όtan tha pi to bir Alách, bir Alách\nto stíthos mu matόni\nKi όtan tha pi to bir Alách, bir Alách\nto stíthos mu matόni\n\nTétia stigmí se ghnόrisa\nsta makriná ta kséna\nKi όtan akúo bir Alách, bir Alách\no nus mu pái se séna\n\nSta váthi tis Anatolís\nsti mávri erimiá mu\nΌtan akúo to bir Alách, bir Alách\nmatόni i kardiá mu",
+      "ti": "Un solo Dio\n\nQuando esce il muezzin sulla moschea\nlentamente, mentre imbrunisce\ne quando dirà il \"bir Allah, bir Allah\"\nil mio petto sanguina\ne quando dirà il \"bir Allah, bir Allah\"\nil mio petto sanguina\n\nIn un momento come questo ti ho conosciuta\nnelle terre lontane e straniere\ne quando sento \"bir Allah, bir Allah\"\nla mia mente vola a te\n\nNelle profondità dell'Oriente\nnella mia nera solitudine\nquando sento il \"bir Allah, bir Allah\"\nsanguina il mio cuore\n\nNote:\n\nΧότζας — l'hoja/imam, colui che recita il richiamo alla preghiera dal minareto (turchismo)\nμπιρ Αλλάχ — dal turco \"bir Allah\" (\"un solo Dio\"), formula ricorrente nel richiamo islamico alla preghiera (adhan), qui riprodotta foneticamente come elemento sonoro/atmosferico della scena\nσουρουπώνω — imbrunire, farsi sera (verbo popolare)",
+      "no": "La canzone fu un successo così planetario e travolgente nel dopoguerra che il compositore Giannis Stamoulis perse quasi il suo vero nome. Da quel momento in poi, nell'ambiente della musica greca e tra i locali del Pireo, venne chiamato da tutti esclusivamente \"Giannis Birallas\"."
+    },
+    {
+      "id": "s_1788533048031",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Λουκάς Νταράλας",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=FzbaFBIMO5w"
+        },
+        {
+          "who": "Σωτηρία Μπέλλου, Βασίλης Τσιτσάνης",
+          "year": "1951",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=aRLN88Zpo3g"
+        }
+      ],
+      "date": "2026-09-04",
+      "tgr": "Σαν απόκληρος γυρίζω",
+      "tit": "San apòkliros ghirìzo",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1950",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "DO      SOL      LAm  MIm  DO   SOL LAm  MIm\nΣαν απόκληρος γυρίζω στην κακούργα ξενιτιά\nLAm                       MIm\nπεριπλανώμενος, δυστυχισμένος \n MIm            SI               MIm\nμακριά απ' της μάνας μου την αγκαλιά \nLAm                       MIm\nπεριπλανώμενος, δυστυχισμένος \n MIm            SI               MIm\nμακριά απ' της μάνας μου την αγκαλιά \n\n\nDO      SOL      LAm  MIm  DO   SOL LAm  MIm\nΚλαίνε τα πουλιά γι αέρα και τα δέντρα για νερό\nLAm                          MIm\nΚλαίω μανούλα μου κι εγώ για σένα \n MIm            SI        MIm\nπου έχω χρόνια για να σε δω \nLAm                          MIm\nΚλαίω μανούλα μου κι εγώ για σένα \n MIm            SI        MIm\nπου έχω χρόνια για να σε δω \n\nDO      SOL      LAm  MIm  DO   SOL LAm  MIm\nΧάρε, πάρε την ψυχή μου, ησυχία για να βρω\nLAm                       MIm\nΑφού το θέλησε η μαύρη μοίρα \nMIm              SI      MIm\nμες στη ζωή μου να μη χαρώ \nLAm                       MIm\nΑφού το θέλησε η μαύρη μοίρα \nMIm              SI      MIm\nμες στη ζωή μου να μη χαρώ",
+      "tr": "San apòkliros ghirìzo\n\nSan apόklirοs ghirízo stin kakúrga ksenitiá\nperiplanόmenos, distichisménos\nmakriá ap'tis mánas mu tin angaliá\n\nKlène ta puliά ghi aéra ke ta déndra gia nerό\nKléo manúla mu ki eghό gia séna\npu écho chrόnia gia na se do\n\nCháre, páre tin psichí mu, isichía ghia na vro\nAfú to thélise i mávri mίra\nmes sti zoí mu na mi charό",
+      "ti": "Giro come un rinnegato\n\nCome un diseredato giro per la maledetta terra straniera\nerrante, sventurato\nlontano dall'abbraccio di mia madre\n\nPiangono gli uccelli per l'aria e gli alberi per l'acqua\npiango anch'io, mamma mia, per te\nche sono anni che non ti vedo\n\nCaronte, prendi la mia anima, così troverò pace\ndato che l'ha voluto il destino nero\nche nella mia vita non possa gioire\n\nNote:\n\nαπόκληρος — diseredato, escluso, senza eredità/appartenenza — immagine forte per descrivere la condizione dell'emigrante\nξενιτιά — la vita/terra straniera, tema ricorrente della nostalgia\nΧάρος — Caronte, personificazione popolare greca della Morte\nμαύρη μοίρα — \"nero destino\", espressione idiomatica per un fato crudele/sfortunato",
+      "no": "Nel 1950 la Grecia usciva stremata da un decennio devastante: prima la Seconda Guerra Mondiale e l'occupazione, poi una sanguinosa Guerra Civile (1946-1949). Il paese era distrutto e affamato. Iniziò così una massiccia ed epocale ondata migratoria verso l'Australia, la Germania, il Belgio e gli Stati Uniti. Tsitsanis intercettò questo immenso dolore collettivo e scrisse una canzone che divenne istantaneamente l'inno di milioni di profughi ed emigrati greci nel mondo.\nNel testo, la figura della \"madre\" (mana) ha una doppia valenza. È la madre biologica che l'emigrato ha dovuto lasciare e teme di non rivedere mai più, ma è anche la metafora della \"Madre Patria\" (la Grecia), che ha voltato le spalle ai suoi figli costringendoli a fuggire."
+    },
+    {
+      "id": "s_1788531773204",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μιχάλης Γενίτσαρης",
+          "year": "1970-1980",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=GdwcKYvdCtY"
+        },
+        {
+          "who": "Γιώργος Κατσαρός (Θεολογίτης)",
+          "year": "1947",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=RhLkke1lhvk"
+        }
+      ],
+      "date": "2026-09-04",
+      "tgr": "Ο σαλταδόρος",
+      "tit": "O saltadòros",
+      "alias": "",
+      "at": "Μιχάλης Γενίτσαρης",
+      "am": "Μιχάλης Γενίτσαρης",
+      "yr": "1941",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm      LAm      FA      MI\nΖηλεύουνε, δεν θέλουνε, ντυμένο να με δούνε\nREm      LAm      FA      MI\nΜπατίρη θέλουν να με δουν, για να φχαριστηθούνε\n\nMI REm      MI      REm      MI      REm      MI      REm      MI\nΘα σαλτάρω, θα σαλτάρω, τη ρεζέρβα θα τους πάρω\n\nREm      LAm      FA      MI\nΜα εγώ πάντα βολεύομαι, γιατί τηνε σαλτάρω\nREm      LAm      FA      MI\nσε κάνα αμάξι Γερμανού, και πάντα τη ρεφάρω\n\nMI REm      MI      REm      MI      REm      MI      REm      MI\nΘα σαλτάρω, θα σαλτάρω, τη ρεζέρβα θα τους πάρω\n\nREm      LAm      FA      MI\nΒενζίνες και πετρέλαια εμείς τα κυνηγάμε\nREm      LAm      FA      MI\nγιατί έχουνε πολλά λεφτά και φίνα την περνάμε\n\nMI REm      MI      REm      MI      REm      MI      REm      MI\nΘα σαλτάρω, θα σαλτάρω, τη ρεζέρβα θα τους πάρω\n\nREm      LAm      FA      MI\nΟι Γερμανοί μάς κυνηγούν, μα εμείς δεν τους ακούμε\nREm      LAm      FA      MI\nΕμείς θα τη σαλτάρουμε, ώσπου να σκοτωθούμε\n\nMI REm      MI      REm      MI      REm      MI      REm      MI\nΘα σαλτάρω, θα σαλτάρω, τη ρεζέρβα θα τους πάρω",
+      "tr": "O saltadòros\n\nZilévune, den thélune, ndiméno na me dune\nBatíri thélun na me dun, gia na fcharistithúne\n\nTha saltáro, tha saltáro, ti rezérva tha tus páro\n\nMa eghό pánda voléome, giatί tine saltáro\nse kána amáksi Ghiermanú, ke pánda ti refáro\n\nTha saltáro, tha saltáro, ti rezérva tha tus páro\n\nVenzínes ke petrélea emís ta kinigáme\ngiatí échune polá leftá ke fína tin pernáme\n\nTha saltáro, tha saltáro, ti rezérva tha tus páro\n\nI Ghiermaní mas kinighún, ma emís den tus akúme\nEmís tha ti saltárume, όspu na skotothúme\n\nTha saltáro, tha saltáro, ti rezérva tha tus páro",
+      "ti": "Il saltatore\n\nSono gelosi, non vogliono vedermi vestito bene\nvogliono vedermi al verde, per gongolarne\n\nFarò il colpo, farò il colpo, gli prenderò la ruota di scorta\n\nMa io me la cavo sempre, perché la rubo (la ruota)\nda qualche macchina di tedeschi, e sempre ci guadagno\n\nFarò il colpo, farò il colpo, gli prenderò la ruota di scorta\n\nBenzina e gasolio, noi li inseguiamo (rubiamo)\nperché loro hanno tanti soldi e noi ce la passiamo alla grande\n\nFarò il colpo, farò il colpo, gli prenderò la ruota di scorta\n\nI tedeschi ci danno la caccia, ma noi non li ascoltiamo\nnoi continueremo a rubare, finché non ci ammazzeranno\n\nFarò il colpo, farò il colpo, gli prenderò la ruota di scorta\n\nNote:\n\nσαλτάρω — qui in senso gergale \"fare un colpo/rubare rapidamente\" (dall'italiano \"saltare\")\nρεζέρβα — ruota di scorta (dell'auto)\nμπατίρης — al verde, squattrinato\nρεφάρω — recuperare/guadagnarci (dall'italiano \"rifare/rifarsi\")",
+      "no": "Chi erano i \"Saltadori\"? Il termine saltadoros deriva dal verbo italiano/veneziano \"saltare\". Durante la tragica carestia della seconda guerra mondiale (in cui morirono di fame centinaia di migliaia di greci), i saltadori erano bande di ragazzini o giovani disperati del porto del Pireo. Il loro \"lavoro\" consisteva letteralmente nel prendere la rincorsa e saltare sui camion militari tedeschi o italiani in movimento, lanciare giù dal veicolo qualsiasi bene prezioso (taniche di benzina, scatolame, copertoni) per poi rivenderlo al mercato nero o sfamare le proprie famiglie. Era un'attività ad altissimo rischio: se scoperti, i soldati dell'Asse sparavano a vista.\nLo stesso Genitsaris raccontò nelle sue memorie che durante l'occupazione lavorava in un seminterrato al Pireo. Lì si radunavano molti suoi amici saltadori che, grazie ai loro colpi audaci, erano gli unici ad essere \"sempre ben vestiti, profumati e con la pancia piena\". Una sera, uno di loro si lamentò con il musicista dicendo che la gente del quartiere li giudicava male e li chiamava \"ladri\", non capendo che lo facevano per non morire di fame. Genitsaris decise di scrivere un inno per difendere l'onore di questi ragazzi.\nNonostante le canzoni di aperta ribellione politica fossero vietate e punibili con la morte, O Saltadoros divenne un inno cantato clandestinamente in tutte le taverne del porto. Il brano trasformava il furto di sussistenza ai danni dell'oppressore in un atto di coraggio patriottico e beffardo contro la fame e la morte.\nQuando le case discografiche greche riaprirono dopo la guerra, la censura governativa bloccò il brano perché il testo esaltava il furto e lo spirito ribelle. Genitsaris dovette attendere il grande \"revival\" del Rebetiko negli anni '70 (e i successivi progetti discografici storici degli anni '80) per poter finalmente incidere in studio con la propria voce la sua stessa opera. Ma nel frattempo il brano era stato inciso in America da Ghiorgos Katsaros."
+    },
+    {
+      "id": "s_1788530698004",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-04",
+      "tgr": "Ρολόι-κομπολόι",
+      "tit": "Roloi-Komboloi",
+      "alias": "",
+      "at": "Άννα Μπακιρτζή",
+      "am": "Άκης Πάνου",
+      "yr": "1967",
+      "ar": "Γρηγόρης Μπιθικώτσης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=orqkjRxtB5U",
+      "li": "",
+      "ch": "REm      FA      DOm      SOLm\nΈνα ρολόι μου 'χες χαρίσει\nREm      FA      SOLm      DOm      REm\nπου το κοιτούσα όταν αργούσες\nΠου το κοιτούσα όταν αργούσες\nκαι το ρωτούσα αν μ' αγαπούσες\n\nREm      SOLm      REm      SOLm      REm\nΘα το δώσω το ρολόι και θα πάρω κομπολόι \nDOm      SOLm      DOm      REm\nνα μετράω τους καημούς και τους αναστεναγμούς \nREm      SOLm      REm      SOLm      REm\nΘα το δώσω το ρολόι και θα πάρω κομπολόι \nDOm      SOLm      DOm      REm\nνα μετράω τους καημούς και τους αναστεναγμούς\n\nREm      FA      DOm      SOLm\nΤώρα δεν είσαι στην αγκαλιά μου\nREm      FA      SOLm      DOm      REm\nκαι την καρδιά μου η ζήλια τρώει\nΤι να το κάνω τέτοιο ρολόι\nκάθε του χτύπος και μοιρολόι\n\nREm      SOLm      REm      SOLm      REm\nΘα το δώσω το ρολόι και θα πάρω κομπολόι \nDOm      SOLm      DOm      REm\nνα μετράω τους καημούς και τους αναστεναγμούς \nREm      SOLm      REm      SOLm      REm\nΘα το δώσω το ρολόι και θα πάρω κομπολόι \nDOm      SOLm      DOm      REm\nνα μετράω τους καημούς και τους αναστεναγμούς",
+      "tr": "Roloi-Komboloi\n\nÉna rolόi mu 'chis charísi\npu to kitúsa όtan argúses\nPu to kitúsa όtan argúses\nke to rotúsa an m'agapúses\n\nTha to dόso to rolόi ke tha páro kombolόi\nna metráo tus kaimús ke tus anastenagmús\n\nTόra den íse stin angaliá mu\nke tin kardiá mu i zília tróï\nTi na to káno tétio rolόi\nkáthe tu chtípos ke miroloi",
+      "ti": "Orologio- komboloi\n\nUn orologio mi avevi regalato\nche guardavo quando tardavi\nche guardavo quando tardavi\ne gli chiedevo se mi amavi\n\nDarò via l'orologio e prenderò un komboloi\nper contare le mie pene e i miei sospiri\n\nOra non sei tra le mie braccia\ne la gelosia mi consuma il cuore\ncosa me ne faccio di un orologio così\nogni suo tic-tac è un lamento funebre\n\nDarò via...\n\nNote:\n\nκομπολόι — il komboloi, la tradizionale \"collana da passatempo\" greca (simile a un rosario ma senza funzione religiosa), usata per scacciare la noia o l'ansia\nμοιρολόι — lamento funebre tradizionale, canto di lutto; qui usato in senso figurato per descrivere il ticchettio dell'orologio come un tormento costante che ricorda la sofferenza d'amore",
+      "no": ""
+    },
+    {
+      "id": "s_1788529686043",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-04",
+      "tgr": "Ρίκο, ρίκο, ρίκοκο",
+      "tit": "Rìko, rìko, rìkoko",
+      "alias": "T' αγόρι μου",
+      "at": "Γιώργος Γιαννακόπουλος",
+      "am": "Τάκης Μωράκης",
+      "yr": "1959",
+      "ar": "Αλίκη Βουγιουκλάκη",
+      "lb": "",
+      "gn": "Elafrò",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=wq8zHr0gw3Y",
+      "li": "",
+      "ch": "LAm              MI               LAm\nT' αγόρι μου, τ' αγόρι μου, τ' αγόρι μου\nFA                        MI\nγλυκό και τραγανό σαν καραμέλα\nLAm                             MI\nKαι πόζες όταν παίρνει άντρα ώριμου\nMI                                 LAm\nτ' αγόρι μου είναι μούρλια, είναι τρέλα\n\nDO      REm             SOL         DO\nXειλάκι πετροκέρασο και μάγουλο βερίκοκο\nFA      DO        SOL          DO\nPίκο, ρίκο, ρίκοκο, ρίκοκο, ρίκοκο\nFA      DO         SOL      DO\nPίκο, ρίκο, ρίκοκο, ρίκο, ρικοκό\n\nLAm              MI              LAm\nT' αγόρι μου είναι πλάσμα αξιοζήλευτο\nFA                              MI\nTο βλέμμα του, το γέλιο του ροσόλι\nLAm                            MI\nMπροστά του δεν αξίζουν ούτε δίλεπτο\nMI                             LAm\nΔεν πιάνουν χαρτωσιά οι άντρες όλοι\n\nDO      REm             SOL         DO\nXειλάκι πετροκέρασο και μάγουλο βερίκοκο\nFA      DO        SOL          DO\nPίκο, ρίκο, ρίκοκο, ρίκοκο, ρίκοκο\nFA      DO         SOL      DO\nPίκο, ρίκο, ρίκοκο, ρίκο, ρικοκό\n\nDO      REm             SOL         DO\nXειλάκι πετροκέρασο και μάγουλο βερίκοκο\nFA      DO        SOL          DO\nPίκο, ρίκο, ρίκοκο, ρίκοκο, ρίκοκο\nFA      DO         SOL      DO\nPίκο, ρίκο, ρίκοκο, ρίκο, ρικοκό\n\nLAm              MI      LAm\nAνήσυχο, θερμόαιμο, ζιζάνιο\nFA                          MI\nγεμάτο φλόγα, αίσθημα, νευράκι\nLAm                          MI\nΠικάντικο, ανεκτίμητο και σπάνιο\nMI                         LAm\nτ' αγόρι, το γλυκό μου τ' αγοράκι\n\nDO      REm             SOL         DO\nXειλάκι πετροκέρασο και μάγουλο βερίκοκο\nFA      DO        SOL          DO\nPίκο, ρίκο, ρίκοκο, ρίκοκο, ρίκοκο\nFA      DO         SOL      DO\nPίκο, ρίκο, ρίκοκο, ρίκο, ρικοκό",
+      "tr": "Rìko, rìko, rìkoko\n\nT'aghόri mu, t'aghόri mu, t'aghόri mu\nghlikό ke traghanό san karaméla\nKe pόzes όtan pérni ándra όrimu\nt'aghόri mu íne múrlia, íne tréla\n\nChiláki petrokéraso ke mágulo veríkoko\nRíko, ríko, ríkoko, ríkoko, ríkoko\nRíko, ríko, ríkoko, ríko, rikokό\n\nT'aghόri mu íne pláma aksiozíleftο\nTo vléma tu, to ghiélio tu rosόli\nBrostά tu den axízun úte dίlepto\nDen piánun chartosiá i ándres όli\n\nAnísicho, thermόemo, zizánio\ngemáto flόga, ésthima, nevráki\nPikándiko, anektímito ke spánio\nt'agόri, to ghlikό mu t'aghorάki",
+      "ti": "Il mio ragazzo\n\nIl mio ragazzo, il mio ragazzo, il mio ragazzo\ndolce e croccante come una caramella\ne fa pose quando assume l'aria di un uomo maturo\nil mio ragazzo è meraviglioso, è una pazzia\n\nLabbrino ciliegia selvatica e guancia albicocca\nrico, rico, ricoco, ricoco, ricoco\nrico, rico, ricoco, rico, ricocò\n\nIl mio ragazzo è una creatura invidiabile\nil suo sguardo, il suo riso è un liquore dolce\ndavanti a lui non valgono neanche due soldi\nnon hanno chance tutti gli altri uomini\n\nLabbrino ciliegia selvatica...\n\nLabbrino ciliegia selvatica...\n\nIrrequieto, dal sangue caldo, birichino (zizzania)\npieno di fuoco, sentimento, nervosetto\npiccante, inestimabile e raro\nil ragazzo, il mio dolce ragazzino\n\nLabbrino ciliegia selvatica...\n\nNote:\n\nτραγανό σαν καραμέλα — \"croccante come una caramella\", immagine affettuosa/golosa per descrivere il fascino del ragazzo\nρίκοκο/ρικοκό — ritornello onomatopeico giocoso, gioco fonetico su \"βερίκοκο\" (albicocca)\nροσόλι — liquore dolce tradizionale (dal veneziano/italiano \"rosolio\"), usato qui per descrivere la dolcezza del sorriso\nδεν πιάνουν χαρτωσιά — idiomatico: \"non valgono/non contano nulla\", letteralmente riferito a carte da gioco che \"non fanno presa\"\nζιζάνιο — letteralmente \"zizzania/erbaccia\", usato affettuosamente per indicare un carattere vivace e birichino",
+      "no": ""
+    },
+    {
+      "id": "s_1788528731553",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-04",
+      "tgr": "Πώς θα περάσει η βραδιά",
+      "tit": "Pos tha peràsi i vradià",
+      "alias": "Φοβάμαι μη σε χάσω",
+      "at": "Κώστας Μάνεσης",
+      "am": "Γιάννης Παπαϊωάννου",
+      "yr": "1951",
+      "ar": "Σωτηρία Μπέλλου",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=oOkvMXo3KI8",
+      "li": "",
+      "ch": "REm      DOm      REm      SOLm     DOm REm\nΠώς θα περάσει η βραδιά και πώς θα ησυχάσω\nREm      DOm      REm      SOLm      REm\nπου σκέφτομαι εσένανε μην τύχει και σε χάσω\nREm      DOm      REm      SOLm    DOm REm\nπου σκέφτομαι εσένανε μην τύχει και σε χάσω\n\nREm      DOm      REm      SOLm    DOm  REm\nΠολλές γυναίκες γνώρισα, εσένα σε φοβάμαι\nREm      DOm      REm      SOLm      REm\nνα μη σε ξεμυαλίσουνε γι' αυτό και δε κοιμάμαι\nREm      DOm      REm      SOLm     DOm  REm\nνα μη σε ξεμυαλίσουνε γι' αυτό και δε κοιμάμαι\n\nREm      DOm      REm      SOLm      DOm  REm\nΗ αγωνία μου αυτή με λιώνει και με δέρνει\nREm      DOm      REm      SOLm      REm\nνα ξημερώσει ήθελα, γιατί ύπνος δε με παίρνει\nREm      DOm      REm      SOLm      DOm  REm\nνα ξημερώσει ήθελα, γιατί ύπνος δε με παίρνει",
+      "tr": "Pos tha peràsi i vradià\n\nPos tha perási i vradiá ke pos tha isicháso\npu skéftome esénane min tíchi ke se cháso\npu skéftome esénane min tíchi ke se cháso\n\nPolés yinékes ghnόrisa, eséna se fováme\nna mi se ksemialísune gi'aftό ke de kimáme\nna mi se ksemialísune gi'aftό ke de kimáme\n\nI aghonía mu aftí me lióni ke me dérni\nna ksimerόsi íthela, giatí ípnos de me pérni\nna ksimerόsi íthela, giatí ípnos de me pérni",
+      "ti": "Come passerà la serata\n\nCome passerà la serata e come mi calmerò\nvisto che penso a te, che per caso non ti perda\nvisto che penso a te, che per caso non ti perda\n\nHo conosciuto molte donne, ma di te ho paura\nche qualcuno ti faccia perdere la testa, per questo non dormo\nche qualcuno ti faccia perdere la testa, per questo non dormo\n\nQuesta mia angoscia mi consuma e mi tormenta\nvorrei che spuntasse l'alba, perché il sonno non mi prende\nvorrei che spuntasse l'alba, perché il sonno non mi prende\n\nNote:\n\nξεμυαλίζω — far perdere la testa a qualcuno, sedurre/confondere (verbo composto da \"μυαλό\", cervello, col prefisso \"ξε-\")",
+      "no": ""
+    },
     {
       "id": "s_1788512531723",
       "offsets": {},
@@ -12322,6 +12499,34 @@
         "at",
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1788529108398",
+      "name": "Τάκης Μωράκης",
+      "nameit": "Tákis Morákis",
+      "born": "15 agosto 1916, Atene",
+      "died": "26 ottobre 1991",
+      "bio": "Uno dei principali compositori della musica leggera greca (elafrá mousikí), con grandi successi al suo attivo. Sposò la cantante Nadia Konstantopoulou, per cui compose diverse canzoni.\n\nVinse il primo premio al Festival Internazionale della Canzone di Sopot nel 1964 con il brano \"Je te remercie mon cœur\" (\"Σε ευχαριστώ καρδιά μου\") — la seconda vittoria della Grecia in quel concorso. Compose anche musiche per il cinema, tra cui il film \"Το παιδί και το δελφίνι\" (1957), e per il teatro.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/morakis.jpg",
+      "roles": [
+        "am"
+      ]
+    },
+    {
+      "id": "p_1788530358859",
+      "name": "Άννα Μπακιρτζή",
+      "nameit": "Ánna Bakirtzí",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Paroliera, accreditata ufficialmente come autrice del testo di \"Ρολόι-κομπολόι\" (musica di Akis Panou, prima esecuzione di Grigoris Bithikotsis, 1967), uno dei brani laïkó più amati del compositore.\n\nFu la seconda moglie di Akis Panou, sposata nel 1993 (originaria di Xanthi, città in cui la coppia si trasferì nel 1986); ebbero quattro figli.\n\nNota sull'attribuzione: sebbene il testo sia accreditato ufficialmente a suo nome, la critica musicale e la fortissima impronta stilistica del brano hanno portato ad attribuire la paternità poetica quasi interamente allo stesso Akis Panou — un caso, quindi, di attribuzione formale che secondo molti osservatori non rispecchia la reale creazione del testo. Non è stato possibile reperire altre informazioni biografiche su di lei (nascita, altre opere).",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "at"
       ]
     }
   ]
