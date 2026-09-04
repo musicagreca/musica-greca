@@ -1,8 +1,31 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-04T15:09:57.721Z",
+  "exportedAt": "2026-09-04T15:45:14.466Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788536324924",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-04",
+      "tgr": "Στα είπα όλα",
+      "tit": "Sta ìpa òla",
+      "alias": "",
+      "at": "Οδυσσέας Ιωάννου",
+      "am": "Μίλτος Πασχαλίδης",
+      "yr": "2003",
+      "ar": "Σωκράτης Μάλαμας",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=TSoDj9mD60k",
+      "li": "",
+      "ch": "SOLm      REm      SOLm      REm      LAm      REm      SOLm      REm\n\nLAm      SOLm      REm      LA#      LAm\nΠολλές φορές σου μίλησα με χρώματα στο στόμα\nSOLm      REm      LA#      LAm\nστο είπα όσα έμαθα τα έμαθα με το σώμα\nREm      LA#      LAm\nμισός ψυχή μισός κορμί και η πείνα μου θηρίο\nSOLm      REm      LA#      LAm\nμισή ζωή σπατάλησα να ζήσουν και τα δύο...\nSOLm      DO      REm\nνα ζήσουν και τα δύο\n\nSOLm                                REm\nΌσα κομμάτια και αν μπορέσεις να ενώσεις\nSOLm                                     REm\nδεν θα σου φτάσουν μια στιγμή για να με νιώσεις\nLAm      REm      SOLm      DO      REm\nΣτα είπα όλα φίλα με τώρα\n\nLAm      SOLm      REm      LA#      LAm\nΜε αγαπούσε το νερό μα ο ουρανός με ζούσε\nSOLm          REm          LA#       LAm\nκι όταν μετρούσα τι μπορώ η γη δε με χωρούσε\nREm                        LA#      LAm\nΚυνήγησα τις ομορφιές μα με έκλεψε η λύπη\nSOLm         REm          LA#                     LAm\nοι αλήθειες μου εσύ όταν κλαις και της καρδιάς μου οι χτύποι\nSOLm        DO      REm\nκαι της καρδιάς μου οι χτύποι\n\nSOLm                                REm\nΌσα κομμάτια και αν μπορέσεις να ενώσεις\nSOLm                                     REm\nδεν θα σου φτάσουν μια στιγμή για να με νιώσεις\nLAm      REm      SOLm      DO      REm\nΣτα είπα όλα φίλα με τώρα",
+      "tr": "Sta ípa όla\n\nPolés forés su mílisa me chrόmata sto stόma\nsto ípa όsa ématha ta ématha me to sόma\nmisόs psichí misόs kormί ke i pína mu thirίo\nmisί zoí spatálisa na zísun ke ta dίo...\nna zísun ke ta dίo\n\nΌsa komátia ke an borésis na enόsis\nden tha su ftásun mia stighmí gia na me niόsis\nSta ípa όla fíla me tόra\n\nMe aghapúse to nerό ma o uranόs me zúse\nki όtan metrúsa ti borό i yi de me chorúse\nKinίghisa tis omorfiés ma me éklepse i lίpi\ni alίthies mu esí όtan klais ke tis kardiás mu i chtίpi\nke tis kardiás mu i chtípi\n\nΌsa komátia ke an borésis na enόsis...",
+      "ti": "Ti ho detto tutto\n\nMolte volte ti ho parlato con colori sulla bocca\nti ho detto tutto ciò che ho imparato, l'ho imparato con il corpo\nmetà anima, metà corpo, e la mia fame una belva\nmezza vita ho sprecato perché entrambe potessero vivere...\nperché entrambe potessero vivere\n\nPer quanti pezzi tu possa riuscire a unire\nnon ti basterà un solo istante per capirmi davvero\nTe l'ho detto tutto, baciami ora\n\nMi amava l'acqua ma il cielo mi faceva vivere\ne quando calcolavo cosa potevo, la terra non mi conteneva\nho inseguito le bellezze ma mi ha rubato la tristezza\nle mie verità sei tu quando piangi, e i battiti del mio cuore\ne i battiti del mio cuore\n\nPer quanti pezzi tu possa riuscire a unire... | 2x\n\nNote:\n\nil testo ha un registro poetico moderno e introspettivo, con immagini frammentate (anima/corpo divisi, pezzi da unire, elementi naturali come acqua/cielo/terra) che esprimono un conflitto interiore tra spiritualità e fisicità, desiderio e sofferenza — stile più vicino alla canzone d'autore greca contemporanea che al repertorio tradizionale rebetiko/laiko\n\"στα είπα όλα φίλα με τώρα\" (te l'ho detto tutto, baciami ora) funge da climax emotivo del brano, un invito diretto e intimo dopo la confessione interiore precedente",
+      "no": ""
+    },
     {
       "id": "s_1788534382794",
       "offsets": {},
@@ -1730,7 +1753,7 @@
       "date": "2026-08-29",
       "tgr": "Μάγκικο μου",
       "tit": "Mànghiko mu",
-      "alias": "",
+      "alias": "Σκερτσοπεταχτό",
       "at": "tradizionale",
       "am": "tradizionale",
       "yr": "tradizionale",
@@ -12525,6 +12548,36 @@
       "link": "",
       "listen": "",
       "photo": "",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1788535225567",
+      "name": "Μίλτος Πασχαλίδης",
+      "nameit": "Miltiádis Paschalídis",
+      "born": "31 luglio 1969, Kalamata (Messenia)",
+      "died": "",
+      "bio": "Cantautore, cantante e scrittore greco, esponente dell'éntechno e del rock. Studiò chitarra classica al Conservatorio Ellenico, nella classe di Charalambos Ekmetzoglou, con Panagiotis Ioannou. Nel 1987 si trasferì a Heraklion, Creta, per studiare Matematica; si laureò \"per fortuna e caparbietà\" nel 1992 — periodo cruciale per la sua carriera musicale, durante il quale fu membro del gruppo Chaïnides, prima di intraprendere il percorso da solista.\n\nPubblicò il primo disco personale nel 1995 (\"Παραμύθι με λυπημένο τέλος\"); tra i lavori più recenti \"Στη χώρα των αθώων\" (2020). Oltre alla composizione si è dedicato anche alla scrittura, tra cui il libro \"Αγύριστο κεφάλι: ο Άλκης Αλκαίος που γνώρισα\", dedicato al celebre paroliere Alkis Alkaios (Vangelis Liaros, 1945-2012), con ricordi, riflessioni e retroscena inediti su come nacquero alcune delle sue canzoni più note.\n\nHa collaborato con moltissimi grandi nomi della musica greca: Giorgos Ntalaras, Dimitris Mitropanos, Thanos Mikroutsikos, Alkis Alkaios, Vasilis Papakonstantinou, Sokratis Malamas, Lavrentis Machairitsas, Glykeria, Giota Negka, Christos Thivaios, Natassa Bofiliou, Babis Stokas, Giannis Charoulis, Mirella Pachou.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/paschalidis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788535521478",
+      "name": "Οδυσσέας Ιωάννου",
+      "nameit": "Odysséas Ioánnou",
+      "born": "5 gennaio 1967, Atene",
+      "died": "",
+      "bio": "Paroliere, giornalista musicale e conduttore radiofonico greco. Passò attraverso scuola, università, conservatorio e servizio militare prima di approdare alla radio, dove condusse una trasmissione quotidiana per 22 anni (dalle 18 alle 20), prima su \"902 Aristerá sta FM\" e poi su \"Melodía 99.2\", di cui fu direttore dal 2000 al 2010.\n\nScrive su giornali e riviste dal 1986 (\"Μουσική\", \"Ένα\", \"VOX\", \"Μετρό\", \"OZ\", \"Ήχος\", \"Μελωδία\", \"Δίφωνο\", \"Ριζοσπάστης\", \"Αυγή\"), e più recentemente su \"Καθημερινή\", \"Το Βήμα της Κυριακής\" (dal 2018), \"Protagon.gr\".\n\nSi affermò come paroliere con un disco che segnò l'inizio della sua carriera in questo ruolo, per poi collaborare negli anni con i massimi esponenti dell'éntechno greco: Thanos Mikroutsikos, Vasilis Papakonstantinou, Charoula Alexiou, Giorgos Ntalaras, Stamatis Kraounakis, Giannis Markopoulos, Dimitris Mitropanos, Sokratis Malamas, Miltos Paschalidis, Dionysis Tsaknis, Lavrentis Machairitsas, Christos Thivaios, Minos Matsas (nipote/discendente della famiglia Matsas incontrata più volte nelle nostre ricerche!), Eleni Tsaligopoulou, Kostas Leivadas, Vasilis Lekkas, Mario Frangoulis, Pantelis Thalassinos, Nikos Zoudiaris, Giannis Koutras, tra gli altri — in totale, testi per circa 250 canzoni.\n\nNel settembre 2006, per i 15 anni della radio \"Melodía\", organizzò due concerti al Lykavittós invitando Charoula Alexiou, Sokratis Malamas e Alkinoos Ioannidis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ioannou.jpg",
       "roles": [
         "at"
       ]
