@@ -1,8 +1,54 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-04T15:45:14.466Z",
+  "exportedAt": "2026-09-05T05:10:52.886Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788585044791",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-05",
+      "tgr": "Στην Aμφιάλη",
+      "tit": "",
+      "alias": "",
+      "at": "Νίκος Γκάτσος",
+      "am": "Σταύρος Ξαρχάκος",
+      "yr": "1983",
+      "ar": "Τάκης Μπίνης, Κώστας Τσίγγος, Κώστας Ματζόπουλος, Νίκος Μαραγκόπουλος",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Karsilamàs",
+      "ll": "https://www.youtube.com/watch?v=zE5INdF4myk",
+      "li": "",
+      "ch": "SOL                        RE              SOL\nΜια βραδιά στην Αμφιάλη του τη φέραν του Μιχάλη\nSOL                  RE                   SOL\nτου τη φέραν του Μιχάλη μια βραδιά στην Αμφιάλη.\nMI                LAm        RE        SOLm\nΠως πουλούσε με το δράμι κουλουράκια με σουσάμι\nMI             LAm       RE              SOLm\nΚουλουράκια με σουσάμι τα πουλούσε με το δράμι.\n\nSOL                        RE              SOL\nΈνα κι ένα κάνουν δύο πέστε του Μιχάλη αντίο\nSOL                        RE              SOL\nΔύο κι ένα κάνουν τρία τον γραπώσαν τα θηρία.\n\nSOL                        RE              SOL\nΆλλη μια βραδιά στην Τρούμπα αμολύσανε καλούμπα\nSOL                        RE              SOL\nΑμολύσανε καλούμπα άλλη μια βραδιά στην Τρούμπα\nMI                LAm        RE        SOL\nΠούλαγε ζεστή τουλούμπα κι έτσι έπεσε στη λούμπα\nMI                LAm        RE        SOL\nΈτσι έπεσε στη λούμπα γιατί πούλαγε τουλούμπα\n\nSOL                        RE              SOL\nΈνα κι ένα κάνουν δύο πέστε του Μιχάλη αντίο\nSOL                        RE              SOL\nΔύο κι ένα κάνουν τρία τον γραπώσαν τα θηρία.\n\nSOL                        RE              SOL\nΠοιος του φταίει του Μιχάλη το ξερό του το κεφάλι\nSOL                        RE              SOL\nΤο ξερό του το κεφάλι να ποιος φταίει του Μιχάλη.\nMI                LAm        RE        SOL\nΕίχε κρύψει στο συρτάρι φούντες-φούντες το χορτάρι\nMI                LAm        RE        SOL\nΦούντες φούντες το χορτάρι είχε κρύψει στο συρτάρι.\n\nSOL                        RE              SOL\nΈνα κι ένα κάνουν δύο πέστε του Μιχάλη αντίο\nSOL                        RE              SOL\nΔύο κι ένα κάνουν τρία τον γραπώσαν τα θηρία.\n\nSOL                        RE              SOL\nΘα του στείλουμε λουκούμια τώρα που 'γινε σαν μούμια\nSOL                        RE              SOL\nΤώρα που 'γινε σαν μούμια θα του στείλουμε λουκούμια\nMI                LAm        RE        SOL\nΝα τα τρώει στο κελί του να χτυπάει την κεφαλή του\nMI                LAm        RE        SOL\nΝα χτυπάει την κεφαλή του στο μακρόστενο κελί του\n\nSOL                        RE              SOL\nΈνα κι ένα κάνουν δύο πέστε του Μιχάλη αντίο\nSOL                        RE              SOL\nΔύο κι ένα κάνουν τρία τον γραπώσαν τα θηρία.\n\nSOL                        RE              SOL\nΜια βραδιά στην Αμφιάλη του τη φέραν του Μιχάλη\nSOL                        RE              SOL\nτου τη φέραν του Μιχάλη μια βραδιά στην Αμφιάλη.\nMI                LAm        RE        SOL\nΆλλη μια βραδιά στην Τρούμπα αμολύσανε καλούμπα\nMI                LAm        RE        SOL\nΑμολύσανε καλούμπα κι έτσι έπεσε στην λούμπα\n\nSOL                        RE              SOL\nΈνα κι ένα κάνουν δύο πέστε μας κι εμάς αντίο\nSOL                        RE              SOL\nΔύο κι ένα κάνουν τρία και τελειώνει η ιστορία",
+      "tr": "Stin Amfiáli\n\nMia vradiá stin Amfiáli, tu tin féran tu Micháli\nTu tin féran tu Micháli, mia vradiá stin Amfiáli\nPos pulúse me to drámi kulurákia me susámi\nKulurákia me susámi, ta pulúse me to drámi\n\nÉna ki éna kánun dίo, pésте tu Micháli andίo\nDίo ki éna kánun tría, ton grapósan ta thiría\n\nÁli mia vradiá stin Trúba amolísane kalúba\nPúlaghe zestí tulúba, ki étsi épese sti lúba\n\nÉna ki éna kánun dίo...\n\nPios tu ftèi tu Micháli, to ksirό tu to kefáli\nÍche krípsi sto sirtári fúndes-fúndes to chortári\n\nÉna ki éna kánun dίo...\n\nTha tu stílume lukúmia, tόra pu 'ghine sa múmia\nNa ta tróï sto kelí tu, na chtipái tin kefalí tu\nNa chtipái tin kefalí tu sto makrόsteno kelí tu\n\nÉna ki éna kánun dίo...\n\nÉna ki éna kánun dίo, péste ke se mas andίo\nDίo ki éna kánun tría ke teliόni i istoría",
+      "ti": "Ad Amfiàli\n\nUna sera ad Amfiali, gliela combinarono a Michalis\ngliela combinarono a Michalis, una sera ad Amfiali\nlui vendeva a peso (a grammi) biscottini col sesamo\nbiscottini col sesamo, li vendeva a peso\n\nUno e uno fanno due, dite addio a Michalis\ndue e uno fanno tre, l'hanno afferrato le belve (la polizia)\n\nUn'altra sera a Trumba misero su una messinscena\nvendeva un dolce caldo (tulumba), e così cadde nel guaio\n\nUno e uno fanno due...\n\nDi chi è la colpa di Michalis, della sua testa dura\naveva nascosto nel cassetto, a ciuffi, l'erba (hashish)\n\nUno e uno fanno due...\n\nGli manderemo dei lokum, ora che è diventato come una mummia\nche se li mangi nella sua cella, che si batta la testa\nche si batta la testa nella sua cella stretta e lunga\n\nUno e uno fanno due...\n\nUno e uno fanno due, dite addio anche a noi\ndue e uno fanno tre e finisce la storia\n\nNote:\n\nΑμφιάλη, Τρούμπα — quartieri storici del Pireo\nδράμι — antica unità di misura per il peso, drammo\nκαλούμπα — messinscena/trappola organizzata (probabilmente riferita a un'operazione di polizia sotto copertura)\nτουλούμπα — dolce fritto tradizionale imbevuto di sciroppo\nλούμπα — pozzanghera/fango, qui in senso figurato \"guaio/pasticcio\"\nφούντες-φούντες — a ciuffi/mazzetti, riferito qui scherzosamente all'hashish nascosto",
+      "no": "Amfiali è uno dei quartieri più grandi e antichi di Keratsini, nell'area del Pireo. Cominciò a popolarsi dopo il 1922, quando vi si stabilirono progressivamente i profughi dell'Asia Minore, del Ponto e di Costantinopoli, arrivati dopo la Catastrofe. Tra il 1936 e il 1939 lo Stato tentò di regolarizzare l'assegnazione dei terreni a questi profughi, anche se l'edilizia abusiva restò a lungo diffusa nella zona. Il primo insediamento organizzato risale al 1932, con il quartiere \"Myriófyto\" (oggi zona \"Neró\").\n\nCome molti quartieri-rifugio del Pireo di quell'epoca, Amfiali fu terreno fertile per la nascita e la diffusione del rembetiko, cantato spesso nei locali popolari della zona.\n\nIn Grecia un δράμι equivaleva a 3,203 grammi.Rapporti: 400 δράμια formavano un'οκά (oka, pari a circa 1,28 kg).\nLa parola deriva dall'arabo dirham, a sua volta proveniente dall'antica dracμή (dracma) greca."
+    },
+    {
+      "id": "s_1788580404736",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-05",
+      "tgr": "Στη μαγεμένη Αραπιά",
+      "tit": "Sti maghiemèni Arapià",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1959",
+      "ar": "Δημήτρης Ρουμελιώτης, Νότα Παπανικολάου",
+      "lb": "HIS MASTER'S VOICE A.O. 5558",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Tsifteteli",
+      "ll": "https://www.youtube.com/watch?v=GXv-yeaKtLY",
+      "li": "",
+      "ch": "RE      RE#      RE      RE#      RE\nΑ, μια νύχτα πριν να σβήσουν τ' άστρα\nRE#      RE      DOm\nτρελή, μικρή μου ξελογιάστρα\nRE#      RE\nέλα να πάμε μακριά\nRE      RE#      RE      RE#      RE\nΩ, εκεί που όλα είν' ωραία\nRE#      RE      DOm\nκαι με τον έρωτα παρέα\nRE#      RE\nστη μαγεμένη Αραπιά\n\nSOLm      RE      RE#      RE\nΈλα μικρό μου ταίρι, να πάμε σ' άλλα μέρη\nRE#      RE\nπου να 'ναι καλοκαίρι, ω\nSOLm      RE      RE#      RE\nΝα παίζουν οι αραπάδες μπουζούκια και ζουρνάδες\nRE#      RE      DOm\nκι εμείς μαχαραγιάδες, ω\nRE#      RE\nστη μαγεμένη Αραπιά\n\n(Σόλο)\n\nSOLm      RE      RE#      RE\nΈλα μικρό μου ταίρι, να πάμε σ' άλλα μέρη\nRE#      RE\nπου να 'ναι καλοκαίρι, ω\nSOLm      RE      RE#      RE\nΝα παίζουν οι αραπάδες μπουζούκια και ζουρνάδες\nRE#      RE      DOm\nκι εμείς μαχαραγιάδες, ω\nRE#      RE\nστη μαγεμένη Αραπιά",
+      "tr": "Sti maghiemèni Arapià\n\nA, mia níchta prin na svísun t'ástra\ntrelí, mikrí mu kseloyiástra\néla na páme makriá\nO, ekí pu όla ín'oréa\nke me ton érota pareá\nsti maghemέni Arapiá\n\nÉla mikrό mu téri, na páme s'άla méri\npu na 'ne kalokéri, o\nNa pézun i arapádes buzúkia ke zurnádes\nki emís macharaghiádes, o\nsti maghemέni Arapiá\n\nÉla mikrό mu téri...",
+      "ti": "Nella magica terra degli arabi\n\nAh, una notte prima che si spengano le stelle\nmia piccola pazza incantatrice\nvieni, andiamo lontano\noh, là dove tutto è bello\ne in compagnia dell'amore\nnella magica terra degli arabi\n\nVieni, piccola mia compagna, andiamo in altri luoghi\ndove sia sempre estate, oh\nche suonino gli arabi bouzouki e zurnà\ne noi da maragià, oh\nnella magica terra degli arabi\n\n(Assolo)\n\nVieni, piccola mia compagna...\n\nNote:\n\nξελογιάστρα — incantatrice, che fa perdere la testa\nταίρι — compagna di vita\nΑραπιά — terra degli arabi, luogo esotico immaginario\nζουρνάς — strumento a fiato popolare",
+      "no": ""
+    },
     {
       "id": "s_1788536324924",
       "offsets": {},
@@ -12580,6 +12626,62 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/ioannou.jpg",
       "roles": [
         "at"
+      ]
+    },
+    {
+      "id": "p_1788579536731",
+      "name": "Δημήτρης Ρουμελιώτης",
+      "nameit": "Dimítris Roumeliótis",
+      "born": "1921, Salonicco",
+      "died": "2012, Montréal (Canada)",
+      "bio": "Cantante del laïkó genuino degli anni '50, oggi ingiustamente dimenticato — a suo dire pari per talento ad altri grandi nomi del genere, ma mai entrato nel novero dei \"grandi\" della storia ufficiale. Ha all'attivo oltre 110 canzoni, di cui circa metà cantate in coro/secondo con altri interpreti.\n\nDal suo racconto autobiografico: dopo la Liberazione dai tedeschi, riaprì a Salonicco la fabbrica di dischi di famiglia. Trasferitosi ad Atene, nel 1948 incise il suo primo disco, con \"Κόρη παραχαϊδεμένη\" e \"Ραντεβουδάκι\" — brani cantati da Stella Chaskil con Vasilis Tsitsanis all'orchestra, per l'etichetta Odeon-Parlophone. Nel 1951 passò come cantante alla Columbia.\n\nEmigrò poi in Canada (Montréal), dove visse fino alla morte nel 2012. Sua figlia, Sofia Bakirtzi-Roumelioti, è sopravvissuta di poco al padre secondo alcune fonti recenti (deceduta il 21 luglio 2022, a 73 anni).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/rumeliotis.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788580339944",
+      "name": "Νότα Παπανικολάου",
+      "nameit": "Nóta Papanikoláou",
+      "born": "",
+      "died": "",
+      "bio": "Cantante specializzata nel ruolo di \"segondo\" (voce di supporto/accompagnamento) accanto ai grandi interpreti solisti della sua epoca — un ruolo fondamentale ma spesso poco riconosciuto nella storia del laïkó. Cantò regolarmente insieme a Manolis Aggelopoulos, Grigoris Bithikotsis, Dimitris Roumeliotis, Iordanis Tsomidis, tra gli altri.\n\nDiscografia principale:\n\n\"Στη μαγεμένη αραπιά\" (Giorgos Mitsakis), prima esecuzione il 12/5/1959 con Dimitris Roumeliotis\n\"Εδώ Παπάς, εκεί Παπάς\" (Theodoros Derveniotis, testo Kostas Virvos), con Grigoris Bithikotsis\n\"Αν δεν πονάς τη μάνα μου\", con Iordanis Tsomidis\n\"Ήσουν ο πιο φίνος μάγκας\", con Bithikotsis\n\nCon Manolis Aggelopoulos, in un arco di soli 40 giorni nel 1959, incise tre brani:\n\n\"Η αγάπη του τσιγγάνου\" (Th. Derveniotis, 5/11/1959, HMV A0-5589), con Giorgos Mariolas al violino, P. Petsas alla chitarra, lo stesso Derveniotis al baglamás, Stelios Makrydakis e Giannis Karampesinis ai buzuki, Michalis Gkiouzel alla fisarmonica\n\"Στο κατάκλειστο το σπίτι\" (Derveniotis/Eftychia Papagiannopoulou), stesso disco, lato B, stessa data\n\"Κάποιος με καταράστηκε\" (Lakis Kekesis/T. Soumalevris), registrato 15/12/1959, uscito nel 1960 (HMV A0-5661 e 45 giri 7PG-2727), con Nikolas Chalkias alla fisarmonica\n\nNon sono state trovate note biografiche",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/papanikolau.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788584552000",
+      "name": "Κώστας Ματζόπουλος",
+      "nameit": "Kóstas Matzópoulos",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Interprete, tra le voci della colonna sonora del film \"Ρεμπέτικο\" (1983, Kostas Ferris, musiche di Stavros Xarhakos, testi di Nikos Gatsos) — insieme a Takis Binis, Nikos Dimitratos, Kostas Tsigkos, Nikos Maragkopoulos, lo stesso Xarhakos, e Sotiria Leonardou al debutto.\n\nPartecipò anche allo spettacolo musicale \"Αμάν... Αμήν\" (1995, Minos-EMI), sempre di Xarhakos, dedicato al rembetiko, registrato dal vivo al Teatro Ateniese (24-25 aprile), insieme a Poly Panou, Sotiria Leonardou, Maria Soultatou, Dimitra Mavrodakou, Nikos Maragkopoulos, Kostas Tsigkos, Spyros Liosis. Un ascoltatore ne descrisse l'interpretazione come capace di \"schiumare di demoni\" (\"αφρίζει από τα δαιμονικά\").\n\nNota: non è stato possibile reperire dati biografici (nascita, morte) — resta documentato attraverso queste due partecipazioni artistiche di rilievo.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788584608304",
+      "name": "Νίκος Μαραγκόπουλος",
+      "nameit": "Níkos Maragkópoulos",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Interprete, tra le voci della colonna sonora del film \"Ρεμπέτικο\" (1983) — è lui a eseguire il celebre amanés nel brano \"Καίγομαι, καίγομαι\", definito da alcuni ascoltatori \"il miglior amanés mai sentito\".\n\nPartecipò anche allo spettacolo musicale \"Αμάν... Αμήν\" (1995, Minos-EMI) di Xarhakos, dove — secondo un recensore — \"dà l'anima\" cantando \"Μάνα μου Ελλάς\" (testo di Nikos Gatsos), commuovendo il pubblico.\n\nSul forum rembetiko.gr viene inoltre citato per la sua interpretazione \"sconvolgente\" de \"Ο Καϊξής\" di Apostolos Chatzichristos.\n\nNota: anche per lui, nessun dato biografico reperibile — persino gli appassionati specializzati ammettono di non sapere nulla della sua vita, nonostante l'ammirazione unanime per la sua voce.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
       ]
     }
   ]
