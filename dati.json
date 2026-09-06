@@ -1,8 +1,119 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-06T04:36:05.917Z",
+  "exportedAt": "2026-09-06T06:51:39.584Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788677416804",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στελλάκης Περπινιάδης",
+          "year": "1936",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=eRAqjjAU5vM"
+        },
+        {
+          "who": "Χάρις Αλεξίου",
+          "year": "1976",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=RKl0jMlmF6Y"
+        },
+        {
+          "who": "interpreti del film",
+          "year": "1983",
+          "note": "dal film Rembetiko",
+          "link": "https://www.youtube.com/watch?v=pGrjWbl0uPw"
+        }
+      ],
+      "date": "2026-09-06",
+      "tgr": "Το Ειρηνάκι",
+      "tit": "To Irinàki",
+      "alias": "Φέρτε πρέζα να πρεζάρω",
+      "at": "Παναγιώτης Τούντας",
+      "am": "Παναγιώτης Τούντας",
+      "yr": "1932",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno-Rebétiko",
+      "dr": "",
+      "bal": "kalamatianòs",
+      "ll": "",
+      "li": "",
+      "ch": "Versione maschile\nRE            RE# RE     RE#  RE   DOm   RE\nΜη με ρωτάτε γείτονες τι έχω και συλλογιέμαι\nRE            RE#      RE      RE#  RE  DOm   RE\nΚαρα-γιαγκίνι μες στην καρδιά έχω και τυραννιέμαι\n\n    DOm           RE#   RE\nΑχ, φέρτε πρέζα να πρεζάρω\nRE   DOm    RE#   RE\nκαι χασίσι να φουμάρω\n         SOLm        RE\nΜ' έχει λωλό το Ερηνάκι\n        DOm   RE#  RE\nμε το μουσμουλί γοβάκι\nRE         DOm             RE\nΒρε, του μιλάω και δε μιλιέται\nRE            DOm      RE#     RE\nΣκάει απ' τα γέλια κι όλο κουνιέται\n    DOm            RE#  RE\nΑχ, φέρτε πρέζα να πρεζάρω\n     DOm    RE#   RE\nκαι χασίσι να φουμάρω\n\nRE         RE#    RE    RE#   RE   DOm  RE\nΟ μερακλής ο άνθρωπος πονεί μα δεν το λέει\nRE                  RE#      RE      RE#  RE  DOm   RE\nΚι αν τραγουδάει, ψεύτη ντουνιά, μέσα η καρδιά του κλαίει\n\n    DOm           RE#   RE\nΑχ, φέρτε πρέζα να πρεζάρω\nRE   DOm    RE#   RE\nκαι χασίσι να φουμάρω\n         SOLm        RE\nΜ' έχει λωλό το Ερηνάκι\n        DOm   RE#  RE\nμε το μουσμουλί γοβάκι\n\nVersione femminile\n\nΜη με ρωτάτε βλάμμηδες\nγιατί είμαι λυπημένη,\nκαρα γιαγκίνι μες στην καρδιά\nέχω και με μαραίνει,\nααχ! φέρτε πρέζα να πρεζάρω\nκαι χασίσι να φουμάρω.\n\nΓιατί αγαπώ έν’ αλανιάρη\nμε το μουσμουλί ζωνάρι,\nρε του ξηγιέμαι δε μου μιλάει\nπονώ αν με βλέπει κι όλο γελάει,\nφέρτε πρέζα να πρεζάρω\nκαι χασίσι να φουμάρω.\n\nΗ μερακλού η μόρτισσα\nπονεί μα δεν το λέγει\nκι αν τραγουδά ρε ψεύτη ντουνιά\nμέσα η καρδιά της κλαίγει,\nααχ! φέρτε πρέζα να πρεζάρω\nκαι χασίσι να φουμάρω.\n\nΓιατί αγαπώ έν’ αλανιάρη\nμε το μουσμουλί ζωνάρι,\nρε του ξηγιέμαι δε μου μιλάει\nπονώ αν με βλέπει κι όλο γελάει,\nφέρτε πρέζα να πρεζάρω\nκαι χασίσι να φουμάρω",
+      "tr": "To Irinàki\n\nMi me rotàte ghitònes ti écho ke sillogiéme\nKara-ghiaghìni mes stin kardià écho ke tirannième\n\nAch, fèrte prèza na prezàro\nke chasìsi na fumàro\nM'échi lolò to Erinàki\nme to musmulì ghovàki\nVre, tu milào ke de miliète\nSkài ap' ta ghèlia ki òlo kunième\nAch, fèrte prèza na prezàro\nke chasìsi na fumàro\n\nO meraklìs o ànthropos ponì ma den to lèi\nKi an traghudài, pséfti ndunià, mèsa i kardià tu klèi\n\nAch, fèrte prèza na prezàro\nke chasìsi na fumàro\nM'échi lolò to Erinàki\nme to musmulì ghovàki",
+      "ti": "La piccola Irene\n\nNon chiedetemi, vicini, cosa ho e cosa rimugino,\nho un grande incendio¹ nel cuore e mi tormento\n\nAh, portatemi eroina² da bucarmi\ne hashish da fumare\nMi ha reso pazzo la piccola Irene³\ncon la sua scarpina color nespola⁴\nEhi, le parlo e lei non risponde,\nscoppia dalle risate e non sta mai ferma\nAh, portatemi eroina da bucarmi\ne hashish da fumare\n\nL'uomo appassionato⁵ soffre ma non lo dice,\ne se canta, mondo bugiardo⁶, dentro il suo cuore piange\n\nAh, portatemi eroina da bucarmi\ne hashish da fumare\nMi ha reso pazzo la piccola Irene\ncon la sua scarpina color nespola\n\nNote\n\nΚαρα-γιαγκίνι – termine gergale rafforzativo (dal turco \"kara\" = nero/grande + \"yangın\" = incendio), usato nel rebetiko per indicare un dolore/tormento interiore fortissimo, un \"grande incendio\" metaforico nel cuore.\nΠρέζα – termine gergale per \"eroina\" (droga), diffuso nel linguaggio del rebetiko degli ambienti della malavita e dei fumatori di hashish.\nΕρηνάκι – diminutivo affettuoso del nome proprio \"Ειρήνη\" (Irene), qui la donna oggetto della passione/tormento del protagonista.\nΜουσμουλί – aggettivo di colore che indica una tonalità giallo-arancio simile al frutto della nespola (μούσμουλο), usato per descrivere il colore delle scarpe della donna, dettaglio elegante e sensuale tipico delle descrizioni femminili nel rebetiko.\nΜερακλής – termine molto usato nel greco popolare per indicare una persona che vive con passione, gusto e intensità i piaceri della vita, ma anche il dolore, con dignità e senza esibizionismo.\nΨεύτης ντουνιάς (\"mondo bugiardo\") – espressione idiomatica di origine turca (\"dünya\" = mondo), tipica del rebetiko, che esprime disillusione verso l'ingannevole apparenza della vita e della felicità esteriore.",
+      "no": "Esistono anche delle versioni più \"edulcorate\", come quella pubblicata da Charis Aleksiou nel 1976"
+    },
+    {
+      "id": "s_1788675672864",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-06",
+      "tgr": "Το δίχτυ",
+      "tit": "To dìchti",
+      "alias": "",
+      "at": "Νίκος Γκάτσος",
+      "am": "Σταύρος Ξαρχάκος",
+      "yr": "1983",
+      "ar": "Τάκης Μπίνης",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "https://www.youtube.com/watch?v=FkK_nW4Xc0Q",
+      "li": "",
+      "ch": "REm                    SOLm      REm\nΚάθε φορά που ανοίγεις δρόμο στη ζωή\n           DO                      FA\nμην περιμένεις να σε βρει το μεσονύχτι\n         SOLm                  REm\nΈχε τα μάτια σου ανοιχτά βράδυ-πρωί\n           LA                           LA7\nΓιατί μπροστά σου πάντα απλώνεται ένα δίχτυ \n         SOLm                  REm\nΈχε τα μάτια σου ανοιχτά βράδυ-πρωί\n               LA                 REm LA REm\nΓιατί μπροστά σου πάντα απλώνεται ένα δίχτυ\n\nLA#\nΑν κάποτε στα βρόχια του πιαστείς\n  DO                           FA\nκανείς δεν θα μπορέσει να σε βγάλει\n     SOLm                    REm\nΜονάχος βρες την άκρη της κλωστής\n                 LA            LA7\nκι αν είσαι τυχερός, ξεκίνα πάλι \nLA#\nΑν κάποτε στα βρόχια του πιαστείς\n  DO                           FA\nκανείς δεν θα μπορέσει να σε βγάλει\n     SOLm                    REm\nΜονάχος βρες την άκρη της κλωστής\n                 LA         REm LA REm\nκι αν είσαι τυχερός, ξεκίνα πάλι\n\nREm               SOLm      REm\nΑυτό το δίχτυ έχει ονόματα βαριά\n              DO                      FA\nπου είναι γραμμένα σ' εφτασφράγιστο κιτάπι\n         SOLm                  REm\nΆλλοι το λεν του κάτω κόσμου πονηριά\n           LA                           LA7\nκι άλλοι το λεν της πρώτης άνοιξης αγάπη \n         SOLm                  REm\nΆλλοι το λεν του κάτω κόσμου πονηριά\n           LA                     REm LA REm\nκι άλλοι το λεν της πρώτης άνοιξης αγάπη \n\nLA#\nΑν κάποτε στα βρόχια του πιαστείς\n  DO                           FA\nκανείς δεν θα μπορέσει να σε βγάλει\n     SOLm                    REm\nΜονάχος βρες την άκρη της κλωστής\n                 LA            LA7\nκι αν είσαι τυχερός, ξεκίνα πάλι \nLA#\nΑν κάποτε στα βρόχια του πιαστείς\n  DO                           FA\nκανείς δεν θα μπορέσει να σε βγάλει\n     SOLm                    REm\nΜονάχος βρες την άκρη της κλωστής\n                 LA          REm LA REm\nκι αν είσαι τυχερός, ξεκίνα πάλι",
+      "tr": "To dìchti\n\nKàthe forà pu anìghis dròmo sti zoì\nmin periménis na se vri to mesonìchti\nÈche ta màtia su anichtà vràdi-proì\nGhiatì brostà su pànda aplònete éna dìchti\n\nAn kàpote sta vròchia tu piastìs\nkanìs den tha borèsi na se vgàli\nMonàchos vres tin àkri tis klostìs\nki an ìse tichièros, ksekìna pàli\n\nAftò to dìchti échi onòmata varià\npu ìne ghraména s' eftasfràghisto kitàpi\nÀlli to len tu kàto kòsmu poniría\nki àlli to len tis pròtis àniksis aghàpi\n\nAn kàpote sta vròchia tu piastìs\nkanìs den tha borèsi na se vgàli\nMonàchos vres tin àkri tis klostìs\nki an ìse tichièros, ksekìna pàli",
+      "ti": "La rete\n\nOgni volta che apri una strada nella vita\nnon aspettarti che sia la mezzanotte a trovarti¹\nTieni gli occhi aperti sera e mattina\nperché davanti a te si stende sempre una rete²\n\nSe un giorno resti impigliato nei suoi lacci³,\nnessuno potrà tirarti fuori,\nda solo dovrai trovare il capo del filo⁴,\ne se sei fortunato, ricomincia da capo\n\nQuesta rete ha nomi pesanti⁵,\nche sono scritti in un libro sigillato a sette chiavi⁶,\nalcuni la chiamano l'astuzia del mondo sotterraneo⁷,\ne altri la chiamano l'amore della prima primavera\n\nSe un giorno resti impigliato nei suoi lacci,\nnessuno potrà tirarti fuori,\nda solo dovrai trovare il capo del filo,\ne se sei fortunato, ricomincia da capo\n\nNote\n\nΝα σε βρει το μεσονύχτι (\"che sia la mezzanotte a trovarti\") – espressione poetica per \"essere colto di sorpresa/impreparato\", la mezzanotte come metafora del momento critico o pericoloso della vita.\nΔίχτυ – \"rete\", immagine simbolica ricorrente nel testo per indicare l'insidia, il destino o le trappole della vita/dell'amore che ci attendono lungo il cammino.\nΒρόχια – \"lacci, nodi scorsoi\" (della rete); rafforza l'immagine della trappola da cui è difficile liberarsi una volta caduti.\nΒρες την άκρη της κλωστής (\"trova il capo del filo\") – espressione idiomatica greca, equivalente a \"trova una via d'uscita, un bandolo della matassa\", per risolvere una situazione ingarbugliata.\nΟνόματα βαριά (\"nomi pesanti\") – espressione che allude a concetti/parole di grande peso esistenziale (come \"destino\", \"amore\", \"morte\"), non meglio specificati ma allusi nei versi successivi.\nΕφτασφράγιστο κιτάπι (\"libro sigillato con sette sigilli\") – riferimento biblico all'Apocalisse (libro dai sette sigilli), qui usato metaforicamente per indicare un mistero insondabile, una verità nascosta e inaccessibile ai più.\nΚάτω κόσμος (\"mondo sotterraneo/degli inferi\") – riferimento mitologico-popolare all'oltretomba, qui contrapposto simbolicamente all'amore come le due facce ambivalenti e misteriose di questa \"rete\" del destino.",
+      "no": ""
+    },
+    {
+      "id": "s_1788674691869",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-06",
+      "tgr": "Το δικό μου πάπλωμα",
+      "tit": "To dikò mu pàploma",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1963",
+      "ar": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Karsilamàs",
+      "ll": "https://www.youtube.com/watch?v=LXBjwlxTjJo",
+      "li": "",
+      "ch": "REm                        DO            REm\nΗ καρδιά μου είναι μεγάλη, η καλύβα μου μικρή\nFA                      DO                FA\nΑπό σένα κι από μένα άλλος δεν χωράει να μπει\n\nSOLm          REm     DO         REm   SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nSOLm            REm             DO      REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα\n\nREm                     DO            REm\nΤ' άλογο του καβαλάρη ξέρει ένα αφεντικό\nFA                      DO                FA\nΣτην καλύβα την δική μου νοικοκύρης είμαι 'γω\n\nSOLm          REm     DO         REm   SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nSOLm            REm             DO      REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα\n\nREm                        DO            REm\nΤο τραπέζι είναι στρωμένο για τα μάτια π' αγαπώ\nFA                      DO                FA\nκαι το πάπλωμα θα φτάσει να σκεπάσει και τους δυο\n\nSOLm          REm     DO         REm   SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nSOLm            REm             DO      REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα\nSOLm          REm     DO         REm   SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nSOLm            REm             DO      REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα",
+      "tr": "Το δικό μου πάπλωμα\n\nI kardià mu ìne meghàli, i kalìva mu mikrì\nApò sèna ki apò ména àllos den chorài na bi\n\nTo dikò mu pàploma ìne ghia dio àtoma\nke den pèrni bàloma to dikò mu pàploma\n\nT'àlogho tu kavalàri kséri éna afendikò\nStin kalìva tin dikì mu nikokìris ìme 'gho\n\nTo dikò mu pàploma ìne ghia dio àtoma\nke den pèrni bàloma to dikò mu pàploma\n\nTo trapèzi ìne stroméno ghia ta màtia p'aghapò\nke to pàploma tha ftàsi na skepàsi ke tus dio\n\nTo dikò mu pàploma ìne ghia dio àtoma\nke den pèrni bàloma to dikò mu pàploma",
+      "ti": "Il mio piumino è fatto per due persone\n\nIl mio cuore è grande, la mia capanna¹ è piccola,\ntra me e te non c'è posto per nessun altro\n\nIl mio piumino² è fatto per due persone\ne il mio piumino non ammette rattoppi³\n\nIl cavallo del cavaliere conosce un solo padrone,\nnella mia capanna il padrone di casa sono io\n\nIl mio piumino è fatto per due persone\ne il mio piumino non ammette rattoppi\n\nLa tavola è apparecchiata per gli occhi che amo,\ne il piumino basterà a coprire entrambi\n\nIl mio piumino è fatto per due persone\ne il mio piumino non ammette rattoppi \n\nNote\n\nΚαλύβα – \"capanna, casupola\"; immagine di umiltà e semplicità abitativa, tipica del linguaggio popolare per descrivere una vita modesta ma dignitosa e sufficiente per l'amore.\nΠάπλωμα – \"piumino, trapunta\"; simbolo dell'intimità di coppia, dello spazio esclusivo riservato a due persone che si amano.\nΔεν παίρνει μπάλωμα (\"non ammette rattoppi\") – espressione idiomatica figurata: il piumino/la relazione non tollera \"toppe\", cioè non c'è spazio per compromessi o intrusi esterni nella coppia, l'amore dev'essere integro ed esclusivo.",
+      "no": ""
+    },
+    {
+      "id": "s_1788672833671",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-06",
+      "tgr": "Το γράμμα",
+      "tit": "To gràmma",
+      "alias": "",
+      "at": "Θωμάς Μπακαλάκος",
+      "am": "Θωμάς Μπακαλάκος",
+      "yr": "1979",
+      "ar": "Χάρις Αλεξίου",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=mYOvQiA-HBE",
+      "li": "",
+      "ch": "LAm                        MI        LAm\nΓεια και χαρά σας, αγάπες μου, γεια χαρά σας\nLAm            REm              LAm\nΑς ήταν όνειρο που είμαι μακριά σας\nLAm             REm         LAm\nΗ μοναξιά την καρδιά μου λιώνει\nLAm             REm        LAm\nΗ μοναξιά την καρδιά μου λιώνει\n         MI       LAm\nτη ματώνει, τη ματώνει\nLAm             REm        LAm\nΗ μοναξιά την καρδιά μου λιώνει\n         MI       LAm\nτη ματώνει, τη ματώνει\n\nLAm              SOL           LAm\nΝα δώσεις δυο φιλάκια στη Μυριόκαλη\n        REm                LAm\nκι αυτό το λουλουδάκι για σένα\nLAm                    SOL          LAm\nΚι αύριο μην ξεχάσεις, που είναι Κυριακή\n          REm               LAm\nνα βάλεις τα καλά σου για μένα\n REm   LAm       MI      LAm\nΣ' αγαπώ πολύ, σ' αγαπώ πολύ\n REm   LAm       MI      LAm\nΣ' αγαπώ πολύ, σ' αγαπώ πολύ\n\nLAm                        MI        LAm\nΕίχε μια γλύκα τέτοια ο φετινός χειμώνας\nLAm            REm              LAm\nΈβγαλε ανθάκια ακόμα κι ο στρατώνας\nLAm            REm          LAm\nΧτες βγήκα και πήγα στο Βαγγέλη\n      MI          LAm\nχαιρετίσματα σου στέλνει\n         REm             LAm\nΧτες βγήκα και πήγα στο Βαγγέλη\n      MI          LAm\nχαιρετίσματα σου στέλνει\n\n\nLAm              SOL           LAm\nΝα δώσεις δυο φιλάκια στη Μυριόκαλη\n        REm                LAm\nκι αυτό το λουλουδάκι για σένα\nLAm                    SOL          LAm\nΚι αύριο μην ξεχάσεις, που είναι Κυριακή\n          REm               LAm\nνα βάλεις τα καλά σου για μένα\n REm   LAm       MI      LAm\nΣ' αγαπώ πολύ, σ' αγαπώ πολύ\n REm   LAm       MI      LAm\nΣ' αγαπώ πολύ, σ' αγαπώ πολύ\n\nLAm                        MI      LAm\nΓράψε μου, θέλω να μάθω το πώς περνάτε\nLAm            REm        LAm\nκαι η Αννούλα μας αν με θυμάται\nLAm            REm        LAm\nΓια τη γαρδένια μου στο μπαλκόνι\n      MI          LAm\nμαραζώνει, μαραζώνει\nLAm            REm        LAm\nΓια τη γαρδένια μου στο μπαλκόνι\n      MI          LAm\nμαραζώνει, μαραζώνει\n\nLAm              SOL           LAm\nΝα δώσεις δυο φιλάκια στη Μυριόκαλη\n        REm                LAm\nκι αυτό το λουλουδάκι για σένα\nLAm                    SOL          LAm\nΚι αύριο μην ξεχάσεις, που είναι Κυριακή\n          REm               LAm\nνα βάλεις τα καλά σου για μένα\n REm   LAm       MI      LAm\nΣ' αγαπώ πολύ, σ' αγαπώ πολύ",
+      "tr": "To gràmma\n\nGhia ke charà sas, aghàpes mu, ghia charà sas\nAs ìtan òniro pu ìme makrià sas\nI monaksià tin kardià mu liòni\nti matòni, ti matòni\n\nNa dòsis dio filàkia sti Miriòkali\nki aftò to luludàki ghia sèna\nKi àvrio min ksechàsis, pu ìne Kiriakì\nna vàlis ta kalà su ghia ména\nS'aghapò polì, s'aghapò polì\n\nÌche mia glìka tètia o fetinòs chiмònas\nÈvghale anthàkia akòma ki o stratònas\nChtes vghìka ke pìgha sto Vanghèli\nchieretìsmata su stèlni\n\nNa dòsis dio filàkia...\n\nGhràpse mu, thélo na màtho to pos pernàte\nke i Annùla mas an me thimàte\nGhia ti ghardènia mu sto balkòni\nmarazòni, marazòni\n\nNa dòsis dio filàkia...",
+      "ti": "La lettera\n\nSalve e buona vita a voi, amori miei, salve e buona vita,\nfosse solo un sogno l'essere lontano da voi\nLa solitudine mi scioglie il cuore,\nlo fa sanguinare, lo fa sanguinare\n\nDai due bacini a Myriokali,\ne questo fiorellino, per te\nE domani non dimenticare, che è domenica,\ndi indossare il tuo vestito buono per me\nTi amo tanto, ti amo tanto\n\nAveva una dolcezza tale quest'inverno,\nha fatto sbocciare fiorellini persino la caserma,\nieri sono uscito e sono andato da Vangelis,\nti manda i suoi saluti\n\nDai due bacini...\n\nScrivimi, voglio sapere come state,\ne se la nostra Annoula si ricorda di me\nLa mia gardenia sul balcone\nappassisce, appassisce\n\nDai due bacini...\n\nNote\n\nΓεια και χαρά – saluto augurale popolare, letteralmente \"salute e gioia\", usato come formula di commiato affettuoso, rivolto ai propri cari lontani.\nΜυριόκαλη – nome proprio femminile poco comune (letteralmente \"molto bella\"), qui una delle persone care a cui vengono mandati i saluti.\nΣτρατώνας – \"caserma militare\"; il riferimento resta ambiguo: potrebbe indicare che chi scrive è effettivamente un soldato lontano da casa (tema classico nella canzone popolare greca), oppure essere semplicemente un dettaglio del paesaggio menzionato di passaggio — il testo non chiarisce la condizione di chi parla, che potrebbe altrettanto trovarsi lontano per emigrazione o altri motivi.\nΑννούλα – diminutivo affettuoso del nome \"Άννα\" (Anna), altra persona cara menzionata nella lettera immaginaria.",
+      "no": ""
+    },
     {
       "id": "s_1788669323335",
       "offsets": {},
@@ -13098,6 +13209,23 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/katsulis.jpg",
       "roles": [
         "at"
+      ]
+    },
+    {
+      "id": "p_1788670948552",
+      "name": "Θωμάς Μπακαλάκος",
+      "nameit": "Thomàs Bakalàkos",
+      "born": "20 gennaio 1948,  Kipseli, Karditsa",
+      "died": "",
+      "bio": "Thomas Bakalakos (Karditsa, Καρδίτσα20 gennaio 1948) è un compositore e matematico greco, con un’attività culturale e socio-politica, che è stata fonte di esperienza, conoscenza e ispirazione per il suo lavoro compositivo.\nIn breve tempo dall'inizio dei suoi studi contemporaneamente, presso la scuola di matematica dell'Università di Atene e nel conservatorio, iniziò il suo lavoro compositivo. Era preoccupato per la fondazione della musica come scienza con la severità che ciò comporta e ha cercato di dare le proprie risposte alla domanda, qual è la ragione per cui gli antichi greci non ci hanno lasciato la loro ricca letteratura musicale registrata, mentre l'esatto contrario della letteratura greca antica, che nonostante le grandi perdite di coloro che erano stati registrati, è sopravvissuto e raggiunto ai nostri giorni tesori di conoscenza attraverso scritti, che sono una prova culturale. In questo contesto, è stato il suo annuncio scientifico al convegno organizzato dal Dipartimento di Educazione Primaria (Settore della Matematica e dell’Informatica) dell’Università di Atene, in collaborazione con il Centro per la Ricerca e l’Educazione (KEEPEK). Nella sua presentazione su \"La musica come mezzo di comunicazione e il suo rapporto con la matematica\", ha presentato un nuovo metodo di notazione musicale in modo matematico, che chiama una Performance musicale numerica (A.M.P.). La registrazione di una composizione musicale attraverso l'A.M.P. si ottiene solo con l'uso dei numeri e delle quattro gesta dell'aritmetica.\n\nNegli anni ’70 e ’80 diventa noto per album che uniscono musica popolare e temi sociali:\n\nΤα Αγροτικά (1975) – dedicato ai problemi degli agricoltori.\nΠορεία στη νύχτα (1977) – ostacolato dalla censura, poi ristampato nel 1981.\nΟι Προστάτες (1980) – considerato il primo disco ecologista in Grecia.\n\nÈ autore di opere di grande respiro:\n\nOdi e Oratori\nΙπποκράτειος Όρκος (Il Giuramento di Ippocrate) – eseguito all’Herodeion nel 2001\nΣυμφωνία της Αγάπης (Sinfonia dell’Amore)\nΘέτιδος – Αχιλλεύς (Teti e Achille) – opera in tre atti\n\nMusica da camera\nΜεταλλάξεις – Θεσσαλικά\nThree Pieces for String Quartet – registrati dal New Hellenic Quartet\n\nMusica per teatro, cinema, TV\nHa composto colonne sonore per:\nteatro\nfilm\ndocumentari\nproduzioni radiofoniche e televisive\n\nAttività culturale e politica\nOltre alla musica, ha avuto un ruolo attivo nella vita pubblica:\nMembro della KEDKE (Comitato Cultura dei Comuni Greci).\nFondatore e presidente del Πανελλήνιο Φεστιβάλ Μουσικής Δωματίου (Festival Panellenico di Musica da Camera).\nAttivo per decenni nella autonomia locale e in organismi culturali nazionali.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/bakalakos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
       ]
     }
   ]
