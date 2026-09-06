@@ -1,8 +1,110 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-06T06:51:39.584Z",
+  "exportedAt": "2026-09-06T08:51:01.982Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788684341712",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιάννης Χαρούλης",
+          "year": "2013",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=w3H53RlX-ZI"
+        }
+      ],
+      "date": "2026-09-06",
+      "tgr": "Τούτο τον μήνα",
+      "tit": "Tùto ton mìna",
+      "alias": "Μαύρα μου μάτια",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò cretese",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "Tùto ton mìna\n\nSOL\nΤούτο το μήνα τον από πάνω\nLAm                   MIm\nτον από πάνω τον παραπάνω\n\nSOL\nΑϊτός εβγήκε να κυνηγήσει\nLAm                    MIm\nνα κυνηγήσει και να γυρίσει\n\nSOL\nΔεν κυνηγούσε λαγούς και ελάφια\nLAm                    MIm\nμόνο εκυνήγα δυο μαύρα μάτια\n\nSOL\nΜαύρα μου μάτια κι αγαπημένα\nLAm                    MIm\nΚαι πως περνάτε χωρίς εμένα\n\nSOL\nΜαύρα μου μάτια, κόκκινα χείλη\nLAm                    MIm\nέβγα μικρή μου στο παραθύρι\n\nSOL\nΝα ιδείς τον ήλιο και το φεγγάρι\nLAm                    MIm\nνα ιδείς τον νέο που θα σε πάρει\n\nSOL\nΓαϊτάνι πλέκω και δεν αδειάζω\nLAm                    MIm\nδεν μου βολεί να κουβεντιάζω\n\nSOL\nΠανάθεμά το και το γαϊτάνι\nLAm                    MIm\nκι απού το πλέκει κι απού το βάνει\n\nSOL\nΠανάθεμά το και το γαϊτάνι\nLAm                    MIm\nκι απού το πλέκει κι απού το βάνει",
+      "tr": "Tùto to mìna ton apò pàno\nton apò pàno ton parapàno\n\nAitòs evghìke na kinighìsi\nna kinighìsi ke na ghirìsi\n\nDen kinighùse laghùs ke elàfia\nmòno ekinìgha dio màvra màtia\n\nMàvra mu màtia ki aghapiména\nKe pos pernàte chorìs eména\n\nMàvra mu màtia, kòkina chìli\névgha mikrì mu sto parathìri\n\nNa idìs ton ìlio ke to fengàri\nna idìs ton nèo pu tha se pàri\n\nGhaitàni plèko ke den adiàzo\nden mu volì na kuvendiàzo\n\nPanàthemà to ke to ghaitàni\nki apù to plèki ki apù to vàni\n\nPanàthemà to ke to ghaitàni\nki apù to plèki ki apù to vàni",
+      "ti": "Questo mese\n\nQuesto mese, quello di sopra¹,\nquello di sopra, quello più su\n\nUn'aquila² uscì a cacciare,\na cacciare e a tornare\n\nNon cacciava lepri e cervi,\ncacciava solo due occhi neri\n\nOcchi miei neri e amati,\ne come passate senza di me\n\nOcchi miei neri, labbra rosse,\naffacciati, piccola mia, alla finestra\n\nPer vedere il sole e la luna,\nper vedere il giovane che ti prenderà (in sposa)\n\nTesso il cordoncino³ e non smetto,\nnon ho tempo per chiacchierare\n\nMaledetto sia il cordoncino⁴,\ne chi lo tesse e chi lo mette\n\nMaledetto sia il cordoncino,\ne chi lo tesse e chi lo mette\n\nNote\n\nΤούτο το μήνα τον από πάνω – espressione arcaica/dialettale di difficile interpretazione letterale univoca, probabilmente riferita a un mese \"superiore/successivo\" nel calendario popolare, tipica dell'incipit formulare di certi canti tradizionali greci dal significato ormai sfumato nell'uso rituale.\nΑϊτός – \"aquila\", forma dialettale/popolare di \"αετός\"; figura ricorrente nella poesia popolare greca (soprattutto epirota e delle isole) come simbolo di forza, libertà e altezza, spesso protagonista di canti danzati e metafora del corteggiatore che \"dà la caccia\" alla donna amata.\nΓαϊτάνι – cordoncino intrecciato a mano (spesso di seta o lana), tradizionalmente usato per decorare costumi popolari; il gesto di \"tessere il gaitani\" è metafora del lavoro femminile quotidiano che tiene occupata la ragazza, impedendole di stare a \"chiacchierare\" con il corteggiatore.\nΠανάθεμά το – espressione idiomatica di maledizione/imprecazione popolare (\"sia maledetto\"), qui rivolta scherzosamente al lavoro manuale che \"ruba tempo\" all'amore, topos comune nei canti di corteggiamento della tradizione greca.",
+      "no": ""
+    },
+    {
+      "id": "s_1788681221011",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Θανάσης Ευγενικός, Σούλα Καλφοπούλου, Γιάννης Σταμούλης",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=_P854-R3luY"
+        }
+      ],
+      "date": "2026-09-06",
+      "tgr": "Το μαγκαλάκι",
+      "tit": "To mangalàki",
+      "alias": "",
+      "at": "Γιώργος Φωτίδας",
+      "am": "Απόστολος Χατζηχρήστος",
+      "yr": "1953",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "ll": "",
+      "li": "",
+      "ch": "LAm\nΈξω ο βοριάς σφυρίζει\nMI         LAm\nκι είμαι μοναχός\nLAm\nμε κλειστό το μαγκαλάκι\nMIm       LAm\nμένω ο φτωχός\n\nLAm        FA    DO    REm\nΓύρισε κι άναψε το μαγκαλάκι\nLAm       FA    DO   MI    LAm\nόπως μου τ' άναβες κάθε βραδάκι\n\nLAm\nΣτης αγάπης μας τη στάχτη\nMI         LAm\nψάχνω προσπαθώ\nLAm\nμήπως βρω καμία σπίθα\nMI         LAm\nγια να ζεσταθώ\n\nLAm        FA    DO    REm\nΓύρισε κι άναψε το μαγκαλάκι\nLAm       FA    DO   MI    LAm\nόπως μου τ' άναβες κάθε βραδάκι\nLAm\nΕίναι κρύο αυτό το βράδυ\nMI         LAm\nπέφτει κι η βροχή\nLAm\nκαι νεκρό χωρίς μαγκάλι\nMI                LAm\nθα μ' εύρουν την αυγή\n\nLAm        FA    DO    REm\nΓύρισε κι άναψε το μαγκαλάκι\nLAm       FA    DO   MI    LAm\nόπως μου τ' άναβες κάθε βραδάκι",
+      "tr": "To mangalàki\n\nÉkso o vorià sfirìzi\nki ìme monachòs\nme klistò to manghalàki\nméno o ftochòs\n\nGhìrise ki ànapse to manghalàki\nòpos mu t'ànaves kàthe vradàki\n\nStis aghàpis mas ti stàchti\npsàchno prospathò\nmìpos vro kamìa spìtha\nghia na zestathò\n\nGhìrise ki ànapse to manghalàki\nòpos mu t'ànaves kàthe vradàki\n\nÌne krìo aftò to vràdi\npèfti ki i vrochì\nke nekrò chorìs manghàli\ntha m'èvrun tin avghì\n\nGhìrise ki ànapse to manghalàki\nòpos mu t'ànaves kàthe vradàki",
+      "ti": "Il braciere\n\nFuori fischia la tramontana¹\ne sono solo,\ncon il braciere spento²\nresto, povero me\n\nTorna e accendi il braciere,\ncome me lo accendevi ogni sera\n\nNella cenere del nostro amore\ncerco, provo,\nforse trovo qualche scintilla\nper riscaldarmi\n\nTorna e accendi il braciere,\ncome me lo accendevi ogni sera\n\nFa freddo stanotte,\ncade anche la pioggia,\ne morto senza braciere\nmi troveranno all'alba\n\nTorna e accendi il braciere,\ncome me lo accendevi ogni sera\n\nNote\n\nΒοριάς – \"tramontana, vento del nord\", spesso usato in senso poetico per rappresentare freddo, solitudine e avversità, sia meteorologica che emotiva.\nΜαγκάλι/μαγκαλάκι – braciere tradizionale (recipiente con carboni ardenti usato per riscaldare gli ambienti prima dell'avvento del riscaldamento moderno); qui diventa metafora centrale del calore dell'amore perduto: senza la persona amata a \"accenderlo\", sia fisicamente che simbolicamente, il protagonista rischia di morire di freddo/solitudine.",
+      "no": "Il magali era un braciere portatile metallico all'interno del quale si bruciava il carbone o la carbonella. Prima dell'arrivo del riscaldamento moderno, era l'unica fonte di calore nelle povere case dei quartieri popolari greci. Le persone si sedevano in cerchio intorno a esso per riscaldarsi le mani e l'anima."
+    },
+    {
+      "id": "s_1788679388314",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ιωάννα Γεωργακοπούλου, Γιώργος Μητσάκης",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=aTtWAHL7LKw"
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=dgs6YtJtBVw"
+        },
+        {
+          "who": "Κώστας Τσίγγος",
+          "year": "1983",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Pe_G-z22eJ4"
+        }
+      ],
+      "date": "2026-09-06",
+      "tgr": "Το καπηλειό",
+      "tit": "To kapiliò",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1948",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "FA       DO      FA        DO      FA\nΗ νύχτα είναι παγερή και σιγοψιχαλίζει\nSOLm           RE      SOLm\nΚι απ' την απέναντι γωνιά\nREm             LA        REm\nτο καπηλειό, το καπηλειό φωτίζει\n\nFA            DO      FA        DO       FA\nΚι ένας απένταρος μπεκρής έξω απ' το ταβερνάκι\nSOLm       RE      SOLm\nσυλλογισμένος κάθεται\nREm             LA        REm\nστο χαμηλό, στο χαμηλό πορτάκι\n\nFA          DO           FA        DO           FA\nΘέλει να μπει κι αυτός εκεί, να κάτσει και να πίνει\nSOLm       RE      SOLm\nμα είναι φτωχό το καπηλειό\nREm             LA        REm\nκαι βερεσέ, και βερεσέ δε δίνει",
+      "tr": "To kapiliò\n\nI nìchta ìne paghIerì ke sighopsichalìzi\nKi ap' tin apènandi ghonià\nto kapilió, to kapilió fotìzi\n\nKi ènas apèndaros bekrìs ékso ap' to tavernàki\nsillloghisménos kàthete\nsto chamilò, sto chamilò portàki\n\nThèli na bi ki aftòs ekì, na kàtsi ke na pìni\nma ìne ftochò to kapilió\nke veresè, ke veresè de dìni",
+      "ti": "L'osteria\n\nLa notte è gelida e piove leggermente,\ne dall'angolo di fronte\nl'osteria¹, l'osteria illumina\n\nE un ubriacone² senza un soldo³, fuori dalla piccola taverna,\nsiede pensieroso,\ndavanti alla porticina bassa\n\nVuole entrare anche lui lì dentro, sedersi e bere,\nma l'osteria è povera\ne a credito⁴, a credito non dà\n\nNote\n\nΚαπηλειό – termine tradizionale per \"osteria, taverna popolare\", spesso di modeste dimensioni, luogo tipico di ritrovo nella cultura urbana greca del rebetiko.\nΜπεκρής – termine colloquiale/gergale per \"ubriacone\", persona dedita al bere, figura ricorrente nelle canzoni popolari a tema di povertà e vizio.\nΑπένταρος – \"senza un soldo, spiantato\" (da \"πεντάρα\", moneta di scarso valore), sottolinea la condizione di estrema povertà del protagonista.\nΒερεσέ – termine di origine turca, molto diffuso nel greco popolare, significa \"a credito, senza pagare subito\"; qui l'oste, essendo povero lui stesso, non può permettersi di fare credito, aggravando la disperazione dell'ubriacone.",
+      "no": ""
+    },
     {
       "id": "s_1788677416804",
       "offsets": {},
@@ -224,7 +326,26 @@
     {
       "id": "s_1788627352245",
       "offsets": {},
-      "executions": [],
+      "executions": [
+        {
+          "who": "Δημήτρης Χρήστου, Ευαγγελία Μαρκοπούλου",
+          "year": "1952",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=u3jspdXIr70"
+        },
+        {
+          "who": "Μαρίκα Νίνου, Βασίλης Τσιτσάνης",
+          "year": "1952",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=t9e02pArJcE"
+        },
+        {
+          "who": "Κώστας Ματζόπουλος, Πόλυ Πάνου",
+          "year": "1994",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=X0QswlFUwCQ"
+        }
+      ],
       "date": "2026-09-05",
       "tgr": "Τα μάνταλα",
       "tit": "Ta Mandala",
@@ -4754,7 +4875,7 @@
       "bal": "Tsifteteli",
       "ll": "https://www.youtube.com/watch?v=KJtAhasqUE8",
       "li": "",
-      "ch": "",
+      "ch": "MI\nΆιντε το μωρό, μωρό μου το χαϊδεύω\nMI\nάιντε με φιλιά και χάδια το παιδεύω\nMI                        REm\nτο ζαλί- το ζαλίζω με παιχνίδια\nLAm\nμ' αγκαλιές, μ' αγκαλιές και μπιχλιμπίδια\nREm              FA   MI\nκι όλο θέλει από τα ίδια\n\nMI\nΔώσ' του, δώσ' του\nMI\nδώσ' του δώσ' του, δώσ' του δώσ' του\nMI            FA   MI\nΝάνι-νάνι του πασά μου\nLAm                MI\nΝάνι-νάνι του πασά μου\nMI\nπου του κάνω ότι θέλει\n              FA        MI\nκαι μου κάνει τα δικά μου\n\nMI\nΆιντε το μωρό, μωρό μου κάνει νάνι\nMI\nμοιάζει σαν αγάς, επάνω στο ντιβάνι\nMI                         REm\nλόγια αγά- λόγια αγάπης ψιθυρίζω\nLAm\nκαι γλυκά, και γλυκά το νανουρίζω\nREm          FA       MI\nκαι με κέφι του σφυρίζω\n\nMI\nΔώσ' του, δώσ' του\nMI\nδώσ' του δώσ' του, δώσ' του δώσ' του\nMI          FA    MI\nνάνι-νάνι του πασά μου\nLAm                   MI\nνάνι-νάνι του πασά μου\nMI\nπου του κάνω ότι θέλει\n            FA          MI\nκαι μου κάνει τα δικά μου\n\nMI\nΆιντε το μωρό, μωρό μου στ' όνειρό του\nMI\nχάδια μου ζητάει στον ύπνο τον γλυκό του\nMI                            REm\nκάνει πως, κάνει πως λαγοκοιμάται\nLAm\nμα τα πο-, μα τα πονηρά θυμάται\nREm          FA       MI\nάιντε μην μου το ξυπνάτε\n\nMI\nΔώσ' του, δώσ' του\nMI\nδώσ' του δώσ' του, δώσ' του δώσ' του\nMI         FA      MI\nνάνι-νάνι του πασά μου\nLAm                 MI\nνάνι-νάνι του πασά μου\nMI\nπου του κάνω ότι θέλει\n           FA         MI\nκαι μου κάνει τα δικά μου\n\nMI\nΆιντε το μωρό, μωρό μου το κοιτάω\nMI\nάιντε και σιγά, σιγά το γαργαλάω\nMI                       REm\nξύπνησε, ξύπνησε και το χορεύω\nLAm                 \nόπαλα, οπαλάκια τι του λέω\nREm            FA       MI\nκι όσο θέλει, αχ το χαϊδεύω\n\nMI\nΔώσ' του, δώσ' του\nMI\nδώσ' του δώσ' του, δώσ' του δώσ' του\nMI            FA    MI\nνάνι-νάνι του πασά μου\n           LAm     MI\nνάνι-νάνι του πασά μου\nMI\nπου του κάνω ότι θέλει\n         FA           MI\nκαι μου κάνει τα δικά μου",
       "tr": "Dos'tu nàni-nàni\n\nÁinde to moró, moró mu to chaidévo\náinde me filiá kie chádia to pedévo\nto zalí- to zalízo me pechnídia\nm'angaliés, m'angaliés ke bichlimbídia\nki ólo théli apó ta ídia\n\nDós' tu, dós' tu\ndós' tu dós' tu, dós' tu dós' tu\nNáni-náni tu pasá mu\nNáni-náni tu pasá mu\npu tu káno óti théli\nke mu káni ta diká mu\n\nÁinde to moró, moró mu káni náni\nmiázi san aghás, epáno sto diváni\nlóghia aghá- lóghia aghápis psithirízo\nke ghliká, ke ghliká to nanurízo\nke me kéfi tu sfirízo\n\n\nÁinde to moró, moró mu st'oniró tu\nchádia mu zitái ston ípno ton ghlikó tu\nkáni pos, káni pos laghokimáte\nma ta po-, ma ta ponirá thimáte\náinde min mu to ksipnáte\n\n\nÁinde to moró, moró mu to kitáo\náinde ke sighá, sighá to ghargaláo\nksípnise, ksípnise ke to chorévo\nópala, opalákia ti tu léo\nki óso théli, ach to chaidévo",
       "ti": "Dai ninna nanna\n\nDai, il bimbo, il mio bimbo lo accarezzo\ndai, con baci e carezze lo faccio giocare\nlo stordisco, lo stordisco con i giochi\ncon abbracci, con abbracci e ninnoli\ne vuole sempre le stesse cose\n\nDagli, dagli\ndagli dagli, dagli dagli\nNinna nanna al mio pascià\nninna nanna al mio pascià\nio gli faccio tutto quello che vuole\ne lui fa come dico io\n\nDai, il bimbo, il mio bimbo fa la nanna\nsembra un agà, disteso sul divano\nparole, parole d'amore sussurro\ne dolcemente, dolcemente lo cullo\ne per gioco gli fischietto\n\n\nDai, il bimbo, il mio bimbo nel suo sogno\nmi chiede carezze nel suo sonno dolce\nfa finta, fa finta di dormicchiare\nma le furbizie se le ricorda bene\ndai, non svegliatemelo\n\n\nDai, il bimbo, il mio bimbo lo guardo\ndai e piano piano lo solletico\nsi è svegliato, si è svegliato e lo faccio ballare\n\"opa, opalà\" gli dico\ne quanto vuole, ah, lo accarezzo\n\n\n\nNote:\n\nΆιντε (áinde) – variante colloquiale di \"άντε\", esclamazione tipo \"dai!/forza!/su!\"\nπασάς (pascià) – titolo ottomano di alto rango; qui usato scherzosamente per il bimbo trattato come un piccolo sovrano viziato\nαγάς (agà) – altro titolo ottomano simile a \"pascià\", stesso registro scherzoso\n\"και μου κάνει τα δικά μου\" – idiomatico: letteralmente \"e mi fa le cose mie\", nel senso di \"e così ottengo quello che voglio io\" (cioè che il bimbo si addormenti/si comporti bene)\nλαγοκοιμάται – letteralmente \"dorme come una lepre\", cioè fa un sonno leggero/finge di dormire tenendo un occhio aperto\nμπιχλιμπίδια – ninnoli, piccoli oggetti scintillanti/gingilli\nόπαλα/οπαλάκια – esclamazioni gioiose tipo \"opa!/opalà!\", usate spesso quando si fa saltellare o ballare un bambino",
       "no": ""
@@ -13221,6 +13342,67 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/bakalakos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788680973123",
+      "name": "Θανάσης Ευγενικός",
+      "nameit": "Thanásis Evgenikós",
+      "born": "1908, Kokkati (Samos)",
+      "died": "1983, USA",
+      "bio": "Detto \"Samiótis\"\n\nCantante, chitarrista e compositore, proveniente da una famiglia agiata di proprietari terrieri senza alcun legame con la musica. Da giovane fu agricoltore (coltivava soprattutto tabacco) e per un periodo anche barbiere. Amò il canto fin dall'infanzia, esibendosi con la sua voce eccellente in feste, fidanzamenti, matrimoni, battesimi e riunioni conviviali della sua isola.\n\nIniziò la carriera discografica a metà degli anni '30 (debutto nel 1934 con brani del compositore smirneo Stavros Pantelidis, \"Aman giatré mou\" e \"I plimmyra stin Athina\"), proseguendo nel dopoguerra fino al 1960, sia in Grecia che in America — non è noto come e in quali circostanze si trasferì ad Atene.\n\nLa sua carriera come interprete di rembetiko e canzoni tradizionali raggiunse l'apice nel dopoguerra. Secondo il ricercatore Sakis Papistas, va annoverato tra i primi cinque cantanti maschili del rembetiko genuino del dopoguerra (in ordine casuale: Prodromos Tsaousakis, Stavros Tzouanakos — di cui abbiamo già fatto la scheda! —, Odysseas Moschonas, Thanasis Evgenikos e Giannis Kyriazis), con l'unica eccezione, dopo il 1952, dell'insuperabile Stelios Kazantzidis.\n\nTra le sue incisioni principali: \"Πάρε με χαρέ, παρε με\" (con Marika Ninou, 1954), \"Πάρ' τον άντρα που γουστάρεις\" (con Tsitsanis e Mary Linda, 1954), \"Πικραμένη καρδιά\" (con Manolis Chiotis, 1950).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/evghenikos.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788681516233",
+      "name": "Δημήτρης Χρήστου",
+      "nameit": "Dimítris Chrístou",
+      "born": "sconosciuto",
+      "died": "",
+      "bio": "Soprannome \"Σκύλος\"\n\nCantante, co-interprete insieme a Evangelia Markopoulou della prima esecuzione di \"Τα μάνταλα\" (Ξυπνώ και βλέπω σίδερα) di Vasilis Tsitsanis, testo di Babis Bakalis — registrata il 30 giugno 1952 (Parlophone B.74261/Go 4690).\nNon è stato possibile reperire alcuna informazione biografica (nascita, morte, altra carriera) — resta documentato solo attraverso questa specifica incisione.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788681774273",
+      "name": "Ευαγγελία Μαρκοπούλου",
+      "nameit": "Evanghelìa Markopùlu",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Cantante, co-interprete insieme a Dimítris Chrístou della prima esecuzione di \"Τα μάνταλα\" (Ξυπνώ και βλέπω σίδερα) di Vasilis Tsitsanis, testo di Babis Bakalis — registrata il 30 giugno 1952 (Parlophone B.74261/Go 4690).",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788683960372",
+      "name": "Γιάννης Χαρούλης",
+      "nameit": "Ghiánnis Charoúlis",
+      "born": "13 gennaio 1981, Éxo Lakkónia, Lasithi (Creta)",
+      "died": "",
+      "bio": "Cantante, cantautore e musicista greco, attivo nell'éntechno, nella musica tradizionale cretese e nel rock. Iniziò a suonare il mandolino a 6 anni, ottenendo pochi anni dopo il suo primo laouto.\n\nHa collaborato, sia in ambito discografico che live, con moltissimi grandi nomi della musica greca: Thanasis Papakonstantinou, Mikis Theodorakis, Loukas Thanos, Stavros Xarhakos, Manos Eleftheriou, Nikos Mamangakis, Christos Tsiamoulis, Christos Thivaios, Manos Xydous, Alkistis Protopsalti, Melina Kana, Sokratis Malamas, Miltos Paschalidis, Nikos Portokaloglou, Dionysis Tsaknis, Natasa Bofiliou, i Chaïnides, Danai Panagiotopoulou, Michalis Nikoloudis, Minos Matsas (discendente della famiglia Matsas), Eric Burton.\n\nHa partecipato come ospite speciale in numerosi dischi altrui, tra cui \"Ο γητευτής και το δρακοδόντι\" dei Chaïnides, \"Δάκρυ στο γυαλί\" dell'Estudiantina, \"Δωδεκάορτο\" di Christos Tsiamoulis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/charulis.jpg",
       "roles": [
         "at",
         "am",
