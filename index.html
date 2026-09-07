@@ -12,6 +12,9 @@
 </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16.png">
+<link rel="apple-touch-icon" sizes="192x192" href="images/favicon-192.png">
 <title>Μουσική — Musica Greca</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -34,7 +37,11 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
 
 /* NAV */
 .topbar{background:var(--sur);border-bottom:1px solid var(--b2);padding:0 .8rem;display:flex;align-items:center;gap:.3rem;position:sticky;top:0;z-index:100;box-shadow:0 1px 4px rgba(0,0,0,.06);flex-wrap:wrap}
-.tb-brand{font-family:'Cormorant',serif;font-size:19px;font-weight:700;color:var(--acc);padding:.6rem .7rem .6rem 0;border-right:1px solid var(--bor);margin-right:.3rem;cursor:pointer;white-space:nowrap}
+.tb-brand{font-family:'Cormorant',serif;font-size:19px;font-weight:700;color:var(--acc);padding:.6rem .7rem .6rem 0;border-right:1px solid var(--bor);margin-right:.3rem;cursor:pointer;white-space:nowrap;display:inline-flex;align-items:center;gap:.4rem}
+.tb-brand::before{content:"";display:inline-block;width:26px;height:26px;background:url('images/logo.png') center/contain no-repeat;flex-shrink:0}
+@media print{
+  body::before{content:"";display:block;width:60px;height:auto;margin:0 auto 10px;background:url('images/logo.png') center/contain no-repeat;aspect-ratio:685/563;height:50px}
+}
 .bc-sep{color:var(--t3);font-size:12px;padding:0 2px}
 .bc-cur{font-size:12px;color:var(--txt);font-weight:700;padding:.6rem .4rem}
 .bc-lnk{font-size:12px;color:var(--t2);padding:.6rem .4rem;cursor:pointer}
@@ -1864,7 +1871,7 @@ function doPrint(){
   }
   var win=window.open('','_blank','width=800,height=600');
   if(!win){alert('Consenti i popup per questo file e riprova.');return;}
-  win.document.write('<!DOCTYPE html><html><head><meta charset="UTF-8"><title>'+esc(s.tgr)+'</title><style>body{font-family:Arial,sans-serif;font-size:11pt;line-height:1.7;color:#000;padding:1.5cm 2cm}.songbook{font-family:"Noto Sans Mono",monospace;font-size:12pt}.sb-lbl{font-size:8pt;font-weight:700;color:#888;text-transform:uppercase;letter-spacing:.08em;display:block;margin:.3rem 0 .1rem}.sb-pair{margin-bottom:2pt;padding-top:18pt;position:relative}.sb-chrow{position:absolute;top:0;left:0;right:0;height:16pt;overflow:visible}.sb-ch{position:absolute;top:0;font-family:"Noto Sans Mono",monospace;font-size:12pt;font-weight:700;color:#000;white-space:nowrap}.sb-txt{font-family:"Noto Sans Mono",monospace;font-size:12pt;color:#000;line-height:1;white-space:pre;display:block}.sb-txtonly{font-family:"Noto Sans Mono",monospace;font-size:12pt;color:#000;white-space:pre;display:block;margin-bottom:1pt}@page{margin:1.5cm 2cm}@media print{body{padding:0}}</style></head><body>'+contenuto+'<script>window.onload=function(){window.print();window.close();}<\/script></body></html>');
+  win.document.write('<!DOCTYPE html><html><head><meta charset="UTF-8"><title>'+esc(s.tgr)+'</title><style>body{font-family:Arial,sans-serif;font-size:11pt;line-height:1.7;color:#000;padding:1.5cm 2cm}.songbook{font-family:"Noto Sans Mono",monospace;font-size:12pt}.sb-lbl{font-size:8pt;font-weight:700;color:#888;text-transform:uppercase;letter-spacing:.08em;display:block;margin:.3rem 0 .1rem}.sb-pair{margin-bottom:2pt;padding-top:18pt;position:relative}.sb-chrow{position:absolute;top:0;left:0;right:0;height:16pt;overflow:visible}.sb-ch{position:absolute;top:0;font-family:"Noto Sans Mono",monospace;font-size:12pt;font-weight:700;color:#000;white-space:nowrap}.sb-txt{font-family:"Noto Sans Mono",monospace;font-size:12pt;color:#000;line-height:1;white-space:pre;display:block}.sb-txtonly{font-family:"Noto Sans Mono",monospace;font-size:12pt;color:#000;white-space:pre;display:block;margin-bottom:1pt}@page{margin:1.5cm 2cm}@media print{body{padding:0}}.print-logo{display:block;height:40px;margin:0 auto 12pt}</style></head><body><img class="print-logo" src="https://musicagreca.com/images/logo.png" alt="">'+contenuto+'<script>window.onload=function(){window.print();window.close();}<\/script></body></html>');
   win.document.close();
 }
 
