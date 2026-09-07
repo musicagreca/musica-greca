@@ -1,8 +1,234 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-06T13:28:52.313Z",
+  "exportedAt": "2026-09-07T05:27:53.535Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788758859438",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στελλάκης Περπινιάδης, Στράτος Παγιουμτζής",
+          "year": "1937",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=CTpv2Y5gWF4"
+        },
+        {
+          "who": "Σωτηρία Μπέλλου",
+          "year": "1971",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=0mGQiUze9SU"
+        }
+      ],
+      "date": "2026-09-07",
+      "tgr": "Χατζηκυριάκειο",
+      "tit": "Chatzikiriàkio",
+      "alias": "Αποβραδίς ξεκίνησα",
+      "at": "Δημήτρης Γκόγκος",
+      "am": "Δημήτρης Γκόγκος",
+      "yr": "1937",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "ll": "",
+      "li": "",
+      "ch": "REm    LA     REm\nΑποβραδίς ξεκίνησα\n        DO         FA\nμ' έναν παλιό μου φίλο\nFA               SOLm\nγια το Χατζηκυριάκειο\n        LA         REm\nκαι για τον άγιο Νείλο\nFA               SOLm\nγια το Χατζηκυριάκειο\n        LA         REm\nκαι για τον άγιο Νείλο\n\n\nREm         LA     REm\nΠου 'χει ρετσίνα δροσερή\n        DO         FA\nκαι όμορφα κορίτσια\nFA               SOLm\nμόνο που σε παιδεύουνε\n        LA         REm\nμε νάζια και καπρίτσια\nFA               SOLm\nμόνο που σε παιδεύουνε\n        LA         REm\nμε νάζια και καπρίτσια\n\nREm      LA     REm\nΈχει και μια μελαχρινή\n        DO         FA\nπου είναι όλο νάζι\nFA               SOLm\nπρώτα με κέρναγε φιλιά\n        LA         REm\nκαι τώρα δε τη νοιάζει\nFA               SOLm\nπρώτα με κέρναγε φιλιά\n        LA         REm\nκαι τώρα δε τη νοιάζει\n\nREm    LA       REm\nΚαι κάθε βράδυ καρτερώ\n        DO         FA\nστο δρόμο να περάσει\nFA                       SOLm\nκι αν δεν την κλέψω μια βραδιά\n        LA         REm\nο κόσμος θα χαλάσει\nFA                       SOLm\nκι αν δεν την κλέψω μια βραδιά\n        LA         REm\nο κόσμος θα χαλάσει",
+      "tr": "Chatzikiriàkio\n\nApovradìs ksekìnisa\nm'énan paliò mu fìlo\nghia to Chatzikiriàkio\nke ghia ton àghio Nìlo\n\nPu 'chi retsìna droserì\nke òmorfa koritsia\nmòno pu se pedèvune\nme nàzia ke kaprìtsia\n\nÉchi ke mia melachrinì\npu ìne òlo nàzi\npròta me kèrnaghe filià\nke tòra de ti niàzi\n\nKe kàthe vràdi kartetrò\nsto dròmo na peràsi\nki an den tin klèpso mia vradià\no kòsmos tha chalàsi",
+      "ti": "Chatzikyriakio\n\nIeri sera sono partito\ncon un mio vecchio amico\nper il Chatzikyriakio¹\ne per l'Agios Nilos²\n\nDove c'è retsina³ fresca\ne belle ragazze,\nsolo che ti fanno penare\ncon smorfiette e capricci\n\nC'è anche una bruna\nche è tutta civetteria,\nprima mi offriva baci\ne ora non le importa più\n\nE ogni sera aspetto\nche passi per strada,\ne se non la rapisco una sera\nil mondo andrà in rovina⁴\n\nNote\n\nΧατζηκυριάκειο – storico istituto/orfanotrofio del Pireo (Χατζηκυριάκειο Ίδρυμα), qui probabilmente citato come punto di riferimento geografico di una zona/quartiere del Pireo frequentata dal protagonista.\nΆγιος Νείλος – chiesa/zona dedicata a Sant'Agios Nilos, altro riferimento topografico locale del Pireo, luogo di ritrovo serale menzionato nella canzone.\nΡετσίνα – vino resinato tradizionale greco, tipico delle taverne, spesso associato a momenti di festa popolare.\nΟ κόσμος θα χαλάσει (\"il mondo andrà in rovina\") – espressione iperbolica scherzosa tipica del linguaggio popolare greco, per sottolineare con enfasi comica l'importanza/urgenza del proposito amoroso del protagonista.",
+      "no": "Probabilmente primo bouzouki Vassilis Tsitsanis, secondo bouzouki Manolis Chiotis\n\n.\n[[2026-08-23|leggi approfondimento su Chatzikiriakio]]"
+    },
+    {
+      "id": "s_1788755414292",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-07",
+      "tgr": "Φυσάει ο μπάτης",
+      "tit": "Fisái o bátis",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1947",
+      "ar": "Ιωάννα Γεωργακοπούλου, Στελλάκης Περπινιάδης",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "ll": "https://www.youtube.com/watch?v=_mIvtAmZlpw",
+      "li": "",
+      "ch": "REm                   LA           REm \nΕφουντάρισε η βαρκούλα στην ακρογιαλιά\nREm                   LA           REm \nτώρα γλέντι, αγκαλίτσες, χάδια και φιλιά\n\nREm             SOLm          REm \nΦυσάει ο μπάτης, φυσάει τ' αγέρι\n                LA         REm\nτρελό μικρό μου, δικό μου ταίρι\n       SOLm                REm \nΤρελό μικρό μου, δικό μου ταίρι\n             LA           REm\nφυσάει ο μπάτης, φυσάει τ' αγέρι\n\nREm                   LA           REm \nΜε φιλάκια, τούτα κείνα και καλή καρδιά\nREm                   LA           REm \nαγαπούλες και ρομάντζα φύκια κι αμμουδιά\nREm             SOLm          REm \nΦυσάει ο μπάτης, χτυπάει το κύμα\n                LA         REm\nτρελό μικρό μου με κάνεις θύμα\n       SOLm                REm \nΤρελό μικρό μου με κάνεις θύμα\n             LA           REm\nφυσάει ο μπάτης, χτυπάει το κύμα\n\nREm                   LA           REm \nΤώρα θάλασσα και πεύκο τρέλες και φιλιά\nREm                   LA           REm \nκαι του έρωτα φωλίτσα στην ακρογιαλιά\nREm             SOLm          REm \nΦυσάει ο μπάτης προς τ' ακρογιάλι\n         LA              REm \nτρελό μικρό μου με πιάνει ζάλη\n             SOLm          REm\nΤρελό μικρό μου με πιάνει ζάλη\n             LA           REm\nφυσάει ο μπάτης προς τ' ακρογιάλι\n\nREm             SOLm          REm \nΦυσάει ο μπάτης, χτυπάει το κύμα\n                LA         REm\nτρελό μικρό μου με κάνεις θύμα\n\n       SOLm                REm \nΤρελό μικρό μου με κάνεις θύμα\n             LA           REm\nφυσάει ο μπάτης, χτυπάει το κύμα",
+      "tr": "Fisái o bátis\n\nEfundàrise i varkùla stin akroghialià\ntòra glèndi, anghalìtses, chàdia ke filià\n\nFisài o bàtis, fisài t'aghèri\ntrelò mikrò mu, dikò mu tèri\nTrelò mikrò mu, dikò mu tèri\nfisài o bàtis, fisài t'aghèri\n\nMe filàkia, tùta kìna ke kalì kardià\naghapùles ke romàndza fìkia ki ammudià\nFisài o bàtis, chtipài to kìma\ntrelò mikrò mu me kànis thìma\nTrelò mikrò mu me kànis thìma\nfisài o bàtis, chtipài to kìma\n\nTòra thàlassa ke pèfko trèles ke filià\nke tu èrota folìtsa stin akroghialià\nFisài o bàtis pros t'akroghiàli\ntrelò mikrò mu me piàni zàli\nTrelò mikrò mu me piàni zàli\nfisài o bàtis pros t'akroghiàli\n\nFisài o bàtis, chtipài to kìma\ntrelò mikrò mu me kànis thìma\nTrelò mikrò mu me kànis thìma\nfisài o bàtis, chtipài to kìma",
+      "ti": "Soffia il vento di mare\n\nHa gettato l'ancora¹ la barchetta sulla riva,\nora festa, piccoli abbracci, carezze e baci\n\nSoffia la brezza di mare², soffia il vento,\nmia piccola pazza, mia compagna³,\nmia piccola pazza, mia compagna,\nsoffia la brezza di mare, soffia il vento\n\nCon bacini, questo e quello, e buon cuore,\namorini e romanticherie, alghe e spiaggia\nSoffia la brezza di mare, batte l'onda,\nmia piccola pazza mi fai vittima⁴,\nmia piccola pazza mi fai vittima,\nsoffia la brezza di mare, batte l'onda\n\nOra mare e pino, follie e baci,\ne un piccolo nido d'amore sulla riva\nSoffia la brezza verso la spiaggia,\nmia piccola pazza mi coglie il capogiro⁵,\nmia piccola pazza mi coglie il capogiro,\nsoffia la brezza verso la spiaggia\n\nSoffia la brezza di mare, batte l'onda,\nmia piccola pazza mi fai vittima,\nmia piccola pazza mi fai vittima,\nsoffia la brezza di mare, batte l'onda\n\nNote\n\nΕφουντάρισε – dal verbo marinaresco \"φουντάρω\" (gettare l'ancora, dall'italiano \"fondare/affondare\"), termine tecnico nautico entrato nel linguaggio popolare greco.\nΜπάτης – termine marinaresco greco per la brezza leggera che soffia dal mare verso terra, tipica delle calde giornate estive; parola molto usata nelle canzoni estive greche.\nΤαίρι – \"compagno/a, metà, anima gemella\"; termine affettuoso per indicare la persona amata come parte complementare di una coppia.\nΜε κάνεις θύμα (\"mi fai vittima\") – espressione figurata scherzosa, tipica del linguaggio delle canzoni leggere estive, per dire \"mi fai perdere la testa, mi conquisti completamente\".\nΜε πιάνει ζάλη (\"mi coglie il capogiro\") – espressione idiomatica per descrivere lo stordimento/l'ebbrezza sentimentale provocata dall'innamoramento, immagine leggera coerente col tono spensierato e romantico della canzone.",
+      "no": "Legalmente fu registrata a nome della cantante Ioanna Georgakopoulou (Ιωάννα Γεωργακοπούλου), ma la quasi totalità degli storici e dei ricercatori musicali la attribuisce al genio di Vassilis Tsitsanis (che nella registrazione originale suona magistralmente il bouzouki)."
+    },
+    {
+      "id": "s_1788754067816",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Σταύρος Τζουανάκος, Βασίλης Τσιτσάνης",
+          "year": "1950",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=fQT2l3fJ21k"
+        },
+        {
+          "who": "Στράτος Διονυσίου, Βούλα Γκίκα",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=68WJx2SzPVA"
+        },
+        {
+          "who": "Βασίλης Τσιτσάνης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=gEsA9Mkrw0g"
+        }
+      ],
+      "date": "2026-09-07",
+      "tgr": "Τρελή που θέλεις να με στεφανώσεις",
+      "tit": "Trelì pu thèlis na me stefanòsis",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1950",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "ll": "",
+      "li": "",
+      "ch": "SOLm               DOm         SOLm\nΤρελή, που θέλεις να με στεφανώσεις\n         RE                   SOLm\nκαι νύφη στο πλευρό μου να σταθείς\n     SOL                       DOm\nνα ξέρεις πως πικρά θα μετανιώσεις\nRE      SOLm RE SOLm  RE    SOLm-RE SOLm\nκαι γρήγορα στους δρόμους θα βρεθείς\n\n\n\nSOLm               DOm         SOLm\nΔεν κάνω εγώ γάμο και για σπίτι\n         RE                   SOLm\nκουράζομαι στα ίδια τα φιλιά\n     SOL                       DOm\nμ' αρέσει να γυρνώ σαν τον σπουργίτη\nRE      SOLm RE SOLm  RE    SOLm-RE SOLm\nκι όπου σταθώ να στήνω την φωλιά\n\n\n\nSOLm               DOm         SOLm\nΠαντρέψου κάναν άλλο νοικοκύρη\n         RE                   SOLm\nκαι σβήσε της καρδιάς σου τον καημό\n     SOL                       DOm\nμ' εμένα τον ρεμπέτη και μπατίρη\nRE      SOLm RE SOLm  RE    SOLm-RE SOLm\nστα σίγουρα θα πέσεις στον γκρεμό",
+      "tr": "Trelì pu thèlis na me stefanòsis\n\nTrelì, pu thèlis na me stefanòsis\nke nìfi sto plevrò mu na stathìs\nna kséris pos pikrà tha metaniòsis\nke ghrìghora stus dròmus tha vrethìs\n\n\nDen kàno eghò ghàmo ke ghia spìti\nkuràzome sta ìdia ta filià\nm'arèsi na ghirnò san ton spurghìti\nki òpu stathò na stìno tin folià\n\n\nPandrèpsu kànan àllo nikokìri\nke svìse tis kardiàs su ton kaimò\nm'eména ton rebèti ke batìri\nsta sìghura tha pèsis ston gremò",
+      "ti": "Pazza, che vuoi sposarmi\n\nPazza, che vuoi sposarmi¹\ne stare accanto a me come sposa,\nsappi che amaramente te ne pentirai\ne presto ti ritroverai per strada\n\nIo non sono fatto per matrimonio o per casa\nmi stanco degli stessi identici baci,\nmi piace girovagare come il passero²,\ne dove capito, lì costruisco il mio nido\n\n\nSposa qualche altro padrone di casa³,\ne spegni la pena del tuo cuore,\ncon me, il rebetis⁴ e squattrinato⁵,\ndi sicuro cadrai nel precipizio\n\nIntroduzione\n\nNote\n\nΣτεφανώσεις – da \"στεφανώνω\" (letteralmente \"incoronare\"), verbo che nella tradizione ortodossa greca indica specificamente il rito matrimoniale (con l'incoronazione degli sposi), qui usato colloquialmente per \"sposarmi\".\nΣπουργίτης – \"passero\"; metafora dell'uomo libero e senza legami, che si sposta di continuo senza fissa dimora, per natura incline al vagabondaggio amoroso.\nΝοικοκύρης – \"padrone di casa, uomo di famiglia, capofamiglia\"; qui contrapposto all'identità del protagonista, che si definisce l'opposto di un uomo stabile e affidabile.\nΡεμπέτης – termine che indica l'uomo del mondo rebetiko, dallo stile di vita libero, spesso ai margini della società, insofferente alle convenzioni borghesi.\nΜπατίρης – dal turco \"batır\" (fallito/al verde), termine colloquiale per \"squattrinato, senza soldi\", a rafforzare l'immagine di un uomo che non può offrire sicurezza economica né stabilità.",
+      "no": ""
+    },
+    {
+      "id": "s_1788752618933",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-07",
+      "tgr": "Τραγούδα καμηλιέρη",
+      "tit": "Tragùda kamilièri",
+      "alias": "",
+      "at": "Απόστολος Καλδάρας",
+      "am": "Απόστολος Καλδάρας",
+      "yr": "1961",
+      "ar": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "ll": "https://www.youtube.com/watch?v=TXMeCkvf1y8",
+      "li": "",
+      "ch": "LAm               LA#                    LAm\nΜες στην έρημο τη μαύρη πριν ακόμα ο ήλιος βγει\nREm                    RE#               LAm\nξεκινάει ένας καμηλιέρης μι' αφρικάνικη αυγή\n               LA#                          SOLm\nΚαι καθώς το βήμα σέρνει με καημό μες στην καρδιά\nFA                   RE#                   LAm\nτης ερήμου η αύρα φέρνει το τραγούδι από μακριά\n\nLAm\nΤραγούδα, τραγούδα καμηλιέρη\nREm         DO               MIm          LAm\nετούτα εδώ τα μέρη σε θέλουν άνδρα κι όχι παιδί\nLAm\nΜην κλαις γι' αγάπη που σου πήραν\nREm         DO               MIm          LAm\nεσένα είναι η μοίρα να 'χεις στην άμμο αγάπη πιστή\n\nSOL\nΜπόρες πολλές θα περάσεις\nFA                          LAm\nσε χώρα θα φτάσεις τρελή, ξωτική\nSOL\nΕκεί θα βρεις να ξεχάσεις\nFA                            MI\nεκεί θ' αγκαλιάσεις φιδίσιο κορμί\n\nLAm\nΤραγούδα, τραγούδα καμηλιέρη\nREm         DO               MIm          LAm\nετούτα εδώ τα μέρη σε θέλουν άνδρα κι όχι παιδί",
+      "tr": "Tragùda kamilièri\n\nMes stin èrimo ti màvri prin akòma o ìlios vghi\nksekinài ènas kamiliéris mi' afrikàniki avghì\nKe kathòs to vìma sèrni me kaimò mes stin kardià\ntis erìmu i àvra fèrni to traghùdi apò makrià\n\nTraghùda, traghùda kamiliéri\netùta edò ta mèri se thèlun àndra ki òchi pedì\n\nMin kles ghi' aghàpi pu su pìran\nesèna ìne i mìra na 'chis stin àmmo aghàpi pistì\n\nBòres pollès tha peràsis\nse chòra tha ftàsis trelì, ksotikì\nEkì tha vris na ksechàsis\nekì th'anghaliàsis fidìsio kormì\n\nTraghùda, traghùda kamiliéri\netùta edò ta mèri se thèlun àndra ki òchi pedì",
+      "ti": "Canta cammeliere\n\nNel deserto nero¹, prima ancora che sorga il sole,\nparte un cammelliere in un'alba africana\nE mentre trascina il passo con pena nel cuore,\nla brezza del deserto porta il canto da lontano\n\nCanta, canta cammelliere,\nquesti luoghi qui ti vogliono uomo e non bambino\n\nNon piangere per un amore che ti hanno portato via²,\nil tuo destino è avere sulla sabbia un amore fedele\n\nMolte tempeste³ attraverserai,\narriverai in una terra folle, esotica⁴\nLì troverai da dimenticare,\nlì abbraccerai un corpo sinuoso come un serpente⁵\n\nCanta, canta cammelliere,\nquesti luoghi qui ti vogliono uomo e non bambino\n\nNote\n\nΈρημος η μαύρη (\"il deserto nero\") – immagine poetica evocativa, forse riferita al buio della notte/dell'alba nel deserto o a un deserto immaginario/esotico di ambientazione fiabesca-orientaleggiante, tipica di certe canzoni greche a tema esotico degli anni '60-'70.\nΑγάπη που σου πήραν (\"amore che ti hanno portato via\") – allude a una perdita amorosa subita dal protagonista, motivo del suo viaggio/fuga nel deserto.\nΜπόρες – letteralmente \"temporali, tempeste\"; qui usato in senso figurato per le difficoltà e prove che il cammelliere dovrà affrontare nel suo cammino/vita.\nΞωτική – aggettivo che significa \"fatato, magico, ultraterreno\" (da \"ξωτικό\", creatura fatata/spirito); rafforza il tono fiabesco-esotico dell'ambientazione immaginaria del brano.\nΦιδίσιο κορμί (\"corpo sinuoso come un serpente\") – immagine sensuale tipica della poesia orientaleggiante, per descrivere una figura femminile flessuosa e ammaliante che il cammelliere incontrerà nel suo viaggio.",
+      "no": ""
+    },
+    {
+      "id": "s_1788751862800",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ρόζα Εσκενάζυ",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=eGyZjfPUDNY"
+        },
+        {
+          "who": "Μάρκος Βαμβακάρης",
+          "year": "1968",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=fEUD513zrfs"
+        },
+        {
+          "who": "Κώστας Ρούκουνας",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=SlPchVUuwJw"
+        },
+        {
+          "who": "Στελλάκης Περπινιάδης",
+          "year": "1934",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=FRgXfymPBsE"
+        },
+        {
+          "who": "Bayan Fahire",
+          "year": "1936",
+          "note": "Çek Paşa Limanına",
+          "link": "https://www.youtube.com/watch?v=3y6SXKNAbh0"
+        }
+      ],
+      "date": "2026-09-07",
+      "tgr": "Τράβα βρε μάγκα και αλάνη",
+      "tit": "Tràva vre mànga kie alàni",
+      "alias": "Τράβα ρε αλάνη",
+      "at": "Κώστας Σκαρβέλης",
+      "am": "Κώστας Σκαρβέλης",
+      "yr": "1934",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "ll": "",
+      "li": "",
+      "ch": "REm\nΜη περάσεις απ' τη γειτονιά μου\nREm\nμάγκα μη σε ξαναδώ μπροστά μου\nFA                       FAm           LA     REm\nέμαθα μες το Πασαλιμάνι αγαπάς μια μόρτισσα βρε αλάνι\nFA                       FAm           LA     REm\nέμαθα μες το Πασαλιμάνι αγαπάς μια μόρτισσα βρε αλάνι\n\nREm                                    LA    REm\nΤράβα βρε μάγκα και αλάνι τράβα για το Πασαλιμάνι\nREm                                    LA    REm\nτράβα βρε μάγκα και αλάνι τράβα για το Πασαλιμάνι\n\nREm\nΑπ' τη μόρτισσα γλυκά φιλάκια\nREm\nκάθε βράδυ γλέντι και χαδάκια\nFA                                    FAm           LA     REm\nκαι έτσι την περνάς μαζί της φίνα και ξεχνάς ν' ανέβεις στην Αθήνα\nFA                                    FAm           LA     REm\nκαι έτσι την περνάς μαζί της φίνα και ξεχνάς ν' ανέβεις στην Αθήνα\n\nREm                                    LA    REm\nΤράβα βρε μάγκα και αλάνι τράβα για το Πασαλιμάνι\nREm                                    LA    REm\nτράβα βρε μάγκα και αλάνι τράβα για το Πασαλιμάνι\n\nREm\nΚι έτσι πια βρε μάγκα για να ξέρεις\nREm\nμ' έχασες για πάντα δεν θα μ' βρεις\nFA                             FAm        LA     REm\nκάθε βράδυ μες το Καλαμάκι θα γλεντώ με ένα χασαπάκι\nFA                             FAm        LA     REm\nκάθε βράδυ μες το Καλαμάκι θα γλεντώ με ένα χασαπάκι\n\nREm                                    LA    REm\nΤράβα βρε μάγκα και αλάνι τράβα για το Πασαλιμάνι\nREm                                    LA    REm\nτράβα βρε μάγκα και αλάνι τράβα για το Πασαλιμάνι",
+      "tr": "Tràva vre mànga kie alàni\n\nMi peràsis ap' ti ghitonià mu\nmànga mi se ksanadò brostà mu\nématha mes to Pasalimàni aghapàs mia mòrtissa vre alàni\nématha mes to Pasalimàni aghapàs mia mòrtissa vre alàni\n\nTràva vre mànga ke alàni tràva ghia to Pasalimàni\ntràva vre mànga ke alàni tràva ghia to Pasalimàni\n\nAp' ti mòrtissa glikà filàkia\nkàthe vràdi glèndi ke chadàkia\nke étsi tin pernàs mazì tis fìna ke ksechnàs n'anèvis stin Athìna\nke étsi tin pernàs mazì tis fìna ke ksechnàs n'anèvis stin Athìna\n\nTràva vre mànga ke alàni tràva ghia to Pasalimàni\ntràva vre mànga ke alàni tràva ghia to Pasalimàni\n\nKi étsi pia vre mànga ghia na kséris\nm'échases ghia pànda de tha m'vris\nkàthe vràdi mes to Kalamàki tha glendò me éna chasapàki\nkàthe vràdi mes to Kalamàki tha glendò me éna chasapàki\n\nTràva vre mànga ke alàni tràva ghia to Pasalimàni\ntràva vre mànga ke alàni tràva ghia to Pasalimàni",
+      "ti": "Vattene, ehi màngas e sfaccendato\n\nNon passare più dal mio quartiere,\nmàngas¹, che non ti riveda mai più davanti a me,\nho saputo che a Pasalimani² ami una mortissa³, ehi, sfaccendato⁴,\nho saputo che a Pasalimani ami una mortissa, ehi, sfaccendato\n\nVattene, ehi màngas e sfaccendato, vattene a Pasalimani,\nvattene, ehi màngas e sfaccendato, vattene a Pasalimani\n\nDalla mortissa dolci bacini,\nogni sera festa e carezzine,\ne così la passi bene con lei e ti dimentichi di salire ad Atene,\ne così la passi bene con lei e ti dimentichi di salire ad Atene\n\nVattene, ehi màngas e sfaccendato, vattene a Pasalimani,\nvattene, ehi màngas e sfaccendato, vattene a Pasalimani\n\nE così ormai, ehi màngas, sappilo,\nmi hai perso per sempre, non mi troverai più,\nogni sera al Kalamaki⁵ farò festa con un macellaio⁶,\nogni sera al Kalamaki farò festa con un macellaio\n\nVattene, ehi màngas e sfaccendato, vattene a Pasalimani,\nvattene, ehi màngas e sfaccendato, vattene a Pasalimani\n\nNote\n\nΜάγκας – figura tipica della cultura urbana greca (soprattutto del Pireo), l'uomo \"furbo\", disinvolto, dallo stile di vita libero e spesso ai margini della legalità, personaggio centrale dell'immaginario rebetiko.\nΠασαλιμάνι (Pasalimani) – storico quartiere/porto del Pireo (oggi noto come Mikrolimano), zona portuale popolare frequentata da pescatori e gente di mare, spesso citata nei canti rebetiko.\nΜόρτισσα – femminile di \"μόρτης\", termine gergale per una donna dell'ambiente popolare/malavitoso, scaltra e disinvolta, spesso con connotazione negativa di \"poco di buono\" o rivale in amore.\nΑλάνι – termine gergale per \"vagabondo, sfaccendato, uomo di strada senza arte né parte\", spesso usato in coppia con \"μάγκας\" per rafforzare l'insulto/rimprovero.\nΚαλαμάκι – zona costiera vicino ad Atene (nell'area del Falliro/Saronico), luogo di svago e locali notturni frequentato per gite fuori porta.\nΧασαπάκι – diminutivo di \"χασάπης\" (macellaio), qui usato per indicare ironicamente il nuovo pretendente della donna che parla, un uomo di mestiere umile ma robusto, contrapposto al \"màgkas\" che l'ha lasciata per un'altra.",
+      "no": "Come accadeva spesso per le melodie di Kostas Skarvelis (cresciuto a Istanbul e Smirne), il brano vantava una forte impronta cosmopolita. La sua orecchiabilità era tale che intorno al 1936 la cantante Fahire Hanım ne registrò una famosissima versione in lingua turca a Costantinopoli, intitolata \"Çek Paşa Limanına\""
+    },
+    {
+      "id": "s_1788750055095",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στράτος Διονυσίου",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=WuN-9T4SnaU"
+        },
+        {
+          "who": "Θανάσης Ευγενικός",
+          "year": "1950",
+          "note": "Μανώλης Χιώτης al boyzouki",
+          "link": "https://www.youtube.com/watch?v=ditouM457hE"
+        },
+        {
+          "who": "Σταύρος Τζουανάκος",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=UgfAR2VhQmU"
+        },
+        {
+          "who": "Λουκάς Νταράλας",
+          "year": "1974",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=uNPzunakAXk"
+        }
+      ],
+      "date": "2026-09-07",
+      "tgr": "Το φτωχομπούζουκο",
+      "tit": "To ftochobuzuko",
+      "alias": "",
+      "at": "Μανώλης Χιώτης",
+      "am": "Μανώλης Χιώτης",
+      "yr": "1950",
+      "ar": "",
+      "lb": "",
+      "gn": "archontorembétiko",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "ll": "",
+      "li": "",
+      "ch": "REm         SOLm REm        LA              REm\nΜε το φτωχομπούζουκό μου τραγουδάω τον καημό μου\nSOLm             DO        REm\nΝα ξεχάσω μια γυναίκα δεν μπορώ\nREm         SOLm REm        LA              REm\nΑπό τότε που 'χει φύγει, το μεράκι μου με πνίγει\n       SOLm DO               FA    REm\nκαι το δάκρυ μου κυλάει σαν νερό\n\nLAm   REm        LA#            SOLm\nΜε άφησε μονάχο μου σ' αυτή τη ζήση\nREm LA# SOLm LAm\nΔε θα ξαναγυρίσει\n\nREm         SOLm REm        LA           REm\nΤο φτωχό μου μπουζουκάκι το χτυπάω με μεράκι\nSOLm             DO        REm\nκαι του λέω, πώς κατάντησα, για δες\nREm         SOLm REm        LA              REm\nΜε κοιτάζει λυπημένο, μα τι φταίει το καημένο\n      SOLm DO           FA    REm\nπου του σπάω κάθε τόσο τις χορδές\n\nREm LA# SOLm LAm\nΜε άφησε μονάχο μου σ' αυτή τη ζήση\nREm LA# SOLm LAm\nΔε θα ξαναγυρίσει\n\nREm         SOLm REm        LA           REm\nΤο μπουζούκι μου κρατάω και με πόνο το ρωτάω\nSOLm             DO        REm\nΜπουζουκάκι, τι να κάνω, πες κι εσύ\nREm         SOLm REm        LA              REm\nΚαι μου λέει πως θα ζήσεις, θα 'βρεις άλλη ν' αγαπήσεις\n      SOLm DO           FA    REm\nκαι τον πόνο σου να ρίξεις στο κρασί\n\nREm LA# SOLm LAm\nΜε άφησε μονάχο μου σ' αυτή τη ζήση\nREm LA# SOLm LAm\nΔε θα ξαναγυρίσει",
+      "tr": "To ftochobuzuko\n\nMe to ftochobuzukò mu traghudào ton kaimò mu\nNa ksechàso mia ghinèka den borò\nApò tòte pu 'chi fìghi, to merà̯ki mu me pnìghi\nke to dàkri mu kilài san nerò\n\nMe àfise monàcho mu s'aftì ti zìsi\nDe tha ksanaghirìsi\n\nTo ftochò mu buzukàki to chtipào me merà̯ki\nke tu lèo, pos katàndisa, ghia des\nMe kitàzi lipiméno, ma ti ftèi to kaïméno\npu tu spào kàthe tòso tis chordès\n\nMe àfise monàcho mu s'aftì ti zìsi\nDe tha ksanaghirìsi\n\nTo buzùki mu kratào ke me pòno to rotào\nBuzukàki, ti na kàno, pes ki esì\nKe mu lèi pos tha zìsis, tha 'vris àlli n'aghapìsis\nke ton pòno su na rìksis sto krasì\n\nMe àfise monàcho mu s'aftì ti zìsi\nDe tha ksanaghirìsi",
+      "ti": "Con il mio povero bouzoukI\n\nCon il mio povero bouzouki¹ canto la mia pena,\nnon riesco a dimenticare una donna\nDa quando se n'è andata, la nostalgia² mi soffoca\ne la mia lacrima scorre come acqua\n\nMi ha lasciato solo in questa vita,\nnon tornerà più\n\nIl mio povero bouzouchino lo suono con passione³\ne gli dico: guarda come sono ridotto,\nmi guarda triste, ma che colpa ne ha, poverino,\nse gli spezzo ogni tanto le corde\n\nMi ha lasciato solo in questa vita,\nnon tornerà più\n\nTengo in mano il mio bouzouki e con dolore gli chiedo,\nbouzouchino, cosa devo fare, dimmelo anche tu,\ne mi dice che vivrai, troverai un'altra da amare,\ne getterai il tuo dolore nel vino\n\nMi ha lasciato solo in questa vita,\nnon tornerà più\n\nNote\n\nΦτωχομπούζουκο – \"povero bouzouki\", diminutivo/vezzeggiativo affettuoso composto con \"φτωχός\" (povero), che umanizza lo strumento come un fedele compagno umile e modesto del protagonista nel suo dolore.\nΜεράκι – termine chiave della sensibilità popolare greca, indica un misto di desiderio, passione e nostalgia intensa, difficile da rendere con una sola parola italiana.\nΧτυπάω με μεράκι (\"lo suono con passione\") – espressione che sottolinea l'intensità emotiva con cui il protagonista suona lo strumento, quasi sfogando su di esso il proprio dolore, fino a \"spezzargli le corde\" per l'eccesso di sentimento.",
+      "no": "Sebbene Chiotis sia storicamente famoso per aver sdoganato e reso celebre il bouzouki a 4 corde (tetrachordo) accordato come una chitarra per eseguire assoli velocissimi, \"Το φτωχομπούζουκο\" appartiene alla fase in cui Chiotis componeva e suonava ancora perle di stampo tradizionale. Gli esperti e gli studenti di bouzouki considerano l'esecuzione di questo brano come una vera e propria \"enciclopedia\" del tocco tradizionale a 3 corde (trichordo). È considerato il perfetto esempio di stile \"archontorebetiko\" (rebetiko signorile): un'armonia pulita, aristocratica, ma dal cuore profondamente straccione e sincero."
+    },
     {
       "id": "s_1788701281489",
       "offsets": {},
@@ -8732,6 +8958,14 @@
   ],
   "args": [
     {
+      "id": "a_1788758743575",
+      "title": "Il Chatzikyriakeio: l'orfanotrofio che ha dato il nome a un quartiere del Pireo",
+      "tag": "storie di luoghi",
+      "date": "2026-08-23",
+      "body": "Un uomo partito da nulla\nIoannis Chatzikyriakos nacque a Smirne nel 1818, da genitori poveri. A soli sedici anni emigrò a Syros per costruirsi una vita, iniziando a lavorare nella produzione e vendita di tabacco. Con l'ascesa al trono di Otto si trasferì ad Atene, dove aprì un negozio di tabacco in via Eolou.\n{{img:https://musicagreca.com/images/chatzikiriakio3.jpg|centro}}\n\nFu proprio lui a convincere sua zia, Eleni Zanni, a fondare il primo orfanotrofio del Pireo, quello maschile (lo \"Zannio\") — e fu forse quell'esperienza a fargli maturare l'idea di crearne uno femminile con le proprie mani: lo stesso Chatzikyriakos lo racconta nel proprio testamento. Il sogno non si sarebbe realizzato senza l'allora sindaco del Pireo, Tryfonas Moutzopoulos, che gli concesse il terreno necessario — un gesto per cui gli statuti dell'istituto prevedono un'eccezione esplicita a suo favore, escludendo di norma sindaci e parlamentari dal consiglio d'amministrazione.\nUn testamento pieno di dettagli curiosi\nGli statuti, firmati da re Giorgio I il 26 dicembre 1896, cominciano descrivendo il luogo: \"La costa Alcyone del Pireo ha stabilito la sede...\". Ma è nei dettagli che il documento rivela la personalità di Chatzikyriakos:\n•\tImpose che fossero sempre accolte 4 ragazze orfane di Smirne (la sua città natale) e 4 di Tripoli (città natale della moglie Marigo)\n•\tStabilì che, per dieci anni dall'apertura, l'istituto non accogliesse ragazze orfane originarie di Kalamata — una clausola sorprendente, motivata dal fatto che un uomo di Kalamata (forse di Efessos) lo aveva a lungo tormentato con una causa legale per un muro della sua casa ad Atene, causandogli anni di angoscia e amarezza\n•\tRiservò una sala dell'istituto (art. 2) all'eventuale soggiorno della famiglia reale, in segno di gratitudine per aver accolto di buon grado la vicinanza dell'orfanotrofio al padiglione reale\nLa posa della prima pietra\n{{img:https://musicagreca.com/images/chatzikiriakio1.jpg|centro}}\n\nIl 30 aprile 1889 la regina Olga pose la prima pietra dell'edificio, e insieme ad essa — nelle fondamenta — fu sepolta un'anfora contenente una croce d'oro e un esemplare di tutte le monete allora in circolazione nel Regno di Grecia.\nNel 1896, oltre al capitale già speso per la costruzione, Chatzikyriakos lasciò in eredità circa 1,5 milioni di dracme d'oro, insieme a obbligazioni e altri beni immobili, a garanzia del futuro dell'istituzione. Morì nel 1898, subito dopo il completamento della costruzione. Oggi la sua tomba, insieme a quella della moglie, si trova proprio accanto all'edificio neoclassico — sono rimasti, letteralmente, per sempre accanto alla loro creazione.\nNel terreno dell'istituto sorge anche una piccola chiesa dedicata a San Giovanni Battista, la cui prima pietra fu posta il 15 aprile 1901.\nLa prima bambina, e l'apertura\nLa prima ragazza mai accolta nell'istituto fu Virginia Vourvoumaki, di Creta, appena 9 anni. Nel 1903, 55 ragazze da tutta la Grecia (tranne, per la clausola già citata, Kalamata) erano già iscritte — l'istituto aveva quindi già iniziato la propria attività ben prima dell'inaugurazione ufficiale, avvenuta solo il 19 gennaio 1904, sempre per mano della regina Olga.\nUn edificio segnato dalla grande storia greca\nNel corso del '900, l'istituto fu più volte costretto a spostarsi altrove, requisito o sfollato dagli eventi storici del paese:\n•\t1912, Guerre Balcaniche: trasferito temporaneamente alla Scuola Allievi Ufficiali di Marina, poi in una villa a Freattyda\n•\t1922, Catastrofe dell'Asia Minore: l'edificio diventa ospedale e centro profughi; le bambine vengono ospitate altrove (Charokopeio, PIKPA a Voula, Scuola Laskaridou a Kallithea)\n•\t1925: ritorno definitivo nell'edificio del Pireo\n•\t1940, guerra greco-italiana: nuova requisizione, bambine trasferite di nuovo al PIKPA di Voula\n•\t1941-44, Occupazione tedesca: l'istituto si sposta al Collegio delle Maestre d'Asilo di Kallithea. Un dato che colpisce: nel terribile inverno di fame 1941-42, in cui morirono 11.000 abitanti del Pireo, l'istituto non pianse nemmeno una vittima per quella causa.\n•\t1959: sistemazione definitiva nell'edificio di proprietà al Pireo.\nRiconoscimenti e prove recenti\nDal 1969 al 1983 ospitò la 56ª Scuola Elementare del Pireo. Nel 1987 ricevette un encomio dall'Accademia di Atene; nel 1991 l'edificio fu dichiarato monumento storico tutelato. Il terremoto del 7 settembre 1999 — evento distinto e slegato da quello di Oropos del 1938 — causò gravi danni, costringendo all'evacuazione di studentesse e personale: da allora l'istituto opera da un insediamento di casette prefabbricate nello stesso terreno, in attesa del completo restauro. Nel 2004 ricevette la medaglia d'oro dell'Accademia di Atene; dal 2012 sono in corso i lavori di recupero.\n\n{{img:https://musicagreca.com/images/chatzikiriakio2.jpg|centro}}\n\nUn quartiere nato dall'orfanotrofio\nL'area circostante prese il nome proprio dall'istituto, diventando un quartiere densamente popolato, abitato in gran parte da famiglie di origine insulare. I nuovi residenti scelsero persino di costruire una chiesa dedicata alla Zoodochos Pigi, ispirata all'omonima chiesa di Costantinopoli — un richiamo nostalgico alle proprie origini, coerente col fatto che molti di loro provenivano dalle isole e dall'Asia Minore, proprio come il fondatore dell'istituto.\n\n{{img:https://musicagreca.com/images/ chatzikiriakio4.jpg|sinistra}}\n\nUna missione ancora attuale\nOggi il Chatzikyriakeio accoglie ragazze dai 6 anni in su, offrendo alloggio, cura, sostegno emotivo e opportunità educative. Una ex ospite ha raccontato così l'uscita dall'istituto a 18 anni: \"Il giorno dopo il diploma non fu qualcosa di terribile per noi, perché avevamo già molte libertà. [...] Avevamo il sostegno dell'Istituto per tutto, e non provavamo nessuna insicurezza, paura o ansia.\"\nDal 2010, con l'inizio della crisi economica greca, le richieste di ammissione sono aumentate notevolmente — segno che la funzione sociale immaginata da Chatzikyriakos oltre un secolo fa resta, purtroppo, drammaticamente attuale.",
+      "link": ""
+    },
+    {
       "id": "a_1788621888624",
       "title": "L'Opisthodromikí Kompanía: quando il rembetiko tornò per strada",
       "tag": "storia di un gruppo e di un fenomeno",
@@ -9762,6 +9996,7 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/chiotis.jpg",
       "roles": [
+        "at",
         "am",
         "ar",
         "mu"
@@ -13518,6 +13753,20 @@
       "link": "",
       "listen": "",
       "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788753418562",
+      "name": "Βούλα Γκίκα",
+      "nameit": "Voúla Gkíka",
+      "born": "8 gennaio 1933, Argos",
+      "died": "19 luglio 2024, Kineta (Attica)",
+      "bio": "La famiglia si trasferì al Pireo poco prima della guerra del '40\n\nCantante di laïkó e rembetiko, iniziò la carriera artistica a 18 anni nonostante i costumi difficili dell'epoca, salendo per la prima volta sul palco nel 1951. Si affermò rapidamente come grande voce di supporto, cantando accanto ai più importanti interpreti dell'epoca: Stelios Kazantzidis, Grigoris Bithikotsis, Panos Gavalas, Stratos Dionysiou, Menidiatis, tra gli altri. Rimase attiva nel firmamento del laïkó per oltre tre decenni (anni '50, '60 e '70).\n\nPassata alla storia come \"la regina del segondo\" (\"η βασίλισσα του σεγόντου\") — specialista nel fare la seconda voce/armonia ai grandi nomi, in un'epoca in cui questa tecnica era un elemento chiave per il successo di un brano in discografia. Tra le sue incisioni più note: \"Νά 'τανε το '21\" (Stavros Kougioumtzis/Sotia Tsotou, 1969 — prima esecuzione in assoluto, precedente a quella più famosa di Giorgos Dalaras), \"Μίλησέ μου\" e \"Φιλντισένιο καραβάκι\" (Manos Hatzidakis/Nikos Gatsos, dall'album \"Επιστροφή\", 1970, arrangiamento di Dimos Moutsis).\n\nFu sposata con il compositore e buzukista Nikos Karanikolas.\n\nFu trovata morta in casa a 91 anni, dove viveva sola",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ghika.jpg",
       "roles": [
         "ar"
       ]
