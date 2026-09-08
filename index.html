@@ -2023,6 +2023,11 @@ var curBalloGeneri=null;
 function renderElencoGeneri(genere){
   var map=buildGeneriMap();
   var keys=Object.keys(map).sort(function(a,b){return a.localeCompare(b,'it');});
+
+  // Genere principale attivo — va aggiornato PRIMA di calcolare quale pulsante evidenziare
+  if(genere!==undefined){ curGenere=genere; curSubGenere=null; curBalloGeneri=null; }
+  if(!curGenere&&keys.length) curGenere=keys[0];
+
   // Barra generi principali — usa data-genere per evitare apici annidati
   var navH=keys.map(function(k){
     var isOn=curGenere===k;
@@ -2030,9 +2035,6 @@ function renderElencoGeneri(genere){
   }).join('');
   var navHtml='<div style="margin-bottom:.3rem;font-size:11px;color:var(--t3)">Seleziona un genere:</div><div style="display:flex;flex-wrap:wrap">'+navH+'</div>';
 
-  // Genere principale attivo
-  if(genere!==undefined){ curGenere=genere; curSubGenere=null; curBalloGeneri=null; }
-  if(!curGenere&&keys.length) curGenere=keys[0];
   var masterList=curGenere?(map[curGenere]||[]):[];
 
   // Sottogeneri (solo se ce n'è più di uno dentro il genere principale)
@@ -2059,10 +2061,10 @@ function renderElencoGeneri(genere){
   var balloKeys=Object.keys(balloMap).sort(function(a,b){return a.localeCompare(b,'it');});
   var balloH='';
   if(balloKeys.length>1){
-    var bBtns='<button data-balg="" class="ballogen-btn" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:'+(!curBalloGeneri?'var(--acc2)':'var(--sur)')+';color:'+(!curBalloGeneri?'#fff':'var(--t2)')+';cursor:pointer;font-size:11px;font-family:Arial,sans-serif">Tutti i balli<span style="font-size:9px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+preList.length+'</span></button>';
+    var bBtns='<button data-balg="" class="ballogen-btn" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:'+(!curBalloGeneri?'var(--acc)':'var(--sur)')+';color:'+(!curBalloGeneri?'#fff':'var(--t2)')+';cursor:pointer;font-size:11px;font-family:Arial,sans-serif">Tutti i balli<span style="font-size:9px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+preList.length+'</span></button>';
     bBtns+=balloKeys.map(function(bk){
       var isOn=curBalloGeneri===bk;
-      return '<button data-balg="'+bk.replace(/"/g,'&quot;')+'" class="ballogen-btn" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:'+(isOn?'var(--acc2)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:11px;font-family:Arial,sans-serif">'+esc(bk)+'<span style="font-size:9px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+balloMap[bk].length+'</span></button>';
+      return '<button data-balg="'+bk.replace(/"/g,'&quot;')+'" class="ballogen-btn" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:3px 9px;border-radius:16px;border:1px solid var(--b2);background:'+(isOn?'var(--acc)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:11px;font-family:Arial,sans-serif">'+esc(bk)+'<span style="font-size:9px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+balloMap[bk].length+'</span></button>';
     }).join('');
     balloH='<div style="margin:.5rem 0 .3rem 0;font-size:11px;color:var(--t3)">Filtra per ballo:</div><div style="display:flex;flex-wrap:wrap">'+bBtns+'</div>';
   }
