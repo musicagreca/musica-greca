@@ -2047,8 +2047,6 @@ function renderElencoGeneri(genere){
     }).join('');
     subH='<div style="margin:.5rem 0 .3rem 0;font-size:11px;color:var(--t3)">Sottogenere:</div><div style="display:flex;flex-wrap:wrap">'+subBtns+'</div>';
   }
-  el('list-generi-nav').innerHTML=navHtml+subH;
-
   // Filtro Ballo: solo i tipi di ballo presenti tra le canzoni già filtrate per genere/zona
   var preList=curSubGenere?(subMap[curSubGenere]||[]):masterList;
   var balloMap={};
@@ -2071,12 +2069,12 @@ function renderElencoGeneri(genere){
   el('list-generi-nav').innerHTML=navHtml+subH+balloH;
 
   // Listener genere principale
-  var btns=document.querySelectorAll('.genere-btn');
+  var btns=el('list-generi-nav').querySelectorAll('.genere-btn');
   for(var bi=0;bi<btns.length;bi++){
     btns[bi].addEventListener('click',function(){ renderElencoGeneri(this.getAttribute('data-genere')); });
   }
   // Listener sottogenere (non passa da renderElencoGeneri(genere) per non resettare curSubGenere)
-  var sbtns=document.querySelectorAll('.subgenere-btn');
+  var sbtns=el('list-generi-nav').querySelectorAll('.subgenere-btn');
   for(var si=0;si<sbtns.length;si++){
     sbtns[si].addEventListener('click',function(){
       curSubGenere=this.getAttribute('data-sub')||null;
@@ -2085,7 +2083,7 @@ function renderElencoGeneri(genere){
     });
   }
   // Listener ballo
-  var bgbtns=document.querySelectorAll('.ballogen-btn');
+  var bgbtns=el('list-generi-nav').querySelectorAll('.ballogen-btn');
   for(var gi=0;gi<bgbtns.length;gi++){
     bgbtns[gi].addEventListener('click',function(){
       curBalloGeneri=this.getAttribute('data-balg')||null;
@@ -2105,7 +2103,7 @@ function renderElencoGeneri(genere){
     h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(dispTgr(s))+'</div><div class="list-sub">'+esc([dispTit(s),s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+origBadge+'</div><div class="list-actions">'+links+songArrowHTML(s,'g-song-row')+'</div></div>';
   }
   el('list-generi-canzoni').innerHTML=h||'<div style="padding:1rem;color:var(--t3)">Nessuna canzone in questo genere.</div>';
-  var rows=document.querySelectorAll('.g-song-row');
+  var rows=el('list-generi-canzoni').querySelectorAll('.g-song-row');
   for(var ri=0;ri<rows.length;ri++){
     rows[ri].addEventListener('click',function(e){ e.stopPropagation(); goSong(this.getAttribute('data-sid')); });
   }
@@ -2119,7 +2117,7 @@ function renderElencoBalli(ballo){
   if(!keys.length){ el('list-balli-nav').innerHTML='<p style="color:var(--t3)">Nessun ballo inserito.</p>'; return; }
   var navH=keys.map(function(k){
     var isOn=curBallo===k;
-    return '<button class="genere-btn" data-genere="'+k.replace(/"/g,'&quot;')+'" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:4px 10px;border-radius:20px;border:1px solid var(--b2);background:'+(isOn?'var(--acc)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:12px;font-family:Arial,sans-serif">'+esc(k)+'<span style="font-size:10px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+map[k].length+'</span></button>';
+    return '<button class="ballopg-btn" data-genere="'+k.replace(/"/g,'&quot;')+'" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:4px 10px;border-radius:20px;border:1px solid var(--b2);background:'+(isOn?'var(--acc)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:12px;font-family:Arial,sans-serif">'+esc(k)+'<span style="font-size:10px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+map[k].length+'</span></button>';
   }).join('');
   el('list-balli-nav').innerHTML='<div style="margin-bottom:.3rem;font-size:11px;color:var(--t3)">Seleziona un ballo:</div><div style="display:flex;flex-wrap:wrap">'+navH+'</div>';
   if(ballo!==undefined) curBallo=ballo;
@@ -2133,11 +2131,11 @@ function renderElencoBalli(ballo){
     h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(dispTgr(s))+'</div><div class="list-sub">'+esc([dispTit(s),s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+'</div><div class="list-actions">'+links+songArrowHTML(s,'g-song-row')+'</div></div>';
   }
   el('list-balli-canzoni').innerHTML=h;
-  var btns=document.querySelectorAll('.genere-btn');
+  var btns=el('list-balli-nav').querySelectorAll('.ballopg-btn');
   for(var bi=0;bi<btns.length;bi++){
     btns[bi].addEventListener('click',function(){ renderElencoBalli(this.getAttribute('data-genere')); });
   }
-  var rows=document.querySelectorAll('.g-song-row');
+  var rows=el('list-balli-canzoni').querySelectorAll('.g-song-row');
   for(var ri=0;ri<rows.length;ri++){
     rows[ri].addEventListener('click',function(e){ e.stopPropagation(); goSong(this.getAttribute('data-sid')); });
   }
