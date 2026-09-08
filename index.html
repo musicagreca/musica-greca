@@ -2049,21 +2049,6 @@ function renderElencoGeneri(genere){
   }
   el('list-generi-nav').innerHTML=navHtml+subH;
 
-  // Listener genere principale
-  var btns=document.querySelectorAll('.genere-btn');
-  for(var bi=0;bi<btns.length;bi++){
-    btns[bi].addEventListener('click',function(){ renderElencoGeneri(this.getAttribute('data-genere')); });
-  }
-  // Listener sottogenere (non passa da renderElencoGeneri(genere) per non resettare curSubGenere)
-  var sbtns=document.querySelectorAll('.subgenere-btn');
-  for(var si=0;si<sbtns.length;si++){
-    sbtns[si].addEventListener('click',function(){
-      curSubGenere=this.getAttribute('data-sub')||null;
-      curBalloGeneri=null;
-      renderElencoGeneri();
-    });
-  }
-
   // Filtro Ballo: solo i tipi di ballo presenti tra le canzoni già filtrate per genere/zona
   var preList=curSubGenere?(subMap[curSubGenere]||[]):masterList;
   var balloMap={};
@@ -2083,7 +2068,23 @@ function renderElencoGeneri(genere){
     }).join('');
     balloH='<div style="margin:.5rem 0 .3rem 0;font-size:11px;color:var(--t3)">Filtra per ballo:</div><div style="display:flex;flex-wrap:wrap">'+bBtns+'</div>';
   }
-  el('list-generi-nav').innerHTML=el('list-generi-nav').innerHTML+balloH;
+  el('list-generi-nav').innerHTML=navHtml+subH+balloH;
+
+  // Listener genere principale
+  var btns=document.querySelectorAll('.genere-btn');
+  for(var bi=0;bi<btns.length;bi++){
+    btns[bi].addEventListener('click',function(){ renderElencoGeneri(this.getAttribute('data-genere')); });
+  }
+  // Listener sottogenere (non passa da renderElencoGeneri(genere) per non resettare curSubGenere)
+  var sbtns=document.querySelectorAll('.subgenere-btn');
+  for(var si=0;si<sbtns.length;si++){
+    sbtns[si].addEventListener('click',function(){
+      curSubGenere=this.getAttribute('data-sub')||null;
+      curBalloGeneri=null;
+      renderElencoGeneri();
+    });
+  }
+  // Listener ballo
   var bgbtns=document.querySelectorAll('.ballogen-btn');
   for(var gi=0;gi<bgbtns.length;gi++){
     bgbtns[gi].addEventListener('click',function(){
