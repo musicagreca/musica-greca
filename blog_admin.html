@@ -204,6 +204,7 @@ body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14
         <div class="form-section"><label>Dromos</label>
           <div class="ac-wrap"><input type="text" id="sf-dr" placeholder="es. Ousak, Hijaz, Rast" autocomplete="off" oninput="acInGeneric('sf-dr',getDromosValues)" onfocus="acInGeneric('sf-dr',getDromosValues)" onblur="acHide('sf-dr')"><div class="ac-dd" id="ac-sf-dr"></div></div>
         </div>
+        <div class="form-section"><label>Ballo/Ritmo (greco)</label><input type="text" id="sf-balgr" placeholder="es. Ζεϊμπέκικο, Χασάπικο"></div>
         <div class="form-section"><label>Ballo/Ritmo</label><input type="text" id="sf-bal" list="bal-datalist" placeholder="es. Ζεϊμπέκικο, Χασάπικο"><datalist id="bal-datalist"></datalist></div>
       </div>
       <div class="form-grid">
@@ -628,7 +629,7 @@ function editSong(id){
   const s=songs.find(x=>x.id===id);if(!s)return;
   editingSongId=id;tempExecutions=[...(s.executions||[])];
   g('song-form-mode-label').textContent='Modifica: '+s.tgr;
-  [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{const e=g(f);if(e)e.value=s[k]||'';});
+  [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{const e=g(f);if(e)e.value=s[k]||'';});
   ['sf-ew','sf-ey','sf-en','sf-el'].forEach(id=>{const e=g(id);if(e)e.value='';});
   renderSfExecList();
   populateGnDatalist();
@@ -660,13 +661,13 @@ function saveSong(){
       // La canzone non è stata trovata nell'array — la aggiunge come nuova
       // (può succedere se i dati sono stati reinizializzati)
       const s={id:editingSongId,offsets:{},executions:[...tempExecutions],date:new Date().toISOString().slice(0,10)};
-      [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
+      [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
       songs.unshift(s);
       sv();
       showAlert('song-form-alert','Canzone salvata come nuova (id precedente non trovato).','ok');
     } else {
       // Aggiornamento normale
-      const campi=[['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']];
+      const campi=[['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']];
       campi.forEach(([f,k])=>{songs[idx][k]=gv(f);});
       songs[idx].executions=[...tempExecutions];
       // Salva e verifica
@@ -686,7 +687,7 @@ function saveSong(){
   } else {
     // Nuova canzone
     const s={id:'s_'+Date.now(),offsets:{},executions:[...tempExecutions],date:new Date().toISOString().slice(0,10)};
-    [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
+    [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
     songs.unshift(s);
     sv();
     showAlert('song-form-alert','✓ Canzone salvata!','ok');

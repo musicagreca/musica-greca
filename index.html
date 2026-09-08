@@ -673,6 +673,9 @@ function loadData() {
 
 /* ── UTILS ── */
 function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+/* Titolo di ripiego: se manca il titolo della canzone, usa il nome del ballo (greco o traslitterato) */
+function dispTgr(s){ return (s.tgr||'').trim() || (s.balgr||'').trim() || (s.bal||'').trim() || ''; }
+function dispTit(s){ return (s.tit||'').trim() || (s.bal||'').trim() || (s.balgr||'').trim() || ''; }
 function formatArgBody(raw){
   var text = String(raw||'');
   var lines = text.split('\n');
@@ -1162,7 +1165,19 @@ function applyState(state, doScroll){
   else if(pid==='elenco-balli') renderElencoBalli();
   else if(pid==='argomento') renderArgomento();
   else if(pid==='accordi') renderAccordi();
-  else if(pid==='canzone'){ songSemi=getSongSemi(curSongId); autoscrollSpeed=getSongSpeed(curSongId); songTab='chords'; notation='it'; renderCanzone(); requestWakeLock(); }
+  else if(pid==='canzone'){
+    songSemi=getSongSemi(curSongId); autoscrollSpeed=getSongSpeed(curSongId); notation='it';
+    var _s=songs.filter(function(x){return x.id===curSongId;})[0];
+    if(_s){
+      if(_s.ch) songTab='chords';
+      else if(_s.tr) songTab='trans';
+      else if(_s.ti) songTab='it';
+      else if(_s.no) songTab='notes';
+      else if((_s.executions||[]).length) songTab='exec';
+      else songTab='chords';
+    } else songTab='chords';
+    renderCanzone(); requestWakeLock();
+  }
   else if(pid==='persona') renderPersona();
   else if(pid==='info') {}
 }
@@ -1369,7 +1384,7 @@ function renderElencoCanzoni(){
   songs.forEach(function(s){
     var lg=stripAccents((s.tgr||'?')[0]).toUpperCase();
     if(grLetters.indexOf(lg)<0) grLetters.push(lg);
-    var li=(s.tit||'')[0];
+    var li=(dispTit(s))[0];
     if(li){ li=li.toUpperCase(); if(itLetters.indexOf(li)<0) itLetters.push(li); }
   });
   grLetters.sort(function(a,b){return a.localeCompare(b,'el');});
@@ -1405,7 +1420,7 @@ function renderElencoCanzoni(){
     var alias=(s.alias||'').toLowerCase();
     var matchQ = srchMode!=='titolo' || !q
       ||(s.tgr||'').toLowerCase().indexOf(q)>=0
-      ||(s.tit||'').toLowerCase().indexOf(q)>=0
+      ||(dispTit(s)).toLowerCase().indexOf(q)>=0
       ||(s.at||'').toLowerCase().indexOf(q)>=0
       ||(s.am||'').toLowerCase().indexOf(q)>=0
       ||(s.ar||'').toLowerCase().indexOf(q)>=0
@@ -1422,7 +1437,7 @@ function renderElencoCanzoni(){
     var matchBal = srchMode!=='ballo' || (srchBallo!==undefined && (!srchBallo || (s.bal||'').trim()===srchBallo));
     var matchA = srchMode!=='alfabetico' || !srchAlpha || (
       stripAccents((s.tgr||'')[0]).toUpperCase()===srchAlpha||
-      ((s.tit||'')[0]||'').toUpperCase()===srchAlpha
+      ((dispTit(s))[0]||'').toUpperCase()===srchAlpha
     );
     var matchAM = srchMode!=='autore-musica' || (!!srchAutoreMusica && (s.am||'').trim()===srchAutoreMusica);
     var matchAT = srchMode!=='autore-testo' || (!!srchAutoreTesto && (s.at||'').trim()===srchAutoreTesto);
@@ -1544,7 +1559,7 @@ function renderElencoCanzoni(){
       h+='<span class="list-num" style="color:var(--t3)">&#8627;</span>';
       h+='<div class="list-main c-song-row" data-sid="'+s.id+'">';
       h+='<div class="list-title" style="font-style:italic">'+esc(item.aliasName)+'</div>';
-      var aliasTarget=(dispScript==='it'&&s.tit)?s.tit:s.tgr;
+      var aliasTarget=(dispScript==='it'&&dispTit(s))?dispTit(s):dispTgr(s);
       h+='<div class="list-sub">&#8594; '+esc(aliasTarget)+'</div>';
       h+='</div><span class="c-song-row" data-sid="'+s.id+'" style="font-size:11px;color:var(--t3);cursor:pointer" title="Vai alla scheda con il titolo originale">&rarr;</span></div>';
     } else {
@@ -1552,10 +1567,10 @@ function renderElencoCanzoni(){
       var links='';
       if(s.li) links+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">&#9432;</a>';
       var subMeta=[s.at?'&#9997; '+s.at:'',s.am&&s.am!==s.at?'&#9835; '+s.am:'',s.ar?'&#127908; '+s.ar:''].filter(Boolean).join('  &middot;  ');
-      var gndr=[s.tit,s.yr,s.gn,s.dr].filter(Boolean).join(' · ');
+      var gndr=[dispTit(s),s.yr,s.gn,s.dr].filter(Boolean).join(' · ');
       h+='<div class="list-item"><span class="list-num">'+num+'</span>';
       h+='<div class="list-main c-song-row" data-sid="'+s.id+'">';
-      var mainTtl=(dispScript==='it'&&s.tit)?s.tit:s.tgr;
+      var mainTtl=(dispScript==='it'&&dispTit(s))?dispTit(s):dispTgr(s);
       h+='<div class="list-title">'+esc(mainTtl)+'</div>';
       h+='<div class="list-sub">'+esc(gndr)+'</div>';
       if(subMeta) h+='<div class="list-sub" style="margin-top:1px">'+subMeta+'</div>';
@@ -1728,7 +1743,7 @@ function renderCanzone(){
   if(s.li) linksH+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank">ℹ Info</a>';
   linksH+='<button class="lbtn" style="margin-left:auto;color:var(--t2)" onclick="doPrint()">🖨 Stampa</button>';
 
-  el('wrap-canzone').innerHTML='<div class="song-card"><div class="s-hdr"><div class="s-title">'+esc(s.tgr)+'</div>'+(s.tit?'<div class="s-tit-it">'+esc(s.tit)+'</div>':'')+'<div class="s-meta">'+metaH+'</div><div class="s-links">'+linksH+'</div></div><div class="itabs">'+tabsH2+'</div><div class="autoscroll-bar" style="display:flex;align-items:center;gap:8px;padding:.4rem .6rem;background:var(--s2);border-bottom:1px solid var(--bor);font-size:11px"><button id="autoscroll-btn" class="lbtn" onclick="toggleAutoscroll()" style="min-width:88px">▶ Scorri</button><span style="color:var(--t3)">Velocità</span><input type="range" min="1" max="10" step="1" value="'+autoscrollSpeed+'" oninput="setAutoscrollSpeed(this.value)" style="flex:1;max-width:140px"></div><div class="s-body" id="song-content"></div></div>';
+  el('wrap-canzone').innerHTML='<div class="song-card"><div class="s-hdr"><div class="s-title">'+esc(dispTgr(s))+'</div>'+(dispTit(s)?'<div class="s-tit-it">'+esc(dispTit(s))+'</div>':'')+'<div class="s-meta">'+metaH+'</div><div class="s-links">'+linksH+'</div></div><div class="itabs">'+tabsH2+'</div><div class="autoscroll-bar" style="display:flex;align-items:center;gap:8px;padding:.4rem .6rem;background:var(--s2);border-bottom:1px solid var(--bor);font-size:11px"><button id="autoscroll-btn" class="lbtn" onclick="toggleAutoscroll()" style="min-width:88px">▶ Scorri</button><span style="color:var(--t3)">Velocità</span><input type="range" min="1" max="10" step="1" value="'+autoscrollSpeed+'" oninput="setAutoscrollSpeed(this.value)" style="flex:1;max-width:140px"></div><div class="s-body" id="song-content"></div></div>';
   renderTab();
 }
 function toggleAutoscroll(){
@@ -1834,7 +1849,7 @@ function renderPersonaVirtuale(name){
       if(s.ll) songLinks+='<a class="lbtn" href="'+esc(s.ll)+'" target="_blank" onclick="event.stopPropagation()">▶</a>';
       if(s.li) songLinks+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">ℹ</a>';
       var pills=roles.map(function(r){return '<span class="rp '+(RC[r]||'')+'" style="font-size:9px">'+RL[r]+'</span>';}).join('');
-      linkedH+='<div class="ln-row" onclick="goSong(\''+s.id+'\')"><div style="flex:1"><div class="ln-ttl">'+esc(s.tgr)+'</div><div class="ln-sub">'+esc([s.tit,s.yr,s.gn].filter(Boolean).join(' · '))+'</div></div><div style="display:flex;gap:4px;align-items:center">'+songLinks+pills+'</div></div>';
+      linkedH+='<div class="ln-row" onclick="goSong(\''+s.id+'\')"><div style="flex:1"><div class="ln-ttl">'+esc(dispTgr(s))+'</div><div class="ln-sub">'+esc([dispTit(s),s.yr,s.gn].filter(Boolean).join(' · '))+'</div></div><div style="display:flex;gap:4px;align-items:center">'+songLinks+pills+'</div></div>';
     }
     linkedH+='</div>';
   }
@@ -1848,7 +1863,7 @@ function doPrint(){
   var sg=songSemi>=0?'+':'';
   var sn=songSemi!==0?' ('+sg+songSemi+' semitoni)':'';
   var metaRow=[s.at?'✍ '+s.at:'',s.am&&s.am!==s.at?'♪ '+s.am:'',s.ar?'🎤 '+s.ar:'',s.yr||'',s.gn||''].filter(Boolean).join('  ·  ');
-  var meta='<div style="border-bottom:1pt solid #ccc;padding-bottom:6pt;margin-bottom:10pt"><div style="font-size:16pt;font-weight:700">'+esc(s.tgr)+'</div>'+(s.tit?'<div style="font-size:10pt;color:#444;font-style:italic">'+esc(s.tit)+'</div>':'')+'<div style="font-size:9pt;color:#555;margin-top:3pt">'+esc(metaRow)+'</div></div>';
+  var meta='<div style="border-bottom:1pt solid #ccc;padding-bottom:6pt;margin-bottom:10pt"><div style="font-size:16pt;font-weight:700">'+esc(dispTgr(s))+'</div>'+(dispTit(s)?'<div style="font-size:10pt;color:#444;font-style:italic">'+esc(dispTit(s))+'</div>':'')+'<div style="font-size:9pt;color:#555;margin-top:3pt">'+esc(metaRow)+'</div></div>';
   var contenuto='';
   if(songTab==='chords'){
     /* calcola CH per 12pt */
@@ -1927,7 +1942,7 @@ function renderPersona(){
       if(listenLink) songLinks+='<a class="lbtn" href="'+esc(listenLink)+'" target="_blank" onclick="event.stopPropagation()">▶</a>';
       if(s.li) songLinks+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">ℹ</a>';
       var pills=roles.map(function(r){return '<span class="rp '+(RC[r]||'')+'" style="font-size:9px">'+RL[r]+'</span>';}).join('');
-      linkedH+='<div class="ln-row" onclick="goSong(\''+s.id+'\')"><div style="flex:1"><div class="ln-ttl">'+esc(s.tgr)+'</div><div class="ln-sub">'+esc([s.tit,s.yr,s.gn].filter(Boolean).join(' · '))+'</div></div><div style="display:flex;gap:4px;align-items:center">'+songLinks+pills+'</div></div>';
+      linkedH+='<div class="ln-row" onclick="goSong(\''+s.id+'\')"><div style="flex:1"><div class="ln-ttl">'+esc(dispTgr(s))+'</div><div class="ln-sub">'+esc([dispTit(s),s.yr,s.gn].filter(Boolean).join(' · '))+'</div></div><div style="display:flex;gap:4px;align-items:center">'+songLinks+pills+'</div></div>';
     }
     linkedH+='</div>';
   }
@@ -2056,7 +2071,7 @@ function renderElencoGeneri(genere){
     if(s.li) links+='<a class="lbtn" href="'+esc(s.li)+'" target="_blank" onclick="event.stopPropagation()" style="color:var(--t2)">ℹ</a>';
     var smeta=[s.at?'✍ '+s.at:'',s.ar?'🎤 '+s.ar:''].filter(Boolean).join(' · ');
     var origBadge=(!curSubGenere&&subKeys.length>1&&s.gn)?'<span style="display:inline-block;margin-top:2px;font-size:10px;color:var(--acc);background:var(--abg);border-radius:10px;padding:1px 7px">'+esc(s.gn)+'</span>':'';
-    h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(s.tgr)+'</div><div class="list-sub">'+esc([s.tit,s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+origBadge+'</div><div class="list-actions">'+links+songArrowHTML(s,'g-song-row')+'</div></div>';
+    h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(dispTgr(s))+'</div><div class="list-sub">'+esc([dispTit(s),s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+origBadge+'</div><div class="list-actions">'+links+songArrowHTML(s,'g-song-row')+'</div></div>';
   }
   el('list-generi-canzoni').innerHTML=h||'<div style="padding:1rem;color:var(--t3)">Nessuna canzone in questo genere.</div>';
   var rows=document.querySelectorAll('.g-song-row');
@@ -2084,7 +2099,7 @@ function renderElencoBalli(ballo){
     var s=list[i];
     var links='';
     var smeta=[s.at?'&#9997; '+s.at:'',s.ar?'&#127908; '+s.ar:''].filter(Boolean).join(' · ');
-    h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(s.tgr)+'</div><div class="list-sub">'+esc([s.tit,s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+'</div><div class="list-actions">'+links+songArrowHTML(s,'g-song-row')+'</div></div>';
+    h+='<div class="list-item"><span class="list-num">'+(i+1)+'</span><div class="list-main g-song-row" data-sid="'+s.id+'"><div class="list-title">'+esc(dispTgr(s))+'</div><div class="list-sub">'+esc([dispTit(s),s.yr].filter(Boolean).join(' · '))+'</div>'+(smeta?'<div class="list-sub" style="margin-top:1px">'+esc(smeta)+'</div>':'')+'</div><div class="list-actions">'+links+songArrowHTML(s,'g-song-row')+'</div></div>';
   }
   el('list-balli-canzoni').innerHTML=h;
   var btns=document.querySelectorAll('.genere-btn');
