@@ -2073,13 +2073,30 @@ function renderElencoGeneri(genere){
   // Listener genere principale
   var btns=el('list-generi-nav').querySelectorAll('.genere-btn');
   for(var bi=0;bi<btns.length;bi++){
-    btns[bi].addEventListener('click',function(){ renderElencoGeneri(this.getAttribute('data-genere')); });
+    btns[bi].addEventListener('click',function(){
+      var newG=this.getAttribute('data-genere');
+      // feedback visivo immediato, indipendente dal resto del re-render
+      var allG=el('list-generi-nav').querySelectorAll('.genere-btn');
+      for(var gj=0;gj<allG.length;gj++){
+        var on=allG[gj].getAttribute('data-genere')===newG;
+        allG[gj].style.background = on?'var(--acc)':'var(--sur)';
+        allG[gj].style.color = on?'#fff':'var(--t2)';
+      }
+      renderElencoGeneri(newG);
+    });
   }
   // Listener sottogenere (non passa da renderElencoGeneri(genere) per non resettare curSubGenere)
   var sbtns=el('list-generi-nav').querySelectorAll('.subgenere-btn');
   for(var si=0;si<sbtns.length;si++){
     sbtns[si].addEventListener('click',function(){
-      curSubGenere=this.getAttribute('data-sub')||null;
+      var newSub=this.getAttribute('data-sub')||null;
+      var allS=el('list-generi-nav').querySelectorAll('.subgenere-btn');
+      for(var sj=0;sj<allS.length;sj++){
+        var on=(allS[sj].getAttribute('data-sub')||null)===newSub;
+        allS[sj].style.background = on?'var(--txt)':'var(--sur)';
+        allS[sj].style.color = on?'#fff':'var(--t2)';
+      }
+      curSubGenere=newSub;
       curBalloGeneri=null;
       renderElencoGeneri();
     });
@@ -2088,7 +2105,14 @@ function renderElencoGeneri(genere){
   var bgbtns=el('list-generi-nav').querySelectorAll('.ballogen-btn');
   for(var gi=0;gi<bgbtns.length;gi++){
     bgbtns[gi].addEventListener('click',function(){
-      curBalloGeneri=this.getAttribute('data-balg')||null;
+      var newBal=this.getAttribute('data-balg')||null;
+      var allB=el('list-generi-nav').querySelectorAll('.ballogen-btn');
+      for(var bj=0;bj<allB.length;bj++){
+        var on=(allB[bj].getAttribute('data-balg')||null)===newBal;
+        allB[bj].style.background = on?'var(--acc)':'var(--sur)';
+        allB[bj].style.color = on?'#fff':'var(--t2)';
+      }
+      curBalloGeneri=newBal;
       renderElencoGeneri();
     });
   }
