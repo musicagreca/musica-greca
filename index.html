@@ -392,6 +392,7 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
 </div>
 <div class="wrap">
   <div id="list-balli-nav"></div>
+  <div id="list-balli-alpha"></div>
   <div id="list-balli-canzoni" style="margin-top:1rem"></div>
 </div>
 </div>
@@ -2009,6 +2010,14 @@ function buildGeneriMap(){
 function buildSubgeneriMap(masterKey, list){
   var sub={};
   list.forEach(function(s){
+    // Se esiste il campo "zona" dedicato, usa quello come sottogenere (nuovo formato pulito)
+    if(masterKey==='Dimotikò / Paradosiakò' && s.zona && s.zona.trim()){
+      var z=s.zona.trim();
+      if(!sub[z]) sub[z]=[];
+      if(!sub[z].filter(function(x){return x.id===s.id;}).length) sub[z].push(s);
+      return;
+    }
+    // Vecchio formato: la zona era scritta dentro il testo del genere stesso (es. "dimotikò cretese")
     var parts=(s.gn||'').split('/').map(function(g){return g.trim();}).filter(Boolean);
     var candidates=parts.length>1?parts:[s.gn];
     candidates.forEach(function(orig){
@@ -2140,6 +2149,7 @@ function renderElencoGeneri(genere){
 
 /* ── BALLI ── */
 var curBallo=null;
+var curBalloLetter=null;
 function renderElencoBalli(ballo){
   var map=buildBalliMap();
   var keys=Object.keys(map).sort(function(a,b){return a.localeCompare(b,'el');});
@@ -2149,9 +2159,31 @@ function renderElencoBalli(ballo){
     return '<button class="ballopg-btn" data-genere="'+k.replace(/"/g,'&quot;')+'" style="display:inline-flex;align-items:center;gap:4px;margin:0 4px 6px 0;padding:4px 10px;border-radius:20px;border:1px solid var(--b2);background:'+(isOn?'var(--acc)':'var(--sur)')+';color:'+(isOn?'#fff':'var(--t2)')+';cursor:pointer;font-size:12px;font-family:Arial,sans-serif">'+esc(k)+'<span style="font-size:10px;background:rgba(0,0,0,.15);border-radius:10px;padding:0 5px">'+map[k].length+'</span></button>';
   }).join('');
   el('list-balli-nav').innerHTML='<div style="margin-bottom:.3rem;font-size:11px;color:var(--t3)">Seleziona un ballo:</div><div style="display:flex;flex-wrap:wrap">'+navH+'</div>';
-  if(ballo!==undefined) curBallo=ballo;
+  if(ballo!==undefined){ curBallo=ballo; curBalloLetter=null; }
   if(!curBallo&&keys.length) curBallo=keys[0];
-  var list=curBallo?(map[curBallo]||[]):[];
+  var fullList=curBallo?(map[curBallo]||[]):[];
+
+  // Barra alfabetica sulle canzoni del ballo selezionato
+  var balLetters=[];
+  fullList.forEach(function(s){
+    var l=stripAccents((dispTit(s)||dispTgr(s)||'')[0]||'').toUpperCase();
+    if(l && balLetters.indexOf(l)<0) balLetters.push(l);
+  });
+  balLetters.sort(function(a,b){return a.localeCompare(b,'it');});
+  var alphaH='';
+  if(balLetters.length>1){
+    alphaH='<div class="alpha-anchor alpha-bar" style="margin:.4rem 0 .6rem 0">';
+    alphaH+=balLetters.map(function(l){ return '<button class="alpha-btn balloletter-btn'+(curBalloLetter===l?' on':'')+'" data-l="'+l+'">'+l+'</button>'; }).join('');
+    alphaH+='<button class="alpha-btn balloletter-btn'+(curBalloLetter===null?' on':'')+'" data-l="" style="margin-left:4px">Tutti</button>';
+    alphaH+='</div>';
+  }
+  el('list-balli-alpha').innerHTML=alphaH;
+
+  var list=curBalloLetter?fullList.filter(function(s){
+    var l=stripAccents((dispTit(s)||dispTgr(s)||'')[0]||'').toUpperCase();
+    return l===curBalloLetter;
+  }):fullList;
+
   var h='<div style="font-size:13px;font-weight:700;color:var(--txt);margin-bottom:.6rem">'+esc(curBallo||'')+' <span style="font-size:11px;color:var(--t3);font-weight:400">('+list.length+' canzoni)</span></div>';
   for(var i=0;i<list.length;i++){
     var s=list[i];
@@ -2164,6 +2196,10 @@ function renderElencoBalli(ballo){
   var btns=el('list-balli-nav').querySelectorAll('.ballopg-btn');
   for(var bi=0;bi<btns.length;bi++){
     btns[bi].addEventListener('click',function(){ renderElencoBalli(this.getAttribute('data-genere')); });
+  }
+  var lbtns=el('list-balli-alpha').querySelectorAll('.balloletter-btn');
+  for(var li=0;li<lbtns.length;li++){
+    lbtns[li].addEventListener('click',function(){ curBalloLetter=this.getAttribute('data-l')||null; renderElencoBalli(); });
   }
   var rows=el('list-balli-canzoni').querySelectorAll('.g-song-row');
   for(var ri=0;ri<rows.length;ri++){

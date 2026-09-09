@@ -1,12 +1,198 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-09T03:09:17.110Z",
+  "exportedAt": "2026-09-09T10:26:15.484Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
-      "id": "s_1788923004230",
+      "id": "s_1788949570364",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Νάνα Μούσχουρη",
+          "year": "1983",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Yur-1yagtdo",
+          "vid": false
+        },
+        {
+          "who": "Αλίκη Καγιαλόγλου",
+          "year": "1994",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=jZT6DJGRrNw",
+          "vid": false
+        },
+        {
+          "who": "Νίκος Τσιλίφης",
+          "year": "1964",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=BLYSNkefwvk",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-09",
+      "tgr": "Γιαλό-γιαλό",
+      "tit": "Ghialó ghialó",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "zona": "Isole Ionie",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "LA                             MI\nΕις τον αφρό, εις τον αφρό της θάλασσας\n          MI             LA\nΗ αγάπη μου, η αγάπη μου κοιμάται\nLA            RE     LA        MI    LA\nΠαρακαλώ σας κύματα, μη μου την εξυπνάτε\nLA            RE     LA        MI    LA\nΠαρακαλώ σας κύματα, μη μου την εξυπνάτε\n\nLA        MI      LA\nΓιαλό-γιαλό πηγαίναμε\n           MI        LA\nΚι όλο για σένα λέγαμε\n          RE               LA\nΓιαλό να πας, γιαλό να 'ρθεις\n        MI           LA\nΤα λόγια μου να θυμηθείς\n\n\nLA                             MI\nΝα χαμηλώ-, να χαμηλώναν τα βουνά\n          MI             LA\nΝα 'βλεπα το, να 'βλεπα το Λεβάντε\nLA            RE     LA        MI    LA\nΝα 'βλεπα την Κεφαλλονιά και το ωραίο Τζάντε\nLA            RE     LA        MI    LA\nΝα 'βλεπα την Κεφαλλονιά και το ωραίο Τζάντε\n\nLA        MI      LA\nΓιαλό-γιαλό πηγαίναμε\n           MI        LA\nΚι όλο για σένα λέγαμε\n          RE               LA\nΓιαλό να πας, γιαλό να 'ρθεις\n        MI           LA\nΤα λόγια μου να θυμηθείς\n\n\nLA                             MI\nΝάταν η θα-, νάταν η θάλασσα κρασί\n          MI             LA\nΚαι τα βουνά, και τα βουνά μεζέδες\nLA            RE     LA        MI    LA\nΚι οι βάρκες κρασοπότηρα, να πίνουν οι γλεντζέδες\nLA            RE     LA        MI    LA\nΚι οι βάρκες κρασοπότηρα, να πίνουν οι γλεντζέδες\n\nLA        MI      LA\nΓιαλό-γιαλό πηγαίναμε\n           MI        LA\nΚι όλο για σένα λέγαμε\n          RE               LA\nΓιαλό να πας, γιαλό να 'ρθεις\n        MI           LA\nΤα λόγια μου να θυμηθείς\n\n\n\nLA                        MI\nΚεφαλλονί-, κεφαλλονίτικος παπάς\n          MI             LA\nδιαβάζει με, διαβάζει με σοφία\nLA            RE     LA        MI    LA\nΤα δώδεκα ευαγγέλια τα βγάζει δεκατρία\nLA            RE     LA        MI    LA\nΤα δώδεκα ευαγγέλια τα βγάζει δεκατρία\n\nLA        MI      LA\nΓιαλό-γιαλό πηγαίναμε\n           MI        LA\nΚι όλο για σένα λέγαμε\n          RE               LA\nΓιαλό να πας, γιαλό να 'ρθεις\n        MI           LA\nΤα λόγια μου να θυμηθείς",
+      "tr": "Is ton afró, is ton afró tis thálassas\nI agápi mu, i agápi mu kimáte\nParakaló sas kýmata, mi mu tin eksipnáte\nParakaló sas kýmata, mi mu tin eksipnáte\n\nGhialó-ghialó pigéname\nKi ólo ghia séna léghame\nGhialó na pas, ghialó na 'rthis\nTa lóghia mu na thymithís\n\nNa chamiló-, na chamilónan ta vuná\nNa 'vlepa to, na 'vlepa to Levánte\nNa 'vlepa tin Kefalloniá kie to oréo Tzánte\nNa 'vlepa tin Kefalloniá kie to oréo Tzánte\n\nGhialó-ghialó...\n\nNátan i tha-, nátan i thálassa krasí\nKie ta vuná, kie ta vuná mezédes\nKi i várkes krasopótira, na pínun i glentzédes\nKi i várkes krasopótira, na pínun i glentzédes\n\nGhialó-ghialó...\n\nKefalloní-, kefallonítikos papás\ndiavázi me, diavázi me sofía\nTa dódeka evanghélia ta vgázi dekatría\nTa dódeka evanghélia ta vgázi dekatría\n\nGhialó ghialó...",
+      "ti": "Lungo la riva\n\nNella schiuma, nella schiuma del mare\nil mio amore, il mio amore dorme\nVi prego, onde, non svegliatemelo\nVi prego, onde, non svegliatemelo\n\nLungo la riva, lungo la riva andavamo\ne parlavamo sempre di te\nLungo la riva vai, lungo la riva torna\nricordati le mie parole\n\nSe si abbassassero, se si abbassassero le montagne\npotessi vedere, potessi vedere il Levante\npotessi vedere Cefalonia e la bella Zante\npotessi vedere Cefalonia e la bella Zante\n\nLungo la riva...\n\nSe fosse il ma-, se fosse il mare vino\ne le montagne, e le montagne stuzzichini\ne le barche bicchieri da vino, per bere i festaioli\ne le barche bicchieri da vino, per bere i festaioli\n\nLungo la riva...\n\nUn prete di Cefalonia\nlegge con tale sapienza\nche i dodici vangeli li trasforma in tredici\nche i dodici vangeli li trasforma in tredici\n\nLungo la riva...\n\nNote di traduzione\n\n\"εις τον αφρό της θάλασσας\" — immagine poetica classica della tradizione popolare greco-ionica: l'amore/la persona amata che \"dorme nella schiuma del mare\" richiama antiche credenze e canti marinareschi in cui il mare custodisce/culla chi si ama, spesso con sfumatura di lontananza o pericolo (il marinaio in mare, l'amata che dorme lontano).\n\n\"Γιαλό-γιαλό\" — \"lungo la riva/costeggiando il mare\": espressione idiomatica geografica tipica delle isole greche, indica il camminare o viaggiare seguendo la linea costiera; ripetuta come ritornello quasi onomatopeico del cammino lungo il mare.\n\n\"Λεβάντε\" — dal veneziano/italiano \"Levante\", punto cardinale e vento che soffia da est; qui usato come riferimento geografico-poetico tipico delle Isole Ionie, storicamente sotto influenza veneziana (da cui anche il nome \"Τζάντε\" per Zante, dal veneziano \"Zante\" invece del greco \"Ζάκυνθος\").\n\n\"Τζάντε\" — nome veneziano dell'isola di Zante (greco: Ζάκυνθος); l'uso del toponimo italiano/veneziano invece di quello greco riflette la lunga dominazione veneziana delle Isole Ionie (Cefalonia, Zante, Corfù) e la loro cultura mistilingue.\n\n\"Να 'βλεπα... Να 'βλεπα\" — costruzione con \"να\" ottativo (esprime desiderio/rimpianto: \"potessi vedere\", \"magari potessi vedere\"), tipica del greco per esprimere un desiderio irrealizzabile o una nostalgia.\n\n\"γλεντζέδες\" — \"festaioli/amanti del buon vivere\" (da γλέντι, festa/baldoria): persone dedite al divertimento conviviale, bere e cantare in compagnia, figura tipica della cultura conviviale greca.\n\n\"Τα δώδεκα ευαγγέλια τα βγάζει δεκατρία\" — \"i dodici vangeli li trasforma in tredici\": iperbole scherzosa e affettuosa sulla bravura/sapienza (o forse sulla lunghezza eccessiva!) della lettura del prete durante la funzione della Passione (dove si leggono tradizionalmente dodici vangeli il Giovedì Santo); gioco umoristico tipico del folklore popolare greco verso il clero locale, bonario e non irriverente.",
+      "no": "Kantada delle Isole Ionie (Επτανησιακή καντάδα). È l'esempio perfetto della serenata urbana e marinaresca greca. A differenza dei canti della Grecia continentale, risente moltissimo dell'influenza musicale italiana ed è guidata storicamente da chitarre, mandolini e cori a più voci.\nVarianti e omonimie popolari: Esiste anche una versione ballabile asiatica/smyrneika con lo stesso titolo, così come una celebre composizione rebetiko di Grigoris Asikis del 1937, ma la melodia universalmente riconosciuta nel mondo è la kantada ionica.\nL'etimologia di \"Kantada\": Il genere a cui appartiene il brano deriva direttamente dalla parola italiana \"cantare\". Nacque precisamente a Lixouri, nell'isola di Cefalonia, dove i marinai locali mescolarono le melodie dell'opera lirica italiana che sentivano nei teatri con la tradizione greca, creando questo stile unico a quattro voci.",
+      "balvid": false
+    },
+    {
+      "id": "s_1788947667427",
       "offsets": {},
       "executions": [],
+      "date": "2026-09-09",
+      "tgr": "Βαλεντίνα",
+      "tit": "Valentìna",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1950",
+      "ar": "Μαρίκα Νίνου",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=ip8K03HZQ7Q",
+      "li": "",
+      "ch": "SOL\nΑχ Βαλεντίνα, αχ βρε τσαχπίνα\n        MI            LAm\nμόρτικα κομμένα τα μαλλιά σου\nRE                  SOL\nσαν αγοροκόριτσο η μιλιά σου\n     DO                              SOL\nΈχεις κούρσα και σωφάρεις κι όπου θέλεις ρεμιζάρεις\nRE         MI   LAm\nέγινες και σωφερίνα\nDO                          SOL\nΚι όπως πας σε λίγα χρόνια, θα φορέσεις παντελόνια\n      RE     SOL\nΒαλεντίνα, Βαλεντίνα\n\n\nSOL\nΑχ Βαλεντίνα, αχ βρε τσαχπίνα\n  MI                    LAm\nείσαι μια μποέμισσα σπουδαία\n         RE            SOL\nκάνεις την πιο όμορφη παρέα\n       DO                          SOL\nΣτα μπουζούκια σαν πηγαίνεις και χασάπικο χορεύεις\n  RE     MI         LAm\nξετρελαίνεις την Αθήνα\n   DO                              SOL\nΚι όλοι οι μάγκες σ' αγαπούνε και παντού σε συζητούνε\n     RE          SOL\nΒαλεντίνα, Βαλεντίνα\n\n  DO                              SOL\nΈχεις κούρσα και σωφάρεις κι όπου θέλεις ρεμιζάρεις\nRE         MI   LAm\nέγινες και σωφερίνα\nDO                          SOL\nΚι όπως πας σε λίγα χρόνια, θα φορέσεις παντελόνια\n      RE     SOL\nΒαλεντίνα, Βαλεντίνα",
+      "tr": "Valentína\n\nAch Valentína, ach vre tsachpína\nmórtika koména ta malliá su\nsan agorokóritso i miliá su\nÉchis kúrsa kie soféris ki ópu thélis remizáris\néghines kie soferína\nKi ópos pas se lígha chrónia, tha forésis pandelónia\nValentína, Valentína\n\nAch Valentína, ach vre tsachpína\níse mia boémissa spudéa\nkánis tin pio ómorfi paréa\nSta buzúkia san pighénis kie chasápiko chorévis\nksetreléni tin Athína\nKi óli i mánges s' agapúne kie pandú se sizitúne\nValentína, Valentína\n\nÉchis kúrsa kie soféris...",
+      "ti": "Valentína\n\nAh Valentina, ah birichina\ni tuoi capelli tagliati alla moda dei mórtes\nla tua parlata è da maschiaccio\n\nHai un'auto sportiva e guidi, e parcheggi dove vuoi\nsei diventata anche autista\n\nE di questo passo, tra pochi anni, indosserai i pantaloni\nValentina, Valentina\n\nAh Valentina, ah birichina\nsei una gran bohémienne\nfai la compagnia più bella\n\nQuando vai nei locali di bouzouki e balli il chasápiko\nfai impazzire Atene\n\nE tutti i mánges ti amano e ovunque si parla di te\nValentina, Valentina\n\nHai un'auto sportiva e guidi...\n\nNote di traduzione\n\n\"τσαχπίνα\" — termine affettuoso-scherzoso per indicare una donna vivace, birichina, un po' civetta e maliziosa, ma in senso simpatico e non offensivo.\n\n\"μόρτικα κομμένα τα μαλλιά σου\" — \"i tuoi capelli tagliati alla moda dei mortes\": i \"μόρτες\" erano figure tipiche della sottocultura urbana greca di inizio '900 (simili ai \"mangas\"), giovani sbruffoni dai modi spavaldi; qui il taglio di capelli corto e mascolino di Valentina viene paragonato al loro stile, sottolineando la sua immagine anticonformista per l'epoca.\n\n\"σαν αγοροκόριτσο η μιλιά σου\" — \"il tuo parlare è da maschiaccio\" (αγοροκόριτσο = ragazza-maschiaccio): descrive un modo di fare/parlare non conformista al ruolo femminile tradizionale, coerente col ritratto di donna anticonformista della canzone.\n\n\"ρεμιζάρεις\" — dal francese \"remiser\" (mettere in rimessa/parcheggiare), termine entrato nel greco colloquiale per \"parcheggiare l'auto\"; sottolinea il tema della modernità/emancipazione (guidare l'auto era attività prevalentemente maschile all'epoca).\n\n\"θα φορέσεις παντελόνια\" — \"indosserai i pantaloni\": espressione che, nel contesto storico (i pantaloni erano capo esclusivamente maschile), allude ironicamente alla progressiva \"mascolinizzazione\"/emancipazione di Valentina, vista con un misto di ammirazione e ironico stupore tipico dell'epoca.\n\n\"μποέμισσα\" — \"bohémienne\", donna dallo stile di vita anticonformista, libera, artistica; prestito diretto dal francese \"bohème\".\n\n\"χασάπικο\" — danza tradizionale greca (letteralmente \"danza dei macellai\"), ballo popolare energico e in origine maschile, spesso legato all'ambiente del bouzouki e della vita notturna.\n\n\"μάγκες\" — i \"mánges\" erano figure tipiche della cultura popolare urbana greca (simili ai \"mórtes\" già citati), uomini dallo stile spavaldo, dandy di quartiere legati al mondo del rebetiko; qui indicano genericamente gli ammiratori/uomini di mondo che apprezzano Valentina.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1788934386131",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργος Νταλάρας",
+          "year": "1971",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=X5M-NssbQ4E",
+          "vid": false
+        },
+        {
+          "who": "Χάρις Αλεξίου",
+          "year": "1985",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ZNjuC0OL4iQ",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-09",
+      "tgr": "Αχ χελιδόνι μου",
+      "tit": "Ach chielidòni mu",
+      "alias": "",
+      "at": "Λευτέρης Παπαδόπουλος",
+      "am": "Μάνος Λοΐζος",
+      "yr": "1971",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                        SOLm\nΑχ χελιδόνι μου, πώς να πετάξεις\n         LA     SOLm   REm\nσ' αυτό το μαύρο τον ουρανό\n       RE          SOLm\nΑίμα σταλάζει το δειλινό\n              DO        SOLm      LA\nκαι πώς να κλάψεις, και πώς να κλάψεις\n          REm\nΑχ χελιδόνι μου\n\n\nREm                        SOLm\nΑχ παλικάρι μου, τα τραίνα φύγαν\n         LA     SOLm   REm\nΔεν έχει δρόμο για μισεμό\n       RE          SOLm\nΚι όσοι μιλούσαν για λυτρωμό\n              DO        SOLm      LA\nπες μου πού πήγαν, πες μου πού πήγαν\n          REm\nΑχ παλικάρι μου\n\n\nREm                        SOLm\nΆχου καρδούλα μου φυλακισμένη\n         LA     SOLm   REm\nδε βγαίνει ο ήλιος που καρτεράς\n       RE          SOLm\nΜόνο ο τελάλης της αγοράς\n              DO        SOLm      LA\nσε ξεκουφαίνει, σε ξεκουφαίνει\n          REm\nΆχου καρδούλα μου",
+      "tr": "Ach chielidòni mu\n\nAch chielidóni mu, pos na petáksis\ns' aftó to mávro ton uranó\nEma stalázi to dilinó\nkie pos na klápsis, kie pos na klápsis\nAch chielidóni mu\n\nAch palikári mu, ta tréna fígan\nDen échi drómo ghia misemó\nKi ósi milúsan ghia lytromó\npes mu pu píghan, pes mu pu píghan\nAch palikári mu\n\nÁchu kardúla mu filakisméni\nde vghéni o ílios pu kartherás\nMóno o teláli tis agorás\nse ksekuféni, se ksekuféni\nÁchu kardúla mu",
+      "ti": "Ah rondine mia\n\nAh, rondine mia, come puoi volare\nin questo cielo nero\nSangue gocciola il tramonto\ne come puoi piangere, come puoi piangere\nAh, rondine mia\n\nAh, ragazzo mio, i treni sono partiti\nNon c'è più strada per la partenza/l'emigrazione\nE quelli che parlavano di liberazione\ndimmi dove sono andati, dimmi dove sono andati\nAh, ragazzo mio\n\nAhi, cuoricino mio imprigionato\nnon sorge il sole che aspetti\nSolo il banditore del mercato\nti assorda, ti assorda\nAhi, cuoricino mio\n\nNote di traduzione\n\n\"χελιδόνι\" — la rondine è simbolo tradizionale, nella cultura greca, dell'arrivo della primavera e della libertà (da sempre associata al canto popolare \"che torna la rondine, torna la primavera\"); qui l'immagine è rovesciata in senso drammatico: la rondine non può volare perché il cielo è \"nero\", simbolo di oppressione politica.\n\n\"Αίμα σταλάζει το δειλινό\" — \"il tramonto gocciola sangue\": immagine potente e cupa che associa il calare della sera a un evento di violenza/spargimento di sangue, tipica del linguaggio poetico-politico greco per descrivere periodi di repressione (dittatura, guerra civile).\n\n\"δεν έχει δρόμο για μισεμό\" — \"non c'è più strada per partire/emigrare\" (μισεμός = partenza, spesso in senso di emigrazione forzata): indica che anche la via di fuga/l'emigrazione, tradizionale valvola di sfogo per i greci in tempi difficili, è ormai bloccata.\n\n\"λυτρωμό\" — \"liberazione/redenzione, riscatto\": termine con forte connotazione sia religiosa che politica, qui riferito a chi si batteva per un ideale di liberazione (probabilmente politica) e di cui non si hanno più notizie — probabile allusione a dissidenti scomparsi o incarcerati.\n\n\"ο τελάλης της αγοράς\" — il \"τελάλης\" è il banditore/strillone che nei mercati tradizionali annunciava a voce alta notizie o merci; qui il suo grido assordante sostituisce il sole (la speranza/libertà) che non sorge più, simbolo del rumore vuoto del potere/regime che soffoca ogni speranza autentica.\n\n\"καρδούλα μου φυλακισμένη\" — \"cuoricino mio imprigionato\": immagine che unisce il vezzeggiativo affettuoso \"καρδούλα\" alla condizione di prigionia, suggerendo che non solo il corpo ma anche il sentimento/la speranza sono reclusi — probabile riferimento, dato il contesto della canzone, alla repressione politica (dittatura dei colonnelli).",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1788933565975",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Πάνος Γαβαλάς, Ρία Κούρτη",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=xT4EdwceVNQ"
+        }
+      ],
+      "date": "2026-09-09",
+      "tgr": "Άμα θες να φύγεις, φύγε",
+      "tit": "Ama thes na fìghis, fighie",
+      "alias": "",
+      "at": "Γιώργος Σαμολαδάς",
+      "am": "Απόστολος Καλδάρας",
+      "yr": "1963",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "SOL\nΚάθε μέρα με γκρινιάζεις, ότι σε παραμελώ\nRE                          LAm   RE   SOL\nκι αφού στο 'χω αποδείξει, μόνο εσένα αγαπώ\n\nSOL\nΆμα θες να φύγεις, φύγε\n                   RE\nάμα θες να κλάψεις κλάψε\nLAm\nνα γκρινιάζεις μόνο πάψε\nRE                SOL\nδεν μπορώ να τ' ανεχτώ\nSOL\nΆμα θες να φύγεις, φύγε\n                   RE\nστο 'πα και στο ξαναλέω\nLAm\nμη μου πεις μετά πως φταίω\nRE                  SOL\nόταν μ' άλλη θα μπλεχτώ\n\n\nSOL\nΧαίρομαι που με λατρεύεις, χαίρομαι που μ' αγαπάς\nRE                          LAm         RE   SOL\nΌμως με κουράζει η γκρίνια, όταν την παρατραβάς\n\nSOL\nΆμα θες να φύγεις, φύγε\n                   RE\nάμα θες να κλάψεις κλάψε\nLAm\nνα γκρινιάζεις μόνο πάψε\nRE                SOL\nδεν μπορώ να τ' ανεχτώ\nSOL\nΆμα θες να φύγεις, φύγε\n                   RE\nστο 'πα και στο ξαναλέω\nLAm\nμη μου πεις μετά πως φταίω\nRE                  SOL\nόταν μ' άλλη θα μπλεχτώ\n\nSOL\nΈρχομαι στην αγκαλιά σου λίγο να ξεκουραστώ\nRE LAm RE SOL\nκαι στις πιο όμορφες στιγμές μου, κάνεις και βαρυγκωμώ\n\nΆμα θες να φύγεις, φύγε...",
+      "tr": "Áma thes na fíghis, fíghie\n\nKáthe méra me gkriniázis, óti se parameló\nki afú sto 'cho apodíksi, móno eséna agapó\n\nÁma thes na fíghis, fíghie\náma thes na klápsis klápse\nna gkriniázis móno pápse\nden boró na t' anechtó\nÁma thes na fíghis, fíghe\nsto 'pa kie sto ksanaléo\nmi mu pis metá pos ftéo\nótan m' álli tha blechtó\n\nChérome pu me latrévis, chérome pu m' agapás\nÓmos me kurázi i gkrínia, ótan tin paratravás\n\nÁma thes na fíghis, fíghie...\n\nÉrchome stin agkaliá su lígho na ksekurastó\nkie stis pio ómorfes stighmés mu, kánis kie varygkomó\n\nÁma thes na fíghis, fíghie...",
+      "ti": "Se vuoi andartene, vattene\n\nOgni giorno mi rimproveri, che ti trascuro\ne anche se te l'ho già dimostrato, amo solo te\n\nSe vuoi andartene, vattene\nse vuoi piangere, piangi\ndi lamentarti smettila e basta\nnon riesco a sopportarlo\nSe vuoi andartene, vattene\nte l'ho detto e te lo ripeto\nnon dirmi poi che la colpa è mia\nquando mi legherò a un'altra\n\nSono felice che tu mi adori, sono felice che tu mi ami\nMa mi stanca la lamentela, quando la tiri troppo per le lunghe\n\nSe vuoi andartene, vattene...\n\nVengo tra le tue braccia un po' per riposarmi\ne nei miei momenti più belli, ti metti pure a brontolare\n\nSe vuoi andartene, vattene...\n\nNote di traduzione\n\n\"με γκρινιάζεις\" — \"mi rimproveri/mi fai le lamentele\": verbo già incontrato in altre canzoni (γκρίνια), qui riferito a un rimprovero ripetuto e insistente, tipico di litigi di coppia quotidiani.\n\n\"θα μπλεχτώ\" — letteralmente \"mi imbroglierò/mi ingarbuglierò\": espressione colloquiale per \"avere una relazione/storia con un'altra persona\", qui reso con \"mi legherò a un'altra\" per mantenere il senso minaccioso/di avvertimento.\n\n\"όταν την παρατραβάς\" — \"quando la tiri troppo per le lunghe\" (da \"τραβάω\", tirare): modo di dire per indicare che si esagera con qualcosa, in questo caso con le lamentele, portandole oltre il limite della sopportazione.\n\n\"κάνεις και βαρυγκωμώ\" — \"ti metti pure a brontolare/lamentarti pesantemente\" (da \"βαρυγκομώ\", borbottare con pesantezza): sottolinea con leggero sarcasmo che l'altra persona si lamenta persino nei momenti belli della relazione, aggravando il malcontento generale espresso nella canzone.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1788924747335",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-09",
+      "tgr": "Άλλα μου λεν τα μάτια σου",
+      "tit": "Alla mu len ta màtia su",
+      "alias": "",
+      "at": "Κώστας Μάνεσης",
+      "am": "Θόδωρος Δερβενιώτης",
+      "yr": "1958",
+      "ar": "Πόλυ Πάνου",
+      "lb": "",
+      "gn": "Laikà",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=OTqPNBvomis",
+      "li": "",
+      "ch": "RE           DOm          RE\nΜυστήριο κατάντησες για μένα\nRE           DOm          RE\nκαι τα 'χω αγαπούλα μου χαμένα\nRE         SOLm     SOL        DOm\nκαι το σφυγμό σου να 'βρω δεν μπορώ\nRE#         DOm         RE#  RE\nγι αυτό με τυραννάς τόσον καιρό\n\n          SOLm       DOm\nΆλλα μου λεν τα μάτια σου\nRE          RE#   RE\nκαι άλλα η καρδιά σου\n          DOm        SOLm\nΆλλα μου λεν τα χάδια σου\nRE          RE#   RE\nκαι άλλα τα φιλιά σου\n\nRE           DOm          RE\nΜαζί μου παίζεις θέατρο αράδα\nRE           DOm          RE\nΜια τέτοια κωμωδία δεν ξανάδα\nRE     SOLm     SOL        DOm\nΠαράξενα στα μάτια με κοιτάς\nRE#         DOm         RE#  RE\nμα ούτε συ δεν ξέρεις τι ζητάς\n\n          DOm        SOLm\nΆλλα μου λεν τα χάδια σου\nRE          RE#   RE\nκαι άλλα τα φιλιά σου",
+      "tr": "Alla mu len ta màtia su\n\nMystírio katándises ghia ména\nkie ta 'cho agapúlu mu chaména\nkie to sfygmó su na 'vro den boró\nghi aftó me tyranás tóson kiró\n\nÁlla mu len ta mátia su\nkie álla i kardiá su\nÁlla mu len ta chádia su\nkie álla ta filiá su\n\nMazí mu pézis théatro aráda\nMia tétia komodía den ksanáda\nParáksena sta mátia me kitás\nma úte si den kséris ti zitás\n\nÁlla mu len ta mátia su...",
+      "ti": "Una cosa mi dicono i tuoi occhi\n\nSei diventato/a un mistero per me\ne l'ho perso, amore mio\n\nE il tuo battito non riesco a trovarlo\nper questo mi tormenti da così tanto tempo\n\nUna cosa mi dicono i tuoi occhi\ne un'altra il tuo cuore\nUna cosa mi dicono le tue carezze\ne un'altra i tuoi baci\n\nCon me reciti teatro di continuo\nUna commedia così non l'ho mai vista\nMi guardi negli occhi in modo strano\nma nemmeno tu sai cosa vuoi\n\nUna cosa mi dicono i tuoi occhi...\n\nUna cosa mi dicono i tuoi occhi...\n\nNote di traduzione\n\n\"το σφυγμό σου να 'βρω δεν μπορώ\" — letteralmente \"non riesco a trovare il tuo polso/battito\": espressione idiomatica che significa \"non riesco a capire il tuo stato d'animo/le tue vere intenzioni\", come non riuscire a sentire il battito cardiaco di qualcuno per capire come sta veramente.\n\n\"Άλλα μου λεν τα μάτια σου και άλλα η καρδιά σου\" — costruzione idiomatica (\"una cosa dicono gli occhi, un'altra il cuore\") per esprimere contraddizione tra apparenza/segnali esterni e sentimenti reali; tema centrale della canzone: l'incoerenza tra i segnali affettivi (sguardi, carezze, baci) e i veri sentimenti dell'altro/a.\n\n\"παίζεις θέατρο αράδα\" — \"reciti teatro di continuo/in fila\": espressione colloquiale per dire che qualcuno finge continuamente, mette in scena un comportamento falso o ingannevole, come un attore che recita a ripetizione.\n\n\"Μια τέτοια κωμωδία δεν ξανάδα\" — \"una commedia così non l'ho mai vista prima\": rafforza l'immagine teatrale precedente, sottolineando con ironia amara quanto il comportamento contraddittorio dell'amato/a sia esagerato, quasi comico nella sua assurdità.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1788923004230",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ZYub20fbt4Q",
+          "vid": true
+        },
+        {
+          "who": "",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ovXvhZyUpPA",
+          "vid": true
+        }
+      ],
       "date": "2026-09-09",
       "tgr": "Ζαχαρούλα",
       "tit": "Zacharùla",
@@ -16,11 +202,11 @@
       "yr": "",
       "ar": "",
       "lb": "",
-      "gn": "dimotikò Drama",
+      "gn": "dimotikò",
       "dr": "",
       "bal": "Zacharùla",
       "balgr": "Ζαχαρούλα",
-      "ll": "https://www.youtube.com/watch?v=ZYub20fbt4Q",
+      "ll": "",
       "li": "",
       "ch": "Ωρέ τι έχεις μωρ’ μάνα μάνα μ’ Ζαχαρούλα\nκαι μέρα νύχτα κλαις,\nκαι ‘μένα της μανούλας της μανούλας\nγιατί δε μου το λες.\n \n\nΖαχαρούλα (η) Ζαχαρούλα\nωρέ μου ραΐζεις την καρδούλα,\nωρέ μου ραΐζεις την καρδούλα\nΖαχαρούλα (η) Ζαχαρούλα.\n\n\nΩρέ τι να σου πω μωρ’ μάνα μωρέ μάνα\n(χώι) πως να σου το πω,\nεκείνον π’ αγαπάω μωρέ μάνα\nθέλ’ να τον παντρευτώ.\n\nΩρέ μη με βασανίζεις άλλο\nΖαχαρούλα θα πεθάνω,\nΖαχαρούλα είν’ τ’ όνομά σου\nκαι γλυκό είν’ το φίλημα σου.",
       "tr": "Zacharúla\n\nOré ti échis mor' mána mána m' Zacharúla\nkie méra nýchta kles,\nkie 'ména tis manúlas tis manúlas\nghiatí de mu to les.\n\nZacharúla (i) Zacharúla\noré mu raízis tin kardúla,\noré mu raízis tin kardúla\nZacharúla (i) Zacharúla.\n\nOré ti na su po mor' mána moré mána\n(chói) pos na su to po,\nekínon p' agapáo moré mána\nthel' na ton pandreftó.\n\nOré mi me vasanízis állo\nZacharúla tha petháno,\nZacharúla in' t' ónomá su\nkie glykó in' to fílima su.",
@@ -14059,6 +14245,79 @@
       "listen": "",
       "photo": "",
       "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788932039445",
+      "name": "Γιώργος Σαμολαδάς",
+      "nameit": "Ghiorgos Samolàdas",
+      "born": "22 luglio 1922, Trikala",
+      "died": "28 marzo1999, Trikala",
+      "bio": "Le origini: Nacque a Trikala nel 1922, crescendo nello storico quartiere popolare di Bara. L'arrivo dei profughi in seguito alla catastrofe dell'Asia Minore segnò profondamente il panorama sonoro della sua infanzia. )La guerra e l'invalidità: Durante la seconda guerra mondiale e i successivi conflitti in Grecia, prestò servizio come sottotenente di complemento. Rimase gravemente ferito all'addome dallo scoppio di un colpo di mortaio, un trauma che lo segnò con un'invalidità di guerra.(Gli studi in Svezia: Nonostante le difficoltà fisiche, si laureò nel 1947. Nel 1950 vinse una borsa di studio statale e si trasferì a Stoccolma per studi di specializzazione post-laurea. In Svezia si distinse non solo per i brillanti risultati accademici, ma anche per la sua determinazione nel continuare l'attività atletica agonistica a dispetto delle ferite di guerra. Il successo nel laïkóTornato in Grecia, Samoladas divenne uno dei pilastri della straordinaria \"scuola di Trikala\", che ha dato i natali a giganti della musica greca come Vasilis Tsitsanis e Apostolos Kaldaras.Fu proprio il sodalizio artistico con il compositore Apostolos Kaldaras a produrre alcuni dei più grandi capolavori del genere. I suoi testi, dominati dai temi della nostalgia, dell'emigrazione e delle fatiche quotidiane, vennero interpretati dalle voci più iconiche del Paese): Grigoris Bithikotsis (interprete di «Όσο φτηνό κρασί κι αν πιω»), Panos Gavalas e Kaiti Grey.\nSchivo, colto e lontano dai riflettori della mondanità, Samoladas ha vissuto gran parte della sua vita con grande umiltà, spegnendosi nella sua città natale nel marzo del 1999.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/samodalas.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1788932673218",
+      "name": "Πάνος Γαβαλάς",
+      "nameit": "Pànos Gavalàs",
+      "born": "26 novembre 1926, Atene",
+      "died": "3 dicembre 1988, Atene",
+      "bio": "E' stato uno dei più straordinari e carismatici cantanti, compositori e musicisti laïká della storia greca. Dotato di una voce inconfondibile, profonda e leggermente fumosa, Gavalas ha incarnato l'anima genuina della musica popolare, cantando le gioie, i dolori e i sacrifici della classe operaia del dopoguerra.\nNacque ad Atene, nella zona di Mets (all'epoca nota come Vattrachonisi), da genitori originari delle isole (padre di Folegandros e madre di Ikaria). \nFin da piccolo si appassionò alla musica imparando a suonare l'armonica a bocca e la chitarra hawaiana, facendo serenate per i quartieri. \nDurante gli anni difficili dell'occupazione tedesca nella seconda guerra mondiale, si unì attivamente alle file della resistenza greca con l'ELAS.\nPer mantenere la famiglia prima del successo, svolse i mestieri più disparati: al mattino lavorava come calzolaio, barbiere, pescatore, saldatore e scaricatore, mentre la sera si esibiva nelle piccole taverne popolari. Proprio fornendo il pesce fresco al rinomato locale Falirikon nel 1950, ottenne l'opportunità di salire sul palco come suonatore di bouzouki.\nGavalas emerse sulla scena professionale nei primi anni '50, un'epoca dominata da giganti come Stelios Kazantzidis e Grigoris Bithikotsis. Riuscì a imporsi subito grazie al suo stile elegante ma profondamente caloroso.\nFormò con la cantante Ria Kourti uno dei duetti canori più celebri, longevi e amati della musica greca, dominando i palchi dei club e i set dei film dell'epoca d'oro del cinema greco.\nFu un pioniere anche nel business musicale. Per sfuggire al monopolio delle grandi etichette dell'epoca, fondò la propria casa discografica indipendente, la Sonata.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/gavalasp.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1788933408479",
+      "name": "Ρία Κούρτη",
+      "nameit": "Rìa Kùrti",
+      "born": "5 agosto 1932, Atene",
+      "died": "",
+      "bio": "Pseudonimo artistico di Eleftheria Dimitriadi-Kourmazou, una delle più grandi e amate voci di seconda parte (sigontaro) e interpreti della musica laïká e rebetika.\nSebbene abbia inciso splendidi brani come solista, la sua fama è indissolubilmente legata alla sua straordinaria dote di \"spalla\" vocale: la sua voce riusciva ad arricchire, sostenere e rendere unici i timbri dei più grandi cantanti uomini dell'epoca, in primis Panos Gavalas.\nNata e cresciuta ad Atene, manifestò fin da giovanissima un talento naturale per il canto. La sua famiglia aveva radici storiche legate ai profughi di Ayvalık (Asia Minore).\nEntrò nel mondo della discografia giovanissima. Inizialmente si presentò con il nome di Ritsa Demetriadou e partecipò come seconda voce a registrazioni storiche, tra cui spiccano le primissime collaborazioni con un giovane Grigoris Bithikotsis.\nAlla fine degli anni '50 l'incontro con Panos Gavalas cambiò per sempre la sua carriera e la storia della musica greca. Insieme formarono il duetto più longevo, affiatato e imitato della musica popolare.Il duo divenne una presenza fissa nei film musicali degli anni '60 (la Golden Age del cinema greco). Memorabili le loro apparizioni in pellicole cult come To Katharma (1963) cantando «Κάθε λιμάνι και καημός» e Lola (1964) di Yannis Dalianidis, dove interpretarono «Όνειρο δεμένο».\nRia Kourti è sempre stata descritta dai colleghi come una professionista impeccabile, umile e priva di manie di protagonismo, preferendo la qualità artistica alla luce dei riflettori solisti. Oggi, superata la soglia dei 90 anni, vive ritirata a vita privata ma circondata dal rispetto devoto di tutto il mondo culturale greco.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ria.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788949012142",
+      "name": "Αλίκη Καγιαλόγλου",
+      "nameit": "Alíki Kagialóglou",
+      "born": "8 luglio 1947, Atene",
+      "died": "",
+      "bio": "Nome completo: Alíki (Alexándra-Evanthía) Kagialóglou\n\nNata da genitori originari di Smirne e Costantinopoli\n\nCantante greca con carriera internazionale. Studiò canto come borsista al Conservatorio di Atene con Marika Kalfopoulou, e successivamente con Frangiskos Voutsinos e Spyros Sakkas. Collaborò con due dei più importanti compositori greci, Mikis Theodorakis e Manos Hatzidakis. Si esibisce dal 1982 in recital sia in Grecia che all'estero, interpretando testi di grandi poeti: Seferis, Elytis, Kavafis, Ritsos, Anagnostakis, Gatsos, Lorca.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kaghialoglu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1788949511892",
+      "name": "Νίκος Τσιλίφης",
+      "nameit": "Níkos Tsilífis",
+      "born": "1910",
+      "died": "1978",
+      "bio": "Maestro d'orchestra e compositore cefalonita, grande figura del canto corale greco, con una lunga carriera dedicata soprattutto a serenate (καντάδες) in stile ionico e composizioni corali. Tra le sue opere note: \"Καντάδες του παλιού καιρού\" (1965), \"Αν παρήλθον οι χρόνοι\" (con coro e mandolinata).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/tsilifis.jpg",
+      "roles": [
+        "am",
         "ar"
       ]
     }

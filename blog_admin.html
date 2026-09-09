@@ -200,7 +200,8 @@ body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14
         <div class="form-section"><label>Casa discografica</label>
           <div class="ac-wrap"><input type="text" id="sf-lb" autocomplete="off" oninput="acInGeneric('sf-lb',getLabelValues)" onfocus="acInGeneric('sf-lb',getLabelValues)" onblur="acHide('sf-lb')"><div class="ac-dd" id="ac-sf-lb"></div></div>
         </div>
-        <div class="form-section"><label>Genere</label><input type="text" id="sf-gn" list="gn-datalist" placeholder="es. Ρεμπέτικο, Laïká"><datalist id="gn-datalist"></datalist></div>
+        <div class="form-section"><label>Genere</label><input type="text" id="sf-gn" list="gn-datalist" placeholder="es. Ρεμπέτικο, Laïká, Dimotikò"><datalist id="gn-datalist"></datalist></div>
+        <div class="form-section"><label>Zona/Provenienza (solo per Dimotikò)</label><input type="text" id="sf-zona" list="zona-datalist" placeholder="es. Creta, Epiro, Cicladi"><datalist id="zona-datalist"></datalist></div>
         <div class="form-section"><label>Dromos</label>
           <div class="ac-wrap"><input type="text" id="sf-dr" placeholder="es. Ousak, Hijaz, Rast" autocomplete="off" oninput="acInGeneric('sf-dr',getDromosValues)" onfocus="acInGeneric('sf-dr',getDromosValues)" onblur="acHide('sf-dr')"><div class="ac-dd" id="ac-sf-dr"></div></div>
         </div>
@@ -617,7 +618,7 @@ function populateBalDatalist(){
 function openSongForm(prefill){
   editingSongId=null;tempExecutions=[];
   g('song-form-mode-label').textContent='Nuova canzone';
-  ['sf-tgr','sf-tit','sf-alias','sf-at','sf-am','sf-yr','sf-ar','sf-lb','sf-gn','sf-dr','sf-bal','sf-ll','sf-li','sf-ch','sf-tr','sf-ti','sf-no','sf-ew','sf-ey','sf-en'].forEach(id=>{const e=g(id);if(e)e.value='';});
+  ['sf-tgr','sf-tit','sf-alias','sf-at','sf-am','sf-yr','sf-ar','sf-lb','sf-gn','sf-zona','sf-dr','sf-bal','sf-ll','sf-li','sf-ch','sf-tr','sf-ti','sf-no','sf-ew','sf-ey','sf-en'].forEach(id=>{const e=g(id);if(e)e.value='';});
   const _bv=g('sf-balvid'); if(_bv) _bv.checked=false;
   if(g('sf-el'))g('sf-el').value='';
   if(prefill&&prefill.name){g('pf-name').value=prefill.name;}
@@ -632,7 +633,7 @@ function editSong(id){
   const s=songs.find(x=>x.id===id);if(!s)return;
   editingSongId=id;tempExecutions=[...(s.executions||[])];
   g('song-form-mode-label').textContent='Modifica: '+s.tgr;
-  [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{const e=g(f);if(e)e.value=s[k]||'';});
+  [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-zona','zona'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{const e=g(f);if(e)e.value=s[k]||'';});
   {const _bv=g('sf-balvid'); if(_bv) _bv.checked=!!s.balvid;}
   ['sf-ew','sf-ey','sf-en','sf-el'].forEach(id=>{const e=g(id);if(e)e.value='';});
   renderSfExecList();
@@ -666,7 +667,7 @@ function saveSong(){
       // La canzone non è stata trovata nell'array — la aggiunge come nuova
       // (può succedere se i dati sono stati reinizializzati)
       const s={id:editingSongId,offsets:{},executions:[...tempExecutions],date:new Date().toISOString().slice(0,10)};
-      [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
+      [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-zona','zona'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
       {const _bv=g('sf-balvid'); s.balvid = _bv ? _bv.checked : false;}
       songs.unshift(s);
       sv();
@@ -693,7 +694,7 @@ function saveSong(){
   } else {
     // Nuova canzone
     const s={id:'s_'+Date.now(),offsets:{},executions:[...tempExecutions],date:new Date().toISOString().slice(0,10)};
-    [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
+    [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-zona','zona'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
       {const _bv=g('sf-balvid'); s.balvid = _bv ? _bv.checked : false;}
     songs.unshift(s);
     sv();
