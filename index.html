@@ -1788,12 +1788,15 @@ function renderTab(){
     });
     e.innerHTML=ex.length?ex.map(function(x){
       var lnk=x.link?'<a class="lbtn" href="'+esc(x.link)+'" target="_blank" style="margin-left:auto">&#9654; Ascolta</a>':'';
-      var whoLink=x.who;
+      var vidBadge=x.vid?' <span title="video con ballo" style="font-size:12px">💃</span>':'';
+      var whoDisplay=x.who||'(senza nome)';
+      var whoLink=whoDisplay;
       // Cerca persona in rubrica per nome o nameit
       var pMatch=persons.filter(function(p){return p.name===x.who||p.nameit===x.who;})[0];
-      if(pMatch) whoLink='<span class="plnk" onclick="goPersona(\''+pMatch.id+'\')">'+esc(x.who)+'</span>';
-      else whoLink='<span class="plnk" onclick="goPersonaByName(\''+x.who.replace(/\'/g,"\\'")+'\')" >'+esc(x.who)+'</span>';
-      return '<div style="padding:.4rem .6rem;background:var(--s2);border-radius:var(--rad);border:1px solid var(--bor);font-size:12px;margin-bottom:4px;display:flex;align-items:center;gap:8px"><div style="flex:1"><strong>'+whoLink+'</strong>'+(x.year?' · '+x.year:'')+(x.note?' — '+esc(x.note):'')+'</div>'+lnk+'</div>';
+      if(x.who&&pMatch) whoLink='<span class="plnk" onclick="goPersona(\''+pMatch.id+'\')">'+esc(whoDisplay)+'</span>';
+      else if(x.who) whoLink='<span class="plnk" onclick="goPersonaByName(\''+x.who.replace(/\'/g,"\\'")+'\')" >'+esc(whoDisplay)+'</span>';
+      else whoLink=esc(whoDisplay);
+      return '<div style="padding:.4rem .6rem;background:var(--s2);border-radius:var(--rad);border:1px solid var(--bor);font-size:12px;margin-bottom:4px;display:flex;align-items:center;gap:8px"><div style="flex:1"><strong>'+whoLink+'</strong>'+vidBadge+(x.year?' · '+x.year:'')+(x.note?' — '+esc(x.note):'')+'</div>'+lnk+'</div>';
     }).join(''):'<p style="color:var(--t3)">Nessuna versione.</p>';
   }
 }

@@ -234,6 +234,7 @@ body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14
           <input id="sf-ey" style="max-width:64px" placeholder="Anno">
           <input id="sf-en" placeholder="Note">
           <input id="sf-el" placeholder="Link ascolto (URL)" style="flex:2">
+          <label style="display:flex;align-items:center;gap:4px;font-size:12px;white-space:nowrap"><input type="checkbox" id="sf-ev" style="width:15px;height:15px"> video ballo</label>
           <button onclick="addSongExec()">+ Aggiungi</button>
         </div>
       </div>
@@ -642,7 +643,7 @@ function editSong(id){
 }
 function delSong(id){if(!confirm('Eliminare questa canzone?'))return;songs=songs.filter(s=>s.id!==id);sv();renderAdminSongs();}
 function renderSfExecList(){
-  g('sf-exec-list').innerHTML=tempExecutions.map((e,i)=>`<div class="exec-form-item"><span style="font-weight:700">${esc(e.who)}</span> <span style="color:var(--t3);font-size:11px">${e.year?'· '+e.year:''} ${e.note?'— '+e.note:''}</span>${e.link?`<a href="${esc(e.link)}" target="_blank" style="font-size:11px;color:var(--acc);margin-left:6px">▶</a>`:''}<button class="abtn" style="padding:1px 7px;font-size:11px;margin-left:6px" onclick="editSfExec(${i})">✎</button><button class="exec-del" onclick="delSfExec(${i})">✕</button></div>`).join('');
+  g('sf-exec-list').innerHTML=tempExecutions.map((e,i)=>`<div class="exec-form-item"><span style="font-weight:700">${esc(e.who||'(senza nome)')}</span> <span style="color:var(--t3);font-size:11px">${e.year?'· '+e.year:''} ${e.note?'— '+e.note:''}</span>${e.vid?' <span title="video ballo" style="font-size:12px">💃</span>':''}${e.link?`<a href="${esc(e.link)}" target="_blank" style="font-size:11px;color:var(--acc);margin-left:6px">▶</a>`:''}<button class="abtn" style="padding:1px 7px;font-size:11px;margin-left:6px" onclick="editSfExec(${i})">✎</button><button class="exec-del" onclick="delSfExec(${i})">✕</button></div>`).join('');
 }
 function editSfExec(i){
   const e=tempExecutions[i];
@@ -651,10 +652,11 @@ function editSfExec(i){
   if(g('sf-ey')) g('sf-ey').value=e.year||'';
   if(g('sf-en')) g('sf-en').value=e.note||'';
   if(g('sf-el')) g('sf-el').value=e.link||'';
+  if(g('sf-ev')) g('sf-ev').checked=!!e.vid;
   tempExecutions.splice(i,1);
   renderSfExecList();
 }
-function addSongExec(){const who=gv('sf-ew');if(!who)return;tempExecutions.push({who,year:gv('sf-ey'),note:gv('sf-en'),link:gv('sf-el')});g('sf-ew').value='';g('sf-ey').value='';g('sf-en').value='';g('sf-el').value='';renderSfExecList();}
+function addSongExec(){const who=gv('sf-ew')||'';const vid=g('sf-ev')?g('sf-ev').checked:false;tempExecutions.push({who,year:gv('sf-ey'),note:gv('sf-en'),link:gv('sf-el'),vid});g('sf-ew').value='';g('sf-ey').value='';g('sf-en').value='';g('sf-el').value='';if(g('sf-ev'))g('sf-ev').checked=false;renderSfExecList();}
 function delSfExec(i){tempExecutions.splice(i,1);renderSfExecList();}
 function saveSong(){
   const tgr=gv('sf-tgr');if(!tgr){showAlert('song-form-alert','Inserisci il titolo in greco.','err');return;}
