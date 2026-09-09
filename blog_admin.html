@@ -209,6 +209,7 @@ body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14
       </div>
       <div class="form-grid">
         <div class="form-section"><label>Link ascolto</label><input type="url" id="sf-ll"></div>
+        <div class="form-section"><label style="display:flex;align-items:center;gap:6px;font-weight:400"><input type="checkbox" id="sf-balvid" style="width:16px;height:16px"> Il video mostra il ballo (utile per lezioni)</label></div>
         <div class="form-section"><label>Link spiegazione</label><input type="url" id="sf-li"></div>
       </div>
       <div class="form-section">
@@ -616,6 +617,7 @@ function openSongForm(prefill){
   editingSongId=null;tempExecutions=[];
   g('song-form-mode-label').textContent='Nuova canzone';
   ['sf-tgr','sf-tit','sf-alias','sf-at','sf-am','sf-yr','sf-ar','sf-lb','sf-gn','sf-dr','sf-bal','sf-ll','sf-li','sf-ch','sf-tr','sf-ti','sf-no','sf-ew','sf-ey','sf-en'].forEach(id=>{const e=g(id);if(e)e.value='';});
+  const _bv=g('sf-balvid'); if(_bv) _bv.checked=false;
   if(g('sf-el'))g('sf-el').value='';
   if(prefill&&prefill.name){g('pf-name').value=prefill.name;}
   renderSfExecList();
@@ -630,6 +632,7 @@ function editSong(id){
   editingSongId=id;tempExecutions=[...(s.executions||[])];
   g('song-form-mode-label').textContent='Modifica: '+s.tgr;
   [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{const e=g(f);if(e)e.value=s[k]||'';});
+  {const _bv=g('sf-balvid'); if(_bv) _bv.checked=!!s.balvid;}
   ['sf-ew','sf-ey','sf-en','sf-el'].forEach(id=>{const e=g(id);if(e)e.value='';});
   renderSfExecList();
   populateGnDatalist();
@@ -662,6 +665,7 @@ function saveSong(){
       // (può succedere se i dati sono stati reinizializzati)
       const s={id:editingSongId,offsets:{},executions:[...tempExecutions],date:new Date().toISOString().slice(0,10)};
       [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
+      {const _bv=g('sf-balvid'); s.balvid = _bv ? _bv.checked : false;}
       songs.unshift(s);
       sv();
       showAlert('song-form-alert','Canzone salvata come nuova (id precedente non trovato).','ok');
@@ -688,6 +692,7 @@ function saveSong(){
     // Nuova canzone
     const s={id:'s_'+Date.now(),offsets:{},executions:[...tempExecutions],date:new Date().toISOString().slice(0,10)};
     [['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']].forEach(([f,k])=>{s[k]=gv(f);});
+      {const _bv=g('sf-balvid'); s.balvid = _bv ? _bv.checked : false;}
     songs.unshift(s);
     sv();
     showAlert('song-form-alert','✓ Canzone salvata!','ok');
