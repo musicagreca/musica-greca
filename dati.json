@@ -1,8 +1,124 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-09T10:26:15.484Z",
+  "exportedAt": "2026-09-09T14:31:50.774Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1788964305006",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=nuKWoH-MiRk",
+          "vid": true
+        },
+        {
+          "who": "",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=4OOXS7JUN9Y",
+          "vid": true
+        }
+      ],
+      "date": "2026-09-09",
+      "tgr": "Φουρλάνα",
+      "tit": "Furlàna",
+      "alias": "",
+      "at": "",
+      "am": "",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "zona": "Corfù",
+      "dr": "",
+      "bal": "Furlàna",
+      "balgr": "Φουρλάνα",
+      "ll": "",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1788964080647",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=cZAcIjYtydw",
+          "vid": true
+        }
+      ],
+      "date": "2026-09-09",
+      "tgr": "Αλωνιώτικος",
+      "tit": "Aloniòtikos",
+      "alias": "Τσότσο",
+      "at": "",
+      "am": "",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "zona": "Florina",
+      "dr": "",
+      "bal": "Aloniòtikos",
+      "balgr": "Ομορφούλα",
+      "ll": "https://www.youtube.com/watch?v=7gfirSS_VBI",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1788962912853",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=jd1XIg19b8E",
+          "vid": true
+        },
+        {
+          "who": "",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Jm6pIOsOQ80",
+          "vid": true
+        }
+      ],
+      "date": "2026-09-09",
+      "tgr": "Ομορφούλα",
+      "tit": "Omorfùla",
+      "alias": "",
+      "at": "",
+      "am": "",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "zona": "Florina",
+      "dr": "",
+      "bal": "Omorfùla",
+      "balgr": "Ομορφούλα",
+      "ll": "",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "",
+      "no": "Regione di Florina: La danza Omorfoula probabilmente prende il nome dalle parole di una canzone che purtroppo non è sopravvissuta fino ad oggi. Si balla in un cerchio aperto con le mani intrecciate ai polsi, ma si balla anche con i gomiti piegati e i polsi all'altezza delle spalle. La danza è vivace, saltellante e veloce, caratteristiche tipiche di quasi tutte le danze della prefettura di Florina. \"Questa è la danza del flauto. La ballavamo la domenica intorno al grande pioppo quando si riunivano ragazzi e ragazze...\", racconta Tsakris Theodoros di Skopos Florina. E ancora oggi si può sentire la melodia del flauto.",
+      "balvid": false
+    },
     {
       "id": "s_1788949570364",
       "offsets": {},
