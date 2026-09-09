@@ -618,7 +618,7 @@ function populateBalDatalist(){
 function openSongForm(prefill){
   editingSongId=null;tempExecutions=[];
   g('song-form-mode-label').textContent='Nuova canzone';
-  ['sf-tgr','sf-tit','sf-alias','sf-at','sf-am','sf-yr','sf-ar','sf-lb','sf-gn','sf-zona','sf-dr','sf-bal','sf-ll','sf-li','sf-ch','sf-tr','sf-ti','sf-no','sf-ew','sf-ey','sf-en'].forEach(id=>{const e=g(id);if(e)e.value='';});
+  ['sf-tgr','sf-tit','sf-alias','sf-at','sf-am','sf-yr','sf-ar','sf-lb','sf-gn','sf-zona','sf-dr','sf-bal','sf-balgr','sf-ll','sf-li','sf-ch','sf-tr','sf-ti','sf-no','sf-ew','sf-ey','sf-en'].forEach(id=>{const e=g(id);if(e)e.value='';});
   const _bv=g('sf-balvid'); if(_bv) _bv.checked=false;
   if(g('sf-el'))g('sf-el').value='';
   if(prefill&&prefill.name){g('pf-name').value=prefill.name;}
