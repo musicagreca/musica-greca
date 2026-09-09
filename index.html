@@ -184,6 +184,9 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
 .arg-img-link.imgL{text-align:left}
 .arg-img-link.imgC{text-align:center}
 .arg-img-link.imgR{text-align:right}
+.arg-img-row{display:flex;flex-wrap:wrap;gap:8px;margin:.5rem 0;justify-content:center}
+.arg-img-row .arg-img-row-item{flex:1 1 30%;min-width:90px;max-width:calc(33.333% - 6px);text-align:center}
+.arg-img-row .arg-img-row-item img{max-width:100%;max-height:220px;border-radius:var(--rad);border:1px solid var(--bor)}
 .arg-inline-img{max-width:100%;max-height:340px;border-radius:var(--rad);display:inline-block;border:1px solid var(--bor)}
 .arg-link-btn:hover{background:var(--acc);color:#fff}
 .arg-link-ico{font-size:11px}
@@ -717,6 +720,13 @@ function formatArgBody(raw){
   }
   function inlineFormat(s){
     var out = esc(s);
+    out = out.replace(/\{\{imgrow:([^}]+)\}\}/g, function(m, urls){
+      var list = urls.split('|').map(function(u){return u.trim();}).filter(Boolean);
+      var items = list.map(function(u){
+        return '<span class="arg-img-row-item"><a href="'+u+'" target="_blank" rel="noopener"><img src="'+u+'" loading="lazy" alt=""></a></span>';
+      }).join('');
+      return '<span class="arg-img-row">'+items+'</span>';
+    });
     out = out.replace(/\{\{img:([^|}]+)\|(sinistra|centro|destra)\}\}/g, function(m, url, align){
       return linkOrImg(url.trim(), align);
     });
