@@ -1,8 +1,63 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-10T05:39:34.519Z",
+  "exportedAt": "2026-09-10T06:57:30.982Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789021472199",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γρηγόρης Μπιθικώτσης, Ρία Κούρτη",
+          "year": "1963",
+          "note": "Ghiorgos Zambetas al bouzouki",
+          "link": "https://www.youtube.com/watch?v=DOcleY7LViM",
+          "vid": false
+        },
+        {
+          "who": "Κώστας Χατζής",
+          "year": "1964",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=yNTmiMQMS0I",
+          "vid": false
+        },
+        {
+          "who": "Karl Zero",
+          "year": "2000",
+          "note": "in greco da interprete francese",
+          "link": "https://www.youtube.com/watch?v=762LHqdeBCs",
+          "vid": false
+        },
+        {
+          "who": "Vasilija Radojčić",
+          "year": "1966",
+          "note": "in serbo croato",
+          "link": "https://www.youtube.com/watch?v=F_Vbv7P_3r4",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-10",
+      "tgr": "Βάρκα στο γιαλό",
+      "tit": "Vàrka sto ghialò",
+      "alias": "",
+      "at": "Μίκης Θεοδωράκης",
+      "am": "Μίκης Θεοδωράκης",
+      "yr": "1963",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "Chasaposèrvikos",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "SOL                          LAm           RE\nΠέντε-πέντε δέκα, δέκα-δέκα ανεβαίνω τα σκαλιά\n    LAm            RE    LAm     RE    SOL\nΓια τα δυο σου μάτια, για τις δυο φωτιές\n SOL           LAm        RE      SOL\nπου όταν με κοιτάζουν νιώθω μαχαιριές\n\nSOL           DO     RE     SOL\nΒάρκα στο γιαλό, βάρκα στο γιαλό\nSOL           DO     RE     SOL\nγλάστρα με ζουμπούλι και βασιλικό\n\nSOL                          LAm           RE\nΠέντε-πέντε δέκα, δέκα-δέκα θα σου δίνω τα φιλιά\n    LAm            RE    LAm     RE    SOL\nΚι όταν σε μεθύσω κι όταν θα σε πιω\n SOL           LAm        RE      SOL\nθα σε νανουρίσω με γλυκό σκοπό\n\nSOL           DO     RE     SOL\nΒάρκα στο γιαλό, βάρκα στο γιαλό\nSOL           DO     RE     SOL\nγλάστρα με ζουμπούλι και βασιλικό\n\nSOL                          LAm           RE\nΠέντε-πέντε δέκα, δέκα-δέκα κατεβαίνω τα σκαλιά\n    LAm            RE    LAm     RE    SOL\nΦεύγω για τα ξένα, για την ξενιτιά\n SOL           LAm        RE      SOL\nκαι μην κλαις για μένα, αγάπη μου γλυκιά\n\nSOL           DO     RE     SOL\nΒάρκα στο γιαλό, βάρκα στο γιαλό\nSOL           DO     RE     SOL\nγλάστρα με ζουμπούλι και βασιλικό",
+      "tr": "Vàrka sto ghialò\n\nPénde-pénde déka, déka-déka anevéno ta skaliá\nGhia ta dio su mátia, ghia tis dio fotiés\npu ótan me kitázun niótho macheriés\n\nVárka sto ghialó, várka sto ghialó\ngklástra me zumbúli kie vasilikó\n\nPénde-pénde déka, déka-déka tha su díno ta filiá\nKi ótan se methíso ki ótan tha se pio\ntha se nanurísso me glykó skopó\n\nVárka sto ghialó...\n\nPénde-pénde déka, déka-déka katevéno ta skaliá\nFévgho ghia ta kséna, ghia tin ksenitiá\nkie min kles ghia ména, agápi mu glykiá\n\nVárka sto ghialó...",
+      "ti": "Barca sulla riva\n\nCinque-cinque dieci, dieci-dieci salgo le scale\nper i tuoi due occhi, per le due fiamme\nche quando mi guardano sento come pugnalate\n\nBarca sulla riva, barca sulla riva\nvaso con giacinto e basilico\n\nCinque-cinque dieci, dieci-dieci ti darò i baci\nE quando ti ubriacherò e quando ti berrò\nti cullerò con un motivo dolce\n\nBarca sulla riva...\n\nCinque-cinque dieci, dieci-dieci scendo le scale\nParto per l'estero, per l'emigrazione\ne non piangere per me, amore mio dolce\n\nBarca sulla riva...\n\nNote di traduzione\n\n\"Πέντε-πέντε δέκα, δέκα-δέκα\" — filastrocca/conta numerica popolare (simile ai nostri giochi infantili di conta), usata qui come ritmo cantilenante per scandire il salire/scendere le scale; non ha significato letterale profondo, è un gioco fonico-ritmico.\n\n\"νιώθω μαχαιριές\" — \"sento pugnalate\": iperbole per descrivere l'intensità dello sguardo dell'amata, paragonato a un dolore fisico acuto e improvviso, immagine ricorrente nella canzone d'amore greca per esprimere la potenza travolgente della passione.\n\n\"γλάστρα με ζουμπούλι και βασιλικό\" — \"vaso con giacinto e basilico\": immagine tipica del paesaggio domestico greco (i vasi di basilico sui balconi/finestre sono elemento tradizionale); il basilico in particolare ha valore simbolico di purezza e buon auspicio nella cultura popolare greca.\n\n\"κι όταν θα σε πιω\" — letteralmente \"e quando ti berrò\": metafora sensuale per indicare il desiderio di \"consumare\"/godere pienamente dell'amata, immagine di possesso amoroso intenso ma non volgare nel registro popolare.\n\n\"φεύγω για τα ξένα, για την ξενιτιά\" — \"parto per l'estero, per l'emigrazione\": tema ricorrente e centrale nella canzone popolare greca, la ξενιτιά (l'esilio/l'emigrazione forzata per motivi economici) come fonte di separazione dolorosa dagli affetti, spesso associata al pianto e alla promessa di ritorno.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1788964305006",
       "offsets": {},
@@ -14443,6 +14498,23 @@
       "roles": [
         "am",
         "ar"
+      ]
+    },
+    {
+      "id": "p_1789021050384",
+      "name": "Κώστας Χατζής",
+      "nameit": "Kóstas Chatzís",
+      "born": "13 agosto 1936, Livadeia (Beozia)",
+      "died": "",
+      "bio": "Cantante, cantautore e chitarrista, una delle voci più particolari e autentiche della canzone greca, riconoscibile per la sua caratteristica voce roca e per uno stile interpretativo unico che unì l'éntechno a temi di forte critica sociale, dando voce alle classi più povere.\n\nDi origini rom, appartenenti a una famiglia di musicisti tradizionali: il nonno Kostas Karagiannis fu uno dei più celebri clarinettisti dimotikó della sua epoca; il padre Evangelos Chatzis era virtuoso del santouri. A sedici anni cantava già insieme al padre a matrimoni, battesimi e altre feste.\n\nFu \"scoperto\" da grandi compositori dell'epoca — Manos Hatzidakis, Mimis Plessas, Mikis Theodorakis, Giannis Markopoulos, Stavros Xarhakos — che gli affidarono canzoni a cui lui imprimeva sempre la propria impronta personale.\n\nEbbe anni di grande difficoltà giovanile, raccontando in prima persona: \"Ho passato anni molto duri, dormivo sulle panchine.\" Ha avuto 6 figli. Tra gli album più noti: \"Ουαί\" (1973), \"Πέτρα και φως\" (1972), \"Ο γιος της άνοιξης\" (1974).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/chatzis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
       ]
     }
   ]
