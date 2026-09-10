@@ -1,8 +1,157 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-10T06:57:30.982Z",
+  "exportedAt": "2026-09-10T13:18:54.056Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789045965034",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δημήτρης Μητροπάνος",
+          "year": "1974",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=AW8t738R1mw",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-10",
+      "tgr": "Πες μου πού πουλάν καρδιές",
+      "tit": "Pes mou poù poulàn kardiés",
+      "alias": "",
+      "at": "Τάκης Μουσαφίρης",
+      "am": "Τάκης Μουσαφίρης",
+      "yr": "1974",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm        DOm          SOLm           REm\nΠες μου πού πουλάν καρδιές, να σου πάρω μια\nΠες μου πού πουλάν χαρές, να σου πάρω δυο\nREm        DOm          SOLm           REm\nΠες μου πού πουλάν ψυχές, να σου πάρω μια\nREm         DOm        SOLm   DOm    REm\nΠού πουλάν αητόφτερα, να σου πάρω δυο\n\nREm   LA#    DOm     REm\nΘέλω να 'χεις δυο καρδιές\nREm        LA#    DOm         REm\nν' αγα-, ν' αγαπάς διπλά τον κόσμο\nFA                        DOm              REm\nΘέλω να 'χεις δυο ψυχές, γιομάτες να 'ναι δυόσμο\n REm   DOm    REm\nΘέλω να 'σαι αετός\nREm   DOm    REm\nΘέλω να 'σαι αετός\n\n\nREm        DOm          SOLm           REm\nΠες μου πού πουλάν καρδιές, να σου πάρω μια\nREm         DOm        SOLm   DOm    REm\nΠες μου πού πουλάν ψυχές, να σου πάρω δυο\nREm        DOm          SOLm           REm\nΠού πουλάν τις Κυριακές, τις γιορτές, τις σχόλες\nREm         DOm        SOLm   DOm    REm\nΠες μου πού πουλάν χαρές, να στις πάρω όλες\n\n\nREm   LA#    DOm     REm\nΘέλω να 'σαι αετός, σ' αψη-, \nREm        LA#    DOm         REm\nσ' αψηλά να πας λημέρια\nFA                        DOm              REm\nΤο κρασί σου ήλιου φως και να κερνάς τ' αστέρια\n REm   DOm    REm\nΘέλω να 'σαι αετός\n REm   DOm    REm\nΘέλω να 'σαι αετός",
+      "tr": "Pes mou poù poulàn kardiés\n\nPes mu pu pulán kardiés, na su páro mia\nPes mu pu pulán charés, na su páro dio\nPes mu pu pulán psychés, na su páro mia\nPu pulán aitóftera, na su páro dio\n\nThélo na 'chis dio kardiés\nn' agha-, n' aghapás diplá ton kósmo\nThélo na 'chis dio psychés, ghomátes na 'ne diósmo\nThélo na 'se aetós\nThélo na 'se aetós\n\nPes mu pu pulán kardiés, na su páro mia\nPes mu pu pulán psychés, na su páro dio\nPu pulán tis Kiriakés, tis ghiortés, tis schóles\nPes mu pu pulán charés, na stis páro óles\n\nThélo na 'se aetós, s' apsi-, s' apsilá na pas limméria\nTo krasí su ílio fos kie na kernás t' astéria\nThélo na 'se aetós\nThélo na 'se aetós",
+      "ti": "Dimmi dove vendono cuori\n\nDimmi dove vendono cuori, che te ne compri uno\nDimmi dove vendono gioie, che te ne compri due\nDimmi dove vendono anime, che te ne compri una\nDove vendono ali d'aquila, che te ne compri due\n\nVoglio che tu abbia due cuori\nper amare doppiamente il mondo\nVoglio che tu abbia due anime, piene di menta fresca\nVoglio che tu sia un'aquila\nVoglio che tu sia un'aquila\n\nDimmi dove vendono cuori, che te ne compri uno\nDimmi dove vendono anime, che te ne compri due\nDove vendono le domeniche, le feste, i giorni liberi\nDimmi dove vendono gioie, che te le compri tutte\n\nVoglio che tu sia un'aquila, che tu voli in alto verso i tuoi rifugi\nChe il tuo vino sia luce di sole e che tu offra da bere alle stelle\nVoglio che tu sia un'aquila\nVoglio che tu sia un'aquila\n\nNote di traduzione\n\n\"αητόφτερα\" — \"penne/ali d'aquila\" (da αετός, aquila): immagine simbolica di libertà, forza e slancio verso l'alto, tema che culmina nel ritornello con l'invocazione \"θέλω να 'σαι αετός\" (voglio che tu sia un'aquila) — figura ricorrente nella poesia greca come emblema di grandezza d'animo e libertà.\n\n\"γιομάτες να 'ναι δυόσμο\" — \"che siano piene di menta\": il δυόσμος (menta) nella cultura popolare greca è associato a freschezza, purezza e buon profumo; qui è metafora per un'anima piena di freschezza vitale e autenticità.\n\n\"σ' αψηλά να πας λημέρια\" — \"che tu vada in alto verso i tuoi rifugi/le tue tane\" (λημέρι = rifugio, tana, spesso riferito storicamente ai nascondigli dei ribelli/klefti sulle montagne): l'immagine unisce il volo dell'aquila verso le vette a un rifugio elevato e libero, richiamando anche l'immaginario dei ribelli greci che vivevano tra le montagne.\n\n\"Το κρασί σου ήλιου φως και να κερνάς τ' αστέρια\" — \"che il tuo vino sia luce di sole e che tu offra da bere alle stelle\": immagine poetica iperbolica di grandezza e generosità cosmica, dove il protagonista (paragonato all'aquila) è invitato a vivere in modo così elevato e luminoso da poter \"offrire vino\" persino alle stelle — espressione di aspirazione a una vita piena e magnanima.\n\n\"Πού πουλάν τις Κυριακές, τις γιορτές, τις σχόλες\" — \"dove vendono le domeniche, le feste, i giorni di vacanza\": la ricerca immaginaria di \"comprare\" tempo libero e gioia sottolinea, con leggerezza poetica, il desiderio di una vita piena di momenti felici, in contrasto con la quotidianità faticosa.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789044735610",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-10",
+      "tgr": "Γέλαγε η Μαρία",
+      "tit": "Ghiélage i María",
+      "alias": "",
+      "at": "Λευτέρης Παπαδόπουλος",
+      "am": "Μίμης Πλέσσας",
+      "yr": "1969",
+      "ar": "Γιάννης Πουλόπουλος",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=hylvt0GbXB0",
+      "li": "",
+      "ch": "SOL          LA    LA7    RE\nΚύλαγε το τσέρκι στην οδό Φυλής\nLA7        LA         LA7     RE\nΆστραφτε στον ήλιο κάποια τζαμαρία\nSOL          LA    LA7    RE\nΆρπαζες την πέτρα δίχως να σκεφτείς\nLA7        LA         LA7     RE\nΤίναζες το χέρι, κάτω η τζαμαρία\nSOL      LA    LA7    RE\nΓέλαγε η Μαρία, η Μαρί-α\n\n\nSOL          LA    LA7    RE\nΚόβαμε διχάλες απ' τη μυγδαλιά\nLA7        LA         LA7     RE\nΕίχαμε ρημάξει τη φτωχή πλατεία\nSOL          LA    LA7    RE\nΈβαζες σημάδι γλόμπους και πουλιά\nLA7        LA         LA7     RE\nκαι του κυρ' Αλέκου τη χοντρή κυρία\nSOL      LA    LA7    RE\nΓέλαγε η Μαρία, η Μαρία\n\n\nSOL          LA    LA7    RE\nΠάνω στο πατίνι με τα ρουλεμάν\nLA7        LA         LA7     RE\nτρέλαινες τον κόσμο απ' τη φασαρία\nSOL          LA    LA7    RE\nΟι νοικοκυραίοι φώναζαν αμάν\nLA7        LA         LA7     RE\nΛέγαν θα καλέσουν την αστυνομία\nSOL      LA    LA7    RE\nΓέλαγε η Μαρία, η Μαρία",
+      "tr": "Ghiélage i María\n\nKìlaghe to tzérki stin odó Fylís\nÁstrafte ston ílio kápia tzamaría\nÁrpazes tin pétra díchos na skeftís\nTínazes to chéri, káto i tzamaría\nGhiélage i María, i María\n\nKóvame dichláles ap' ti myghdaliá\nÍchame rimáksi ti ftochí platía\nÉvazes simádi ghlómbus kie pulliá\nkie tu kir' Alékou ti chondrí kiría\nGhélaghe i María, i María\n\nPáno sto patíni me ta rulemán\ntrélines ton kósmo ap' ti fasaría\nI nikokiréi fónazan amán\nLéghan tha kalésun tin astinomía\nGhiélaghe i María, i María",
+      "ti": "Rideva Maria\n\nRotolava il cerchio nella via Filis\nBrillava al sole una qualche vetrata\nAfferravi la pietra senza pensarci\nScagliavi la mano, giù la vetrata\nRideva Maria, Maria\n\nTagliavamo forcelle dal mandorlo\nAvevamo devastato la povera piazza\nPrendevi di mira lampioni e uccelli\ne la grassa signora del signor Alekos\nRideva Maria, Maria\n\nSopra il pattino con i cuscinetti a sfera\nfacevi impazzire la gente con il frastuono\nI capifamiglia gridavano \"aman!\"\nDicevano che avrebbero chiamato la polizia\nRideva Maria, Maria\n\nNote di traduzione\n\n\"τσέρκι\" — cerchio di legno o metallo, gioco tradizionale infantile in cui i bambini lo facevano rotolare per strada spingendolo con un bastone; gioco tipico dell'infanzia di strada greca di metà '900.\n\n\"τζαμαρία\" — vetrata/finestrone di vetro; qui indica probabilmente la vetrina di un negozio colpita per gioco (o dispetto) dai ragazzi con le pietre.\n\n\"διχάλες απ' τη μυγδαλιά\" — \"forcelle dal mandorlo\": rami biforcuti di mandorlo usati per costruire fionde artigianali (tirapietre), gioco/attrezzo tipico dei bambini di strada per colpire bersagli come lampioni e uccelli, coerente col resto della strofa.\n\n\"γλόμπους\" — dal francese/italiano \"globo\" (qui riferito ai lampioni a globo di vetro), presi di mira dai ragazzi con le fionde; altro dettaglio delle \"marachelle\" tipiche raccontate nella canzone.\n\n\"αμάν\" — qui non è il vocalizzo musicale di lamento (come nelle canzoni rebetiko), ma un'esclamazione colloquiale di esasperazione (\"basta!\", \"che pazienza!\") usata dai vicini di casa infastiditi dal chiasso dei ragazzi.\n\n\"ρουλεμάν\" — dal francese \"roulement\" (cuscinetto a sfera): materiale usato dai ragazzi per costruire pattini/monopattini artigianali, gioco di strada molto diffuso tra i bambini greci dell'epoca (anni '50-'60), spesso rumoroso proprio per i cuscinetti metallici sull'asfalto.\n\n\"νοικοκυραίοi\" — \"i capifamiglia/i padroni di casa\" (da νοικοκύρης): qui indica genericamente gli adulti/residenti \"per bene\" del quartiere, infastiditi dal comportamento chiassoso e monello dei ragazzini, in contrasto con la spensieratezza descritta nella canzone.",
+      "no": "Traccia d'apertura (Lato A, brano 1) dello storico album in vinile \"Ο Δρόμος\" (1969, etichetta Lyra) — il primissimo disco d'oro della storia discografica greca, e tuttora detentore del record, mai superato, di disco più venduto di sempre nel paese, con oltre un milione di copie fisiche vendute.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789035498913",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=DgwcUpHLuhE",
+          "vid": false
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=uOu9H5MQfuQ",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-10",
+      "tgr": "Βράχο-βράχο",
+      "tit": "Vrácho-vrácho",
+      "alias": "",
+      "at": "Δημήτρης Χριστοδούλου",
+      "am": "Μίκης Θεοδωράκης",
+      "yr": "1961",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm                     RE                MIm\nΕίναι βαριά η μοναξιά, είναι πικρά τα βράχια\nMIm                     RE                MIm\nΠαράπονο η θάλασσα και μού 'πνιξε τα μάτια\nLAm      MIm  LAm  MIm      RE        MIm\nΠαράπονο η θάλασσα και μού 'πνιξε τα μάτια\n\nSOL      RE     MIm   SOL          RE     SOL\nΒράχο-βράχο τον καημό μου τον μετράω και πονώ\nSOL         RE    MIm  RE  SOL     LAm    SOL\nκι είναι το παράπονό μου, πότε μάνα θα σε δω\nDO SOL LAm RE SOL\nπότε μάνα θα σε δω\n\nMIm                     RE                MIm\nΠάρε με θάλασσα πικρή, πάρε με στα φτερά σου\nMIm                     RE                MIm\nΠάρε με στο γαλάζιο σου, στην δροσερή καρδιά σου\nLAm      MIm  LAm  MIm      RE        MIm\nΠάρε με στο γαλάζιο σου, στην δροσερή καρδιά σου\n\nSOL      RE     MIm   SOL          RE     SOL\nΒράχο-βράχο τον καημό μου τον μετράω και πονώ\nSOL         RE    MIm  RE  SOL     LAm    SOL\nκι είναι το παράπονό μου, πότε μάνα θα σε δω\nDO SOL LAm RE SOL\nπότε μάνα θα σε δω\n\nMIm                     RE                MIm\nΠάρε με να μην ξαναδώ τα βράχια και το Χάρο\nMIm                     RE                MIm\nΚάνε το κύμα όνειρο και τη σιωπή σου φάρο\nLAm      MIm  LAm  MIm      RE        MIm\nΚάνε το κύμα όνειρο και τη σιωπή σου φάρο\n\nSOL      RE     MIm   SOL          RE     SOL\nΒράχο-βράχο τον καημό μου τον μετράω και πονώ\nSOL         RE    MIm  RE  SOL     LAm    SOL\nκι είναι το παράπονό μου, πότε μάνα θα σε δω\nDO SOL LAm RE SOL\nπότε μάνα θα σε δω\n\nMIm                     RE                MIm\nΓίνε αστέρι κι ουρανός, γίνε καινούργιος δρόμος\nMIm                     RE                MIm\nΝα μην βαδίζω μοναχός, να μην πηγαίνω μόνος\nLAm      MIm  LAm  MIm      RE        MIm\nΝα μην βαδίζω μοναχός, να μην πηγαίνω μόνος\n\nSOL      RE     MIm   SOL          RE     SOL\nΒράχο-βράχο τον καημό μου τον μετράω και πονώ\nSOL         RE    MIm  RE  SOL     LAm    SOL\nκι είναι το παράπονό μου, πότε μάνα θα σε δω\nDO SOL LAm RE SOL\nπότε μάνα θα σε δω",
+      "tr": "Vrácho-vrácho\n\nÍne variá i monaksiá, íne pikrá ta vráchia\nParápono i thálassa kie mu 'pnikse ta mátia\nParápono i thálassa kie mu 'pnikse ta mátia\n\nVrácho-vrácho ton kaimó mu ton metráo kie ponó\nki íne to paráponó mu, póte mána tha se do\npóte mána tha se do\n\nPáre me thálassa pikrí, páre me sta ftherá su\nPáre me sto ghaláziо su, stin drosherí kardiá su\n\nVrácho-vrácho ton kaimó mu...\n\nPáre me na min ksanadó ta vráchia kie to Cháro\nKáne to kýma óniro kie ti siopí su fáro\n\nVrácho-vrácho ton kaimó mu...\n\nGhíne astéri ki uranós, ghíne kenúrghios drómos\nNa min vadízo monachós, na min pigéno mónos\n\nVrácho-vrácho ton kaimó mu.",
+      "ti": "Roccia per roccia\n\nÈ pesante la solitudine, sono amare le rocce\nÈ un lamento il mare, e mi ha affogato gli occhi\nÈ un lamento il mare, e mi ha affogato gli occhi\n\nRoccia per roccia conto il mio affanno e soffro\ned è il mio lamento: quando, madre, ti rivedrò\nquando, madre, ti rivedrò\n\nPrendimi, mare amaro, prendimi tra le tue ali\nPrendimi nel tuo azzurro, nel tuo cuore fresco\n\nRoccia per roccia il mio affanno...\n\nPrendimi, che non riveda più le rocce e Caronte\nFai del mare un sogno e del tuo silenzio un faro\n\nRoccia per roccia il mio affanno...\n\nDiventa stella e cielo, diventa nuova strada\nPerché io non cammini solo, perché io non vada solo\n\nRoccia per roccia il mio affanno.\n\nNote di traduzione\n\n\"Παράπονο η θάλασσα\" — \"il mare è un lamento\": personificazione del mare come portatore/incarnazione stessa del dolore/rimpianto di chi parla, tema ricorrente nella poesia popolare greca in cui il mare diventa specchio degli stati d'animo.\n\n\"μού 'πνιξε τα μάτια\" — letteralmente \"mi ha affogato gli occhi\": immagine per dire che il pianto/le lacrime sono tanto abbondanti da sembrare un annegamento, fondendo il dolore delle lacrime con l'elemento marino della canzone.\n\n\"Βράχο-βράχο τον καημό μου\" — \"roccia per roccia il mio affanno [lo conto]\": immagine che paragona il dolore accumulato a un paesaggio di scogli/rocce da contare uno per uno, come fossero i giorni o i momenti di sofferenza; ancora il termine \"καημός\" già visto in altre canzoni (pena esistenziale senza vero equivalente italiano).\n\n\"πότε μάνα θα σε δω\" — \"quando, madre, ti rivedrò\": invocazione alla madre come figura di conforto/casa lontana, tema tipico dei canti di emigrazione, prigionia o esilio (vedi canzoni precedenti su εξορία e ξενιτιά).\n\n\"το Χάρο\" — il \"Χάρος/Χάροντας\" nella tradizione popolare greca (dal Caronte della mitologia classica) rappresenta la personificazione della Morte stessa, non solo il traghettatore degli inferi; qui \"non vedere più le rocce e Caronte\" significa \"non desiderare più di morire/soffrire\", con un'accezione di richiesta di salvezza dalla disperazione.\n\n\"Κάνε το κύμα όνειρο και τη σιωπή σου φάρο\" — \"fai dell'onda un sogno e del tuo silenzio un faro\": immagine poetica che chiede al mare/alla sorte di trasformare la minaccia (l'onda) in qualcosa di dolce (sogno) e il silenzio angosciante in una guida luminosa (faro) — richiesta di conforto e orientamento nella sofferenza.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789034647645",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Βασίλης Τσιτσάνης, Στράτος Παγιουμτζής",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=9wzCera1-2s",
+          "vid": false
+        },
+        {
+          "who": "Γιάννης Παπαϊωάννου, Μάρκος Βαμβακάρης, Οδυσσέας Μοσχονάς, Βασίλης Τσιτσάνης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=nqz3CH3XALw",
+          "vid": false
+        },
+        {
+          "who": "Γιώργος Κατσαρός (Θεολογίτης)",
+          "year": "1947",
+          "note": "Μας πήγαν εξορία",
+          "link": "https://www.youtube.com/watch?v=-XcelBflkv0",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-10",
+      "tgr": "Βάρκα γιαλό",
+      "tit": "Vàrka ghialò",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "DO           SOL           DO\nΈμαθα κυρά πως έχεις βάρκα γιαλό\nFA\nΈμαθα κυρά πως έχεις\nDO\nψαροπούλα και ψαρεύεις\n            SOL           DO\nτζουμτριαλαριλαρό βάρκα γιαλό\n\n\nDO           SOL           DO\nΘα 'ρθω να σου την γυρέψω βάρκα γιαλό\nFA\nΘα 'ρθω να σου την γυρέψω\nDO\nκαι θα πάω να ψαρέψω\n            SOL           DO\nτζουμτριαλαριλαρό βάρκα γιαλό\n\n\nDO           SOL           DO\nΡίχνω το γυαλί στον πάτο βάρκα γιαλό\nFA\nΡίχνω το γυαλί στον πάτο\nDO\nβρίσκω τη δασκάλα κάτω\n            SOL           DO\nτζουμτριαλαριλαρό βάρκα γιαλό\n\n\nDO           SOL           DO\nΈχω βάρκα για σιργιάνι βάρκα γιαλό\nFA\nΈχω βάρκα για σιργιάνι\nDO\nπου για ψάρεμα δεν κάνει\n            SOL           DO\nτζουμτριαλαριλαρό βάρκα γιαλό",
+      "tr": "Vàrka ghialò\n\nÉmatha kyrá pos échis várka ghialó\nÉmatha kyrá pos échis\npsaropúla kie psarévis\ntzumtrialarilaró várka ghialó\n\nTha 'rtho na su tin ghirépso várka ghialó\nTha 'rtho na su tin ghirépso\nkie tha páo na psarépso\ntzumtrialarilaró várka ghialó\n\nRíchno to ghialí ston páto várka ghialó\nRíchno to ghialí ston páto\nvrísko ti daskála káto\ntzumtrialarilaró várka ghialó\n\nÉcho várka ghia sirghiáni várka ghialó\nÉcho várka ghia sirghiáni\npu ghia psárema den káni\ntzumtrialarilaró várka ghialó",
+      "ti": "Barca sulla riva\n\nHo saputo, signora, che hai una barca sulla riva\nHo saputo, signora, che hai\nuna barchetta da pesca e vai a pescare\ntzumtrialarilaró barca sulla riva\n\nVerrò a chiedertela in prestito, barca sulla riva\nVerrò a chiedertela in prestito\ne andrò a pescare\ntzumtrialarilaró barca sulla riva\n\nGetto il vetro sul fondo, barca sulla riva\nGetto il vetro sul fondo\ne trovo la maestra là sotto\ntzumtrialarilaró barca sulla riva\n\nHo una barca per fare una gita, barca sulla riva\nHo una barca per fare una gita\nche per pescare non va bene\ntzumtrialarilaró barca sulla riva\n\nNote di traduzione\n\n\"τζουμτριαλαριλαρό\" — vocalizzo/ritornello onomatopeico privo di significato letterale, tipico delle canzoni popolari da ballo greche, usato per scandire il ritmo; lasciato non tradotto come nelle canzoni precedenti con vocalizzi simili.\n\n\"Θα 'ρθω να σου την γυρέψω\" — \"verrò a chiedertela/a cercartela\": qui \"γυρεύω\" significa \"chiedere in prestito/cercare di ottenere\", con doppio senso scherzoso tipico del genere, dove \"la barca\" può alludere metaforicamente anche a un corteggiamento verso la donna stessa.\n\n\"Ρίχνω το γυαλί στον πάτο\" — \"getto il vetro sul fondo\": il \"γυαλί\" qui è probabilmente lo strumento tradizionale dei pescatori (un vetro/specchio usato per guardare sul fondo del mare durante la pesca); l'immagine prosegue nel verso successivo con un doppio senso scherzoso.\n\n\"βρίσκω τη δασκάλα κάτω\" — \"trovo la maestra là sotto\": verso enigmatico e scherzoso, probabilmente con doppio senso popolare/dialettale (gioco di parole tipico delle canzoni da ballo leggere e un po' piccanti, dove il \"pescare\" e il \"trovare qualcosa sul fondo\" alludono scherzosamente a incontri galanti); il senso letterale resta volutamente ambiguo, come tipico di questo genere di canzoni popolari giocose.\n\n\"βάρκα για σιργιάνι\" — \"barca per fare una gita/passeggiata\" (σιργιάνι, dal turco \"seyran\", giro/passeggiata di piacere): contrapposta alla barca da pesca, sottolinea con ironia che questa barca serve solo per il diporto, non per il lavoro — chiusura scherzosa e leggera tipica del genere.",
+      "no": "E' attribuita a Vasilis Tsitsanis, ma si basa su una vecchia melodia eptanesiaca (delle Isole Ionie).\n\nDurante i Dekemvriana (dicembre 1944), la stessa melodia veniva cantata con testi completamente diversi, riferiti esclusivamente alla vicenda dei prigionieri della battaglia di Atene, catturati dai britannici e deportati nel campo di El Ntampa (Ελ Ντάμπα), in Egitto.\n\nI versi originali erano esattamente questi (confermano quello che avevi scritto tu):\n\"Μας πήραν την Αθήνα / μόνο για ένα μήνα... Μπόμπες βροχή στου Γκύζη / κι εμείς στο μετερίζι...\"\n(\"Ci hanno preso Atene / solo per un mese... Bombe a pioggia su Gyzi / e noi sulle barricate...\")\n\nDettagli aggiuntivi importanti:\n\nIl brano non fu mai inciso all'epoca — i versi erano troppo \"infiammatori\" politicamente (siamo appena all'inizio della guerra civile)\nCircolò solo oralmente, di compagnia in compagnia, con diverse varianti\nSolo nel 1947, dall'America, Giorgos Katsaros ne incise una versione con testi \"un po' meno pungenti\", concentrata sulla vita quotidiana nel campo di prigionia (marmellata, piselli per conigli, tentativi di fuga) \nNon lo beviamo il latte, barca sulla riva\nnon lo beviamo il latte\nné tantomeno la marmellata\nah, che tu possa stare bene, barca sulla riva\n\nE ci hanno mandato in esilio, barca sulla riva\ne ci hanno mandato in esilio\nlontano da Atene\nah, che tu possa stare bene, barca sulla riva\n\nE ci davano piselli, barca sulla riva\ne ci davano piselli\ndi quelli che si buttano ai conigli\nah, che tu possa stare bene, barca sulla riva\n\nE metterò una boa, barca sulla riva\ne metterò una boa\ne così me la svignerò di nascosto\nah, che tu possa stare bene, barca sulla riva",
+      "balvid": true
+    },
     {
       "id": "s_1789021472199",
       "offsets": {},
@@ -1355,7 +1504,15 @@
     {
       "id": "s_1788586886184",
       "offsets": {},
-      "executions": [],
+      "executions": [
+        {
+          "who": "Rebetiki Afassia",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Mt2trzhO5J0",
+          "vid": false
+        }
+      ],
       "date": "2026-09-05",
       "tgr": "Στην υπόγα",
       "tit": "Stin ipòga",
@@ -1373,7 +1530,8 @@
       "ch": "REm             RE        REm\nΡε, ν' από πι-, ρε ν' από πίσω στη στρατώνα\nREm             RE        REm\nΒαρέσαν μα-, βαρέσαν μάγκα στην υπόγα\nREm             RE        REm   DO  REm\nΡε, ν' από πι-, ρε ν' από πίσω στη στρατώνα\nREm             DO          REm\nΒαρέσαν μα-, βαρέσαν μάγκα στην υπόγα\n \nREm             RE        REm\nΜπαίνει 'νας μπα-, μπαίνει 'νας μπάτσος με το κούφιο\nREm             RE        REm\nΚαι ρίχνει μου-, και ρίχνει μούσμουλα στο ρούφο\nREm             RE        REm   DO  REm\nΜπαίνει 'νας μπα-, μπαίνει 'νας μπάτσος με το κούφιο\nREm             DO          REm\nΚαι ρίχνει μου-, και ρίχνει μούσμουλα στο ρούφο\n  \nREm             RE        REm\nΚαι κατρακύ-, και κατρακύλισε το φέσι\nREm             RE        REm\nΜας σβήνει ο να-, μας σβήνει ο ναργιλές στη μέση\nREm             RE        REm   DO  REm\nΚαι κατρακύ-, και κατρακύλισε το φέσι\nREm             DO          REm\nΜας σβήνει ο να-, μας σβήνει ο ναργιλές στη μέση\n  \nREm             RE        REm\nΚαι τον ανά-, και τον ανάβει η κυρία Κούλα\nREm             RE        REm\nΡε που 'χει τάλιρα και τσιγαριές στη ζούλα\nREm             RE        REm   DO  REm\nΚαι τον ανά-, και τον ανάβει η κυρία Κούλα\nREm             DO          REm\nΡε που 'χει τάλιρα και τσιγαριές στη ζούλα\n \nREm             RE        REm\nΓειά σου ρε Μή-, γειά σου ρε Μήτσο στραβοκάνη\nREm             RE        REm\nΠου 'σαι μαστού-, που 'σαι μαστούρι απ' το ντουμάνι\nREm             RE        REm   DO  REm\nΓειά σου ρε Μή-, γειά σου ρε Μήτσο στραβοκάνη\nREm             DO          REm\nΠου 'σαι μαστού-, που 'σαι μαστούρι απ' το ντουμάνι",
       "tr": "Stin ipòga\n\nRe, n'apό pi-, re n'apό píso sti stratόna\nVarésan ma-, varésan mánga stin ipόgha\n\nBéni 'nas ba-, béni 'nas bátsos me to kúfio\nKe ríchni mu-, ke ríchni músmula sto rúfo\n\nKe katrakí-, ke katrakílise to fési\nMas svíni o na-, mas svíni o narghilés sti mési\n\nKe ton aná-, ke ton anávi i kiría Kúla\nRe pu 'chi tálira ke tsigariés sti zúla\n\nYiásu re Mí-, yiásu re Mítso stravokáni\nPu 'se mastú-, pu 'se mastúri ap'to ndumáni",
       "ti": "In cantina\n\nEhi, da dietro, ehi da dietro la caserma\nhanno preso a botte, hanno preso a botte un mangas in cantina\n\nEntra un poliziotto in borghese con il manganello\ne ci tira addosso colpi nel gozzo/gola\n\nE gli è rotolato via il fez\nci spegne il narghilè nel bel mezzo\n\nE lo riaccende la signora Koula\nche ha talleri e sigarette nascoste\n\nSalute a te, ehi Mitso storto (dalle gambe storte)\nche sei sballato dal fumo denso\n\nNote:\n\nμπάτσος με το κούφιο — poliziotto con il manganello (il \"kúfio\" è un termine gergale per lo strumento vuoto/cavo usato per colpire)\nμούσμουλα στο ρούφο — espressione gergale oscura, letteralmente \"nespole in gola\", probabilmente nel senso di \"colpi/percosse violente\"\nφέσι — il fez, copricapo tradizionale ottomano/greco d'epoca\nστραβοκάνης — dalle gambe storte, soprannome popolare\nντουμάνι — nuvola densa di fumo, già vista in altre canzoni sul tema tekè/hashish",
-      "no": "Eseguito con due chitarre, sullo stile dell'inimitabile suonata di Ghiorgos Katsaros"
+      "no": "Eseguito con due chitarre, sullo stile dell'inimitabile suonata di Ghiorgos Katsaros",
+      "balgr": ""
     },
     {
       "id": "s_1788585044791",
@@ -2764,6 +2922,13 @@
           "year": "1967",
           "note": "",
           "link": "https://www.youtube.com/watch?v=YPms3XoCTL4"
+        },
+        {
+          "who": "Rebetiki afassia",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=jcBROZs7Ziw",
+          "vid": false
         }
       ],
       "date": "2026-08-30",
@@ -2783,7 +2948,8 @@
       "ch": "FA\nΠαίζει το μπαγλαμαδάκι βρε, παίζει το μπαγλαμαδάκι\nREm      DO    REm            DO      REm\nΠαίζει το μπαγλαμαδάκι και χορεύω ζεϊμπεκάκι\nREm      DO    REm            DO      REm\nΚαι χορεύω ζεϊμπεκάκι βρε, παίζει το μπαγλαμαδάκι\n\nFA\nΦέρτε μου το λουλαδάκι βρε, φέρτε μου το λουλαδάκι\nREm      DO    REm            DO      REm\nΦέρτε μου το λουλαδάκι για να πιω ένα τσιμπουκάκι\nREm      DO    REm            DO      REm\nΓια να πιω ένα τσιμπουκάκι βρε, φέρτε μου το λουλαδάκι\n\n\nFA\nΜια και βρέθηκα μαζί σας βρε, μια και βρέθηκα μαζί σας\nREm      DO    REm            DO      REm\nΜια και βρέθηκα μαζί σας, θα φουμάρω στο τσαρδί σας\nREm      DO    REm            DO      REm\nΘα φουμάρω στο τσαρδί σας βρε, μια και βρέθηκα μαζί σας\n\n\nFA\nΚι όταν γίνουμε μαστούρια βρε, κι όταν γίνουμε μαστούρια\nREm      DO    REm            DO      REm\nΚι όταν γίνουμε μαστούρια θα σας πω και δυο τραγούδια\nREm      DO    REm            DO      REm\nΘα σας πω και δυο τραγούδια βρε, κι όταν γίνουμε μαστούρια",
       "tr": "Pézi to baglamadáki\n\nPézi to baglamadáki vre, pézi to baglamadáki\nPézi to baglamadáki ke chorέvo zeïbekáki\nKe chorέvo zeïbekáki vre, pézi to baglamadáki\n\nFérte mu to luladáki vre, férte mu to luladáki\nFérte mu to luladáki gia na pio éna tsimbukáki\nGia na pio éna tsimbukáki vre, férte mu to luladáki\n\nMia ke vréthika mazí sas vre, mia ke vréthika mazí sas\nMia ke vréthika mazí sas, tha fumáro sto tsardí sas\nTha fumáro sto tsardí sas vre, mia ke vréthika mazí sas\n\nKi ótan ghínume mastúria vre, ki ótan ghínume mastúria\nKi ótan ghínume mastúria tha sas po ke dío traghúdia\nTha sas po ke dío traghúdia vre, ki ótan ghínume mastúria",
       "ti": "Suona il piccolo baglamà\n\nSuona il baglamàs, ehi, suona il baglamàs\nsuona il baglamàs e io ballo un piccolo zeibekiko\ne ballo un piccolo zeibekiko, ehi, suona il baglamàs\n\nPortatemi la pipa d'hashish, ehi, portatemi la pipa\nportatemi la pipa per fumare un piccolo tiro\nper fumare un piccolo tiro, ehi, portatemi la pipa\n\nDato che mi sono trovato con voi, ehi, dato che mi sono trovato con voi\ndato che mi sono trovato con voi, fumerò nel vostro rifugio\nfumerò nel vostro rifugio, ehi, dato che mi sono trovato con voi\n\nE quando saremo sballati, ehi, e quando saremo sballati\ne quando saremo sballati vi canterò anche due canzoni\nvi canterò anche due canzoni, ehi, quando saremo sballati\n\nNote:\n\nμπαγλαμαδάκι — diminutivo affettuoso di \"μπαγλαμάς\", piccolo strumento a corde della famiglia del bouzouki\nζεϊμπεκάκι — diminutivo di \"ζεϊμπέκικο\", la danza tradizionale già incontrata in altre canzoni\nλουλαδάκι — diminutivo di \"λουλάς\", la pipa per hashish, già incontrata più volte\nτσιμπουκάκι — diminutivo di \"τσιμπούκι\" (pipa), qui inteso come \"un tiro/una boccata\"\nτσαρδί — covo, rifugio informale, già incontrato in altre canzoni del rebetiko\nμαστούρια — stato di intontimento/sballo, già incontrato in altre canzoni\nil brano appartiene al filone più giocoso e \"autocelebrativo\" del rebetiko del dopoguerra, con la struttura tipica a tre versi ripetuti a incastro (terza riga = prima riga della strofa successiva), qui incentrata sul piccolo strumento del baglamàs e sul rituale conviviale di musica, danza e hashish nel tekè",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1788063911121",
@@ -3492,6 +3658,13 @@
           "year": "1948",
           "note": "",
           "link": "https://www.youtube.com/watch?v=53BOSi1sqmE&list=RD53BOSi1sqmE&start_radio=1"
+        },
+        {
+          "who": "Rebetiki Afassia",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=P-Ti5SM3qnE",
+          "vid": false
         }
       ],
       "date": "2026-08-28",
@@ -3511,7 +3684,8 @@
       "ch": "RE                           LA          RE\nΘέλω να γίνω μπουφετζής σε τούρκικους μπουφέδες\nRE                           LA          RE\nΝα 'ρχονται οι χανούμισσες με δίχως φερετζέδες\n\nRE                           LA          RE\nΠήγα και 'γω κάποια βραδιά και μπήκα στα μεράκια\nRE                           LA          RE\nΓνώρισα τρεις χανούμισσες, τρία σωστά κουκλάκια\n\nRE                           LA          RE\nΜπουκάρω μέσα στον τεκέ, βλέπω τρία μεράκια\nRE                           LA          RE\nΤρεις κοπελίτσες πεταχτές να πίνουν τσιγαράκια\n\nRE                           LA          RE\nΗ μια ρουφά τον αργιλέ κι η άλλη το τσιμπούκι\nRE                           LA          RE\nκι η τρίτη η μικρότερη τρελή στο μαστουρλούκι\n\nRE                           LA          RE\nΗ μια παίζει τον μπαγλαμά κι η άλλη το μπουζούκι\nRE                           LA          RE\nκι η τρίτη η μικρότερη γυρεύει να φουμάρει",
       "tr": "O Bufetzìs\n\nThélo na ghíno bufetzí̱ se túrkikus bufédes\nNa 'rchonde i chanúmises me díchos feretzédes\n\nPígha ki gho kápia vradiá ke bíka sta merákia\nGhnórisa tris chanúmises, tría sostά kuklákia\n\nBukáro mésa ston teké, vlépo tría meráкia\nTris kopelítses petachtés na pínun tsighαráкia\n\nI mia rufá ton arghilé ki i áli to tsibúki\nki i tríti i mikróteri trelí sto masturlúki\n\nI mia pézi ton baghlamά ki i áli to buzúki\nki i tríti i mikróteri ghirévi na fumári",
       "ti": "Il Bufetzìs\n\nVoglio diventare gestore di locale in caffè turchi\nperché vengano le donne turche senza il velo\n\nCi sono andato anch'io una sera ed entrai colto dalla voglia\nconobbi tre donne turche, tre vere bamboline\n\nFaccio irruzione dentro il tekè, vedo tre belle voglie\ntre ragazzine vivaci che fumano sigarette\n\nUna tira il narghilè e l'altra la pipa\ne la terza, la più piccola, impazzita nello sballo\n\nUna suona il baglamàs e l'altra il bouzouki\ne la terza, la più piccola, cerca di fumare\n\nNote:\n\nμπουφετζής — gestore/barista di un caffè-bar (μπουφές)\nχανούμισσα — donna turca, spesso con connotazione di harem/donna musulmana (dal turco \"hanım\")\nφερετζές — velo tradizionale islamico che copre volto e corpo (dal turco \"ferace\")\nμεράκι qui usato al plurale in senso concreto e scherzoso per \"belle ragazze/belle voglie da soddisfare\", oltre al significato più comune di \"passione/voglia\"\nμαστουρλούκι — stato di intontimento/sballo estremo (gergale, rafforzativo di \"μαστούρα\")",
-      "no": "La canzone viene pubblicata in Grecia nella versione di testo di Batis \nΘέλω να γίνω μπουφετζής σε τούρκικους ντεκέδες,Να 'ρχουνται οι χανούμισσες νά πίνουν αργιλέδες..\n(Voglio diventare un banconista nei tekedes turchi, così che vengano le donne ottomane a fumare il narghilè...)\nQuando viene riproposta nel 1948 da Papaioannou il testo è stato depurato:\nΘέλω να γίνω μπουφετζής σε τούρκικους μπουφέδες,να 'ρχουνται οι χανούμισσες με δίχως φερετζέδες...\n(Voglio diventare un banconista nei buffet turchi, così che vengano le donne ottomane senza il velo...)\nPubblichiamo le due versioni e quella di confronto tra l'originale americana, a sua volta derivata da un gospel e quella di Batis"
+      "no": "La canzone viene pubblicata in Grecia nella versione di testo di Batis \nΘέλω να γίνω μπουφετζής σε τούρκικους ντεκέδες,Να 'ρχουνται οι χανούμισσες νά πίνουν αργιλέδες..\n(Voglio diventare un banconista nei tekedes turchi, così che vengano le donne ottomane a fumare il narghilè...)\nQuando viene riproposta nel 1948 da Papaioannou il testo è stato depurato:\nΘέλω να γίνω μπουφετζής σε τούρκικους μπουφέδες,να 'ρχουνται οι χανούμισσες με δίχως φερετζέδες...\n(Voglio diventare un banconista nei buffet turchi, così che vengano le donne ottomane senza il velo...)\nPubblichiamo le due versioni e quella di confronto tra l'originale americana, a sua volta derivata da un gospel e quella di Batis",
+      "balgr": ""
     },
     {
       "id": "s_1787899078339",
@@ -4438,6 +4612,13 @@
           "year": "1938",
           "note": "USA",
           "link": "https://www.youtube.com/watch?v=pB-RjCc2VXU&list=RDpB-RjCc2VXU&start_radio=1"
+        },
+        {
+          "who": "Rebetiki afassia",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=l8Z3Q9SqAII",
+          "vid": false
         }
       ],
       "date": "2026-08-25",
@@ -4457,7 +4638,8 @@
       "ch": "RE\nΒρε μάγκα το μαχαίρι σου\nRE\nγια να το κουσουμάρης\nRE \nπρέπει να έ-έχεις στην ψυχή\n           DOm    RE \nκαρδιά για να το βγάλεις \nRE \nπρέπει να έ-έχεις στην ψυχή\n           DOm    RE\nκαρδιά για να το βγάλεις\n\nRE\nΣ' εμένα δεν περνάν αυτά\nRE\nκαι κρύψε το σπαθί σου\n    RE\nΓιατί μαστούρης θα -α γενώ \n               DOm    RE\nΚαι θα ρθω στο τσαρντί σου \n    RE\nΓιατί μαστούρης θα -α γενώ \n               DOm    RE\nΚαι θα ρθω στο τσαρντί σου\n\nRE\nΑλλού να πας βρε μάγκα μου\nRE\nνα κάνεις τη φιγούρα\nRE\nγιατί και γώ φουμάρισα\n               DOm    RE\nκι εγώ τρελή μαστούρα \nRE\nγιατί και γώ φουμάρισα\n               DOm    RE\nκι εγώ τρελή μαστούρα\n\nRE\nΣ' εμένα δεν περνάν αυτά\nRE\nκαι κρύψε το σπαθί σου\nRE\nΓιατί μαστούρης θα -α γενώ \n               DOm    RE\nΚαι θα ρθω στο τσαρντί σου",
       "tr": "Vre mànga to machieri sou\n\nVre mánga to machIéri su\ngia na to kusumáris\nprépi na échis stin psichí\nkardiá gia na to vgális\n\nS'eména den pernán aftá\nke krípse to spathí su\nGiatí mastúris tha ghenó\nKe tha rtho sto tsardí su\n\nAlú na pas vre mánga mu\nna kánis ti fighúra\ngiatí ke gho fumárisa\nki eghó trelí mastúra\n\nS'eména den pernán aftá\nke krípse to spathí su\nGiatí mastúris tha ghenó\nKe tha rtho sto tsardí su",
       "ti": "Ehi mangas, il tuo coltello\n\nEhi mangas, il tuo coltello\nper poterlo usare (sfoderare con vanto)\ndevi avere nell'anima\nil cuore per tirarlo fuori\n\nCon me queste cose non attaccano\ne nascondi la tua spada\nperché sballata diventerò\ne verrò nel tuo covo\n\nVai altrove, ehi mangas mio\na fare lo sbruffone\nperché anch'io ho fumato\ne sono anch'io sballata pazza\n\nCon me queste cose non attaccano\ne nascondi la tua spada\nperché sballata diventerò\ne verrò nel tuo covo\n\nNote:\n\nκουσουμάρω — usare/sfoderare con orgoglio uno strumento o un'arte propria (gergale, dal turco \"kusum\", riferito qui provocatoriamente al coltello del mangas)\nμαστούρης/μαστούρα — sballato/sballata (da hashish), maschile e femminile\nτσαρντί — covo, tana, rifugio (gergale, spazio informale legato al mondo dei tekè/mangas)\nφιγούρα — fare scena/sbruffoneria, mettersi in mostra\nδεν περνάν αυτά — idiomatico: \"queste cose non attaccano/non funzionano con me\", cioè \"non mi fai impressione\"\nil testo è una sorta di \"duello\" verbale/di sfida tra un mangas e una donna che rivendica di essere altrettanto spavalda e navigata nell'ambiente del tekè",
-      "no": "Μάθεσης ne scrisse il testo su una musica già composta da Ανέστης Δελιάς — uno zeibekiko nato durante una giornata tra amici sul monte vicino a Κερατσίνι, insieme allo stesso Δελιάς, a Μπάτης e a Μήτσος Καρυδάκιας. Il brano fu inciso per la prima volta da Δελιάς nel 1936, e reinterpretato due anni dopo, nel 1938, a New York, da Γιώργος Κατσαρός."
+      "no": "Μάθεσης ne scrisse il testo su una musica già composta da Ανέστης Δελιάς — uno zeibekiko nato durante una giornata tra amici sul monte vicino a Κερατσίνι, insieme allo stesso Δελιάς, a Μπάτης e a Μήτσος Καρυδάκιας. Il brano fu inciso per la prima volta da Δελιάς nel 1936, e reinterpretato due anni dopo, nel 1938, a New York, da Γιώργος Κατσαρός.",
+      "balgr": ""
     },
     {
       "id": "s_1787650332169",
@@ -14514,6 +14696,38 @@
         "at",
         "am",
         "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789044137610",
+      "name": "Γιάννης Πουλόπουλος",
+      "nameit": "Giánnis Poulópoulos",
+      "born": "29 giugno 1941, Kardamyli (Mani, Messenia)",
+      "died": "23 agosto 2020, Chaidari (Atene)",
+      "bio": "Cantante, compositore e paroliere, tra i più grandi e importanti interpreti greci, considerato una delle voci simbolo del \"Neo Kýma\" (Nuova Onda) degli anni '60. I genitori, di origine messenia, si trasferirono ad Atene nel quartiere di Metaxourgeio, poi a Peristeri (zona Agios Ierotheos). Rimasto orfano di madre a 5 anni, crebbe con il padre Giorgos e il fratello minore Vasilis.\n\nFin da piccolo aveva un forte talento per il canto, ma nel quartiere non c'era nessuno che potesse \"lanciarlo\". Lavorava come imbianchino/muratore e studiava alla scuola serale NTIZEL come elettricista, mentre insisteva quasi ogni giorno per un'audizione presso la casa discografica Columbia (1962), venendo respinto per lungo tempo senza nemmeno essere ascoltato. Quando finalmente ottenne l'audizione, la commissione era composta da Mikis Theodorakis, Apostolos Kaldaras, Vasilis Tsitsanis e Giannis Papaioannou — scelse di cantare due brani considerati difficili, \"Μάνα μου και Παναγιά\" e \"Παράπονο\".\n\nNel 1966 cantò a un concerto di Theodorakis allo stadio dell'AEK a Nea Filadelfeia, insieme a Grigoris Bithikotsis, Maria Farantouri e Dimitris Mitropanos. Sempre nel 1966 debuttò al cinema nel film \"Οι στιγματισμένοι\". Nel 1973 interpretò \"Θάλασσα πικροθάλασσα\" (testo Kostas Virvos, musica Mimis Plessas); nel 1975 \"12 ρεμπέτικα\", dimostrando la sua capacità di muoversi con naturalezza in ogni genere musicale.\n\nOltre alla musica, pubblicò due raccolte poetiche, \"Τετράδιο\" (1971) e \"Ταξίδι στο κέντρο της νύχτας\" (1983), e si dedicò anche a pittura e calcografia, appresa dall'amico cantante e pittore Stavros Pasparakis. Giocò a calcio nelle squadre di Agios Ierotheos e dell'Atromitos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/pulopulos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1789045030389",
+      "name": "Τάκης Μουσαφίρης",
+      "nameit": "Tákis Mousafíris",
+      "born": "24 luglio 1936, Giannina",
+      "died": "11 marzo 2021, Atene",
+      "bio": "Nome completo: Panagiotis Mousafiris\n\n\nCompositore, paroliere e musicista, cresciuto in una famiglia musicale (entrambi i genitori avevano formazione musicale e gli trasmisero le loro conoscenze) — da bambino imparava ad accordare la chitarra ascoltando i campanacci delle pecore, e i toni del pianoforte ascoltando una vicina di casa che lo suonava. Prima di trasferirsi ad Atene, suonava già nelle taverne e nei kutukia di Giannina.\n\nAd Atene, le prime esperienze furono in piccole taverne e boîte di Plaka, cantando accompagnandosi con la chitarra. Comparve in discografia anche sotto gli pseudonimi Antonis Zannas e Nikos Michail. Divenne, negli anni '80, uno dei più importanti e \"cantati\" compositori/parolieri laïkó.\n\nTra i suoi maggiori successi: \"Πες μου που πουλάν καρδιές\", \"Κάνε κάτι λοιπόν να χάσω το τρένο\", \"Μυστικέ μου έρωτα\", \"Ο ταξιτζής\", \"Εγώ ο ξένος\", \"Εγώ δεν ήμουνα αλήτης\". Nell'agosto 1988 incise \"Καινούργια χρώματα\", un disco con 27 brani propri e un adattamento, dedicato al figlio Vasilis (allora militare) — vendette oltre 130.000 copie.\n\nCollaborò con grandi interpreti: Stratos Dionysiou, Dimitris Mitropanos, Rita Sakellariou, Michalis Menidiatis, Pitsa Papadopoulou, Tolis Voskopoulos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/musafiris.jpg",
+      "roles": [
+        "at",
+        "am",
         "mu"
       ]
     }
