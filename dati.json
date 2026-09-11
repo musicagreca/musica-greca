@@ -1,8 +1,49 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-11T09:52:34.776Z",
+  "exportedAt": "2026-09-11T11:19:08.396Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789125386830",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κώστας Μήτσης",
+          "year": "2013",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=vApxQdoa5RY",
+          "vid": false
+        },
+        {
+          "who": "Βασιλική Λαβίνα",
+          "year": "1980",
+          "note": "dal disco Ριζες (Markopoulos)",
+          "link": "https://www.youtube.com/watch?v=i23Xkm7mNKg",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-11",
+      "tgr": "Έχε γεια καημένε κόσμε",
+      "tit": "Echie ghià kaimène kòsme",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm  LAm    FA    MIm\nΈχε γεια καημένε κόσμε\nMIm  LAm    FA    MIm\nΈχε γεια καημένε κόσμε\nLAm   RE      MIm\nέχε γεια γλυκιά ζωή\nLAm   RE      MIm\nέχε γεια γλυκιά ζωή\nRE MIm RE MIm\nΈχετε γεια βρυσούλες, κάμποι, βουνά, ραχούλες\n\n(assunti stessi accordi della prima strofa)\nMIm LAm FA MIm\nΣτη στεριά δεν ζει το ψάρι\nLAm RE MIm\nούτε ανθός στην αμμουδιά\nRE MIm RE MIm\nΈχετε γεια βρυσούλες...\n\n(assunti stessi accordi della prima strofa)\nMIm LAm FA MIm\nΚι οι σουλιώτισσες δε ζούνε\nLAm RE MIm\nδίχως την ελευθεριά\nRE MIm RE MIm\nΈχετε γεια βρυσούλες...\n\nMIm  LAm    FA    MIm\nΈχε γεια καημένε κόσμε, \nMIm  LAm    FA    MIm\nέχε γεια γλυκιά ζωή\nLAm   RE      MIm\nέχε γεια γλυκιά ζωή\n\nMIm  LAm    FA    MIm\nκι εσύ δύστυχη πατρίδα, \nMIm  LAm    FA    MIm\nέχε γεια παντοτινή!\nLAm   RE      MIm\nέχε γεια παντοτινή!\n\nRE                MIm           RE       MIm\nΈχετε γεια βρυσούλες, λόγγοι, βουνά, ραχούλες.\nRE                MIm           RE       MIm\nΈχετε γεια βρυσούλες κι εσείς Σουλιωτοπούλες.\n\nMIm  LAm    FA    MIm\nΣτη στεριά δε ζει το ψάρι, \nMIm  LAm    FA    MIm\nουδ' ανθός στην αμμουδιά\nLAm   RE      MIm\nουδ' ανθός στην αμμουδιά\n\nMIm  LAm    FA    MIm\nκι οι Σουλιώτισσες δε ζούνε, \nMIm  LAm    FA    MIm\nδίχως την ελευθεριά!\nLAm   RE      MIm\nδίχως την ελευθεριά!\n\nMIm  LAm    FA    MIm\nΣαν να παν σε πανηγύρι, \nMIm  LAm    FA    MIm\nμ' ανθισμένη πασχαλιά, \nLAm   RE      MIm\nμ' ανθισμένη πασχαλιά, \nMIm  LAm    FA    MIm\nμεσ' τον Άδη κατεβαίνουν,\nMIm  LAm    FA    MIm\nμε τραγούδια με χαρά!\nLAm   RE      MIm\nμε τραγούδια με χαρά!",
+      "tr": "Echie ghià kaimène kòsme\n\nÉche ghia kaiméne kósme, éche ghia ghlikiá zoí\nki esí dístichi patrída, éche ghia pandotiní!\nÉchete ghia vrisúles, lónghi, vuná, rachúles\nÉchete ghia vrisúles ki esís Suliotopúles\n\nSti steriá de zi to psári, ud' anthós stin ammudiá\nki i Suliótisses de zúne, díchos tin elefteriá!\nSan na pan se panighíri, m' anthisméni paschaliá\nmes ton Ádi kateveínun, me traghúdia me chará!",
+      "ti": "Addio, povero mondo, addio, dolce vita\ne tu, sventurata patria, addio per sempre!\nAddio, fontanelle, boschetti, monti, collinette\nAddio, fontanelle, e anche voi, giovani donne di Souli\n\nSulla terraferma non vive il pesce, né fiorisce alga sulla spiaggia\ne le donne di Souli non vivono senza la libertà!\nCome se andassero a una festa, con il lillà fiorito\nscendono nell'Ade, con canti e con gioia!\n\nNote di traduzione\n\n\"δύστυχη πατρίδα\" — \"sventurata patria\": rispetto alla versione precedente, qui il commiato si allarga esplicitamente dalla vita e dal mondo alla patria stessa, rafforzando il carattere di addio collettivo e definitivo legato al sacrificio di Zalongo.\n\n\"Σουλιωτοπούλες\" — diminutivo/vezzeggiativo di \"Σουλιώτισσες\" (donne di Souli), letteralmente \"giovani fanciulle di Souli\": sottolinea la giovinezza delle donne coinvolte nell'episodio storico-leggendario del salto di Zalongo (1803).\n\n\"Σαν να παν σε πανηγύρι... με τραγούδια με χαρά\" — \"come se andassero a una festa... con canti e con gioia\": immagine centrale e più toccante dell'intero canto, che descrive le donne di Souli avviarsi verso la morte danzando e cantando come se si trattasse di una festa gioiosa, trasformando il gesto tragico in un atto di sfida e dignità estrema di fronte alla schiavitù.\n\n\"μεσ' τον Άδη κατεβαίνουν\" — \"scendono nell'Ade\": riferimento all'oltretomba della mitologia greca (vedi note precedenti su Χάρος/Άδης), qui usato per descrivere la morte volontaria delle donne, che scelgono di \"scendere\" nel regno dei morti piuttosto che sottomettersi.",
+      "no": "[[2026-08-27|vai all'approfondimento]]",
+      "balvid": false
+    },
     {
       "id": "s_1789117595419",
       "offsets": {},
@@ -15005,6 +15046,20 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/spiratu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1789125050329",
+      "name": "Κώστας Μήτσης",
+      "nameit": "Kóstas Mítsis",
+      "born": "1975, Monaco di Baviera (Germania)",
+      "died": "",
+      "bio": "Famiglia originaria dei villaggi di Preveza (Epiro), dove tornò già nel 1976\n\nCantante di canto tradizionale (dimotikó) con repertorio panellenico, cresciuto in ambiente rurale dove musica e danza tradizionale facevano parte della vita quotidiana. Studiò Agraria all'Università Aristotele di Salonicco, con un master all'Università di Ioannina in tutela ambientale. Parla greco, inglese e tedesco.\n\nSi dedica al canto tradizionale dal 2002, cantando anche in vlach, turco e arvanita oltre che in greco. Dal 2006 gira ogni anno tra America, Canada ed Europa per concerti e feste della diaspora greca. Collaboratore del Liceo delle Donne Greche di Atene, ha rappresentato la Grecia in missioni culturali in 26 paesi.\n\nHa pubblicato 4 CD: tre con il titolo \"Περιήγηση στο Δημοτικό Τραγούδι\" (Volumi A, B, C) — dischi che accompagnano gli omonimi libri del ricercatore Sokratis Vasileiou, di cui Mitsis cura anche la direzione di produzione, con 11 brani inediti per ciascun volume. È proprio in una di queste raccolte che compare la sua interpretazione di \"Έχε γεια καημένε κόσμε\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/mitzis.jpg",
       "roles": [
         "ar"
       ]
