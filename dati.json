@@ -1,8 +1,83 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-11T11:19:08.396Z",
+  "exportedAt": "2026-09-11T16:50:02.858Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789144443041",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+          "year": "1940",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=rAdqi2MOoH4",
+          "vid": false
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1959",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=LS9pcP5rGYE",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-11",
+      "tgr": "Τα δυο σου χέρια πήρανε",
+      "tit": "Ta diò su chièria pìrane",
+      "alias": "Βεργούλες",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1940",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "Aptaliko",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm\nΤα δυο σου χέρια πήρανε\nREm\nβεργούλες και με δείρανε\n  FA         DO       FA\nΒεργούλες και με δείρανε\nDO    LA           REm\nκαι την χαρά μου πήρανε\n\nREm\nΤα χέρια σου με κάψανε\nREm\nπου άλλον αγκαλιάσανε\n  FA         DO       FA\nΠου άλλον αγκαλιάσανε\nDO    LA           REm\nκαι δεν με λογαριάσανε\n\nREm\nM' αυτά τα χέρια σου τα δυο\nREm\nσκάψε την γης βαθιά να μπω\n  FA         DO       FA\nΣκάψε την γης βαθιά να μπω\nDO    LA           REm\nνα μην σε βλέπω και πονώ",
+      "tr": "Ta diò su chièria pìrane\n\nTa dio su chiéria pírane\nvergúles kie me dírane\nVergúles kie me dírane\nkie tin chará mu pírane\n\nTa chiéria su me kápsane\npu állon angaliásane\nPu állon angaliásane\nkie den me loghariásane\n\nM' aftá ta chiéria su ta dio\nskápse tin ghis vathiá na bo\nSkápse tin ghis vathiá na bo\nna min se vlépo kie ponó",
+      "ti": "Le tue due mani hanno preso\n\nLe tue due mani hanno preso\ndelle verghette e mi hanno picchiato\nVerghette e mi hanno picchiato\ne mi hanno portato via la gioia\n\nLe tue mani mi hanno bruciato\nperché ne hanno abbracciato un altro\nPerché ne hanno abbracciato un altro\ne non mi hanno considerato\n\nCon queste tue due mani\nscava la terra profonda perché io ci entri\nScava la terra profonda perché io ci entri\nper non vederti più e soffrire\n\nNote di traduzione\n\n\"βεργούλες\" — diminutivo di \"βέργα\" (verga/bastoncino sottile), \"verghette\": immagine che paragona il dolore causato dalle mani dell'amata a un castigo fisico con delle bacchette, metafora del dolore emotivo del tradimento reso fisico e concreto.\n\n\"Τα χέρια σου με κάψανε\" — \"le tue mani mi hanno bruciato\": ancora un'immagine di dolore fisico (il bruciore) per esprimere la sofferenza causata dal fatto che le stesse mani un tempo affettuose ora abbracciano un'altra persona.\n\n\"και δεν με λογαριάσανε\" — \"e non mi hanno considerato/tenuto in conto\": espressione colloquiale per dire che non si è stati minimamente presi in considerazione nei sentimenti o nelle aspettative, sottolineando il senso di abbandono e indifferenza subito.\n\n\"σκάψε την γης βαθιά να μπω\" — \"scava la terra profonda perché io ci entri\": immagine iperbolica di disperazione estrema, tipica della canzone d'amore greca (vedi note precedenti su espressioni simili di \"morte per amore\"), dove l'unico modo per sfuggire al dolore della vista dell'amata con un altro è sparire sottoterra, in un gesto di resa totale al dolore.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789143152806",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=nxeeRj3hmiQ",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-11",
+      "tgr": "Ξύπνα περδικομάτα μου",
+      "tit": "Ksípna perdikomáta mu",
+      "alias": "",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "zona": "Epìro",
+      "dr": "",
+      "bal": "Tsàmikos",
+      "balgr": "Τσάμικος",
+      "ll": "",
+      "li": "",
+      "ch": "Ξύπνα περδικομάτα μου\nκι 'ρθα στο μαχαλά σου\n \nΧρυσά στολίδια σου 'φερα\nνα πλέξεις στα μαλλιά σου\n \nΔεν το 'ξερα λεβέντη μου\nπως ήρθε η αφεντιά σου\n \nΚι αν ήρθες καλωσόρισες\nας έκανες και κόπο\n \nΉρθες και μας ομόρφυνες\nτον έρημο τον τόπο\n \nΝα πεταχτώ σαν πέρδικα\nνα 'ρθω στην αγκαλιά σου\n \nΝα γίνω γης να με πατάς\nγιοφύρι να περάσεις\n \nΝα γίνω κι ασημόκουπα\nνα σε κερνώ να πίνεις\n \nΕσύ να πίνεις το κρασί\nκι εγώ να λάμπω μέσα\n \nΡίξε νερό στην πόρτα σου\nνα μπω να ξαγλυστρίσω\n \nΝα μπω στο σπίτι σου ξανά\nνα 'ρθω να σε φιλήσω",
+      "tr": "Ksípna perdikomáta mu\n\nKsípna perdikomáta mu\nki 'rtha sto machalá su\n\nChrisá stolídia su 'fera\nna pléksis sta malliá su\n\nDen to 'ksera levéndi mu\npos írthe i afendiá su\n\nKi an írthes kalosórises\nas ékanes kie kópo\n\nÍrthes kie mas omórfines\nton érimo ton tópo\n\nNa petachtó san pérdika\nna 'rtho stin angaliá su\n\nNa ghíno ghis na me patás\nghiofíri na perásis\n\nNa ghíno ki asimókupa\nna se kernó na pínis\n\nEsí na pínis to krasí\nki eghó na lámbo mésa\n\nRíkse neró stin pórta su\nna bo na ksaglistríso\n\nNa bo sto spíti su ksaná\nna 'rtho na se filíso",
+      "ti": "Svegliati, occhi di pernice mia\n\nSvegliati, occhi di pernice mia\nsono venuto nel tuo quartiere\n\nTi ho portato ornamenti d'oro\nda intrecciare tra i tuoi capelli\n\nNon lo sapevo, prode mio\nche sarebbe arrivata la tua signoria\n\nE se sei venuto, benvenuto sei\nanche se ti sei preso il disturbo\n\nSei venuto e ci hai abbellito\nil luogo desolato\n\nVorrei balzare come una pernice\nper venire tra le tue braccia\n\nVorrei diventare terra, che tu mi calpesti\nun ponte, che tu attraversi\n\nVorrei diventare anche una coppa d'argento\nper servirti da bere e farti bere\n\nTu berresti il vino\ne io brillerei dentro\n\nGetta acqua sulla tua porta\nche io entri scivolando via\n\nChe io entri di nuovo in casa tua\nche venga a baciarti\n\nNote di traduzione\n\n\"περδικομάτα μου\" — \"occhi di pernice mia\": vezzeggiativo poetico tradizionale per descrivere occhi vivaci, scuri e luminosi, paragonati a quelli della pernice (uccello dagli occhi molto espressivi nella tradizione popolare greca); appellativo affettuoso rivolto all'amata.\n\n\"στο μαχαλά σου\" — \"nel tuo quartiere\" (μαχαλάς, dal turco \"mahalle\"): termine di origine turca entrato nel greco popolare per indicare il quartiere/vicinato, uso comune nelle canzoni tradizionali di corteggiamento.\n\n\"λεβέντη μου\" — \"mio prode/valoroso\" (λεβέντης, dal turco \"levend\"): appellativo tradizionale per un giovane uomo forte, bello e coraggioso, simile a \"παλικάρι\" già visto in altre canzoni.\n\n\"η αφεντιά σου\" — \"la tua signoria\": espressione di cortesia formale/rispettosa (letteralmente \"il tuo essere padrone/signore\"), usata qui in tono galante e leggermente ironico verso l'amato che si presenta come un ospite di riguardo.\n\n\"Να γίνω γης να με πατάς, γιοφύρι να περάσεις\" — \"vorrei diventare terra che tu calpesti, ponte che tu attraversi\": immagine iperbolica di totale devozione e sottomissione amorosa, molto comune nella poesia popolare d'amore mediterranea, dove l'amante desidera annullarsi negli elementi più umili pur di essere sempre a contatto con la persona amata.\n\n\"Να γίνω κι ασημόκουπα\" — \"vorrei diventare anche una coppa d'argento\": prosegue la stessa serie di trasformazioni iperboliche, qui legata al desiderio di intimità conviviale (servire da bere) e di \"risplendere\" nella luce del vino, fondendo materialità preziosa (argento) e presenza costante accanto all'amato.\n\n\"Ρίξε νερό στην πόρτα σου\" — \"getta acqua sulla tua porta\": riferimento a un'usanza popolare scaramantica greca (gettare acqua dietro chi parte per augurargli buona sorte, \"scivoli via\" come l'acqua); qui il senso è invertito/adattato per augurarsi un ingresso \"scivoloso\", cioè facile e senza ostacoli, in casa dell'amata.\n\n\"να ξαγλυστρίσω\" — \"che io scivoli via/entri furtivamente\": verbo che richiama l'immagine dell'acqua versata, suggerendo un ingresso leggero, silenzioso e non ostacolato nella casa dell'amata, in linea con il desiderio di intimità e vicinanza espresso in tutta la canzone.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789125386830",
       "offsets": {},
