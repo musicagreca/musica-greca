@@ -1,8 +1,70 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-12T08:39:50.064Z",
+  "exportedAt": "2026-09-12T09:50:40.576Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789206529580",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιάννης Μπερνιδάκης, Στέλιος Φουσταλιεράκης",
+          "year": "1940",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=td0JNRrrOqw",
+          "vid": false
+        },
+        {
+          "who": "Κώστας Μουντάκης",
+          "year": "1986",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=tGcbDFvEUx4",
+          "vid": false
+        },
+        {
+          "who": "Ψαραντώνης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=WiaJuvM-y3k",
+          "vid": false
+        },
+        {
+          "who": "Νίκος & Αντώνης Ξυλούρης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=b4ZTBTZG5AY",
+          "vid": false
+        },
+        {
+          "who": "Psarogiorgis",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=4oJlgX8vGSA",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-12",
+      "tgr": "Σαν είχες άλλον στην καρδιά",
+      "tit": "San ìchies alon stin kardià",
+      "alias": "Πονεμένη καρδιά",
+      "at": "Γιάννης Μπερνιδάκης",
+      "am": "Στέλιος Φουσταλιεράκης",
+      "yr": "1940",
+      "ar": "",
+      "lb": "",
+      "gn": "canzone urbana cretese",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm         LAm       MIm\nΣαν είχες άλλο στη καρδιά\nMIm             LA\nτι μ' ήθελες εμένα\nLA                  REm\nνα με πληγώσεις να πονώ\nREm         FA     MIm\nώσπου να ζω για σένα\nLA                  REm\nνα με πληγώσεις να πονώ\nREm         FA     MIm\nώσπου να ζω για σένα\n \nMIm         LAm       MIm\nΠαίζεις με τις φτωχές καρδιές\nMIm             LA\nγια να γλεντάς τα νιάτα\nLA                  REm\nκι ύστερα τις ξελησμονάς\nREm         FA     MIm\nστου χωρισμού τη στράτα\nLA                  REm\nκι ύστερα τις ξελησμονάς\nREm         FA     MIm\nστου χωρισμού τη στράτα\n \nMIm         LAm       MIm\nΌσο κι αν παίζεις και γλεντάς\nMIm             LA\nθα 'ρθει και σε η σειρά σου\nLA                  REm\nκαι πίκρες κι αναστεναγμοί\nREm         FA     MIm\nθα κάψουν την καρδιά σου\nLA                  REm\nκαι πίκρες κι αναστεναγμοί\nREm         FA     MIm\nθα κάψουν την καρδιά σου",
+      "tr": "San ìchies alon stin kardià\n\nSan íches állo sti kardiá\nti m'ítheles eména\nna me pligósis na ponó\nóspu na zo ja séna\n\nPézis me tis ftochés kardiés\nja na glendás ta niáta\nki ýstera tis xelismonás\nstu chorizmú ti stráta\n\nÓso ki an pézis ke glendás\ntha 'rthi ke se i sirá su\nke píkres ki anastenagmí\ntha kápsun tin kardiá su",
+      "ti": "Se avevi già un altro nel cuore\n\nSe avevi già un altro nel cuore\nperché volevi proprio me\nper ferirmi, per farmi soffrire\nfinché vivo per te\n\nGiochi con i cuori poveri¹\nper goderti la giovinezza\ne poi te ne dimentichi\nsulla strada della separazione\n\nPer quanto tu giochi e ti diverta\nverrà anche il tuo turno\ne amarezze e sospiri\nbruceranno il tuo cuore\n\n¹ Φτωχές καρδιές (\"cuori poveri\") è un'espressione poetica greca per indicare cuori indifesi, fragili, facilmente feriti — non povertà materiale ma vulnerabilità sentimentale.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789194761711",
       "offsets": {},
@@ -15222,6 +15284,34 @@
         "ar",
         "mu"
       ]
+    },
+    {
+      "id": "p_1789203965395",
+      "name": "Κώστας Μουντάκης",
+      "nameit": "Kòstas Mundàkis",
+      "born": "10 febbraio 1926, Alfá (Provincia di Mylopotamos, Rethymno)",
+      "died": "31 gennaio 1991, Atene",
+      "bio": "Considerato, insieme a Nikos Xylouris, Psarantonis, Thanasis Skordalos e Leonidas Klados, uno dei  lyrari più rappresentativi della musica cretese. Era il più piccolo di sette figli di Nikos Mountakis (musicista e ballerino, soprannominato \"kelaïdís\", \"canterino\") e Kalliopi. La famiglia era originaria di Kallikratis, nella regione degli Sfakia; il bisnonno Manousos, primo scudiero di Chatzimichalis Ntalianis, morì combattendo i turchi a Frangokastello durante la Rivoluzione del 1827. Il padre morì appena tre mesi dopo la nascita di Kostas.\n\nContribuì in modo decisivo all'evoluzione tecnica della lira cretese, che nei laboratori dei liutai andava assumendo la forma moderna, con un repertorio sempre più virtuosistico e una diffusione ormai pancretese, non più solo locale.\n\nPer circa 18 anni suonò come punto fisso nella taverna di Basiàs (dietro Agia Eirini, in via Aiolou), in un sottoscala senza microfono, dividendo il 10% degli incassi con i suonatori di laouto. Suonò insieme a due grandi violinisti popolari, \"Naftis\" (Kostis Papadakis) e Andreas Marianos.\n\nPrima di diventare musicista professionista, fu carabiniere (χωροφύλακας) — un ruolo che, paradossalmente, gli permise di girare e conoscere tutta Creta e la sua musica. Trasferito ad Atene, nel servizio per le \"Alte Personalità\", continuava parallelamente a suonare la lira nei locali importanti della capitale.\n\nNel 1952 accompagnò per la prima volta su disco Stelios Koutsourelis in \"Ήρπαξα και μπαΐλντισα\" (Columbia); nel 1954 cantò lui stesso per la prima volta su disco, sempre con i fratelli Koutsourelis, in \"Δεν θέλω μέσα στην καρδιά\". Passato poi alla Odeon, con \"Ο Ζητιάνος\" e \"Η Ρεθυμνιωτοπούλα\" iniziò una carriera discografica sterminata che lo rese il lyraris cretese più registrato di sempre. Altri titoli celebri: \"Ένα ματσάκι γιασεμιά\", \"Αργαλειός\", \"Μυλωνάδες και μαζώχτρες\", \"Κρητικός γάμος\", e persino un omaggio a Kazantzakis (\"Αναφορά στον Καζαντζάκη\").\n\nFondò le prime vere e proprie scuole di lira, a partire da Iraklio nel 1979, poi diffuse in tutta Creta e ad Atene — un passo fondamentale in un'epoca in cui si pensava che \"la lira non si potesse insegnare\" e che lo strumento non fosse traducibile in note scritte. Secondo la testimonianza di un suo allievo, Vangelis Alexakis, quando gli studenti chiedevano di imparare le sue proprie canzoni, Mountakis insisteva prima sui brani più antichi — \"le radici\" della musica cretese — per salvare un patrimonio musicale mai registrato su disco e a rischio di scomparire per sempre.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/mundakis.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789205702366",
+      "name": "Νίκος & Αντώνης Ξυλούρης",
+      "nameit": "Níkos & Antónis Xylóuris",
+      "born": "",
+      "died": "",
+      "bio": "Conosciuti anche come \"Ξυλουράκια\" (i piccoli Xylouris), sono figli del liutista virtuoso Giorgis Xylouris (\"Psarogiorgis\") e quindi nipoti del leggendario Psarantonis — la terza generazione della celebre famiglia musicale di Anogia. Cresciuti in un ambiente pieno di strumenti e suoni della tradizione cretese, la musica per loro è sempre stata parte naturale della vita.\n\nI due fratelli spaziano con naturalezza da un capo all'altro dello spettro musicale: dal repertorio tradizionale cretese fino all'hardcore punk, dimostrando come per questa famiglia la musica — tradizionale o meno — resti sempre un mezzo di espressione senza confini. In un'intervista raccontano di trovare una sintonia speciale quando suonano insieme lunghe serie di syrtá influenzati dallo stile di Psarantonis e di Nikiforos Aerakis (\"Polios\").\n\nTra le collaborazioni più originali della loro carriera: due esibizioni con l'amico Julian Schneeman — una con l'orchestra sinfonica di Amsterdam (NBE) in un concerto di Capodanno al Concertgebouw, l'altra un incontro tra sonorità cretesi e irlandesi. Si sono esibiti anche al Teatro delle Rocce \"Melina Merkouri\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/xilurakia.jpg",
+      "roles": []
     }
   ]
 }
