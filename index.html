@@ -1991,11 +1991,13 @@ function buildBalliMap(){
 var DIMOTIKO_RE=/^(δημοτικ|παραδοσιακ|dimotik|tradizional)/i;
 var LAIKO_RE=/^(laik|laïk|λαϊκ)/i;
 var ENTECHNO_RE=/^(entechno|éntechno|εντεχνο|έντεχνο)/i;
+var CRETAN_RE=/(κρητικ|kritik|ριζιτικ|rizitik|ταμπαχανιωτικ|tampachaniotik|ταμπακανιωτικ)/i;
 function normGenereKey(g){
   g=(g||'').trim();
   if(DIMOTIKO_RE.test(g)) return 'Dimotikò / Paradosiakò';
   if(LAIKO_RE.test(g)) return 'Laïká';
   if(ENTECHNO_RE.test(g)) return 'Éntechno';
+  if(CRETAN_RE.test(g)) return 'Kritiká / Musica cretese';
   return g;
 }
 function buildGeneriMap(){
@@ -2091,6 +2093,17 @@ function renderElencoGeneri(genere){
     balloH='<div style="margin:.5rem 0 .3rem 0;font-size:11px;color:var(--t3)">Filtra per ballo:</div><div style="display:flex;flex-wrap:wrap">'+bBtns+'</div>';
   }
   el('list-generi-nav').innerHTML=navHtml+subH+balloH;
+
+  // Avviso: se siamo su Dimotikò e il sottogenere selezionato riguarda Creta, suggerisci "Kritiká"
+  var cretaNotice='';
+  if(curGenere==='Dimotikò / Paradosiakò' && curSubGenere && /κρητ|cret/i.test(curSubGenere)){
+    cretaNotice='<div id="creta-notice" style="margin:.6rem 0;padding:.6rem .8rem;background:var(--sur);border:1px solid var(--acc);border-radius:var(--rad);font-size:12px;cursor:pointer;color:var(--t2)">🇬🇷 Cerchi altra musica cretese? Guarda anche <strong style="color:var(--acc)">"Kritiká / Musica cretese"</strong> (ριζίτικα, αστικό κρητικό, ταμπαχανιώτικα...) →</div>';
+  }
+  if(el('creta-notice-wrap')) el('creta-notice-wrap').innerHTML=cretaNotice;
+  else el('list-generi-nav').insertAdjacentHTML('afterend','<div id="creta-notice-wrap">'+cretaNotice+'</div>');
+  if(el('creta-notice')){
+    el('creta-notice').addEventListener('click',function(){ renderElencoGeneri('Kritiká / Musica cretese'); });
+  }
 
   // Listener genere principale
   var btns=el('list-generi-nav').querySelectorAll('.genere-btn');
