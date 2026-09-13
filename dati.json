@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-13T13:14:46.772Z",
+  "exportedAt": "2026-09-13T16:32:27.751Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789315190462",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-13",
+      "tgr": "Κομέτα ρόσσα",
+      "tit": "Cometa rossa",
+      "alias": "",
+      "at": "Ευστράτιος Δημητρίου",
+      "am": "Αρεα",
+      "yr": "1974",
+      "ar": "Ευστράτιος Δημητρίου",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=AdinKtm0Ark",
+      "li": "",
+      "ch": "https://musicagreca.github.io/musica-greca/images/cometarossa.jpg",
+      "tr": "Ánikse chíli mi, ánikse,\ngliká na tragudíso.\nÁnikse tin kardiá.\nKomíti klíse\nto stóma stus piités.\nKomíti klíse\nto stóma ke fíghie.\nÁnikse ta mátia sti eleftería.",
+      "ti": "Traduzione italiana di Demetrio Stratos\n\nApri le mie labbra, aprile\ndolcemente.\nAiuta il mio cuore.\nCometa cuci\nla bocca ai profeti.\nCometa chiudi la bocca e\nvattene via.\nLascia che sia io a trovare\nla libertà.",
+      "no": "La provenienza alessandrina sembra riflettersi anche nel greco usato da Stratos in questo componimento, che è un greco assai particolare, ricco di forme arcaiche frammiste a quelle volgari più ardite e dalla grafia non sempre conseguente e corrispondente a quella ufficiale della lingua greca moderna.",
+      "balvid": false
+    },
     {
       "id": "s_1789206529580",
       "offsets": {},
@@ -36,7 +62,7 @@
           "vid": false
         },
         {
-          "who": "Psarogiorgis",
+          "who": "Γιώργης Ξυλούρης",
           "year": "",
           "note": "",
           "link": "https://www.youtube.com/watch?v=4oJlgX8vGSA",
@@ -15321,6 +15347,68 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/xilurakia.jpg",
       "roles": [
         "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789314267685",
+      "name": "Ευστράτιος Δημητρίου",
+      "nameit": "Demetrio Stratos",
+      "born": "22 aprile 1945, Alessandria d'Egitto",
+      "died": "13 giugno 1979, New York",
+      "bio": "Cantante, polistrumentista e ricercatore vocale italiano di origini greche, frontman del gruppo rock progressivo Area. Celebre per una straordinaria capacità vocale (diplofonie, trifonie, estensione stimata in otto ottave).\n\n[[2026-08-28|leggi l'approfondimento]]",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/stratos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789314381721",
+      "name": "Αρεα",
+      "nameit": "Area",
+      "born": "",
+      "died": "",
+      "bio": "Area\n(Area — International POPular Group)\n\nGruppo di riferimento del rock progressivo/fusion italiano, fondato nel 1972 da Demetrio Stratos e Giulio Capiozzo. Tra i protagonisti della scena musicale d'avanguardia italiana degli anni '70, con forte impegno politico.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/area.jpg",
+      "roles": [
+        "am",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789316679839",
+      "name": "Γιώργης Ξυλούρης",
+      "nameit": "Giórgis Xylóuris",
+      "born": "25 settembre 1965, Anogeia (Rethymno, Creta)",
+      "died": "",
+      "bio": "\"Ψαρογιώργης\" — Psarogiórgis\n\nC'è chi nasce in una famiglia, e c'è chi nasce dentro un'intera tradizione musicale — Giorgis Xylouris appartiene alla seconda categoria. Cresciuto ad Anogeia, uno dei villaggi con la tradizione musicale più profonda di tutta Creta, è figlio di Antonis Xylouris (\"Psarantonis\"), uno dei più grandi lirari cretesi viventi, e nipote diNikos Xilouris. Fu influenzato profondamente anche dall'altro zio, Giannis Xylouris (\"Psarogiannis\"), tra i più importanti laoutieri della sua generazione — Giorgis ricorda ancora vivide, da bambino, le feste in cui i due fratelli suonavano insieme al villaggio, e più tardi le storiche esibizioni di Nikos nelle boîte di Plaka, negli ultimi anni della dittatura.\n\nIn un ambiente dove la musica era semplicemente l'aria che si respirava, iniziò naturalmente a suonare — prima il mandolino da bambino, poi la lira, fino ad approdare al laouto, lo strumento che avrebbe amato più di tutti e in cui sarebbe diventato un virtuoso assoluto: a differenza del ruolo tradizionalmente solo di accompagnamento ritmico dello strumento, Psarogiorgis lo trasforma spesso in vero e proprio strumento melodico protagonista. A 12 anni seguiva già il padre nei suoi concerti in giro per l'Europa e iniziò a farsi conoscere seriamente sulla scena musicale\n\nDall'inizio degli anni '90, Giorgis visse a Melbourne per otto anni, dove fondò il gruppo \"Xylouris Ensemble\", insieme a musicisti di formazioni ed estrazioni completamente diverse tra loro — un incontro che diede vita a un suono autentico, capace di intrecciare le radici tradizionali cretesi con influenze nuove. Con questo gruppo incise cinque dischi e girò a lungo tra Australia ed Europa, conquistandosi un pubblico entusiasta e sorprendentemente eterogeneo. Fu proprio in questi anni che conobbe il batterista australiano Jim White (dei Dirty Three) — un incontro che, ripreso poi nel 2013, darebbe vita al duo \"Xylouris White\", tuttora attivo.\nIn Australia conobbe anche Sheila, che sarebbe diventata sua moglie — la famiglia sarebbe rimasta per anni divisa tra Creta e Australia, fino al definitivo ritorno a Creta con i tre figli ancora piccoli. Un aneddoto raccontato dalla stessa Sheila rende bene l'uomo: appena atterrato dall'aereo di quel trasferimento, Giorghis andò dritto a un matrimonio dove doveva suonare — sceso dall'aereo, si cambiò la camicia e corse a non mancare all'appuntamento.\n\nChi lo conosce da vicino lo descrive come uno dei musicisti più instancabili mai incontrati: capace di suonare per ore intere tra panighiria, feste e concerti, e allo stesso tempo un padre di famiglia presente e amorevole per i suoi tre figli — Nikos, Antonis e Apollonia — cresciuti anche loro, inevitabilmente, dentro la stessa musica di famiglia.\n\nLa sua vicenda, insieme a quella dei genitori e dei figli, è stata raccontata nel documentario \"Μια Οικογενειακή Υπόθεση\" (Una faccenda di famiglia, 2015) della regista Angeliki Aristomenopoulou — un ritratto che segue tre generazioni della stessa famiglia, culminando in un concerto che le riunisce tutte insieme sullo stesso palco, al festival internazionale Womadelaide.\n\nDietro ogni nota che suona, si sente un'intera storia di trasmissione — di padre in figlio, di zio in nipote, di un villaggio di montagna che continua a mandare la propria voce nel mondo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/psaroghiorghis.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789317134181",
+      "name": "Αχιλλέας Περσίδης",
+      "nameit": "Achilléas Persídis",
+      "born": "13 luglio 1951, Ilioupoli, Atene",
+      "died": "",
+      "bio": "Musicista e compositore greco, attivo professionalmente dal 1968, suonando chitarra e laouto. Da giovane, deluso dall'atmosfera stagnante della Grecia post-dittatura, sentì il bisogno di viaggiare — dalla Spagna a Berlino (allora ancora divisa dalla Guerra Fredda), fino a Creta — vivendo l'esperienza del viaggio non solo come mestiere ma come vera scoperta di culture musicali diverse. Portò questa stessa ricerca anche nelle tournée con le grandi formazioni ateniesi che accompagnavano cantanti noti del repertorio greco, in giro per le Americhe e l'Australia.\n\nAgli inizi della carriera, prima del 1975, suonava nei locali storici di Plaka insieme all'amico Vasilis Rakopoulos — due voci, due chitarre, repertorio blues, Beatles, Dylan, con l'immancabile armonica a bocca.\n\nNel 1994, insieme a un gruppo di musicisti (Tsiko alle percussioni/batteria, Takis Kanellos alle percussioni, Ilias Tsagkaris a percussioni e basso), fondò il gruppo \"Νότιος Ήχος\" (Suono del Sud), incidendo il primo disco omonimo — a cui parteciparono anche Ross Daly alla lira cretese, Panos Gkekas a piano e percussioni, Giorgos Xylouris al laouto, e Vasilis Rakopoulos alla chitarra classica.\n\nNel corso della carriera ha collaborato ampiamente con Ross Daly, Psarantonis e molti altri musicisti, in Grecia e all'estero, lasciando un'impronta musicale personale attraverso l'incontro tra culture musicali diverse in giro per il mondo.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/persidis.jpg",
+      "roles": [
+        "am",
         "mu"
       ]
     }
