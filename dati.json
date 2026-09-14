@@ -1,8 +1,231 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-13T16:32:27.751Z",
+  "exportedAt": "2026-09-14T07:16:24.761Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789370146273",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-14",
+      "tgr": "Μάτια μου, μάτια μου",
+      "tit": "Mátia mou, mátia mou",
+      "alias": "",
+      "at": "Λευτέρης Παπαδόπουλος",
+      "am": "Σταύρος Κουγιουμτζής",
+      "yr": "1976",
+      "ar": "Χάρις Αλεξίου",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=9b9j3VKA-MI",
+      "li": "",
+      "ch": "REm                      SOLm\nΑπό το σπίτι μου περνάς\n     REm       LA      REm\nΓιατί καλέ δε μ' αγαπάς\nREm               SOLm\nΑπό το σπίτι μου περνάς\n     REm       LA      REm\nΓιατί καλέ δε μ' αγαπάς\n\nREm\nΑνέβηκα τη σκάλα\nSOLm    LA   LA7  REm\nΜάτια μου, μάτια μου\nREm\nΓια κοίτα με μια στάλα\nSOLm      LA7    REm\nΓια να ζαλιστώ\n\nREm\nΝα ζαλιστώ να πέσω\nSOLm     LA   LA7   REm\nΜάτια μου, μάτια μου\nREm\nΓιατρό να σε καλέσω\nSOLm      LA7    REm\nΓια να γιατρευτώ\n\nREm                   SOLm\nΜε βρήκαν μπόρες και βροχές\n     REm          LA        REm\nΓιατί καλέ μου δεν με θές",
+      "tr": "Mátia mu, mátia mu\n\nApó to spíti mu pernás\nGhiatí kalé de m'aghapás\nApó to spíti mu pernás\nGhiatí kalé de m'aghapás\n\nAnévika ti skála\nMátia mu, mátia mu\nGhia kíta me mia stála\nGhia na zalistó\n\nNa zalistó na péso\nMátia mu, mátia mu\nGhiatró na se kaléso\nGhia na ghiatreftó\n\nMe vríkan bóres kie vrochés\nGhiatí kalé mu den me thés",
+      "ti": "Occhi miei, occhi miei\n\nPassi davanti a casa mia\nPerché, bella, non mi ami\nPassi davanti a casa mia\nPerché, bella, non mi ami\n\nSono salito sulla scala\nOcchi miei, occhi miei¹\nGuardami almeno una goccia²\nTanto da farmi girare la testa\n\nDa girarmi la testa e cadere\nOcchi miei, occhi miei\nChiamare un medico per te\nPer farmi curare\n\nMi hanno colto tempeste e piogge³\nPerché, bella mia, non mi vuoi\n\n¹ Μάτια μου (\"occhi miei\") è un vezzeggiativo molto comune nel greco popolare, usato come \"tesoro mio\", \"amore mio\" — non si riferisce letteralmente agli occhi.\n\n² Μια στάλα significa letteralmente \"una goccia\", usato qui in senso figurato come \"anche solo un po'\", \"anche solo un pochino\" — un'espressione molto comune per chiedere un minimo di attenzione o gentilezza.\n\n³ Μπόρες και βροχές (\"tempeste e piogge\") è un'immagine poetica per le disgrazie e i dispiaceri d'amore che si abbattono sulla persona, paragonati a intemperie.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789368946601",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δημήτρης Παπαμιχαήλ",
+          "year": "1966",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=1QjylX06zKY",
+          "vid": false
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης, Βίκυ Μοσχολιού",
+          "year": "1967",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=45TO-ClzfZQ",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-14",
+      "tgr": "Μάτια βουρκωμένα",
+      "tit": "Matia vurkomèna",
+      "alias": "",
+      "at": "Νίκος Γκάτσος",
+      "am": "Σταύρος Ξαρχάκος",
+      "yr": "1966",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "FA             RE           SOLm\nΚάτω στον Πειραιά, στα Καμίνια\nDO                             FA\nφτώχια, καλή καρδιά, μα και γκρίνια\nFA                        RE\nΜάζεψα μια βραδιά τα σαΐνια\nDO           LA#      LAm         SOLm\nκι ήρθα ξανά τον παλιό μου καημό να σου πω\n \nDO                    FA\nΜάτια βουρκωμένα, παραπονεμένα\nDO        LA#      LAm     SOLm   FA\nδίχως αγάπη και πόνο κανένας δε ζεί\nDO                           FA\nΜάτια βουρκωμένα, πάρτε με και μένα\nDO        LA#      LAm     SOLm   FA\nΠάρτε με τώρα να πάμε στον κόσμο μαζί\n \nFA              RE          SOLm\nΚάτω στον Πειραιά, στο Μουράγιο\nDO                FA\nείπα να σκοτωθώ, μα τον άγιο\nFA                        RE\nΜα έκανα υπομονή και κουράγιο\nDO              LA#      LAm         SOLm\nκι ήρθα κρυφά τον παλιό μου καημό να σου πω\n \n \nDO                    FA\nΜάτια βουρκωμένα, παραπονεμένα\nDO        LA#      LAm     SOLm   FA\nδίχως αγάπη και πόνο κανένας δε ζεί\nDO                           FA\nΜάτια βουρκωμένα, πάρτε με και μένα\nDO        LA#      LAm     SOLm   FA\nΠάρτε με τώρα να πάμε στον κόσμο μαζί",
+      "tr": "Matia vurkomèna\n\nKáto ston Pireá, sta Kamínia\nftóchia, kalí kardiá, ma kie ngkrínia\nMázepsa mia vradiá ta saínia\nki íltha ksaná ton palió mu kaimó na su po\n\nMátia vurkoména, paraponeména\ndíchos aghápi kie póno kanénas de zí\nMátia vurkoména, párte me kie ména\nPárte me tóra na páme ston kósmo mazí\n\nKáto ston Pireá, sto Murághio\nípa na skotothó, ma ton ághio\nMa ékana ipomoní kie kurághio\nki íltha krifá ton palió mu kaimó na su po\n\nMátia vurkoména....",
+      "ti": "Occhi velati di lacrime\n\nGiù al Pireo, a Kaminia¹\npovertà, buon cuore, ma anche lamentele\nHo radunato una sera i ragazzi in gamba²\ne sono tornato a raccontarti la mia vecchia pena\n\nOcchi velati di lacrime, addolorati\nsenza amore e senza dolore nessuno vive\nOcchi velati di lacrime, prendete anche me\nPrendetemi ora, andiamo insieme nel mondo\n\nGiù al Pireo, al Mouraghio³\navevo detto di uccidermi, ma per il santo⁴\nho avuto pazienza e coraggio\ne sono venuto di nascosto a raccontarti la mia vecchia pena\n\nOcchi velati di lacrime...\n\n¹ Καμίνια è un quartiere popolare del Pireo, storicamente legato all'ambiente del rebetiko e della vita portuale povera ma dignitosa.\n\n² Σαΐνια (letteralmente \"falchi\") è un termine gergale del rebetiko per indicare ragazzi svegli, furbi, \"in gamba\" — spesso con una sfumatura di ammirazione per chi sa cavarsela nella vita di strada.\n\n³ Μουράγιο è il molo/bacino portuale del Pireo, luogo tipico delle ambientazioni rebetiche.\n\n⁴ \"Μα τον άγιο\" è un'espressione popolare di scongiuro (\"per il santo!\", \"lo giuro sul santo\") usata per intensificare un'affermazione, qui nel senso di \"stavo per farlo davvero, ma qualcosa (un giuramento, la fede) mi ha fermato\".",
+      "no": "Il brano non nacque come singolo discografico a sé stante, ma fu composto per una celebre opera teatrale del 1966 intitolata \"Che fare?\" (Τι να κάνω;) con protagonisti la coppia di attori più famosa dell'epoca, Dimitris Papamichael e Aliki Vougiouklaki.\nLa scena diventata iconica: nel film, Papamichail interpreta Grigoris, un giovane operaio edile innamorato del canto — mentre lavora su un'impalcatura cantando, passano di lì un maestro d'orchestra (Vangelis) e due suonatori di buzuki che, incantati dalla sua voce, gli propongono di unirsi alla loro orchestra. Da lì, il neo-sposato \"meroкamatiaris\" si ritrova con un secondo lavoro, nel locale notturno del signor Lefteris. La scena di lui che canta \"Μάτια βουρκωμένα\" letteralmente sopra un'impalcatura, con i muratori che ballano sotto mentre suona il buzuki, è rimasta tra le più celebri e amate del cinema greco d'epoca.\n\nCuriosità sul cast musicale: nella stessa scena, un giovanissimo Stamatis Kokotas (allora ancora sconosciuto, \"senza basette\") appare in un ruolo da attore, suonando il buzuki per la canzone.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789367322508",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-14",
+      "tgr": "Δελφίνι, δελφινάκι",
+      "tit": "Delfini, delfinaki",
+      "alias": "",
+      "at": "Λευτέρης Παπαδόπουλος",
+      "am": "Μάνος Λοΐζος",
+      "yr": "1968",
+      "ar": "Γιάννης Καλατζής",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=a0UHlny1Ph0",
+      "li": "",
+      "ch": "LA            MI    RE       MI  LA\nΚαβάλα στο δελφίνι τον κόσμο γύρισα\nRE   MI     SImin MI     RE   LA RE   MI     LA\nΕίπα να σε ξεχάσω, μα σ' αποθύμησα, σ' αποθύμησα\n\nLA             SImin  MI           LA       MI   LA\nΔελφίνι, δελφινάκι, πάμε πιο γρήγορα, πάμε πιο γρήγορα\nLA             SImin  MI           LA       MI   LA\nΝα δω τα γυριστά της τα ματοτσίνορα, τα ματοτσίνορα\n\nLA            MI    RE       MI  LA\nΌπου και να γυρνούσα, ερχόσουν πίσω μου\nRE   MI     SImin MI     RE   LA RE   MI     LA\nλαβωματιά στο στήθος το πελαγίσιο μου, πελαγίσιο μου\n\nLA             SImin  MI           LA       MI   LA\nΔελφίνι, δελφινάκι, πάμε πιο γρήγορα, πάμε πιο γρήγορα\nLA             SImin  MI           LA       MI   LA\nΝα δω τα γυριστά της τα ματοτσίνορα, τα ματοτσίνορα",
+      "tr": "Delfíni, delfináki\n\nKavála sto delfíni ton kósmo ghírisa\nÍpa na se ksecháso, ma s'apothímisa, s'apothímisa\n\nDelfíni, delfináki, páme pio grígora, páme pio grígora\nNa do ta ghiristá tis ta matotsínora, ta matotsínora\n\nÓpu kie na ghirnúsa, erchósun píso mu\nlavomatiá sto stíthos to pelaghísio mu, pelaghísio mu\n\nDelfíni, delfináki...",
+      "ti": "Delfino, piccolo delfino\n\nA cavallo di un delfino ho girato il mondo\nAvevo detto di dimenticarti, ma mi sei mancata, mi sei mancata\n\nDelfino, piccolo delfino, andiamo più veloce, andiamo più veloce\nper vedere i suoi occhi dalle ciglia ricurve¹, dalle ciglia ricurve\n\nOvunque girassi, tu tornavi dietro di me\nuna ferita nel petto, il mio petto come un mare aperto²\n\nDelfino, piccolo delfino\n\n¹ Γυριστά ματοτσίνορα (\"ciglia ricurve\") è un'immagine tipica della poesia d'amore greca per descrivere occhi seducenti, dallo sguardo che \"si incurva\" verso chi guarda.\n\n² Πελαγίσιο deriva da \"πέλαγος\" (mare aperto, pelago): qui il petto ferito viene paragonato a un mare vasto e profondo, per esprimere un dolore d'amore immenso e senza confini.",
+      "no": "Nato sul retro di un pacchetto di sigarette: Lefteris Papadopoulos ha raccontato in diverse interviste che l'ispirazione per il testo nacque quasi per gioco durante una vacanza estiva. Scrisse i primi versi di getto sul retro di un pacchetto di sigarette mentre si trovava in un caffè davanti al mare. Quando lo lesse a Manos Loïzos, il compositore andò al pianoforte e creò la melodia immortale in pochissimi minuti.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789364817275",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-14",
+      "tgr": "Ήχος Της Πέτρας",
+      "tit": "Ichos tis pètras",
+      "alias": "",
+      "at": "",
+      "am": "Αχιλλέας Περσίδης",
+      "yr": "1994",
+      "ar": "Αχιλλέας Περσίδης",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=glVkrFUGTEY",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "Suono della pietra",
+      "no": "Brano puramente strumentale, tratto dal disco d'esordio del gruppo \"Νότιος Ήχος\" (1994, Philips), fondato da Achilleas Persidis insieme a Tsiko, Takis Kanellos e Ilias Tsagkaris. Alla registrazione parteciparono anche Ross Daly alla lira cretese, Giorgos Xylouris al laouto, Panos Gkekas e Vasilis Rakopoulos — un incontro di musicisti di diversa estrazione, tra tradizione cretese e ricerca sonora contemporanea.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789364001798",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Νίκος Ξυλούρης",
+          "year": "1971",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=gJm6wHZkdPg",
+          "vid": false
+        },
+        {
+          "who": "Κώστας Μουντάκης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=wzsar9aQKcE",
+          "vid": false
+        },
+        {
+          "who": "Βασίλης Σκουλάς",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=YVmQKENx5-Q",
+          "vid": false
+        },
+        {
+          "who": "Γιώργης Ξυλούρης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=iHdY89ERLIw",
+          "vid": false
+        },
+        {
+          "who": "Γιάννης Χαρούλης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ARQ2U44m1j4",
+          "vid": false
+        },
+        {
+          "who": "Ξυλουράκια (Τα)",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=7Npo_skxieY",
+          "vid": false
+        },
+        {
+          "who": "Ηρώ Σαΐα",
+          "year": "2024",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=i_mZRnCP3G4",
+          "vid": false
+        },
+        {
+          "who": "Μαρία Λούκα, Σωκράτης Μάλαμας",
+          "year": "2006",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Ka6nWDIEg88",
+          "vid": false
+        },
+        {
+          "who": "Μίκης Θεοδωράκης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=-3bYBWbv5kY",
+          "vid": false
+        },
+        {
+          "who": "Νίκη Ξυλούρη, Ψαραντώνης",
+          "year": "2012",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=GeeIAnCHgqs",
+          "vid": false
+        },
+        {
+          "who": "Ψαραντώνης",
+          "year": "",
+          "note": "da minuto 9:12",
+          "link": "https://www.youtube.com/watch?v=UY81L7V5_0U",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-14",
+      "tgr": "Σε ψηλό βουνό",
+      "tit": "Se psiló vounó",
+      "alias": "Ο αϊτός",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "Rizítika",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "SOL                   LAm                   Mim\nΣε ψηλό βουνό, σε ριζιμνιό χαράκι, ω, να, χαράκι\nSOL     RE    LAm    SOL   RE   LAm\nκάθεται, κάθεται, κάθεται 'ν' αϊτός\nRE            Mim\nΚάθεται 'ν' αϊτός\n\nSOL            LAm          Mim\nΒρεγμένος χιονισμένος ο καημένος\nSOL   RE    LAm   SOL    RE   LAm\nκαι παρα-, και παρα-, και παρακαλεί\nRE       Mim\nκαι παρακαλεί\n\nSOL                   LAm                   Mim\nΚαι παρακαλεί τον ήλιο ν' ανατείλει, ν' ανατείλει\nSOL     RE    LAm    SOL   RE   LAm\nΉλιε ανά-, ήλιε ανά-, ήλιε ανάτειλε\nRE       Mim\nΉλιε ανάτειλε\n\nSOL            LAm           Mim\nΉλιε λάμψε και δώ-, λάμψε και δώσε\nSOL    RE    LAm     SOL     RE     LAm\nγια να λιώ-, για να λιώ-, για να λιώσουνε\nRE       Mim\nΓια να λιώσουνε\n\nSOL                   LAm                   Mim\nΓια να λιώσουνε τα χιόνια 'πο τα φτερά, απ' τα φτερά μου\nSOL     RE        LAm       SOL   RE     LAm\nκαι τα κρου-, και τα κρου-, και τα κρούσταλλα\nRE       Mim\nκαι τα κρούσταλλα\n SOL           LAm                   Mim\nΑπό τ' ακράνυχά μου, απ' τ' ακράνυχά μου\nSOL   RE    LAm    SOL   RE    LAm\nΉλιε ανά-, ήλιε ανά-, ήλιε ανάτειλε\nRE       Mim\nΉλιε ανάτειλε",
+      "tr": "Se psiló vounó\n\nSe psiló vunó, se rizimnió charáki, o, na, charáki\nkáthete, káthete, káthete n'aitós\nKáthete n'aitós\n\nVregménos chionisménos o kaïménos\nkie para-, kie para-, kie parakalí\nkie parakalí\n\nKie parakalí ton ílio n'anatíli, n'anatíli\nÍlie aná-, ílie aná-, ílie anátile\nÍlie anátile\n\nÍlie lámpse kie dó-, lámpse kie dóse\nghia na lió-, ghia na lió-, ghia na liósune\nGhia na liósune\n\nGhia na liósune ta chiónia 'po ta fterá, ap'ta fterá mu\nkie ta kru-, kie ta kru-, kie ta krústala\nkie ta krústala\n\nApó t'akránichá mu, ap't'akránichá mu\nÍlie aná-, ílie aná-, ílie anátile\nÍlie anátile",
+      "ti": "Su un alto monte\n\nSu un alto monte, su una rupe scoscesa, oh sì, una rupe,\nsiede, siede, siede un'aquila¹\nSiede un'aquila\n\nBagnata, coperta di neve, la poveretta\ne prega, e prega, e prega\ne prega\n\nE prega il sole di sorgere, di sorgere\nSole sorgi, sole sorgi, sole sorgi\nSole sorgi\n\nSole splendi e dai, splendi e dai\nper sciogliere, per sciogliere, per sciogliere\nPer sciogliere\n\nPer sciogliere le nevi dalle ali, dalle mie ali\ne i ghiaccioli, e i ghiaccioli, e i ghiaccioli\ne i ghiaccioli\n\nDai miei artigli², dai miei artigli\nSole sorgi, sole sorgi, sole sorgi\nSole sorgi\n\n¹ Ο αϊτός (l'aquila) è una figura molto ricorrente nella poesia popolare greca, spesso simbolo di forza, solitudine e sofferenza silenziosa — qui rappresenta chi soffre in disparte aspettando un sollievo (il sole) che tarda ad arrivare.\n\n² Ακράνυχα sono propriamente gli artigli/unghie degli animali rapaci; l'immagine del ghiaccio che si scioglie dalle ali e dagli artigli rafforza il quadro dell'aquila intirizzita dal freddo, quasi paralizzata, che aspetta il calore per liberarsi.",
+      "no": "Nota — una versione andina\n\nEsiste anche una sorprendente rielaborazione di questo rizítiko in chiave andina/latinoamericana, intitolata \"En las montañas\" (arrangiamento e produzione di Pedro Fabián), che unisce la lira cretese (Giorgos Kontogiannis) a strumenti tradizionali delle Ande — charango, quena, siku, toyo — con le voci di Vasilis Dramountanis e dello stesso Pedro Fabián. Un incontro insolito tra due culture di montagna lontanissime tra loro, che il titolo stesso richiama direttamente (\"En las montañas\" = \"Sulle montagne\", come \"Σε ψηλό βουνό\").\n\nhttps://www.youtube.com/watch?v=SQqjSqQTi2E",
+      "balvid": false
+    },
     {
       "id": "s_1789315190462",
       "offsets": {},
@@ -15410,6 +15633,93 @@
       "roles": [
         "am",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1789359229140",
+      "name": "Βασίλης Σκουλάς",
+      "nameit": "Vasílis Skoulás",
+      "born": "3 febbraio 1946, Anogeia (Mylopotamos, Rethymno)",
+      "died": "",
+      "bio": "Cantante e lyraris cretese, da una famiglia con profonda tradizione artistica: il nonno Michalis Skoulas fu un importante lyraris della propria epoca, mentre il padre Alkiviadis Skoulas, detto \"Grylios\" (1902-1996), fu un noto pittore popolare di Anogeia.\n\nIniziò a studiare la lira a soli 7 anni, e già a 16 anni riuscì ad affermarsi tra i primi lyrari e cantanti di Creta. Una svolta importante nella carriera avvenne nel 1995, quando partecipò con due brani all'opera musicale \"Aiolia\" di Michalis Nikoloudis — un'esperienza che lo avvicinò all'éntechno greco. Nel 1980 aveva già iniziato a collaborare con compositori colti greci, a partire dal disco \"Σεργιάνισμα στην Κρήτη\"; seguirono poi la \"Κρητική ανθολογία\" e \"Τα τραγούδια του σίδερου και του νερού\" su musica di Giannis Markopoulos.\n\nIl 23 settembre 2012 tenne un concerto di grande successo all'Odeon di Erode Attico. Ha portato la musica cretese in tournée in Stati Uniti, Canada, Australia e Germania. Più recentemente, si è fatto conoscere anche al grande pubblico grazie alla popolare serie TV \"Σασμός\", con i brani \"Τα Αντίθετα\" e \"Κερί Αναμμένο\", diventati colonna sonora della storia d'amore tra i protagonisti Antonis e Marina.\n\nHa due figli e due nipoti, e gestisce tuttora, ad Anogeia, la taverna \"Ντελίνα\", storico punto di ritrovo e luogo delle sue esibizioni.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/skulas.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789360785262",
+      "name": "Ηρώ Σαΐα",
+      "nameit": "Iró Saía",
+      "born": "1979, Larissa",
+      "died": "",
+      "bio": "Cantante e artista greca, diplomata alla Scuola di Recitazione del Nuovo Teatro Greco di Giorgos Armenis, con studi anche in Cultura Greca presso l'Università Aperta Ellenica e canto presso il Conservatorio Nazionale. Membro fondatore del gruppo musicale-teatrale \"Speira-Speira\", partecipò a diversi spettacoli teatrali (\"Όλοι μαύρα κι ένα πιάνο\", \"Sold out\", \"Αυτή η νύχτα μένει\", tra gli altri).\n\nNel 2010 presentò lo spettacolo \"Γυναίκα Τριαντάφυλλο\" al teatro Athinaïda, con la regia musicale di Stamatis Kraounakis — la registrazione dal vivo di quello spettacolo segnò il suo debutto discografico personale.\n\nNel 2011 iniziò la collaborazione con Stavros Xarhakos, partecipando al tributo a Manos Hatzidakis al Gazarte e, a settembre dello stesso anno, all'Odeon di Erode Attico. La collaborazione proseguì nel 2012 con lo spettacolo \"Αμάν... Αμήν\" al teatro Akropol, e con la partecipazione a \"Πάμε κοπέλες\" insieme ad Afroditi Manou.\n\nSposò lo stesso Stavros Xarhakos nel 2015, poco dopo il 76° compleanno di lui (14 marzo), diventandone la compagna e infine la moglie, mantenendo sempre una vita privata riservata e lontana dai riflettori.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/saia.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1789361147438",
+      "name": "Μαρία Λούκα",
+      "nameit": "María Loúka",
+      "born": "1983, Iraklio (Creta)",
+      "died": "",
+      "bio": "Cantautrice e interprete greca, cresciuta ascoltando alla radio laïkó ed elafrolaïkó dell'epoca (Alexiou, Marinella, Kazantzidis). Iniziò gli studi musicali (pianoforte e teoria) al Conservatorio di Iraklio, partecipando anche al coro giovanile del Comune, con cui tenne concerti in Grecia e all'estero. Si trasferì ad Atene a 17 anni per proseguire gli studi, frequentando il Conservatorio Nazionale e il Dipartimento di Studi Teatrali del \"Θέατρο των Αλλαγών\". Le prime esperienze professionali le fece in piccoli rembetádika della capitale.\n\nFu scoperta da Dionysis Savvopoulos, che la invitò a partecipare allo spettacolo musicale \"Σε Γιορτινό Αγώνισμα\", insieme a Nikos Papazoglou. Da lì iniziò una lunga serie di collaborazioni con grandi nomi della musica greca: Sokratis Malamas (una collaborazione durata oltre tre anni), Giannis Markopoulos, Eleni Vitali, Miltos Paschalidis, Christos Thivaios, Giannis Charoulis, Nikos Mamangakis, Manolis Lidakis, Gerasimos Andreatos.\n\nHa inoltre partecipato ai dischi di artisti più giovani, come \"Χιλιόμετρα\" e \"Όλα τα χρώματα του Μπλε\" di Nikos Zournis, al disco live di Pavlos Pavlidis al teatro Apollon di Syros, e a \"Τα Κρυμμένα\" di Filippos Pliatsikas.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/luka.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1789362087337",
+      "name": "Νίκη Ξυλούρη",
+      "nameit": "Níki Ksilùri",
+      "born": "",
+      "died": "",
+      "bio": "Musicista e cantante originaria di Anogeia (Creta), figlia del lyraris Antonis Xylouris (\"Psarantonis\"). Cresciuta in una famiglia interamente immersa nella musica, racconta di essere stata affascinata fin da bambina dal potere della musica di creare e intensificare le emozioni. A soli 12 anni cantò già a un festival dedicato all'anniversario della caduta della dittatura.  Suona regolarmente insieme al padre e ai fratelli oltre che con la propria musica personale, proponendo un repertorio che unisce canzoni tradizionali cretesi rivisitate, brani della tradizione popolare greca in generale, ed episodi mai incisi prima. Descrive il rapporto artistico con il padre come un equilibrio delicato: pur non sentendosi mai \"oscurata\" dal peso del cognome familiare, riconosce di tenere sempre conto del suo giudizio, muovendosi \"a metà strada\" tra la protezione di una figlia e la spinta a crescere artisticamente in autonomia.  Durante il periodo della pandemia, mentre i concerti si erano fermati, si dedicò con il padre e i fratelli a un progetto speciale: la registrazione casalinga dell'Erotokritos, il celebre poema cretese di Vincenzo Cornaro.  Descrive la musica cretese come qualcosa di profondamente interiore, capace però in altri momenti di farsi quasi dionisiaca.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/nikixiluri.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1789365861817",
+      "name": "Ρος Ντέιλι",
+      "nameit": "Ross Daly",
+      "born": "29 settembre 1952, Norfolk, Inghilterra, da genitori irlandesi",
+      "died": "",
+      "bio": "Musicista, compositore e ricercatore musicale, di formazione irlandese-inglese ma residente in Grecia da quasi 50 anni — al punto da essere considerato, soprattutto a Creta, \"più cretese dei cretesi stessi\". A causa del lavoro del padre nel settore informatico, da bambino cambiò spesso paese: Inghilterra, Canada, Giappone, California.\n\nIl suo primo viaggio a Creta risale al 1970, nell'ambito di un percorso di ricerca sulle musiche del mondo. Fu lì che conobbe il grande maestro Kostas Mountakis, con cui iniziò a studiare la lira cretese — anche se inizialmente ripartì presto verso mete più orientali, arrivando fino in India e Afghanistan (da cui deriva la sua specializzazione anche nel rabab afgano). Tornò poi definitivamente a Creta, dedicandosi seriamente allo studio della lira sotto la guida di Mountakis per molti anni, mentre frequentava anche la Turchia, approfondendo la musica classica ottomana e quella popolare turca.\n\nRacconta lui stesso di aver scelto la lira dopo aver scoperto i limiti del sitar (perfetto solo per la musica classica indiana, \"troppo specifico\" per fare altro), mentre la lira gli si rivelò capace di custodire l'enorme tradizione cretese e, allo stesso tempo, di aprirsi a molto altro.\n\nNel 1982 debuttò nella discografia greca con l'album \"Ονείρου Τόποι\". Seguirono lavori sempre più orientati verso una rilettura innovativa della tradizione cretese, come \"Ανάδυση\" (1987, pubblicato dall'etichetta Seirios di Manos Hatzidakis), \"Ελεύθερο Σημείο\" (1989) e \"Κύκλος Στο Σταυροδρόμι\" (1990) — dischi che lo avvicinarono sempre più all'improvvisazione e alle sonorità fusion.\n\nFondò il laboratorio musicale \"Λαβύρινθος\" (Labyrinth), dedicato all'insegnamento della lira cretese alle nuove generazioni, portando poi i suoi allievi in tournée internazionali (Stati Uniti, Spagna, Paesi Bassi e altri paesi) per diffondere la tradizione cretese nel mondo. Nel 2022 il progetto ha festeggiato i 40 anni di attività.\nDal 2002, il laboratorio musicale \"Λαβύρινθος\" (fondato nel 1982) si trasferì in un bellissimo edificio storico nel villaggio di Houdetsi (provincia di Pediada, a circa 20 km da Iraklio). Lì, oltre a seminari e masterclass con grandi maestri della musica tradizionale mondiale, ospita anche un vero e proprio Museo degli Strumenti Musicali — una collezione personale che Ross Daly ha raccolto nel corso di tutti i suoi viaggi intorno al mondo, con strumenti provenienti da culture ed epoche diverse.\n\nIl complesso include anche un laboratorio di restauro e costruzione di strumenti, per garantirne la conservazione, ed è diventato un centro di riferimento riconosciuto a livello internazionale per la musica tradizionale mondiale, culminando ogni anno nel celebre Festival di Houdetsi.\n\nCon oltre 36 dischi personali e più di tre decenni di presenza discografica, si definisce lui stesso prima di tutto un compositore, che studia le diverse tradizioni musicali come fonti a cui attingere, piuttosto che come sistemi chiusi da riprodurre fedelmente.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/rossdaly.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789368193285",
+      "name": "Δημήτρης Παπαμιχαήλ",
+      "nameit": "Dimítris Papamichaíl",
+      "born": "29 agosto 1934, Pireo",
+      "died": "8 agosto 2004, Kranidi (Argolide)",
+      "bio": "Attore greco di teatro e cinema, tra i protagonisti della \"età dell'oro\" del cinema greco. Studiò alla Scuola di Recitazione del Teatro Nazionale, debuttando nel 1955 con l'\"Ecuba\" di Euripide; proseguì poi al Teatro d'Arte con Karolos Koun.\n\nDivenne celebre soprattutto per il sodalizio artistico e sentimentale con Aliki Vougiouklaki, iniziato nel 1959 sul set del film \"Αστέρω\" — la coppia più famosa della storia del cinema e teatro greco, protagonista insieme per un decennio (dal 1964), sia sullo schermo sia sul palco, oltre che nella vita reale. Dal matrimonio nacque il figlio Giannis Papamichail.\n\nDopo il divorzio, si dedicò maggiormente al teatro di qualità, recitando con grandi nomi come Kyveli, Paxinou, Synodinou, Minotis; fu protagonista al Teatro Statale della Grecia del Nord (KThBE) e presidente dell'associazione attori del Nord Grecia. Fu anche consigliere comunale del Pireo (1986-1990), città a cui restò sempre legato.\n\nTra i film più amati: \"Το ξύλο βγήκε από τον παράδεισο\", \"Αστέρω\", \"Μανταλένα\", \"Η Αλίκη στο Ναυτικό\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/papamichail.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
