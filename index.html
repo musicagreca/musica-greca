@@ -1430,15 +1430,15 @@ function renderElencoCanzoni(){
   var list=songs.filter(function(s){
     var alias=(s.alias||'').toLowerCase();
     var matchQ = srchMode!=='titolo' || !q
-      ||(s.tgr||'').toLowerCase().indexOf(q)>=0
-      ||(dispTit(s)).toLowerCase().indexOf(q)>=0
-      ||(s.at||'').toLowerCase().indexOf(q)>=0
-      ||(s.am||'').toLowerCase().indexOf(q)>=0
-      ||(s.ar||'').toLowerCase().indexOf(q)>=0
-      ||(s.gn||'').toLowerCase().indexOf(q)>=0
-      ||(s.dr||'').toLowerCase().indexOf(q)>=0
+      ||stripAccents((s.tgr||'').toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((dispTit(s)).toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((s.at||'').toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((s.am||'').toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((s.ar||'').toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((s.gn||'').toLowerCase()).indexOf(qNorm)>=0
+      ||stripAccents((s.dr||'').toLowerCase()).indexOf(qNorm)>=0
       ||(s.yr||'').toLowerCase().indexOf(q)>=0
-      ||alias.indexOf(q)>=0
+      ||stripAccents(alias).indexOf(qNorm)>=0
       // ── ricerca anche dentro il testo della canzone (greco/traslitterato/traduzione) ──
       ||stripAccents((s.ch||'').toLowerCase()).indexOf(qNorm)>=0
       ||stripAccents((s.tr||'').toLowerCase()).indexOf(qNorm)>=0
