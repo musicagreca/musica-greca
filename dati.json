@@ -1,8 +1,101 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-15T16:05:25.437Z",
+  "exportedAt": "2026-09-16T10:37:46.427Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789552134182",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-16",
+      "tgr": "Μπροστά πηγαίνει ο λαός",
+      "tit": "Brostà Pighiènei O Laòs",
+      "alias": "Η Αναπαράσταση",
+      "at": "Γιώργος Σκούρτης",
+      "am": "Σταύρος Ξαρχάκος",
+      "yr": "1975",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=aGOVpv-zKGE",
+      "li": "",
+      "ch": "LAm                    SOLm         LAm\nΜπροστά πηγαίνει ο λαός\nLAm                    SOLm         LAm\nΚαι πίσω ο χάρος πάει\nLAm                    SOLm         LAm\nΈνας φρουρός κι άλλος φρουρός\nLAm                    SOLm         LAm\nΣτου χωρικού το πλάι\n \nLAm            REm         LAm\nΣτο δάσος των παλιών νεκρών\nSOLm           LAm\nΤώρα χωριάτης φτάνει\nLAm            REm         LAm\nΤο βασιλιά αψήφησε\nSOLm           LAm\nΤην κεφαλή του χάνει\n \nSOLm           LAm\nΜα οι νεκροί σαλεύουνε\nSOLm           LAm\nΟι μνήμες ζωντανεύουν\nSOLm           LAm\nΟι ρίζες των παλιών νεκρών\nSOLm           LAm\nΕκδίκηση γυρεύουν\n \nLAm\nΣτο δάσος των παλιών νεκρών\nLAm\nΤον φέρνουν τον .........\nLAm\nΤον άτρομο το χωρικό\nLAm\nΣαν αδερφό ολόιδιο\n \nLAm\nΤον φέρνουνε για θάνατο\nLAm\nΤον φέρνουν για μαχαίρι\nLAm\nΓιατί δεν φίλησε ποτέ\nLAm\nΤου βασιλιά το χέρι\n \nLAm\nΜα εμείς οι ρίζες οι παλιές\nLAm\nΚαι των νεκρών η γνώμη\nLAm\nΤον δήμιο θ' αρπάξουμε\nLAm\nΑυτόν που θανατώνει",
+      "tr": "Brostà Pighiènei O Laòs\n\nBrostá pighéni o laós\nKie píso o cháros pái\nÉnas frurós ki álos frurós\nStu chorikú to pláï\n\nSto dásos ton palión nekrón\nTóra chorátis ftáni\nTo vasiliá apsífise\nTin kefalí tu cháni\n\nMa i nekrí saléfune\nI mnímes zondanévun\nI rízes ton palión nekrón\nEkdíkisi ghirévun\n\nSto dásos ton palión nekrón\nTon férnun ton .........\nTon átromo to chorikó\nSan aderfó olóidio\n\nTon férnune ghia thánato\nTon férnun ghia macháiri\nGhiatí den fílise poté\nTu vasiliá to chéri\n\nMa emís i rízes i paliés\nKie ton nekrón i ghnómi\nTon dímio th'arpáksume\nAftón pu thanatóni",
+      "ti": "Davanti cammina il popolo\n\nDavanti cammina il popolo\nE dietro cammina la morte\nUna guardia e un'altra guardia\nAl fianco del contadino\n\nNel bosco dei morti antichi¹\nOra arriva un contadino\nHa sfidato il re\nPerde la testa\n\nMa i morti si muovono\nI ricordi si ravvivano\nLe radici dei morti antichi\nCercano vendetta\n\nNel bosco dei morti antichi\nPortano il [......]\nIl contadino senza paura\nIdentico a un fratello\n\nLo portano per la morte\nLo portano per il coltello\nPerché non baciò mai\nLa mano del re²\n\nMa noi, le radici antiche\nE il giudizio dei morti\nAfferreremo il boia\nColui che dà la morte\n\n¹ \"Δάσος των παλιών νεκρών\" (bosco dei morti antichi) è un'immagine simbolica per indicare il luogo — reale o metaforico — dove riposano gli antenati e da cui trae forza la memoria collettiva di un popolo.\n\n² Baciare la mano del sovrano era un gesto tradizionale di sottomissione; il rifiuto del contadino di farlo rappresenta un atto di ribellione contro l'autorità regale, motivo della sua condanna a morte.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789551515792",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-16",
+      "tgr": "Πατρίδα χιλιονικημένη",
+      "tit": "Patrída Chilionikiméni",
+      "alias": "",
+      "at": "Παύλος Μάτεσις",
+      "am": "Σταύρος Ξαρχάκος",
+      "yr": "1976",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=d8ifTOPahko",
+      "li": "",
+      "ch": "MI              LA  MI\nΠατρίδα χιλιονικημένη\nLA#                       MI\nΣπίτι και πόλη μου χαροκαμένη\nMI              LA    MI\nΚουρέλια ταπεινά σε ντύνω\nLA#                        MI\nΚαρτέρα κι αύριο θα σε λαμπρύνω\n\nMIm                LA# \nΓίνε μου όρκος και φωτιά\nLA#                         MIm\nΚαι βγες στον δρόμο με τουφέκι\nMIm                  LA# \nΏρα για αίμα για πυρκαϊά\nLA#                         MIm\nΠαρ’ το κορμί μου γι’ αστροπελέκι\nMI7                  LAm\nΆγριος λύκος και στοιχειά\nRE                      MIm\nΡουφάν το αίμα τ’ακριβό σου\nMIm                LA#\nΓίνε κατάρα γίνε οχιά\nLA#                       MIm \nΠάρ’το κορμί μου κι αρματώσου.",
+      "tr": "Patrída chilionikiméni\n\nPatrída chilionikiméni\nSpíti kie póli mu charokaméni\nKuréllia tapiná se ndíno\nKartéra ki ávrio tha se lambríno\n\nGhíne mu órkos kie fotiá\nKie vghes ston drómo me tuféki\nÓra ghia éma ghia pirkaiá\nPar' to kormí mu ghi'astropeléki\nÁghrios líkos kie stichiá\nRufán to éma t'akrivó su\nGhíne katára ghíne ochiá\nPár'to kormí mu ki armatósu.",
+      "ti": "Patria mille volte vinta\n\nPatria mille volte vinta¹\nCasa mia e città mia addolorata²\nTi vesto di stracci umili\nAspetta, e domani ti farò risplendere\n\nDiventa per me giuramento e fuoco\nEd esci per strada con il fucile\nÈ ora di sangue, ora d'incendio\nPrendi il mio corpo per farne un fulmine³\nLupo selvaggio e spettri\nSucchiano il tuo sangue prezioso\nDiventa maledizione, diventa vipera\nPrendi il mio corpo e armati.\n\n¹ Χιλιονικημένη è un composto poetico (\"mille volte vinta/sconfitta\") che enfatizza quanto la patria abbia subito sconfitte ripetute nella storia.\n\n² Χαροκαμένη deriva da \"χάρος\" (la Morte, personificata nella tradizione greca) e significa letteralmente \"colpita/segnata dalla morte\", cioè in lutto, straziata dal dolore.\n\n³ Αστροπελέκι (letteralmente \"fulmine delle stelle\") è un termine poetico popolare per il fulmine, spesso usato come immagine di forza distruttiva improvvisa e potente.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789546281352",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Νίκος Ξυλούρης",
+          "year": "1974",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=2TYjHvmzDuw",
+          "vid": false
+        },
+        {
+          "who": "Χαράλαμπος Γαργανουράκης",
+          "year": "1973",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=gt06vESEZRs",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-16",
+      "tgr": "Τα λόγια και τα χρόνια",
+      "tit": "Ta Lòghia Ke Ta chrònia Ta chamèna",
+      "alias": "",
+      "at": "Μάνος Ελευθερίου",
+      "am": "Γιάννης Μαρκόπουλος",
+      "yr": "1974",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm    RE   REm    RE   REm\nΤα λόγια και τα χρόνια τα χαμένα\nREm    RE   REm    RE   REm\nκαι τους καημούς που σκέπασε καπνός\nREm    RE-REm-DO         REm\nη ξενιτιά τα βρήκε αδελφωμέ---να\nREm    RE   REm    RE   REm\nΚι οι ξαφνικές χαρές που ήρθαν για μένα\nREm    RE   REm    RE   REm\nήταν σε δάσος μαύρο κεραυνός\nREm    RE-REm-DO         REm\nκι οι λογισμοί που μπόρεσα για σένα\n\nFA                    REm\nΚαι σου μιλώ σ' αυλές και σε μπαλκόνια\nFA                    REm\nκαι σε χαμένους κήπους του Θεού\nLA#          SOLm       REm\nκι όλο θαρρώ πως έρχονται τ' αηδόνια\nFA                        REm\nμε τα χαμένα λόγια και τα χρόνια\nREm    RE   REm    RE-REm\nεκεί που πρώτα ήσουνα παντού\nREm    RE-REm-DO         REm\nκαι τώρα μες στο κρύο και στα χιό---νια\n\nREm\nΗ μοίρα κι ο καιρός το 'χαν ορίσει \nREm\nστον κόσμο αυτό να ρίξω μπετονιά\nREm\nκι η νύχτα χίλια χρόνια να γυρίσει\nREm\nΣτο τέλος της γιορτής να τραγουδήσει \nREm\nαυτός που δεν εγνώρισε γενιά\nREm\nκαι του καημού την πόρτα να χτυπήσει\nREm\nκαι του καημού την πόρτα να χτυπήσει\nMI    FA-SOLm-LA#-DO         REm\nκαι του καημού την πόρτα να χτυπή----σει\n\nREm\nΔεν ήτανε ρολόι σταματημένο \nREm\nσε ρημαγμένο κι άδειο σπιτικό\nREm\nοι δρόμοι που με πήραν και προσμένω\nREm\nΤα λόγια που δεν ξέρω σου τα δένω\nREm\nμε τους ανθρώπους που 'δαν το κακό\nREm\nκαι το 'χουν στ' όνομά τους κεντημένο\n\nREm\nΑυτός που σπέρνει δάκρυα και πόνο \nREm\nθερίζει την αυγή ωκεανό\nREm\nμαύρα πουλιά τού δείχνουνε το δρόμο\nREm\nΚι έχει τη ζωγραφιά κοντά στον ώμο, \nREm\nσημάδι μυστικό και ριζικό\nREm\nπως ξέφυγε απ' τον Άδη κι απ' τον κόσμο\n\nREm\nΗ μοίρα κι ο καιρός το 'χαν ορίσει \nREm\nστον κόσμο αυτό να ρίξω μπετονιά\nREm\nκι η νύχτα χίλια χρόνια να γυρίσει\nREm\nΣτο τέλος της γιορτής να τραγουδήσει \nREm\nαυτός που δεν εγνώρισε γενιά\nREm\nκαι του καημού την πόρτα να χτυπήσει\nREm\nκαι του καημού την πόρτα να χτυπήσει\nMI    FA-SOLm-LA#-DO         REm\nκαι του καημού την πόρτα να χτυπή----σει",
+      "tr": "Ta lóghia kie ta chrónia ta chaména\nkie tus kaimús pu képase kapnós\ni ksenitiá ta vríke adelfoména\nKi i ksafnikés charés pu íltan ghia ména\nítan se dásos mávro keravnós\nki i loghismí pu bóresa ghia séna\n\nKie su miló s'avlés kie se balkónia\nkie se chaménus kípus tu Theú\nki ólo tharó pos érchonde t'aidónia\nme ta chaména lóghia kie ta chrónia\nekí pu próta ísuna pandú\nkie tóra mes sto krío kie sta chiónia\n\nI mira ki o kerós to 'chan orísi ston kósmo aftó na ríkso betoniá\nki i níchta chília chrónia na ghiríso\nSto télos tis ghiortís na traghudísi aftós pu den eghnórise gheniá\nkie tu kaimú tin pórta na chtipísi\nkie tu kaimú tin pórta na chtipísi\nkie tu kaimú tin pórta na chtipísi\n\nDen ítane roloí stamatiméno se rimaghméno ki ádio spitikó\ni drómi pu me píran kie prozméno\nTa lóghia pu den kséro su ta déno\nme tus anthrópus pu 'dan to kakó\nkie to 'chun st'ónomá tus kentiméno\n\nAftós pu spérni dákria kie póno therízi tin avghí okeanó\nmávra pulia tu díchnune to drómo\nKi échi ti zoghrafiá kondá ston ómo, simádi mistikó kie rizikó\npos kséfighe ap'ton Ádi ki ap'ton kósmo\n\nI mira ki o kerós...",
+      "ti": "Le parole e gli anni perduti\n\nLe parole e gli anni perduti\ne i dolori che il fumo ha ricoperto\nl'emigrazione¹ li ha trovati fraternamente uniti\nE le gioie improvvise che vennero per me\nfurono fulmine in una foresta nera\ne i pensieri che riuscii ad avere per te\n\nE ti parlo tra cortili e balconi\ne tra giardini perduti di Dio\ne continuo a credere che arrivino gli usignoli\ncon le parole perdute e gli anni\nlà dove prima eri ovunque\ne ora sei nel freddo e nella neve\n\nIl destino e il tempo avevano stabilito che in questo mondo gettassi cemento²\ne che la notte tornasse indietro di mille anni\nChe alla fine della festa cantasse\ncolui che non conobbe generazione³\ne bussasse alla porta del dolore\ne bussasse alla porta del dolore\ne bussasse alla porta del dolore\n\nNon era un orologio fermo\nin una casa rovinata e vuota\nle strade che mi presero e io aspetto\nLe parole che non conosco te le lego\ncon le persone che videro il male\ne lo portano ricamato nel proprio nome\n\nColui che semina lacrime e dolore\nmiete all'alba un oceano\nuccelli neri gli indicano la strada\nE ha il disegno⁴ vicino alla spalla\nsegno segreto e del destino\ndi come sia sfuggito dall'Ade e dal mondo\n\nIl destino e il tempo...\n\n¹ Ξενιτιά è un concetto centrale nella cultura greca: indica la condizione dell'emigrazione, il vivere lontano dalla patria, spesso con una connotazione di nostalgia e sradicamento.\n\n² Μπετονιά (cemento) qui è usato in senso figurato e piuttosto oscuro — possibile riferimento a un destino di pesantezza, immobilità o soffocamento imposto dalla vita.\n\n³ \"Δεν εγνώρισε γενιά\" (non conobbe generazione) è un'espressione poetica che suggerisce qualcuno rimasto senza discendenza o senza radici familiari, isolato nel tempo.\n\n⁴ Il riferimento a un \"disegno/segno vicino alla spalla\" come \"segno segreto e del destino\" richiama immagini di tatuaggi o marchi rituali, spesso associati nella tradizione popolare a chi è sopravvissuto a un'esperienza estrema (qui, l'essere \"sfuggito dall'Ade\").",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789447235424",
       "offsets": {},
@@ -6784,7 +6877,8 @@
       "ch": "LAm            REm         LAm\nEίναι γλυκό το πιοτό της αμαρτίας\nSOL                       LAm\nΠοιος ειν' αυτός, που δεν λαχτάρησε να πιει\nREm                              LAm\nAυτή την γλύκα της κλεμμένης ευτυχίας\nFA          MI                  LAm\nλίγο πολύ όλοι την έχουμε γευτεί\n\nLAm          SOL       LAm\nIστορία μου, αμαρτία μου\nREm            LAm\nλάθος μου μεγάλο\nSOL                          LAm\nEίσ' η αρρώστια μου, μέσ' τα στήθια μου\nREm  MI     LAm\nκαι πώς να σε βγάλω\n\nLAm            REm            LAm\nΠαρακαλώ πότε να 'ρχεται το βράδυ\nSOL                          LAm\nΠότε να 'ρθεί εκείνη η ώρα η γνωστή\nREm                                    LAm\nπου θα φανείς όπως ο κλέφτης στο σκοτάδι\nFA          MI                         LAm\nκι απ' την λαχτάρα η καρδιά μου θα σφιχτεί\n\nLAm          SOL       LAm\nIστορία μου, αμαρτία μου\nREm            LAm\nλάθος μου μεγάλο\nSOL                          LAm\nEίσ' η αρρώστια μου, μέσ' τα στήθια μου\nREm  MI     LAm\nκαι πώς να σε βγάλω",
       "tr": "",
       "ti": "Storia mia\n\nÈ dolce il liquore del peccato\nchi è che non ha desiderato ardentemente berne\nquesta dolcezza di una felicità rubata\npiù o meno tutti l'abbiamo assaggiata\n\nStoria mia, peccato mio\nmio grande errore\nsei la mia malattia, dentro il mio petto\ne come faccio a toglierti (a liberarmene)\n\nPrego, quando arriverà la sera\nquando verrà quell'ora nota\nin cui apparirai come il ladro nel buio\ne dal desiderio il mio cuore si stringerà\n\nStoria mia... | 2x\n\nNote alla traduzione\n\nπιοτό της αμαρτίας (\"il liquore/la bevanda del peccato\") è un'immagine metaforica per indicare un amore proibito o colpevole, paragonato a una bevanda inebriante di cui non si può fare a meno.\nκλεμμένη ευτυχία (\"felicità rubata\") indica una felicità vissuta di nascosto, illecita, tipica del tema dell'amore adultero o proibito.\nL'immagine del \"κλέφτης στο σκοτάδι\" (il ladro nel buio) che appare di notte richiama l'attesa furtiva e clandestina di un incontro amoroso segreto.\nIl ritornello \"Ιστορία μου, αμαρτία μου\" (storia mia, peccato mio) personifica l'amore/la relazione stessa come un peccato di cui ci si sente prigionieri ma da cui non ci si vuole liberare.",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1787028445483",
@@ -10468,6 +10562,14 @@
     }
   ],
   "args": [
+    {
+      "id": "a_1789555056261",
+      "title": "La Paranghelía: il rito non scritto dei locali notturni greci",
+      "tag": "storia di situazioni e mode",
+      "date": "2026-08-29",
+      "body": "Nei \"κέντρα\" (locali/night club) dove si suonava rembetiko e laïkó, esisteva un'usanza sociale precisa quanto un vero e proprio rituale: la paranghelía (\"la prenotazione\"). Un avventore, per festeggiare, sfogarsi o semplicemente per il piacere del momento, pagava l'orchestra perché suonasse un brano specifico — e a quel punto si alzava per ballarlo, da solo o con la propria compagnia, davanti a tutti.\n\nLa paranghelía non riguardava solo lo zeibékiko ballato da un singolo: spesso, vista la frequente affluenza nei locali greci, si pagava anche per riservare la pista solo alla propria compagnia per quel ballo specifico, escludendo di fatto tutti gli altri avventori dalla danza in quel momento. Il galateo non scritto era rigido su questo punto: se un ballo era \"prenotato\" in questo modo, non era affatto educato intromettersi sulla pista se non si faceva parte di quella compagnia.\n\nIl ballo per eccellenza legato all'usanza, però, restava lo zeibékiko: una danza individuale, non di coppia né di gruppo. Ogni ballerino aveva le proprie figure, del tutto personali — un modo di muoversi che rispecchiava il proprio carattere e il proprio stato d'animo, quasi un'espressione intima resa pubblica. Il codice non scritto era severo anche qui: lo zeibékiko non si danza per intrattenimento leggero, e chi lo ballava lo faceva generalmente una sola volta nella serata. Interrompere qualcuno mentre danzava era considerato un gesto gravissimo, capace di scatenare reazioni violente — da qui l'espressione popolare secondo cui chi osava farlo \"giocava con la morte\".\n\nL'usanza della paranghelía resta ancora oggi viva, in forma più leggera, nei locali di musica popolare greca — anche se il rigido codice d'onore di un tempo si è ormai molto ammorbidito.\n\nQuando la paranghelía finì in tragedia: il caso Koemtzis\n\nÈ esattamente in questo contesto che si inserisce la tragica vicenda legata alla canzone \"Τα δυο σου χέρια πήρανε\" (nota anche come \"Βεργούλες\") — musica e testo di Markos Vamvakaris, 1940, poi reincisa negli anni '60 con la voce di Grigoris Bithikotsis, diventando uno standard degli zeibékika nei locali notturni.\n\nI fatti: la notte tra il 24 e il 25 febbraio 1973, durante il carnevale, al locale \"Neraida\" di Atene (quartiere Kypseli), Nikos Koemtzis — appena scarcerato per un piccolo furto — festeggiava la libertà riconquistata insieme al fratello Dimosthenis e agli amici. Il clima era già teso per un litigio precedente con la sua compagna, Sofia Charatzi.\n\nLe origini della sua rabbia: nato nel gennaio 1938 ad Aiginio (Pieria), da famiglia povera perseguitata per l'appartenenza all'EAM durante l'Occupazione e nel dopoguerra, Koemtzis nutriva un odio profondo verso le forze dell'ordine — aggravato dal fatto che la polizia gli avesse più volte chiesto di diventare informatore, cosa che lui rifiutò sempre.\n\nLa sera fatale: il gestore del locale aveva stabilito, all'inizio della serata, che quella sera non si sarebbero accettate paranghelíe. Ma, visto il clima già teso attorno al carattere impetuoso di Nikos, decise poi di concedere comunque la paranghelía al fratello dell'assassino, Dimosthenis — probabilmente proprio per evitare di irritarlo ulteriormente. Mentre Dimosthenis danzava \"Βεργούλες\" da solo, come da usanza, un gruppo di poliziotti in borghese, fuori servizio, seduto al tavolo vicino, non rispettò la regola non scritta — lo spinsero e lo derisero. In appena un minuto e mezzo, il locale si trasformò in un massacro: Koemtzis, gridando \"Paranghelía re!\", iniziò ad accoltellare chiunque trovasse sulla sua strada, incluso un amico intimo che tentava di calmarlo.\n{{img:https://musicagreca.com/images/koemtzis1.jpg|centro}}\nLe vittime: il vicebrigadiere Manolis Christodoulakis (28 anni), l'agente Dimitris Pegias (31 anni) — entrambi fuori servizio — e il lattoniere Giannis Kourtis (34 anni), che si trovava a festeggiare con quel gruppo di poliziotti. 7 feriti.\n\nLa fuga e la condanna: arrestato pochi giorni dopo a Dafni, mentre tentava di fuggire all'estero, minacciò la polizia col coltello e fu fermato con un colpo alla gamba. Il processo si concluse appena 3 giorni prima della rivolta del Politecnico (novembre 1973): 3 condanne a morte e 7 all'ergastolo (il fratello Dimosthenis, 3 anni). Con l'abolizione della pena di morte in Grecia, non fu mai eseguito; scontò 23 anni, mostrando un pentimento sincero, e fu scarcerato condizionalmente il 29 marzo 1996.\n\nGli ultimi anni: dopo il carcere, vendeva la propria autobiografia \"Το μακρύ ζεϊμπέκικο\" per le strade del centro di Atene, davanti agli ex tribunali della Scuola degli Evelpidi e a Monastiraki. Morì il 23 settembre 2011 a Monastiraki, per infarto, a 73 anni, mentre vendeva ancora i suoi libri. Una settimana dopo, ai primi di ottobre 2011, morì anche Pavlos Tasios, il regista del film \"Παραγγελιά!\" (1980) ispirato alla vicenda, con Antonis Antoniou nel ruolo di Koemtzis e versi della poetessa Katerina Gogou intrecciati nella sceneggiatura.\n\n{{img:https://musicagreca.com/images/koemtzis3.jpg|centro}}\n\nL'eredità culturale: fu leggendo il libro scritto dallo stesso Koemtzis che Dionysis Savvopoulos scrisse la celebre canzone \"Μακρύ Ζεϊμπέκικο για τον Νίκο\" — non una semplice cronaca musicata del delitto, ma un commento più ampio su onore, umiliazione, violenza ed emarginazione sociale, senza per questo voler assolvere il colpevole.",
+      "link": ""
+    },
     {
       "id": "a_1789305277556",
       "title": "Demetrio Stratos: la voce che superò i propri limiti",
@@ -15844,6 +15946,35 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/aachatzidaki.jpg",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1789545743570",
+      "name": "Χαράλαμπος Γαργανουράκης",
+      "nameit": "Charàlambos Garganuràkis",
+      "born": "28 giugno 1946, Aghios Thomas, Monogatsìu, Heraklion – Creta",
+      "died": "",
+      "bio": "E' uno dei più importanti lyraris e interpreti della musica tradizionale cretese. È considerato una figura di riferimento per la continuità, la qualità e l’autenticità della tradizione musicale dell’isola.\nA 10–12 anni impara a suonare la lyra cretese, affascinato dai suoni della lyra e del laouto. A 14 anni partecipa al suo primo grande evento musicale nel villaggio. A 17 anni ha già suonato in moltissimi paesi della Creta rurale. A 18 anni incide il suo primo disco (45 giri).\n\nDopo il servizio militare, nel 1970 debutta nei principali centri musicali cretesi, come “Ερωτόκριτος” e “Αρετούσα” a Heraklion.\n\nLa svolta arriva nel 1973, quando il celebre compositore Γιάννης Μαρκόπουλος lo invita ad Atene, nella storica mπουάτ “Λήδρα”.\nDa quel momento Garganourakis diventa uno dei principali interpreti delle opere di Markopoulos.\nNel 2022 il suo paese natale, Άγιος Θωμάς, lo ha ufficialmente celebrato per la sua carriera e il contributo alla cultura cretese.\nGarganourakis è anche studioso della musica cretese, impegnato nella conservazione e trasmissione della tradizione.\nTra il 2017 e il 2021 ha collaborato con il maestro Θεόδωρος Ορφανίδη nelle nuove interpretazioni dell’opera Ελεύθεροι Πολιορκημένοι di Solomos–Markopoulos.\n\nÈ sposato con Aretí e ha due figli, Ergínis e Níkos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/garganurakis.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789551441768",
+      "name": "Παύλος Μάτεσις",
+      "nameit": "Pávlos Mátesis",
+      "born": "12 gennaio 1933, Divri (Ilia, Peloponneso)",
+      "died": "20 gennaio 2013, Atene",
+      "bio": "Uno dei più importanti drammaturghi greci, distintosi anche come narratore, traduttore e paroliere. Nato a Divri, visse fino ai 19 anni in diverse città di provincia. Studiò recitazione alla Scuola Drammatica di Vachliotis di Atene, oltre a musica (diploma di violino), e parlava correntemente inglese, francese e spagnolo. Lavorò come impiegato di banca prima di abbandonare quella carriera per dedicarsi interamente al teatro e alla letteratura.\n\nCome attore, interpretò il ruolo del Figlio in \"Fausta\" di Bost e quello di Einstein nella commedia \"Arsenico e vecchi merletti\" di Kesselring. Debuttò come autore teatrale nel 1967 con l'opera \"Η τελετή\" (Il rito), messa in scena al Teatro di Nea Ionia da Giorgos Michailidis. Trascorse l'intero 1969 a Londra. Scrisse e diresse anche due serie televisive per la YENED (1974-1976) e una per la ERT nel 1983, \"Κυρία Αρσενία σ' αγαπώ\", che ebbe però una fine ingloriosa a causa delle reazioni del pubblico.\n\nFu anche un apprezzato narratore, autore tra gli altri di \"Ύλη δάσους\", \"Ο παλαιός των Ημερών\", \"Πάντα καλά\" (da lui stesso definito \"romanzo sentimentale\"), \"Σκοτεινός οδηγός\", \"Μύρτος\", \"Αλδεβαράν\" e il parodico \"Graffito\". Si dedicò inoltre alla traduzione di importanti opere letterarie e teatrali, da autori come Shakespeare, Ben Jonson, Aristofane, Molière, Ibsen, Beaumarchais, Vitrac, Artaud, Pinter, Mamet, Shepard, Arrabal.\n\nIl critico teatrale Kostas Georgousopoulos lo descrisse come uno scrittore dallo stile \"vetriolico\" e dal linguaggio fantasioso e tagliente, capace di studiare la mentalità piccolo-borghese e la stupidità degli obiettivi consumistici umani, spogliando istituzioni, riti e procedure del potere dal fascino del proprio mito.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/matesis.jpg",
+      "roles": [
+        "at"
       ]
     }
   ]
