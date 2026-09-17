@@ -1,22 +1,51 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-17T04:54:50.929Z",
+  "exportedAt": "2026-09-17T05:28:07.300Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
       "id": "s_1789619696654",
       "offsets": {},
-      "executions": [],
+      "executions": [
+        {
+          "who": "Γιώργης Ξυλούρης, Νίκη Ξυλούρη, Λάμπης Ξυλούρης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Yv1nxESbSZk",
+          "vid": false
+        },
+        {
+          "who": "Κώστας Μουντάκης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ICxOH06ZcfA",
+          "vid": false
+        },
+        {
+          "who": "Νίκος Ξυλούρης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=UwDomxyoFgU",
+          "vid": false
+        },
+        {
+          "who": "Ψαραντώνης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=c0At1ydTxkg",
+          "vid": false
+        }
+      ],
       "date": "2026-09-17",
       "tgr": "Ερωτόκριτος",
       "tit": "Erotòkritos",
       "alias": "",
-      "at": "",
-      "am": "",
-      "yr": "",
+      "at": "Βιτσέντζος Κορνάρος",
+      "am": "sconosciuto",
+      "yr": "sconosciuto",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Κρητικά - Ερωτόκριτος",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -26,7 +55,7 @@
       "ch": "",
       "tr": "",
       "ti": "",
-      "no": "",
+      "no": "Il testo dell'Erotokritos non viene trascritto qui: è un poema di oltre 10.000 versi, e ogni cantante o depositario della tradizione orale ne esegue e incide solo un frammento — spesso diverso da esecutore a esecutore. Tradurre l'opera per intero, o anche solo stabilire \"quale\" brano trascrivere, non avrebbe senso per una singola scheda canzone. Per la storia completa del poema, la sua trama e il suo autore, vedi l'approfondimento dedicato.",
       "balvid": false
     },
     {
@@ -16063,6 +16092,35 @@
       "photo": "",
       "roles": [
         "ar"
+      ]
+    },
+    {
+      "id": "p_1789621187987",
+      "name": "Βιτσέντζος Κορνάρος",
+      "nameit": "Vincenzo Cornaro",
+      "born": "26 marzo 1553, Trapezonda (Sitia, Creta)",
+      "died": "1613 o 1614, Candia (Iraklio)",
+      "bio": "Poeta cretese della Rinascita, aristocratico veneto-cretese, autore del poema \"Erotokritos\" — capolavoro di oltre 10.000 versi, tra i testi fondativi della letteratura neogreca.\n\n\n[[2026-08-30|Vedi approfondimento]]",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kornaros1.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1789622346975",
+      "name": "Λάμπης Ξυλούρης",
+      "nameit": "Lámbis Xylóuris",
+      "born": "1969, Anogeia (Creta)",
+      "died": "",
+      "bio": "Strumentista (laouto, oud, mandolino, bulgarí saz)\n\n\n\n\nMusicista cretese, figlio di Antonis Xylouris (Psarantonis), nipote di Nikos e Giannis Xylouris. Cresciuto in una famiglia dove la musica era parte della vita quotidiana — a Anogeia si cantava ai matrimoni, ai panigyria, nei momenti di gioia come in quelli di dolore, con le mantinades tramandate di generazione in generazione insieme alle storie del luogo.\n\nIl primo contatto con uno strumento avvenne a 7 anni, con un mandolino. A 13-14 anni suonava già, con la stessa naturalezza, mandolino, chitarra, laouto e oud. A 15 anni si trasferì con la famiglia a Iraklio, dove tenne il primo concerto dal vivo insieme al padre Psarantonis; da lì iniziarono anni di esibizioni quotidiane, inverno ed estate, in un locale, per quattro anni consecutivi.\n\nIl suo percorso musicale, partendo dalla ricca tradizione del luogo d'origine, unisce la varietà dell'espressione musicale cretese alla capacità di combinare tradizione e improvvisazione libera, in una ricerca personale che spazia su più strumenti a corda.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/lxiluris.jpg",
+      "roles": [
+        "ar",
+        "mu"
       ]
     }
   ]
