@@ -692,6 +692,12 @@ function dispTgr(s){ return (s.tgr||'').trim() || (s.balgr||'').trim() || (s.bal
 function dispTit(s){ return (s.tit||'').trim() || (s.bal||'').trim() || (s.balgr||'').trim() || ''; }
 function formatArgBody(raw){
   var text = String(raw||'');
+  // Protegge i blocchi {{parallelo:...}}, che contengono a capo interni, sostituendo
+  // temporaneamente quegli a capo con un segnaposto, così la divisione in righe qui sotto
+  // non li spezza — vengono ripristinati dentro inlineFormat.
+  text = text.replace(/\{\{parallelo:[\s\S]+?\}\}/g, function(block){
+    return block.replace(/\n/g, '\u0001');
+  });
   var lines = text.split('\n');
   var html = '';
   var i = 0;
@@ -738,6 +744,7 @@ function formatArgBody(raw){
       return '<span class="arg-img-row">'+items+'</span>';
     });
     out = out.replace(/\{\{parallelo:([\s\S]+?)\}\}/g, function(m, body){
+      body = body.replace(/\u0001/g, '\n');
       var parts = body.split(/\n?---\n?/);
       var grLines = (parts[0]||'').split('\n').map(function(l){return l.trim();}).filter(function(l){return l.length;});
       var itLines = (parts[1]||'').split('\n').map(function(l){return l.trim();}).filter(function(l){return l.length;});
