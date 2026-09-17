@@ -745,7 +745,7 @@ function formatArgBody(raw){
     });
     out = out.replace(/\{\{parallelo:([\s\S]+?)\}\}/g, function(m, body){
       body = body.replace(/\u0001/g, '\n');
-      var parts = body.split(/\n?---\n?/);
+      var parts = body.split(/\n?-{3,}\n?/);
       var grLines = (parts[0]||'').split('\n').map(function(l){return l.trim();}).filter(function(l){return l.length;});
       var itLines = (parts[1]||'').split('\n').map(function(l){return l.trim();}).filter(function(l){return l.length;});
       var n = Math.max(grLines.length, itLines.length);
