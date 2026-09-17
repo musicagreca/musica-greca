@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-17T10:13:26.510Z",
+  "exportedAt": "2026-09-17T15:14:17.286Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789655378430",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-17",
+      "tgr": "Την καρδιά σου",
+      "tit": "Tin kardia sou",
+      "alias": "",
+      "at": "Λουκάς Θάνος",
+      "am": "Λουκάς Θάνος",
+      "yr": "1976",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=gGPSfmePRD0",
+      "li": "",
+      "ch": "MIm              RE        DO       SI    MIm\nΤην καρδιά σου με κύκλο διπλό να την κλείσεις\nRE  SOL         RE         DO      SI\nσε κύκλο από φλόγα σε κύκλο από πάγο\nDO                 LAm        RE     SI \nκαι στα χείλη ν' ανθίζει πικρό χαμογέλο  \nMIm       RE     DO     SU      MIm\nακούγοντας τον κρυφό παθών τον Ια-γο \nDO                 LAm        RE     SI \nκαι στα χείλη ν' ανθίζει πικρό χαμογέλο  \nMIm       RE     DO     SU      MIm\nακούγοντας τον κρυφό παθών τον Ια-γο  \n\nMIm              RE        DO       SI    MIm\nΌ,τι εζήτησες να' ναι μακριά σου, μακριά σου\nRE  SOL         RE         DO      SI\nκρυφά κι από σένα να το 'χεις βαθιά σου\nDO                 LAm        RE       SI\nστους μεγάλους τους δρόμους να φεύγεις αλήτης  \nMIm       RE     DO     SU      MIm\nκαι να' σαι εσύ η σκιά της σκιάς σου\nDO                 LAm        RE       SI\nστους μεγάλους τους δρόμους να φεύγεις αλήτης  \nMIm       RE     DO     SU      MIm\nκαι να' σαι εσύ η σκιά της σκιάς σου.  \n\nMIm              RE        DO       SI    MIm\nΤη φλόγα να κρύβεις κι απ' τον αδερφό σου\nRE  SOL         RE         DO      SI\nηφαίστειο αναμένο ώσπου να γενεί\nDO                 LAm        RE       SI\nκαι μια νύχτα η θύελλα που κρύβεις εντός σου\nMIm       RE     DO     SU      MIm\nνα σε βρει σα φύλλο ξερό που το σέρνει\nDO                 LAm        RE       SI\nκαι μια νύχτα η θύελλα που κρύβεις εντός σου\nMIm       RE     DO     SU      MIm\nνα σε βρει σα φύλλο ξερό που το σέρνει.",
+      "tr": "Tin kardia sou\n\nTin kardiá su me kíklo dipló na tin klísis\nse kíklo apó flógha se kíklo apó págho\nkie sta chíli n'anthízi pikró chamoghélo\nakúgondas ton krifó pathón ton Ia-gho\n\nÓti ezítises na 'ne makriá su, makriá su\nkrifá ki apó séna na to 'chis vathiá su\nstus meghálus tus drómus na févghis alítis\nkie na' se esí i skiá tis skiás su.\n\nTi flógha na krívis ki ap'ton aderfó su\niféstio anaméno óspu na ghení\nkie mia níchta i thíela pu krívis endós su\nna se vrei sa fílo kseró pu to sérni.",
+      "ti": "Il tuo cuore\n\nIl tuo cuore devi chiuderlo con un doppio cerchio\nun cerchio di fuoco, un cerchio di ghiaccio\ne sulle labbra che fiorisca un sorriso amaro\nascoltando lo Iago¹ nascosto delle passioni\n\nTutto ciò che hai desiderato che resti lontano da te, lontano da te\ndi nascosto anche da te stesso, tienilo nel profondo\nper le grandi strade fuggi come un vagabondo\ne sii tu l'ombra della tua stessa ombra²\n\nIl fuoco devi nasconderlo anche da tuo fratello\nun vulcano acceso finché non esploda\ne una notte la tempesta che nascondi dentro di te\nti trovi come una foglia secca che il vento trascina\n\n¹ Ιάγο (Iago) è il celebre personaggio manipolatore e infido dell'Otello di Shakespeare: qui il riferimento è usato come metafora per l'inganno e la passione nascosta e velenosa che si cela dentro ognuno.\n\n² \"Essere l'ombra della propria ombra\" è un'espressione poetica che indica un grado estremo di autoannullamento e distacco da sé stessi, un'esistenza ridotta a puro riflesso, quasi invisibile anche a sé stessa.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789653870382",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-17",
+      "tgr": "Στο άγαλμα της Ελευθερίας που φωτίζει τον κόσμο",
+      "tit": "Sto Agalma tis Eleftherias pou fotizei ton kosmo",
+      "alias": "",
+      "at": "Κώστας Καρυωτάκης",
+      "am": "Λουκάς Θάνος",
+      "yr": "1976",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=Gx6TtDIvzns",
+      "li": "",
+      "ch": "ΛΕΥΤΕΡΙΑ\n\nMI\nΛευτεριά, λευτεριά σχίζει, δαγκάνει\nLAm                        REm\nτους ουρανούς το στέμμα σου, το φως σου\nSOL                LAm\nχωρίς να καίει, τυφλώνει το λαό σου\nLAm                    REm\nΠεταλούδες χρυσές οι Αμερικάνοι\nSOL                    LAm\nλογαριάζουν, πόσα δολάρια κάνει\nLAm\nσήμερα το υπερούσιο μέταλλο σου\n\nLAm  SOL\n\nDO\nΛευτεριά, λευτεριά, θα σ' αγοράσουν\nLAm                    DO\nέμποροι και κονσόρτσια κι εβραίοι\nFA                    MI\nΕίναι πολλά του αιώνα μας τα χρέη\nREm\nπολλές οι αμαρτίες, που θα διαβάσουν\nLAm\nοι γενεές, όταν σε παρομοιάσουν\nLAm\nμε το πορτραίτο του Dorian Gray\n\nDO                    REm\nΛευτεριά, λευτεριά, σε νοσταλγούνε\nLAm\nμακρινά δάση, ρημαγμένοι κήποι\nLAm\nόσοι άνθρωποι προσδέχονται τη Λύπη\nREm\nσαν έπαθλο του αγώνα, και μοχθούνε\nLAm\nκαι τη ζωή τους εξακολουθούνε\nLAm\nνεκροί που η καθιέρωση του λείπει\n\nLAm  SOL\n\nDO\nΛευτεριά, λευτεριά, θα σ' αγοράσουν\nSOL          LAm    DO\nέμποροι και κονσόρτσια κι εβραίοι\nFA                    MI\nΕίναι πολλά του αιώνα μας τα χρέη\nLAm                    REm\nΠεταλούδες χρυσές οι Αμερικάνοι\nLAm\nλογαριάζουν, πόσα δολάρια κάνει\nLAm\nσήμερα το υπερούσιο μέταλλο σου\nLAm\nΠεταλούδες χρυσές οι Αμερικάνοι\nLAm            SOL\nλογαριάζουν, πόσα δολάρια κάνει\nSOL          LAm\nσήμερα το υπερούσιο μέταλλο σου",
+      "tr": "Sto Agalma tis Eleftherias pou fotizei ton kosmo\n\nLefteriá, lefteriá schízi, dangáni\ntus uranús to stéma su, to fos su\nchorís na kéi, tiflóni to laó su\nPetalúdes chrisés i Amerikáni\nloghariázun, pósa dolária káni\nsímera to iperúsio métalo su\n\nLefteriá, lefteriá, tha s'aghorásun\némpori kie konsórtsia ki evréi\nÍne polá tu eóna mas ta chréi\npolés i amartíes, pu tha diavásun\ni ghenées, ótan se paromiásun\nme to portréto tu Dorian Gray\n\nLefteriá, lefteriá, se nostalghúne\nmakriná dási, rimaghméni kípi\nósi ánthropi prozdéchonde ti Lípi\nsan épathlo tu aghóna, kie mochthúne\nkie ti zoí tus eksakoluthúne\nnekrí pu i kathiérosi tu lípi\n\nLefteriá, lefteriá, tha s'aghorásun\némpori kie konsórtsia ki evréi\nÍne polá tu eóna mas ta chréi\nPetalúdes chrisés i Amerikáni\nloghariázun, pósa dolária káni\nsímera to iperúsio métalo su\nPetalúdes chrisés i Amerikáni\nloghariázun, pósa dolária káni\nsímera to iperúsio métalo su",
+      "ti": "Al monumento alla Libertà che illumina il mondo\n\nLibertà, libertà lacera, morde\ni cieli la tua corona, la tua luce\nsenza bruciare, acceca il tuo popolo\nFarfalle dorate¹, gli americani\ncalcolano quanti dollari vale\noggi il tuo metallo prezioso²\n\nLibertà, libertà, ti compreranno\nmercanti e consorzi ed ebrei³\nSono molti i debiti del nostro secolo\nmolti i peccati, che leggeranno\nle generazioni, quando ti paragoneranno\nal ritratto di Dorian Gray⁴\n\nLibertà, libertà, ti rimpiangono\nforeste lontane, giardini devastati\ntutti gli uomini che accolgono la Pena\ncome premio della lotta, e faticano\ne continuano la loro vita\nmorti a cui manca la consacrazione⁵\n\nLibertà, libertà, ti compreranno\nmercanti e consorzi ed ebrei\nSono molti i debiti del nostro secolo\nFarfalle dorate, gli americani\ncalcolano quanti dollari vale\noggi il tuo metallo prezioso\nFarfalle dorate, gli americani\ncalcolano quanti dollari vale\noggi il tuo metallo prezioso\n\n¹ Πεταλούδες χρυσές (\"farfalle dorate\") è un'immagine poetica insolita per indicare, in questo contesto, i dollari americani stessi — leggeri, dorati, che \"volano\" a valutare tutto in termini economici.\n\n² Υπερούσιο μέταλλο (\"metallo sovra-sostanziale/prezioso\") è un'espressione elevata e quasi teologica (il termine \"υπερούσιος\" richiama il linguaggio della teologia bizantina, come nell'espressione \"pane sovrasostanziale\" del Padre Nostro) applicata qui, con forte ironia, all'oro/valore materiale della libertà stessa.\n\n³ Il riferimento a \"mercanti, consorzi ed ebrei\" nella tradizione di certa canzone d'autore greca del dopoguerra (in testi polemici sul capitalismo internazionale) va inteso nel contesto storico-culturale specifico dell'autore, senza che io possa attribuire con certezza intenzioni più ampie senza conoscere la fonte esatta del brano.\n\n⁴ Il ritratto di Dorian Gray, il celebre romanzo di Oscar Wilde, è qui usato come metafora: come il quadro di Dorian Gray invecchia e si corrompe portando i segni dei suoi peccati mentre lui resta esteriormente immutato, così la libertà mantiene un'immagine di purezza mentre nasconde la corruzione morale della società che la sfrutta.\n\n⁵ \"Καθιέρωση\" (consacrazione/istituzione) qui si riferisce al riconoscimento o alla legittimazione che a questi \"morti viventi\" manca — persone che continuano a vivere e faticare ma senza che il loro sacrificio venga mai pienamente onorato o riconosciuto.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789639988949",
       "offsets": {},
@@ -10846,6 +10898,14 @@
   ],
   "args": [
     {
+      "id": "a_1789658032200",
+      "title": "Σάλπισμα - Sàlpisma",
+      "tag": "storia di un LP",
+      "date": "2026-08-31",
+      "body": "{{img:https://musicagreca.com/images/salpisma.jpg|centro}}Interprete: Nikos Xylouris\n\nMusica: Loukas Thanos\nPoesie: Kostas Varnalis (1884-1974), Kostas Kariotakis (1896- 1928), Aris Alexandrou (1922- 1978), Loukas Thanos\nComposizione (Loukas Thanos): 1969-1972\nOrchestrazioni: 1974\nRegistrazione voce (Nikos Xylouris): 1976\nUscita programmata (mai avvenuta): Pasqua 1978\nMorte di Nikos Xylouris: 8 febbraio 1980\nPrima trasmissione radiofonica: 15 febbraio 1980\nPubblicazione del disco: marzo 1980\n\n\nΗ μπαλάντα του κυρ Μέντιου (Kostas Varnalis)\nΤην καρδιά σου (Lukas Thanos)\nΤις νύχτες (Aris Alexandrou)\nΚι αν έσβησε (Kostas Karyotakis)\nΤο άγαλμα της ελευθερίας (Kostas Karyotakis)\nΠόνοι της Παναγιάς\nΔεν αγαπάς (Kostas Karyotakis)\n\nAscolto Niko in queste nostre registrazioni inedite. La stessa sorpresa, la stessa rivelazione di quando lo sentii per la prima volta, quarant'anni fa, nei Rizítika. Allora non sapevo perché volessi solo Xylouris a cantare le mie canzoni. Ancora oggi non lo so, sento soltanto, come allora, un rito sacro attraversare da un capo all'altro il mio corpo. Il passato più remoto e il futuro di Apollo che danzano il Dioniso del mio presente nei suoni dell'indomabile Creta, nella lingua greca... questo, credo, sia il grande comando che il mio amico arcangelico mi consegna. Ho detto \"mio amico\"... quanto sono fortunato, dunque, come uomo...\n\nScrivevo canzoni fin da piccolo. Non volevo che nessuno me le cantasse. Ascoltai i Rizítika. La prima grande rivelazione musicale della mia vita. Un mondo si dispiegò, si aprì, il suono mi liberò. \"Voglio solo questa voce per le mie canzoni, padre\", dissi... \"e dove lo troviamo Xylouris, figlio mio\", mi rispose sconcertato mio padre... eppure lo trovammo. Venne a casa nostra. Si sedette in poltrona, incrociò le gambe, sorseggiò un caffè greco bollente e poi, voluttuosamente, una sigaretta. Gli insegnai \"La ballata del signor Mendios\" e \"I dolori della Madonna\" proprio quel primo giorno insieme. \"Lo faremo questo disco, Luca\", ricordo che disse...\n\nSono passati anni, siedo sulla stessa poltrona e scrivo qualcosa come il ricordo di qualcun altro, come se non fossi io quello con Niko, ma un bambino piccolo che sfidava persino la morte. Io, quell'altro, con Xylouris, qualcosa come un sogno nel sonno di qualcun altro, non mio. Con Nikos Xylouris io, pensa un po', a cantare insieme sui gradini dell'utopia, per l'inverno del mondo, le poesie della Grecia — di Palamàs, di Varnalis, di Karyotakis, di Alexandrou...\n\nPoco tempo fa gli ho scritto una lettera, credo. A Nikos Xylouris — Primo cimitero di Grecia. ...cosa dobbiamo fare, Niko mio, che è scorso così tanto sangue, dove andiamo, cos'è la battaglia? gli ho scritto. Ieri, mentre ascoltavo questi nostri momenti inediti, ho preso infine la sua lettera di risposta... taci, Luca, i guerrieri non chiedono mai.\n\nCon la massima stima, Loukas Thanos",
+      "link": ""
+    },
+    {
       "id": "a_1789620878938",
       "title": "Erotokritos: il capolavoro cretese che il popolo ha imparato a memoria",
       "tag": "storie di canzoni",
@@ -13259,6 +13319,7 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/thanos.jpg",
       "roles": [
+        "at",
         "am"
       ]
     },
