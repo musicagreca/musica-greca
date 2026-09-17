@@ -176,6 +176,7 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
 .arg-card-ttl{font-size:1rem;font-weight:700;margin-bottom:.5rem}
 .arg-card-body{font-size:13px;line-height:1.75;color:var(--t2);white-space:pre-wrap}
 .arg-card-body .arg-p{margin:0 0 10px 0;white-space:normal}
+.arg-spazio{height:2.2rem}
 .arg-card-body .arg-h2{font-size:15px;font-weight:700;color:var(--txt);margin:16px 0 8px 0}
 .arg-card-body .arg-h3{font-size:13px;font-weight:700;color:var(--txt);margin:12px 0 6px 0}
 .arg-link-btn{display:inline-flex;align-items:center;gap:4px;background:var(--abg);color:var(--acc);padding:2px 9px;border-radius:20px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap}
@@ -795,7 +796,9 @@ function formatArgBody(raw){
     } else if(inTable){
       flushTable();
     }
-    if(/^###\s+/.test(line)){
+    if(/^\s*\{\{spazio\}\}\s*$/.test(line)){
+      html += '<div class="arg-spazio"></div>';
+    } else if(/^###\s+/.test(line)){
       html += '<h4 class="arg-h3">'+inlineFormat(line.replace(/^###\s+/,''))+'</h4>';
     } else if(/^##\s+/.test(line)){
       html += '<h3 class="arg-h2">'+inlineFormat(line.replace(/^##\s+/,''))+'</h3>';
