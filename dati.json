@@ -1,8 +1,184 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-17T05:28:07.300Z",
+  "exportedAt": "2026-09-17T09:59:19.112Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789639137138",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-17",
+      "tgr": "Κι αν έσβησε σαν ίσκιος",
+      "tit": "Ki an esvise san iskios",
+      "alias": "",
+      "at": "Κώστας Καρυωτάκης",
+      "am": "Λουκάς Θάνος",
+      "yr": "1976",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=vvEf_Dn2QoM",
+      "li": "",
+      "ch": "MIm                    RE                MIm\nΚι αν έσβησε σαν ίσκιος τ' όνειρό μου\nSOL              LAm\nκι αν έχασα για πάντα τη χαρά\nDO              LAm                    SI\nκι αν σέρνομαι στ' ακάθαρτα του δρόμου  \nLAm            RE          SI  (LAm DO SI)\nπουλάκι με σπασμένα τα φτερά  \nDO              LAm                    SI\nκι αν σέρνομαι στ' ακάθαρτα του δρόμου  \nLAm            RE          SI  (LAm DO SI)\nπουλάκι με σπασμένα τα φτερά \n\nMIm                    RE                MIm\nΚι αν έχει, πριν ανοίξει το λουλούδι\nSOL              LAm\nστον κήπο της καρδιάς μου μαραθεί\nDO              LAm                    SI\nΤο λεύτερο που εσκέφτηκα τραγούδι\nLAm            RE          SI\nκι αν ξέρω πως ποτέ δε θα ειπωθεί\n\nMIm                    RE                MIm\nΚι αν έθαψα την ίδια τη ζωή μου\nSOL              LAm\nβαθιά μέσα στον πόνο που πονώ\nDO              LAm                    SI\nΚαθάρια πως ταράζεται η ψυχή μου\nLAm            RE          SI\nσα βλέπω το μεγάλο ουρανό\n\nMIm                    RE                MIm\nΗ θάλασσα σαν έρχεται μεγάλη\nSOL              LAm\nκαι υγραίνοντας την άμμο το πρωί\nDO              LAm                    SI\nμου λέει για κάποιο γνώριμο ακρογιάλι\nLAm            RE          SI\nΜου λέει για κάποια που 'ζησα ζωή",
+      "tr": "Ki an esvise san iskios\n\nKi an ésvise san ískios t'óniró mu\nki an échasa ghia pánda ti chará\nki an sérnome st'akáthara tu drómu\npuláki me spazména ta fterá\n\nKi an échi, prin aníksi to lulúdi\nston kípo tis kardiás mu marathí\nTo léftero pu eskéftika traghúdi\nki an kséro pos poté de tha ipothí\n\nKi an éthapsa tin ídia ti zoí mu\nvathiá mésa ston póno pu ponó\nKathária pos tarázete i psichí mu\nsa vlépo to meghálo uranó\n\nI thálasa san érchete megháli\nkie ighréonondas tin ámo to proí\nmu léi ghia kápio ghnórimo akroghiáli\nMu léi ghia kápia pu 'zisa zoí",
+      "ti": "E se il mio sogno svanisse come un'ombra\n\nE se il mio sogno si è spento come un'ombra\ne se ho perso per sempre la gioia\ne se mi trascino nella sporcizia della strada\nun uccellino con le ali spezzate¹\n\nE se, prima ancora che sbocci il fiore\nnel giardino del mio cuore appassisce\nla canzone libera che ho pensato\ne se so che non sarà mai detta\n\nE se ho seppellito la mia stessa vita\nnel profondo del dolore che soffro\nChiaramente sento agitarsi la mia anima\nquando guardo il grande cielo\n\nIl mare, quando arriva grande\ne inumidendo la sabbia al mattino\nmi parla di una spiaggia conosciuta²\nMi parla di una vita che ho vissuto\n\n¹ Πουλάκι με σπασμένα τα φτερά (\"uccellino con le ali spezzate\") è un'immagine molto comune nella poesia popolare greca per rappresentare una persona ferita nell'animo, privata della propria libertà o capacità di \"volare\" verso la felicità.\n\n² Γνώριμο ακρογιάλι (\"spiaggia conosciuta/familiare\") richiama il tema della memoria legata ai luoghi: il mare, tornando con la marea, evoca ricordi di momenti ed esperienze passate legate a un luogo caro.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789638559702",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-17",
+      "tgr": "Τις νύχτες",
+      "tit": "Tis nìchtes",
+      "alias": "Να σε φτάσω λεφτεριά",
+      "at": "Άρης Αλεξάνδρου",
+      "am": "Λουκάς Θάνος",
+      "yr": "1976",
+      "ar": "Νίκος Ξυλούρης",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=HSW1BntDGyM",
+      "li": "",
+      "ch": "REm                     SOLm             REm\nΤις νύχτες σκάβαμε κρυφά μια υπόγεια σήραγγα \nREm                     SOLm             REm\nΤις νύχτες σκάβαμε κρυφά μια υπόγεια σήραγγα\nFA                     LA#            SOLm\nμ' ένα σουγιά, μ' ένα πιρούνι, με τα νύχια\n\nREm            SOLm                    REm               \nΣκάβαμε τις πέτρες ξέροντας πως θα φτάσουμε\nSOLm        REm   LA  REm\nτο πολύ ως τη θά-λα-σσα \nREm            SOLm                    REm               \nΣκάβαμε τις πέτρες ξέροντας πως θα φτάσουμε\nSOLm        REm   LA  REm\nτο πολύ ως τη θά-λα-σσα \n\n\nDO                           LA#  \nΚι όμως μας ήταν ανάγκη να βλέπουμε \nFA        LA#       DO\nτα χέρια μας να ζούνε\nDO                           LA#  \nΚι όμως μας ήταν ανάγκη να βλέπουμε \nFA        LA#       DO\nτα χέρια μας να ζούνε\nREm                                    \nΜου ήταν ανάγκη να βλέπω  \n SOLm       REm           LA          REm\nπως κοντεύω πόντο-πόντο να σε φτά- α- α- σω\nREm                                    \nΜου ήταν ανάγκη να βλέπω  \n SOLm       REm           LA          REm\nπως κοντεύω πόντο-πόντο να σε φτά- α- α- σω",
+      "tr": "Tis níchtes\n\nTis níchtes skávame krifá mia ipóghia síranga\n\nm'éna sughiá, m'éna piruni, me ta níchia\n\nSkávame tis pétres kséronde pos tha ftásume to poli os ti thá-la-sa\n\nKi ómos mas ítan anángi na vlépume ta chéria mas na zúne\n\nMu ítan anángi na vlépo pos kondévo pónto-pónto na se ftá-a-a-so",
+      "ti": "Di notte\n\nDi notte scavavamo di nascosto una galleria sotterranea\n\ncon un temperino, con una forchetta, con le unghie\n\nScavavamo le pietre sapendo che saremmo arrivati almeno fino al mare\n\nEppure avevamo bisogno di vedere che le nostre mani vivessero¹\n\nAvevo bisogno di vedere che mi avvicinavo, punto per punto, a raggiungerti²\n\n¹ L'immagine delle mani che \"vivono\" (\"να ζούνε\") sottolinea il valore del gesto stesso di scavare come prova di essere ancora vivi e attivi, al di là del risultato — un tema tipico dei canti che parlano di prigionia o resistenza.\n\n² Lo spezzettamento sillabico \"φτά-α-α-σω\" (ftá-a-a-so, \"raggiungerti\") riflette un effetto melismatico tipico del canto, dove la sillaba viene allungata musicalmente — l'ho mantenuto nella trascrizione perché segnalato esplicitamente anche negli accordi originali.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789636636687",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Γιώργης Ξυλούρης, Ζαχαρίας Σπυριδάκης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=qTwgO7p6vuM",
+          "vid": false
+        },
+        {
+          "who": "Γιώργης Κουτσουρέλης, Στέλιος Κουτσουρέλης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=NTYpVNWLX9g",
+          "vid": false
+        },
+        {
+          "who": "Νίκος Ξυλούρης",
+          "year": "1975",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Y4QvPkWU24E",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-17",
+      "tgr": "Κρουσταλλοβραχιωνάτη μου",
+      "tit": "Krustalovrachionàti mu",
+      "alias": "",
+      "at": "Γιώργης Κουτσουρέλης",
+      "am": "Γιώργης Κουτσουρέλης",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "Αστικό κρητικό",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Άνοιξε το παράθυρο\nΜε το χιονάτο χέρι\nΚρουσταλοβραχιονάτη μου\nΝα δει ο ήλιος κι άλλο φως\nΆσπρο μου περιστέρι\nΚρουσταλοβραχιονάτη μου\nΝα ακούσεις το τραγούδι μου\nΠου έρχεται σιμά σου\nΚρουσταλοβραχιονάτη μου\nΕίναι παλμός και άρωμα\nΤης τόσης ομορφιάς σου\nΚρουσταλοβραχιονάτη μου",
+      "tr": "Krustalovrachionáti mu\n\nÁnikse to paráthiro\nMe to chionáto chéri\nKrustalovrachionáti mu\nNa di o ílios ki álo fos\nÁspro mu peristéri\nKrustalovrachionáti mu\nNa akúsis to traghúdi mu\nPu érchete simá su\nKrustalovrachionáti mu\nÍne palmós kie ároma\nTis tósis omorfiás su\nKrustalovrachionáti mu",
+      "ti": "Mia braccio-di-cristallo\n\nApri la finestra\ncon la mano candida come neve\nmia braccio-di-cristallo¹\naffinché il sole veda anche un'altra luce\nmia bianca colomba²\nmia braccio-di-cristallo\nAscolta la mia canzone\nche viene vicino a te\nmia braccio-di-cristallo\nÈ battito e profumo\ndella tua così grande bellezza\nmia braccio-di-cristallo\n\n¹ Κρουσταλοβραχιονάτη è un composto poetico formato da \"κρύσταλλο\" (cristallo) e \"βραχίονας\" (braccio), un epiteto tipico della poesia popolare greca per descrivere braccia bianche, lucenti e perfette come il cristallo — un vezzeggiativo elaborato rivolto alla donna amata.\n\n² Περιστέρι (colomba/piccione) è un'immagine ricorrente nei canti d'amore greci per indicare purezza, dolcezza e grazia della persona amata.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789634468754",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Νίκος Ξυλούρης",
+          "year": "1977",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=TDFB2su2GuI",
+          "vid": false
+        },
+        {
+          "who": "Γιώργης Κουτσουρέλης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=hYya8qgaZBU",
+          "vid": false
+        },
+        {
+          "who": "Θανάσης Σκορδαλός",
+          "year": "",
+          "note": "Μια τουρκοπουλα στο τζαμι",
+          "link": "https://www.youtube.com/watch?v=LqyEE75-Rcw",
+          "vid": false
+        },
+        {
+          "who": "Στέλιος Φουσταλιεράκης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=3vJpm9htezc",
+          "vid": false
+        },
+        {
+          "who": "Ψαραντώνης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ViHCGN26zUw",
+          "vid": false
+        },
+        {
+          "who": "Γιώργος Αβυσσινός",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=Rd8UYOaLpaI&list=RDRd8UYOaLpaI&start_radio=1",
+          "vid": false
+        },
+        {
+          "who": "Γιώργης Ξυλούρης, Γιάννης Ξυλούρης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=kcQkStRXqRM",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-17",
+      "tgr": "Φιλεντέμ",
+      "tit": "Filedèm",
+      "alias": "Μια παντρεμένη αγαπώ",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "Ταμπαχανιώτικα",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE                                          SOL\nΜια παντρεμένη αγαπώ Θεός να τη φωτίσει μωρό μου  \nRE                                          SOL\nΜια παντρεμένη αγαπώ Θεός να τη φωτίσει μωρό μου\nSOL      LA    RE      MIm            LA    RE\nΤον άντρα της ν' απαρνηθεί  και μένα ν' αγαπήσει  \nSOL      LA    RE      MIm            LA    RE\nΤον άντρα της ν' απαρνηθεί  και μένα ν' αγαπήσει\n\nRE                                                      RE\nΦιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ ωχ αμάν αμάν  \nRE                                                      RE\nΦιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ ωχ αμάν αμάν \n\nSOL      LA    RE           MIm            LA    RE\nΆσπρα ρόδα στην αυλή σου    πως κοιμάσαι μοναχή σου\nSOL      LA         MIm          LA    RE\nΠως κοιμάσαι μοναχή σου άσπρα ρόδα στην αυλή σου\n\nRE                                                   RE\nΦιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ ωχ αμάν αμάν \nRE                                                   RE\nΦιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ ωχ αμάν αμάν\n\nRE                                                    SOL\nΩ μια παντρεμένη αγαπώ έχει και δυο παιδάκια γιάλα γιάλα  \nRE                                                    SOL\nΩ μια παντρεμένη αγαπώ έχει και δυο παιδάκια γιάλα γιάλα  \nSOL      LA    RE      MIm          LA    RE\nΤόνα θα στείλω για νερό   τ' άλλο για ξυλαράκια \nSOL      LA    RE      MIm          LA    RE\nΤόνα θα στείλω για νερό   τ' άλλο για ξυλαράκια \n\nRE                                                   RE\nΦιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ ωχ αμάν αμάν  \nRE                                                   RE\nΦιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ ωχ αμάν αμάν \n\nSOL      LA    RE      MIm          LA    RE\nΆσπρα ρόδα και μεγάλα   πως κοιμάσαι δίχως άντρα\nSOL      LA    RE      MIm          LA    RE\nΠως κοιμάσαι δίχως άντρα άσπρα ρόδα και μεγάλα\n\nRE                                             \n RE                                           RE\nΦιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ ωχ αμάν αμάν \n         RE\nΦιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ Φιλεντέμ ωχ αμάν αμάν",
+      "tr": "Filendém\n\nMia pandreméni aghapó Theós na ti fotísi moró mu\nTon ándra tis n'aparnithí kie ména n'aghapísi\n\nFilendém Filendém Filendém Filendém Filendém och amán amán\n\nÁspra róda stin avlí su pos kimáse monachí su\nPos kimáse monachí su áspra róda stin avlí su\n\nFilendém Filendém Filendém Filendém Filendém och amán amán\n\nO mia pandreméni aghapó échi kie dio pediákia yiála yiála\nTóna tha stílo ghia neró t'álo ghia ksilarákia\n\nFilendém Filendém Filendém Filendém Filendém och amán amán\n\nÁspra róda kie meghála pos kimáse díchos ándra\nPos kimáse díchos ándra áspra róda kie meghála\n\nFilendém Filendém Filendém Filendém Filendém och amán amán",
+      "ti": "Filedem \n\nAmo una donna sposata, che Dio la illumini, bimba mia\nche rinneghi suo marito e ami me\n\nFiledem¹ Filedem Filedem Filedem Filedem, ahi che pena, che pena\n\nRose bianche nel tuo cortile, come dormi da sola\nCome dormi da sola, rose bianche nel tuo cortile\n\nFiledem Filedem Filedem Filedem Filedem, ahi che pena, che pena\n\nOh, la donna sposata che amo ha anche due bambini piccoli, riva riva²\nUno lo manderò a prendere l'acqua, l'altro per la legna\n\nFiledem Filedem Filedem Filedem Filedem, ahi che pena, che pena\n\nRose bianche e grandi, come dormi senza marito\nCome dormi senza marito, rose bianche e grandi\n\nFiledem Filedem Filedem Filedem Filedem, ahi che pena, che pena\n\n¹ Φιλεντέμ è un ritornello tradizionale privo di significato letterale preciso, tipico dei canti popolari greci (spesso di origine cretese o dell'Egeo), usato come intercalare ritmico-musicale, simile a un ritornello onomatopeico che scandisce il canto.\n\n² Γιάλα γιάλα (letteralmente \"riva riva\" o \"lungo la costa\") è un'espressione formulare ricorrente nei canti popolari greci, spesso usata come intercalare poetico legato a immagini di cammino lungo il mare, qui probabilmente impiegata più per il suono e il ritmo che per un significato letterale diretto nel contesto.",
+      "no": "La parola \"Filentem\" non è greca. Esistono due teorie principali sulla sua etimologia e storia:L'omaggio all'amico Ethem (\"File Ethem\"): Secondo la testimonianza dello storico e musicista Stelios Foustalieris, il ritornello originale era \"File Ethem\" (Φίλε Ετέμ), che in turco-cretese significava \"Amico Ethem\" o, in senso più lato, un modo di dire amichevole assimilabile a \"buon uomo\" o \"amico mio\". Alcuni raccontano che facesse riferimento a Ethem Pascià, una figura militare ottomana.Uso come provocazione: Durante le rivolte cretesi contro il dominio ottomano, i ribelli greci cantavano questo brano (spesso alterandone le parole in turco) per provocare e schernire i soldati turchi bloccati negli avamposti.\nL'aneddoto più celebre legato a questa canzone riguarda la seconda guerra mondiale e la resistenza cretese contro l'occupazione nazista. Il leggendario scrittore, agente segreto e filellenico britannico Patrick Leigh Fermor (noto per aver rapito il generale tedesco Kreipe a Creta) amava profondamente questa canzone. La cantava così spesso insieme ai partigiani cretesi sulle montagne che questi ultimi gli diedero proprio il soprannome di \"Michalis o Filentem\".\nIl testo varia a seconda dell'incisione. Qui il riferimento è il testo inciso da Nikos Xylouris",
+      "balvid": false
+    },
     {
       "id": "s_1789619696654",
       "offsets": {},
@@ -10648,7 +10824,7 @@
       "title": "Erotokritos: il capolavoro cretese che il popolo ha imparato a memoria",
       "tag": "storie di canzoni",
       "date": "2026-08-30",
-      "body": "Un poeta di cui sappiamo pochissimo\nQuasi tutto quello che sappiamo con certezza su Vincenzo Cornaro (Βιτσέντζος Κορνάρος) viene da dodici versi finali del suo stesso poema, in cui l'autore si nomina: nato il 26 marzo 1553 a Trapezonda, presso Sitia, da Iakovos Cornaro e Zambeta Demezzo, discendente di una famiglia veneto-cretese ellenizzata, aristocratica e probabilmente benestante. \n{{parallelo:\nΒιτσέντζος είν' ο Ποιητής, κι' εις τη γενιά Κορνάρος,\nπου να βρεθεί ακριμάτιστος, όντε τον πάρη ο Χάρος.\nΘωρώ πολλούς και πεθυμούν, κι' έχω το γρικημένα,\nνα μάθουν τίς εκόπιασεν εις τ' απανωγραμμένα.\nΚ' εγώ δε θέ' να κουρφευτώ, κι αγνώριστο να μ' έχουν,\nμα θέλω να φανερωθώ, όλοι να με κατέχουν.\nΒιτσέντζος είν' ο Ποιητής, κι' εις τη γενιά Κορνάρος,\nπου να βρεθεί ακριμάτιστος, όντε τον πάρη ο Χάρος.\nΣτη Στείαν εγεννήθηκε, στη Στείαν ενεθράφη,\nεκεί 'καμε κι' εκόπιασε ετούτα που σας γράφει.\nΣτο Κάστρον επαντρεύτηκε σαν αρμηνεύγει η φύση,\nτο τέλος του έχει να γενή όπου ο Θεός ορίσει.\n----\nVincenzo è il poeta, e di famiglia Cornaro,\nche si trovi senza colpa, quando lo prenderà Caronte (la Morte).\nVedo che molti desiderano, e ne ho avuto notizia,\ndi sapere chi si sia affaticato in queste pagine sopra scritte.\nE io non voglio nascondermi, né restare irriconosciuto,\nma voglio farmi conoscere, che tutti mi sappiano.\nVincenzo è il poeta, e di famiglia Cornaro,\nche si trovi senza colpa, quando lo prenderà Caronte.\nA Sitia nacque, a Sitia crebbe,\nlì fece e si affaticò in ciò che vi scrive.\nA Candia si sposò, come la natura comanda,\nla sua fine sarà dove Dio la disporrà.\n}}\nVisse a Sitia fino al 1580 circa, poi si trasferì a Candia (l'odierna Iraklio, spesso confusa per errore con Chania nelle traduzioni più superficiali). Lì sposò Marietta Zeno, da cui ebbe due figlie, Eleni e Katerina. Dal 1591 ricoprì incarichi amministrativi, e durante l'epidemia di peste del 1591-93 fu nominato sovrintendente sanitario. Morì a Candia nel 1613 o 1614, per cause sconosciute, e fu sepolto nel monastero di Agios Frangiskos (San Francesco).\nUn'educazione probabilmente italiana\nCome molte famiglie nobili di Sitia della sua epoca — tra cui, esplicitamente, la stessa famiglia Cornaro — era pratica comune avere biblioteche private, precettori portati appositamente dall'Italia, e mandare i propri figli a studiare oltremare. È dunque probabile, anche se non documentato con assoluta certezza per Vincenzo in prima persona, che anche la sua formazione sia passata attraverso questo canale — coerente del resto con la profonda cultura italiana e classica che l'Erotokritos stesso dimostra.\nSuo fratello maggiore, Andrea Cornaro, aristocratico, storico e scrittore (combattè a Lepanto nel 1571 a soli 24 anni), scrisse una Storia di Creta mai pubblicata, e fondò a Candia l'Accademia degli Stravaganti, la più antica accademia in area greca, sul modello di quelle italiane. Vincenzo ne fu uno dei membri più attivi.\nIl contesto: la Rinascita cretese\nCreta, sotto dominio veneziano dal 1211 al 1669, visse tra fine '500 e inizio '600 una fioritura letteraria unica in dialetto cretese, nata dall'incontro tra l'eredità bizantina e il Rinascimento italiano. Non a caso Cornaro fu contemporaneo di William Shakespeare e Miguel de Cervantes: attraverso il dominio veneziano, il Rinascimento europeo arrivava fino a Creta, la stessa isola che diede i natali anche a El Greco.\n{{img:https://musicagreca.com/images/creta-venezia-storia.jpg|centro}}\n\nUn dominio lungo e duro, ma anche fertile\nIl dominio veneziano su Creta durò esattamente 458 anni: dalla conquista (1205-1212, formalizzata nel 1211) fino alla caduta nelle mani ottomane nel 1669, dopo un durissimo assedio di 21 anni della sola Candia. Fu un dominio segnato da un rigido sistema feudale, dal lavoro forzato (l'angaria, specialmente nella costruzione delle imponenti fortezze dell'isola) e da una condizione di servitù della gleba che durò fino alla fine, riducendo i contadini cretesi sul filo della miseria. Non stupisce quindi che Creta fu l'unico territorio greco sotto dominio latino a manifestare apertamente e ripetutamente la propria opposizione, con numerose rivolte contadine e aristocratiche nel corso dei secoli (una delle più note, quella di Georgios Gadanoleon-Lyssogiorgis, tra il 1509 e il 1528).\nEppure, paradossalmente, fu proprio in questo stesso contesto di dominazione dura e spesso oppressiva che nacque la Rinascita cretese — segno di quanto la cultura sappia a volte fiorire proprio nelle crepe di un potere che i cretesi non hanno mai accettato fino in fondo.\nLa storia raccontata dal poema                               {{img:https://musicagreca.com/images/erotokritos.jpg|destra}}\n10.012 versi (decapentasillabi giambici in rima baciata, il \"verso politico\" della poesia popolare greca), scritti in dialetto cretese, ambientati in un'Atene antica ma pervasa di spirito cavalleresco occidentale. Erotokritos, figlio del consigliere del re, si innamora della principessa Aretousa e la corteggia di notte, sotto la sua finestra, senza svelare la propria identità. Scoperto e esiliato, torna anni dopo con il volto trasformato da un liquido magico, salva il re in battaglia contro i Valacchi, e solo alla fine rivela chi è davvero ad Aretousa, che lo ha atteso fedelmente attraverso anni di prigionia e proposte di matrimonio rifiutate. Il modello diretto fu il romanzo francese medievale \"Paris et Vienne\", conosciuto da Cornaro probabilmente attraverso un adattamento italiano.\nL'opera circolò per tutto il '600 solo in forma manoscritta — non ne sopravvive alcuna copia completa, a parte un manoscritto incompiuto del 1710 (oggi alla British Library, codice Harley 5644). La prima edizione a stampa uscì solo nel 1713 a Venezia, un secolo dopo la composizione.     {{img:https://musicagreca.com/images/erotokritos1.jpg|centro}}\n\nUn volto, forse\nNon esiste alcun ritratto di Vincenzo Cornaro dipinto dal vivo. Ma proprio quel manoscritto delle Isole Ionie del 1710 contiene una miniatura, disegnata dagli illustratori dell'epoca, che raffigura \"lo scrittore Vitsentzos Kornaros\" intento a scrivere alla propria scrivania — l'unica immagine, seppur non dal vero, che la tradizione ci ha tramandato di lui.\n{{img:https://musicagreca.com/images/kornaros1.jpg|centro}}\nPerché è ancora vivo: il canto, non solo la lettura\nQuello che rende l'Erotokritos unico non è solo il suo valore letterario, ma il fatto che sia sopravvissuto soprattutto cantato, non letto. Il protagonista stesso è un cantore — la canzone d'amore è l'unico mezzo con cui comunica con Aretousa — e questo carattere musicale, unito al metro popolare, fece sì che generazioni di cretesi memorizzassero migliaia di versi, recitandoli con la lira in ogni occasione: matrimoni, veglie, semplici riunioni tra amici. Nel maggio 1941, sotto i bombardamenti tedeschi di Chania, il poeta Giorgos Seferis ricordò i venditori ambulanti di Smirne che vendevano edizioni economiche dell'Erotokritos, vedendovi un filo che collega la nazione greca da Omero fino a Solomós.\nIl rapporto con le mantinades — i distici improvvisati e cantati tipici di Creta — è stretto ma non semplice da definire: condividono lo stesso metro, nato dalla stessa tradizione della rima cretese rinascimentale, in un rapporto più di parentela reciproca che di derivazione diretta in un solo senso.\nI grandi della lira e l'eredità musicale\nTra i lyrari storicamente legati all'esecuzione dell'Erotokritos: Kostas Mountakis, Andreas Rodinos, Giannis Bernidakis (Baxevanis), e soprattutto la famiglia Xylouris — Nikos, il fratello Antonis \"Psarantonis\", e i suoi discendenti. Ancora oggi le scuole di lira cretese insegnano l'Erotokritos già al primo anno di studio, insieme ai \"Xasteria\".\nUn consiglio d'ascolto\nSe dovessi scegliere un solo modo per avvicinarsi per la prima volta a questo mondo, sarebbe la versione dal vivo di Psarantonis, una \"τραγουδαφήγηση\" (racconto cantato) quasi spoglia, dura, lontanissima da ogni ricercatezza melodica, portata in scena anche all'Odeon di Erode Attico. È un'esecuzione capace di scuotere profondamente chi ascolta, ben più della pur splendida versione in studio dello stesso Psarantonis o del celebre disco di Xylouris del 1976.\nLa vita contemporanea del poema\nNel 1976 uscì il disco che resta il punto di riferimento assoluto: \"Ερωτόκριτος\" (Columbia), con Nikos Xylouris nella parte di Erotokritos e Tania Tsanaklidou in quella di Aretousa, orchestrato da Christodoulos Chàlaris sulla base di vecchie melodie cretesi come le ricordava lo stesso Xylouris. Il compositore Giannis Markopoulos ne trasse un'intera opera (\"Ερωτόκριτος και Αρετή\", 2000-2003); Nikos Mamangakis un'altra nel 1985. A teatro, la regia più importante resta quella di Stathis Livathinos (debutto 2011, Premio di Regia dell'Opera Greca 2012). Ogni anno, il grande concerto \"Οι Μουσικές της Κρήτης\" all'Odeon di Erode Attico include ancora oggi estratti dall'Erotokritos, accanto ai grandi maestri della lira come Skordalos, Mountakis e Kladas.\nDal 2016 l'Erotokritos è materia curricolare nel terzo e ultimo anno del Ginnasio greco (Γ' Γυμνασίου), e nello stesso anno è stato iscritto nell'Inventario nazionale del patrimonio culturale immateriale della Grecia.\n{{img:https://musicagreca.com/images/kornaros2.jpg|centro}}",
+      "body": "Un poeta di cui sappiamo pochissimo\nQuasi tutto quello che sappiamo con certezza su Vincenzo Cornaro (Βιτσέντζος Κορνάρος) viene da dodici versi finali del suo stesso poema, in cui l'autore si nomina: nato il 26 marzo 1553 a Trapezonda, presso Sitia, da Iakovos Cornaro e Zambeta Demezzo, discendente di una famiglia veneto-cretese ellenizzata, aristocratica e probabilmente benestante. \n{{parallelo:\nΒιτσέντζος είν' ο Ποιητής, κι' εις τη γενιά Κορνάρος,\nπου να βρεθεί ακριμάτιστος, όντε τον πάρη ο Χάρος.\nΘωρώ πολλούς και πεθυμούν, κι' έχω το γρικημένα,\nνα μάθουν τίς εκόπιασεν εις τ' απανωγραμμένα.\nΚ' εγώ δε θέ' να κουρφευτώ, κι αγνώριστο να μ' έχουν,\nμα θέλω να φανερωθώ, όλοι να με κατέχουν.\nΒιτσέντζος είν' ο Ποιητής, κι' εις τη γενιά Κορνάρος,\nπου να βρεθεί ακριμάτιστος, όντε τον πάρη ο Χάρος.\nΣτη Στείαν εγεννήθηκε, στη Στείαν ενεθράφη,\nεκεί 'καμε κι' εκόπιασε ετούτα που σας γράφει.\nΣτο Κάστρον επαντρεύτηκε σαν αρμηνεύγει η φύση,\nτο τέλος του έχει να γενή όπου ο Θεός ορίσει.\n----\nVincenzo è il poeta, e di famiglia Cornaro,\nche si trovi senza colpa, quando lo prenderà Caronte (la Morte).\nVedo che molti desiderano, e ne ho avuto notizia,\ndi sapere chi si sia affaticato in queste pagine sopra scritte.\nE io non voglio nascondermi, né restare irriconosciuto,\nma voglio farmi conoscere, che tutti mi sappiano.\nVincenzo è il poeta, e di famiglia Cornaro,\nche si trovi senza colpa, quando lo prenderà Caronte.\nA Sitia nacque, a Sitia crebbe,\nlì fece e si affaticò in ciò che vi scrive.\nA Candia si sposò, come la natura comanda,\nla sua fine sarà dove Dio la disporrà.\n}}\nVisse a Sitia fino al 1580 circa, poi si trasferì a Candia (l'odierna Iraklio, spesso confusa per errore con Chania nelle traduzioni più superficiali). Lì sposò Marietta Zeno, da cui ebbe due figlie, Eleni e Katerina. Dal 1591 ricoprì incarichi amministrativi, e durante l'epidemia di peste del 1591-93 fu nominato sovrintendente sanitario. Morì a Candia nel 1613 o 1614, per cause sconosciute, e fu sepolto nel monastero di Agios Frangiskos (San Francesco).\nUn'educazione probabilmente italiana\nCome molte famiglie nobili di Sitia della sua epoca — tra cui, esplicitamente, la stessa famiglia Cornaro — era pratica comune avere biblioteche private, precettori portati appositamente dall'Italia, e mandare i propri figli a studiare oltremare. È dunque probabile, anche se non documentato con assoluta certezza per Vincenzo in prima persona, che anche la sua formazione sia passata attraverso questo canale — coerente del resto con la profonda cultura italiana e classica che l'Erotokritos stesso dimostra.\nSuo fratello maggiore, Andrea Cornaro, aristocratico, storico e scrittore (combattè a Lepanto nel 1571 a soli 24 anni), scrisse una Storia di Creta mai pubblicata, e fondò a Candia l'Accademia degli Stravaganti, la più antica accademia in area greca, sul modello di quelle italiane. Vincenzo ne fu uno dei membri più attivi.\nIl contesto: la Rinascita cretese\nCreta, sotto dominio veneziano dal 1211 al 1669, visse tra fine '500 e inizio '600 una fioritura letteraria unica in dialetto cretese, nata dall'incontro tra l'eredità bizantina e il Rinascimento italiano. Non a caso Cornaro fu contemporaneo di William Shakespeare e Miguel de Cervantes: attraverso il dominio veneziano, il Rinascimento europeo arrivava fino a Creta, la stessa isola che diede i natali anche a El Greco.\n{{img:https://musicagreca.com/images/creta-venezia-storia.jpg|centro}}\n\nUn dominio lungo e duro, ma anche fertile\nIl dominio veneziano su Creta durò esattamente 458 anni: dalla conquista (1205-1212, formalizzata nel 1211) fino alla caduta nelle mani ottomane nel 1669, dopo un durissimo assedio di 21 anni della sola Candia. Fu un dominio segnato da un rigido sistema feudale, dal lavoro forzato (l'angaria, specialmente nella costruzione delle imponenti fortezze dell'isola) e da una condizione di servitù della gleba che durò fino alla fine, riducendo i contadini cretesi sul filo della miseria. Non stupisce quindi che Creta fu l'unico territorio greco sotto dominio latino a manifestare apertamente e ripetutamente la propria opposizione, con numerose rivolte contadine e aristocratiche nel corso dei secoli (una delle più note, quella di Georgios Gadanoleon-Lyssogiorgis, tra il 1509 e il 1528).\nEppure, paradossalmente, fu proprio in questo stesso contesto di dominazione dura e spesso oppressiva che nacque la Rinascita cretese — segno di quanto la cultura sappia a volte fiorire proprio nelle crepe di un potere che i cretesi non hanno mai accettato fino in fondo.\n\nLa storia raccontata dal poema                               {{img:https://musicagreca.com/images/erotokritos.jpg|destra}}\n10.012 versi (decapentasillabi giambici in rima baciata, il \"verso politico\" della poesia popolare greca), scritti in dialetto cretese, ambientati in un'Atene antica ma pervasa di spirito cavalleresco occidentale. Erotokritos, figlio del consigliere del re, si innamora della principessa Aretousa e la corteggia di notte, sotto la sua finestra, senza svelare la propria identità. Scoperto e esiliato, torna anni dopo con il volto trasformato da un liquido magico, salva il re in battaglia contro i Valacchi, e solo alla fine rivela chi è davvero ad Aretousa, che lo ha atteso fedelmente attraverso anni di prigionia e proposte di matrimonio rifiutate. Il modello diretto fu il romanzo francese medievale \"Paris et Vienne\", conosciuto da Cornaro probabilmente attraverso un adattamento italiano.\nL'opera circolò per tutto il '600 solo in forma manoscritta — non ne sopravvive alcuna copia completa, a parte un manoscritto incompiuto del 1710 (oggi alla British Library, codice Harley 5644). La prima edizione a stampa uscì solo nel 1713 a Venezia, un secolo dopo la composizione.     {{img:https://musicagreca.com/images/erotokritos1.jpg|centro}}\n\nUn volto, forse\nNon esiste alcun ritratto di Vincenzo Cornaro dipinto dal vivo. Ma proprio quel manoscritto delle Isole Ionie del 1710 contiene una miniatura, disegnata dagli illustratori dell'epoca, che raffigura \"lo scrittore Vitsentzos Kornaros\" intento a scrivere alla propria scrivania — l'unica immagine, seppur non dal vero, che la tradizione ci ha tramandato di lui.\n{{img:https://musicagreca.com/images/kornaros1.jpg|centro}}\nPerché è ancora vivo: il canto, non solo la lettura\nQuello che rende l'Erotokritos unico non è solo il suo valore letterario, ma il fatto che sia sopravvissuto soprattutto cantato, non letto. Il protagonista stesso è un cantore — la canzone d'amore è l'unico mezzo con cui comunica con Aretousa — e questo carattere musicale, unito al metro popolare, fece sì che generazioni di cretesi memorizzassero migliaia di versi, recitandoli con la lira in ogni occasione: matrimoni, veglie, semplici riunioni tra amici. Nel maggio 1941, sotto i bombardamenti tedeschi di Chania, il poeta Giorgos Seferis ricordò i venditori ambulanti di Smirne che vendevano edizioni economiche dell'Erotokritos, vedendovi un filo che collega la nazione greca da Omero fino a Solomós.\nIl rapporto con le mantinades — i distici improvvisati e cantati tipici di Creta — è stretto ma non semplice da definire: condividono lo stesso metro, nato dalla stessa tradizione della rima cretese rinascimentale, in un rapporto più di parentela reciproca che di derivazione diretta in un solo senso.\nI grandi della lira e l'eredità musicale\nTra i lyrari storicamente legati all'esecuzione dell'Erotokritos: Kostas Mountakis, Andreas Rodinos, Giannis Bernidakis (Baxevanis), e soprattutto la famiglia Xylouris — Nikos, il fratello Antonis \"Psarantonis\", e i suoi discendenti. Ancora oggi le scuole di lira cretese insegnano l'Erotokritos già al primo anno di studio, insieme ai \"Xasteria\".\nUn consiglio d'ascolto\nSe dovessi scegliere un solo modo per avvicinarsi per la prima volta a questo mondo, sarebbe la versione dal vivo di Psarantonis, una \"τραγουδαφήγηση\" (racconto cantato) quasi spoglia, dura, lontanissima da ogni ricercatezza melodica, portata in scena anche all'Odeon di Erode Attico. È un'esecuzione capace di scuotere profondamente chi ascolta, ben più della pur splendida versione in studio dello stesso Psarantonis o del celebre disco di Xylouris del 1976.\nLa vita contemporanea del poema\nNel 1976 uscì il disco che resta il punto di riferimento assoluto: \"Ερωτόκριτος\" (Columbia), con Nikos Xylouris nella parte di Erotokritos e Tania Tsanaklidou in quella di Aretousa, orchestrato da Christodoulos Chàlaris sulla base di vecchie melodie cretesi come le ricordava lo stesso Xylouris. Il compositore Giannis Markopoulos ne trasse un'intera opera (\"Ερωτόκριτος και Αρετή\", 2000-2003); Nikos Mamangakis un'altra nel 1985. A teatro, la regia più importante resta quella di Stathis Livathinos (debutto 2011, Premio di Regia dell'Opera Greca 2012). Ogni anno, il grande concerto \"Οι Μουσικές της Κρήτης\" all'Odeon di Erode Attico include ancora oggi estratti dall'Erotokritos, accanto ai grandi maestri della lira come Skordalos, Mountakis e Kladas.\nDal 2016 l'Erotokritos è materia curricolare nel terzo e ultimo anno del Ginnasio greco (Γ' Γυμνασίου), e nello stesso anno è stato iscritto nell'Inventario nazionale del patrimonio culturale immateriale della Grecia.\n{{img:https://musicagreca.com/images/kornaros2.jpg|centro}}",
       "link": ""
     },
     {
@@ -15950,7 +16126,7 @@
     {
       "id": "p_1789362087337",
       "name": "Νίκη Ξυλούρη",
-      "nameit": "Níki Ksilùri",
+      "nameit": "Níki Xilùri",
       "born": "",
       "died": "",
       "bio": "Musicista e cantante originaria di Anogeia (Creta), figlia del lyraris Antonis Xylouris (\"Psarantonis\"). Cresciuta in una famiglia interamente immersa nella musica, racconta di essere stata affascinata fin da bambina dal potere della musica di creare e intensificare le emozioni. A soli 12 anni cantò già a un festival dedicato all'anniversario della caduta della dittatura.  Suona regolarmente insieme al padre e ai fratelli oltre che con la propria musica personale, proponendo un repertorio che unisce canzoni tradizionali cretesi rivisitate, brani della tradizione popolare greca in generale, ed episodi mai incisi prima. Descrive il rapporto artistico con il padre come un equilibrio delicato: pur non sentendosi mai \"oscurata\" dal peso del cognome familiare, riconosce di tenere sempre conto del suo giudizio, muovendosi \"a metà strada\" tra la protezione di una figlia e la spinta a crescere artisticamente in autonomia.  Durante il periodo della pandemia, mentre i concerti si erano fermati, si dedicò con il padre e i fratelli a un progetto speciale: la registrazione casalinga dell'Erotokritos, il celebre poema cretese di Vincenzo Cornaro.  Descrive la musica cretese come qualcosa di profondamente interiore, capace però in altri momenti di farsi quasi dionisiaca.",
@@ -15989,21 +16165,6 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/papamichail.jpg",
       "roles": [
         "ar"
-      ]
-    },
-    {
-      "id": "p_1789377786924",
-      "name": "Γιώργης Κουτσουρέλης",
-      "nameit": "Giórgis Koutsourélis",
-      "born": "1914, Kissamos (Creta)",
-      "died": "1994",
-      "bio": "Musicista e compositore cretese, cresciuto in una famiglia di grande tradizione musicale — il padre era tra i più importanti laoutieri della propria epoca, e numerosi altri membri della famiglia suonavano laouto, lira, violino e mandolino. Iniziò a suonare seriamente il laouto del padre da bambino, diventando già un laoutieri esperto a 10 anni. A 16 anni incise i primi dischi per la Columbia, insieme a G. Margianos (violino) e Alekos Karavitis (lira). Nel 1939 rappresentò tutta Creta in una trasmissione musicale dalla Radio di Atene.\n\nDal 1950 al 1958, insieme ai fratelli Manolis e Stelios, rappresentò ufficialmente tutta la musica cretese attraverso l'Ente Nazionale di Radiofonia di Atene, con due trasmissioni settimanali (\"Κρητικό Μεσημέρι\" e \"Κρητική Βραδιά\"), oltre a una trasmissione personale a Chania (\"Κρητικοί Μουσικοί Περίπατοι\"). Il primo disco del dopoguerra fu \"Χίτλερ να μην το καυχηθείς...\" (\"Hitler, non vantartene...\"), che fece scalpore all'epoca.\n\nIl punto cruciale: tra il 1949 e il 1950 incise una propria composizione intitolata \"Αρμενοχωριανός Συρτός\", di grande successo, che attirò l'attenzione di importanti musicisti — e che, secondo le sue stesse parole pronunciate pubblicamente nel 1982, fu usata come base da Mikis Theodorakis per la colonna sonora del film \"Zorba\", presentata come una composizione propria di Theodorakis. Koutsourelis la reincise poi una seconda volta, intitolandola stavolta \"Κρητικό Συρτάκι\".\n\nNel 1958 abbandonò l'attività radiofonica per il lutto della morte del fratello Manolis, riprendendo dopo circa un decennio su richiesta insistente di amici e pubblico. Nel 1974 iniziò una collaborazione con Nikos Xylouris per un disco di 12 canzoni, interrotta per mancanza di tempo — ne uscirono solo due brani, \"Νενέ μου\" (Koutsourelis al laouto solista, Xylouris alla voce) e \"Μπαρμπούνι\" (con la lira di Xylouris). La malattia e la morte di Xylouris impedirono di completare il progetto. Due o tre anni prima, aveva anche contribuito con due brani propri (\"Νενέ μου\" e \"Κρουσταλλοβραχιονάτη μου\", musica e testo interamente suoi) al disco di Xylouris \"Τα που θυμούμαι τραγουδώ\".",
-      "link": "",
-      "listen": "",
-      "photo": "https://musicagreca.github.io/musica-greca/images/kutsurelis.jpg",
-      "roles": [
-        "am",
-        "mu"
       ]
     },
     {
@@ -16121,6 +16282,132 @@
       "roles": [
         "ar",
         "mu"
+      ]
+    },
+    {
+      "id": "p_1789632119347",
+      "name": "Γιώργης Κουτσουρέλης",
+      "nameit": "Giórgis Koutsourélis",
+      "born": "1914, Kissamos (Creta)",
+      "died": "1994",
+      "bio": "Musicista e compositore cretese, cresciuto in una famiglia di grande tradizione musicale — il padre era tra i più importanti laoutieri della propria epoca, e numerosi altri membri della famiglia suonavano laouto, lira, violino e mandolino. Iniziò a suonare seriamente il laouto del padre da bambino, diventando già un laoutieri esperto a 10 anni. A 16 anni incise i primi dischi per la Columbia, insieme a G. Margianos (violino) e Alekos Karavitis (lira). Nel 1939 rappresentò tutta Creta in una trasmissione musicale dalla Radio di Atene.\n\nDal 1950 al 1958, insieme ai fratelli Manolis e Stelios, rappresentò ufficialmente tutta la musica cretese attraverso l'Ente Nazionale di Radiofonia di Atene, con due trasmissioni settimanali (\"Κρητικό Μεσημέρι\" e \"Κρητική Βραδιά\"), oltre a una trasmissione personale a Chania (\"Κρητικοί Μουσικοί Περίπατοι\"). Il primo disco del dopoguerra fu \"Χίτλερ να μην το καυχηθείς...\", che fece scalpore all'epoca.\n\nIl punto cruciale: tra il 1949 e il 1950 incise una propria composizione intitolata \"Αρμενοχωριανός Συρτός\", di grande successo — che, secondo le sue stesse parole pronunciate pubblicamente nel 1982, fu usata come base da Mikis Theodorakis per la colonna sonora del film \"Zorba\", presentata come una composizione propria di Theodorakis. Koutsourelis la reincise poi una seconda volta, intitolandola stavolta \"Κρητικό Συρτάκι\".\n\nNel 1958 abbandonò l'attività radiofonica per il lutto della morte del fratello Manolis, riprendendo dopo circa un decennio su richiesta insistente di amici e pubblico. Nel 1974 iniziò una collaborazione con Nikos Xylouris per un disco di 12 canzoni, interrotta per mancanza di tempo — ne uscirono solo due brani, \"Νενέ μου\" e \"Μπαρμπούνι\". La malattia e la morte di Xylouris impedirono di completare il progetto.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kutsurelis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789632542020",
+      "name": "Θανάσης Σκορδαλός",
+      "nameit": "Thanásis Skordalós",
+      "born": "10 dicembre 1920, Spíli (provincia di Agios Vasilios, Rethymno)",
+      "died": "22 aprile 1998, Iraklio",
+      "bio": "Considerato, insieme a Kostas Mountakis, uno dei più grandi maestri della lira cretese — fondatore e capostipite di una scuola musicale unica e immensa. Figlio di Giannis e Garyfalliá Skordalós, iniziò a suonare la lira da autodidatta, a 9 anni: \"Nove anni avevo quando presi la lira, con fede la amai e presi la decisione.\" A soli 12 anni tenne il primo vero glenti nel villaggio di Chamalevri (Rethymno). Ebbe dal primo matrimonio, con la retimniota Chrysoula Papadaki, quattro figli: Giannis, Dimitris, Litsa e Mary.\n\nUn aneddoto memorabile: qualcuno gli chiese una volta: \"Da quale conservatorio ti sei diplomato, Skordalé?\" — \"Da quello di Spíli\", rispose lui. \"E quale sarebbe?\" — \"Il mio villaggio.\" — \"Ma il tuo villaggio ha un conservatorio?\" — \"Non ha conservatorio, ma ha la natura.\"\n\nCollaborò con moltissimi laoutieri, tra cui Giannis Markogiannakis (anche lui di Spíli), Giannis Bernidakis (Baxevanis), Nikos Manias e molti altri.\n\nUn giudizio bellissimo della figlia, che coglie perfettamente il rapporto con l'altro grande maestro: \"Se mio padre era il Dio del syrtós, Kostas Mountakis era il re del pentozáli e del malevizótis. Credo che resteranno così nella storia della musica cretese.\"\n\nFu sepolto nel proprio villaggio natale, Spíli, il 23 aprile 1998, dopo che la salma fu esposta per sei ore al pubblico omaggio nella cappella della chiesa di Agios Minas a Iraklio. Esiste ancora oggi un'associazione di amici dedicata alla sua memoria.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/skordalos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789633377936",
+      "name": "Γιώργος Αβυσσινός",
+      "nameit": "Giórgos Avyssinós",
+      "born": "1 marzo 1931, Skalani (Iraklio)",
+      "died": "10 novembre 2015, Skalani",
+      "bio": "Uno dei più grandi virtuosi del violino nella tradizione musicale cretese, autodidatta, al servizio della musica cretese per oltre 45 anni. Il soprannome \"Avyssinós\" (\"l'Abissino\") gli fu dato dal proprio maestro, per la carnagione scura. Crebbe a Skalani, dove visse fino alla fine della vita.\n\nSi dedicò alla musica fin da piccolissimo: a 15 anni era già un violinista affermato, e suonava nel caffè del padre a Skalani, dove ogni sera gli abitanti di Iraklio si recavano apposta per ascoltarlo. Suonò a matrimoni e panighiria fino alla chiamata alle armi — durante il servizio militare nel 19° reggimento di fanteria non si separò mai dal violino, intrattenendo l'intero reggimento. Dopo il congedo, nel 1960 aprì a Skalani il proprio primo locale.\n\nEbbe tre figli — Kostis, Giannis e Manolis — e quattro nipoti.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/avissinos.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789633955577",
+      "name": "Γιάννης Ξυλούρης",
+      "nameit": "Giánnis Xylóuris",
+      "born": "1943, Anogeia (Mylopotamos, Rethymno)",
+      "died": "15 gennaio 2026",
+      "bio": "Detto Ψαρογιάννης\n\nMusicista cretese, fratello dei celebri Nikos Xylouris e Antonis Xylouris (\"Psarantonis\"), appartenente alla grande famiglia Xylouris che da quattro generazioni alimenta con suoni straordinari la musica cretese e non solo. Nipote del leggendario lyraris Karamouzantonis, crebbe in un ambiente dove lira e laouto erano un vero e proprio prolungamento del corpo e dell'anima.\n\nIniziò a suonare il mandolino a 5 anni, proseguì con la lira e infine imparò il laouto — lo strumento in cui sarebbe diventato un vero maestro, con una tecnica personale e unica. A 13 anni accompagnava già, ora con il laouto ora con la lira, il fratello Nikos nelle esibizioni ad Anogeia e a Iraklio; due anni dopo (a 15 anni) partecipò per la prima volta alle sue registrazioni discografiche, con grande successo.\n\nEbbe anche contatti con l'éntechno: nel 1983 si esibì in un locale insieme a Eleni Vitali, Chalkias e il fratello di Kazantzidis. Nel 1996, con lo spettacolo \"Αυγή Ξανανταμώσαμε\", si esibì per la prima volta insieme alla figlia Eleftheria, anche lei musicista.\n\nOltre dieci dischi a proprio nome (\"Πετραδολάκια\", \"Κρητικός Ήλιος\", \"Ενότητες\", \"Ραψωδίες στο λαούτο\", tra gli altri), e collaborazioni con musicisti dell'Epiro, delle isole dell'Egeo, dell'Asia Minore, e con grandi compositori greci che hanno segnato la canzone moderna. Alcuni suoi brani sono stati interpretati anche dallo stesso Nikos Xylouris, da Manolis Aidakis e Vasilis Stavrakakis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ixiluris.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789635246432",
+      "name": "Στέλιος Κουτσουρέλης",
+      "nameit": "Stélios Koutsourélis",
+      "born": "1924",
+      "died": "2003",
+      "bio": "Musicista cretese di Kissamos, fratello di Giorgis Koutsourelis. Oltre a essere laoutieri e cantante, fu anche un eccellente compositore: sua è la composizione del classico ormai storico \"Εννιαχωριανός συρτός\", rimasto nella storia musicale della zona — inciso con il laouto di Giorgis, la lira di Kostas Mountakis, e il canto dello stesso Stelios.\n\nUn elogio memorabile: quando il \"gigante\" della musica cretese Nikolis Charchalis sentì per la prima volta quel syrtós, gli tributò un complimento che solo un grande maestro sa fare: \"Bravo, piccolo Koutsourelaki, che nobiltà il tuo piccolo syrtó.\"\n\nA differenza del fratello Giorgis, che fece della musica la propria professione, Stelios fu assunto alla Banca di Grecia, dove fece carriera professionale — restando comunque un musicista di grande valore nel tempo libero.\n\nCantò anche nel brano \"Κρουσταλλοβραχιονάτη μου\" (musica e testo di Giorgis) e in altre registrazioni della famiglia Koutsourelis nel dopoguerra.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/skutsurelis.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789635818833",
+      "name": "Ζαχαρίας Σπυριδάκης",
+      "nameit": "Zacharías Spyridákis",
+      "born": "1971, Atene, da genitori cretesi",
+      "died": "",
+      "bio": "Musicista e lyraris greco. Si dedica alla lira cretese dal 1980. Dal 1983 studiò come allievo diretto di Kostas Mountakis, uno dei più grandi maestri della lira, presso il Conservatorio Ellenico di Atene. Nel 1989 ricevette dallo stesso Mountakis il primo diploma, con voto massimo all'unanimità. Dopo la morte del maestro, nel gennaio 1991, ne prese il posto insegnando nel dipartimento di lira cretese dello stesso Conservatorio.\n\nNegli anni ha insegnato anche al Conservatorio di Atene, al Dipartimento Universitario di Musica Popolare e Tradizionale (ex TEI dell'Epiro), al Liceo Musicale Panciprio, e al Ginnasio-Liceo Musicale di Pallini. Da oltre 15 anni è collaboratore principale del laboratorio musicale \"Λαβύρινθος\" (Labyrinth) di Ross Daly.\n\nHa tenuto concerti sia in Grecia sia all'estero — Regno Unito, Stati Uniti, Canada, Argentina, Cina, Francia, Belgio, Spagna, Italia, Germania, Lussemburgo, Turchia, Russia, Ucraina, Repubblica Ceca, Egitto, Cipro — oltre a numerose apparizioni radiofoniche e televisive dedicate alla musica cretese.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/spiridakis.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789637178658",
+      "name": "Κώστας Καρυωτάκης",
+      "nameit": "Kóstas Kariotákis",
+      "born": "30 ottobre 1896, Tripoli (Arcadia)",
+      "died": "21 luglio 1928, Preveza",
+      "bio": "Poeta e prosatore greco, considerato il maggiore esponente della poesia lirica moderna greca — le sue opere sono state tradotte in oltre trenta lingue, e la sua influenza si estese su poeti successivi come Seferis, Ritsos e Vrettakos. Nella sua poesia emergono con forza il senso di desolazione, la fugacità della natura umana, l'ipocrisia dei rapporti sociali — temi che, uniti a un tono spesso sarcastico su ciò che è privo di gloria, insignificante o persino ridicolo, portarono a coniare il termine \"kariotakismós\" per descrivere la corrente poetica da lui ispirata.\n\nOltre alla poesia, scrisse anche prosa e curò traduzioni di autori stranieri, tra cui François Villon, Charles Baudelaire, Paul Verlaine, Tristan Corbière (i cosiddetti \"Poeti Maledetti\"), Jean Moréas ed Heinrich Heine.\n\nNel 1920 vinse il secondo premio al concorso poetico Filadelfeio per la raccolta inedita \"Τραγούδια της πατρίδας\" — premio ritirato dall'amico Charilaos Sakellariadis, poiché Karyotakis era ricoverato in ospedale militare. Collaborò con diverse riviste letterarie (Mousa, Logos di Costantinopoli, Nea Zoi di Alessandria, Esperos di Siros, Nea Techni, Nea Estia). Ebbe una relazione con la poetessa Maria Polydouri, che gli propose il matrimonio pur sapendo che soffriva di sifilide. Nel dicembre 1927 uscì la sua ultima raccolta, \"Ελεγεία και Σάτιρες\" (\"Elegie e Satire\"). Morì suicida a Preveza nel luglio 1928, dove era stato trasferito per lavoro.\n\nLe sue poesie musicate: numerosissime, da compositori come Mikis Theodorakis, Giannis Spanos, Mimis Plessas, Thanos Mikroutsikos, Nikos Xydakis, Dimitris Papadimitriou, oltre al gruppo rock Ypogeia Reumata e alla cantautrice Lena Platonos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kariotakis.jpg",
+      "roles": [
+        "at"
+      ]
+    },
+    {
+      "id": "p_1789638367683",
+      "name": "Άρης Αλεξάνδρου",
+      "nameit": "Áris Alexándrou",
+      "born": "24 novembre 1922, Pietrogrado (oggi San Pietroburgo), da padre greco e madre russa",
+      "died": "2 luglio 1978, Parigi",
+      "bio": "Pseudonimo letterario; vero nome: Aristotélis Vasileiádis\n\n\nPoeta, prosatore e traduttore greco, partigiano/resistente, considerato uno dei più importanti scrittori greci del dopoguerra — soprattutto per il vastissimo lavoro di traduzione dalla letteratura russa. Il suo unico romanzo, \"Το Κιβώτιο\" (\"La cassa\"), completato nel 1972 dopo sette anni di lavoro e pubblicato da Kedros nel 1975, è considerato da molti il capolavoro assoluto della prosa neogreca.\n\nDebuttò nel 1946 con la raccolta poetica \"Ακόμη τούτη η Άνοιξη\" (\"Ancora questa primavera\", circa 300 copie stampate), accolta con favore dalla stampa di sinistra — versi che esprimevano apertamente l'ammirazione per l'EAM e l'URSS. Seguirono \"Άγονος Γραμμή\" (1952) e \"Ευθύτης Οδών\" (1959).\n\nPerseguitato politicamente: fino al 1958 visse nelle carceri di Averof, Egina e Gyaros, dopo una condanna del Tribunale Militare di Atene. Nel 1962 ricevette il Premio per la Pace al Festival di Mosca. Con la moglie Kaiti Drosou fondò negli anni '60 una propria casa editrice, poi fallita. Dopo la dittatura del 1967 si autoesiliò a Parigi, dove svolse vari lavori manuali e curò voci per il dizionario Robert fino al 1974, quando riprese le traduzioni per editori greci — attività che proseguì fino alla morte.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/alexandru.jpg",
+      "roles": [
+        "at"
       ]
     }
   ]
