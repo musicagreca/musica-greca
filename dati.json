@@ -1,8 +1,111 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-17T15:25:20.195Z",
+  "exportedAt": "2026-09-18T10:11:56.521Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789726293236",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Χρήστος Τσιτσάνης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=557Ywhr7kPM",
+          "vid": false
+        },
+        {
+          "who": "Πρόδρομος Τσαουσάκης, Βασίλης Τσιτσάνης, Μάρκος Βαμβακάρης",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=k735K02DXgs",
+          "vid": false
+        },
+        {
+          "who": "Στράτος Παγιουμτζής",
+          "year": "1946",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=7m4_KxIjKK8",
+          "vid": false
+        },
+        {
+          "who": "Δημήτρης \"Τζιμ\" Αποστόλου",
+          "year": "1948",
+          "note": "USA versione non censurata",
+          "link": "https://www.youtube.com/watch?v=AgUp3Uez6aA",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-18",
+      "tgr": "Κάτσε ν' ακούσεις μια πενιά",
+      "tit": "Kátse n' akúsis mia peniá",
+      "alias": "Ο Χρήστος",
+      "at": "Χρήστος Τσιτσάνης, Βασίλης Τσιτσάνης",
+      "am": "Χρήστος Τσιτσάνης, Βασίλης Τσιτσάνης",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE    RE#    RE    ] 3x\n\nRE            DOm      RE#    RE    RE#-RE\nΚάτσε ν' ακούσεις μια πενιά\nRE            RE#      RE\nΠιες κι ένα ποτηρά-κι\n\nSOLm          RE    DOm    RE#    RE\nΚι αν θες ζεϊμπέκικο γλυκό...ο..ο  \nRE#    RE      RE#    RE\nπερίμενε λιγάκι  \nSOLm          RE    DOm    RE#    RE\nΚι αν θες ζεϊμπέκικο γλυκό...ο..ο  \nRE#    RE      RE#    RE\nπερίμενε λιγάκι \n\nRE         DOm      RE#    RE\nΠάρε σειρά γιατί μπορεί\nRE            RE#      RE\nίσως να μην προκάνεις\nRE    DOm      RE#    RE\nΜη μας συμβεί το σοβαρό  \nRE            RE#      RE\nκαι τη σειρά σου χάνεις  \nRE    DOm      RE#    RE\nΜη μας συμβεί το σοβαρό  \nRE            RE#      RE\nκαι τη σειρά σου χάνεις \n\nRE            DOm      RE#    RE\nΚι αν δε σ' αρέσουν όλα αυτά\nRE            RE#      RE\nπου σου 'χα πει πρωτίστως\nRE      DOm      RE#    RE\nτο ζεμπεκάκι ειν' έτοιμο  \nRE         RE#      RE\nκι έχει το λόγο ο Χρήστος \nRE      DOm      RE#    RE\nτο ζεμπεκάκι ειν' έτοιμο  \nRE         RE#      RE\nκι έχει το λόγο ο Χρήστος",
+      "tr": "Kátse n' akúsis mia peniá\n\nKátse n'akúsis mia peniá\nPies ki éna potirá-ki\n\nKi an thes zeïbékiko ghlikó...o..o\nperiméne ligháki\n\nPáre sirá ghiatí borí\nísos na min prokánis\nMi mas simví to sovaró\nkie ti sirá su chánis\n\nKi an de s'arésun óla aftá\npu su 'cha pi protístos\nto zebekáki in'étimo\nki échi to lógho o Christós",
+      "ti": "Siediti ad ascoltare\n\nSiediti ad ascoltare una melodia\nbevi anche un bicchierino\n\nE se vuoi un dolce zeibekiko¹...o..o\naspetta un momento\n\nPrendi il tuo turno perché potrebbe\ndarsi che tu non faccia in tempo\nChe non ci capiti la cosa seria²\ne tu perda il tuo turno\n\nE se non ti piace tutto questo\nche ti avevo detto prima di tutto\nlo zebekaki³ è pronto\ne la parola spetta a Christos⁴\n\n¹ Ζεϊμπέκικο (zeibekiko) è una danza tradizionale greca solista, lenta e introspettiva, di origine legata alla cultura degli Zeibek anatolici, molto diffusa nel rebetiko.\n\n² \"Το σοβαρό\" (\"la cosa seria\") è un'espressione idiomatica greca colloquiale per indicare qualcosa di grave o spiacevole che potrebbe accadere, qui probabilmente riferito al perdere l'occasione di ballare.\n\n³ Ζεμπεκάκι è il diminutivo/vezzeggiativo di \"ζεϊμπέκικο\", usato qui in modo informale e confidenziale.\n\n⁴ Il riferimento a \"Χρήστος\" (Christos) sembra indicare una persona il fratello maggiore di Tsitsanis che l'ha anche incisa e sembra esserne il co-autore",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789705290659",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=YowDIoHzEio",
+          "vid": false
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "",
+          "note": "versione in turco",
+          "link": "https://www.youtube.com/watch?v=4Ew88foH0Ls",
+          "vid": false
+        },
+        {
+          "who": "Βαγγέλης Περπινιάδης, Αργύρης Βαμβακάρης, Χρήστος Δημόπουλος",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=U9Wdq98MG0s",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-18",
+      "tgr": "Έξω ντέρτια και καημοί",
+      "tit": "Ékso dértia kie kaimí",
+      "alias": "",
+      "at": "Στέλιος Καζαντζίδης",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1961",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "ουσάκ",
+      "bal": "Tsifteteli",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "LAm    REm    DO    LAm\nΈξω ντέρτια και καημοί \nLAm    REm    DO    LAm\nΈξω ντέρτια και καημοί \nSOL    SOLm    LAm\nθέλω απόψε να γλεντήσω\nSOL    SOLm    LAm\nθέλω απόψε να γλεντήσω \nLAm    REm    DO    LAm\nΤης αγάπης τη φωτιά  \nLAm    REm    DO    LAm\nΤης αγάπης τη φωτιά \nSOL    SOLm    LAm\nμέσα στο κρασί να σβήσω \nSOL    SOLm    LAm\nμέσα στο κρασί να σβήσω\n \nREm                       DO         REm\nΑχ, έλα, έλα, έλα στη γλυκιά αγκαλιά μου\nSOL      SOLm           LAm\nνα γλυκάνεις την καρδιά μου\nSOL    SOLm    REm       LAm\nΞαναγύρισε κοντά μου, βάι βάι βάι\n\nLAm    REm    DO    LAm\nΤο κορίτσι π' αγαπώ  \nLAm    REm    DO    LAm\nΤο κορίτσι π' αγαπώ  \nSOL    SOLm    LAm\nμ' άφησε και μ' άλλον πάει  \nSOL    SOLm    LAm\nμ' άφησε και μ' άλλον πάει\nLAm    REm    DO    LAm\nΤην χρυσή μου την καρδιά\nLAm    REm    DO    LAm\nΤην χρυσή μου την καρδιά\nSOL    SOLm    LAm\nτο μαράζι θα την φάει  \nSOL    SOLm    LAm\nτο μαράζι θα την φάει \n\nREm                       DO         REm\nΑχ, έλα, έλα, έλα στη γλυκιά αγκαλιά μου\nSOL      SOLm           LAm\nνα γλυκάνεις την καρδιά μου\nSOL    SOLm    REm       LAm\nΞαναγύρισε κοντά μου, βάι βάι βάι",
+      "tr": "Ékso dértia kie kaimí\n\nÉkso dértia kie kaïmí\nthélo apópse na ghlendíso\nTis aghápis ti fotiá\nmésa sto krasí na svíso\n\nAch, éla, éla, éla sti ghlikiá angaliá mu\nna ghlikánis tin kardiá mu\nKsanaghìrise kondá mu, vái vái vái\n\nTo korítsi p'aghapó\nm'áfise kie m'álon pái\nTin chrisí mu tin kardiá\nto marázi tha tin fái\n\nAch, éla, éla...\nAch, éla, éla...",
+      "ti": "Fuori i dispiaceri e i dolori\n\nFuori dispiaceri e affanni¹\nstanotte voglio far festa\nIl fuoco dell'amore\nvoglio spegnerlo nel vino\n\nAh, vieni, vieni, vieni nel mio dolce abbraccio\nper addolcirmi il cuore\nTorna vicino a me, vai vai vai²\n\nLa ragazza che amo\nmi ha lasciato e va con un altro\nIl mio cuore d'oro\nlo divorerà il tormento\n\nAh, vieni, vieni...\nAh, vieni, vieni...\n\n¹ Ντέρτια (dertia) è una parola di origine turca (dert) entrata nel greco popolare, che indica pene d'amore, affanni e crucci del cuore — molto usata nel repertorio laiko e rebetiko.\n\n² Βάι βάι βάι è un intercalare ritmico-esclamativo tipico del canto popolare greco, usato come vocativo affettivo/lamentoso privo di significato letterale preciso, simile a un \"ahimè\" cantato.",
+      "no": "",
+      "balvid": true
+    },
     {
       "id": "s_1789655378430",
       "offsets": {},
@@ -1032,7 +1135,7 @@
       "dr": "",
       "bal": "",
       "balgr": "",
-      "ll": "",
+      "ll": "https://www.youtube.com/watch?v=PgIPimW9VTE",
       "li": "",
       "ch": "LAm                 REm          FA      SOL\nΑκούς να λένε στα χωριά οι γέροντες τα βράδια\nLAm               REm        FA   MIm    LAm\nκάτι μυστήρια πράματα που χτίζουν τα σκοτάδια\nDO             SOL           LAm     SOL \nΛένε για της Υπαπαντής το μέγα πανηγύρι\nDO              SOL        MIm             LAm\nπως το λιβάνι πέτρωνε, πριν μπει στο θυμιατήρι\nDO             SOL           LAm         SOL \nΛένε πως ψέλναν τα πουλιά στ'  αριστερό ψαλτήρι\nDO          SOL        FA        SOL   LAm\nκι απ' τα πηγάδια φέρνανε κρασί οι καλογήροι\n\nLAm                 REm          FA      SOL\nΛένε πως ψέλναν τα πουλιά στ'  αριστερό ψαλτήρι \nLAm               REm        FA   MIm    LAm\nκι απ' τα πηγάδια φέρνανε κρασί οι καλογήροι\nDO             SOL           LAm      SOL \nΛένε για κάτι χαϊμαλιά που παίζαν στο μπαρμπούτι\nDO              SOL        MIm             LAm\nκι ο γούμενος τα βάφτιζε με αίμα και μπαρούτι\nDO             SOL           LAm          SOL\nΛένε πως όποιος τα φορεί, φτερά βγάζει στην πλάτη\nDO          SOL        FA        SOL   LAm\nγίνεται αλαφροΐσκιωτος, ψωμί τρώει κι αλάτι\n \nLAm                 REm          FA      SOL\nΛένε πως όποιος τα φορεί, φτερά βγάζει στην πλάτη\nLAm               REm        FA   MIm    LAm\nγίνεται αλαφροΐσκιωτος, ψωμί τρώει κι αλάτι\nDO             SOL           LAm      SOL \nΑκούς να λένε στα χωριά πως και η ευχή του πιάνει\nDO              SOL        MIm             LAm\nγιατί τα βόλια, αίματα είχαν του Μακρυγιάννη\nDO             SOL           LAm          SOL\nΛένε πως ο φουστανελάς πληγές είχε σαράντα\nDO          SOL        FA        SOL   LAm\nγι αυτό κι αλαφροΐσκιωτοι είμαστε λίγοι πάντα",
       "tr": "Akùs na lène sta chorià\n\nSOLm                    DOm\nAkús na léne sta choriá i ghérondes ta vrádia\nkáti mistíria prámata pu chtízun ta skotádia\n\nLéne ghia tis Ipapandís to megha panighíri\npos to livváni pétrone, prin bi sto thimiatíri\nLéne pos psálnan ta pulliá st' aristeró psaltíri\nki ap' ta pighádia férnane krasí i kaloghíri\n\nLéne ghia káti chaimaliá pu pézan sto barbúti\nki o ghúmenos ta váftize me éma kie barúti\nLéne pos ópios ta forí, ftherá vgházi stin pláti\nghínete alafroískiotos, psomí trói ki aláti\n\nAkús na léne sta choriá pos kie i efchí tu piáni\nghiatí ta vólia, émata íchan tu Makrighiáni\nLéne pos o fustanelás plighés íche saránda\nghi aftó ki alafroískioti ímaste lígho pánda",
@@ -7010,6 +7113,13 @@
           "year": "2004",
           "note": "",
           "link": "https://www.youtube.com/watch?v=rL0YxXtPqwU"
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1961",
+          "note": "bouzouki: Arghiris Vamvakaris e Christos Dimopoulos",
+          "link": "https://www.youtube.com/watch?v=7GID68uAYFo",
+          "vid": false
         }
       ],
       "date": "2026-08-20",
@@ -7029,7 +7139,8 @@
       "ch": "DO                 SOL     DO\nΜες τη πολλή σκοτούρα μου\nDO               SOL DO\nγιατί να σε γνωρίσω\nSOL          DOm                  LAm\nκλαίω και λέω μυστικά για σένανε  \nRE  DOm SOLm LAm\nγιατί να σ' αγαπήσω               \nSOL          DOm                  LAm\nκλαίω και λέω μυστικά για σένανε   \nRE  DOm SOLm LAm\nγιατί να σ' αγαπήσω                \n\nDO                 SOL     DO\nΓιατί να κάθεσαι να λες\nDO               SOL DO\nπως πια δε με γνωρίζεις\nSOL          DOm                  LAm\nαφού η καρδιά μου επόνεσε για σένανε  \nRE  DOm SOLm LAm\nγιατί με βασανίζεις   \nSOL          DOm                  LAm\nαφού η καρδιά μου επόνεσε για σένανε  \nRE  DOm SOLm LAm\nγιατί με βασανίζεις                   \n\nDO                 SOL     DO\nΘέλω να ξέρω που γυρνάς\nDO               SOL DO\nμε ποιόνε κουβεντιάζεις\nSOL          DOm                  LAm\nαχ τα μάτια σου τα αράπικα πόσους γελούν  \nRE  DOm SOLm LAm\nόταν γλυκοκοιτάζεις \nSOL          DOm                  LAm\nαχ τα μάτια σου τα αράπικα πόσους γελούν  \nRE  DOm SOLm LAm\nόταν γλυκοκοιτάζεις",
       "tr": "Mes ti polí skotúra mu\n\nMes ti polí skotúra mu\ngiatí na se ghnorízo\nkléo ke léo mistiká gia sénane \ngiatí na s'aghapíso\n\nGiatí na káthese na les\npos pia de me ghnorízis\naftí i kardiá mu epónese gia sénane \ngiatí me vasanízis \n\nThélo na kséro pu ghirnás\nme pióne kuvendiázis\nach ta mátia su ta arápika pósus gheún |\nótan ghlikokitázis",
       "ti": "In mezzo a tutto il mio tormento\n\nIn mezzo a tutto il mio tormento\nperché ti ho conosciuto\npiango e dico segreti per te \nperché mi sono innamorato di te \n\nPerché stai lì a dire\nche ormai non mi conosci più\ndopo che il mio cuore ha sofferto per te \nperché mi tormenti| \n\nVoglio sapere dove giri\ncon chi stai chiacchierando\nah i tuoi occhi arabi, quanti ne fanno innamorare \nquando guardi dolcemente \n\nNote:\n\nσκοτούρα — pensiero fisso, affanno, preoccupazione assillante\nαράπικα μάτια — letteralmente \"occhi arabi/mori\", espressione poetica per occhi scuri e intensi, molto usata nella tradizione popolare greca come immagine di fascino esotico\nγλυκοκοιτάζω — verbo composto \"guardare dolcemente/con dolcezza\", spesso riferito a sguardi ammiccanti o seduttivi",
-      "no": "Molti critici musicali e storici del rebetiko considerano \"Μες στην πολλή σκοτούρα μου\" come il perfetto esempio di come la musica popolare greca si sia trasformata prima e dopo la Seconda Guerra Mondiale. La versione del 1938 rappresenta il rebetiko \"puro\" e sotterraneo, mentre la versione del 1961 di Polly Panou, pur rimanendo un capolavoro dorico e fiero, risente della \"occidentalizzazione\" e della modernizzazione dei suoni della musica laika greca nei club di Atene."
+      "no": "Molti critici musicali e storici del rebetiko considerano \"Μες στην πολλή σκοτούρα μου\" come il perfetto esempio di come la musica popolare greca si sia trasformata prima e dopo la Seconda Guerra Mondiale. La versione del 1938 rappresenta il rebetiko \"puro\" e sotterraneo, mentre la versione del 1961 di Polly Panou, pur rimanendo un capolavoro dorico e fiero, risente della \"occidentalizzazione\" e della modernizzazione dei suoni della musica laika greca nei club di Atene.",
+      "balgr": ""
     },
     {
       "id": "s_1787157237560",
@@ -11473,7 +11584,7 @@
       "born": "10 maggio 1905",
       "died": "8 febbraio 1972 Nìkea Attica",
       "nat": "greca",
-      "bio": "Nacque il 10 maggio 1905 nell'insediamento di Skali ad Ano Chora , Syros ( altre fonti affermano che nacque a Danakos , un villaggio nella parte occidentale dell'isola) da Domenikos ed Elpida Vamvakaris, nata Provelleggiou, cattolici di Syros (per questo motivo in seguito acquisì il soprannome di \"Frangos\"). I suoi genitori erano contadini poveri ed egli era il primogenito di sei fratelli (seguito da Leandros, Frangiskos, Gracia, Rosa e Argyris ). Suo nonno componeva canzoni e suo padre suonava la zambouna , mentre fin da piccolo il piccolo Markos accompagnava quest'ultimo suonando la tubi (tamburo dell'isola) in varie feste. A causa delle precarie condizioni economiche della famiglia, Markos fu costretto ad abbandonare gli studi e a lavorare come lucidatore, strillone, operaio in filande, commesso in fruttivendoli, ecc.\n\nNel 1920, all'età di 15 anni, lasciò Syros dopo aver accidentalmente lanciato una pietra sul tetto di una casa e si trasferì al Pireo , dove in seguito lo raggiunse la sua famiglia. Lì svolse diverse professioni, come operaio portuale (caricatore, operaio minerario nella cosiddetta \"karvouniarika\") e dal 1925 al 1935 circa come scuoiatore nei macelli comunali del Pireo e di Atene.\n\nSi sposò per la prima volta all'età di 18 anni. Sposò Eleni Mavroidis, \"Zigoala\" come la chiamava.\n\nSecondo quanto riportato nella sua autobiografia , in quel periodo gli capitò di sentire Nikos Aivaliotis suonare il bouzouki , cosa che lo affascinò e gli cambiò la vita. Iniziò così a imparare a suonare il bouzouki e a scrivere le sue prime canzoni.\nNel 1933, su insistenza di Spyros Peristeris , Markos registrò il primo brano di successo commerciale per bouzouki in Grecia, \"Karantouzeni\" (ovvero \"Avresti dovuto venire alla nostra tekke, amico\"), interpretandolo lui stesso, nonostante tutte le riserve che nutriva sulla qualità della sua voce. Il successo di questa registrazione segnò la storia della discografia greca, poiché da allora molti grandi compositori di rebetiko come Kostas Skarvelis , Spyros Peristeris e Panagiotis Tountas iniziarono a realizzare registrazioni accompagnati da un'orchestra folk con il bouzouki.\n\n\nI Tetra del Pireo a metà degli anni '30. Markos è in piedi a sinistra, in basso a sinistra c'è Stratos Pagioumtzis , accanto a lui Giorgos Batis e in piedi a destra Anestos Delias .\nNell'estate del 1934, insieme a Giorgos Batis , Stratos Pagioumtzis e Anestis Delias, partecipò al gruppo musicale pionieristico per l'epoca \"Tetras il famoso del Pireo\" presso il negozio di Sarantopoulos al Pireo . Fu lui a fondare per la prima volta un'orchestra con bouzouki e baglamades , che soppiantò la precedente e rinomata orchestra popolare di violini santouro che si esibiva nella taverna.\n\nIl periodo immediatamente precedente la Seconda Guerra Mondiale è forse il suo più produttivo. Tra le altre cose, nel 1935 scrisse e registrò \" Fraggosyriani \" (forse la sua canzone più conosciuta, che tuttavia divenne un enorme successo 25 anni dopo con la voce di Grigoris Bithikotsis ).\nMarkos Vamvakaris si rivelò estremamente sfortunato nel suo matrimonio con Eleni Mavroidis, dal quale il divorzio non tardò ad arrivare. Tuttavia, anche dopo il divorzio, \"Zigoala\" continuò ad avere esigenze finanziarie. Per evitare che i suoi diritti di proprietà intellettuale venissero pignorati a causa della controversia legale iniziata, usò il nome di suo nonno \"Rokos\" come pseudonimo, mentre diverse sue canzoni furono registrate con i nomi di amici come Spyros Peristeris , G. Fotidas, Ath. Pagkalakis, Minoas Matsas e altri. In questo modo, riuscì a ridurre al minimo il suo presunto (ma non reale) reddito personale e la sua prima moglie non ricevette alcun denaro (per questa vicenda Markos scrisse canzoni autobiografiche come \"Il divorzio\", \"Anch'io una volta ero così\", ecc.).\nNel 1937, si rassegnò alla censura del regime di Metaxas e adattò i suoi testi eliminando lo stile pesante e colloquiale, un cambiamento che anni dopo lui stesso riconobbe come una trasformazione creativa.\n\nMarkos Vamvakaris era così popolare all'epoca che in una delle tre volte in cui visitò Salonicco e tenne un concerto, 50.000 persone si radunarono per ascoltarlo in Piazza della Torre Bianca . Nella canzone \"Al 1912\" elogia Salonicco, mentre paradossalmente fino ad allora non aveva mai fatto alcun cenno al Pireo , la città in cui aveva vissuto e creato le sue canzoni. Durante la guerra greco-italiana eseguì brani propri, così come quelli di Spyros Peristeris , con testi adattati dall'epica greco-italiana (\"Saluti, piccoli soldati\", \"To oneiro tou Benito\" ecc.).\nDurante l'occupazione tedesca, morirono diverse figure di spicco della musica popolare e rebetiko greca ( Panagiotis Tountas , Kostas Skarvelis , Giovann Tsaous , Vangelis Papazoglou , il suo stretto collaboratore Anestis Delias , ecc.). Markos Vamvakaris, sopravvissuto, si sposò una seconda volta nel 1942 con Evangelia Vergiou, dalla quale ebbe cinque figli (due dei quali morirono e, degli altri tre, Vasilis, Stelios e Domenikos, questi ultimi due divennero musicisti di fama).\nLa morte dei musicisti sopra menzionati non lasciò indenne la carriera di Markos Vamvakaris. Infatti, dopo la liberazione e nel periodo 1948-1959, attraversò un periodo difficile, poiché l'industria musicale greca, le cui redini erano passate nelle mani di coloro che Markos Vamvakaris aveva contribuito a fondare, trattò con ingratitudine il pioniere del bouzouki , ormai considerato \"superato\". Si tentò di cambiare il carattere della musica popolare greca introducendo ritmi provenienti dall'India e dai paesi orientali. Le case discografiche smisero di contattarlo per le registrazioni e i principali locali notturni si rifiutarono di collaborare con lui. Affrontò gravi problemi di salute ( un'artrite deforme alle dita) e difficoltà economiche, mentre veniva scomunicato dalla Chiesa cattolica per essersi risposato con un rito ortodosso (scomunica che fu poi revocata nel 1966).\n\nMarkos Vamvakaris riesce a sopravvivere e a guarire dai suoi problemi di salute grazie alle terme di Ikaria . Nel 1954 si reca a Syros, dove viene accolto con entusiasmo e vi rimane per un anno.\n\nQuesta situazione continuò fino alla fine degli anni '50 , quando, su iniziativa di Tsitsanis , la casa discografica Columbia decise di pubblicare vecchie e nuove canzoni di Vamvakaris, cantate da lui e da artisti come Grigoris Bithikotsis , Katie Gray , Angela Greka , ecc. Nel 1960 iniziò la sua \"seconda carriera\", come la definì lui stesso.\nMarkos Vamvakaris morì l'8 febbraio 1972 all'età di 66 anni, ad Atene, in un corridoio dell'ospedale della Croce Rossa dove era stato ricoverato a causa di un'insufficienza renale dovuta al diabete mellito . Il giorno dopo la sua morte, fu sepolto nel terzo cimitero di Atene a Nicea . Come affermò il figlio di Markos, Domenikos, in un noto programma televisivo, per il funerale del padre la famiglia fu costretta a ricorrere a un prestito per coprire le spese. Nel 2020, parte delle sue ossa furono sepolte nel cimitero cattolico della sua città natale, Syros. \nLe canzoni registrate da Vamvakaris superano le 200. La maggior parte fu incisa su dischi a 78 giri tra il 1933 e il 1956. Dal 1932 al 1960, registrò 149 canzoni di sua composizione e 220 come interprete (131 sue e 89 di altri compositori), tra cui composizioni di Spyros Peristeris (30 canzoni), Vasilis Tsitsanis (24 canzoni), Apostolos Hatzichristos (7 canzoni) e altri.",
+      "bio": "Autore musica / Autore testo / Esecutore vocale / Strumentista (buzuki)\n\nΜάρκος Βαμβακάρης (soprannome: \"Φράγκος\")\nMárkos Vamvakáris\n\nNato: 10 maggio 1905, insediamento di Skali, Ano Chora, Syros (altre fonti indicano Danakos, sempre a Syros)\nMorto: 8 febbraio 1972, Atene, per insufficienza renale dovuta a diabete mellito, in un corridoio dell'ospedale della Croce Rossa\n\nPrimogenito di sei figli (seguito da Leandros, Frangiskos, Gracia, Rosa e Argyris, anche lui poi divenuto virtuoso del buzuki) di Domenikos ed Elpida Vamvakaris (nata Provelenggiou), famiglia contadina cattolica di Syros — da qui il soprannome \"Frangos\". Il nonno componeva canzoni, il padre suonava la zampogna (zabouna); Markos da bambino lo accompagnava con il tamburo (toumbi) alle feste. Costretto ad abbandonare presto gli studi per le difficili condizioni economiche, lavorò come lustrascarpe, strillone, operaio in filanda, commesso.\n\nNel 1920, a 15 anni, dopo aver accidentalmente lanciato una pietra sul tetto di una casa, lasciò Syros per il Pireo, dove poi lo raggiunse la famiglia. Vi svolse diversi mestieri — operaio portuale, minatore di carbone, scuoiatore nei macelli comunali (1925-1935 circa).\n\nSi sposò la prima volta a 18 anni, con Eleni Mavroidis (\"Zigoala\"). Fu ascoltando suonare il buzuki Nikos Aivaliotis che la sua vita cambiò per sempre: iniziò così a imparare lo strumento e a scrivere le prime canzoni.\n\n1933: su insistenza di Spyros Peristeris, incise \"Καραντουζένι\", il primo vero successo commerciale per buzuki della storia discografica greca — nonostante le sue riserve sulla qualità della propria voce. Il successo aprì la strada a grandi compositori come Kostas Skarvelis, lo stesso Peristeris e Panagiotis Tountas, che iniziarono a incidere con orchestre a buzuki.\n\nEstate 1934: insieme a Giorgos Batis, Stratos Pagioumtzis e Anestis Delias, formò la storica \"Tetrás tou Pireos\" (i quattro del Pireo) presso il negozio di Sarantopoulos — fu lui a fondare per primo un'orchestra di buzuki e baglamades, sostituendo la precedente tradizione di violino e santouri.\n\nIl periodo tra le due guerre fu forse il più produttivo: nel 1935 scrisse \"Φραγκοσυριανή\" — forse il suo brano più celebre, che però divenne un successo enorme solo 25 anni dopo, con la voce di Bithikotsis.\n\nUna vicenda legale curiosa: dopo il divorzio da Eleni, per evitare il pignoramento dei propri diritti d'autore, registrò diverse canzoni sotto pseudonimi — il nome del nonno \"Rokos\", o i nomi di amici come lo stesso Peristeris, G. Fotidas, Ath. Pagkalakis, Minos Matsas — riducendo così al minimo il proprio reddito ufficiale, e lasciando la ex moglie senza alcun introito (da questa vicenda nacquero brani autobiografici come \"Το διαζύγιο\").\n\n1937: si adeguò alla censura del regime di Metaxas, eliminando lo stile più pesante e colloquiale dai propri testi — un cambiamento che anni dopo definì lui stesso una \"trasformazione creativa\".\n\nFu popolarissimo: durante uno dei suoi concerti a Salonicco, 50.000 persone si radunarono in Piazza della Torre Bianca per ascoltarlo. Durante la guerra greco-italiana eseguì brani propri e di Peristeris con testi adattati all'epopea greco-italiana.\n\nSopravvissuto alla scomparsa di molti colleghi durante l'Occupazione (Tountas, Skarvelis, Giovan Tsaous, Papazoglou, il suo stretto collaboratore Delias), si risposò nel 1942 con Evangelia Vergiou, da cui ebbe cinque figli (due morti bambini; Stelios e Domenikos che divennero a loro volta musicisti noti, e Vasilis). Il padre Domenikos era invece morto nel 1930, senza fare in tempo a vedere il figlio affermarsi sui palchi e sui dischi (il vero successo di Markos arrivò solo tre anni dopo, nel 1933): fu probabilmente in quel periodo, ancora giovanissimo lui stesso, che Markos si trovò a dover badare anche al fratello minore Argyris — non è chiaro dalle fonti se il sostegno si estendesse anche agli altri fratelli...\n\nIl periodo più duro (1948-1959): l'industria discografica — nelle mani proprio di chi Markos aveva contribuito a lanciare — lo considerò ormai \"superato\", specialmente dopo che, nel 1954, un'artrite deformante alle dita gli impedì di suonare con la consueta abilità tecnica. Le case discografiche smisero di chiamarlo, i grandi locali rifiutarono di ingaggiarlo. Fu inoltre scomunicato dalla Chiesa cattolica per essersi risposato con rito ortodosso (scomunica poi revocata nel 1966). Riuscì a riprendersi grazie alle terme di Ikaria; tornò a Syros nel 1954, accolto con entusiasmo, restandovi un anno.\n\nLa rinascita: alla fine degli anni '50, su iniziativa di Vasilis Tsitsanis, la Columbia decise di ripubblicare vecchie e nuove canzoni di Vamvakaris, cantate da lui stesso e da interpreti come Bithikotsis, Katie Gray, Angela Greka. Dal 1960 iniziò quella che lui stesso definì la propria \"seconda carriera\".\n\nMorì l'8 febbraio 1972, sepolto il giorno dopo nel Terzo Cimitero di Atene, a Nikaia — il figlio Domenikos raccontò in un noto programma TV che la famiglia dovette fare un prestito per coprire le spese del funerale. Nel 2020, parte delle sue ossa fu traslata nel cimitero cattolico della città natale, Syros.\n\nIncise oltre 200 canzoni, quasi tutte su 78 giri tra il 1933 e il 1956. Dal 1932 al 1960 registrò 149 composizioni proprie e 220 come interprete (131 sue, 89 di altri autori — tra cui 30 di Peristeris, 24 di Tsitsanis, 7 di Chatzichristos).",
       "link": "",
       "listen": "https://www.youtube.com/watch?v=WNXFEIWNF4M",
       "photo": "https://musicagreca.github.io/musica-greca/images/vamvakaris.jpg",
@@ -16495,6 +16606,83 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/alexandru.jpg",
       "roles": [
         "at"
+      ]
+    },
+    {
+      "id": "p_1789703488575",
+      "name": "Αργύρης Βαμβακάρης",
+      "nameit": "Arghìris Vamvakáris",
+      "born": "18 ottobre 1930, Aspra Chomata (Nikaia)",
+      "died": "3 agosto 1983",
+      "bio": "Soprannome: \"Κοιλιάς\"\nFratello minore di Markos Vamvakaris (25 anni più giovane), con cui suonò spesso insieme fin da giovanissimo — proprio per questo, negli anni della gioventù, restò a lungo in ombra rispetto al fratello maggiore, diventando davvero conosciuto solo dagli anni '50 in poi. Da 17 anni suonava già al centro \"Kalamatianou\" a Tzitzifies, accanto a nomi come Giannis Papaioannou, Giorgos Mitsakis, Apostolos Chatzichristos, Stelios Keromitis, Giorgos Manisalis ed Elias Potosidis.\n\nCompose la propria prima canzone nel 1950 (\"Ο πόνος της μάνας\"), interpretata da Soula Kalfopoulou e dallo stesso Markos. Negli anni successivi collaborò con i più grandi nomi dell'epoca e con diverse case discografiche, sia come compositore sia come esecutore, venendo riconosciuto tra i migliori buzukisti soprattutto all'interno dell'ambiente dei musicisti stessi — più che dal grande pubblico.\n\nUn elogio che dice tutto: quando Manolis Chiotis sentì la sua canzone \"Φλόγα\" suonata da Argyris, gli disse: \"Sei l'unico da cui ho sentito quello che suono, senza suonare. Non mi è mai piaciuto sentirmi da nessun altro.\"\n\nSposò Soula Kaftari nel 1952; ebbero tre figli — Nikoleta, Elpida e Linardos — quest'ultimo, a sua volta buzukista, seguì le orme del padre e dello zio Markos, pur restando anche lui una figura poco conosciuta al grande pubblico. Il figlio di Linardos (quindi nipote di Argyris) fu chiamato anche lui Argyris Vamvakaris, in suo onore.\n\nNel 1963 partì per l'America, lavorando in diversi locali noti della comunità greca, mentre continuava a tornare in Grecia per registrare dischi. Rientrò definitivamente nel 1981, morendo due anni dopo, nel 1983.\n\nUn virtuoso mai davvero riconosciuto: pur essendo considerato, tra gli addetti ai lavori, capace di superare in velocità e virtuosismo persino il fratello maggiore Markos — al punto da reggere il confronto con lo stesso Chiotis — Argyris Vamvakaris non ha mai ottenuto, presso il grande pubblico, il posto che il suo talento avrebbe meritato nella storia nazionale della musica greca.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/avamvakaris.jpg",
+      "roles": [
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789705240441",
+      "name": "Χρήστος Δημόπουλος",
+      "nameit": "Christós Dimópoulos",
+      "born": "1926",
+      "died": "2004",
+      "bio": "Musicista del Pireo, cresciuto nel quartiere di Agia Sofia, dove — come amava dire lui stesso — era un \"vero pireota\". Iniziò a suonare il buzuki a 6 anni, diventando professionista già a 13. Conobbe tutti i grandi rebetes della propria epoca, lavorando praticamente con tutti i più importanti: Vangelis Perpiniadis, Stratos Dionysiou, Stergios Bempis, Zagoreos, Giorgos Manisalis, Rita Sakellariou, e altri ancora.\n\nFu anche il bouzuki di Giorgos Zambetas, prima che questi prendesse Zafeiriou. Collaborò inoltre con Stelios Kazantzidis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/dimopulos.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789723283570",
+      "name": "Δημήτρης Στεργίου",
+      "nameit": "Dimítris Stergíou",
+      "born": "16 aprile 1927, Agios Vasileios, Pireo",
+      "died": "24 dicembre 1972, Ospedale Psichiatrico di Dafni",
+      "bio": "Detto  \"Μπέμπης\"  \"Bébis\"\n\n\nConsiderato tra i più grandi virtuosi del buzuki di ogni epoca — per alcuni addirittura il migliore in assoluto — appartenente all'ultima grande generazione di solisti del rembetiko più recente (1945-1965). Il soprannome \"Μπέμπης\" ha un'origine non documentata dalle fonti. Uno dei pochissimi buzukisti con una formazione musicale classica: il padre, Spyros Stergiou, direttore dell'azienda \"Gkiolman\", suonava nell'orchestra del Teatro Comunale del Pireo, portando sempre con sé il piccolo Dimitris. Frequentò il Ginnasio Commerciale puntando alla carriera legale, ma l'amore per la musica prevalse. La morte prematura del padre e il bisogno di sopravvivenza lo spinsero verso i palchi come mestiere.\n\nUno stile personale: non teneva il buzuki aderente al corpo come gli altri, ma lo suonava tenendolo leggermente distante, quasi come un laouto.\n\nUn aneddoto memorabile: durante una sfida musicale improvvisata, dopo un assolo di Bebis che cambiava continuamente scale e accordi, fu lo stesso Manolis Chiotis ad alzarsi in piedi, stringergli la mano e dirgli: \"Bravo, Dimitri\" — mentre Christos \"Kitsos\" Tsitsanis, fratello maggiore di Vasilis Tsitsanis (a sua volta buzukista, cantante e compositore — secondo il ricercatore Kostas Chatzidoulis autore \"in ombra\" di almeno 18 canzoni pubblicate sotto il nome del fratello più celebre), sconvolto, uscì dal locale in silenzio. Vangelis Perpiniadis raccontò nella propria biografia: quando cantava \"Χάρο τον αντάμωσα\", ti spezzava l'anima.\n\nNel 1954 si sposò ed ebbe due figlie. Nel 1959 partì per l'America in cerca di miglior fortuna — lì lo soprannominarono \"Paganini\". Rifiutava sistematicamente di registrare in studio, dicendo spesso: \"Non mi trasformerete in un disco di grammofono. Chi vuole sentirmi venga la sera al locale\" — per questo la sua intera discografia si riduce a circa 20 registrazioni in tutta la vita.\n\nUn aneddoto con Andrés Segovia: si racconta che il celebre chitarrista classico, sentendolo suonare, restò a bocca aperta e chiese di essergli presentato.\n\nNel 1960, in America, incise \"Χάρο\" e \"Δεν ξαναπαίζω ζάρια πια\" (cantate da lui stesso), oltre allo strumentale \"Bebi's Lament\". Fu proprio in America che iniziò a bere: durante uno degli ultimi viaggi, fatto con la famiglia, si trovò a dover lavorare negli stessi locali dove si esibiva la giovane cantante Bebba Blanc — una situazione che, per ragioni non chiare dalle fonti, non riuscì a reggere.\n\nRientrato definitivamente nel 1965, con la salute ormai compromessa, non riuscì più a suonare come un tempo. Morì alcolizzato, ricoverato al Centro di Cura per Malattie Psichiche di Dafni, la vigilia di Natale del 1972.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/sterghiu.jpg",
+      "roles": [
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789724181455",
+      "name": "Χρήστος Τσιτσάνης",
+      "nameit": "Christós Tsitsánis",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "detto  \"Κίτσος\"  \"Kítsos\"\n\nMusicista greco, fratello maggiore di Vasilis Tsitsanis, originario di Trikala. Una delle figure più misteriose e discusse della storia del rembetiko: secondo diverse fonti, fu lui a influenzare profondamente la formazione musicale del fratello minore, negli anni in cui entrambi frequentavano i ritrovi dei musicisti dell'epoca, come il Caffè di Marios ad Atene. Per anni gestì a Trikala, in via Larisis, un caffè chiamato semplicemente \"Ο Τσιτσάνης\".\n\nA differenza del fratello, restò sempre \"in casa\", suonando per la compagnia, per il proprio ambiente, senza mai diventare pubblicamente noto né rivendicare apertamente la paternità delle proprie creazioni.\n\nIl mistero mai del tutto risolto: il ricercatore Kostas Chatzidoulis, massimo esperto della vita e opera di Vasilis Tsitsanis, racconta che poco prima di morire lo stesso Vasilis gli scrisse di proprio pugno una lista di 18 canzoni che, più o meno, appartenevano in realtà al fratello Christos. Un dettaglio tecnico specifico rafforza questa versione: in nessuna di quelle canzoni Christos scriveva mai il ritornello, e in tutte le introduzioni originali furono sostituite da nuove introduzioni scritte da Vasilis stesso. Esiste inoltre una registrazione in cui lo stesso Christos suona e canta una propria canzone, \"Κάτσε ν' ακούσεις μιά πενιά\" (introduzione firmata da Vasilis, corpo del brano di Christos).\n\nInevitabilmente, questa storia alimentò anche voci esagerate, da parte di chi, invidioso del successo di Vasilis, arrivò a sostenere che \"più della metà\" delle sue canzoni fossero in realtà del fratello — un'affermazione che le fonti più serie considerano comunque eccessiva.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/ktsitsanis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789726145556",
+      "name": "Δημήτρης \"Τζιμ\" Αποστόλου",
+      "nameit": "Dimítris \"Jim\" Apostólou",
+      "born": "1912, Chalkida",
+      "died": "sconosciuto",
+      "bio": "Cantante greco-americano, tra i più importanti della scena musicale greca degli Stati Uniti del dopoguerra. Si trasferì negli USA nel 1928. Dalla fine degli anni '40 fino agli anni '70 fu una delle voci principali del palcoscenico greco-americano, con una ricca discografia.\n\nUn soprannome curioso: veniva chiamato \"l'aristocratico dilettante-scommettitore\" (γκανιάν αριστοκράτης) del palco popolare greco-americano — probabilmente un riferimento al suo status economico agiato, che gli permetteva di cantare più per passione che per necessità.\n\nCollaborò con moltissimi grandi nomi della musica greca in America: Stavros Tzouanakos, Giorgos Katsaros-Theologitis, l'ud-ista armeno Markos Melkon, Nikos Gounaris, Marika Ninou, Thanasis Evgenikos, Dimitris \"Bebis\" Stergiou, Manolis Chiotis (con Mary Linda), Giannis Stamatiou \"Sporos\", Kostas Kaplanis. Incise anche per la casa discografica Panhellenic, erede della storica Panhellenion Phonograph Record Company fondata dalla \"Kyria Koula\" Antonopoulou.\n\nNel nostro contesto: nel 1948, a New York, incise \"Κάτσε ν' ακούσεις μιά πενιά\" (nota anche col titolo originale \"Ο Χρήστος\", di Vasilis Tsitsanis) — l'unica versione registrata senza le modifiche della censura imposte in Grecia sui versi originali riguardanti l'argilè/hashish.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/apostolu.jpg",
+      "roles": [
+        "ar"
       ]
     }
   ]
