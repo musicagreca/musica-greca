@@ -1,8 +1,68 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-18T10:11:56.521Z",
+  "exportedAt": "2026-09-19T04:09:50.158Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789790931992",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-19",
+      "tgr": "Βαρέθηκα το άδικο",
+      "tit": "Varèthika to àdiko",
+      "alias": "",
+      "at": "Χρήστος Κολοκοτρώνης",
+      "am": "Θόδωρος Δερβενιώτης",
+      "yr": "1956",
+      "ar": "Γιάννης Κουλουκάκης, Δημήτρης Στεργίου, Πάνος (Παναγιώτης) Πετσάς,",
+      "lb": "Columbia 78 στροφών, DG-7205 (CG-3401",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=1_idCXde9Rs",
+      "li": "",
+      "ch": "Ως πότε θα με σκλάβο σου βρε παλιό κοινωνία\nγια να με τρών' τα βάσανα κι η μαύρη τυραννία\n\nΒρέθηκα το άδικο και την αχαριστία\nδεν θέλω πια τέτοια ζωή γεμάτη δυστυχία\n\nΓια μένα δε ξημέρωσε μια μέρα να μην κλάψω\nούτε στιγμή δεν πέρασε χωρίς να αναστενάξω\n\nΒρέθηκα το άδικο και την αχαριστία\nδεν θέλω πια τέτοια ζωή γεμάτη δυστυχία\n\nΕγώ σε τούτο τον ντουνιά ποτέ δεν θα ανασάνω\nθα ξαποστάσω σαν θα 'ρθει η ώρα να πεθάνω\n\nΒρέθηκα το άδικο και την αχαριστία\nδεν θέλω πια τέτοια ζωή γεμάτη δυστυχία",
+      "tr": "Varèthika to àdiko\n\nOs póte tha me sklávo su vre palió kinonía\nghia na me trón' ta vásana ki i mávri tiranía\n\nVaréthika to ádiko kie tin acharistía\nden thélo pia tétia zoí ghiemáti distichía\n\nGhia ména de ksiméróse mia méra na min klápso\núte stighmí den pérase chorís na anastenáksi\n\nVaréthika to ádiko kie tin acharistía\nden thélo pia tétia zoí ghiemáti distichía\n\nEghó se túto ton dunia poté den tha anasáno\ntha ksapostáso san tha 'rthi i óra na petháno\n\nVaréthika to ádiko kie tin acharistía\nden thélo pia tétia zoí ghiemáti distichía",
+      "ti": "Mi sono stancato dell'ingiustizia\n\nFino a quando mi renderai tuo schiavo,\no vecchia società\nlasciando che mi divorino le sofferenze e la nera tirannia\n\nMi sono stancato dell'ingiustizia\ne dell'ingratitudine\nnon voglio più una vita così, piena di sventura\n\nPer me non è sorto un giorno senza piangere\nnon è passato un istante senza sospirare\n\nMi sono stancato dell'ingiustizia \ne dell'ingratitudine\nnon voglio più una vita così, piena di sventura\n\nIo, in questo mondo, non respirerò mai\nriposerò solo quando verrà l'ora di morire\n\nMi sono stancato dell'ingiustizia e dell'ingratitudine\nnon voglio più una vita così, piena di sventura\n\n\n¹ Σκλάβο significa \"schiavo\". \n² Ντουνιάς è una parola di origine turco-araba entrata nel greco popolare per indicare \"il mondo\" o \"la vita\", spesso con una sfumatura di fatalismo legata alla sorte e alla sofferenza esistenziale.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789788865013",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Αντώνης Γιαννακουδάκης, Δημήτρης Στεργίου, Στέλιος Χρυσίνης, Πάνος (Παναγιώτης) Πετσάς",
+          "year": "1956",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=5LGknrzv5Lc",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-19",
+      "tgr": "Απ' τα πολλά χτυπήματα",
+      "tit": "Ap' ta pollá chtinímata",
+      "alias": "",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Στέλιος Χρυσίνης",
+      "yr": "1956",
+      "ar": "",
+      "lb": "CG-3471",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Δεν χόρτασες ακόμα, δεν χόρτασες ακόμα,\nδεν χόρτασες ακόμα, ντουνιά, να με χτυπάς,\nφαρμάκια κάθε μέρα, φαρμάκια κάθε μέρα,\nφαρμάκια κάθε μέρα ζητάς να με κερνάς.\n\nΑπ' τα πολλά χτυπήματα έχω αγανακτήσει\nκι όμως δε θα βρεθεί κανείς για να με γονατίσει.\n\nΔεν λείπουν από μένα, δεν λείπουν από μένα,\nδεν λείπουν από μένα τα ντέρτια κι οι καημοί,\nτο \"αχ!\" δεν μ' έχει αφήσει, το \"αχ!\" δεν μ' έχει αφήσει,\nτο \"αχ!\" δεν μ' έχει αφήσει ήσυχο μια στιγμή.\n\nΑπ' τα πολλά χτυπήματα έχω αγανακτήσει\nκι όμως δε θα βρεθεί κανείς για να με γονατίσει.\n\nΝτουνια, θα σε παλέψω, ντουνια, θα σε παλέψω,\nντουνια, θα σε παλέψω σκληρά μες στη ζωή\nκι ελπίζω πως για μένα, κι ελπίζω πως για μένα,\nκι ελπίζω πως για μένα θα φέξει ένα πρωί.\n\nΑπ' τα πολλά χτυπήματα έχω αγανακτήσει\nκι όμως δε θα βρεθεί κανείς για να με γονατίσει...",
+      "tr": "Ap' ta pollá chtinímata\n\nDen chórtases akóma, den chórtases akóma, den chórtases akóma, dunia, na me chtipás, farmákia káthe méra, farmákia káthe méra, farmákia káthe méra zitás na me kernás.\n\nAp'ta polá chtipímata écho aghanaktísi \nki ómos de tha vrethí kanís ghia na me\nghonatísi.\n\nDen lípun apó ména, den lípun apó ména, \nden lípun apó ména ta ndértia ki i kaïmí, \nto \"ach!\" den m'échi afísi, to \"ach!\" den m'échi afísi,\n to \"ach!\" den m'échi afísi ísicho mia stighmí.\n\nAp'ta polá chtipímata écho aghanaktísi ki ómos de tha vrethí kanís ghia na me ghonatísi.\n\nDunia, tha se paléxo, dunia, tha se paléxo, dunia, tha se paléxo sklirá mes sti zoí ki elpízo pos ghia ména, ki elpízo pos ghia ména, ki elpízo pos ghia ména tha féksi éna proí.\n\nAp'ta polá chtipímata écho aghanaktísi ki ómos de tha vrethí kanís ghia na me ghonatísi...",
+      "ti": "Per i tanti colpi\n\nNon ti sei ancora saziato, non ti sei ancora saziato, non ti sei ancora saziato, mondo¹, di colpirmi, veleni ogni giorno, veleni ogni giorno, veleni ogni giorno chiedi di offrirmi.\n\nPer i tanti colpi mi sono indignato, eppure non si troverà nessuno capace di piegarmi in ginocchio.\n\nNon mi mancano, non mi mancano, non mi mancano le pene e gli affanni, il \"ah!\" non mi ha lasciato, il \"ah!\" non mi ha lasciato, il \"ah!\" non mi ha lasciato tranquillo un solo istante.\n\nPer i tanti colpi mi sono indignato, eppure non si troverà nessuno capace di piegarmi in ginocchio.\n\nMondo, ti combatterò, mondo, ti combatterò, mondo, ti combatterò duramente nella vita, e spero che per me, e spero che per me, e spero che per me sorgerà un'alba.\n\nPer i tanti colpi mi sono indignato, eppure non si troverà nessuno capace di piegarmi in ginocchio...\n\n¹ Ντουνιάς (dunia) è una parola di origine turco-araba (dünya) entrata nel greco popolare per indicare \"il mondo\", \"la vita\", spesso personificata come una forza avversa o capricciosa del destino — molto usata nel repertorio laiko e rebetiko per rivolgersi metaforicamente alla sorte stessa.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789726293236",
       "offsets": {},
@@ -55,7 +115,7 @@
       "ch": "RE    RE#    RE    ] 3x\n\nRE            DOm      RE#    RE    RE#-RE\nΚάτσε ν' ακούσεις μια πενιά\nRE            RE#      RE\nΠιες κι ένα ποτηρά-κι\n\nSOLm          RE    DOm    RE#    RE\nΚι αν θες ζεϊμπέκικο γλυκό...ο..ο  \nRE#    RE      RE#    RE\nπερίμενε λιγάκι  \nSOLm          RE    DOm    RE#    RE\nΚι αν θες ζεϊμπέκικο γλυκό...ο..ο  \nRE#    RE      RE#    RE\nπερίμενε λιγάκι \n\nRE         DOm      RE#    RE\nΠάρε σειρά γιατί μπορεί\nRE            RE#      RE\nίσως να μην προκάνεις\nRE    DOm      RE#    RE\nΜη μας συμβεί το σοβαρό  \nRE            RE#      RE\nκαι τη σειρά σου χάνεις  \nRE    DOm      RE#    RE\nΜη μας συμβεί το σοβαρό  \nRE            RE#      RE\nκαι τη σειρά σου χάνεις \n\nRE            DOm      RE#    RE\nΚι αν δε σ' αρέσουν όλα αυτά\nRE            RE#      RE\nπου σου 'χα πει πρωτίστως\nRE      DOm      RE#    RE\nτο ζεμπεκάκι ειν' έτοιμο  \nRE         RE#      RE\nκι έχει το λόγο ο Χρήστος \nRE      DOm      RE#    RE\nτο ζεμπεκάκι ειν' έτοιμο  \nRE         RE#      RE\nκι έχει το λόγο ο Χρήστος",
       "tr": "Kátse n' akúsis mia peniá\n\nKátse n'akúsis mia peniá\nPies ki éna potirá-ki\n\nKi an thes zeïbékiko ghlikó...o..o\nperiméne ligháki\n\nPáre sirá ghiatí borí\nísos na min prokánis\nMi mas simví to sovaró\nkie ti sirá su chánis\n\nKi an de s'arésun óla aftá\npu su 'cha pi protístos\nto zebekáki in'étimo\nki échi to lógho o Christós",
       "ti": "Siediti ad ascoltare\n\nSiediti ad ascoltare una melodia\nbevi anche un bicchierino\n\nE se vuoi un dolce zeibekiko¹...o..o\naspetta un momento\n\nPrendi il tuo turno perché potrebbe\ndarsi che tu non faccia in tempo\nChe non ci capiti la cosa seria²\ne tu perda il tuo turno\n\nE se non ti piace tutto questo\nche ti avevo detto prima di tutto\nlo zebekaki³ è pronto\ne la parola spetta a Christos⁴\n\n¹ Ζεϊμπέκικο (zeibekiko) è una danza tradizionale greca solista, lenta e introspettiva, di origine legata alla cultura degli Zeibek anatolici, molto diffusa nel rebetiko.\n\n² \"Το σοβαρό\" (\"la cosa seria\") è un'espressione idiomatica greca colloquiale per indicare qualcosa di grave o spiacevole che potrebbe accadere, qui probabilmente riferito al perdere l'occasione di ballare.\n\n³ Ζεμπεκάκι è il diminutivo/vezzeggiativo di \"ζεϊμπέκικο\", usato qui in modo informale e confidenziale.\n\n⁴ Il riferimento a \"Χρήστος\" (Christos) sembra indicare una persona il fratello maggiore di Tsitsanis che l'ha anche incisa e sembra esserne il co-autore",
-      "no": "",
+      "no": "versione non censurata\n\nΚάτσε ν’ ακούσεις μια πενιά\nπιες κι ένα ποτηράκι\n\nκι αν θες να πιεις και αργιλέ, ωωχ\nπερίμενε λιγάκι\n\nκι αν θες να πιεις και αργιλέ, ωωχ\nπερίμενε λιγάκι\n\n-Ωωχ! Αχ!\n\nπάρε σειρά γιατί μπορεί\nκι ίσως να μην προφτάσεις\n\nκαι μας συμβεί το σοβαρό, ωωχ\nκαι τη σειρά σου χάσεις\n\nκαι μας συμβεί το σοβαρό, ωωχ\nκαι τη σειρά σου χάσεις\n\n-Ωωχ, ωχ!\n\nκι αν δεν σ’ αρέσουν όλα αυτά\nπου σου ’χα πει πρωτίστως\n\nο αργιλές είν’ έτοιμος, ωωχ\nκι έχει το λόγο ο Χρήστος\n\nο αργιλές είν’ έτοιμος, ωωχ\nκι έχει το λόγο ο Χρήστος",
       "balvid": false
     },
     {
@@ -14782,7 +14842,7 @@
       "nameit": "Christos Kolokotronis",
       "born": "25 dicembre 1922, Kallithea (Atene)",
       "died": "13 novembre 1999. Atene",
-      "bio": "Cresciuto a Glykomilia, nomo di Trikala\nDiscendente in linea diretta (trisnipote) dell'eroe della guerra d'indipendenza del 1821 Theodoros Kolokotronis, fu uno dei principali stichourgoí (parolieri) e compositori del laïkó tragoúdi del secondo dopoguerra.\n\nInsieme a Eftychia Papagiannopoulou, Charalambos Vasiliadis e Kostas Virvos formò la \"tetrade d'oro\" della paroliera del laïkó postbellico, legando il proprio nome alla stagione d'oro della Columbia, in cui fu protagonista per due decenni.\n\nIl suo esordio discografico come autore risale al 1952 con \"Peiraiás kai Athína\" (Parlophone B-74279), cantata da Sotiria Bellou e Michalis Daskalakis.\n\nScrisse alcune centinaia di canzoni interpretate dalle maggiori voci del genere — tra cui Stelios Kazantzidis, Manolis Chiotis, Panos Gavalas, Kaiti Grey, Stratos Dionysiou, Mary Linda e Poly Panou — firmando anche testi per l'elafró, l'éntechno e il demotikó, e talvolta componendo la musica. Usò anche gli pseudonimi M. Thessalos, Christos Kyprios e A. Diamantis.\n\nDal 1967 si esibì anche come interprete dei propri brani nei locali di Atene.",
+      "bio": "Χρήστος Κολοκοτρώνης \"Θεσσαλός\" \nCresciuto a Glykomilia, nomo di Trikala\nDiscendente in linea diretta (trisnipote) dell'eroe della guerra d'indipendenza del 1821 Theodoros Kolokotronis, fu uno dei principali stichourgoí (parolieri) e compositori del laïkó tragoúdi del secondo dopoguerra.\n\nInsieme a Eftychia Papagiannopoulou, Charalambos Vasiliadis e Kostas Virvos formò la \"tetrade d'oro\" della paroliera del laïkó postbellico, legando il proprio nome alla stagione d'oro della Columbia, in cui fu protagonista per due decenni.\n\nIl suo esordio discografico come autore risale al 1952 con \"Peiraiás kai Athína\" (Parlophone B-74279), cantata da Sotiria Bellou e Michalis Daskalakis.\n\nScrisse alcune centinaia di canzoni interpretate dalle maggiori voci del genere — tra cui Stelios Kazantzidis, Manolis Chiotis, Panos Gavalas, Kaiti Grey, Stratos Dionysiou, Mary Linda e Poly Panou — firmando anche testi per l'elafró, l'éntechno e il demotikó, e talvolta componendo la musica. Usò anche gli pseudonimi M. Thessalos, Christos Kyprios e A. Diamantis.\n\nDal 1967 si esibì anche come interprete dei propri brani nei locali di Atene.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/kolokotronis.jpg",
@@ -16681,6 +16741,51 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/apostolu.jpg",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1789743495996",
+      "name": "Αντώνης Γιαννακουδάκης",
+      "nameit": "Antónis Giannakoudákis",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Cantante greco, noto soprattutto per l'interpretazione del brano zeibékiko \"[titolo]\" (testo di Charalambos Vasiliadis \"Tsantas\", musica di Stelios Chrysinis), inciso il 27 settembre 1956 per la Columbia (disco DG-7368) — con lo stesso Chrysinis alla chitarra, Theodoros Deveniotis al baglamàs, e Dimitris Stergiou \"Bebis\" al buzuki.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ]
+    },
+    {
+      "id": "p_1789788614715",
+      "name": "Πάνος (Παναγιώτης) Πετσάς",
+      "nameit": "Pános (Panagiótis) Petsás",
+      "born": "1915, Atene",
+      "died": "7 gennaio 1980, Atene",
+      "bio": "Compositore e paroliere greco. La sua discografia in Grecia resta minima, perché — a differenza di molti colleghi — detestava le sedute di registrazione. Nonostante questo, alcuni suoi brani sono diventati pilastri del repertorio rembetiko/laïkó.\n\nIl suo brano più celebre è \"Κάτω στο Πασαλιμάνι\" (1947, chasápiko), la cui prima esecuzione ebbe di nuovo Dimitris Stergiou \"Bebis\" al buzuki, con Ioanna Georgakopoulou e Vangelis Perpiniadis alla voce — considerato uno dei momenti più alti della sua carriera, ripreso poi da moltissimi altri interpreti negli anni, incluso Panos Gavalas (1960).\n\nAltri titoli noti: \"Δεν σε θέλω βρε γκρινιάρα\" (1949), \"Έχει και χαράματα\" (1962).\n\nUn dettaglio significativo: fu proprio Pano Petsas a portare per la prima volta in uno studio di registrazione, nel 1962, un giovanissimo Giannis Poulopoulos, facendogli incidere \"Δως μου πίσω την καρδιά μου\" — segnando così, in un certo senso, l'inizio della carriera discografica di uno dei più grandi interpreti greci del dopoguerra.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/petsas.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar",
+        "mu"
+      ]
+    },
+    {
+      "id": "p_1789789461651",
+      "name": "Γιάννης Κουλουκάκης",
+      "nameit": "Ghiánnis Kulukákis",
+      "born": "1935",
+      "died": "2002",
+      "bio": "Cantante greco, fratello della cantante Georgia \"Τζόυ\" Kouloukaki (1939-2021), con cui si esibì spesso insieme fin dagli anni '50. Nel gennaio 1957 registrò, in duetto con la sorella (seconda voce), il brano \"Παίξτε τραγούδια θλιβερά\" (musica di Thodoros Deveniotis e Giorgos Mitsakis).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kulukakis.jpg",
       "roles": [
         "ar"
       ]
