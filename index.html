@@ -1269,11 +1269,27 @@ function goArgByDate(dateStr){
 
 // Nel campo "Note" di una canzone si può scrivere [[AAAA-MM-GG|Testo del link]]
 // per creare un collegamento cliccabile a un approfondimento pubblicato in quella data.
+function formatPlainParagraphs(raw){
+  var txt=String(raw||'');
+  var paragraphs=txt.split(/\n\s*\n/).map(function(p){return p.trim();}).filter(Boolean);
+  if(!paragraphs.length) paragraphs=[txt];
+  return paragraphs.map(function(p){
+    return '<p style="margin:0 0 .8rem 0">'+esc(p).replace(/\n/g,'<br>')+'</p>';
+  }).join('');
+}
 function formatNotesWithLinks(raw){
-  var txt=esc(raw||'');
-  return txt.replace(/\[\[(\d{4}-\d{2}-\d{2})\|([^\]]+)\]\]/g,function(m,date,label){
-    return '<a href="javascript:void(0)" onclick="goArgByDate(\''+date+'\')" style="color:var(--acc);text-decoration:underline;cursor:pointer">'+label+'</a>';
-  });
+  var txt=String(raw||'');
+  // Divide il testo in paragrafi veri (separati da riga vuota), ognuno un <p> a sé —
+  // così restano ben distinti anche quando la pagina viene tradotta automaticamente.
+  var paragraphs=txt.split(/\n\s*\n/).map(function(p){return p.trim();}).filter(Boolean);
+  if(!paragraphs.length) paragraphs=[txt];
+  return paragraphs.map(function(p){
+    var escP=esc(p).replace(/\n/g,'<br>');
+    escP=escP.replace(/\[\[(\d{4}-\d{2}-\d{2})\|([^\]]+)\]\]/g,function(m,date,label){
+      return '<a href="javascript:void(0)" onclick="goArgByDate(\''+date+'\')" style="color:var(--acc);text-decoration:underline;cursor:pointer">'+label+'</a>';
+    });
+    return '<p class="notes-p" style="margin:0 0 .8rem 0">'+escP+'</p>';
+  }).join('');
 }
 
 /* ── HOME ── */
@@ -1865,7 +1881,7 @@ function renderTab(){
   } else if(songTab==='trans'){
     e.innerHTML='<div translate="no" class="notranslate">'+(s.tr?'<div class="text-blk">'+esc(s.tr)+'</div>':'<p style="color:var(--t3)">Nessuna trascrizione.</p>')+'</div>';
   } else if(songTab==='it'){
-    e.innerHTML=s.ti?'<div class="text-blk">'+esc(s.ti)+'</div>':'<p style="color:var(--t3)">Nessuna traduzione.</p>';
+    e.innerHTML=s.ti?'<div class="text-blk">'+formatPlainParagraphs(s.ti)+'</div>':'<p style="color:var(--t3)">Nessuna traduzione.</p>';
   } else if(songTab==='notes'){
     e.innerHTML=s.no?'<div class="notes-blk">'+formatNotesWithLinks(s.no)+'</div>':'<p style="color:var(--t3)">Nessuna nota.</p>';
   } else if(songTab==='exec'){
