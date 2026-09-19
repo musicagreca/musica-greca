@@ -248,9 +248,29 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
 .chord-close{position:absolute;top:.5rem;right:.6rem;background:none;border:none;font-size:1.1rem;cursor:pointer;color:var(--t2)}
 #tuner-lightbox{display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:999;align-items:center;justify-content:center;padding:1rem}
 #tuner-lightbox.open{display:flex}
+.goog-te-banner-frame{display:none !important}
+body{top:0px !important;position:static !important}
+#gtw-box .goog-te-gadget{font-size:0 !important}
+#gtw-box .goog-te-gadget .goog-te-combo{font-size:13px;font-family:Arial,sans-serif;padding:3px 6px;border-radius:6px;border:1px solid #ccc}
 </style>
 </head>
 <body>
+
+<div id="gtw-box" style="position:fixed;bottom:16px;right:16px;z-index:9999;font-family:Arial,sans-serif;background:#fff;border:1px solid #ddd;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.2);padding:6px 8px;display:flex;align-items:center;gap:6px">
+  <span style="font-size:16px">🌐</span>
+  <div id="google_translate_element" style="font-size:13px"></div>
+</div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'it',
+    includedLanguages: 'en,ru,de,fr,el,es',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+    autoDisplay: false
+  }, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <!-- HOME -->
 <div class="page active" id="pg-home">
