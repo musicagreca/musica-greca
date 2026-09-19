@@ -270,10 +270,9 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
 </div>
 <div class="home-cards" id="home-cards">
   <div class="hcard" onclick="go('elenco-canzoni')"><div class="hcard-ico">♪</div><div class="hcard-ttl">Canzoni</div><div class="hcard-sub">Testi, accordi e trascrizioni</div></div>
-  <div class="hcard" onclick="go('elenco-cantanti')"><div class="hcard-ico">🎤</div><div class="hcard-ttl">Cantanti</div><div class="hcard-sub">Biografie degli esecutori</div></div>
+  <div class="hcard" onclick="go('elenco-cantanti')"><div class="hcard-ico">🎤</div><div class="hcard-ttl">Esecutori</div><div class="hcard-sub">Cantanti e strumentisti</div></div>
   <div class="hcard" onclick="go('elenco-autori-musica')"><div class="hcard-ico">♫</div><div class="hcard-ttl">Autori musica</div><div class="hcard-sub">I compositori</div></div>
   <div class="hcard" onclick="go('elenco-autori-testo')"><div class="hcard-ico">✍</div><div class="hcard-ttl">Autori testo</div><div class="hcard-sub">I poeti e parolieri</div></div>
-  <div class="hcard" onclick="go('elenco-musicisti')"><div class="hcard-ico">🎻</div><div class="hcard-ttl">Musicisti</div><div class="hcard-sub">Strumentisti — solo schede biografiche</div></div>
   <div class="hcard" onclick="go('elenco-generi')"><div class="hcard-ico">🎼</div><div class="hcard-ttl">Generi</div><div class="hcard-sub">Per dromos e stile</div></div>
   <div class="hcard" onclick="go('elenco-balli')"><div class="hcard-ico">💃</div><div class="hcard-ttl">Ballo/Ritmo</div><div class="hcard-sub">Per tipo di ballo</div></div>
   <div class="hcard" onclick="go('argomento')"><div class="hcard-ico">📖</div><div class="hcard-ttl">Approfondimenti</div><div class="hcard-sub">Approfondimenti e curiosità</div></div>
@@ -1154,6 +1153,7 @@ var curSongId=null, curPersonId=null;
 var songSemi=0, songTab='chords';
 var autoscrollTimer=null, autoscrollSpeed=2;
 var alphaF={};
+var instrF={};
 
 /* ── PREFERENZE PER CANZONE (tonalità e velocità di scorrimento), salvate nel browser ── */
 function getSongSemi(id){
@@ -1210,7 +1210,7 @@ function applyState(state, doScroll){
   else if(pid==='elenco-cantanti') renderElencoPersone('cantanti','ar');
   else if(pid==='elenco-autori-musica') renderElencoPersone('autori-musica','am');
   else if(pid==='elenco-autori-testo') renderElencoPersone('autori-testo','at');
-  else if(pid==='elenco-musicisti') renderElencoPersone('musicisti','mu');
+  else if(pid==='elenco-musicisti') renderElencoPersone('cantanti','ar');
   else if(pid==='elenco-generi') renderElencoGeneri();
   else if(pid==='elenco-balli') renderElencoBalli();
   else if(pid==='argomento') renderArgomento();
@@ -1290,8 +1290,7 @@ function renderHome(){
 
 /* ── ELENCHI ── */
 function renderElenchi(){
-  function cnt(role){ return persons.filter(function(p){return(p.roles||[]).indexOf(role)>=0;}).length; }
-  var cntMu=persons.filter(function(p){var r=p.roles||[];return r.indexOf('mu')>=0;}).length;
+  function cnt(role){ return persons.filter(function(p){var r=p.roles||[];return r.indexOf(role)>=0||(role==='ar'&&r.indexOf('mu')>=0);}).length; }
   var generi=buildGeneriMap();
   var nGeneri=Object.keys(generi).length;
   var dromoiMap=buildDromoiMap();
@@ -1301,10 +1300,9 @@ function renderElenchi(){
   var nBalli=Object.keys(balli).length;
   var cards=[
     {page:'elenco-canzoni',      ico:'&#9834;', ttl:'Canzoni',            cnt:songs.length, sub:'Testi, accordi e trascrizioni'},
-    {page:'elenco-cantanti',     ico:'&#127908;',ttl:'Cantanti',          cnt:cnt('ar'),    sub:'Biografie degli esecutori'},
+    {page:'elenco-cantanti',     ico:'&#127908;',ttl:'Esecutori',         cnt:cnt('ar'),    sub:'Cantanti e strumentisti'},
     {page:'elenco-autori-musica',ico:'&#9835;',  ttl:'Autori musica',     cnt:cnt('am'),    sub:'I compositori'},
     {page:'elenco-autori-testo', ico:'&#9997;',  ttl:'Autori testo',      cnt:cnt('at'),    sub:'I poeti e parolieri'},
-    {page:'elenco-musicisti',    ico:'&#127928;',ttl:'Musicisti',         cnt:cntMu,        sub:'Strumentisti &mdash; solo schede biografiche'},
     {page:'elenco-generi',       ico:'&#127932;',ttl:'Generi',            cnt:nGeneri,      sub:'Per dromos e stile'},
     {page:'elenco-balli',        ico:'&#128131;',ttl:'Ballo/Ritmo',       cnt:nBalli,       sub:'Per tipo di ballo'},
     {page:'argomento',           ico:'&#128216;',ttl:'Approfondimenti',cnt:args.length,sub:'Approfondimenti e curiosit&agrave;'}
@@ -1646,9 +1644,9 @@ function renderElencoCanzoni(){
 function renderElencoPersone(slug,role,selId){
   var list;
   if(role==='mu'){
-    list=persons.filter(function(p){return(p.roles||[]).indexOf('mu')>=0;});
+    list=persons.filter(function(p){return(p.roles||[]).indexOf('mu')>=0||(p.roles||[]).indexOf('ar')>=0;});
   } else {
-    var fromPersons=persons.filter(function(p){return(p.roles||[]).indexOf(role)>=0;});
+    var fromPersons=persons.filter(function(p){return(p.roles||[]).indexOf(role)>=0||(role==='ar'&&(p.roles||[]).indexOf('mu')>=0);});
     var fromSongs=[];
     var field=role==='ar'?'ar':role==='am'?'am':'at';
     var seen={};
@@ -1712,6 +1710,15 @@ function renderElencoPersone(slug,role,selId){
 
   // Lista filtrata
   var displayed=af?list.filter(function(p){return personGroupLetter(p.name)===af;}):list;
+  var instrQ=instrF[slug]||'';
+  var instrH='';
+  if(role==='ar'){
+    instrH='<input type="text" id="instr-'+slug+'" placeholder="🎸 Cerca per strumento (es. lira, clarino...)" value="'+esc(instrQ)+'" style="width:100%;padding:7px 10px;border:1px solid var(--b2);border-radius:var(--rad);font-size:13px;font-family:Arial,sans-serif;color:var(--txt);background:var(--sur);margin-bottom:.6rem;box-sizing:border-box">';
+    if(instrQ){
+      var instrQNorm=stripAccents(instrQ.toLowerCase());
+      displayed=displayed.filter(function(p){return p.instr&&stripAccents(p.instr.toLowerCase()).indexOf(instrQNorm)>=0;});
+    }
+  }
   var h='';
   for(var i=0;i<displayed.length;i++){
     var p=displayed[i];
@@ -1725,8 +1732,19 @@ function renderElencoPersone(slug,role,selId){
 
   var container=el('list-'+slug);
   if(container){
-    container.innerHTML=scriptToggleHTML()+ddH+barH+h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna persona in questa categoria</div>';
+    container.innerHTML=scriptToggleHTML()+ddH+instrH+barH+h||'<div style="padding:1.5rem;text-align:center;color:var(--t3)">Nessuna persona in questa categoria</div>';
     bindScriptToggle(container, function(){ renderElencoPersone(slug,role,selId); });
+    var instrInput=el('instr-'+slug);
+    if(instrInput){
+      instrInput.addEventListener('input',function(){
+        instrF[slug]=this.value;
+        renderElencoPersone(slug,role,selId);
+      });
+      // Rimette il focus e il cursore alla fine, perché il re-render sostituisce l'input
+      instrInput.focus();
+      var vlen=instrInput.value.length;
+      instrInput.setSelectionRange(vlen,vlen);
+    }
   }
 
   // Listener dropdown
@@ -1891,7 +1909,7 @@ function renderPersonaVirtuale(name){
     }
     if(roles.length) linked.push({s:s,roles:roles});
   });
-  var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Strumentista'};
+  var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Esecutore'};
   var RC={at:'rp-at',am:'rp-am',ar:'rp-ar'};
   var linkedH='';
   if(linked.length){
@@ -1944,7 +1962,7 @@ function doPrint(){
 }
 
 /* ── SCHEDA PERSONA ── */
-var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Strumentista'};
+var RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Esecutore'};
 var RC={at:'rp-at',am:'rp-am',ar:'rp-ar'};
 function renderPersona(){
   var p=persons.filter(function(x){return x.id===curPersonId;})[0];
@@ -1952,29 +1970,26 @@ function renderPersona(){
   var prevLbl={home:'Home',elenchi:'Elenchi','elenco-cantanti':'Cantanti','elenco-autori-musica':'Autori musica','elenco-autori-testo':'Autori testo','elenco-musicisti':'Musicisti',canzone:'Canzone'}[prevPage]||'Indietro';
   el('tb-persona').innerHTML='<span class="tb-brand" onclick="go(\'home\')">Μουσική</span><span class="bc-sep">›</span><span class="bc-lnk" onclick="go(\'elenchi\')">Elenchi</span><span class="bc-sep">›</span><span class="bc-cur">'+esc(p.name.slice(0,28))+'</span><button class="tb-back" onclick="goBack()">← '+prevLbl+'</button>';
 
-  var isOnlyMu=(p.roles||[]).length>0&&(p.roles||[]).every(function(r){return r==='mu';});
   var linked=[];
-  if(!isOnlyMu){
-    songs.forEach(function(s){
-      var roles=[]; var execLink=null;
-      if(s.at&&(s.at===p.name||s.at===p.nameit)) roles.push('at');
-      if(s.am&&(s.am===p.name||s.am===p.nameit)) roles.push('am');
-      if(s.ar){ var ars=s.ar.split(',').map(function(a){return a.trim();}); if(ars.indexOf(p.name)>=0||ars.indexOf(p.nameit||'')>=0) roles.push('ar'); }
-      if((s.executions||[]).length){
-        var matchedExec=(s.executions||[]).filter(function(x){
-          if(!x.who) return false;
-          var whoList=x.who.split(',').map(function(w){return w.trim();});
-          return whoList.indexOf(p.name)>=0||whoList.indexOf(p.nameit||'')>=0;
-        })[0];
-        if(matchedExec){
-          if(roles.indexOf('ar')<0) roles.push('ar');
-          if(matchedExec.link) execLink=matchedExec.link;
-        }
+  songs.forEach(function(s){
+    var roles=[]; var execLink=null;
+    if(s.at&&(s.at===p.name||s.at===p.nameit)) roles.push('at');
+    if(s.am&&(s.am===p.name||s.am===p.nameit)) roles.push('am');
+    if(s.ar){ var ars=s.ar.split(',').map(function(a){return a.trim();}); if(ars.indexOf(p.name)>=0||ars.indexOf(p.nameit||'')>=0) roles.push('ar'); }
+    if((s.executions||[]).length){
+      var matchedExec=(s.executions||[]).filter(function(x){
+        if(!x.who) return false;
+        var whoList=x.who.split(',').map(function(w){return w.trim();});
+        return whoList.indexOf(p.name)>=0||whoList.indexOf(p.nameit||'')>=0;
+      })[0];
+      if(matchedExec){
+        if(roles.indexOf('ar')<0) roles.push('ar');
+        if(matchedExec.link) execLink=matchedExec.link;
       }
-      if(roles.length) linked.push({s:s,roles:roles.filter(function(r,i,a){return a.indexOf(r)===i;}),execLink:execLink});
-    });
-    linked.sort(function(a,b){ return (a.s.tgr||'').localeCompare(b.s.tgr||'', 'el'); });
-  }
+    }
+    if(roles.length) linked.push({s:s,roles:roles.filter(function(r,i,a){return a.indexOf(r)===i;}),execLink:execLink});
+  });
+  linked.sort(function(a,b){ return (a.s.tgr||'').localeCompare(b.s.tgr||'', 'el'); });
 
   var metaH='';
   metaH+='<div class="pm-i"><div class="pm-l">Nato/a</div><div class="pm-v"'+(p.born?'':' style="color:var(--t3);font-style:italic"')+'>'+(p.born?esc(p.born):'Dati non disponibili')+'</div></div>';
@@ -1982,11 +1997,10 @@ function renderPersona(){
   if(p.nat)  metaH+='<div class="pm-i"><div class="pm-l">Nazionalità</div><div class="pm-v">'+esc(p.nat)+'</div></div>';
   if(p.link) metaH+='<div class="pm-i"><div class="pm-l">Link</div><div class="pm-v"><a href="'+esc(p.link)+'" target="_blank">Apri pagina</a></div></div>';
   if(p.listen) metaH+='<div class="pm-i"><div class="pm-l">Ascolto</div><div class="pm-v"><a href="'+esc(p.listen)+'" target="_blank">Ascolta</a></div></div>';
+  if(p.instr) metaH+='<div class="pm-i"><div class="pm-l">Strumenti</div><div class="pm-v">🎸 '+esc(p.instr)+'</div></div>';
 
   var linkedH='';
-  if(isOnlyMu){
-    linkedH='<div class="divider"></div><div style="font-size:12px;color:var(--t3);background:var(--s2);border:1px solid var(--bor);border-radius:var(--rad);padding:.4rem .7rem">🎸 Musicista / strumentista — citato nelle note dei brani, non come autore o esecutore vocale.</div>';
-  } else if(linked.length){
+  if(linked.length){
     linkedH='<div class="divider"></div><div class="sec-hdr">Canzoni nel database ('+linked.length+')</div><div class="linked">';
     for(var i=0;i<linked.length;i++){
       var s=linked[i].s, roles=linked[i].roles, execLink=linked[i].execLink;

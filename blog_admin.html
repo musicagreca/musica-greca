@@ -273,10 +273,10 @@ body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14
         <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:3px">
           <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-at"> Autore testo</label>
           <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-am"> Autore musica</label>
-          <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-ar"> Esecutore / cantante</label>
-          <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-mu"> 🎸 Musicista / strumentista <span style="font-size:10px;color:var(--t3);margin-left:4px">(non collegato ai brani)</span></label>
+          <label style="font-size:12px;font-weight:400;display:flex;align-items:center;gap:4px"><input type="checkbox" id="pf-r-ar"> 🎤 Esecutore (canto e/o strumento)</label>
         </div>
       </div>
+      <div class="form-section"><label>Strumenti suonati (separati da virgola, es. "lira, laouto")</label><input type="text" id="pf-instr" placeholder="es. lira cretese, laouto"></div>
       <div class="form-section"><label>Biografia e note</label><textarea id="pf-bio" rows="6"></textarea></div>
       <div class="form-grid">
         <div class="form-section"><label>Link Wikipedia / sito</label><input type="url" id="pf-link"></div>
@@ -707,7 +707,7 @@ function saveSong(){
 
 /* ── PERSONE ADMIN ── */
 let editingPersonId=null;
-const RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Musicista'};
+const RL={at:'Autore testo',am:'Autore musica',ar:'Esecutore',mu:'Esecutore'};
 const RC={at:'rp-at',am:'rp-am',ar:'rp-ar'};
 function renderAdminPersons(){
   const q=(g('admin-srch-persons')?g('admin-srch-persons').value.toLowerCase():'');
@@ -743,7 +743,8 @@ function renderAdminPersons(){
   <div class="admin-row">
     <div class="admin-row-main">
       <div class="admin-row-title">${esc(p.name)} ${p.nameit?`<span style="font-size:11px;color:var(--t3)">(${esc(p.nameit)})</span>`:''}</div>
-      <div class="admin-row-sub">${(p.roles||[]).map(r=>`<span class="role-pill ${RC[r]||''}" style="font-size:9.5px">${RL[r]||r}</span>`).join(' ')}</div>
+      <div class="admin-row-sub">${(p.roles||[]).map(r=>`<span class="role-pill ${RC[r]||''}" style="font-size:9.5px">${RL[r]||r}</span>`).join(' ')}${(p.roles||[]).includes('mu')?' <span style="font-size:9.5px;color:#b45309;background:#fef3c7;border-radius:8px;padding:1px 6px">🎻 da aggiornare</span>':''}</div>
+      ${p.instr?`<div class="admin-row-sub" style="font-size:10.5px;color:var(--t3)">🎸 ${esc(p.instr)}</div>`:''}
     </div>
     <div class="admin-row-actions">
       <button class="abtn" onclick="editPerson('${p.id}')">✎ Modifica</button>
@@ -756,7 +757,8 @@ function openPersonForm(){
   editingPersonId=null;
   g('person-form-mode-label').textContent='Nuova persona';
   ['pf-name','pf-nameit','pf-born','pf-died','pf-bio','pf-link','pf-listen','pf-photo'].forEach(id=>{const e=g(id);if(e)e.value='';});
-  ['pf-r-at','pf-r-am','pf-r-ar','pf-r-mu'].forEach(id=>{const e=g(id);if(e)e.checked=false;});
+  ['pf-r-at','pf-r-am','pf-r-ar'].forEach(id=>{const e=g(id);if(e)e.checked=false;});
+  if(g('pf-instr'))g('pf-instr').value='';
   g('person-form-wrap').style.display='block';
   g('person-form-wrap').scrollIntoView({behavior:'smooth'});
 }
@@ -769,26 +771,31 @@ function editPerson(id){
   g('pf-bio').value=p.bio||'';
   g('pf-link').value=p.link||'';g('pf-listen').value=p.listen||'';
   if(g('pf-photo'))g('pf-photo').value=p.photo||'';
-  ['at','am','ar','mu'].forEach(r=>{const e=g('pf-r-'+r);if(e)e.checked=(p.roles||[]).includes(r);});
+  if(g('pf-instr'))g('pf-instr').value=p.instr||'';
+  // "mu" (vecchio ruolo "Musicista") viene trattato come alias di "ar" (Esecutore):
+  // se la persona aveva solo "mu", la spunta Esecutore risulta comunque attiva.
+  ['at','am'].forEach(r=>{const e=g('pf-r-'+r);if(e)e.checked=(p.roles||[]).includes(r);});
+  if(g('pf-r-ar'))g('pf-r-ar').checked=(p.roles||[]).includes('ar')||(p.roles||[]).includes('mu');
   g('person-form-wrap').style.display='block';
   g('person-form-wrap').scrollIntoView({behavior:'smooth'});
 }
 function delPerson(id){if(!confirm('Eliminare questa persona?'))return;persons=persons.filter(p=>p.id!==id);svp();renderAdminPersons();}
 function savePerson(){
   const name=gv('pf-name');if(!name){showAlert('person-form-alert','Inserisci il nome.','err');return;}
-  const roles=[];['at','am','ar','mu'].forEach(r=>{if(g('pf-r-'+r)?.checked)roles.push(r);});
+  const roles=[];['at','am','ar'].forEach(r=>{if(g('pf-r-'+r)?.checked)roles.push(r);});
+  const instr=gv('pf-instr');
   if(editingPersonId){
     let idx=persons.findIndex(x=>x.id===editingPersonId);
     if(idx<0){
       // Upsert: non trovata, aggiunge come nuova mantenendo l'id
-      persons.push({id:editingPersonId,name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles});
+      persons.push({id:editingPersonId,name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles,instr});
       svp();showAlert('person-form-alert','Persona salvata come nuova (id precedente non trovato).','ok');
     } else {
-      persons[idx]={...persons[idx],name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles};
+      persons[idx]={...persons[idx],name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles,instr};
       svp();showAlert('person-form-alert','✓ Persona aggiornata e salvata!','ok');
     }
   } else {
-    const p={id:'p_'+Date.now(),name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles};
+    const p={id:'p_'+Date.now(),name,nameit:gv('pf-nameit'),born:gv('pf-born'),died:gv('pf-died'),bio:g('pf-bio').value.trim(),link:gv('pf-link'),listen:gv('pf-listen'),photo:gv('pf-photo'),roles,instr};
     persons.push(p);svp();showAlert('person-form-alert','Persona salvata!','ok');
   }
   closePersonForm();renderAdminPersons();
@@ -896,8 +903,8 @@ function acIn(fid,role){
     const p=persons.find(x=>x.name===n||x.nameit===n);
     if(!p)return false;
     const roles=p.roles||[];
-    if(role)return roles.includes(role);
-    return !(roles.length>0&&roles.every(r=>r==='mu'));
+    if(role)return roles.includes(role)||(role==='ar'&&roles.includes('mu'));
+    return !(roles.length>0&&roles.every(r=>r==='mu'&&!roles.includes('ar')));
   });
   const matches=allNames.filter(n=>stripAccents(n.toLowerCase()).includes(stripAccents(val)));
   if(!matches.length){dd.style.display='none';return;}
@@ -915,8 +922,8 @@ function acInMulti(fid,role){
     const p=persons.find(x=>x.name===n||x.nameit===n);
     if(!p)return false;
     const roles=p.roles||[];
-    if(role)return roles.includes(role);
-    return !(roles.length>0&&roles.every(r=>r==='mu'));
+    if(role)return roles.includes(role)||(role==='ar'&&roles.includes('mu'));
+    return !(roles.length>0&&roles.every(r=>r==='mu'&&!roles.includes('ar')));
   });
   const matches=allNames.filter(n=>stripAccents(n.toLowerCase()).includes(stripAccents(last)));
   if(!matches.length){dd.style.display='none';return;}
