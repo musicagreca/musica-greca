@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-19T06:13:58.839Z",
+  "exportedAt": "2026-09-19T06:30:23.181Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
@@ -236,7 +236,7 @@
       "dr": "",
       "bal": "",
       "balgr": "",
-      "ll": "Ζαβαρακατρανέμια",
+      "ll": "https://www.youtube.com/watch?v=ii88v3wxrr8",
       "li": "",
       "ch": "LAm                       SOL DO SOL LAm\nΖαβαρακατρανέμια  ζαβαρακατρανέ---μι-α\n SOL DO SOL LAm      SOL LAm\nΑλληλούια---α  αλληλούια\n\nLAm            LA LAm  LA LAm\nΖαβαρακατρανέμια  ίλεως  ίλεως                       \nSOL              LAm     SIm7 LAm\nλάμα  λάμα  νάμα  νάμα  νέμ-ι-α\n SOL DO SOL LAm      SOL LAm\nΑλληλούια---α  αλληλούια\n\nLAm\nΊλεως  ίλεως  ίλεως\n        SOL DO SOL LAm\nίλεως  ίλεως  νέ---μι-α\nLAm            LA LAm  LA LAm\nΊλεως  ίλεως  ίλεως  ίλεως\nSOL               DO  SOL  LAm   \nλάμα  λάμα  νάμα  νάμα  νέμια\n SOL DO SOL LAm      SOL LAm\nΑλληλούια  αλληλούια\n\nLAm                   SOL DO SOL LAm\nΖαβαρακατρανέμια  ζαβαρακατρανέμια\n SOL DO SOL LAm   SOL LAm\nΑλληλούια  αλληλούια\n\nLAm            LA LAm  LA LAm\nΖαβαρακατρανέμια  ίλεως  ίλεως\nSOL              LAm     SIm7 LAm\nλάμα  λάμα  νάμα  νάμα  νέμια\n SOL DO SOL LAm      SOL LAm\nΑλληλούια  αλληλούια\nSOL              LAm\nΑλληλούια  αλληλούια",
       "tr": "Zavarakatranémia\n\nZavarakatranémia zavarakatrané---mi-a\nAliluía---a aliluía\n\nZavarakatranémia íleos íleos\nláma láma náma náma ném-i-a\nAliluía---a aliluía\n\nÍleos íleos íleos\níleos íleos né---mi-a\nÍleos íleos íleos íleos\nláma láma náma náma némia\nAliluía aliluía\n\nZavarakatranémia zavarakatranémia\nAliluía aliluía\n\nZavarakatranémia íleos íleos\nláma láma náma náma némia\nAliluía aliluía\nAliluía aliluía",
@@ -1920,19 +1920,22 @@
           "who": "Γιώργος Κατσαρός (Θεολογίτης)",
           "year": "1928",
           "note": "",
-          "link": "Και γιατί δε μάς το λες"
+          "link": "https://www.youtube.com/watch?v=vk89u_8Tcew",
+          "vid": false
         },
         {
           "who": "Μαρίζα Κωχ",
           "year": "2004",
           "note": "",
-          "link": "https://www.youtube.com/watch?v=iF4E3tkoZsw"
+          "link": "https://www.youtube.com/watch?v=iF4E3tkoZsw",
+          "vid": false
         },
         {
           "who": "Λεωνίδας Σμυρνιός",
           "year": "1927",
-          "note": "USA",
-          "link": "https://www.youtube.com/watch?v=LEnnZSVsONo"
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=LEnnZSVsONo",
+          "vid": false
         }
       ],
       "date": "2026-09-08",
@@ -1952,7 +1955,8 @@
       "ch": "Της θάλασσας βαστώ κακιά, αμάν, αμάν  \nτου παποριού αμάχη                     \nπου πήρε την αγάπη μου, αμάν, αμάν\nκαι τηνε χαίρονται άλλοι\n \nΚαι γιατί δεν μάς το λες, και γιατί δεν μάς το λες\nκαι γιατί δεν μάς το λες, τον πόνο που 'χεις κι όλο κλαις\nΚαι γιατί δε μ' άνοιξες, και γιατί δε μ' άνοιξες\nκαι γιατί δε μ' άνοιξες, παρά το τζάμι σφάλισες\n \nΠανάθεμα την τη στιγμή, κορίτσι μου   \nπανάθεμά την ώρα                      \nόπου σε πρωτογνώρισα, μικρούλα μου\nσε τούτη δω την χώρα\n \nΚαι γιατί δεν μάς το λες, και γιατί δεν μάς το λες\nκαι γιατί δεν μάς το λες, τον πόνο που 'χεις κι όλο κλαις\nΚαι γιατί δε μ' άνοιξες, και γιατί δε μ' άνοιξες\nκαι γιατί δε μ' άνοιξες, παρά το τζάμι σφάλισες\n \n \nΠαραλλαγή: \"Η Χήρα\"\n \nΧήρα, ν' αλλάξεις τ' όνομα, χήρα να μη\nΧήρα να μη σε λένε\nΓιατ' έκανες τα μάτια μου, μέρα και νύ-\nΜέρα και νύχτα κλαίνε\n \nΕσύ στο παραθύρι κι εγώ μες στο στενό\nΡίξε μου τα μαλλιά σου να πιάσω ν' ανεβώ\n \nΚαλέ, γιατί μας μάνισες και το τζάμι σφάλισες\nΚαλέ μελαχρινό, δε βγαίνεις να σε δω, για σένανε πονώ\nΓια σένα εγώ θα τρελαθώ\n \nΧήρα, σαν πας στην εκκλησιά, προσκύνα και\nΠροσκύνα και για μένα\nΓια να σωθούν τα κρίματα που έχω κα-\nΠου έχω καμωμένα\n \nΕσύ σα δε με θέλεις, παντρεύομαι κι εγώ\nΚαι παίρνω προσφυγούλα, και πίνω και γλεντώ\n \nΚαλέ, γιατί δε μας το λες, παρά κάθεσαι και κλαις\nΚαλέ μελαχρινό, δε βγαίνεις να σε δω, για σένανε πονώ\nΓια σένα εγώ θα τρελαθώ\n \nΤης χήρας το προσκέφαλο μυρίζει από\nΜυρίζει από κυδώνι\nΚι όποιος το πρωτομυριστεί, ο νους του δεν\nΟ νους του δεν μερώνει\n \nΒγάλτα τα μαύρα, βγάλτα, και βάλε κόκκινα\nκαι γίνε προσφυγούλα και πούλα κόσκινα\n \nΚαλέ, γιατί δε μας το λες, παρά κάθεσαι και κλαις\nΚαλέ μελαχρινό, δε βγαίνεις να σε δω, για σένανε πονώ\nΓια σένα εγώ θα τρελαθώ",
       "tr": "Kie ghiatì den mas to les\n\nTis thálassas vastó kakiá, amán, amán\ntou paporioú amáchi\npou píre tin agápi mou, amán, amán\nkai tíne chièrontai álli\n\nKie ghiatí den más to les, Kie ghiatí den más to les\nKie ghiatí den más to les, ton póno pou 'chis ki ólo kles\nKie ghiatí de m' ánoixes, Kie ghiatí de m' ánikses\nKie ghiatí de m' ánikses, pará to tzámi sfálises\n\nPanáthema tin ti stigmí, korítsi mu\npanáthemá tin óra\nópu se protognórisa, mikrúla mu\nse túti do tin chóra\n\nΗ Χήρα\n\nChíra, n' alláksis t' ónoma, chíra na mi\nChíra na mi se léne\nGhiat' ékanes ta mátia mu, méra kie ni-\nMéra kie nichta kléne\n\nEsì sto parathìri ki egó mes sto stenó\nRíkse mu ta malliá su na piáso n' anevó\n\nKalé, ghiatí mas mánises kie to tzámi sfálises\nKalé melachrinó, de vgénis na se do, ghia sénane ponó\nGhia séna egó tha trelathó\n\nChíra, san pas stin ekklisiá, proskìna kie\nProskìna kie ghia ména\nGhia na sothún ta krímata pu écho ka-\nPu écho kamoména\n\nEsý sa de me théleis, pantrévomai ki egó\nKie pérno profygúla, kie píno kie glentó\n\nKalé, ghiatí de mas to les, pará káthesai kie kles\nKalé melachrinó, de vgénis na se do, ghia sénane ponó\nGhia séna egó tha trelathó\n\nTis chíras to proskéfalo myrízei apó\nMyrízei apó kydóni\nKi ópios to protomyristí, o nus tu den\nO nus tu den meróni\n\nVgálta ta mávra, vgálta, kie vále kókkina\nkie ghíne profygúla kie púla kóskina\n\nKalé, ghiatí den mas to les...",
       "ti": "E perchè non ce lo dici\n\nSerbo rancore verso il mare, ahimè, ahimè\nostilità verso il vapore\nche mi ha portato via l'amore, ahimè, ahimè\ne ora se lo godono altri\n\nE perché non ce lo dici, e perché non ce lo dici\ne perché non ce lo dici, il dolore che hai e continui a piangere\nE perché non mi hai aperto, e perché non mi hai aperto\ne perché non mi hai aperto, e invece hai sprangato il vetro\n\nMaledetto quel momento, ragazza mia\nmaledetta quell'ora\nin cui ti ho conosciuta per la prima volta, piccola mia\nin questo paese qui\n\nE perché non ce lo dici...\n\nLa Vedova\n\nVedova, cambia il nome, vedova, che non\nche non ti chiamino più così\nPerché hai fatto sì che i miei occhi, giorno e no-\ngiorno e notte piangano\n\nTu alla finestra e io giù nel vicolo stretto\nGettami i tuoi capelli, che mi aggrappi e salga\n\nBella, perché ti sei arrabbiata con noi e hai sprangato il vetro\nBella bruna, non esci per farti vedere, soffro per te\nPer te io impazzirò\n\nVedova, quando vai in chiesa, prega\nprega anche per me\naffinché si salvino i peccati che ho\nche ho commesso\n\nSe tu non mi vuoi, mi sposo anch'io\ne prendo una piccola profuga, e bevo e faccio festa\n\nBella, perché non ce lo dici, e invece stai lì seduta e piangi\nBella bruna, non esci per farti vedere, soffro per te\nPer te io impazzirò\n\nIl cuscino della vedova profuma\nprofuma di mela cotogna\nE chi per primo lo annusa, la sua mente non\nla sua mente non si placa più\n\nToglitelo il nero, toglitelo, e mettiti il rosso\ne diventa una piccola profuga e vendi setacci\n\nBella, perché non ce lo dici...\n\nNote di traduzione\n\n\"αμάν, αμάν\" — come già visto, interiezione di lamento di origine turco-persiana tipica del rebetiko, esprime dolore/pena; lasciata invariata.\n\n\"του παποριού αμάχη\" — letteralmente \"ostilità/rancore verso il vapore [nave a vapore]\": il \"παπόρι\" (vaporetto/piroscafo) qui è colpevolizzato per aver portato via l'amata, probabilmente emigrata o partita per mare; immagine tipica delle canzoni greche isolane sulla separazione forzata dal mare.\n\n\"και το τζάμι σφάλισες\" — \"hai sprangato il vetro/la finestra\": gesto che simboleggia il rifiuto categorico di comunicare o di far entrare l'innamorato, chiudendo ogni possibilità di dialogo.\n\n\"Πανάθεμα\" — espressione di maledizione/imprecazione popolare (\"sia maledetto\"), usata qui non con vera cattiveria ma come sfogo emotivo per il destino che ha portato dolore, tipico registro della canzone popolare greca.\n\n\"Χήρα\" — \"vedova\": nella variante, il termine ha valore sia letterale che di appellativo carico di significato sociale — nella Grecia tradizionale la vedova portava lutto (vestiti neri) e aveva uno status particolare, spesso oggetto di desiderio proibito o di pettegolezzo.\n\n\"Ρίξε μου τα μαλλιά σου να πιάσω ν' ανεβώ\" — chiaro riferimento alla fiaba di Raperonzolo/immagine fiabesca universale (capelli calati dalla finestra per salire), qui usata in chiave popolare/scherzosa per esprimere il desiderio di raggiungere l'amata.\n\n\"μελαχρινό\" — \"bruno/dalla pelle scura\": aggettivo che descrive la carnagione scura/mora, tipico complimento estetico nella tradizione greca popolare, qui vezzeggiativo rivolto alla donna amata.\n\n\"προσφυγούλα\" — diminutivo di \"πρόσφυγας\" (rifugiata/profuga), qui \"piccola profuga\"; riferimento storico-sociale alle donne rifugiate (probabilmente dall'Asia Minore dopo il 1922) che spesso, in condizioni di povertà estrema, erano costrette a matrimoni di convenienza o lavori umili — qui il termine ha una sfumatura sia di compassione che di scelta \"di ripiego\" rispetto alla vedova desiderata.\n\n\"Της χήρας το προσκέφαλο μυρίζει από κυδώνι\" — il profumo del cotogno (κυδώνι) sul cuscino della vedova è un'immagine sensuale/misteriosa: il cotogno nella tradizione greco-mediterranea è simbolo di fertilità e amore (già nell'antichità era frutto nuziale); chi ne sente il profumo \"impazzisce\" — allude al fascino ammaliante e quasi pericoloso della vedova.\n\n\"πούλα κόσκινα\" — \"vendi setacci\": mestiere umile e ambulante (venditrice di crivelli/setacci), immagine che sottolinea ulteriormente la caduta in povertà e umiltà sociale evocata per la donna, in contrasto ironico con il fascino che le viene attribuito.",
-      "no": "La canzone è derivata da Μπουρνοβαλιός μανές"
+      "no": "La canzone è derivata da Μπουρνοβαλιός μανές",
+      "balgr": ""
     },
     {
       "id": "s_1788848262635",
@@ -9573,29 +9577,6 @@
       "no": "\"Μάουκας\" sembra essere il nome/soprannome di una persona reale — un capitano/padrone di barca a cui ci si rivolge nel canto tradizionale, con versi come:\n\n\"Να πάω να βρω το Μαουκά, μαζί του να καλάρω, να πάω να βγω στην Πάρο... Που έχει μέσ' το τσούρμο του όλο λεβέντες νέοι, Παριώτες και Τσιπιδιανοί, κι άλλοι Ναουσαίοι...\"\n\n(Vado a cercare il Maoukàs, per salpare con lui e andare a Paros... che ha nel suo equipaggio tutti giovani valorosi, gente di Paros, di Tsipída e di Naoussa)\n\nSembra quindi un canto di imbarco/marineria, dove ci si rivolge a un capitano locale ben noto (forse realmente esistito, un \"personaggio\" della tradizione orale delle Cicladi) per unirsi al suo equipaggio di giovani marinai delle isole vicine."
     },
     {
-      "id": "s_1785853919883",
-      "offsets": {},
-      "executions": [],
-      "date": "2026-08-04",
-      "tgr": "Ο μαθητής",
-      "tit": "O mathitìs",
-      "alias": "Ο πιο καλός ο μαθητής",
-      "at": "Χαράλαμπος Βασιλειάδης",
-      "am": "Γιώργος Ζαμπέτας",
-      "yr": "1964",
-      "ar": "Γιώργος Ζαμπέτας",
-      "lb": "",
-      "gn": "Laikà",
-      "dr": "",
-      "bal": "Chasaposèrvikos",
-      "ll": "https://www.youtube.com/watch?v=SAS4U_pP3S0",
-      "li": "",
-      "ch": "SOL                                  RE\nΈνα καιρό που μ' έστελνε η μάνα μου σχολείο\nRE                                  SOL  RE SOL\nΚι ο δάσκαλός μου μ' έβαζε στο πρώτο το θρανίο\n \nSOL                                  RE\nΟ πιο καλός ο μαθητής ήμουν εγώ στην τάξη\nRE                                              SOL\nΚι οι δάσκαλοί μου μ' είχανε μη βρέξει και μη στάξει\n \nSOL                                  RE\nΠάντοτε στο τετράδιο βαθμό έπαιρνα δέκα\nRE                                  SOL  RE SOL\nΚι αν στη ζωή πήρα μηδέν, τα φταίει μια γυναίκα\n \nSOL                                  RE\nΟ πιο καλός ο μαθητής ήμουν εγώ στην τάξη\nRE                                              SOL\nΚι οι δάσκαλοί μου μ' είχανε μη βρέξει και μη στάξει\n \nSOL                                  RE\nΣτον έλεγχο διαγωγή είχα κοσμιωτάτη\nRE\nΚι όμως οι συναναστροφές όλες αυτές, Μανόλη μου\nRE            SOL \nμου βγάλανε το μάτι",
-      "tr": "O mathitìs\n\nÉna kairó pu m'éstelne i mána mu scholío\nki o dáskalos mu m'évaze sto próto to thranío\n\nO pio kalós o mathitís ímuna eghó sti táxi\nki i dáskali mu me íchane mi vrexi ke mi stáxi\n\nPántote sto tetrádio vathmó épairna dhéka\nki an sti zoí píra midhén ta ftái mia yinéka\n\nSton élenho dhiaghoghí ícha kosmiotáti\nki ómos i sinanastrofés ólles aftés Manóli mu\nmu vgálane to máti",
-      "ti": "L'alunno\n\nC'era un tempo in cui mia madre mi mandava a scuola\ne il maestro mi metteva nel primo banco\n\nEro il migliore alunno della classe\ne i miei maestri mi trattavano con ogni riguardo\n\nSul quaderno prendevo sempre il voto dieci\ne se nella vita ho preso zero, la colpa è di una donna\n\nNella pagella avevo una condotta esemplare\neppure tutte quelle cattive compagnie, Manolis mio,\nmi hanno rovinato\n\nNote alla traduzione\n\n\"ω! ω! ω! ω!\" — vocalizzi/esclamazioni tipiche del canto popolare, senza significato letterale, li ho omessi nella traduzione per rendere il testo più scorrevole.\n\"μη βρέξει και μη στάξει\" — espressione idiomatica greca (letteralmente \"che non piova né goccioli\"), usata per dire che qualcuno viene trattato con estrema cura e attenzione, quasi \"tenuto sotto una campana di vetro\".\n\"μου βγάλανε το μάτι\" — letteralmente \"mi hanno cavato l'occhio\": espressione idiomatica per dire \"mi hanno rovinato/mandato in malora\".",
-      "no": ""
-    },
-    {
       "id": "s_1785851586837",
       "offsets": {},
       "executions": [],
@@ -10341,29 +10322,6 @@
       "tr": "Gherakìna\n\nKínise i Gherakína ghia neró krío na féri\nDrom, drom, drom, drom, drom\nta vrachiólia tis vrondún\nta vrachiólia tis vrondún\ndrom, drom, drom, drom, drom\n\nKi épese mes sto pighádhi ki évghale oré foní megháli\nDrom, drom...\n\nKi étrekse o kósmos ólos, ki étreksa ki eghó o kaiménos\nDrom, drom...\n\nGherakína, tha se vghalo ke ghineká tha se páro\nDrom, drom...",
       "ti": "Gherakina \n\nSi avviò  Gherakina per portare acqua fresca\nDrom, drom, drom, drom, drom\ni suoi braccialetti rimbombano\ni suoi braccialetti rimbombano\ndrom, drom, drom, drom, drom\n\nE cadde nel pozzo e lanciò un gran grido\nDrom, drom...\n\nE corse tutta la gente, e corsi anch'io il poveretto\nDrom, drom...\n\nGherakina, ti tirerò fuori e ti prenderò in moglie\nDrom, drom...\n\nNote: Γερακίνα è un nome femminile che deriva da γεράκι (falco) — la ragazza falco, nome tipico della tradizione popolare greca. Ντρουμ è l'onomatopea del rimbombo dei braccialetti — uno dei suoni più riconoscibili di tutta la musica tradizionale greca, riprodotto spesso dal bouzouki o dal violino. Πηγάδι è il pozzo. Ορέ è un'interiezione tipica del canto popolare — un'esclamazione di sorpresa o intensità. La struttura è tipica del dimotiká narrativo: un evento (la caduta nel pozzo) che diventa pretesto per una dichiarazione d'amore. La logica del protagonista è che anche davanti a un'emergenza pensa prima al matrimonio.\n\nTrascrizione fonetica:\n\nKínise i Gherakína ghia neró krío na féri\nDrom, drom, drom, drom, drom\nta vrachiólia tis vrondún\nta vrachiólia tis vrondún\ndrom, drom, drom, drom, drom\n\nKi épese mes sto pighádhi ki évghale oré foní megháli\nDrom, drom...\n\nKi étrekse o kósmos ólos, ki étreksa ki eghó o kaiménos\nDrom, drom...\n\nGherakína, tha se vghalo ke ghineká tha se páro\nDrom, drom...\n\nNote: Γερακίνα è un nome femminile che deriva da γεράκι (falco) — la ragazza falco, nome tipico della tradizione popolare greca. Ντρουμ è l'onomatopea del rimbombo dei braccialetti — uno dei suoni più riconoscibili di tutta la musica tradizionale greca, riprodotto spesso dal bouzouki o dal violino. Πηγάδι è il pozzo. Ορέ è un'interiezione tipica del canto popolare — un'esclamazione di sorpresa o intensità. La struttura è tipica del dimotiká narrativo: un evento (la caduta nel pozzo) che diventa pretesto per una dichiarazione d'amore. La logica del protagonista è impeccabilmente rembetika — anche davanti a un'emergenza pensa prima al\nVuoi ricevere una not",
       "no": "La storia vera di Γερακίνα\n\nNel 1854, nella città di Nigrita in Macedonia — allora sotto il giogo ottomano — nasce nella famiglia Rokani una bambina che viene chiamata Gerakina. Cresce amata da tutti per la sua bellezza, la bontà e la dolcezza.\n\nNel 1870, a 16 anni, si innamora del giovane Triadafyllos Gostinos, suo vicino di quartiere. L'amore rimane platonico — come imponeva il carattere conservatore della piccola città di provincia — limitato a sguardi rubati e sorrisi dolci.\n\nIl 6 agosto 1870 Gerakina va al pozzo del quartiere a prendere l'acqua per il pranzo. Il pozzo è recintato, ma la recinzione è bassa e precaria. Con la mente rivolta al suo Triadafyllos, non si appoggia bene, perde l'equilibrio e cade sul fondo.\n\nIl suo grido disperato squarcia la quiete del mezzogiorno. I vicini accorrono — tra loro anche Triadafyllos, che scende con una corda sul fondo del pozzo per salvarla. Invano: Gerakina è già morta.\n\nTutta Nigrita pianse la sventurata ragazza e la accompagnò all'ultima dimora adornandola di monete d'oro e braccialetti. Triadafyllos morì di dolore tre mesi dopo.\n\nLa leggenda si cristallizzò nella canzone tradizionale Κίνησε η Γερακίνα — e i braccialetti con cui fu sepolta diventarono il ντρουμ ντρουμ che risuona in ogni strofa. Ogni anno a fine agosto a Nigrita si tengono manifestazioni folkloristiche in suo onore."
-    },
-    {
-      "id": "s_1785572100003",
-      "offsets": {},
-      "executions": [],
-      "date": "2026-08-01",
-      "tgr": "Μήλο μου κόκκινο",
-      "tit": "Mìlo mu kòkkino",
-      "alias": "",
-      "at": "tradizionale",
-      "am": "tradizionale",
-      "yr": "tradizionale",
-      "ar": "tradizionale",
-      "lb": "",
-      "gn": "dimotikò macedonia",
-      "dr": "maggiore",
-      "bal": "kalamatianòs",
-      "ll": "https://www.youtube.com/watch?v=8ZDUsvUC8LU",
-      "li": "",
-      "ch": "DO                  FA       DO\nΜήλο μου κόκκινο, ρόδο βαμμένο  \nDO                  FA       DO\nΜήλο μου κόκκινο, ρόδο βαμμένο  \nDO         SOL               DO\nγιατί με μάρανες, τον πικραμένο \nDO         SOL               DO\nγιατί με μάρανες, τον πικραμένο   \n \nDO                  FA       DO\nΠηγαίνω κι έρχομαι, μα δε σε βρίσκω   \nDO                  FA       DO\nΠηγαίνω κι έρχομαι, μα δε σε βρίσκω \nDO         SOL               DO\nΒρίσκω την πόρτα σου μανταλωμένη\nDO         SOL               DO\nτα παραθύρια σου φεγγοβολούνε\n \nDO                  FA       DO\nΡωτώ την πόρτα σου, πού είν' η κυρά σου   \nDO                  FA       DO\nΡωτώ την πόρτα σου, πού είν' η κυρά σου\nDO         SOL               DO\nΚυρά μ' δεν είναι δω, πάησε στη βρύση\nDO         SOL               DO\nπάησε να πιει νερό και να γιομίσει",
-      "tr": "Mílo mu kókino\n\nMílo mu kókino, ródho vaméno\nghiatí me máranes, ton pikraméno\n\nPigéno ki érchome, ma de se vrisko\nVrisko tin pórta su mandalomeni\nta parathíria su fenghovolúne\n\nRotó tin pórta su, pu in i kirá su\nKirá m' den íne dho, páise sti vrísi\npáise na pi neró ke na ghiomísi",
-      "ti": "Mia mela rossa\n\nMela mia rossa, tinta di rosa\nperché mi hai fatto appassire, l'amareggiato\n\nVado e vengo, ma non ti trovo\ntrovo la tua porta sprangata\nle tue finestre brillano di luce\n\nChiedo alla tua porta, dov'è la tua padrona\nPadrona mia non è qui, è andata alla fonte\nè andata a bere acqua e a riempirsi\n\nNote: Μανταλωμένη è sprangata, chiusa col catenaccio — da μάνταλο (chiavistello). Φεγγοβολούνε è un verbo poetico composto da φεγγάρι (luna) e βολή (lancio) — brillano, mandano luce come la luna. Βρύση è la fonte, la fontana pubblica del villaggio. Γιομίσει è forma dialettale di γεμίσει (riempirsi). Il testo ha la struttura classica del dimotiká — la canzone popolare greca tradizionale: la porta personificata che risponde, la ragazza alla fonte, l'amante che cerca invano.",
-      "no": ""
     },
     {
       "id": "s_1785563408994",
@@ -12680,23 +12638,6 @@
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/dalgas.jpg",
-      "roles": [
-        "at",
-        "am",
-        "ar",
-        "mu"
-      ]
-    },
-    {
-      "id": "p_1786027267609",
-      "name": "Κώστας Μουντάκης",
-      "nameit": "Kòstas Mundàkis",
-      "born": "10 febbraio 1926, Alfá, provincia di Mylopótamos, Rethymno (Creta)",
-      "died": "31 gennaio 1991,Atene",
-      "bio": "Suonatore di lira cretese, compositore e insegnante\n\nUltimo di sette figli di Níkos Mountákis, musicista e ballerino (soprannominato \"kelaḯdís\", il cantore), e di Kalliópi. La famiglia era originaria di Kallikrátis, nella regione delle Sfakià. Il padre morì appena tre mesi dopo la sua nascita. Il bisnonno Manoúsos, primo compagno d'armi di Chatzimichális Ntaliánis, morì combattendo i turchi a Frangokástello durante la rivoluzione del 1827.\n\nSuonando per ore da solo, imparò i motivi e gli ornamenti (\"ksómblia\") tradizionali, perfezionando la tecnica della lira fino a diventare, già a 15 anni durante l'Occupazione, in grado di sostituire il suo maestro Kaffátos al caffè del villaggio. Poco dopo, riuscì a \"reggere\" da solo un intero matrimonio — venendo così ufficialmente consacrato lyrarís. Nel 1943 ottenne la sua prima \"vera\" lira, pagata con un intero agnello e cinque oke di formaggio.\n\nÈ considerato, insieme a Nikos Xylouris, Thanasis Skordalós, Leonidas Kladós e Psarantonis uno dei più rappresentativi suonatori di lira di Creta. Nell'epoca in cui la lira cretese, grazie al lavoro degli artigiani liutai, assumeva la sua forma moderna e una tecnica sempre più virtuosistica, Mountákis contribuì in modo decisivo a questa evoluzione, affermandosi non solo come portatore della tradizione popolare ma anche come compositore dallo stile personale riconoscibile.",
-      "link": "",
-      "listen": "",
-      "photo": "https://musicagreca.github.io/musica-greca/images/mundakis.jpg",
       "roles": [
         "at",
         "am",
@@ -16261,10 +16202,11 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/mundakis.jpg",
       "roles": [
+        "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "lira cretese"
     },
     {
       "id": "p_1789205702366",
