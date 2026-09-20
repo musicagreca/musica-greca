@@ -1,8 +1,289 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-20T05:38:50.865Z",
+  "exportedAt": "2026-09-20T12:56:34.374Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789908967609",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-20",
+      "tgr": "Στον απόκρημνο το βράχο",
+      "tit": "Ston apókrimno to vrácho",
+      "alias": "",
+      "at": "Θόδωρος Δερβενιώτης",
+      "am": "Θόδωρος Δερβενιώτης",
+      "yr": "1956",
+      "ar": "Αντώνης Γιαννακουδάκης, Δημήτρης Στεργίου, Στέλιος Χρυσίνης, Θόδωρος Δερβενιώτης",
+      "lb": "COLUMBIA D.G. 7249",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=lrhV9UdSR_M",
+      "li": "",
+      "ch": "Στον απόκρημνο το βράχο,\nπου το κύμα τον χτυπά.\n\nΘ' ανεβώ για να πηδήσω,\nστα νερά τα σκοτεινά.\n\nΤο κύμα να το καταπιεί,\nτέτοιο ταλαίπωρο κορμί.\n\n\nΝα είναι η νύχτα αγριεμένη,\nκαι το κύμα να βροντά.\n\nΓύρω απ' το φτωχό κορμί μου,\nπου θα φεύγει στα βαθιά.\n\nΤο κύμα να το καταπιεί,\nτέτοιο ταλαίπωρο κορμί.\n\nΣτον απόκρημνο το βράχο,\nμην τρομάξεις ν' ανεβείς.\n\nΘέλω να ρθεις να με κλάψεις,\nτα παλιά να θυμηθείς.\n\nΤο κύμα να το καταπιεί,\nτέτοιο ταλαίπωρο κορμί.",
+      "tr": "Ston apókrimno to vrácho\n\nSton apòkrimno to vràcho, pu to kìma ton chtipà\nTh'anevò ghia na pidìso, sta nerà ta skotinà\nTo kìma na to katapiì, tètio talèporo kormì\n\nNa ìne i nìchta aghrieméni, ke to kìma na vrondà\nGhìro ap' to ftochò kormì mu, pu tha fèvghi sta vathià\nTo kìma na to katapiì, tètio talèporo kormì\n\nSton apòkrimno to vràcho, min tromàksis n'anevìs\nThèlo na rthis na me klàpsis, ta palià na thimithìs\nTo kìma na to katapiì, tètio talèporo kormì",
+      "ti": "Sulla roccia scoscesa\n\nTraduzione\n\nSullo scoglio scosceso¹, dove l'onda lo colpisce,\nsalirò per tuffarmi²\nnelle acque scure\n\nChe l'onda lo inghiotta³,\nun corpo così tormentato⁴\n\nChe la notte sia infuriata,\ne l'onda tuoni\nintorno al mio povero corpo,\nche se ne andrà negli abissi\n\nChe l'onda lo inghiotta,\nun corpo così tormentato\n\nSullo scoglio scosceso,\nnon temere di salire,\nvoglio che tu venga a piangermi,\na ricordare i tempi passati\n\nChe l'onda lo inghiotta,\nun corpo così tormentato\n\nNote\n\nΑπόκρημνος βράχος (\"scoglio scosceso/a picco\") – immagine drammatica di un luogo impervio e pericoloso sul mare, scenario tipico per un gesto estremo nella poesia popolare greca.\nΘ' ανεβώ για να πηδήσω (\"salirò per tuffarmi/gettarmi\") – espressione che allude a un gesto disperato, il salire sullo scoglio per gettarsi in mare, immagine centrale del componimento drammatico.\nΝα το καταπιεί (\"che lo inghiotta\") – personificazione del mare/dell'onda come forza che \"divora\" il corpo tormentato, immagine potente tipica della tragedia amorosa nella tradizione popolare.\nΤαλαίπωρο κορμί (\"corpo tormentato/sofferente\") – espressione che sottolinea l'estrema sofferenza fisica ed emotiva del protagonista, per cui la morte nelle acque appare come l'unica via di liberazione dal dolore.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789907448348",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-20",
+      "tgr": "Ποιος μπορεί να με γλιτώσει",
+      "tit": "Pios borì na me glitòsi",
+      "alias": "",
+      "at": "Μπάμπης Μπακάλης",
+      "am": "Μπάμπης Μπακάλης",
+      "yr": "1956",
+      "ar": "Στέλιος Καζαντζίδης, Δημήτρης Στεργίου",
+      "lb": "HIS MASTER'S VOICE AO. 5354",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Ποιος μπορεί να με γλιτώσει,\nκαι το, το πόνο μου να νιώσει.\n\nΕφόσον η κατάσταση, όλο χειροτερεύει,\nτο πονεμένο μου κορμί το λυτρωμό γυρεύει.\n\nΠοιος μπορεί, μπορεί να με γλιτώσει,\nκαι τον πόνο, το πόνο μου να νιώσει.\n\nΜέρα νύχτα τυραννία, και με μεγάλη αγωνία,\nτα δάκρυα μου και οι καημοί μία μέρα αν ξεχειλίσουν.\n\nΘα γίνουν μαύροι ποταμοί, τη γη να πλημμυρίσουν.\nΠοιος μπορεί, μπορεί να με γλιτώσει,\nκαι τον πόνο, το πόνο μου να νιώσει.\n\nΆλλοι στη ζωή γελούνε και άλλοι κλαίνε και πονούνε,\nμες τη ζωή τα βάσανα δεν είναι μοιρασμένα,\nκαι όλες οι μαύρες συμφορές Φορτώθηκαν σε μένα.",
+      "tr": "Pios borì na me glitòsi\n\nPiós borì na me ghlitòsi, ke to, to pòno mu na niòsi\nEfòson i katàstasi, òlo cheiroterèvi\nto ponemèno mu kormì to litromò ghirèvi\nPiós borì, borì na me ghlitòsi, ke ton pòno, to pòno mu na niòsi\n\nMèra nìchta tirannìa, ke me meghàli aghonìa\nta dàkria mu ke i kaimì mia mèra an ksecheilìsun\nTha ghìnun màvri potamì, ti ghi na plimmirìsun\nPiós borì, borì na me ghlitòsi, ke ton pòno, to pòno mu na niòsi\n\nÀlli sti zoì ghelùne ke àlli klène ke ponùne\nmes ti zoì ta vàsana den ìne miraszmèna",
+      "ti": "Chi può salvarmi\n\nChi può liberarmi, e sentire il, il mio dolore?\nDato che la situazione peggiora sempre di più,\nil mio corpo dolorante cerca la redenzione¹\nChi può, può liberarmi, e sentire il dolore, il mio dolore?\n\nGiorno e notte tirannia, e con grande angoscia,\nle mie lacrime e le mie pene, se un giorno traboccassero²,\ndiventerebbero fiumi neri, da inondare la terra\nChi può, può liberarmi, e sentire il dolore, il mio dolore?\n\nAltri nella vita ridono e altri piangono e soffrono,\nnella vita le sofferenze non sono equamente distribuite³,\ne tutte le nere disgrazie sono state caricate su di me⁴\n\nNote\n\nΛυτρωμός – \"redenzione, liberazione, riscatto\"; termine con connotazione quasi religiosa, usato qui per esprimere il desiderio di essere liberati da una sofferenza opprimente e totalizzante.\nΞεχειλίσουν – da \"ξεχειλίζω\" (traboccare, riversarsi oltre i bordi); immagine iperbolica delle lacrime e delle pene che, se lasciate libere, diventerebbero un diluvio capace di sommergere il mondo intero.\nΔεν είναι μοιρασμένα (\"non sono equamente distribuite\") – riflessione amara e universale sulla disuguaglianza del dolore nella vita, tema ricorrente nella canzone popolare greca sulla sofferenza esistenziale.\nΦορτώθηκαν σε μένα (\"sono state caricate su di me\") – espressione figurata che esprime il senso di essere il capro espiatorio del destino, su cui si sono accumulate ingiustamente tutte le disgrazie possibili, in un climax di autocommiserazione tipico del genere.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789899863527",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κώστας Ρούκουνας",
+          "year": "1935",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=8oTJrA5v4s8",
+          "vid": false
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=L0tt_kz08-I",
+          "vid": false
+        },
+        {
+          "who": "Στράτος Παγιουμτζής",
+          "year": "1959",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=oghLlMB2QvQ",
+          "vid": false
+        },
+        {
+          "who": "Δημήτρης Στεργίου",
+          "year": "1961",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=wWPmGXuoo4Y",
+          "vid": false
+        },
+        {
+          "who": "Σπύρος Ζαγοραίος",
+          "year": "1965",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=gOjZc9U5LYQ",
+          "vid": false
+        },
+        {
+          "who": "Γιάννης Παπαϊωάννου",
+          "year": "1972",
+          "note": "live tra 1 e 2 agosto 1972",
+          "link": "https://www.youtube.com/watch?v=nFdM4Jg3XG0",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-20",
+      "tgr": "Τον Χάρο τον αντάμωσαν",
+      "tit": "Ton Chàro ton andàmosan",
+      "alias": "Κουβέντα με το Χάρο",
+      "at": "Παναγιώτης Τούντας",
+      "am": "Παναγιώτης Τούντας",
+      "yr": "1935",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Τον Χάρο τον αντάμωσαν\nπεντ-έξι χασικλήδες\nνα τον ρωτήσουν πώς περνούν\nστον Άδη οι μερακλήδες\n \nΠες μας βρε χάρε να χαρείς\nτο μαύρο σου σκοτάδι\nέχουν χασίσι, έχουν λουλά\nοι βλάμηδες στον Άδη\n \nΠες μας αν έχουν μπαγλαμά\nμπουζούκια και γλεντάνε\nΈχουν τεκέδες, έχουν τσαρδί\nπου παν' και την τραβάνε\n \nΠες μας αν έχουν γκόμενες\nμανίτσες και γουστάρουν\nΤον ναργιλέ να κάνουνε\nντουζένι να φουμάρουν\n \nΠες μας βρε Χάρε να χαρείς\nτι κάνουνε τ' αλάνια\nΒρίσκουν νταμίρα, έχουν λουλά\nγια κάθουνται χαρμάνια\n \nΠάρε δυο δράμια Προυσαλιό\nκαι πέντε μυρωδάτο\nκαι δώσε να φουμάρουνε\nτ' αδέλφια μας κει κάτω\n \nΚι όσοι μαχαιρώθηκανε\nκαι πήγανε στον Άδη\nγια πες μας γιατρευτήκανε\nή λιώσαν στο σκοτάδι\n \nΚι όσοι από καρασεβντά\nτρελάθηκαν και πάνε\nΠες μας τους πέρασε ο νταλγκάς\nγι' ακόμα αγαπάνε\n \nΠες μας τι κάνουν οι φτωχοί\nπρεζάκηδες κι εκείνοι\nΠάρε να δώσεις και σ' αυτούς\nλιγάκι κοκαΐνη\nΤο Χάρο τον αντάμωσαν - Ρούκουνας Κώστας video",
+      "tr": "Ton Chàro ton andàmosan\n\nTon Chàro ton andàmosan\npendèksi chasiklìdes\nna ton rotìsun pos pernùn\nston Ài i meraklìdes\n\nPes mas vre Chàre na charìs\nto màvro su skotàdi\néchun chasìsi, échun lulà\ni vlàmides ston Ài\n\nPes mas an échun baglamà\nbuzùkia ke glendàne\nÉchun tekèdes, échun tsardì\npu pan' ke tin travàne\n\nPes mas an échun gòmenes\nmanìtses ke ghustàrun\nTon narghilè na kànune\nduzèni na fumàrun\n\nPes mas vre Chàre na charìs\nti kànune t'alània\nVrìskun ndamìra, échun lulà\nghia kàthunde charmània\n\nPàre dio dràmia Prusalò\nke pènde mirodàto\nke dòse na fumàrune\nt'adèlfia mas ki kàto\n\nKi òsi macheròthikane\nke pìghane ston Ài\nghia pes mas ghiatreftìkane\ni liòsan sto skotàdi\n\nKi òsi apò karasevdà\ntrelàthikan ke pàne\nPes mas tus pèrase o ndalgàs\nghi' akòma aghapàne\n\nPes mas ti kànun i ftochì\nprezàkides ki ekìni\nPàre na dòsis ke s'aftùs\nlighàki kokaìni",
+      "ti": "Il Caronte lo incontrarono\n\nIl Caronte¹ lo incontrarono\ncinque-sei fumatori di hashish²,\nper chiedergli come se la passano\nnell'Ade i meraklìdes³\n\nDicci, o Caronte, che tu possa gioire⁴,\nnel tuo buio nero,\nhanno hashish, hanno il narghilè⁵\ni vlamides⁶ nell'Ade?\n\nDicci se hanno il baglamàs⁷,\ni bouzouki e fanno festa\nHanno teké⁸, hanno un rifugio⁹\ndove vanno a divertirsi\n\nDicci se hanno ragazze¹⁰,\nbelle gattine, e se si godono la vita\nse preparano il narghilè\nper fumare in armonia¹¹\n\nDicci, o Caronte, che tu possa gioire,\ncosa fanno i vagabondi¹²\nTrovano roba¹³, hanno il narghilè\nper starsene sballati¹⁴\n\nPrendi due grammi di prussalò¹⁵\ne cinque di quello profumato,\ne dagliene da fumare\nai nostri fratelli laggiù\n\nE quelli che si sono accoltellati\ne sono andati nell'Ade,\ndicci, sono guariti\no si sono consumati nel buio?\n\nE quelli che per una grande passione¹⁶\nsono impazziti e se ne sono andati,\ndicci, gli è passato il tormento d'amore¹⁷\no amano ancora?\n\nDicci cosa fanno anche i poveri\ndrogati di eroina¹⁸ laggiù\nPrendi e dai anche a loro\nun pochino di cocaina\n\nNote\n\nΧάρος (Chàros) – personificazione della Morte nella tradizione popolare greca, erede del traghettatore Caronte della mitologia antica.\nΧασικλήδες – \"fumatori di hashish\", termine gergale del mondo rebetiko per indicare gli habitué dei teké (locali dove si fumava hashish).\nΜερακλήδες – plurale di \"μερακλής\", persone che vivono con gusto, passione e intensità i piaceri della vita.\nΝα χαρείς – espressione idiomatica di cortesia enfatica, letteralmente \"che tu possa gioire\", usata come intercalare per rafforzare una richiesta con affetto/rispetto.\nΛουλάς – termine gergale per il narghilè o la pipa per fumare hashish, di uso comune nel lessico dei teké rebetiko.\nΒλάμηδες – plurale di \"βλάμης\", termine gergale rebetiko/della malavita per \"amico/compagno fidato\" nell'ambiente della fratellanza dei fumatori.\nΜπαγλαμάς – piccolo strumento a corde della famiglia del bouzouki, tipico del rebetiko.\nΤεκέδες – plurale di \"τεκές\" (dal turco \"tekke\"), locali (spesso clandestini) dove si fumava hashish, ambiente tipico della cultura rebetika delle origini.\nΤσαρδί – termine gergale per \"rifugio, tana, casetta\" informale, luogo di ritrovo tra amici lontano da sguardi indiscreti.\nΓκόμενες – termine gergale rebetiko per \"ragazze, fidanzate\", spesso con connotazione informale/di strada.\nΝτουζένι – termine gergale che indica l'accordo/l'armonia (anche musicale, \"accordatura\"), qui usato nel senso di fumare \"in sintonia/armonia\" tra amici.\nΑλάνια – plurale di \"αλάνι\", termine gergale per \"vagabondo, uomo di strada senza arte né parte\".\nΝταμίρα – termine gergale per \"roba, sostanza (droga)\" di buona qualità, tipico del linguaggio in codice dei fumatori di hashish.\nΧαρμάνια – da \"χαρμάνι\" (miscela, ma anche gergalmente lo stato di intontimento/sballo da sostanze), qui riferito allo stato di piacevole stordimento condiviso tra amici.\nΠρουσαλό (Prusalò) – varietà/qualità di hashish (probabilmente dal nome della città di Bursa, in Turchia, storicamente legata alla produzione di hashish), termine tecnico del gergo dei consumatori.\nΚαρασεβντάς – termine rafforzato (dal turco \"kara\" = nero/grande + \"sevda\" = passione d'amore), indica una passione amorosa fortissima e struggente, spesso portatrice di sofferenza o follia.\nΝταλγκάς – turchismo diffuso nel greco popolare, indica una pena/tormento d'amore persistente e struggente, simile a \"καημός\" ma con sfumatura più intensa e ossessiva.\nΠρεζάκηδες – da \"πρέζα\" (eroina), termine gergale per i tossicodipendenti da eroina, contrapposti nel testo ai più \"nobili\" fumatori di hashish menzionati in apertura, con tono di ironica solidarietà verso ogni tipo di \"vizioso\" nell'aldilà.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789895453507",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Σουγιουλτζής, Δημήτρης Στεργίου",
+          "year": "1960",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=XQoiTHYogT4",
+          "vid": false
+        },
+        {
+          "who": "Σπύρος Ζαγοραίος, Βούλα Γκίκα, Σπύρος Περιστέρης",
+          "year": "1959",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=dUTnLMxb_lc",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-20",
+      "tgr": "Έλα κάνε μου παρέα",
+      "tit": "Ela kàne mu parèa",
+      "alias": "",
+      "at": "Μίνως Μάτσας",
+      "am": "Σπύρος Περιστέρης",
+      "yr": "1959",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Παίξε μπουζούκι μου γλυκά,\nγια μια καρδιά που αγαπά. \n\nΊσως και νοιώσει,\nτο μεγάλο μου καημό.\n \nΈλα κάνε μου παρέα,\nπου ναι η βραδιά ωραία.\n\nΜην μ αφήνεις ξελογιάστρα,\nνα παραμιλώ με τα άστρα,\nμες στις νύχτες να γυρνώ.\n \n\nΑυτήν την όμορφη βραδιά,\nκουράγιο δόλια μου καρδιά.\n\nΉταν γραμμένο,\nαπό αγάπη να πονώ.\n\nΈλα κάνε μου παρέα,\nπου ναι η βραδιά ωραία.\n\nΜην μ αφήνεις ξελογιάστρα,\nνα παραμιλώ με τα άστρα,\nμες στις νύχτες να γυρνώ.\n\n\nΜόνο γλυκιά διπλοπενιά,\nγια σενα ακούει γειτονιά.\n \nΜα εσύ δεν βγαίνεις,\nξελογιάστρα να σε δω.\n\nΈλα κάνε μου παρέα,\nπου ναι η βραδιά ωραία.\n\nΜην μ αφήνεις ξελογιάστρα,\nνα παραμιλώ με τα άστρα,\nμες στις νύχτες να γυρνώ.",
+      "tr": "Ela kàne mu parèa\n\nPèkse buzùki mu glikà, ghia mia kardià pu aghapà\nÌsos ke niòsi, to meghàlo mu kaimò\nÈla kàne mu paréa, pu ne i vradià oréa\nMin m'afìnis kselghiàstra, na paramilò me ta àstra\nmes stis nìchtes na ghirnò\n\nAftìn tin òmorfi vradià, kuràghio dòlia mu kardià\nÌtan ghraméno, apò aghàpi na ponò\nÈla kàne mu paréa, pu ne i vradià oréa\nMin m'afìnis kselghiàstra, na paramilò me ta àstra\nmes stis nìchtes na ghirnò\n\nMòno glikià diploпeniá, ghia sèna akùi ghitonià\nMa esì den vghènis, kselghiàstra na se do\nÈla kàne mu paréa, pu ne i vradià oréa\nMin m'afìnis kselghiàstra, na paramilò me ta àstra\nmes stis nìchtes na ghirnò",
+      "ti": "Vieni a farmi compagnia\n\nSuona, mio bouzouki, dolcemente, per un cuore che ama,\nforse sentirà, la mia grande pena\n\nVieni, tienimi compagnia, che la serata è bella,\nnon lasciarmi, sedicente¹, a vaneggiare² con le stelle,\na girovagare nelle notti\n\nQuesta bella serata, coraggio, mio povero cuore,\nera scritto³ che per amore dovessi soffrire\n\nVieni, tienimi compagnia, che la serata è bella,\nnon lasciarmi, sedicente, a vaneggiare con le stelle,\na girovagare nelle notti\n\nSolo una dolce doppia pennata⁴, per te ascolta il vicinato,\nma tu non esci, sedicente, perché io ti veda\n\nVieni, tienimi compagnia, che la serata è bella,\nnon lasciarmi, sedicente, a vaneggiare con le stelle,\na girovagare nelle notti\n\nNote\n\nΞελογιάστρα – participio femminile da \"ξελογιάζω\" (sedurre, ammaliare, far perdere la testa); qui usato come vero e proprio soprannome/appellativo rivolto alla donna amata, \"sedicente/ammaliatrice\", colei che con il suo fascino manda in confusione l'innamorato.\nΝα παραμιλώ – da \"παραμιλώ\" (vaneggiare, delirare, parlare a vanvera, spesso per febbre o forte emozione); qui indica lo stato di agitazione/ossessione amorosa del protagonista, che vaga di notte parlando quasi tra sé e le stelle per il tormento.\nΉταν γραμμένο (\"era scritto\") – espressione idiomatica di rassegnazione fatalista, molto comune nella lirica popolare greca, per indicare che la sofferenza d'amore era already destinata dal destino.\nΔιπλοπενιά – tecnica di esecuzione del bouzouki/mandolino con \"doppia pennata\" (colpo di plettro avanti e indietro molto ravvicinato), termine tecnico musicale che qui indica il suono dolce e intenso dello strumento suonato per la serenata.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789892775864",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Βαγγέλης Περπινιάδης",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=XDGEQbuQzwQ",
+          "vid": false
+        },
+        {
+          "who": "Δημήτρης Στεργίου",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=p4-FaZAK80c",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-20",
+      "tgr": "Δεν ξαναπαίζω ζάρια πια",
+      "tit": "Den ksanapèzo zària pia",
+      "alias": "",
+      "at": "Κώστας Φραγκούλης",
+      "am": "Βαγγέλης Περπινιάδης",
+      "yr": "1960",
+      "ar": "",
+      "lb": "Odeon GA-8086",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "DO                      FA                DO\nΔεν ξαναπαίζω ζάρια πια, ούτε ραμί και πάστρα\nDO                        FA              DO\nΔεν ξαναπαίζω ζάρια πια, ούτε ραμί και πάστρα\nDO                    FA             SOL      DO\nΑχ, Μακάρι να μου τάξουνε, τον ουρανό με τ' άστρα\nDO                    FA             SOL      DO\nΜακάρι, να μου τάξουνε, τον ουρανό με τ' άστρα\n\nDO           FA                DO\nΑυτά με καταστρέψανε, και μ' άφησαν μπατίρη\nDO           FA                DO\nΑυτά με καταστρέψανε, και μ' άφησαν μπατίρη\nDO                 FA       SOL      DO\nΤώρα δεν έχω τάλιρο, να πιώ κάνα ποτήρι\nDO                 FA       SOL      DO\nΤώρα δεν έχω τάλιρο, να πιώ κάνα ποτήρι\n\nDO           FA                DO\nΤα έριξα κι ησύχασα, όλα με άσσο δυο\nDO           FA                DO\nΤα έριξα κι ησύχασα, όλα με άσσο δυο\nDO                 FA       SOL      DO\nΑν τα κρατούσα, μάγκες μου, θα είχα ένα πλοίο\nDO                 FA       SOL      DO\nΑν τα κρατούσα, μάγκες μου, θα είχα λεωφορείο",
+      "tr": "Den ksanapèzo zària pia\n\nDen ksanapèzo zària pia, ùte ramì ke pàstra\nDen ksanapèzo zària pia, ùte ramì ke pàstra\nAch, makàri na mu tàksune, ton uranò me t'àstra\nMakàri, na mu tàksune, ton uranò me t'àstra\n\nAftà me katastrèpsane, ke m'àfisan batìri\nAftà me katastrèpsane, ke m'àfisan batìri\nTòra den écho tàliro, na piò kàna potìri\nTòra den écho tàliro, na piò kàna potìri\n\nTa érika ki isìchasa, òla me àsso dio\nTa érika ki isìchasa, òla me àsso dio\nAn ta kratùsa, mànges mu, tha ìcha éna plìo\nAn ta kratùsa, mànges mu, tha ìcha leoforìo",
+      "ti": "Non giocherò mai più a dadi\n\nNon gioco più a dadi¹, né a ramino² né a pastra³,\nnon gioco più a dadi, né a ramino né a pastra,\nah, magari mi promettessero il cielo con le stelle⁴,\nmagari mi promettessero il cielo con le stelle\n\nQuesti giochi mi hanno rovinato, e mi hanno lasciato al verde⁵,\nquesti giochi mi hanno rovinato, e mi hanno lasciato al verde,\nadesso non ho un tallero⁶ per bermi un bicchiere,\nadesso non ho un tallero per bermi un bicchiere\n\nLi ho tirati e mi sono calmato, tutti con asso e due⁷,\nli ho tirati e mi sono calmato, tutti con asso e due,\nse li avessi tenuti, amici miei⁸, avrei avuto una nave,\nse li avessi tenuti, amici miei, avrei avuto un autobus\n\nNote\n\nΖάρια – \"dadi\", gioco d'azzardo tradizionale molto diffuso nelle taverne e nei caffè greci, spesso associato nel rebetiko a rovina economica e vizio.\nΡαμί – \"ramino\", gioco di carte popolare, altro passatempo da caffè/taverna citato come causa di perdite di denaro.\nΠάστρα – gioco di carte tradizionale greco (simile al \"cirulla\" o giochi di presa), anch'esso diffuso negli ambienti popolari.\nΤον ουρανό με τ' άστρα (\"il cielo con le stelle\") – espressione idiomatica iperbolica, equivalente a \"promettere la luna\", cioè fare promesse impossibili o esagerate; qui usata con amara ironia riferita alle illusorie promesse di vincita al gioco.\nΜπατίρης – dal turco \"batır\" (fallito/al verde), termine colloquiale per \"squattrinato, senza soldi\".\nΤάλιρο – moneta popolare greca di modesto valore (originariamente riferita al tallero), usata colloquialmente per indicare una piccola somma di denaro.\nΆσσο δυο (\"asso e due\") – riferimento al punteggio più basso possibile nel gioco dei dadi, simbolo della sfortuna e delle perdite costanti al gioco d'azzardo.\nΜάγκες μου (\"amici miei/miei mànges\") – termine gergale affettuoso rivolto ai compagni di gioco/avventura, tipico appellativo cameratesco tra uomini dell'ambiente popolare/malavitoso del rebetiko.",
+      "no": "Sulla paternità del testo esiste una versione alternativa a quella ufficiale (Kostas Fragoulis), raccontata come aneddoto autobiografico dalla fonte \"Μηχανή του Χρόνου\" (da un libro di Iraklis Efstratiadis, \"Μια ιστορία... ένα τραγούδι\", ed. Toubi's), secondo cui fu lo stesso Vangelis Perpiniadis a scrivere i versi di getto, la notte di Capodanno tra il 1959 e il 1960.\n\nQuella sera Perpiniadis si esibiva al locale di Vlachos, ad Aigaleo, insieme a Stratos Pagioumtzis, Lela Papadopoulou e altri. Un amico cardiopatico passò a fargli gli auguri e gli regalò due biglietti della lotteria di Capodanno, dicendogli di tenerli \"per i tuoi bambini\". Finito lo spettacolo, poco prima dell'alba, Perpiniadis andò a casa di una collega, Maria Konstantinidou, che dava un cenone, per giocare a carte e ai dadi come da tradizione nei giorni di festa.\n\nAveva in tasca 853,50 dracme. Mise da parte 200 dracme per portarle a casa alla famiglia, e cominciò a giocare col resto. La sorte gli fu ostile tutta la notte — usciva sempre \"asso-due\" e perdeva sempre — finché non perse tutto, comprese le 200 dracme messe da parte per la famiglia, rimanendo con appena 3,5 dracme in tasca.\n\nFurioso soprattutto con se stesso per essersi comportato così avventatamente proprio nei giorni di festa, lasciò il gioco e si fece preparare un caffè da Maria. Bevendolo, tirò fuori il pacchetto di sigarette (fumava le \"Delis\" col filtro), prese la cartina bianca all'interno del pacchetto e vi scrisse di getto i primi versi di quello che sarebbe diventato \"Δεν ξαναπαίζω ζάρια πια\". Rilesse quello che aveva scritto e si disse soddisfatto — ma restava angosciato per come si sarebbe presentato a casa, senza un soldo, dalla moglie.\n\nCon le 3,5 dracme rimaste prese l'autobus per tornare a casa, comprando anche un giornale — nel frattempo erano stati estratti i numeri della lotteria di Capodanno. Sull'autobus tirò fuori i due biglietti ricevuti in regalo e scoprì che avevano vinto: 5.000 dracme a biglietto, quindi 2.500 dracme in tutto. Tornato a casa, disse alla moglie Maritsa: \"Ascolta cosa mi è successo: ho perso 850 dracme ai dadi, ma ora te ne porto 2.500, abbiamo vinto alla lotteria\". Lo stesso giorno andò a riscuotere il premio, e al ritorno prese il foglietto con i versi abbozzati, il bouzouki, e in poco tempo completò la canzone.\n\nLa incise subito dopo negli studi Odeon (catalogo GA-8086), sul finire del 1959; il disco cominciò a circolare nei primissimi giorni di gennaio 1960, e vendette diverse migliaia di copie.\n\nL'aneddoto, raccontato con dovizia di dettagli concreti e cronologicamente coerente con la data di incisione/uscita del disco, risulta relativamente credibile — ma resta in contraddizione con i crediti ufficiali che attribuiscono il testo a Fragoulis. del quale, peraltro, non si hanno notizie.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789888467699",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-20",
+      "tgr": "Για να βρω κλεισμένες πόρτες",
+      "tit": "Ghia na vro klismènes pòrtes",
+      "alias": "",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Δημήτρης Στεργίου",
+      "yr": "1948",
+      "ar": "Σούλα Πασαλάρη, Γιάννης Τατασόπουλος, Δημήτρης Στεργίου",
+      "lb": "Odeon, codice GA-7473)",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=2YlfPlCBZLg",
+      "li": "",
+      "ch": "Ύστερα από τόσα χρόνια,\nαπ' τα ξένα κι αν γυρνώ.\n\n[Για να βρω κλεισμένες πόρτες,\nκαι το σπίτι σκοτεινό.] Δις\n\n\nΜε ξενίτεψε η ορφάνια,\nκαι η μοίρα η σκληρή.\n\n[Κι έλπιζα στο γυρισμό μου,\nμια καρδιά να καρτερεί.] Δις\n\nΞενιτιά πανάθεμα σε,\nπου με άρπαξες παιδί.\n\n[Και γυρίζω ξεχασμένος,\nκαι μονάχος στη ζωή.] Δις",
+      "tr": "Ghia na vro klismènes pòrtes\n\nÌstera apò tòsa chrònia, ap' ta ksèna ki an ghirnò\nGhia na vro klisménes pòrtes, ke to spìti skotinò\n\nMe ksenìtepse i orfanià, ke i mìra i sklirì\nKi élpiza sto ghirismò mu, mia kardià na kartrì\n\nKsenitià panàthema se, pu m'àrpakses pedì\nKe ghirìzo ksechasménos, ke monàchos sti zoì",
+      "ti": "Per trovare porte chiuse\nDopo tanti anni, se torno dall'estero¹,\nper trovare porte chiuse, e la casa buia\n\nMi ha mandato in esilio² l'orfanezza³, e il destino crudele,\ne speravo che al mio ritorno, un cuore mi aspettasse\n\nTerra straniera⁴, sii maledetta, che mi hai rapito da bambino,\ne torno dimenticato, e solo nella vita\n\nNote\n\nΑπ' τα ξένα (\"dall'estero\") – espressione tipica della tradizione popolare greca legata al tema dell'emigrazione, \"τα ξένα\" indica genericamente \"le terre straniere/lontane da casa\".\nΞενίτεψε – da \"ξενιτεύω\" (emigrare, esiliarsi in terra straniera); qui usato in forma transitiva/causativa, \"mi ha reso emigrato\", personificando l'orfanezza e il destino come forze che hanno costretto il protagonista all'esilio fin da piccolo.\nΟρφάνια – \"orfanezza, condizione di orfano\"; motivo che, insieme al destino crudele, avrebbe spinto il protagonista a lasciare la propria terra natale fin dall'infanzia.\nΞενιτιά – termine chiave della tradizione popolare greca, indica la condizione di vivere lontano dalla propria terra natale, spesso con accenti di nostalgia, sofferenza e rimpianto, qui apostrofata direttamente e maledetta per il dolore causato.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789886858842",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-20",
+      "tgr": "Τσιφτετέλι (Belly Dancers Delight)",
+      "tit": "Tsiftetèli",
+      "alias": "Belly Dancers Delight",
+      "at": "strumentale",
+      "am": "Δημήτρης Στεργίου",
+      "yr": "1961",
+      "ar": "Δημήτρης Στεργίου",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=ULujCAW_oKE",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789886286725",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-20",
+      "tgr": "Το παράπονο του Μπέμπη",
+      "tit": "To paràpono tu Bèbi",
+      "alias": "",
+      "at": "strumentale",
+      "am": "Δημήτρης Στεργίου",
+      "yr": "1960",
+      "ar": "Δημήτρης Στεργίου, Τάσος Σοφόπουλος",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=3OXUWRqA3zg",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "La lamentela di Bebi",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789876348643",
       "offsets": {},
@@ -125,7 +406,7 @@
       "dr": "",
       "bal": "",
       "balgr": "",
-      "ll": "",
+      "ll": "https://www.youtube.com/watch?v=0bTgmZgIC_Q",
       "li": "",
       "ch": "Με φαρμάκι μου ποτίζεις την καρδιά\nκάθε τόσο με πληγώνης με απονιά \n\nΚαι καθόλου δεν σε νοιάζει \nτο δικό μου το μαράζι Αχ! το μαράζι\n\nΔεν με πονάει ποια, η δική σου καρδιά (x2)\n.................",
       "tr": "Me farmáki mu potízis tin kardiá\nkáthe tóso me pligónis me aponiá\nKie kathólu den se niázi\nto dikó mu to marázi\nAch! to marázi\nDen me ponái pia, i dikí su kardiá",
@@ -11091,6 +11372,13 @@
           "year": "1960",
           "note": "",
           "link": "https://www.youtube.com/watch?v=aZAl0ZF1yPo"
+        },
+        {
+          "who": "Δημήτρης Στεργίου, Ιορδάνης Τσομίδης",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=bttPwl6phfs",
+          "vid": false
         }
       ],
       "date": "2026-07-27",
@@ -11110,7 +11398,8 @@
       "no": "Dal film Mai di domenica (1960). Oscar per la migliore canzone originale.\nNello spezzone del film che trovate nel link si vede che Melina Merkouri, dopo aver messo il disco, prende una fotografia e se la mette davanti sfogliandola con occhi sognanti. E' la foto della squadra dell'Olympiakos Pireo, cioè dei ragazzi del Pireo.\n\nHo scelto di mettere nelle esecuzioni oltre all'originale i pezzi cantati in italiano, usciti tutti nel 1960 sull'onda del successo del film.",
       "alias": "",
       "dr": "",
-      "bal": "Chasàpiko"
+      "bal": "Chasàpiko",
+      "balgr": ""
     },
     {
       "id": "s_1785825417572",
@@ -11190,7 +11479,7 @@
       "title": "\"Δημήτρης Στεργίου \"Μπέμπης\": il virtuoso che non volle essere un grammofono",
       "tag": "storie di persone",
       "date": "2026-09-01",
-      "body": "Considerato da molti il più grande virtuoso del bouzouki di tutti i tempi — al pari, o secondo alcuni superiore, al rivale/amico Manolis Chiotis — Bebis appartiene all'ultima generazione dei grandi solisti del rembetiko \"classico\" (1945-1965).\nNacque da famiglia benestante: il padre Spyros, direttore della ditta \"Gkiolman\" e musicista amatoriale (violino, chitarra, mandolino) nell'orchestra del Teatro Comunale del Pireo, gli trasmise fin da piccolo una solida educazione musicale. Studiò mandolino con Nikos Maniatakis al Conservatorio del Pireo — una rarità per un bouzouktsís dell'epoca, quasi sempre autodidatta. Era tra i pochissimi bouzouxídes della sua generazione capaci di leggere la partitura musicale. Fu iscritto al Ginnasio Commerciale con l'idea di studiare giurisprudenza, ma la passione per la musica prevalse.\nNel 1940, durante la festa dei Foti, il padre annegò durante una battuta di pesca; Dimitris, allora tredicenne, si salvò solo perché all'ultimo momento non lo accompagnò. La vita della famiglia cambiò radicalmente: durante l'Occupazione fu costretto a suonare nelle taverne insieme alla sorella Marina (lui al mandolino, lei alla chitarra) per sopravvivere.\n{{img:https://musicagreca.com/images/stergioua13annimandolino.jpg|centro}}\n\nDal 1944 si dedicò professionalmente al bouzouki. Dopo la Liberazione suonò al \"Diavolos\" (via Solomou 44) — dove, secondo la tradizione orale, avrebbe cominciato a sviluppare il suo caratteristico stile da \"aristocratico-mangas\", capace di inserire con naturalezza, in mezzo a un chasápiko o una rumba, frammenti di Mozart, Albinoni o persino frasi alla Chuck Berry. Nel 1947, lavorando accanto a Polykandriotis al \"Vrachati\" del Pireo, conobbe Eleni Papadatou, che sposò nel 1954 (due figlie, Popi e Spyridoula). Lavorò poi al celebre \"Pigalé\" (1950-51) accanto a Chiotis e Takis Binis, con i primi bouzouki elettrici, e in seguito in molti altri locali storici del Pireo, di Atene e della provincia.\nLe sfide musicali tra Bebis e Chiotis, specie al \"Pigalé\" e al caffè \"Marios\" di via Ionos (Omonia), sono passate alla leggenda — combattute davanti a platee di colleghi come Tsitsanis, Batis, Zambetas, Mitsakis. Si racconta che spesso fosse \"il Santo\" (Bebis) a superare \"il Dio\" (Chiotis), soprannome scherzoso circolato tra i musicisti dell'ambiente. Chiotis stesso dichiarò una volta: \"Io suono quanto veloce posso, Bebis quanto veloce vuole\". Nel 1952, dopo un concerto ad Atene del chitarrista classico Andrés Segovia, Bebis si recò nei camerini a congratularsi e, quasi per gioco, suonò la sua chitarra: Segovia rimase a bocca aperta e volle conoscerlo personalmente.\nNonostante la fama, la sua presenza in discografia fu volutamente minima (le stime vanno dalle 20 alle 28 registrazioni totali, a seconda della fonte): diceva che non si sarebbe fatto trasformare in un grammofono, e che chi voleva sentirlo suonare doveva venire la sera al locale. Le case discografiche stesse esitavano a chiamarlo per la sua scarsa affidabilità sugli orari di incisione.\n{{img:https://musicagreca.com/images/stergioubaglamas.jpg|centro}}\n\nTra il 1959 e il 1965 visse stabilmente in America, dove diventò una leggenda nei locali greci di New York, soprannominato \"il Paganini del bouzouki\" (definizione ripresa anche dal Los Angeles Times). Apparve anche in televisione sulla CBS. Nel 1960-61 incise a New York, per la Alector Records, i due LP \"Greek Town USA\" (volumi I e II), con un gruppo che comprendeva Tasos Sofopoulos, Panagiotis Sarikas, il clarinettista Tasos Chalkias, il violinista Stelios Lazarou e il cantante Stelios Souyioultzis. Fu proprio in questo periodo che l'alcolismo, già manifestatosi dal 1958, si aggravò irreversibilmente.\n{{img:https://musicagreca.com/images/sterghiu1.jpg|centro}}\n\nTornò definitivamente in Grecia nel 1965, ma la salute era ormai compromessa. Una cartella clinica del Dromokaitio del maggio 1967 documenta un quadro di alcolismo cronico con delirium tremens. Le sue ultime apparizioni note sul palco, in gruppo con Vangelis Perpiniadis, risalgono al 1966-67, al centro \"Kefalas-Perivolas\" di Tzitzifiés.\n{{img:https://musicagreca.com/images/serata_bebis_perpiniadis_pulita.png|centro}}\n Morì la vigilia di Natale del 1972, a 45 anni, alla clinica statale di Dafní.\nUna fonte biografica importante su di lui è il libro \"Λαϊκά Πορτρέτα Ι\" del solista e ricercatore Giorgos Altis (2015), basato su testimonianze di parenti e amici, che raccoglie ritratti di più grandi solisti dell'epoca.\n________________________________________\nNota — trichordo o tetrachordo?\nLe testimonianze dirette e nominate di due musicisti che lavorarono con lui — Giannis Stamatiou \"Sporos\" e Theodoros Polykandriotis — affermano esplicitamente che Bebis restò fedele al trichordo per tutta la vita, senza mai passare al tetrachordo introdotto da Chiotis in quegli stessi anni; Sporos arriva a descriverlo come un \"difetto\" caratteriale, un attaccamento quasi ideologico allo strumento tradizionale.\nL'esame sistematico di più fotografie — scattate in contesti e momenti diversi, sul palco, in studio, in foto di gruppo — mostra tuttavia con costanza un bouzouki a otto piroli, configurazione da tetrachordo. \n{{img:https://musicagreca.com/images/gruppo_bouzouki_pulita.png|centro}}\n\nLa sistematicità del dato fotografico, indipendente dal momento dello scatto, lo rende più affidabile della memoria orale raccolta decenni dopo dagli intervistatori: è probabile che \"τρίχορδο\", nelle testimonianze, fosse usato in senso identitario e stilistico — per contrapporre Bebis, fedele allo spirito del rembetiko \"classico\", alle innovazioni \"moderne\" di Chiotis — più che come descrizione tecnica letterale dello strumento.\n________________________________________\nAneddoti e leggende\nCome spesso accade con i personaggi che uniscono genio musicale e vita autodistruttiva, attorno a Bebis è cresciuto nel tempo un vero mito popolare, alimentato da testimonianze orali, ricordi di colleghi raccolti decenni dopo, e soprattutto dal romanzo biografico \"Μπέμπης\" di Thomas Korovinis (ed. Agra, 2023) — un monologo narrativo in prima persona basato su una ricerca approfondita, ma scritto come opera letteraria. Riportiamo qui gli aneddoti più noti, segnalandoli esplicitamente come tradizione narrativa/orale piuttosto che fatto documentato.\nSi racconta che fu iniziato al bouzouki da ragazzo da un vecchio cieco microasiatico, durante una festa patronale al porto del Pireo, dove attraccavano le navi provenienti da Creta. Prima di affermarsi come musicista avrebbe lavorato di giorno come dattilografo in uno studio notarile a Plateia Kaningos.\nTra gli aneddoti americani più celebri: una sera Maria Callas sarebbe entrata nel locale newyorkese dove suonava, e lui si sarebbe alzato a suonare apposta per lei; un facoltoso stilista di Panama, invaghitosi di lui, gli avrebbe proposto di abbandonare il bouzouki per diventare modello; una lite furibonda con l'attore Telly Savalas, geloso del suo corteggiamento nei confronti della cantante Bebba Blanc, sarebbe culminata in una sfida musicale a distanza tra i due, con Savalas che alla fine lascia il locale; una notte, sempre a causa di Bebba Blanc, Sotiria Bellou avrebbe rotto una bottiglia di birra al \"Falirikon\", sfiorando la tragedia; un violento diverbio con Sevas Hanoum si sarebbe concluso, secondo il racconto, con Bebis che le rompe il bouzouki in testa.\nAl suo ritorno definitivo in Grecia nel 1965, ormai gravemente minato dall'alcolismo, sarebbe stato visto al Pireo raccogliere mozziconi da terra per fumarli, e mendicare per comprarsi alcol puro in farmacia non potendosi più permettere da bere nei locali.\n\n________________________________________\nDiscografia (ordine cronologico)\nAnno\tTitolo\tRuolo di Bebis\tAltri interpreti\tEtichetta/Note\n1946\tΤο βουνό με το βουνό\tChitarra\tManolis Chiotis (chitarra)\tPrima incisione documentata di Bebis\n1947\tΓια να βρω κλεισμένες πόρτες\tCompositore, bouzouki\tSoula Pasalari, Giannis Tatasopoulos (voce e bouzouki); testo V. Tamvakis\tPrimo brano firmato da Bebis come compositore\nnon specificato\tΠοιός μπορεί να με γλυτώσει\tBouzouki\t(Bakalis, compositore) — con Kazantzidis\t—\nnon specificato\tΈλα μανούλα γρήγορα\tBouzouki\t(Dervenioti, compositore) — con Kazantzidis\t—\nnon specificato\tΣτον απόκρημνο το βράχο\tBouzouki\tAntonis Giannakoudakis\t—\nnon specificato\tΚάτω στο Πασαλιμάνι (Γυναικομάνι)\tBouzouki\t—\t—\n1954 o marzo 1956 (fonti discordi)\tΠενιές Μπέμπη\tBouzouki solista\tGiannis Psomiadis (pianoforte)\tColumbia/HMV — sigla storica del programma \"Λαϊκοί βάρδοι\" (Panos Geramanis)\n1956\tΚαταραμένη χαραυγή\tBouzouki\tKaty Grey\t—\n1956\tΤύραννε, μαύρε τύραννε\tBouzouki\tGiota Lydia\t—\n9 luglio 1956\tΚλάψτε με φίλοι, κλάψτε με\tBouzouki\tVangelis Perpiniadis (voce, sua prima composizione); Grigoris Bithikotsis (baglamas)\tParlophone\n1960-61\tΟ χάρος\tBouzouki (esecuzione personale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\"\n1960-61\tΔεν ξαναπαίζω ζάρια πια (Τα ζάρια)\tBouzouki (esecuzione personale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\"\n1960\tBebi's Lament (Το παράπονο του Μπέμπη)\tBouzouki solista, composizione propria\tTasos Sofopoulos (secondo bouzouki)\tAlector, \"Greek Town USA\"\n1960-61\tΠοτέ την Κυριακή\tBouzouki (strumentale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\"\n1960-61\tThe White Rose of Athens\tBouzouki (strumentale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\"\n1960-61\tBelly Dancers Delight\tBouzouki (strumentale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\" vol. I/II\n1960-61\tΈλα κάνε μου παρέα (2ª esecuzione)\tBouzouki e voce\tStelios Souyioultzis (voce), Tsomidis\tAlector — 1ª esecuzione con Zagoraios\n1962\tFrederika Sings (album)\tBouzouki\tFrederiki Bikaki (voce); Dimitris Fratzeskakis (piano/fisarmonica)\tRegistrato in America\n1962 ca.\t— (disco con Kostas \"Naftis\" Papadakis)\tBouzouki (musica demotica e laika)\tKostas \"Naftis\" Papadakis\tRegistrato in America\n1963\tΔε με πονά η καρδιά σου\tBouzouki (trichordo, secondo i crediti scritti)\tM. Karachaliou, Kostas Politis; Stelios Zafeiriou (bouzouki); Stelios Chrysinis (chitarra e direzione)",
+      "body": "Considerato da molti il più grande virtuoso del bouzouki di tutti i tempi — al pari, o secondo alcuni superiore, al rivale/amico Manolis Chiotis — Bebis appartiene all'ultima generazione dei grandi solisti del rembetiko \"classico\" (1945-1965).\nNacque da famiglia benestante: il padre Spyros, direttore della ditta \"Gkiolman\" e musicista amatoriale (violino, chitarra, mandolino) nell'orchestra del Teatro Comunale del Pireo, gli trasmise fin da piccolo una solida educazione musicale. Studiò mandolino con Nikos Maniatakis al Conservatorio del Pireo — una rarità per un bouzouktsís dell'epoca, quasi sempre autodidatta. Era tra i pochissimi bouzouxídes della sua generazione capaci di leggere la partitura musicale. Fu iscritto al Ginnasio Commerciale con l'idea di studiare giurisprudenza, ma la passione per la musica prevalse.\nNel 1940, durante la festa dei Foti, il padre annegò durante una battuta di pesca; Dimitris, allora tredicenne, si salvò solo perché all'ultimo momento non lo accompagnò. La vita della famiglia cambiò radicalmente: durante l'Occupazione fu costretto a suonare nelle taverne insieme alla sorella Marina (lui al mandolino, lei alla chitarra) per sopravvivere.\n{{img:https://musicagreca.com/images/stergioua13annimandolino.jpg|centro}}\n\nDal 1944 si dedicò professionalmente al bouzouki. Dopo la Liberazione suonò al \"Diavolos\" (via Solomou 44) — dove, secondo la tradizione orale, avrebbe cominciato a sviluppare il suo caratteristico stile da \"aristocratico-mangas\", capace di inserire con naturalezza, in mezzo a un chasápiko o una rumba, frammenti di Mozart, Albinoni o persino frasi alla Chuck Berry. Nel 1947, lavorando accanto a Polykandriotis al \"Vrachati\" del Pireo, conobbe Eleni Papadatou, che sposò nel 1954 (due figlie, Popi e Spyridoula). Lavorò poi al celebre \"Pigalé\" (1950-51) accanto a Chiotis e Takis Binis, con i primi bouzouki elettrici, e in seguito in molti altri locali storici del Pireo, di Atene e della provincia.\nLe sfide musicali tra Bebis e Chiotis, specie al \"Pigalé\" e al caffè \"Marios\" di via Ionos (Omonia), sono passate alla leggenda — combattute davanti a platee di colleghi come Tsitsanis, Batis, Zambetas, Mitsakis. Si racconta che spesso fosse \"il Santo\" (Bebis) a superare \"il Dio\" (Chiotis), soprannome scherzoso circolato tra i musicisti dell'ambiente. Chiotis stesso dichiarò una volta: \"Io suono quanto veloce posso, Bebis quanto veloce vuole\". Nel 1952, dopo un concerto ad Atene del chitarrista classico Andrés Segovia, Bebis si recò nei camerini a congratularsi e, quasi per gioco, suonò la sua chitarra: Segovia rimase a bocca aperta e volle conoscerlo personalmente.\nNonostante la fama, la sua presenza in discografia fu volutamente minima (le stime vanno dalle 20 alle 28 registrazioni totali, a seconda della fonte): diceva che non si sarebbe fatto trasformare in un grammofono, e che chi voleva sentirlo suonare doveva venire la sera al locale. Le case discografiche stesse esitavano a chiamarlo per la sua scarsa affidabilità sugli orari di incisione.\n{{img:https://musicagreca.com/images/stergioubaglamas.jpg|centro}}\n\nTra il 1959 e il 1965 visse stabilmente in America, dove diventò una leggenda nei locali greci di New York, soprannominato \"il Paganini del bouzouki\" (definizione ripresa anche dal Los Angeles Times). Apparve anche in televisione sulla CBS. Nel 1960-61 incise a New York, per la Alector Records, i due LP \"Greek Town USA\" (volumi I e II), con un gruppo che comprendeva Tasos Sofopoulos, Panagiotis Sarikas, il clarinettista Tasos Chalkias, il violinista Stelios Lazarou e il cantante Stelios Souyioultzis. Fu proprio in questo periodo che l'alcolismo, già manifestatosi dal 1958, si aggravò irreversibilmente.\n{{img:https://musicagreca.com/images/sterghiu1.jpg|centro}}\n\nTornò definitivamente in Grecia nel 1965, ma la salute era ormai compromessa. Una cartella clinica del Dromokaitio del maggio 1967 documenta un quadro di alcolismo cronico con delirium tremens. Le sue ultime apparizioni note sul palco, in gruppo con Vangelis Perpiniadis, risalgono al 1966-67, al centro \"Kefalas-Perivolas\" di Tzitzifiés.\n{{img:https://musicagreca.com/images/serata_bebis_perpiniadis_pulita.png|centro}}\n Morì la vigilia di Natale del 1972, a 45 anni, alla clinica statale di Dafní.\nUna fonte biografica importante su di lui è il libro \"Λαϊκά Πορτρέτα Ι\" del solista e ricercatore Giorgos Altis (2015), basato su testimonianze di parenti e amici, che raccoglie ritratti di più grandi solisti dell'epoca.\n________________________________________\nNota — trichordo o tetrachordo?\nLe testimonianze dirette e nominate di due musicisti che lavorarono con lui — Giannis Stamatiou \"Sporos\" e Theodoros Polykandriotis — affermano esplicitamente che Bebis restò fedele al trichordo per tutta la vita, senza mai passare al tetrachordo introdotto da Chiotis in quegli stessi anni; Sporos arriva a descriverlo come un \"difetto\" caratteriale, un attaccamento quasi ideologico allo strumento tradizionale.\nL'esame sistematico di più fotografie — scattate in contesti e momenti diversi, sul palco, in studio, in foto di gruppo — mostra tuttavia con costanza un bouzouki a otto piroli, configurazione da tetrachordo. \n{{img:https://musicagreca.com/images/gruppo_bouzouki_pulita.png|centro}}\n\nLa sistematicità del dato fotografico, indipendente dal momento dello scatto, lo rende più affidabile della memoria orale raccolta decenni dopo dagli intervistatori: è probabile che \"τρίχορδο\", nelle testimonianze, fosse usato in senso identitario e stilistico — per contrapporre Bebis, fedele allo spirito del rembetiko \"classico\", alle innovazioni \"moderne\" di Chiotis — più che come descrizione tecnica letterale dello strumento.\n________________________________________\nAneddoti e leggende\nCome spesso accade con i personaggi che uniscono genio musicale e vita autodistruttiva, attorno a Bebis è cresciuto nel tempo un vero mito popolare, alimentato da testimonianze orali, ricordi di colleghi raccolti decenni dopo, e soprattutto dal romanzo biografico \"Μπέμπης\" di Thomas Korovinis (ed. Agra, 2023) — un monologo narrativo in prima persona basato su una ricerca approfondita, ma scritto come opera letteraria. Riportiamo qui gli aneddoti più noti, segnalandoli esplicitamente come tradizione narrativa/orale piuttosto che fatto documentato.\nSi racconta che fu iniziato al bouzouki da ragazzo da un vecchio cieco microasiatico, durante una festa patronale al porto del Pireo, dove attraccavano le navi provenienti da Creta. Prima di affermarsi come musicista avrebbe lavorato di giorno come dattilografo in uno studio notarile a Plateia Kaningos.\nTra gli aneddoti americani più celebri: una sera Maria Callas sarebbe entrata nel locale newyorkese dove suonava, e lui si sarebbe alzato a suonare apposta per lei; un facoltoso stilista di Panama, invaghitosi di lui, gli avrebbe proposto di abbandonare il bouzouki per diventare modello; una lite furibonda con l'attore Telly Savalas, geloso del suo corteggiamento nei confronti della cantante Bebba Blanc, sarebbe culminata in una sfida musicale a distanza tra i due, con Savalas che alla fine lascia il locale; una notte, sempre a causa di Bebba Blanc, Sotiria Bellou avrebbe rotto una bottiglia di birra al \"Falirikon\", sfiorando la tragedia; un violento diverbio con Sevas Hanoum si sarebbe concluso, secondo il racconto, con Bebis che le rompe il bouzouki in testa.\nAl suo ritorno definitivo in Grecia nel 1965, ormai gravemente minato dall'alcolismo, sarebbe stato visto al Pireo raccogliere mozziconi da terra per fumarli, e mendicare per comprarsi alcol puro in farmacia non potendosi più permettere da bere nei locali.\n\n________________________________________\nAnno\tTitolo\tRuolo di Bebis\tAltri interpreti\tEtichetta/Note\n1946\tΤο βουνό με το βουνό\tChitarra\tManolis Chiotis (chitarra)\tPrima incisione documentata di Bebis\n1947\tΓια να βρω κλεισμένες πόρτες\tCompositore, bouzouki\tSoula Pasalari, Giannis Tatasopoulos (voce e bouzouki); testo V. Tamvakis\tPrimo brano firmato da Bebis come compositore\n1947\tΚάτω στο Πασαλιμάνι\tEsecutore (bouzouki)\t—\tLaikà\nnon specificato\tΠοιός μπορεί να με γλυτώσει\tBouzouki\t(Bakalis, compositore) — con Kazantzidis\t—\nnon specificato\tΣτον απόκρημνο το βράχο\tBouzouki\tAntonis Giannakoudakis\t—\n1954 o marzo 1956 (fonti discordi)\tΠενιές Μπέμπη\tBouzouki solista\tGiannis Psomiadis (pianoforte)\tColumbia/HMV — sigla storica del programma \"Λαϊκοί βάρδοι\" (Panos Geramanis)\n1956\tΑπ' τα πολλά χτυπήματα\tEsecutore (bouzouki)\t—\tLaikà\n1956\tΒαρέθηκα το άδικο\tEsecutore (bouzouki)\t—\tLaikà\n1956\tΓεια σου Πειραιά αθάνατε\tEsecutore (bouzouki)\t—\tLaikà\n1956\tΈλα μανούλα γρήγορα\tBouzouki\t(Dervenioti, compositore) — con Kazantzidis\t—\n1956\tΚαταραμένη χαραυγή\tBouzouki\tKaty Grey\t—\n1956\tΚλάψτε τη μάνα του παιδιού\tEsecutore (bouzouki)\t—\tLaikà — testo completo non reperito\n1956\tΤύραννε, μαύρε τύραννε\tBouzouki\tGiota Lydia\t—\n9 luglio 1956\tΚλάψτε με φίλοι, κλάψτε με\tBouzouki\tVangelis Perpiniadis (voce, sua prima composizione); Grigoris Bithikotsis (baglamas)\tParlophone\n1960\tBebi's Lament (Το παράπονο του Μπέμπη)\tBouzouki solista, composizione propria\tTasos Sofopoulos (secondo bouzouki)\tAlector, \"Greek Town USA\"\n1960-61\tΟ χάρος\tBouzouki (esecuzione personale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\"\n1960-61\tΔεν ξαναπαίζω ζάρια πια (Τα ζάρια)\tBouzouki (esecuzione personale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\"\n1960-61\tΠοτέ την Κυριακή\tBouzouki (strumentale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\"\n1960-61\tThe White Rose of Athens\tBouzouki (strumentale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\"\n1961\tΤσιφτετέλι (Belly Dancers Delight)\tBouzouki (strumentale)\tThe Alector Anatolian Ensemble\tAlector, \"Greek Town USA\" vol. I/II\n1960-61\tΈλα κάνε μου παρέα (2ª esecuzione)\tBouzouki e voce\tStelios Souyioultzis (voce), Tsomidis\tAlector — 1ª esecuzione con Zagoraios\n1962\tFrederika Sings (album)\tBouzouki\tFrederiki Bikaki (voce); Dimitris Fratzeskakis (piano/fisarmonica)\tRegistrato in America\n1962 ca.\t— (disco con Kostas \"Naftis\" Papadakis)\tBouzouki (musica demotica e laika)\tKostas \"Naftis\" Papadakis\tRegistrato in America\n1963\tΔεν με πονά η καρδιά σου\tBouzouki (trichordo, secondo i crediti scritti)\tM. Karachaliou, Kostas Politis; Stelios Zafeiriou (bouzouki); Stelios Chrysinis (chitarra e direzione)\tPolydor NHH 54719 B, 26 marzo — forse una delle ultime incisioni di Bebis",
       "link": ""
     },
     {
@@ -11787,13 +12076,14 @@
       "born": "1903 Preveza Epiro",
       "died": "1970",
       "nat": "",
-      "bio": "Mìnos Màtsas (1903-1970) è stato un paroliere, compositore e dirigente discografico greco specializzato in rebetiko.\nNacque a Preveza, in Epiro, Grecia, nel 1903, in una famiglia ebrea romaniota originaria di Ioannina. Nei suoi primi anni, Minos Matsas scrisse testi e musiche per canzoni rebetiko, spesso con lo pseudonimo di \"Tsamas\", invertendo le sillabe del suo nome, con un successo relativamente modesto. Alcuni dei suoi testi più famosi sono: To Minore tis Avgis (Το Μινόρε της Αυγής), O Andonis o Varkaris (Ο Αντώνης ο Βαρκάρης, O Zorikos (Ο Ζόρικος). Il suo successo arrivò più tardi nella vita come dirigente dell'Odeon-Parlophon dove ebbe molto successo scoprendo e ingaggiando nuovi talenti.\nEssendo ebreo, Minos Matsas trascorse gli anni della guerra e dell'occupazione tedesca nascondendosi nella casa del collega compositore rebetika Yiannis Papaioannou\n\n. Μάτσας (και Υιός), il \"figlio\" essendo Makis Matsas che ha seguito l'esempio del padre. Makis Matsas è attualmente il presidente di Minos-Emi Greece.",
+      "bio": "Mìnos Màtsas (1903-1970) è stato un paroliere, compositore e dirigente discografico greco specializzato in rebetiko.\nNacque a Preveza, in Epiro, Grecia, nel 1903, in una famiglia ebrea romaniota originaria di Ioannina. Nei suoi primi anni, Minos Matsas scrisse testi e musiche per canzoni rebetiko, con il suo nome o spesso con altri nove pseudonimi tra cui ricordiamo  \"Tsamas\", invertendo le sillabe del suo nome, e Pipitsa Oikonomou (dal nome variato di una sua impiegata, Pipitsa Papaoikonomou, con un successo relativamente modesto. Alcuni dei suoi testi più famosi sono: To Minore tis Avgis (Το Μινόρε της Αυγής), O Andonis o Varkaris (Ο Αντώνης ο Βαρκάρης, O Zorikos (Ο Ζόρικος). Il suo successo arrivò più tardi nella vita come dirigente dell'Odeon-Parlophon dove ebbe molto successo scoprendo e ingaggiando nuovi talenti.\nEssendo ebreo, Minos Matsas trascorse gli anni della guerra e dell'occupazione tedesca nascondendosi nella casa del collega compositore rebetika Yiannis Papaioannou\n\nΜάτσας (και Υιός), il \"figlio\" essendo Makis Matsas che ha seguito l'esempio del padre. Makis Matsas è attualmente il presidente di Minos-Emi Greece.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/matsas.jpg",
       "roles": [
         "at"
-      ]
+      ],
+      "instr": ""
     },
     {
       "id": "p_1785409392986",
@@ -12456,8 +12746,10 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/bakalis.jpg",
       "roles": [
+        "at",
         "am"
-      ]
+      ],
+      "instr": ""
     },
     {
       "id": "p_1785739102083",
@@ -12537,16 +12829,16 @@
       "nameit": "Spìros Peristèris",
       "born": "1900 Smirne",
       "died": "15 marzo 1966 Atene",
-      "bio": "Nacque da padre greco e madre italiana. Imparò a suonare fin da giovane il mandolino e finì la scuola italiana quando la sua famiglia si stabilì a Costantinopoli nel 1915. Parlava correntemente italiano e tedesco.\nDopo la morte di Vasilios Sideris, nel 1918, tornò a Smirne e assunse, all'età di 18 anni, la responsabilità di Smirneica Estudiantina, che era diventata famosa in tutta Europa e divenne nota con il nome di \"Ta Politakia\". Questo titolo fu usato nei primi anni 1930, quando suonava nell'orchestra del transatlantico \"Alexander il Grande\", registrò alcuni pezzi strumentali negli Stati Uniti,con il nome d'arte di S. Georgiadis. La sua apparizione in discografia avviene nel 1927. \nSpiros Peristeris fu l'uomo che quasi costrinse Markos Vamvakaris a registrare la sua voce quando nel 1933 la prima registrazione bouzouki commerciale ebbe luogo su vinile. Essendo polistrumentista, suono in molte registrazioni di canzoni di Vamvakaris. Alcune canzoni trovate a suo nome (musica) e Minos Matsa (testo) sono composizioni di altri artisti principalmente di Markos Vamvakaris per problemi di registrazione dei diritti. Peristeris ha suonato in modo eccellente tutti gli strumenti a corda con tasti, pianoforte, fisarmonica e κοντραμπάσοcontrabbasso.\n\nSi sposò nel 1921 e ebbe due figli Argyris e Dimitris.",
+      "bio": "Nacque da padre greco e madre italiana. Imparò a suonare fin da giovane il mandolino e finì la scuola italiana quando la sua famiglia si stabilì a Costantinopoli nel 1915. Parlava correntemente italiano e tedesco.\nDopo la morte di Vasilios Sideris, nel 1918, tornò a Smirne e assunse, all'età di 18 anni, la responsabilità di Smirneica Estudiantina, che era diventata famosa in tutta Europa e divenne nota con il nome di \"Ta Politakia\". Questo titolo fu usato nei primi anni 1930, quando suonava nell'orchestra del transatlantico \"Alexander il Grande\", registrò alcuni pezzi strumentali negli Stati Uniti,con il nome d'arte di S. Georgiadis. La sua apparizione in discografia avviene nel 1927. \nSpiros Peristeris fu l'uomo che quasi costrinse Markos Vamvakaris a registrare la sua voce quando nel 1933 la prima registrazione bouzouki commerciale ebbe luogo su vinile. Essendo polistrumentista, suono in molte registrazioni di canzoni di Vamvakaris. Alcune canzoni trovate a suo nome (musica) e Minos Matsa (testo) sono composizioni di altri artisti principalmente di Markos Vamvakaris per problemi di registrazione dei diritti. Peristeris ha suonato in modo eccellente tutti gli strumenti a corda con tasti, pianoforte, fisarmonica e contrabbasso.\n\nSi sposò nel 1921 e ebbe due figli Argyris e Dimitris.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/peristeris.jpg",
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "mandolino, chitarra, bouzouki, baglamas, pianoforte, fisarmonica, contrabbasso"
     },
     {
       "id": "p_1785754360425",
@@ -12587,13 +12879,14 @@
       "nameit": "Charálampos Vasiliádis",
       "born": "1907, Erénkiöy (odierna Çanakkale, Turchia — Troade, Asia Minore)",
       "died": "16 maggio 1970, Nea Filadélfia, Atene",
-      "bio": "Charálampos Vasiliádis, detto \"Τσάντας\" (Tsántas)\n\nNato a Erénkiöy nella Troade nel 1907, a sette anni si trasferì ad Atene, dove studiò alla Scuola Leonteios. Fu traduttore professionista e poliglotta, con conoscenza di inglese, francese, italiano e tedesco; lavorò anche presso il Ministero della Marina. \n\nÈ considerato uno dei più importanti parolieri della canzone popolare greca: i suoi testi restano pietre miliari della tradizione musicale del paese, capaci di attraversare gli anni rimanendo unici e insuperati, per l'immediatezza, la semplicità, il caymós (la pena) amoroso e uno sguardo saggio e insieme allegro sulla vita.\n\nFu soprannominato \"Τσάντας\" (letteralmente \"la Borsa\") dai vecchi rebetes che lo conobbero in un locale, in particolare da Strátos Payoumtzís — che poi lo presentò a Yórgos Zabétas — perché portava sempre con sé una borsa piena di testi, che offriva ai compositori dell'epoca, a pagamento o gratuitamente. Zabétas lo chiamava \"padre\", e lui considerava Zabétas come un \"figlio\". \n\nScriveva ovunque: sui pacchetti di sigarette, sui tovaglioli di carta, ispirato da un gabbiano, un tramonto, una carrozza che vedeva scomparire nella pioggia. Secondo il paroliere Vírvos, prima del suo ingresso nel mondo discografico, gli unici parolieri professionisti del genere laiko erano proprio Vasiliádis ed Eftychía Papayannopoúlou. \n\nCompose circa 2.000 canzoni nel corso della sua carriera.",
+      "bio": "Charálampos Vasiliádis, detto \"Τσάντας\" (Tsántas)\nalias Vasilis Tamvakis (Βασίλης Ταμβάκης)\n\nNato a Erénkiöy nella Troade nel 1907, a sette anni si trasferì ad Atene, dove studiò alla Scuola Leonteios. Fu traduttore professionista e poliglotta, con conoscenza di inglese, francese, italiano e tedesco; lavorò anche presso il Ministero della Marina. \n\nÈ considerato uno dei più importanti parolieri della canzone popolare greca: i suoi testi restano pietre miliari della tradizione musicale del paese, capaci di attraversare gli anni rimanendo unici e insuperati, per l'immediatezza, la semplicità, il caymós (la pena) amoroso e uno sguardo saggio e insieme allegro sulla vita.\n\nFu soprannominato \"Τσάντας\" (letteralmente \"la Borsa\") dai vecchi rebetes che lo conobbero in un locale, in particolare da Strátos Payoumtzís — che poi lo presentò a Yórgos Zabétas — perché portava sempre con sé una borsa piena di testi, che offriva ai compositori dell'epoca, a pagamento o gratuitamente. Zabétas lo chiamava \"padre\", e lui considerava Zabétas come un \"figlio\". \n\nScriveva ovunque: sui pacchetti di sigarette, sui tovaglioli di carta, ispirato da un gabbiano, un tramonto, una carrozza che vedeva scomparire nella pioggia. Secondo il paroliere Vírvos, prima del suo ingresso nel mondo discografico, gli unici parolieri professionisti del genere laiko erano proprio Vasiliádis ed Eftychía Papayannopoúlou. \n\nCompose circa 2.000 canzoni nel corso della sua carriera.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/vasiliadis.jpg",
       "roles": [
         "at"
-      ]
+      ],
+      "instr": ""
     },
     {
       "id": "p_1785759388744",
@@ -13846,9 +14139,9 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/tatasopulos.jpg",
       "roles": [
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "bouzouki, oud, chitarra, voce"
     },
     {
       "id": "p_1786718515761",
@@ -16034,9 +16327,11 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/derveniotis.jpg",
       "roles": [
+        "at",
         "am",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": ""
     },
     {
       "id": "p_1788701169498",
@@ -16824,6 +17119,7 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/sterghiu.jpg",
       "roles": [
+        "am",
         "ar"
       ],
       "instr": ""
@@ -16871,7 +17167,8 @@
       "photo": "",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": ""
     },
     {
       "id": "p_1789788614715",
@@ -17010,6 +17307,81 @@
         "ar"
       ],
       "instr": "violino"
+    },
+    {
+      "id": "p_1789886123177",
+      "name": "Τάσος Σοφόπουλος",
+      "nameit": "Tásos Sofópoulos",
+      "born": "1934, Atene (quartiere Kato Petralona)",
+      "died": "18 novembre 2012, Atene",
+      "bio": "Virtuoso del bouzouki cresciuto in un quartiere operaio di Atene, tra le condizioni durissime dell'Occupazione. Il suo primo bouzouki, comprato coi propri risparmi, gli fu spaccato dal padre nel tentativo di \"proteggerlo\" — ma il destino musicale era ormai segnato. Iniziò suonando a matrimoni, battesimi e feste patronali, entrando presto in contatto con i grandi dell'epoca — Markos Vamvakaris, Giannis Papaioannou, Stavros Tzouanakos, Giorgos Tsimpidis.\n\nNel 1958 partì per l'America, dove restò per decenni, girando in tournée quasi tutti gli stati (San Francisco, Las Vegas, Chicago, New York) fino alle Hawaii e al Canada. A New York ebbe il privilegio di suonare, come secondo bouzouki, nelle storiche registrazioni con Dimitris Stergiou \"Bebis\" (in \"Bebi's Lament\" e \"Έλα κάνε μου παρέα\"), e baglamas in \"Κουβέντα με το Χάρο\" e \"Παστουρμά\", per la Alector Records. Registrò anche con Iordanis Tsomidis, Stavros Tzouanakos e Argyris Vamvakaris — con questi ultimi due incise quattro pezzi strumentali rimasti famosi: \"Σιλβάνα\" (Chiotis), \"Αραπίνες/Νύχτες μαγικές\" (Tsitsanis), \"Ο μαχαραγιάς\" (Tzouanakos) e \"Μισιρλού\".\n\nIn America collaborò anche con Anestis Athanasiou \"Gyftos\", Charis Lemonopoulos, Panagiotis Sarikas, Sotiris Kalymnakis, Stelios Lazarou, Tasos Chalkias, Stelios Souyioultzis, Takis Binis, Sevas Hanoum, Betty Daskalaki, Poly Panou. Nel 1964 suonò per la festa di lancio del film Zorba il Greco con Anthony Quinn al ristorante \"Athena\" di New York; nel 1967 lo troviamo al \"Grecian Room\" di Seal Beach, California. Il suo soprannome tra i colleghi era \"Farouk\".\n\nTornò in Grecia nel 1989-90 con una piccola pensione americana, scegliendo una vita appartata, lontana dai riflettori: suonava saltuariamente in piccole taverne, in particolare al Kolonos con Tolis Charmas. Nel 2007 fece alcune apparizioni straordinarie al \"Μπαράκι του Βασίλη\"; l'ultima esibizione pubblica, prima che i problemi di salute lo sopraffacessero, fu il 15 dicembre 2011, in una serata a lui dedicata. Morì nel sonno, all'alba di domenica 18 novembre 2012.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/sofopulos.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "bouzouki"
+    },
+    {
+      "id": "p_1789887595862",
+      "name": "Σούλα Πασαλάρη",
+      "nameit": "Soúla Pasalári",
+      "born": "scono1925, Kalamata",
+      "died": "sconosciuto",
+      "bio": "Vero nome: Αναστασία Βρυώνη (Anastasía Vryóni)\n\nFirmò un contratto con la Columbia nel 1936, esordendo in discografia nel 1937 sotto il nome di Tasia Vryoni, con \"Μ' αυτά τα μάτια\" (musica P. Tountas). Cantante di repertorio demotico e laiko. Nel 1947 partecipò, insieme a Giannis Tatasopoulos, alla registrazione di \"Για να βρω κλεισμένες πόρτες\", primo brano composto da Dimitris Stergiou \"Bebis\". Incise inoltre per la His Master's Voice il syrto \"Η Κρυστάλλω\", insieme a Stellakis (catalogo HMV AO. 2744), e per la Fidelity \"Οι Αξέχαστες Βραδιές\" (testo Ch. Vasileiadis, musica G. Lavkas), insieme a G. Lavkas e F. Agriniotis, con orchestra diretta da S. Kamenidis (catalogo FG 017). Altre interpretazioni note includono \"Μαράθηκα ο καημένος\" e \"Κακιά γειτόνισσα\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/pasalari.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": ""
+    },
+    {
+      "id": "p_1789889135499",
+      "name": "Κώστας Φραγκούλης",
+      "nameit": "Kóstas Fragoúlis",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Paroliere. Scrisse il testo di \"Δεν ξαναπαίζω ζάρια πια\" (musica di Vangelis Perpiniadis), portato per primo al disco da Dimitris Stergiou \"Bebis\" in America (1960-61, Alector Records), poi reinciso da Perpiniadis stesso nel 1963.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "at"
+      ],
+      "instr": ""
+    },
+    {
+      "id": "p_1789894844937",
+      "name": "Στέλιος Σουγιουλτζής",
+      "nameit": "Stélios Soughioultzís",
+      "born": "1926, Pireo",
+      "died": "1983, Atene",
+      "bio": "Cantante e chitarrista, esordì professionalmente nel 1950. Fu amico intimo di Dimitris Stergiou \"Bebis\" — secondo una testimonianza raccolta sul forum Rembetiko (da un cognato di Souyioultzis), fu praticamente lui a prendersi cura di Bebis negli ultimi anni della sua vita. Insieme a Bebis, Iordanis Tsomidis, Sevas Hanoum e altri, si trasferì in America nel 1959, dove restò fino al 1974.\n\nAveva una bella voce popolare, matura, tipica della sua epoca, con un buon \"sigondo\" (seconda voce/accompagnamento). Nonostante gli inizi promettenti, non riuscì a costruirsi un grande nome: una delle sue figlie nacque affetta da poliomielite, e Soughioultzis si dedicò completamente a lei, abbandonando la carriera e arrivando a vendere le proprietà di famiglia (tra cui la casa a Kifissia, in seguito acquistata da Ria Kourti) per affrontare le spese.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/sughiultzis.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "chitarra, voce"
+    },
+    {
+      "id": "p_1789907974851",
+      "name": "Ιορδάνης Τσομίδης",
+      "nameit": "Iordánis Tsomídis",
+      "born": "1933, Kokkinia (Pireo), da famiglia di profughi originari di Samsun (Ponto)",
+      "died": "2006",
+      "bio": "detto  \"Jordan\" / \"Τζόρνταν\"\n\n\n\n\nFiglio di un calzolaio, imparò a sua volta il mestiere del padre da piccolo. A 12 anni cominciò a studiare bouzouki e violino, iniziando quasi subito a esibirsi come bambino prodigio in piccoli teatri; poco dopo iniziò già a dare lezioni ad altri ragazzini.\n\nIl suo primo disco come cantante (non solo strumentista) fu un zeimbekiko del 1954, \"Βάστα πονεμένο μου κορμί\", composizione del maestro Gerasimos Klouvatos, insieme a Katy Grey — con Klouvatos stesso al bouzouki e Stelios Chrysinis alla chitarra e direzione d'orchestra,\n\nNel 1957, come molti altri virtuosi bouzouxídes della sua generazione, partì per l'America. Vi restò come musicista girovago per circa 15 anni, lavorando a New York, Los Angeles, San Francisco, Las Vegas, Chicago e altre grandi città americane, collaborando con artisti greci e stranieri di rilievo e conquistandosi un pubblico fedele sia tra i greci della diaspora sia tra gli americani. Fu descritto come un \"λίμπερο\" (libero/jolly) capace di suonare qualunque cosa gli venisse richiesta, mai due volte allo stesso modo — un musicista noto per l'improvvisazione e la varietà dei suoi taxímia, qualità che lo distingueva dai colleghi.\n\nTra i suoi successi commerciali americani, un disco di canzoni americane riarrangiate in ritmi greci, con il sassofono di un certo Woods e il suo bouzouki, dal titolo \"Greek Cooking\", che vendette moltissimo.\n\nTornato in Grecia negli anni '80, si ritirò quasi completamente dalle scene, vivendo isolato; si esibiva solo raramente, a Chalkida e nel quartiere di Exarchia, suscitando sempre l'entusiasmo dei più giovani quando lo faceva.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/tsomidis.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "bouzouki, voce"
     }
   ]
 }
