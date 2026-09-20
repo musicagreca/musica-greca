@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-20T14:51:28.049Z",
+  "exportedAt": "2026-09-20T17:49:22.191Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
@@ -9353,6 +9353,13 @@
           "year": "1960",
           "note": "USA",
           "link": "https://www.youtube.com/watch?v=HFte_EW9UAc&list=PLDE73A080B8F6853A",
+          "vid": false
+        },
+        {
+          "who": "Danny Kaye, Harry Belafonte, Νάνα Μούσχουρη",
+          "year": "1965",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=TJLt8eDbSr4",
           "vid": false
         }
       ],
