@@ -1,8 +1,202 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-20T12:56:34.374Z",
+  "exportedAt": "2026-09-20T14:51:28.049Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789915856909",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Βαγγέλης Περπινιάδης, Δημήτρης Στεργίου",
+          "year": "1956",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=yYzYIPCtE8Q",
+          "vid": false
+        },
+        {
+          "who": "Πρόδρομος Τσαουσάκης, Μαρία Γρίλλη",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=9IJ9mBf8h7Y",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-20",
+      "tgr": "Κλάψτε με φίλοι, κλάψτε με",
+      "tit": "Klàpste me fìli, klàpste me",
+      "alias": "",
+      "at": "Γιάννης Κυριαζής",
+      "am": "Γιάννης Κυριαζής",
+      "yr": "1953",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Κλάψτε με τώρα ζωντανό\nΠροτού να ξεψυχήσω\nΚαι φέρτε την αγάπη μου\nΓια να την χαιρετήσω\nΚλάψτε με φίλοι κλάψτε με\nΚαι εσείς εχθροί χαρείτε\nΠου φεύγω πια απ’ τη ζωή\nΔε θα με ξαναδείτε\nΚλάψε και συ μανούλα μου\nΤον αποχωρισμό μου\nΚαι να έρχεσαι να με φιλάσ\nΣτον ύπνο τον γλυκό μου",
+      "tr": "Klàpste me fìli, klàpste me\n\nKlàpste me tòra zondanò\nProtù na ksepsichìso\nKe fèrte tin aghàpi mu\nGhia na tin cheretìso\n\nKlàpste me fìli klàpste me\nKe esìs echthrì charìte\nPu fèvgho pia ap' ti zoì\nDe tha me ksanadìte\n\nKlàpse ke si manùla mu\nTon apochorismò mu\nKe na èrchese na me filàs\nSton ìpno ton glikò mu",
+      "ti": "Piangetemi ora amici, piangetemi\n\nPiangetemi ora che sono ancora vivo,\nprima che io esali l'ultimo respiro¹,\ne portatemi il mio amore,\naffinché io possa salutarla\n\nPiangetemi, amici, piangetemi,\ne voi nemici, gioite,\nche me ne vado ormai dalla vita,\nnon mi rivedrete più\n\nPiangi anche tu, mammina mia,\nil mio distacco²,\ne vieni a baciarmi\nnel mio dolce sonno³\n\nNote\n\nΞεψυχήσω – da \"ξεψυχώ\" (esalare l'ultimo respiro, morire); espressione poetica tradizionale per indicare il momento della morte.\nΑποχωρισμός – \"distacco, separazione\"; qui riferito alla separazione definitiva dalla madre a causa della morte, tema centrale dei canti funebri popolari greci (μοιρολόγια).\nΣτον ύπνο τον γλυκό μου (\"nel mio dolce sonno\") – eufemismo poetico per la morte, paragonata a un sonno pacifico e dolce; immagine consolatoria tipica della tradizione popolare per attenuare la durezza della fine della vita.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789914328698",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-20",
+      "tgr": "Τύραννε μαύρε τύραννε",
+      "tit": "Tìrane màvre tìrane",
+      "alias": "",
+      "at": "Μπάμπης Μπακάλης",
+      "am": "Μπάμπης Μπακάλης",
+      "yr": "1956",
+      "ar": "Γιώτα Λύδια, Στέλιος Καζαντζίδης, Δημήτρης Στεργίου",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=JaOy-ndjMbY",
+      "li": "",
+      "ch": "Τύραννε μαύρε τύραννε\nΣ’ έχω βαριά μισήσει\nΤα μαύρα σου μαρτύρια\nΜ’ έχουν αγανακτήσει\n\nΤύραννε μες στα χέρια σου\nΟι πίκρες θα με φάνε\nΟι σκλάβες τησ ανατολής\nΚαλύτερα περνάνε\n\nΤύραννε από δω κι εμπρός\nΔεν πρόκειται να κλάψω\nΚι αν μου ανάψεισ μια φωτιά\nΔέκα θα σου ανάψω\n\nΤύραννε μεσ στα χέρια σου\nΟι πίκρες θα με φάνε\nΟι σκλάβες τησ ανατολής\nΚαλύτερα περνάνε\n\nΉρθε η ώρα κι η στιγμή\nΣτη μάνα μου να πάω\nΓια να γλιτώσω απ’ τη σκλαβιά\nΝα πάψω να πονάω\n\nΤύραννε μεσ στα χέρια σου\nΟι πίκρες θα με φάνε\nΟι σκλάβες τησς ανατολής\nΚαλύτερα περνάνε",
+      "tr": "Tìrane màvre tìrane\n\nTìrane màvre tìrane\nS'écho varià misìsi\nTa màvra su martìria\nM'échun aghanaktìsi\n\nTìrane mes sta chèria su\nI pìkres tha me fàne\nI sklàves tis anatolìs\nKalìtera pernàne\n\nTìrane apò do ki embròs\nDen pròkite na klàpso\nKi an mu anàpsis mia fotià\nDèka tha su anàpso\n\nTìrane mes sta chèria su\nI pìkres tha me fàne\nI sklàves tis anatolìs\nKalìtera pernàne\n\nÌrthe i òra ki i stighmì\nSti màna mu na pào\nGhia na ghlitòso ap' ti sklavià\nNa pàpso na ponào\n\nTìrane mes sta chèria su\nI pìkres tha me fàne\nI sklàves tis anatolìs\nKalìtera pernàne",
+      "ti": "Tiranno nero tiranno\n\nTiranno nero¹, tiranno,\nti ho odiato profondamente,\ni tuoi neri martiri²\nmi hanno esasperato\n\nTiranno, tra le tue mani\nle amarezze mi divoreranno,\nle schiave dell'Oriente³\nse la passano meglio\n\nTiranno, da qui in avanti\nnon piangerò più,\ne se tu mi accendi un fuoco,\nio te ne accenderò dieci\n\nTiranno, tra le tue mani\nle amarezze mi divoreranno,\nle schiave dell'Oriente\nse la passano meglio\n\nÈ arrivata l'ora e il momento\ndi tornare da mia madre,\nper liberarmi dalla schiavitù⁴,\nper smettere di soffrire\n\nTiranno, tra le tue mani\nle amarezze mi divoreranno,\nle schiave dell'Oriente\nse la passano meglio\n\nNote\n\nΤύραννε – vocativo di \"τύραννος\" (tiranno), qui rivolto direttamente e con forza a un uomo (probabilmente il marito/compagno) che opprime la protagonista, tema di ribellione femminile contro un rapporto oppressivo.\nΜαρτύρια – \"martiri, tormenti, sofferenze atroci\"; termine che rafforza l'immagine di una sofferenza quasi fisica e prolungata inflitta dal \"tiranno\".\nΣκλάβες της ανατολής (\"le schiave dell'Oriente\") – immagine iperbolica che paragona la condizione della protagonista a quella delle schiave orientali (harem ottomano), sottolineando con amara ironia che perfino quelle avrebbero una sorte migliore della sua.\nΣκλαβιά – \"schiavitù\"; qui usata metaforicamente per descrivere la condizione oppressiva del matrimonio/relazione da cui la donna cerca di liberarsi tornando dalla madre, tema di emancipazione femminile piuttosto esplicito per la tradizione popolare.",
+      "no": "",
+      "balvid": true
+    },
+    {
+      "id": "s_1789912830364",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στελλάκης Περπινιάδης, Μανώλης Χιώτης, Δημήτρης Στεργίου",
+          "year": "1946",
+          "note": "Chiotis e Bebis suonano due chitarre",
+          "link": "https://www.youtube.com/watch?v=QgqXZMWzq7A",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-20",
+      "tgr": "Το βούνο με το βουνό",
+      "tit": "To vunò me to vunò",
+      "alias": "",
+      "at": "Δημήτρης Σέμσης",
+      "am": "Μανώλης Χιώτης",
+      "yr": "1946",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "SOLm        FA  SOLm    SOLm       FA      DOm\nΈνα μήνα σ' έχω χάσει βρε μπαμπέσα\nSOLm     FA         SOLm       FA           SOLm\nκι όποιο κέντρο κατ' να ειδώ από'-κάρω μέσα\nLA#             SOL                SOLm\nθα σε βρω που θα με πας κι αν έχεις φύγει\nSOLm RE#     RE#              SOLm\nτο βουνό με το βουνό ποτέ (μόνο) δε σμίγει\n\nSOLm        FA  SOLm    SOLm       FA      DOm\nΤι σου φταίω κάθε βράδυ κι είμαι σούρα\nSOLm     FA         SOLm       FA           SOLm\nκαι οι φίλοι να μου κάνουνε καζούρα\nLA#             SOL                SOLm\nνα μου λένε θα τη βρεις κι αν έχει φύγει\nSOLm RE#     RE#              SOLm\nτο βουνό με το βουνό ποτέ δε σμίγει",
+      "tr": "To vunò me to vunò\n\nÉna mìna s'écho chàsi vre babèsa\nki òpio kèndro kat' na idò apò 'kàro mèsa\ntha se vro pu tha me pas ki an échis fìghi\nto vunò me to vunò potè (mòno) de smìghi\n\nTi su ftèo kàthe vràdi ki ìme sùra\nke i fìli na mu kànune kazùra\nna mu lène tha ti vris ki an échi fìghi\nto vunò me to vunò potè de smìghi",
+      "ti": "La montagna con la montagna non si incontra mai\n\nÈ un mese che ti ho persa, ehi infedele¹,\ne in qualunque locale² vado a guardare dentro,\nti troverò, ovunque tu vada, anche se sei scappata,\nla montagna con la montagna non si incontrano mai³ (solo)\n\nChe colpa ho se ogni sera sono ubriaco fradicio⁴,\ne gli amici mi prendono in giro⁵,\ndicendomi che la troverò anche se è scappata,\nla montagna con la montagna non si incontrano mai\n\nNote\n\nΜπαμπέσα – termine gergale molto diffuso nel rebetiko, indica una donna infedele, traditrice, \"falsa\" in amore.\nΚέντρο – qui nel senso di \"locale notturno, night club\" dove si suona musica dal vivo, luogo tipico di ritrovo nella vita notturna greca.\nΤο βουνό με το βουνό ποτέ δε σμίγει (\"la montagna con la montagna non si incontrano mai\") – proverbio popolare greco (equivalente italiano: \"il mondo è piccolo\" ma in senso opposto/positivo qui), il cui senso completo è \"le montagne non si incontrano mai, ma le persone sì\" — usato qui come minaccia/certezza che, per quanto lei sia scappata, prima o poi si incontreranno di nuovo.\nΣούρα – termine gergale per \"ubriachezza, stato di ebbrezza\"; \"είμαι σούρα\" significa \"sono ubriaco fradicio\".\nΚαζούρα – termine gergale colloquiale per \"presa in giro, scherzo pungente tra amici\", spesso bonario ma pungente.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789911421311",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-20",
+      "tgr": "Σπάνια Ηχογράφηση / Ταξίμι",
+      "tit": "Spània ipogràfi/ Taksìmi",
+      "alias": "",
+      "at": "strumentale",
+      "am": "Δημήτρης Στεργίου",
+      "yr": "1960",
+      "ar": "Δημήτρης Στεργίου",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=f6EfN5LuAMs",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "",
+      "no": "nastro nascosto a New York (1960): La registrazione rara più celebre fu catturata nel 1960 a New York, nell'era del suo doloroso declino americano di cui abbiamo parlato. Bempis, spesso ubriaco prima di salire sul palco, si sedeva da solo e iniziava a improvvisare per ore in uno stato di trance emotiva. Un tecnico dell'etichetta Alector o un appassionato lasciò un registratore a bobine acceso di nascosto sotto il bancone. Quel nastro contiene passaggi di una velocità talmente impressionante da sembrare modificati artificialmente, ma era tutto eseguito dal vivo.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789910761066",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δημήτρης Στεργίου, Χρήστος Χριστόπουλος",
+          "year": "1960-1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=1TOHkFLXJTg",
+          "vid": false
+        },
+        {
+          "who": "Νάνα Μούσχουρη",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=51Fgsdj94C8",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-20",
+      "tgr": "Σαν σφυρίξεις τρεις φορές",
+      "tit": "San sfyríxeis tris forés",
+      "alias": "The White Rose of Athens",
+      "at": "Νίκος Γκάτσος",
+      "am": "Μάνος Χατζιδάκις",
+      "yr": "1961",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=1TOHkFLXJTg",
+      "li": "",
+      "ch": "DO                    REm\nΣαν σφυρίξεις τρεις φορές\nSOL      DO    SOL   DO\nθα με δεις μες τις φωτιές\n\nDO    SOL              DO\nΜη μου μιλάτε για λιβάδια\nSOL                             DO    \nμην μου μιλάτε ξαφνικά για τις ελιές\nSOL                       DO\nτα πουλιά ξυπνούν τα βράδια\nSOL                    DO   SOL    DO\nκάτω από τις, κάτω από τις αμυγδαλιές\n\n\nDO                    REm\nΣαν σφυρίξεις τρεις φορές\nSOL    DO    REm  FA    SOL   DO\nθα σ' αγγίξω στο σκοτάδι\nDO                   REm\nθα με δεις μες τις φωτιές\nSOL         DO   SOL    DO\nσαν σφυρίξεις τρεις φορές\n\nDO                    REm\nΤι ζητάς απ' τ' άγιο χώμα\nSOL      DO    SOL   DO\nόταν το πλένει, όταν το πλένει η βροχή\nDO    SOL              DO\nλίγη αγάπη για το σώμα\nSOL         DO   SOL    DO\nκαι λίγο χά-, και λίγο χάδι στην ψυχή\n\nDO                    REm\nΣαν σφυρίξεις τρεις φορές\nSOL    DO    REm  FA    SOL   DO\nθα χωθώ μες τ' όνειρό σου\nDO                   REm\nθα ξυπνήσεις με φωνές\nSOL         DO   SOL    DO\nσαν σφυρίξω τρεις φορές",
+      "tr": "DO                    REm\nΣαν σφυρίξεις τρεις φορές\nSOL      DO    SOL   DO\nθα με δεις μες τις φωτιές\n\n\nDO                    SOL              DO\nΜη μου μιλάτε για λιβάδια\nSOL\nμην μου μιλάτε ξαφνικά για τις ελιές\nSOL                       DO\nτα πουλιά ξυπνούν τα βράδια\nSOL                                 SOL       DO\nκάτω από τις, κάτω από τις αμυγδαλιές\n\n\nDO                    REm\nΣαν σφυρίξεις τρεις φορές\nSOL    DOm  FA        SOL   DO\nθα σ' αγγίξω στο σκοτάδι\nREm\nθα με δεις μες τις φωτιές\nDO\nσαν σφυρίξεις τρεις φορές\n\n\nΤι ζητάς απ' τ' άγιο χώμα\nόταν το πλένει, όταν το πλένει η βροχή\nλίγη αγάπη για το σώμα\nκαι λίγο χά-, και λίγο χάδι στην ψυχή\n\n\nΣαν σφυρίξεις τρεις φορές\nθα χωθώ μες τ' όνειρό σου\nθα ξυπνήσεις με φωνές\nσαν σφυρίξω τρεις φορές",
+      "ti": "Quando fischi tre volte\n\nSe fischi tre volte\nmi vedrai in mezzo alle fiamme\n\nNon parlatemi di prati,\nnon parlatemi all'improvviso degli ulivi,\ngli uccelli si svegliano di sera\nsotto i, sotto i mandorli¹\n\nSe fischi tre volte\nti toccherò nel buio,\nmi vedrai in mezzo alle fiamme,\nse fischi tre volte\n\nCosa chiedi alla terra sacra²\nquando la lava, quando la lava la pioggia,\nun po' d'amore per il corpo,\ne un po' di ca-, e un po' di carezza per l'anima\n\nSe fischi tre volte\nmi infilerò nel tuo sogno,\nti sveglierai con delle grida,\nse fischio tre volte\nΑμυγδαλιές (\"mandorli\") – gli alberi di mandorlo sono immagine ricorrente nella poesia popolare greca, spesso legati alla primavera, al risveglio della natura e a un simbolismo di rinascita/desiderio.\nΆγιο χώμα (\"terra sacra\") – espressione poetica che sacralizza la terra natia o il suolo stesso come elemento vitale e puro, lavato e purificato dalla pioggia, in contrasto con le richieste più terrene di amore e conforto espresse nei versi successivi.",
+      "no": "La melodia nacque originariamente nel 1961 per la colonna sonora di un documentario tedesco intitolato Traumland der Sehnsucht (La terra dei sogni e del desiderio), diretto da Wolfgang Müller-Sehn, che esplorava le bellezze e la cultura della Grecia.Il leggendario compositore Manos Hadjidakis scrisse la colonna sonora e affidò la parte vocale alla giovane Nana Mouskouri. Inizialmente, in Grecia, il brano uscì con il titolo \"San sfyríxeis tris forés\" con un testo poetico scritto da Nikos Gatsos. Tuttavia, i produttori tedeschi notarono subito il potenziale commerciale della melodia e decisero di adattarla per il mercato nordeuropeo, stravolgendo il testo e incentrandolo sull'immagine romantica e malinconica delle \"rose bianche di Atene\" come simbolo di addio e promessa d'amore.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789909282752",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-20",
+      "tgr": "Πενιές Μπέμπη",
+      "tit": "Peniès Bèbi",
+      "alias": "",
+      "at": "strumentale",
+      "am": "Δημήτρης Στεργίου",
+      "yr": "1956",
+      "ar": "Δημήτρης Στεργίου",
+      "lb": "HIS MASTER'S VOICE A.O. 5326",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=UVdw-GnCe1w",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789908967609",
       "offsets": {},
@@ -9146,7 +9340,22 @@
     {
       "id": "s_1786287732640",
       "offsets": {},
-      "executions": [],
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=vMLFc8xeCpI",
+          "vid": false
+        },
+        {
+          "who": "Στέλιος Σουγιουλτζής, Σεβάς Χανούμ, Δημήτρης Στεργίου, Ιορδάνης Τσομίδης",
+          "year": "1960",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=HFte_EW9UAc&list=PLDE73A080B8F6853A",
+          "vid": false
+        }
+      ],
       "date": "2026-08-09",
       "tgr": "Σήκω χόρεψε κουκλί μου",
       "tit": "Sìko chòrepse kuklì mou",
@@ -9154,17 +9363,18 @@
       "at": "Στέλιος Καζαντζίδης",
       "am": "Στέλιος Καζαντζίδης",
       "yr": "1960",
-      "ar": "Στέλιος Καζαντζίδης",
+      "ar": "",
       "lb": "",
       "gn": "Laikà",
       "dr": "",
       "bal": "Tsifteteli",
-      "ll": "https://www.youtube.com/watch?v=vMLFc8xeCpI",
+      "ll": "",
       "li": "",
       "ch": "RE                     LA           RE\nΣήκω χόρεψε κουκλί μου, να σε δω να σε χαρώ\nRE        SOL          RE        LA             RE    \nτσιφτετέλι τούρκικο, νινανάι γιαβρούμ, νινανάι-νάι  \nRE        SOL          RE        LA             RE    \nτσιφτετέλι τούρκικο, νινανάι γιαβρούμ, νινανάι-νάι \n \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι      \n \nRE                     LA           RE\nΘα σου τραγουδήσω πάλι στον ασίκικο χαβά\nRE        SOL          RE        LA             RE    \nκούνα λίγο το κορμί σου, νινανάι γιαβρούμ, νινανάι-νάι  \nRE        SOL          RE        LA             RE    \nκούνα λίγο το κορμί σου, νινανάι γιαβρούμ, νινανάι-νάι \n\nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι \n\nRE                     LA           RE\nΜια φορά μονάχα ζούμε μες στον ψεύτικο ντουνιά\nRE        SOL          RE        LA             RE    \nπρέπει λίγο να χαρούμε, νινανάι γιαβρούμ, νινανάι-νάι \nRE        SOL          RE        LA             RE    \nπρέπει λίγο να χαρούμε, νινανάι γιαβρούμ, νινανάι-νάι \n \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι \nSOL                  RE\nΏπα, νινα-νινανάι, νινανάι-νάι   \n LA                 RE\nνινανάι γιαβρούμ, νινανάι-ναι",
       "tr": "Sìko chòrepse kuklì mou\n\nSíko chórepse kukloì mu, na se do na se charó\ntsiftetéli túrkiko, ninanái giavrúm, ninanái-nái\n\nÓpa, nina-ninanái, ninanái-nái\nninanái giavrúm, ninanái-nai\n\nTha sou tragudíso páli ston asíkiko chavá\nkúna lígo to kormí su, ninanái giavrúm, ninanái-nái\n\nÓpa, nina-ninanái...\n\nMia forá monácha zúme mes ston pséftiko ntuniá\nprépei lígo na charúme, ninanái giavrúm, ninanái-nái\n\nÓpa, nina-ninanái..",
       "ti": "Tsifteteli turco\n\nAlzati, balla, bambola mia, che ti veda e mi rallegri\nun tsifteteli turco, ninanái amore mio, ninanái-nái\n\nOpa, nina-ninanái, ninanái-nái\nninanái amore mio, ninanái-nái\n\nTi canterò ancora sul ritmo da innamorato\nmuovi un po' il tuo corpo, ninanái amore mio, ninanái-nái\n\nOpa, nina-ninanái...\n\nViviamo una sola volta in questo mondo bugiardo\ndobbiamo goderci un po', ninanái amore mio, ninanái-nái\n\nOpa, nina-ninanái...\n\nNote di traduzione\n\n\"κουκλί μου\" — letteralmente \"mia piccola bambola\": vezzeggiativo affettuoso molto comune nel greco popolare per rivolgersi a una persona amata o desiderata, reso con \"bambola mia\".\n\n\"τσιφτετέλι\" — il tsifteteli è un genere di danza/musica di origine ottomana (dal turco \"çiftetelli\"), molto diffuso nella musica greco-orientale e nel rebetiko; ballo sensuale a ritmo di 4/4 con movimenti ondulatori del corpo — qui lasciato non tradotto in quanto termine tecnico-culturale specifico.\n\n\"νινανάι γιαβρούμ\" — vocalizzo/ritornello tipico della musica greco-orientale (anatolica), privo di significato letterale proprio, usato come intercalare melodico; \"γιαβρούμ\" (dal turco \"yavrum\") significa \"il mio cucciolo/il mio piccolo\", termine affettuoso turco entrato nel lessico greco popolare, qui reso con \"amore mio\".\n\n\"ασίκικο χαβά\" — \"χαβάς\" (dal turco \"hava\") indica una melodia/aria musicale; \"ασίκικος\" (dal turco \"aşık\", innamorato) significa \"da innamorato, appassionato\": insieme indicano un motivo musicale romantico/malinconico tipico dello stile amanès.\n\n\"ντουνιάς\" — dal turco \"dünya\" (mondo): parola di origine turca entrata nel greco popolare per indicare \"il mondo, la vita terrena\", spesso con sfumatura filosofica/malinconica (la vita come illusione passeggera), qui tradotto con \"mondo bugiardo\".",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1786263804018",
@@ -12155,17 +12365,18 @@
       "id": "p_1785423027069",
       "name": "Δημήτρης Σέμσης",
       "nameit": "Dimitris Sèmsis",
-      "born": "1883. Stròmniza",
+      "born": "1883, Stròmniza",
       "died": "13 gennaio 1950 Atene",
       "bio": "Conosciuto come \"Σαλονικιός\", quello di Salonicco.\n Il più grande violinista del rembetiko. È la terza generazione di una grande famiglia di violinisti che continua ancora oggi, arrivata alla settima generazione. Inizia la carriera professionale a 15 anni come musicista in un circo itinerante. Continuerà con gruppi musicali multietnici nelle sue lunghe tournée nei Balcani, in Europa, in Africa e in Asia Minore. Si stabilisce a Salonicco nel 1919, da cui il soprannome Salonikios, mentre fino al 1922 si esibirà in varie città della Grecia e a Smirne. Nel 1927 si trasferisce definitivamente ad Atene. Ebbe la direzione artistica della His Master's Voice per vent'anni, dal 1930 fino alla sua morte, e con la fondazione della Radio di Atene assunse la responsabilità del programma popolare. Partecipò come violinista a centinaia di registrazioni dal 1924-25 al 1950, in quasi tutte le case discografiche, e fu il principale collaboratore di Roza Eskenazi, con la quale formava una coppia artistica. Come compositore registrò circa 100 brani in stile rembetiko e demotiká. Il suo primo brano in discografia sembra essere \"Smirnia kamomatu\" con Antonis Dalgas.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/semsis.jpg",
       "roles": [
+        "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "violino"
     },
     {
       "id": "p_1785437192899",
@@ -17382,6 +17593,68 @@
         "ar"
       ],
       "instr": "bouzouki, voce"
+    },
+    {
+      "id": "p_1789909836928",
+      "name": "Χρήστος Χριστόπουλος",
+      "nameit": "Chrístos Christópoulos",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Bouzouxís attivo in America nei primi anni '60. Faceva parte del gruppo di musicisti che registrarono per la Alector Records di New York, l'etichetta greco-americana fondata nel 1958 da Takis Stavrakoulis (Ted Starke). Accreditato al bouzouki su alcune tracce dei due LP \"Greek Town, USA\" (Volume I e II), tra cui \"Δεν ξαναπαίζω ζάρια πια\" e \"The White Rose of Athens\", insieme a Dimitris Stergiou \"Bebis\".",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ],
+      "instr": "bouzouki"
+    },
+    {
+      "id": "p_1789913435891",
+      "name": "Σεβάς Χανούμ",
+      "nameit": "Sevás Chanoúm",
+      "born": "8 settembre 1931, Kokkinogia (vicino Drama), da famiglia pontica originaria di Samsun",
+      "died": "18 maggio 1990, Salonicco",
+      "bio": "Vero nome: Σεβαστή (Σεβαστούλα) Παπαδοπούλου\n\nFuggì di casa a 13 anni, contro il volere della famiglia che preferiva vederla sposata piuttosto che cantante, per andare a esibirsi nei locali dell'epoca — aveva studiato solo fino alla terza elementare, e a stento sapeva scrivere il proprio nome. Il nome d'arte le fu dato nel 1951 dal proprietario del locale \"Tzimis tou Chondrou\", che lo scelse per farla coincidere con il repertorio \"orientaleggiante\" che cantava, pubblicizzandola sui giornali come \"la nuova scoperta Sevas Hanoum, la bella del Peran\".\n\nCollaborò artisticamente (e fu anche legata sentimentalmente) con Stelios Kazantzidis, di cui fu partner sul palco. Lavorò anche con Manolis Chiotis: insieme nel 1953 al locale \"Gonia tis Athinas\", e nello stesso anno incisero insieme un 78 giri che include \"Φτωχοκάλυβο\". A proposito di lui disse: \"Devo la mia personalità a Manolis Chiotis\". Ebbe anche un celebre litigio con Marika Ninou, quando questa pose come condizione di non lavorare nello stesso locale con un'altra cantante — l'episodio ispirò persino un distico scherzoso attribuito a Chiotis.\n\nFu anche fidanzata con Stelios Kazantzidis, che nella sua autobiografia \"Υπάρχω\" raccontò come fosse lei a bere moltissimo e a volerlo spingere verso l'hashish.\n\nTrascorse un periodo in America (esperienza poco documentata nelle fonti generaliste, ma nota per la sua partecipazione alle registrazioni della Alector Records con Dimitris Stergiou \"Bebis\" e altri).\n\nSi esibì per l'ultima volta in pubblico nell'aprile 1987, in un concerto d'onore organizzato dal Circolo dei Pontici e dall'Efxeinos Leschi di Salonicco, indossando il costume tradizionale pontico. Morì il 18 maggio 1990 dopo una caduta sull'asfalto, uscendo dall'ospedale Papanikolaou dove era ricoverata da un anno; il funerale fu poverissimo, con solo trenta persone presenti e tre corone di fiori. La sua vita è raccontata nel libro \"Σεβάς Χανούμ – Η ιστορία μιας τραγουδίστριας\" (ed. Odos Panos, 1992, a cura di M. Tasoulas).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/chanum.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1789914900702",
+      "name": "Μαρία Γρίλλη",
+      "nameit": "María Grílli",
+      "born": "sconosciuto",
+      "died": "sconosciuto",
+      "bio": "Cantante di repertorio laiko/rembetiko. Fu tra i giovani talenti lanciati da Stelios Chrysinis nel suo \"vivaio\" di casa a Sepolia, insieme a Rena Stamou, Soula Pasalari, Giannis Tzivanis, Kostas Politis (poi genero di Chrysinis) e altri. Formò un duo particolarmente noto con Prodromos Tsaousakis, incidendo insieme brani come \"Δεν ζούμε εμείς οι μάγκες\", \"Το μπερτάκι\" e \"Η στενοχώρια\" (Apostolos Kaldaras/Kostas Virvos, HMV, 1952-54), oltre a \"Θεσσαλονίκη όμορφη\" (1954, 78 giri). Fu citata, in un necrologio dedicato a Rena Ntalia, tra le grandi interpreti femminili dell'epoca d'oro del laiko, accanto a Marika Ninou, Sotiria Bellou, Rena Stamou e Anna Chrysafi.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/grilli.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1789915533430",
+      "name": "Γιάννης Κυριαζής",
+      "nameit": "Ghiánnis Kiriazís",
+      "born": "1915, Kavala, da famiglia benestante",
+      "died": "giugno 1982, Atene",
+      "bio": "Detto \"Καμπούρης\" (Kabúris)\n\nParoliere, compositore, interprete e chitarrista. Nel 1937 si trasferì a Salonicco, dove studiò chitarra classica insieme alla scuola, e dove conobbe e lavorò come cantante e musicista al fianco di Tsitsanis, Vamvakaris e Papaioannou — quest'ultimo incontro fu decisivo per il resto della sua vita artistica.\n\nHa un'attività prebellica nel rembetiko. Descrisse la propria vita, in un'intervista al ricercatore Tasos Schorelis, come racchiusa in tre parole: Lotta, Canto, Amore. Fu un personaggio integerrimo e anticonformista, che pagò questa onestà restando spesso escluso dai grandi circuiti commerciali: molte delle sue canzoni restarono inedite, e altre furono pubblicate come opere di altri. Per questo carattere \"intransigente\", è stato accostato a figure come Giovan Tsaous e Vangelis Papazoglou nel \"Pantheon degli intransigenti\" del rembetiko.\n\nSubì molte privazioni nella vita — le lotte, i disagi dell'Occupazione, persecuzioni successive — a cui si aggiunsero abusi di sostanze da lui stesso ammessi (\"ho bevuto un piroscafo di hashish e una cisterna di alcolici di ogni tipo\"), che contribuirono a minarne la salute: soffriva di tubercolosi.\n\nAveva una voce, sia da prima che da seconda voce, considerata autenticamente rembetika, con un timbro personalissimo — secondo alcuni critici tra i cinque migliori interpreti maschili del dopoguerra del genere.\n\nIl suo primo brano in assoluto in discografia fu \"Γόπα\" (1947, testo Babis Vasiliadis \"Tsantas\", musica Fotis Chaloulakos, Odeon GA 7375), interpretato insieme a Fotis Chaloulakos. Seguì subito dopo \"Εβίβα Ρεμπέτες\" (1947, musica Apostolos Kaldaras, testo Spyros Peristeris, Odeon GA 7385), con Stella Chaskil e lo stesso Kaldaras.\n\nCome compositore e paroliere scrisse diversi brani insieme a Maria Grilli come interprete, tra cui \"Κοντά μου αγανάκτησες\" (1954, con Stavros Tzouanakos) e \"Μανούλες που έχετε παιδιά\" (1954, con Prodromos Tsaousakis).\n\nNegli anni '70 incise un disco, \"Το παλιό ρεμπέτικο του Κυριαζή\", con reinterpretazioni di classici storici del rembetiko.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kiriazis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ],
+      "instr": ""
     }
   ]
 }
