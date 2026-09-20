@@ -193,7 +193,7 @@ body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14
       </div>
       <div class="form-section">
         <label>Esecutore/i vocali (separati da virgola)</label>
-        <div class="ac-wrap"><textarea id="sf-ar" rows="2" style="width:100%;resize:vertical;font-family:inherit;font-size:inherit;padding:8px" autocomplete="off" oninput="acInMulti('sf-ar','ar')" onfocus="acInMulti('sf-ar','ar')" onblur="acHide('sf-ar')"></textarea><div class="ac-dd" id="ac-sf-ar"></div></div>
+        <div class="ac-wrap"><input type="text" id="sf-ar" autocomplete="off" oninput="acInMulti('sf-ar','ar')" onfocus="acInMulti('sf-ar','ar')" onblur="acHide('sf-ar')"><div class="ac-dd" id="ac-sf-ar"></div></div>
         <div class="fhint">Solo cantanti e interpreti vocali. Per i musicisti strumentisti usa il campo Annotazioni.</div>
       </div>
       <div class="form-grid">
@@ -911,7 +911,7 @@ function acIn(fid,role){
   dd.innerHTML=matches.map(n=>{
     const p=persons.find(x=>x.name===n||x.nameit===n);
     const roles=(p?p.roles||[]:[]). map(r=>({at:'✍',am:'♪',ar:'🎤'}[r]||'')).join('');
-    return`<div class="ac-item" onmousedown="event.preventDefault();acSel('${fid}','${n.replace(/\\/g,'\\\\').replace(/'/g,"\\'")}')"><span>${esc(n)}</span><span style="font-size:10px;color:var(--t3)">${roles}</span></div>`;
+    return`<div class="ac-item" onpointerdown="event.preventDefault();acSel('${fid}','${n.replace(/\\/g,'\\\\').replace(/"/g,'&quot;').replace(/'/g,"\\'")}')"><span>${esc(n)}</span><span style="font-size:10px;color:var(--t3)">${roles}</span></div>`;
   }).join('');dd.style.display='block';
 }
 function acInMulti(fid,role){
@@ -927,18 +927,18 @@ function acInMulti(fid,role){
   });
   const matches=allNames.filter(n=>stripAccents(n.toLowerCase()).includes(stripAccents(last)));
   if(!matches.length){dd.style.display='none';return;}
-  dd.innerHTML=matches.map(n=>`<div class="ac-item" onmousedown="event.preventDefault();acSelMulti('${fid}','${n.replace(/\\/g,'\\\\').replace(/'/g,"\\'")}')"><span>${esc(n)}</span></div>`).join('');
+  dd.innerHTML=matches.map(n=>`<div class="ac-item" onpointerdown="event.preventDefault();acSelMulti('${fid}','${n.replace(/\\/g,'\\\\').replace(/"/g,'&quot;').replace(/'/g,"\\'")}')"><span>${esc(n)}</span></div>`).join('');
   dd.style.display='block';
 }
 function acSel(fid,val){const el=g(fid);if(el)el.value=val;const dd=g('ac-'+fid);if(dd)dd.style.display='none';}
 function acSelMulti(fid,val){const el=g(fid);if(!el)return;const parts=el.value.split(',');parts[parts.length-1]=' '+val;el.value=parts.join(',').replace(/^\s*,/,'');const dd=g('ac-'+fid);if(dd)dd.style.display='none';}
-function acHide(fid){setTimeout(()=>{const dd=g('ac-'+fid);if(dd)dd.style.display='none';},200);}
+function acHide(fid){setTimeout(()=>{const dd=g('ac-'+fid);if(dd)dd.style.display='none';},350);}
 function acInGeneric(fid,getVals){
   const val=gv(fid).toLowerCase();const dd=g('ac-'+fid);if(!dd)return;
   const allVals=getVals();
   const matches=allVals.filter(n=>stripAccents(n.toLowerCase()).includes(stripAccents(val)));
   if(!matches.length){dd.style.display='none';return;}
-  dd.innerHTML=matches.map(n=>`<div class="ac-item" onmousedown="event.preventDefault();acSel('${fid}','${n.replace(/\\/g,'\\\\').replace(/'/g,"\\'")}')"><span>${esc(n)}</span></div>`).join('');
+  dd.innerHTML=matches.map(n=>`<div class="ac-item" onpointerdown="event.preventDefault();acSel('${fid}','${n.replace(/\\/g,'\\\\').replace(/"/g,'&quot;').replace(/'/g,"\\'")}')"><span>${esc(n)}</span></div>`).join('');
   dd.style.display='block';
 }
 function getLabelValues(){return [...new Set(songs.map(s=>(s.lb||'').trim()).filter(Boolean))].sort(elCollator.compare);}
