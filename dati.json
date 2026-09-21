@@ -1,8 +1,142 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-21T08:47:38.211Z",
+  "exportedAt": "2026-09-21T10:03:19.692Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789984832791",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=NBwrwJxRqEc",
+          "vid": false
+        },
+        {
+          "who": "Σεβάς Χανούμ, Δημήτρης Στεργίου",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=v4G5mNNLw5I",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-21",
+      "tgr": "Μέσα στον κόσμο ορφανός",
+      "tit": "Mèsa ston kòsmo orfanòs",
+      "alias": "",
+      "at": "Στέλιος Καζαντζίδης",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1960",
+      "ar": "",
+      "lb": "HIS MASTER'S VOICE A.O. 5643",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Δίχως μάνα μες στον κόσμο κι ορφανός,\nτριγυρίζω μες στα ξένα ο φτωχός.\n\nΕίναι πόνος να `σαι μόνος μακριά,\nσε θυμάμαι και δακρύζω, μάνα μου.\nΕίναι πόνος να `σαι μόνος μακριά,\nσε θυμάμαι και δακρύζω, μάνα μου.\n\nΣτη ζωή χαρά δεν έχω άλλη πια,\nθα με φάει, όπως πάει, η ξενιτειά.\n\n\nΑφού μόνος έχω μείνει στη ζωή,\nας πεθάνω να γλιτώσω, μάνα μου.\nΑφού μόνος έχω μείνει στη ζωή,\nας πεθάνω να γλιτώσω, μάνα μου.\n\n\nΒλέπω μανούλες με παιδιά αχ!\nκαι καίγετ’ η καρδιά μου αχ!\n\nΚι από τα δόλια μάτια μου\nτρέχουν τα δάκρυά μου αχ!\n\nΑφού μόνος έχω μείνει στη ζωή\nας πεθάνω να γλιτώσω, μάνα μου,\nμάνα μου, μάνα μου, μάνα μου.",
+      "tr": "Mèsa ston kòsmo orfanòs\n\nDíchos mána mes ston kósmo ki orfanós\ntrighirízo mes sta kséna o ftochós\nÍne pónos na 'se mónos makriá\nse thimáme kie dakrízo, mána mu\n\nSti zoí chará den écho álli pia\ntha me fái, ópos pái, i ksenitiá\nAfú mónos écho míni sti zoí\nas petháno na ghlitóso, mána mu\n\nVlépo manúles me pediá ach!\nkie kéghet' i kardiá mu ach!\nKi apó ta dólia mátia mu tréchun ta dákriá mu ach!\nAfú mónos écho míni sti zoí\nas petháno na ghlitóso, mána mu, mána mu, mána mu, mána mu",
+      "ti": "Nel mondo orfano\n\nSenza madre in questo mondo, e orfano\nvago tra terre straniere, povero\nÈ un dolore essere solo, lontano\nmi ricordo di te e piango, madre mia\n\nNella vita non ho più nessuna gioia\nmi consumerà, come va, l'emigrazione\nPoiché sono rimasto solo nella vita\nche io muoia, per liberarmi, madre mia\n\nVedo mammine con i bambini, ah!\ne mi brucia il cuore, ah!\nE dai miei occhi infelici scorrono le mie lacrime, ah!\nPoiché sono rimasto solo nella vita\nche io muoia, per liberarmi, madre mia, madre mia, madre mia, madre mia\n\nNote di traduzione\n\n\"τριγυρίζω μες στα ξένα\" — \"vago tra terre straniere\": espressione che indica un girovagare senza meta né radici in un paese straniero, condizione di totale sradicamento sottolineata dal titolo di \"orfano\" e \"povero\" che si dà chi parla.\n\n\"θα με φάει... η ξενιτειά\" — \"mi consumerà l'emigrazione\" (letteralmente \"mi mangerà\"): immagine che personifica la condizione di esilio/emigrazione forzata come una forza divorante e distruttiva, capace di annientare lentamente chi la vive.\n\n\"ας πεθάνω να γλιτώσω\" — \"che io muoia, per liberarmi\": desiderio di morte come unica via di fuga dalla sofferenza della solitudine e della lontananza, espressione di disperazione estrema tipica dei canti sulla condizione dell'emigrante orfano e senza legami.\n\n\"μανούλες με παιδιά\" — \"mammine con i bambini\": vista di normalità familiare (madri con figli) che, per contrasto, acuisce il dolore di chi è orfano e solo, facendo scaturire il pianto descritto nei versi successivi.\n\n\"τα δόλια μάτια μου\" — \"i miei occhi infelici/sventurati\" (δόλιος = sventurato, misero): aggettivo che sottolinea la condizione di totale sofferenza e miseria emotiva di chi parla, rafforzando il quadro di desolazione dell'orfano emigrato lontano dalla madre.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789983574784",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Μαρίτσα",
+      "tit": "Marìza",
+      "alias": "",
+      "at": "sconosciuto",
+      "am": "sconosciuto",
+      "yr": "sconosciuto",
+      "ar": "Δημήτρης \"Τζιμ\" Αποστόλου, Δημήτρης Στεργίου",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=Odplx3NAbZo",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789983453873",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=PkVV_78CLp8",
+          "vid": false
+        },
+        {
+          "who": "Δημήτρης \"Τζιμ\" Αποστόλου, Δημήτρης Στεργίου",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=9srk07Z6rSg",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-21",
+      "tgr": "Σ’ αγάπησα στ’ αλήθεια",
+      "tit": "S'agàpisa st'alìthia",
+      "alias": "",
+      "at": "Στέλιος Καζαντζίδης",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1960",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Σ’ αγάπησα στ’ αλήθεια,\nμα δεν ξέρω πού θα φτάσω.\n\nΊσως χάσω το μυαλό μου\nαν καμιά φορά σε χάσω\nΊσως χάσω το μυαλό μου\nαν καμιά φορά σε χάσω\n\nΤα φιλιά σου με ζαλίζουν,\nκαι τα μάτια σου με καίνε.\n\nΤα δυο χείλη μου για σένα,\nτης καρδιάς τραγούδια λένε \nΤα δυο χείλη μου για σένα,\nτης καρδιάς τραγούδια λένε \n\nΠαράπονο με πιάνει,\nκι απ’ τον πόνο μου δακρύζω.\n\nΑν μου φύγεις κάποια μέρα,\nμες στον κόσμο πώς θα ζήσω\nΑν μου φύγεις κάποια μέρα,\nμες στον κόσμο πώς θα ζήσω",
+      "tr": "S'agàpisa st'alìthia\n\nS' aghápisa st' alíthia, ma den ksero pu tha ftáso\nÍsos cháso to milaló mu an kamiá forá se cháso\n\nTa filiá su me zalízun, kie ta mátia su me kéne\nTa dio chíli mu ghia séna, tis kardiás traghúdia léne\n\nParápono me piáni, ki ap' ton póno mu dakrízo\nAn mu físghis kápia méra, mes ston kósmo pos tha ziso",
+      "ti": "Ti ho amata per davvero\n\nTi ho amata/o davvero, ma non so dove arriverò\nForse perderò il senno se un giorno ti perdessi\n\nI tuoi baci mi stordiscono, e i tuoi occhi mi bruciano\nLe mie due labbra per te cantano canzoni del cuore\n\nUn lamento mi coglie, e per il mio dolore piango\nSe un giorno te ne andassi, come vivrei in questo mondo\n\nNote di traduzione\n\n\"Ίσως χάσω το μυαλό μου\" — \"forse perderò il senno\": espressione iperbolica per esprimere il timore di impazzire dal dolore in caso di perdita della persona amata, immagine ricorrente nella canzone d'amore popolare per sottolineare quanto la propria stabilità emotiva dipenda interamente dall'altro.\n\n\"Τα δυο χείλη μου... της καρδιάς τραγούδια λένε\" — \"le mie due labbra... cantano canzoni del cuore\": immagine poetica che personifica le labbra come strumento diretto attraverso cui il cuore stesso si esprime, fondendo il gesto fisico del parlare/cantare con il sentimento più profondo e sincero.\n\n\"Παράπονο με πιάνει\" — \"un lamento mi coglie/mi afferra\": espressione idiomatica per descrivere un'ondata improvvisa di malinconia o rimpianto che sopraggiunge, qui legata al pensiero della possibile perdita dell'amata/o.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789981906416",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Στέρεψε το δάκρυ",
+      "tit": "Stèrepse to dàkri",
+      "alias": "",
+      "at": "Κώστας Πολίτης",
+      "am": "Στέλιος Χρυσίνης",
+      "yr": "1963",
+      "ar": "Κώστας Πολίτης,  Δημήτρης Στεργίου, Στέλιος Ζαφειρίου, Στέλιος Χρυσίνης",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=BQ68Flggyco",
+      "li": "",
+      "ch": "Στέρεψε το δάκρυ\nαπ' τα δυο μου μάτια\nείναι η καρδιά μου \nχίλια δυο κομμάτια\n\nΜ έριξες στην πίκρα \nμ έριξες στον πόνο\nκι απ' την απονιά σου\nκαιγούμε και λιώνω (x2)\n\nΜ΄ άλλους κρυφοπαίζεις\nγια να με τρελάνεις\nξέρεις πως ζηλεύω\nκαι για αυτό τα κάνεις\n\nΜ' έριξες στην πίκρα \nμ' έριξες στον πόνο\nκι απ' την απονιά σου\nκαιγούμε και λιώνω (x2)",
+      "tr": "Stérepse to dákri ap' ta dio mu mátia\níne i kardiá mu chília dio kommátia\nM' érikses stin píkra m' érikses ston póno\nki ap' tin aponiá su keghúme kie lióno\n\nM' állus kryfopézis ghia na me treláni\nkséris pos zilévo kie ghia aftó ta kánis\nM' érikses stin píkra m' érikses ston póno\nki ap' tin aponiá su keghúme kie lióno",
+      "ti": "Si è prosciugata la lacrima\n\nSi è prosciugata la lacrima dai miei due occhi\nil mio cuore è ridotto in mille e due pezzi\nMi hai gettato nell'amarezza, mi hai gettato nel dolore\ne per la tua crudeltà brucio e mi consumo\n\nGiochi di nascosto con altri per farmi impazzire\nsai che sono geloso e per questo lo fai\nMi hai gettato nell'amarezza, mi hai gettato nel dolore\ne per la tua crudeltà brucio e mi consumo\n\nNote di traduzione\n\n\"χίλια δυο κομμάτια\" — \"mille e due pezzi\": iperbole popolare per descrivere un cuore spezzato in innumerevoli frammenti, immagine di dolore estremo e totale.\n\n\"απ' την απονιά σου\" — \"per la tua crudeltà/insensibilità\" (απονιά = mancanza di pietà, durezza di cuore): sottolinea l'indifferenza dell'amata/o verso la sofferenza causata, aggravando il senso di ingiustizia patito.\n\n\"καιγούμε και λιώνω\" — \"brucio e mi consumo\": doppia immagine (fuoco e scioglimento) per esprimere la sofferenza fisica e interiore del tormento amoroso, portata all'estremo dalla ripetizione ravvicinata dei due verbi.\n\n\"Μ' άλλους κρυφοπαίζεις\" — \"giochi di nascosto con altri\": accusa diretta di infedeltà o civetteria nascosta, che l'amata/o compirebbe deliberatamente per suscitare gelosia, come rivelato nel verso successivo.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789978401830",
       "offsets": {},
@@ -18016,6 +18150,21 @@
         "ar"
       ],
       "instr": "voce"
+    },
+    {
+      "id": "p_1789981664909",
+      "name": "Στέλιος Ζαφειρίου",
+      "nameit": "Stélios Zafeiríou",
+      "born": "23 aprile 1937, Salonicco",
+      "died": "19 febbraio 2015,",
+      "bio": "Tra i più grandi virtuosi del bouzouki della sua generazione, oltre che compositore con una presenza discreta ma di qualità in discografia. Da bambino costruiva strumenti improvvisati per suonare le canzoni che sentiva alla radio; fu lo zio, chitarrista di professione nei locali, a convincere il padre a comprargli un vero bouzouki, notando la sua passione.\n\nIniziò la carriera professionale a Salonicco nel giugno 1953, accanto a Takis Binis e Tolis Charmas, lavorando nello stesso periodo anche nel locale dove cantava Dimitris Roumeliotis. Conobbe poi Stelios Kazantzidis, con cui collaborò stabilmente ad Atene dopo il servizio militare, e Giorgos Zambetas, con cui incise centinaia di canzoni in studio. Dal 1956 lavorò con praticamente tutti i grandi nomi del palcoscenico, dello studio e dei migliori locali greci, diventando un arrangiatore ed esecutore di riferimento — al punto che, come raccontò lo stesso Zambetas nella sua autobiografia, in certe registrazioni i due venivano confusi tra loro, e i discografici lo richiedevano appositamente proprio per la somiglianza col suo stile.\n\nNella sua lunga carriera collaborò anche con Marinella, Poly Panou, Panos Gavalas, Giannis Poulopoulos, Sotiria Bellou, Giannis Parios, Stamatis Kokkotas, Stratos Dionysiou e Tolis Voskopoulos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/zafiriou.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "bouzouki"
     }
   ]
 }
