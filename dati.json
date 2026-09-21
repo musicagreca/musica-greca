@@ -1,8 +1,82 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-21T07:23:53.306Z",
+  "exportedAt": "2026-09-21T08:47:38.211Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789978401830",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Αχ Μουσταφά",
+      "tit": "Ah Mustafà",
+      "alias": "",
+      "at": "Κώστας Βίρβος",
+      "am": "Θόδωρος Δερβενιώτης",
+      "yr": "1960",
+      "ar": "Δημήτρης \"Τζιμ\" Αποστόλου, Δημήτρης Στεργίου",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Μες στου γλεντιού την τρέλα τη μεγάλη\nΜες στο μεθύσι και μες στη ζάλη\nΚάποια χανούμ απάνω στο σεβντά της\nμε πόθο λέει στο Μουσταφά της\n\nΑχ Μουσταφά, αχ Μουσταφά\nεσύ μου άναψες φωτιά\nΑχ Μουσταφά, αχ Μουσταφά\nμου έχεις κάψει την καρδιά\n\nΠάμε στον οντά μου τούτη τη βραδιά\nαχ, βρε Μουσταφά μου, να μου γειάνεις την καρδιά\nΝα ξαπλώσεις στα χαλιά μου,\nνα χορτάσεις τα φιλιά μου",
+      "tr": "Ah Mustafà\n\nMes stu ghlendiú tin tréla ti meghálí\nMes sto methísi kie mes sti záli\nKápia chanúm apáno sto sevdá tis\nme pótho léi sto Mustafá tis\n\nAch Mustafá, ach Mustafá\nesí mu ánapses fotiá\nAch Mustafá, ach Mustafá\nmu échis kápsi tin kardiá\n\nPáme ston odá mu túti ti vradiá\nach, vre Mustafá mu, na mu ghiánis tin kardiá\nNa ksaplósis sta chaliá mu, na chortásis ta filiá mu",
+      "ti": "Ah Mustafà\n\nNella grande follia della festa\nnell'ebbrezza e nel vortice del vino\nuna certa hanım, presa dalla sua passione\ndice con desiderio al suo Mustafà\n\nAh Mustafà, ah Mustafà\ntu mi hai acceso un fuoco\nAh Mustafà, ah Mustafà\nmi hai bruciato il cuore\n\nAndiamo nella mia stanza questa sera\nah, Mustafà mio, che tu guarisca il mio cuore\nChe tu ti stenda sui miei tappeti, che tu ti sazi dei miei baci\n\nNote di traduzione\n\n\"χανούμ\" — \"hanım\" (dal turco), titolo/appellativo per una donna di rango o semplicemente \"signora, dama\"; termine di origine turco-ottomana entrato nel lessico della canzone rebetiko per indicare una donna elegante e sensuale, spesso in contesti orientaleggianti.\n\n\"σεβντά\" — \"sevdà\" (dal turco \"sevda\"), passione amorosa intensa e travolgente, quasi un'ossessione dolce; termine di origine turca ampiamente usato nel lessico della canzone popolare greco-orientale per esprimere un desiderio ardente.\n\n\"οντά\" — \"odà\" (dal turco \"oda\", stanza): termine di origine turca per indicare la propria camera privata, usato qui nell'invito intimo rivolto all'amato.\n\n\"να μου γειάνεις την καρδιά\" — \"che tu guarisca il mio cuore\": espressione che chiede all'amato di essere fonte di sollievo/guarigione per il tormento amoroso, capovolgendo l'immagine iniziale del \"fuoco\" acceso in qualcosa che può anche lenire la stessa ferita che ha causato.\n\n\"Να χορτάσεις τα φιλιά μου\" — \"che tu ti sazi dei miei baci\": immagine sensuale diretta che esprime il desiderio di un'intimità piena e appagante, in linea con il tono conviviale e passionale dell'intera canzone, ambientata nel contesto di una festa con musica, vino ed ebbrezza.",
+      "no": "[[2026-09-03|Per la storia di questa canzone]]",
+      "balvid": false
+    },
+    {
+      "id": "s_1789977142285",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=PkVV_78CLp8",
+          "vid": false
+        },
+        {
+          "who": "Σεβάς Χανούμ, Στέλιος Σουγιουλτζής, Δημήτρης Στεργίου, Ιορδάνης Τσομίδης",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=aKLO2W70OrU",
+          "vid": false
+        },
+        {
+          "who": "Δημήτρης \"Τζιμ\" Αποστόλου, Δημήτρης Στεργίου",
+          "year": "1962",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=9srk07Z6rSghttps://www.youtube.com/watch?v=9srk07Z6rSg",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-21",
+      "tgr": "Σ’ αγάπησα στ’ αλήθεια",
+      "tit": "S'agàpisa st'alìthia",
+      "alias": "",
+      "at": "Στέλιος Καζαντζίδης",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1960",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Σ’ αγάπησα στ’ αλήθεια,\nμα δεν ξέρω πού θα φτάσω.\n\nΊσως χάσω το μυαλό μου\nαν καμιά φορά σε χάσω \nΊσως χάσω το μυαλό μου\nαν καμιά φορά σε χάσω \n\nΤα φιλιά σου με ζαλίζουν,\nκαι τα μάτια σου με καίνε.\n\nΤα δυο χείλη μου για σένα,\nτης καρδιάς τραγούδια λένε\nΤα δυο χείλη μου για σένα,\nτης καρδιάς τραγούδια λένε\n\nΠαράπονο με πιάνει,\nκι απ’ τον πόνο μου δακρύζω.\n\nΑν μου φύγεις κάποια μέρα,\nμες στον κόσμο πώς θα ζήσω\nΑν μου φύγεις κάποια μέρα,\nμες στον κόσμο πώς θα ζήσω",
+      "tr": "S'agàpisa st'alìthia\n\nS' aghápisa st' alíthia, ma den ksero pu tha ftáso\nÍsos cháso to milaló mu an kamiá forá se cháso\n\nTa filiá su me zalízun, kie ta mátia su me kéne\nTa dio chíli mu ghia séna, tis kardiás traghúdia léne\n\nParápono me piáni, ki ap' ton póno mu dakrízo\nAn mu físghis kápia méra, mes ston kósmo pos tha ziso",
+      "ti": "Ti ho amata davvero\n\nTi ho amata/o davvero, ma non so dove arriverò\nForse perderò il senno se un giorno ti perdessi\n\nI tuoi baci mi stordiscono, e i tuoi occhi mi bruciano\nLe mie due labbra per te cantano canzoni del cuore\n\nUn lamento mi coglie, e per il mio dolore piango\nSe un giorno te ne andassi, come vivrei in questo mondo\n\nNote di traduzione\n\n\"Ίσως χάσω το μυαλό μου\" — \"forse perderò il senno\": espressione iperbolica per esprimere il timore di impazzire dal dolore in caso di perdita della persona amata, immagine ricorrente nella canzone d'amore popolare per sottolineare quanto la propria stabilità emotiva dipenda interamente dall'altro.\n\n\"Τα δυο χείλη μου... της καρδιάς τραγούδια λένε\" — \"le mie due labbra... cantano canzoni del cuore\": immagine poetica che personifica le labbra come strumento diretto attraverso cui il cuore stesso si esprime, fondendo il gesto fisico del parlare/cantare con il sentimento più profondo e sincero.\n\n\"Παράπονο με πιάνει\" — \"un lamento mi coglie/mi afferra\": espressione idiomatica per descrivere un'ondata improvvisa di malinconia o rimpianto che sopraggiunge, qui legata al pensiero della possibile perdita dell'amata/o.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789975172300",
       "offsets": {},
@@ -11910,6 +11984,14 @@
     }
   ],
   "args": [
+    {
+      "id": "a_1789980424123",
+      "title": "\"Αχ Μουσταφά\" / \"Ya Mustafa\": una melodia diventata un caso internazionale",
+      "tag": "storie di canzoni",
+      "date": "2026-09-03",
+      "body": "\"Αχ Μουσταφά\" / \"Ya Mustafa\": una melodia diventata un caso internazionale\nOrigine egiziana: la melodia, composta da Mohamed Fawzi (1918-1966), nacque avvolta da controversie fin dall'inizio: inizialmente vietata dalla radio egiziana, con le case discografiche che rifiutarono di stamparla su disco. https://www.youtube.com/watch?v=gbu96tiiSpU  Fece comunque la sua prima apparizione cinematografica nel film \"الفانوس السحري\" (Al-Fanous al-Sihri, \"La lanterna magica\"), 1960, regia di Fatin Abdel Wahab, con Ismail Yassin, Kariman e Abdel Salam Al-Nabulsi — contribuendo al successo del film nonostante la censura. L'anno seguente fu ripresa nel film \"El Hub Keda\" (\"È così l'amore\", 1961), cantata alla presenza degli attori Salah Zulfikar e Sabah, con una breve apparizione dello stesso Bob Azzam.\nIl successo mondiale — Bob Azzam (1960): a renderla un fenomeno globale fu Bob Azzam (Wadie George Azzam, 1925 Alessandria d'Egitto — 2004 Monaco, di origini libanesi), che nel 1960 la pubblicò in Francia con un testo trilingue arabo-francese-spagnolo, scherzoso e nonsense: \"Chérie je t'aime, chérie je t'adore, como la salsa del pomodoro\". https://www.youtube.com/watch?v=fAD9lBoFtYs  Il disco raggiunse il numero 1 sia in Francia che in Italia, oltre che in Belgio e Spagna, ed entrò nella classifica britannica (n. 23, 14 settimane).\nLa causa legale segreta (1960): un mese dopo l'uscita del disco, Azzam fu citato in giudizio per plagio da Mohamed Fawzi davanti al Tribunale del Cairo. Nel processo si inserirono altri due contendenti: l'attore e compositore folk Mohamed El-Kahlawy e gli eredi del leggendario Sayed Darwish (autore dell'inno nazionale egiziano, morto nel 1923, rappresentato in aula dal figlio Muhammed Bahr). Il giudice affidò la perizia tecnica a Baligh Hamdi, il più celebre compositore egiziano di colonne sonore, per stabilire chi tra i quattro fosse il vero autore della melodia. Hamdi dimostrò che melodia, armonia e ritmo provenivano dalla tradizione folklorica mediorientale, contraddicendo tutti e quattro i pretendenti: il tribunale respinse ogni rivendicazione. La sentenza obbligò Azzam e il suo editore Eddie Barclay a modificare i crediti del disco, da \"compositori\" a semplici \"elaboratori\" di un'opera preesistente. La vicenda, dato il coinvolgimento dei nomi più autorevoli della musica egiziana e l'esito avvilente per tutti, fu tenuta segreta per oltre sessant'anni, rivelata solo di recente dal nipote di Fawzi in un'intervista al portale cairota Eg24.News.\nLa versione greca (19 maggio 1960): testo di Kostas Virvos, musica di Theodoros Derveniotis, prima esecuzione del trio Giota Lydia, Manolis Aggelopoulos, Stratos Attalidis. https://www.youtube.com/watch?v=BRtvgnTZHdU\nLe versioni italiane: nel 1960 il brano fu inciso da Quartetto Cetra https://www.youtube.com/watch?v=r9xqR6CRdzI , Marino Marini   https://www.youtube.com/watch?v=xCfaEzbpAnQ   e Gino Latilla (accompagnato dagli Asternovas, il gruppo di Fred Buscaglione), con testo italiano di Nicola Salerno \"Nisa\". Curiosamente, il titolo \"Mustafà\" era già circolato in Italia prima ancora della canzone egiziana: nel 1939 con il Trio Lescano/Cetra https://www.youtube.com/watch?v=9hnpikI14So  e l'orchestra di Pippo Barzizza https://www.youtube.com/watch?v=4kXOJ3kN3q8  (voce Alda Mangini), e di nuovo nel 1953, depositato alla SIAE dai fratelli Carrera e cantato da Bruno Rosettani https://www.youtube.com/watch?v=o9QG8oMXsz0  — senza alcun legame con la melodia mediorientale.\nLe versioni francesi: oltre a quella originale di Bob Azzam, il brano fu inciso da Dario Moreno  https://www.youtube.com/watch?v=DGdcCLyPC_U  (stessi crediti Azzam-Barclay), da Kemal Rachid et ses Ottomans  https://www.youtube.com/watch?v=VEPJzomd530  (pseudonimo del direttore d'orchestra marsigliese Léo Clarens, con crediti onesti — \"canzone del folklore, arrangiata da B. Brunet\") e da Staiffi  https://www.youtube.com/watch?v=OucIFOpEbdI  per l'etichetta Vogue, versione poi alla base dell'adattamento tedesco di Leo Leandros.\nDiffusione globale: la melodia fu adattata anche in turco, serbo, tedesco, albanese, catalano, indonesiano, hindi (con conseguenti accuse di plagio in India), e reinterpretata da artisti come Dalida https://www.youtube.com/watch?v=BgvXtP7GQj8 , il chitarrista folk-blues Davy Graham  https://www.youtube.com/watch?v=z0h7mIwYgdw  (la cui versione influenzò a sua volta Jimmy Page dei Led Zeppelin) e, nel 2016, il cantante sloveno Magnifico https://www.youtube.com/watch?v=REqmyd-zSfU . In Egitto, il ritmo ha ispirato uno dei cori da stadio più celebri del calcio locale, ancora oggi cantato dai tifosi dell'Al Ahly.",
+      "link": ""
+    },
     {
       "id": "a_1789975153692",
       "title": "La famiglia melodica del Κόνιαλης",
