@@ -1,8 +1,227 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-20T17:49:22.191Z",
+  "exportedAt": "2026-09-21T07:19:37.652Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1789975172300",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Κατίνα Φαρασοπούλου",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=2KwWhcZTY68",
+          "vid": false
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1960",
+          "note": "Hani Benim Elli Dirhem Pastirma",
+          "link": "https://www.youtube.com/watch?v=sr5ddWHxhDM",
+          "vid": false
+        },
+        {
+          "who": "Δημήτρης Στεργίου",
+          "year": "1960-61",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=bQMwcNAyCWk",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-21",
+      "tgr": "Χανί μπενίμ ελί ντιρέμ παστουρμά",
+      "tit": "Chanì benìm elì dirèm pasturmà",
+      "alias": "Παστουρμά",
+      "at": "tradizionale",
+      "am": "tradizionale",
+      "yr": "tradizionale",
+      "ar": "",
+      "lb": "",
+      "gn": "dimotikò",
+      "zona": "Cappadocia",
+      "dr": "",
+      "bal": "Koniàlis",
+      "balgr": "Κόνυαλης",
+      "ll": "",
+      "li": "",
+      "ch": "Hani benim elli dirhem pastirma\nHani ya da benim elli dirhem pastrmam pastırmam\nKonyalı'dan başkasına bastırmam yar yar\nKonyalım yürü, yürü yavrum yürü, aslan yarim yürü\nAldattılar seni, vermediler beni\nKayseri'den, Karaman'dan Konya'dan Konya'dan\nGüzel seven mahrum kalmaz dünyadan yar yar\nKonyalım yürü, yürü yavrum yürü, aslan yarim yürü\nAldattılar seni, vermediler beni\nHani ya da benim elli dirhem irakım irakım\nİçer içer geçmez benim merakım vay vay\nKonyalım yürü, yürü yavrum yürü, aslan yarim yürü\nAldattılar seni, vermediler beni\nYüksek minareden attım kendimi kendimi\nÇok aradım bulamadım dengimi yar yar\nKonyalım yürü, yürü yavrum yürü, aslan yarim yürü\nAldattılar seni, vermediler beni",
+      "tr": "Chanì benìm elì dirèm pasturmà\n\nHani benim elli dirhem pastirma\nHani ya da benim elli dirhem pastrmam pastırmam\nKonyalı'dan başkasına bastırmam yar yar\nKonyalım yürü, yürü yavrum yürü, aslan yarim yürü\nAldattılar seni, vermediler beni\nKayseri'den, Karaman'dan Konya'dan Konya'dan\nGüzel seven mahrum kalmaz dünyadan yar yar\nKonyalım yürü, yürü yavrum yürü, aslan yarim yürü\nAldattılar seni, vermediler beni\nHani ya da benim elli dirhem irakım irakım\nİçer içer geçmez benim merakım vay vay\nKonyalım yürü, yürü yavrum yürü, aslan yarim yürü\nAldattılar seni, vermediler beni\nYüksek minareden attım kendimi kendimi\nÇok aradım bulamadım dengimi yar yar\nKonyalım yürü, yürü yavrum yürü, aslan yarim yürü\nAldattılar seni, vermediler beni",
+      "ti": "Dov'è il mio pastırma\n\nDov'è il mio pastırma da cinquanta dirhem, il mio pastırma\no meglio, il mio pastırma da cinquanta dirhem, il mio pastırma\nnon lo faccio pressare da nessun altro se non da uno di Konya, amore mio, amore mio\nMia ragazza di Konya, cammina, cammina piccola mia, cammina, mio amore leone\nTi hanno ingannata, non mi hanno dato a te\n\nDa Kayseri, da Karaman, da Konya, da Konya\nchi ama il bello non resta privo di nulla al mondo, amore mio, amore mio\nMia ragazza di Konya, cammina, cammina piccola mia, cammina, mio amore leone\nTi hanno ingannata, non mi hanno dato a te\n\nDov'è il mio raki da cinquanta dirhem, il mio raki\nlo bevo, lo bevo, ma non mi passa la mia inquietudine, ahimè, ahimè\nMia ragazza di Konya, cammina, cammina piccola mia, cammina, mio amore leone\nTi hanno ingannata, non mi hanno dato a te\n\nDa un alto minareto mi sono gettato, mi sono gettato\nho cercato a lungo, non ho trovato la mia pari, amore mio, amore mio\nMia ragazza di Konya, cammina, cammina piccola mia, cammina, mio amore leone\nTi hanno ingannata, non mi hanno dato a te\n\nNote di traduzione\n\n\"pastırma\" — carne essiccata e speziata tipica della tradizione turca (simile alla bresaola ma più speziata), specialità particolarmente rinomata se preparata da artigiani di Konya; termine lasciato invariato per la sua specificità culturale.\n\n\"elli dirhem\" — \"cinquanta dirhem\": il dirhem è un'antica unità di peso ottomana (circa 3,2 grammi); l'espressione indica scherzosamente una piccola quantità pregiata, sottolineando la qualità del prodotto più che il peso letterale.\n\n\"Konyalı\" — \"originario di Konya\": Konya è una città dell'Anatolia centrale, storicamente importante (capitale del Sultanato di Rum, città di Rumi); l'espressione sottolinea l'orgoglio per la provenienza specifica sia del pastırma sia, metaforicamente, della ragazza amata (\"Konyalım\" = \"la mia ragazza di Konya\").\n\n\"aslan yarim\" — \"mio amore leone\" (aslan = leone): appellativo affettuoso-ammirativo turco per indicare una persona coraggiosa, forte e magnifica, qui rivolto all'amata come massimo elogio.\n\n\"Aldattılar seni, vermediler beni\" — \"ti hanno ingannata, non mi hanno dato a te\": verso ricorrente che allude a un ostacolo esterno (probabilmente familiare) che ha impedito l'unione dei due innamorati, ingannando la ragazza riguardo al pretendente.\n\n\"rakı\" — il raki, distillato di anice tipico della tradizione turca (e greca, dove è chiamato ούζο/τσίπουρο); bevanda associata alla convivialità ma qui usata per affogare l'inquietudine amorosa, senza però trovare sollievo.\n\n\"Yüksek minareden attım kendimi\" — \"da un alto minareto mi sono gettato\": iperbole drammatica per esprimere la disperazione d'amore, immagine di gesto estremo (quasi suicida) usata in senso figurato per sottolineare l'intensità della sofferenza per non aver trovato una pari all'amata perduta.",
+      "no": "Quando Stelios Kazantzidis registrò il brano nel 1960 per la Columbia, molti rimasero sorpresi. Kazantzidis era l'idolo delle canzoni drammatiche, dei pianti e delle sofferenze sociali. Incidere un pezzo così ritmico, cantato in lingua anatolica e turca, dimostrò il suo viscerale attaccamento alle origini della sua famiglia (la madre di Stelios era una profuga dell'Asia Minore) ed divenne un successo commerciale clamoroso tra i nostalgici della \"Patria perduta\".\nIl brano prende il nome dal pastourmás (il tipico affettato di carne di manzo o cammello, pressato e speziato con abbondante fieno greco, famosissimo in tutta l'Anatolia e nei Balcani). Nella tradizione ellenica, il pastourmas è il Re indiscusso dei mezedes (gli antipasti) da consumare nelle taverne per accompagnare l'ouzo o il rakì.Il testo originale è un curioso e allegro ibrido linguistico tra il greco e il turco (comune tra i greci \"Karamanlides\" dell'Anatolia): la frase ricorrente “Hani benim eli direm pastourma” si traduce storicamente con un gioco di parole festoso legato al mercato, al cibo e al corteggiamento, esaltando l'atmosfera gioviale e godereccia delle feste microasiatiche. Quando i profughi arrivarono in Grecia, portarono con sé questo brano, che divenne subito un punto fermo nelle esibizioni dal vivo delle taverne del Pireo e di Salonicco.",
+      "balvid": true
+    },
+    {
+      "id": "s_1789968874713",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Βαγγέλης Περπινιάδης",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=K8i-B9brN28",
+          "vid": false
+        },
+        {
+          "who": "Σεβάς Χανούμ, Στέλιος Σουγιουλτζής, Δημήτρης Στεργίου, Χρήστος Χριστόπουλος",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=dKTEcA24Ly0",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-21",
+      "tgr": "Μαχαράνη",
+      "tit": "Macharàni",
+      "alias": "",
+      "at": "Κώστας Βίρβος",
+      "am": "Βαγγέλης Περπινιάδης",
+      "yr": "1959",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà indo-prepi",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Μαχαρανή, Μαχαρανή πάντα η καρδιά μου σε πονεί.\nΠεριμένω να ξανάρθεις να μου δώσεις δυο φιλιά\nκαι μετά ας ξεψυχήσω στη δικιά σου αγκαλιά.\n\nΓύρνα αγάπη μου γλυκιά\nέλα και δεν αντέχω πια.\n\nΜαχαρανή, Μαχαρανή φωνάζω βράδυ και πρωί.\nΤ’ όνομά σου με λαχτάρα λέω πάντα και πονώ, \nμοναχός μέσα στους δρόμους τριγυρνώ.\n\nΓύρνα αγάπη μου γλυκιά\nέλα και δεν αντέχω πια.\n\nΜαχαρανή, Μαχαρανή ποθώ το λάγνο σου κορμί.\nΣαν Θεό μου σε προσμένω να μου γιάνεις την καρδιά, \nμέρα νύχτα περιμένω αγαπούλα γλυκιά.\n\nΓύρνα αγάπη μου γλυκιά\nέλα και δεν αντέχω πια.",
+      "tr": "Macharàni\n\nMacharaní, macharaní pánda i kardiá mu se poní\nPeriméno na ksanárthis na mu dósis dio filiá\nkie metá as ksepsichíso sti dikiá su angaliá\nGhírna aghápi mu ghlikiá éla kie den andécho pia\n\nMacharaní, macharaní fonázo vrádi kie proí\nT' ónomá su me lachtára léo pánda kie ponó\nmonachós mésa stus drómus trighirnó\nGhírna aghápi mu ghlikiá éla kie den andécho pia\n\nMacharaní, macharaní pothó to lágno su kormí\nSan Theó mu se proméno na mu ghiánis tin kardiá\nméra níchta periméno aghapúla ghlikiá\nGhírna aghápi mu ghlikiá éla kie den andécho pia",
+      "ti": "Maharani\n\nMaharani, Maharani, il mio cuore soffre sempre per te\nAspetto che tu ritorni per darmi due baci\ne poi che io possa spirare tra le tue braccia\nTorna, amore mio dolce, vieni, non ne posso più\n\nMaharani, Maharani, grido sera e mattina\nIl tuo nome con struggimento dico sempre e soffro\nsolo per le strade vago\nTorna, amore mio dolce, vieni, non ne posso più\n\nMaharani, Maharani, desidero il tuo corpo sensuale\nCome un dio ti aspetto, che tu guarisca il mio cuore\ngiorno e notte aspetto, dolce amore mio\nTorna, amore mio dolce, vieni, non ne posso più\n\nNote di traduzione\n\n\"Μαχαρανή\" — \"Maharani\" (dal sanscrito/hindi, \"grande regina\", femminile di Maharaja): nome esotico usato come appellativo affettuoso per l'amata, elevandola a figura regale/orientale; prestito culturale che riflette il gusto per l'esotismo tipico di certa canzone leggera greca del secondo Novecento.\n\n\"ας ξεψυχήσω στη δικιά σου αγκαλιά\" — \"che io possa spirare tra le tue braccia\": iperbole della \"morte d'amore\", figura retorica tipica della canzone popolare mediterranea, dove il desiderio d'amore si esprime attraverso l'immagine estrema di morire nell'abbraccio della persona amata, come segno di unione totale.\n\n\"το λάγνο σου κορμί\" — \"il tuo corpo sensuale/lascivo\" (λάγνος = lascivo, voluttuoso): termine esplicitamente sensuale che sottolinea il desiderio fisico oltre a quello sentimentale.\n\n\"Σαν Θεό μου σε προσμένω\" — \"come un dio ti aspetto\": iperbole che eleva l'amata al rango di divinità, a cui ci si rivolge con un'attesa quasi religiosa, capace di \"guarire\" (γιάνω) il cuore ferito — fusione di linguaggio sacro e amoroso tipica della tradizione poetica mediterranea.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789967633515",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Σπύρος Ζαγοραίος, Ζωή Ζαγοραίου",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=VR3O_rzGWeo",
+          "vid": false
+        },
+        {
+          "who": "Στράτος Διονυσίου, Καίτη Θύμη",
+          "year": "1960",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=ro1n7w76if0",
+          "vid": false
+        },
+        {
+          "who": "Σεβάς Χανούμ, Γρηγόρης Βασιλείου, Δημήτρης Στεργίου, Τάσος Σοφόπουλος",
+          "year": "1961",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=9BG7q5rWN_8",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-21",
+      "tgr": "Θα πεθάνω γλυκιά μου αγάπη",
+      "tit": "Tha pethàno glikià mu agàpi",
+      "alias": "",
+      "at": "Δημήτρης Γκούτης",
+      "am": "Σπύρος Ζαγοραίος",
+      "yr": "1960",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Καρδιά μου καημένη, κατάρα σε δέρνει βαρειά\nη χαρά της χαράς μου, θα φύγει μακριά μου\nΠώς θ' αντέξεις για πες μου\nτην σκληρή μοναξιά\n\nΘα πεθάνω γλυκειά μου αγάπη\nθα με πνίξει ο καημός και το δάκρυ\nΑν μου φύγεις θα φύγει η ζωή μου\nθα σβήσει η πνοή μου\nΑχ! Θα τρελαθώ\n\nΠες μου τι σου 'φταιξα και με πληγώνεις\nτι σου 'χω κάνει για να πονώ\nΜείνε αγάπη μου, μείνε κοντά μου\nδεν τον αντέχω τον χωρισμό\n\nΟ σεβντάς σου φωτιά μου ανάβει\nκαι ο καημός σου τον τάφο μου σκάβει\nΠοιος σε παίρνει και φεύγεις μακριά μου\nγλυκειά συντροφιά μου\nΑχ! Θα τρελαθώ\n\nΜείνε αγάπη μου μείνε κοντά μου\nδεν τον αντέχω, τον χωρισμό.",
+      "tr": "Tha pethàno glikià mu agàpi\n\nKardiá mu kaiméni, katára se dérni varhiá\ni chará tis charás mu, tha físghi makriá mu\nPos th' andéksis ghia pes mu tin sklirí monaksiá\n\nTha petháno ghlikiá mu aghápi\ntha me pníksi o kaimós kie to dákri\nAn mu físghis tha físghi i zoí mu\ntha zvísi i pnoí mu\nAch! Tha treláthó\n\nPes mu ti su 'ftaksa kie me plighónis\nti su 'cho káni ghia na ponó\nMíne aghápi mu, míne kondá mu\nden ton andécho ton chorismó\n\nO sevdás su fotiá mu anávi\nkie o kaimós su ton táfo mu skávi\nPios se pérni kie févghis makriá mu\nghlikiá sindrofiá mu\nAch! Tha treláthó\n\nMíne aghápi mu míne kondá mu\nden ton andécho, ton chorismó.",
+      "ti": "Morirò mio dolce amore\n\nCuore mio infelice, una maledizione ti colpisce pesantemente\nla gioia della mia gioia se ne andrà lontano da me\nCome reggerai, dimmelo, la crudele solitudine\n\nMorirò, amore mio dolce\nmi soffocherà l'affanno e la lacrima\nSe te ne vai se ne andrà la mia vita\nsi spegnerà il mio respiro\nAh! Impazzirò\n\nDimmi in cosa ti ho mancato e mi ferisci\ncosa ti ho fatto per soffrire così\nResta, amore mio, resta vicino a me\nnon riesco a sopportarla, la separazione\n\nIl tuo amore appassionato accende il mio fuoco\ne il tuo affanno scava la mia tomba\nChi ti porta via e te ne vai lontano da me\nmia dolce compagnia\nAh! Impazzirò\n\nResta, amore mio, resta vicino a me\nnon riesco a sopportarla, la separazione.\n\nNote di traduzione\n\n\"η χαρά της χαράς μου\" — \"la gioia della mia gioia\": costruzione enfatica tipica del linguaggio poetico d'amore greco, per indicare la persona amata come fonte suprema e assoluta di felicità, quasi una \"gioia al quadrato\".\n\n\"θα με πνίξει ο καημός και το δάκρυ\" — \"mi soffocherà l'affanno e la lacrima\": ancora il termine \"καημός\" (pena/affanno esistenziale), qui unito all'immagine del soffocamento per esprimere un dolore fisicamente insopportabile.\n\n\"Ο σεβντάς σου\" — \"il tuo sevdà/amore appassionato\": termine di origine turca  che indica una passione amorosa intensa, quasi dolorosa, tipica del lessico rebetiko di origine turco-ottomana.\n\n\"τον τάφο μου σκάβει\" — \"scava la mia tomba\": immagine iperbolica già vista in altre canzoni , che esprime la sofferenza d'amore come una condanna a morte lenta e inevitabile.\n\n\"Θα τρελαθώ\" — \"impazzirò\": espressione iperbolica ricorrente nel genere, per esprimere la disperazione estrema di fronte alla minaccia di perdere l'amata/o.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789965690884",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Στέλιος Καζαντζίδης, Μαρινέλλα, Γιώτα Λύδια",
+          "year": "1959",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=sfTXxe6iwbw",
+          "vid": false
+        },
+        {
+          "who": "Σεβάς Χανούμ, Δημήτρης Στεργίου, Ιορδάνης Τσομίδης",
+          "year": "",
+          "note": "Μακριά σου λιώνω",
+          "link": "https://www.youtube.com/watch?v=NfbpgSM8FjI",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-21",
+      "tgr": "Πάντα εσένα συλλογιέμαι",
+      "tit": "Pànda esèna siloghième",
+      "alias": "Χρόνια τώρα μακριά σου λιώνω",
+      "at": "Χαράλαμπος Βασιλειάδης",
+      "am": "Στέλιος Καζαντζίδης,",
+      "yr": "1959",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm LAm SOL RE MIm\nΑ, α, α, α, α\nMIm LAm SOL RE MIm\nΑ, α, α, α, α\n\nMIm                     LAm\nΧρόνια τώρα μακριά σου λιώνω\nLAm                         MIm\nΣτην καρδιά μου έχεις βάλει πόνο\n MIm                    LAm\nΠάντα εσένα συλλογιέμαι μόνο\n  LAm                    MIm\nΈφυγες και μέρα νύχτα λιώνω\n\nMIm LAm SOL RE MIm\nΑ, α, α, α, α\nMIm LAm SOL RE MIm\nΑ, α, α, α, α\n\nMIm                     LAm\nΑπ' τον πόνο της αγάπης κλαίω\nLAm                         MIm\nτ' όνομά σου μέρα νύχτα λέω\nMIm                     LAm\nΓια το χωρισμό μας εγώ φταίω\nLAm                      MIm\nΑπ' τον πόνο της αγάπης κλαίω\n\nMIm LAm SOL RE MIm\nΑ, α, α, α, α\nMIm LAm SOL RE MIm\nΑ, α, α, α, α\n\nMIm                     LAm\nΈλα γύρνα πια κοντά μου, λιώνω\nLAm                   MIm\nτώρα δεν αντέχω άλλο πόνο\nMIm                     LAm\nΤη χαρά εσύ μου δίνεις μόνο\nLAm                         MIm\nΈλα, γύρνα πια κοντά μου, λιώνω\n\nMIm LAm SOL RE MIm\nΑ, α, α, α, α\nMIm LAm SOL RE MIm\nΑ, α, α, α, α",
+      "tr": "Pànda esèna siloghième\n\nA, a, a, a, a\nChrónia tóra makriá su lióno\nStin kardiá mu échis válei póno\nPánda eséna sillogiéme móno\nÉfighes kie méra níchta lióno\nA, a, a, a, a\n\nAp' ton póno tis aghápis kléo\nt' ónomá su méra níchta léo\nGhia to chorismó mas eghó ftéo\nAp' ton póno tis aghápis kléo\nA, a, a, a, a\n\nÉla ghírna pia kondá mu, lióno\ntóra den andécho állo póno\nTi chará esí mu dínis móno\nÉla, ghírna pia kondá mu, lióno\nA, a, a, a, a",
+      "ti": "Penso sempre a te\n\nAh, ah, ah, ah, ah\nSono anni ormai che, lontano da te, mi consumo\nNel mio cuore hai messo dolore\nPenso sempre e solo a te\nSei partita/o e giorno e notte mi consumo\nAh, ah, ah, ah, ah\n\nPer il dolore dell'amore piango\nil tuo nome dico giorno e notte\nDella nostra separazione sono io il colpevole\nPer il dolore dell'amore piango\nAh, ah, ah, ah, ah\n\nVieni, torna ormai vicino a me, mi consumo\nora non sopporto più dolore\nSolo tu mi dai la gioia\nVieni, torna ormai vicino a me, mi consumo\nAh, ah, ah, ah, ah\n\nNote di traduzione\n\n\"λιώνω\" — letteralmente \"mi sciolgo/mi fondo\" (come ghiaccio o cera): verbo molto comune nella canzone d'amore greca per esprimere il consumarsi lentamente per la sofferenza o il desiderio d'amore, reso qui con \"mi consumo\" per mantenere l'idea di logorio interiore continuo.\n\n\"Πάντα εσένα συλλογιέμαι μόνο\" — \"penso sempre e solo a te\" (συλλογιέμαι = riflettere, pensare intensamente): esprime un pensiero fisso e ossessivo verso la persona amata, tipico registro delle canzoni di struggimento amoroso.\n\n\"Για το χωρισμό μας εγώ φταίω\" — \"della nostra separazione sono io il colpevole\": ammissione di colpa diretta e senza mezzi termini, elemento che intensifica il rimpianto e la richiesta di perdono/ritorno espressa nell'ultima strofa.\n\n\"Τη χαρά εσύ μου δίνεις μόνο\" — \"solo tu mi dai la gioia\": dichiarazione assoluta e totalizzante che pone la persona amata come unica fonte di felicità possibile, rafforzando l'intensità della supplica di ritorno che chiude la canzone.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789964068031",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δημήτρης Στεργίου",
+          "year": "",
+          "note": "Leaving My Land In Bitterness",
+          "link": "https://www.youtube.com/watch?v=HOnXFJc67pA",
+          "vid": false
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+          "year": "1958",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=FxeyggRrj_E",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-21",
+      "tgr": "Φεύγω με πίκρα στα ξένα",
+      "tit": "Fèvgo me pìkra sta ksèna",
+      "alias": "Μανούλα θα φύγω, μην κλάψεις για μένα",
+      "at": "Ευτυχία Παπαγιαννοπούλου",
+      "am": "Στέλιος Καζαντζίδης",
+      "yr": "1958",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE           MIm        RE      LA RE\nΜανούλα θα φύγω μην κλάψεις για 'μένα, \nRE           MIm      RE     LA RE\nη μοίρα το γράφει μονάχος να ζω\n\nRE MIm RE LA RE\n\nSOL                       RE                LA           RE  LA  RE\nΤο μίσος του κόσμου με δέρνει σκληρά, και φεύγω με πίκρα στα ξε--να\nSOL                       RE                LA           RE  LA  RE\nΤο μίσος του κόσμου με δέρνει σκληρά, και φεύγω με πίκρα στα ξε--να\n\nRE MIm RE LA RE LA RE\n\n\n    RE          MIm   RE     LA RE\nΜ' αδίκησαν μάνα βαριά με πλήγωσαν, \n    RE       MIm   RE     LA RE\nκαι ότι αγαπούσα το έχασα πια\n\nRE MIm RE LA RE\n\nSOL                       RE                LA           RE  LA  RE\nΠοτέ το παιδί σου δεν είδε χαρά, και φεύγει για πάντα στα ξε--να\nSOL                       RE                LA           RE  LA  RE\nΠοτέ το παιδί σου δεν είδε χαρά, και φεύγει για πάντα στα ξε--να\n\nRE MIm RE LA RE LA RE\n\nRE           MIm        RE      LA RE\nΠικρές αναμνήσεις μαζί μου θα πάρω, \nRE           MIm        RE      LA RE\nστα ξένα που θα 'μαι ρημαδί θα ζω\n\nRE MIm RE LA RE\n\nSOL                       RE                LA           RE  LA  RE\nΠαιδί πια δεν θα 'χεις μανούλα γλυκιά, εκεί θα πεθάνω στα ξε--να\nSOL                       RE                LA           RE  LA  RE\nΠαιδί πια δεν θα 'χεις μανούλα γλυκιά, εκεί θα πεθάνω στα ξε--να",
+      "tr": "Fèvgo me pìkra sta ksèna\n\nManúla tha fígho min klápsis ghia 'ména,\ni mira to ghráfi monáchos na zo\nTo mísos tu kósmu me dérni sklirá, \nkie févgho me píkra sta ksena\n\nM' adíkisan mána variá me plíghosan, \nkie óti aghapúsa to échasa pia\nPoté to pedí su den íde chará, \nkie févghi ghia pánda sta ksena\n\nPikrés anamnísis mazí mu tha páro, \nsta kséna pu tha 'me rimadí tha zo\nPedí pia den tha 'chis manúla ghlikiá, \nekí tha pethano sta ksena",
+      "ti": "parto con amarezza verso terre straniere\n\nMammina, partirò, non piangere per me, \nil destino vuole che io viva solo\nL'odio del mondo mi colpisce duramente, \ne parto con amarezza verso terre straniere\n\nMi hanno fatto un torto grave, mamma, mi hanno ferito, \ne ciò che amavo l'ho perso ormai\nTuo figlio non ha mai visto la gioia, \ne parte per sempre verso terre straniere\n\nRicordi amari porterò con me, \nnegli stranieri dove sarò un rudere vivrò\nNon avrai più un figlio, dolce mammina,\nlì morirò, in terre straniere\n\nNote di traduzione\n\n\"μανούλα\" — diminutivo affettuoso di \"μάνα\" (mamma), già visto in altre canzoni; qui apre e chiude il canto come invocazione struggente alla madre lasciata alla partenza.\n\n\"η μοίρα το γράφει\" — \"il destino lo scrive\": espressione fatalista già incontrata (vedi \"έτσι ήτανε γραμμένο\"), che attribuisce la sofferenza a un destino ineluttabile e già \"scritto\".\n\n\"στα ξένα\" — \"nelle terre straniere/all'estero\": termine chiave legato al tema dell'emigrazione forzata (ξενιτιά), già ricorrente in molte canzoni precedenti, qui pronunciato con pausa emotiva (\"ξε--να\") che ne sottolinea il peso doloroso nel canto.\n\n\"ρημαδί θα ζω\" — \"vivrò come un rudere/una rovina\" (ρημάδι = rudere, rovina): immagine che esprime l'annullamento della propria dignità/vita nella condizione di emigrato, ridotto a un'esistenza desolata e priva di senso lontano dalla patria e dalla madre.\n\n\"εκεί θα πεθάνω στα ξένα\" — \"lì morirò, in terre straniere\": chiusura tragica e definitiva del canto, che conferma il destino di morte in esilio, lontano dagli affetti, tema ricorrente nelle canzoni greche di emigrazione già incontrate (vedi altre canzoni su ξενιτιά ed εξορία).",
+      "no": "",
+      "balvid": true
+    },
     {
       "id": "s_1789915856909",
       "offsets": {},
@@ -11692,6 +11911,14 @@
   ],
   "args": [
     {
+      "id": "a_1789975153692",
+      "title": "La famiglia melodica del Κόνιαλης",
+      "tag": "storie di canzoni",
+      "date": "2026-09-02",
+      "body": "Una delle melodie più itineranti della tradizione musicale greco-anatolica nasce a Iconio (Κόνιο, oggi Konya), in Cappadocia — da cui il nome stesso, \"Κόνιαλης\", cioè \"colui che viene da Konya\". Il brano, in origine un canto/ballo cappadoce in lingua turca portato in Grecia dai profughi turcofoni della regione, si diffuse nei secoli grazie ai fitti scambi commerciali dell'Asia Minore e, soprattutto, alle grandi migrazioni forzate seguite alla Catastrofe del 1922: la melodia mise radici in luoghi lontanissimi tra loro, assumendo ogni volta un nome, un testo e persino una funzione coreutica diversi, pur restando riconoscibile nella linea musicale di fondo.\n{{img:https://musicagreca.com/images/ mappa_konialis_finale.jpg|centro}}\n\nLe forme regionali documentate sono numerose: resta Κόνιαλι https://www.youtube.com/watch?v=AqUVlAOG0tA  in Cappadocia, cantato in turco; diventa un καρσιλαμάς strumentale lungo le coste dell'Asia Minore e del Ponto; tra i Marides dell'Evros è il Λαΐσιος,  https://www.youtube.com/watch?v=sZGQhMBUP28   un ballo mimico e satirico; a Nea Vyssa (Evros) è il Κουτσός (o Αϊντίνκους https://www.youtube.com/watch?v=p9EYrhOOHL0 ); tra i Gkakavouzides di Chrysochorafa (Serres) è l'Ατσίκ Χαβασί  https://www.youtube.com/watch?v=rxk2-dQJ5GU ; a Lero è il Γιαβρί  https://www.youtube.com/watch?v=i8Qe5eNikl0 ; nel Dodecaneso e a Cipro diventa il canto/ballo della Βράκα. Roza Eskenazy ne incise nel 1933 un adattamento in lingua greca  https://www.youtube.com/watch?v=FmW8LhMYjHY   e Rita Ampatzì una versione nel 1934   https://www.youtube.com/watch?v=h_OBMnIVM_I  . Giannis Dragatsis \"Ogdontakis\" ne firmò i due adattamenti in lingua greca: \"Κόνιαλης\" (Roza Eskenazy, 1933) e \"Νέος Κόνιαλης\" (Rita Abatzi, 1934).\nAnche la coreografia cambia da zona a zona: a Creta è un ballo \"antikristòs\" (faccia a faccia); ad Agioneri (Salonicco) è danza nuziale  https://www.youtube.com/watch?v=HaV6lfTcKnc   con i cucchiai in mano; a Imvro è un ibrido tra syrtos e chasapiko; a Rodi lo ballano solo uomini, uno o due alla volta, con un bicchiere in ciascuna mano.\nLa melodia resta viva ancora oggi nel repertorio dei canti cappadoci — Katina Farasopoulou (1933-2019) https://www.youtube.com/watch?v=2KwWhcZTY68 , una delle ultime grandi voci di quella tradizione, la eseguiva regolarmente come \"Ο Κόνιαλης\" — ed è arrivata fino a Stelios Kazantzidis  https://www.youtube.com/watch?v=sr5ddWHxhDM , che ne incise una propria versione (\"Hani Benim Elli Dirhem Pastırmam\"), e fino a Dimitris Stergiou \"Bebis\", che la registrò in America come \"Παστουρμά\" https://www.youtube.com/watch?v=bQMwcNAyCWk .\nI testi, a confronto\nCipro — \"Η βράκα\"\nΕ, σαρανταδκυό πήχες παννίν, / σαρανταδκυό πήχες παννίν, / έκαμαν μου έκαμαν μου / μια βράκαν. / Τη γ' έρμην την βράκα / που κάμνει τρίκκι τράκκα. [...] Τη βράκα μου στη λίμνην / τζιαι πκοιός να μου την πλύνει, / τζιαι πκοιός να την απλώσει, / στον ήλιον να στεγνώσει [...]\nKavala — \"Παστουρμά\" (base della versione di Bebis)\nΧαν για τα μπένιμ ελιτίρεμ / παστουρμά παστουρμά / κονιαλούταμ μπασκασίνα / Κόνιαλιμ γιόριμ. / Γιόριμ γιάβρουμ γιόριμ / ασλάν γιάριμ γιόριμ / Κόνιαλι γιορ. (Traduzione: \"Ah, dove sono i miei cinquanta drammi di pastourmà, non affido a nessun altro se non alla mia Iconiota di tagliarlo, Iconiota mia, vai, piccola mia, vai, mio piccolo leoncino, vai.\")\nRebetiko — \"Κόνιαλης\"\nΑχ, Κόνιαλή μου σαν σε ιδώ στην αγορά / και με σκέρτσο να μου κόβεις παστουρμά και σουτζουκάκι, / αμάν κόνιαλή μου, / με το μαχαίρι που κρατάς μου πήρες τη ζωή μου / χωρίς εσένα δεν μπορώ να ζήσω Κόνιαλή μου [...]",
+      "link": ""
+    },
+    {
       "id": "a_1789881926252",
       "title": "\"Δημήτρης Στεργίου \"Μπέμπης\": il virtuoso che non volle essere un grammofono",
       "tag": "storie di persone",
@@ -12071,13 +12298,13 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
+        "ar"
       ],
-      "bio": "Manos (Emmanuil) Hadjidakis ( Xanthi , 23 ottobre 1925 – Atene , 15 giugno 1994) è stato un importante compositore , poeta , cantautore , direttore d'orchestra e pianista greco . È considerato il primo ad aver collegato, con il suo lavoro teorico e compositivo, la musica lirica del dopoguerra alla tradizione della musica popolare.  Molte delle sue centinaia di opere sono oggi riconosciute come classici.\n\nNel 1960, gli fu assegnato l' Oscar per la migliore canzone originale per il brano \" I figli del Pireo \" tratto dal film \" Mai di domenica \" del regista Jules Dassin . Tuttavia, Manos Hadjidakis non partecipò alla cerimonia di premiazione, né lo fece nessun altro al suo posto. Il premio fu spedito qualche giorno dopo, ma andò perduto durante il tragitto. Nella foto che lo ritrae con l'Oscar, lo tiene in mano da Katina Paxinou, da cui lo aveva preso in prestito.",
+      "bio": "Compositore, poeta, cantautore, direttore d'orchestra e pianista, tra le figure più importanti della musica greca del Novecento. È considerato il primo ad aver saputo collegare, nel proprio lavoro teorico e compositivo, la musica colta del dopoguerra alla tradizione della canzone popolare.\n\nNacque a Xanthi, dove il padre lavorava come consulente legale per le fiorenti aziende del tabacco della zona; la famiglia si trasferì ad Atene nel 1932. Nel 1938 il padre morì in un incidente aereo, e la conseguente crisi economica familiare, aggravata dallo scoppio della guerra, costrinse il giovane Chatzidakis a lavori di fortuna durante gli anni dell'Occupazione e della Liberazione: scaricatore al porto del Pireo, venditore di ghiaccio alla fabbrica Fix, impiegato in uno studio fotografico, aiuto infermiere al 401° Ospedale Militare. Parallelamente studiava filosofia all'Università di Atene, formandosi al fianco di artisti e intellettuali della generazione del '30 come Giorgos Seferis, Nikos Gatsos e Angelos Sikelianos.\n\nIl 31 gennaio 1949 tenne, al Theatro Technis di Karolos Koun ad Atene, una conferenza destinata a diventare storica: aveva solo 24 anni, la Grecia era nel pieno della guerra civile, e il rembetiko era ancora guardato con disprezzo dalla borghesia e dagli intellettuali. Chatzidakis lo difese apertamente come \"un'arte genuinamente e unicamente greca\", facendone risalire le radici fino al canto liturgico bizantino e accostandolo, per rigore, persino alla tragedia antica e, musicalmente, a Bach. A conclusione dell'intervento fece esibire dal vivo, davanti a un pubblico sbalordito, Markos Vamvakaris e Sotiria Bellou. Questa conferenza è oggi considerata una pietra miliare per la legittimazione culturale del rembetiko in Grecia.\n\nDal 1945 collaborò soprattutto con il Teatro Nazionale e il Theatro Technis, componendo musiche per tragedie e commedie antiche oltre che per il repertorio moderno: Orestea (1950), Medea (1956), Le donne al parlamento (1956), Lisistrata (1957), Il Ciclope (1959), Gli uccelli (1959), Un tram che si chiama Desiderio (1948), Nozze di sangue (1948), Dolce uccello della giovinezza (1960). Nel 1948 compose Για μια μικρή άσπρη αχιβάδα (\"Per una piccola conchiglia bianca\"), opera che lui stesso indicava come la più cara di tutta la sua produzione.\n\nScrisse inoltre le colonne sonore di importanti film greci e internazionali: Kalpiki lira (Giorgos Tzavellas, 1954), Stella (Michael Cacoyannis, 1955), Το δράκο (Nikos Koundouros, 1956), America America (Elia Kazan, 1962), Sweet Movie (Dušan Makavejev, 1974).\n\nNel 1960 gli fu assegnato l'Oscar per la migliore canzone originale per \"Τα παιδιά του Πειραιά\" (\"I ragazzi del Pireo\"), tratta dal film Ποτέ την Κυριακή (\"Mai di domenica\") di Jules Dassin — canzone poi entrata tra le dieci più eseguite del ventesimo secolo a livello mondiale. Chatzidakis non partecipò alla cerimonia, né vi fu alcun suo rappresentante; la statuetta gli fu spedita alcuni giorni dopo, ma andò perduta durante il tragitto. Nella celebre fotografia che lo ritrae con l'Oscar in mano, la statuetta è in realtà presa in prestito da Katina Paxinou.",
       "link": "https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CE%BD%CE%BF%CF%82_%CE%A7%CE%B1%CF%84%CE%B6%CE%B9%CE%B4%CE%AC%CE%BA%CE%B9%CF%82",
       "listen": "https://www.youtube.com/watch?v=9L4Tg2a5Q7k",
-      "photo": "https://musicagreca.github.io/musica-greca/images/chadzidakis.jpg"
+      "photo": "https://musicagreca.github.io/musica-greca/images/chadzidakis.jpg",
+      "instr": "pianoforte"
     },
     {
       "id": "p5",
@@ -12815,9 +13042,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "bouzouki, chitarra, voce"
     },
     {
       "id": "p_1785696561953",
@@ -13334,9 +13561,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "lira cretese, strumenti a corda"
     },
     {
       "id": "p_1786029403585",
@@ -13522,9 +13749,9 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/iannatu.jpg",
       "roles": [
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "chitarra"
     },
     {
       "id": "p_1786088932694",
@@ -14888,9 +15115,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "bouzouki, baglamas, violino, pianoforte, chitarra, laouto, mandola, mandolino"
     },
     {
       "id": "p_1787334765845",
@@ -15866,9 +16093,9 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/estchrist.jpg",
       "roles": [
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "armonica, mandolino, chitarra, voce"
     },
     {
       "id": "p_1788074093805",
@@ -17662,6 +17889,51 @@
         "ar"
       ],
       "instr": ""
+    },
+    {
+      "id": "p_1789966628999",
+      "name": "Καίτη Θύμη",
+      "nameit": "Kèti Thìmi",
+      "born": "1935, Ano Korakianà Kerkiras",
+      "died": "2012",
+      "bio": "Cantante di repertorio laiko/entechno. Nel 1961 incise in duetto con Grigoris Bithikotsis \"Θ' αφήσω τη μανούλα μου\" (testo Dimitris Christodoulou, musica Mikis Theodorakis) e \"Μαργαρίτα-Μαργαρώ\", entrambi su singolo Archipelagos. Altri brani noti a suo nome includono \"Καταραμένη θάλασσα\" e \"Ο Τσακιτζής\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/thimi.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1789967480275",
+      "name": "Γρηγόρης Βασιλείου",
+      "nameit": "Grigóris Vasilíou",
+      "born": "1933",
+      "died": "2005",
+      "bio": "Noto anche come \"Gregory Vassiliou\", \"Mr. Greektown\"\n \nChitarrista e cantante. Si trasferì in America negli anni '50 e vi rimase fino alla fine della vita, diventando una figura storica della scena greco-americana — tanto da guadagnarsi il soprannome \"Mr. Greektown\". Lavorò più volte con Dimitris Stergiou \"Bebis\", sia in ambito discografico (le session della Alector Records) sia dal vivo, in locali di diversi stati americani.\n\n(Fonte: dedica del figlio Grigoris — Giorgos Vassiliou, dall'Arizona)",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vasiliu.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "chitarra, voce"
+    },
+    {
+      "id": "p_1789969625016",
+      "name": "Κατίνα Φαρασοπούλου",
+      "nameit": "Katína Farasopoúlou",
+      "born": "14 febbraio 1933, Iasio, Rodopi",
+      "died": "23 novembre 2019, Askites, Rodopi",
+      "bio": "Φαρασοπούλου-Μισαηλίδου\n\nCantante di canti tradizionali e agricoltrice. Era originaria del villaggio di Agii Anargyri (oggi Ağırnas, in Turchia), nella zona storica della Cappadocia, presso Cesarea. Parlava sia greco che turco, lingua che aveva imparato per necessità nella terra d'origine.\n\nDivenne nota soprattutto per la sua interpretazione del canto tradizionale \"Ο Κόνιαλης\", eseguito in lingua turca. Fu un punto di riferimento assoluto per la comunità cappadoce e per i profughi dell'Asia Minore, tanto da essere considerata \"l'anima\" del Sillogos ton Kappadokon (Associazione dei Cappadoci). Nel 2018 si esibì all'Odeon di Erode Attico di Atene, cantando canzoni della tradizione cappadoce. Spesso cantava in duetto con il fratello Vasilis.\n\nMorì nella propria abitazione, assistita dalla nuora Anna Kaseri Farasopoulou.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/farasopulu.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
     }
   ]
 }
