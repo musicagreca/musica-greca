@@ -1,8 +1,164 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-21T10:11:05.899Z",
+  "exportedAt": "2026-09-21T14:47:59.510Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1790002069859",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Οι σφουγγαράδες",
+      "tit": "I sfungharádes",
+      "alias": "",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1936",
+      "ar": "Στράτος Παγιουμτζής",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=qVJ-yhzlVo8",
+      "li": "",
+      "ch": "Οι καημένοι οι σφουγγαράδες\nείναι όλοι κουβαρντάδες\nΤρώνε όλα τα λεφτά τους\nφεύγουν, πάνε στη δουλειά τους\n \nΦεύγουν για την Ιταλία\nΙσπανία, ρε και Γαλλία\nΣ' ένα φόρεμα τους βάζουν\nπέφτουν και σφουγγάρια βγάζουν\n \nΚαι το βράδυ ρε που σχολάνε\nτην ξερή γαλέτα αρπάνε\nκάθουνται και τη μασάνε\nκι ύστερα για ξάπλα πάνε\n \nΤο πρωί που θα ξυπνήσουν\nπάλι τις βουτιές θ' αρχίσουν\nΚι αν δε βγάλουνε σφουγγάρια\nθα 'χουν άσχημα χαμπάρια",
+      "tr": "I sfungharádes\n\nI kaiméni i sfungharádes\níne óli kuvardádes\nTrónе óla ta leftá tus\nfévghun, páne sti dulhiá tus\n\nFévghun ghia tin Italía\nIspanía, re kie Ghallía\nS' éna fórema tus vázun\npéftun kie sfungária vgházun\n\nKie to vrádi re pu scholáne\ntin kserí ghaléta arpáne\nkáthunde kie ti masáne\nki ístera ghia ksápla páne\n\nTo proí pu tha ksipnísun\npáli tis vutiés th' archísun\nKi an de vghálune sfungária\ntha 'chun áschima chambária",
+      "ti": "I raccoglitori di spugne\n\nI poveri raccoglitori di spugne\nsono tutti generosi/spreconi\nSpendono tutti i loro soldi\npartono, vanno al loro lavoro\n\nPartono per l'Italia\nla Spagna, e la Francia\nLi vestono con una tuta (da palombaro)\nsi tuffano e tirano fuori spugne\n\nE la sera, quando smettono\nafferrano la galletta secca\nsi siedono e la masticano\ne poi vanno a stendersi (a dormire)\n\nIl mattino quando si sveglieranno\nricominceranno le immersioni\nE se non tireranno fuori spugne\navranno brutte notizie\n\nNote di traduzione\n\n\"σφουγγαράδες\" — \"raccoglitori di spugne, spugnai\": mestiere storicamente diffuso in alcune isole greche (in particolare Kalymnos, Symi, Hydra), che comportava immersioni pericolose per raccogliere spugne naturali dal fondale marino, spesso praticato con viaggi stagionali anche in acque straniere.\n\n\"κουβαρντάδες\" — \"generosi/spendaccioni\" (κουβαρντάς, dal turco \"kabadayı\" o simile, indica una persona dal cuore/dalle mani generose, che spende senza risparmiare): tratto caratteriale attribuito scherzosamente a questi lavoratori, che spendono facilmente il guadagnato prima di ripartire per il lavoro duro.\n\n\"Σ' ένα φόρεμα τους βάζουν\" — \"li vestono con una tuta/un abito (da immersione)\": riferimento all'attrezzatura da palombaro (scafandro) usata per le immersioni professionali alla ricerca di spugne, elemento tecnico del mestiere descritto.\n\n\"την ξερή γαλέτα\" — \"la galletta secca\": pane biscottato/galletta marinara, cibo povero e pratico tipico dell'alimentazione dei marinai e lavoratori del mare, che si conservava a lungo durante le spedizioni.\n\n\"θα 'χουν άσχημα χαμπάρια\" — \"avranno brutte notizie\" (χαμπάρι, dal turco \"haber\" = notizia): espressione colloquiale che allude alle conseguenze negative (probabilmente economiche, mancato guadagno, o rimproveri) in caso di raccolta insufficiente di spugne, sottolineando la precarietà e la durezza di questo mestiere legato all'esito incerto di ogni immersione.",
+      "no": "Nella traccia audio originale, proprio mentre Stratos Pagioumtzis canta con il suo timbro graffiante la strofa sulla durezza del lavoro in mare, si sente in sottofondo la voce parlata di Giorgos Batis che esclama entusiasta: «Γεια σου αδελφάκι Στράτη!» (Salute a te, fratellino Stratos!). Questa abitudine di \"incitarsi\" a vicenda durante la registrazione in diretta era il marchio di fabbrica del quartetto del Pireo.",
+      "balvid": false
+    },
+    {
+      "id": "s_1790001467409",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Μάγκες καραβοτσακισμένοι",
+      "tit": "Mànghes karavotsakismèni",
+      "alias": "",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1934",
+      "ar": "Στράτος Παγιουμτζής",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=FvNCP0huifk",
+      "li": "",
+      "ch": "LA             MI            LA\nΉρθαν μπάτσοι, βρε και μας πήραν\nLA             MI            LA\nκαι στου Συγγρού καλέ μας πήγαν\nLA             MI            LA\nΒρε και υπόδικους μας ρίξαν\nLA             MI            LA\nΜωρ' και στη φυλακή, καλέ μας κλείσαν\n\nLA             MI            LA\nΒρε αστυνόμε και ειρ(η)νοδίκη\nLA             MI            LA\nκαι βγάλε γρήγορα τη δίκη\nLA             MI            LA\nΝα 'ρθούνε μπάτσοι να ορκιστούνε\nLA             MI            LA\nκαι ψέματα να μη σας πούνε\n\nΩχ, άλα\n\nLA             MI            LA\nΜπάτσοι και χωροφυλάκοι\nLA             MI            LA\nκαι μας χαλάσαν, βρε το τσαρδάκι\nLA             MI            LA\nΒρε 'ν από πίσω απ' τη στρατώνα\nLA             MI            LA\nκαι καλοκαίρι, βρε και χειμώνα\n\nLA             MI            LA\nΚι όλ' οι μάγκες εσκορπιστήκαν\nLA             MI            LA\nντε και κανέναν, βρε δεν αφήσαν\n\nΌπα, γεια σας μάγκες",
+      "tr": "Mànghes karavotsakismèni\n\nÍrthan bátsi, vre kie mas píran\nkie stu Singhrú kalé mas píghan\nVre kie ipódikus mas ríksan\nmor' kie sti filakí, kalé mas klísan\n\nVre astinóme kie irhinodíki\nkie vghále ghríghora ti díki\nNa 'rthúne bátsi na orkistúne\nkie psémata na mi sas púne\n\nOch, ála\n\nBátsi kie chorofilláki\nkie mas chalásan, vre to tsardáki\nVre 'n apó píso ap' ti stratóna\nkie kalokéri, vre kie chimóna\n\nKi ól' i mánges eskorpistíkan\nde kie kanénan, vre den afísan\n\nÓpa, ghia sas mánges",
+      "ti": "Mágkes naufragati \n\nSono venuti gli sbirri, e ci hanno preso\ne a Syngrou, cari miei, ci hanno portato\nCi hanno buttato lì come imputati\ne in prigione, cari miei, ci hanno chiuso\n\nEhi, commissario e giudice di pace\ntirate fuori in fretta il processo\nChe vengano gli sbirri a giurare\ne che non vi dicano bugie\n\nOhi, forza\n\nSbirri e gendarmi\nci hanno distrutto, ehi, il nostro rifugio\nche sta dietro la caserma\nsia d'estate che d'inverno\n\nE tutti i mànghes si sono dispersi\nnon hanno lasciato nessuno, ehi\n\nOpa, salute a voi, mànghes\nNote di traduzione\n\n\"μπάτσοι\" — termine gergale/colloquiale per \"poliziotti, sbirri\" (spesso con connotazione dispregiativa), diffusissimo nel linguaggio popolare e nel rebetiko per indicare le forze dell'ordine, spesso viste con ostilità dall'ambiente malavitoso/marginale a cui appartenevano i cantanti di questo genere.\n\n\"στου Συγγρού\" — riferimento a una sede specifica (probabilmente una stazione di polizia o un tribunale sulla nota via/zona Syngrou di Atene), luogo storico dove venivano portati i fermati.\n\n\"υπόδικους\" — \"in stato di imputazione/sotto processo\": termine giuridico che indica la condizione di chi è stato accusato formalmente e attende il processo.\n\n\"ειρηνοδίκη\" — \"giudice di pace\": figura giudiziaria minore, competente per cause di lieve entità; invocata qui insieme al commissario per accelerare l'iter processuale.\n\n\"χωροφυλάκοι\" — \"gendarmi/carabinieri\" (χωροφυλακή = gendarmeria, corpo di polizia rurale/territoriale greco): affiancati ai \"μπάτσοι\" per indicare l'insieme delle forze dell'ordine responsabili della retata.\n\n\"το τσαρδάκι\" — diminutivo di \"τσαρδί\" (già incontrato: rifugio/tana informale, termine gergale di origine turca), qui riferito al luogo di ritrovo abituale del gruppo, distrutto dall'intervento della polizia.\n\n\"οι μάγκες\" — \"i mànghes\": termine già incontrato per indicare le figure spavalde e dal vivere ai margini tipiche dell'ambiente del rebetiko, qui protagonisti della retata subita e della dispersione forzata del gruppo.\n\n\"εσκορπιστήκαν\" — \"si sono dispersi\" (σκορπίζω = disperdere): descrive l'effetto diretto dell'irruzione della polizia, che ha causato la disgregazione forzata del gruppo di amici/malviventi.",
+      "no": "L'espressione del titolo, \"Mágkes karavotsakismeni\", è una splendida metafora marittima legata al porto del Pireo. Batis paragona i mágkes (gli avventori del locale, uomini duri che vivono ai margini della legalità secondo un rigido codice d'onore) a delle navi che hanno fatto naufragio contro gli scogli della vita. Nonostante il disastro del naufragio (l'arresto, le percosse in cella e la prigione), questi uomini mantengono intatta la propria dignità fiera e non tradiscono mai i compagni davanti alle guardie.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789999689599",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Το μπαρμπεράκι",
+      "tit": "To barberàki",
+      "alias": "",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1935",
+      "ar": "Γιώργος Μπάτης",
+      "lb": "His Master's Voice, numero di catalogo AO 2258",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=8QOZYVMLSAU",
+      "li": "",
+      "ch": "SOLm               RE   SOLm  SOLm     RE   SOLm\nΌταν κάτσω στην πολυθρόνα και μου κόβεις τα μαλλιά\nSOLm               RE   SOLm  SOLm     RE   SOLm\nτην καρδιά μου εσύ την κλέβεις με μια (ο)λόγλυκια ματιά\n \n \nSOLm               RE   SOLm  SOLm     RE   SOLm\nΚούκλα θέλω να σε κάνω κι ότι έχω ας τα χάνω\nSOLm               RE   SOLm  SOLm     RE   SOLm\nμπριλιαντίνη να σου βάζω, κατσαρά να σου τα φτιάνω\n \nSOLm               RE   SOLm  SOLm     RE   SOLm\nΑπ' αυτά δε κουλαντρίζεις, μπαρμπεράκι μου χρυσό\nSOLm               RE   SOLm  SOLm     RE   SOLm\nείμαι μάγκα και κουρνάζα κι όλο θα στην κοπανώ\n \nSOLm               RE   SOLm  SOLm     RE   SOLm\nΜη θαρρείς η εμορφιά σου, να είναι πάντα μιας λο(γ)ής\nSOLm               RE   SOLm  SOLm     RE   SOLm\nθε να μαραθεί να πέσει σαν τα λέλουδα της γης\n \n- Γεια σου Μπάτη με τις όμορφες πενιές\n \nSOLm               RE   SOLm  SOLm     RE   SOLm\nΌταν τα μαλλιά ντουλάρεις, είσαι ψεύτης κατεργάρης\nSOLm               RE   SOLm  SOLm     RE   SOLm\nστον καθρέφτη όλο κοιτάεις και μπανίζεις και φερμάρεις",
+      "tr": "To barberàki\n\nÓtan kátso stin polithróna kie mu kóvis ta malliá\ntin kardiá mu esí tin klévis me mia (o)lóghlikia matiá\n\nKúkla thélo na se káno ki óti écho as ta cháno\nbriliandíni na su vázo, katsará na su ta ftiáno\n\nAp' aftá de kulandrízis, barberáki mu chrisó\níme mánga kie kurnáza ki ólo tha stin kopanó\n\nMi tharís i emorfiá su, na íne pánda mias loghís\nthe na marathí na pési san ta léluda tis ghis\n\nGhia su Báti me tis ómorfes peniés\n\nÓtan ta malliá dulháris, íse psévtis katérgharis\nston kathréfti ólo kitáis kie banízis kie fermáris",
+      "ti": "Il piccolo barbiere\n\nQuando mi siedo sulla poltrona e mi tagli i capelli\ntu mi rubi il cuore con uno sguardo tutto dolce\n\nVoglio farti diventare una bambola \ne che possa perdere tutto quello che ho\nmetterti brillantina, farti i riccioli\n\nCon questi trucchi non mi conquisti, barbierino mio d'oro\nsono una furba/scaltra e te la darò sempre a bere\n\nNon credere che la tua bellezza sarà \nsempre della stessa qualità\nappassirà e cadrà come i fiori della terra\n\nSalute a te, Batis, con le tue belle pennate\n\nQuando ti sistemi i capelli, sei un bugiardo, un furfante\nallo specchio ti guardi sempre, spii e cerchi di sedurre\n\nNote di traduzione\n\n\"(ο)λόγλυκια ματιά\" — \"sguardo tutto dolce\" (ολόγλυκος = completamente dolce): descrive uno sguardo capace di sedurre completamente, usato scherzosamente per il fascino del barbiere sul/sulla cliente.\n\n\"Κούκλα θέλω να σε κάνω\" — \"voglio farti diventare una bambola\": espressione affettuosa/scherzosa per dire \"voglio farti bella/o come una bambola\", tipica del linguaggio colloquiale greco per esprimere ammirazione estetica.\n\n\"κατσαρά να σου τα φτιάνω\" — \"farti i riccioli\": riferimento diretto al mestiere del barbiere/parrucchiere, che rende i capelli ricci con la tecnica della permanente o dell'arricciatura, coerente con l'ambientazione della canzone in un salone di barbiere.\n\n\"δε κουλαντρίζεις\" — \"non mi conquisti/non mi giri intorno con successo\" (κουλαντρίζω, termine colloquiale per \"raggirare, conquistare con astuzia\"): espressione che indica resistenza alle lusinghe del barbiere nonostante i suoi tentativi di sedurre con la cura estetica.\n\n\"μάγκα και κουρνάζα\" — \"furba e scaltra\": come spiegato dallo stesso testo originale in nota, \"κουρνάζος/α\" deriva dal turco \"kurnaz\" (astuto, furbo); qui la protagonista si autodefinisce scaltra abbastanza da non farsi ingannare dal fascino del barbiere.\n\n\"θα στην κοπανώ\" — \"te la darò sempre a bere/ti fregherò sempre\" (κοπανάω, colloquiale per \"raggirare, fregare qualcuno\"): ribadisce la superiorità furba della protagonista rispetto ai tentativi di conquista del barbiere.\n\n\"σαν τα λέλουδα της γης\" — \"come i fiori della terra\": metafora classica sulla caducità della bellezza fisica, paragonata alla naturale fugacità dei fiori che appassiscono, monito rivolto al barbiere vanesio.\n\n\"Γεια σου Μπάτη με τις όμορφες πενιές\" — \"salute a te, Batis, con le tue belle pennate\": esclamazione rivolta a Batis (soprannome del celebre musicista rebetiko Anestis Delias), complimento dal vivo per il suo modo di suonare durante l'esecuzione, tipica interazione conviviale delle registrazioni rebetiko dal vivo.\n\n\"ντουλάρεις\" — \"ti sistemi/ti acconci\" (dal francese \"tolette/toilette\", entrato come prestito colloquiale nel greco per \"prepararsi, agghindarsi\"): riferito alla cura eccessiva che il barbiere mette nel proprio aspetto.\n\n\"μπανίζεις και φερμάρεις\" — \"spii e cerchi di sedurre\" (μπανίζω = spiare/osservare con interesse, gergale; φερμάρω, dal francese \"fermer\" o forse termine di caccia per \"puntare la preda\"): espressioni colloquiali/gergali che descrivono l'atteggiamento vanesio e civettuolo del barbiere davanti allo specchio, alla ricerca di conquiste.",
+      "no": "La canzone gioca sul contrasto comico tra l'ambiente \"raffinato\" e civettuolo del salone di bellezza e l'immancabile attitudine da mágkas (il malavitoso d'onore) del barbiere, che promette alla sua bella di \"farla sembrare una bambola\" (κούκλα θέλω να σε κάνω). Nel ritornello, la donna risponde a tono definendosi a sua volta una mágissa scaltra (είμαι μάγκα και κουρνάζα) che sa come tenergli testa.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789998740831",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Ο φασουλάς",
+      "tit": "O fasulàs",
+      "alias": "",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1936",
+      "ar": "Γιώργος Μπάτης",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=Tfygg7ZS_Rs",
+      "li": "",
+      "ch": "SOL    RE   SOL  SOL     RE   SOL\nΈλληνας φασολάς, Ιταλός μακαρονάς\n SOL          RE   SOL  SOL     RE     SOL\nΤούρκος, καλέ, πιλαφάς, και Εγγλέζος πατατάς\nSOL    RE   SOL         SOL     RE   SOL\nΌπου Χιώτης Παντελής, και Αξιώτης παραλής\nSOL    RE   SOL         SOL     RE   SOL\nΑθηναίος καλαμαράς, Περαιώτης λιμενάς\n \nSOL    RE   SOL         SOL     RE   SOL\nΜα 'γενίτης κανατάς, Μεθενίτης αχλαδάς\nSOL    RE   SOL         SOL     RE   SOL\nΠοριώτης λεμονάς, και Υδραίος σφουγγαράς\n \n- Μπράβο Μπάτη\n \nSOL    RE   SOL     SOL     RE   SOL\nΚρανιδιώτης λαδάς, Σπετσιώτης ψαράς\nSOL    RE   SOL         SOL     RE   SOL\nΤσάκωνας μανταρινάς, και Ναπλιώτης ντοματάς\nSOL    RE   SOL         SOL     RE   SOL\nΜα Αργίτης πρασάς, Μωραϊτης παλικαράς\nSOL    RE   SOL         SOL         RE   SOL\nκαλαματιανός γυναικάς, κουλουριώτης χορευταράς",
+      "tr": "O fasulàs\n\nÉllinas fasolás, Italós makaronás\nTúrkos, kalé, pilafás, kie Englézos patatás\nÓpu Chiótis Pandelís, kie Aksiótis paralís\nAthinéos kalamarás, Perhiótis limenás\n\nMa 'ghenítis kanatás, Methenítis achladás\nPoriótis lemonás, kie Idréos sfungharás\n\nBrávo Báti\n\nKranidiótis ladás, Spetsiótis psarás\nTsákonas mandarinás, kie Naplió tis domatás\nMa Arghítis prasás, Moraítis palikarás\nkalamatianós ghinekás, kuluriótis chorevtarás",
+      "ti": "Il mangia-fagioli\n\nIl greco è mangia-fagioli, l'italiano mangia-maccheroni\nIl turco, caro mio, mangia-pilaf, e l'inglese mangia-patate\nDov'è Pantelìs, quello di Chio, e l'abitante di Nasso, ricco sfondato\nL'ateniese scrive/scarabocchia (usa la penna), il pireota è un uomo di porto\n\nE il maghenita è un vasaio, l'abitante di Methana è mangia-pere\nL'abitante di Poros è mangia-limoni, e l'idreota è un pescatore di spugne\n\nBravo, Batis!\n\nL'abitante di Kranidi è mercante d'olio, lo spetsiota è pescatore\nIl tsakone è mercante di mandarini, e il napliota è mercante di pomodori\nL'argivo è mercante di porri, il moreota è un gran valoroso\nil calamatiano ama le donne, il abitante di Koulouri è un gran ballerino\n\nNote di traduzione\n\nStruttura della canzone — il brano è un catalogo scherzoso di stereotipi regionali/etnici legati a un cibo o mestiere tipico, genere molto diffuso nella tradizione popolare mediterranea (simile ai \"canti dei mestieri\" o alle filastrocche di paese); ogni nazionalità/città greca viene associata a un prodotto/attività caratteristica in tono bonario e giocoso.\n\n\"φασολάς... μακαρονάς... πιλαφάς... πατατάς\" — suffisso \"-άς\" che in greco forma nomi scherzosi per \"mangiatore abituale di\" o \"amante di\" un certo cibo (fagioli per i greci, maccheroni per gli italiani, pilaf per i turchi, patate per gli inglesi): stereotipi alimentari nazionali giocosi, senza intento offensivo, tipici del folklore mediterraneo.\n\n\"Χιώτης... Αξιώτης... Περαιώτης\" — gentilizi che indicano provenienza da specifiche isole/città greche (Chio, Nasso [Axos/Naxos], Pireo); ognuno associato scherzosamente a un tratto o mestiere tipico locale, secondo lo stesso principio caricaturale della canzone.\n\n\"καλαμαράς\" — \"scrivano/scribacchino\" (da κάλαμος, calamo/penna d'oca): soprannome scherzoso tradizionalmente attribuito agli ateniesi/abitanti di città, alludendo al loro presunto essere più \"letterati\" o burocrati rispetto ai provinciali.\n\n\"Μπράβο Μπάτη\" — esclamazione di incoraggiamento rivolta a Batis (Anestis Delias, noto come \"Batis\", o più probabilmente riferimento a un musicista/personaggio del genere rebetiko presente all'esecuzione), tipica interiezione dal vivo per applaudire un assolo strumentale durante l'esecuzione del brano.\n\n\"Τσάκωνας\" — abitante della Tsakonia (regione del Peloponneso con una particolare lingua e cultura arcaica, i Tsakoni), qui scherzosamente associato al commercio di mandarini.\n\n\"Μωραϊτης παλικαράς\" — \"il moreota è un gran valoroso\": riferimento agli abitanti della Morea (nome storico/veneziano del Peloponneso), tradizionalmente associati a fama di coraggio e combattività (memoria della guerra d'indipendenza greca, che ebbe nel Peloponneso uno dei suoi centri).\n\n\"καλαματιανός γυναικάς\" — \"il calamatiano è un donnaiolo\" (da Kalamata, città della Messenia): stereotipo scherzoso sulla fama di seduttori attribuita agli abitanti di questa città.\n\n\"κουλουριώτης χορευταράς\" — \"l'abitante di Koulouri (Salamina) è un gran ballerino\": chiude la sequenza di stereotipi regionali con un'ultima caratteristica scherzosa legata all'isola di Salamina, vicino ad Atene.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1789997074033",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Σου 'χει λάχει",
+      "tit": "Su 'chi làchi",
+      "alias": "Σου 'χει λάχει στο σελάχι",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1932",
+      "ar": "Γιώργος Μπάτης",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Αχ, σου 'χει λάχει   \nΑχ, σου 'χει λάχει\nΑχ, σου 'χει λάχει\nσού 'χει λάχει\n\nε, ρε να το φας απ' το σιλάχι\nωχ, να το φας απ' το σελάχι\nαχ, τιποτις για να μη λάχει\nως τίποτις για να μη λάχει\n\nε, ρε να σε πιάσει - αχ - το στομάχι\nε, ρε σου 'χει λάχει, σου 'χει λάχει\nαχ - να σε πιάσει το στομάχι\n \nΩχ να σε κυνηγούν οι βλάχοι\nαχ και να χάσεις και τ' αυλάκι\nε, ρε σου 'χει λάχει, σου 'χει λάχει\nαχ, να σε κυνηγούν οι βλάχοι\n \nΚάτω στην Αγια Μαρίνα, αχ\nκάτου στην Αγια Μαρίνα\nαχ, τα 'χω ψήσει με μια φίνα\n \nΑχ, Παναγιά μου, ωχ δώστου - δώστου\nαχ, Παναγιά μου δώστου - δώστου\nαχ μαχαιριές και 'γω γιατρός του\n \nΩχ μου παρήγγειλε τ' αηδόνι\nαχ, μου παρήγγειλε τ' αηδόνι\nάντε με το πετροχιλιδόνι",
+      "tr": "Su 'chi làchi\n\nAch, su 'chi láchi\nsu 'chi láchi\ne, re na to fas ap' to siláchi\noch, na to fas ap' to seláchi\nach, tipotis ghia na mi láchi\nos típotis ghia na mi láchi\ne, re na se piási - ach - to stomáchi\ne, re su 'chi láchi, su 'chi láchi\nach - na se piási to stomáchi\n\nOch na se kinighún i vláchi\nach kie na chásis kie t' avláki\ne, re su 'chi láchi, su 'chi láchi\nach, na se kinighún i vláchi\n\nKáto stin Aghia Marína, ach\nkátu stin Aghia Marína\nach, ta 'cho psísi me mia fína\n\nAch, Panaghiá mu, och dóstu - dóstu\nach, Panaghiá mu dóstu - dóstu\nach machiriés kie 'gho ghiatrós tu\n\nOch mu paránghile t' aidóni\nach, mu paránghile t' aidóni\nánde me to petrochilidóni",
+      "ti": "Ti è capitato\n\nAh, ti è capitata (una sorte)\nti è capitata\neh, che tu la prenda dalla pistola\noh, che tu la prenda dal coltellaccio\nah, niente affinché non ti capiti\no niente affinché non ti capiti\neh, che ti prenda - ah - lo stomaco\neh, ti è capitata, ti è capitata\nah - che ti prenda lo stomaco\n\nOh, che ti inseguano i valacchi/i montanari\nah, e che tu perda anche il fossato\neh, ti è capitata, ti è capitata\nah, che ti inseguano i montanari\n\nGiù ad Agia Marina, ah\ngiù ad Agia Marina\nah, l'ho combinata grossa con una bella ragazza\n\nAh, Madonna mia, oh dagliele - dagliele\nah, Madonna mia dagliele - dagliele\nah, coltellate, e io sarò il suo medico\n\nOh, mi ha mandato a dire l'usignolo\nah, mi ha mandato a dire l'usignolo\navanti, con la ballerina (l'uccellino di pietra)\n\nNote di traduzione\n\n\"σου 'χει λάχει\" — \"ti è capitata (in sorte)\": espressione idiomatica dal verbo \"λαχαίνω\" (toccare in sorte, capitare per caso), usata qui in tono minaccioso/scaramantico verso qualcuno a cui si augura (o si teme che gli capiti) una brutta sorte.\n\n\"σιλάχι... σελάχι\" — varianti dialettali per \"όπλο/μαχαίρι\" di tipo turco-orientale (σιλάχι, dal turco \"silah\" = arma; σελάχι può indicare anche una cintura porta-armi tradizionale): riferimenti ad armi da taglio o da fuoco usate in senso minaccioso.\n\n\"οι βλάχοι\" — \"i valacchi/i montanari\": termine che indica genericamente i pastori di montagna (Vlachi, popolazione di lingua romanza dei Balcani, spesso pastori transumanti); usato qui in senso figurato/scherzoso per indicare inseguitori rozzi o pericolosi.\n\n\"τ' αυλάκι\" — \"il fossato/canaletto d'irrigazione\": nel contesto minaccioso della strofa, \"perdere il fossato\" potrebbe alludere scherzosamente a perdere l'orientamento/la via di fuga durante un inseguimento.\n\n\"τα 'χω ψήσει με μια φίνα\" — \"l'ho combinata grossa con una bella ragazza\" (letteralmente \"ho cotto/arrostito con una fine ragazza\"): espressione colloquiale per indicare un affare/una situazione intricata nata da una relazione con una donna, spesso con sfumatura di guaio o intrigo amoroso.\n\n\"Παναγιά μου, δώστου - δώστου... μαχαιριές\" — \"Madonna mia, dagliele - dagliele... coltellate\": invocazione paradossale alla Vergine Maria affinché \"dia\" (permetta) coltellate a un rivale, con il narratore che ironicamente si offre come \"medico\" per curarlo dopo — tono scherzoso-violento tipico del genere macho/rebetiko.\n\n\"μου παρήγγειλε τ' αηδόνι\" — \"mi ha mandato a dire l'usignolo\": immagine poetica che usa l'usignolo (simbolo tradizionale di messaggero d'amore/di buone nuove nella poesia popolare) come latore di un messaggio.\n\n\"το πετροχιλιδόνι\" — letteralmente \"la rondine di pietra\" (πέτρα + χελιδόνι): possibile riferimento a un tipo di uccello (forse un nome popolare per una specie particolare) o immagine poetica/enigmatica di chiusura, il cui significato esatto nel contesto resta volutamente ambiguo, come tipico di certe chiuse enigmatiche del genere rebetiko/demotico.",
+      "no": "Il pezzo ha scatenato per decenni dibattiti linguistici tra i cultori del genere:La versione letterale (Il marsupio delle armi): Il σελάχι (o σιλάχι) era una grande cintura o guaina di cuoio a scomparti che gli insorti greci dell'800 (i foustanellades) e in seguito i rebetes legavano alla vita per infilarci coltelli, pistole e tabacco. L'espressione potrebbe indicare ironicamente il mal di pancia da fame o da paura di chi porta le armi.\nIl gioco di parole surrealista (Il pesce): Molti esperti di rebetiko sospettano che Batis, da gran burlone, intendesse in realtà il termine σαλάχι (la razza/pesce), pronunciato volutamente male per fare rima: il testo parlerebbe quindi di una brutta indigestione di pesce andato a male che provoca dolori lancinanti.\n La truffa del mattone tritato: Attorno a questa canzone ruota una leggenda metropolitana del Pireo. Si racconta che Batis e la sua banda fossero andati in un villaggio sperduto del Peloponneso a vendere della polvere di mattone tritato spacciandola per un \"miracoloso farmaco antico\" capace di guarire ogni male (dal mal di denti ai dolori articolari, fino al mal di stomaco). I contadini locali all'inizio abboccarono, ma scoperti i cialtroni, li inseguirono con i forconi per riavere i soldi. Batis avrebbe scritto il pezzo per ridere della \"fitta allo stomaco\" venuta a loro per la paura di essere linciati.",
+      "balvid": false
+    },
+    {
+      "id": "s_1789996504852",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-21",
+      "tgr": "Μπάτης ο δερβίσης",
+      "tit": "Bàtis o dervìsis",
+      "alias": "",
+      "at": "Γιώργος Μπάτης",
+      "am": "Γιώργος Μπάτης",
+      "yr": "1932",
+      "ar": "Γιώργος Μπάτης",
+      "lb": "",
+      "gn": "Amanes",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=7_dPZvDN304",
+      "li": "",
+      "ch": "REm\nΝτερβίση μου να 'ρχόσουνα μια ώρα στο τσαρδί μας\nFA# LA REm\nΝα 'βρισκες τους φίλους μας που είν' όλοι δικοί μας\nκαι θα 'βλεπες τους φίλους μας που 'ναι όλοι δικοί μας\n\n(assunti stessi accordi della prima strofa)\nREm\nΠενιά φοράτη θ' άκουγες με φίνους μπαγλαμάδες\nFA# LA REm\nΤσιμπούκια που θα πίνουμε, να τρίζουν οι λουλάδες\n\n(assunti stessi accordi)\nREm\nΜπουζούκι που θα παίζουμε, με ανοιχτό ντουζένι\nFA# LA REm\nΤη βόλτα που θα έφερνες κι εσύ καραντουζένι\n\n(assunti stessi accordi)\nREm\nΚέφι λοιπόν θα κάνουμε κι εσύ καλός ντερβίσης\nFA# LA REm\nΜόνο ο χάρος ο σκληρός, αυτός θα μας χωρίσει\n\n(assunti stessi accordi)\nREm\nΜα 'γώ δεν είμαι ποιητής τραγούδια να ταιριάζω\nFA# LA REm\nκαι μου τα φέρνει ο αργιλές και τα κατασκευάζω",
+      "tr": "Bàtis o dervìsis\n\nOooch eech, térma tha ríkso is ti zoí\nich oooch, térma tha ríkso is ti zoí\n\nOooch, chrisí mu, n' apothάno\noch oooch, chrisí mu, n' apothάno\n\n\nEech, ghiatí varéthika na zo\noooch, ghiatí varéthika na zo\nston kósmo ton apáno",
+      "ti": "Batis il derviscio\n\nOhh eeh, metterò fine alla vita\nih ohh, metterò fine alla vita\n\nOhh, mia cara (dorata), voglio morire\noh ohh, mia cara, voglio morire\n\nEeh, perché mi sono stancato di vivere\nohh, perché mi sono stancato di vivere\nin questo mondo di sopra\n\nNote di traduzione\n\n\"Ωωωχ εεχ\" — vocalizzi/interiezioni di lamento tipiche del canto popolare greco (simili all'\"αμάν\" già incontrato in altre canzoni di questo genere), privi di significato letterale, usati per esprimere sofferenza e intensificare il pathos del canto; lasciati non tradotti.\n\n\"τέρμα θα ρίξω εις τη ζωή\" — \"metterò fine alla vita\" (letteralmente \"getterò un termine/una fine sulla vita\"): espressione diretta e cruda per esprimere l'intenzione di porre fine alla propria esistenza, tono di disperazione totale.\n\n\"χρυσή μου\" — \"mia dorata/mia cara\" (χρυσός = oro/dorato): vezzeggiativo affettuoso molto comune nel greco popolare, paragona la persona amata a un bene prezioso come l'oro.\n\n\"στον κόσμο τον απάνω\" — \"in questo mondo di sopra\": espressione che contrappone il mondo dei vivi (\"di sopra\") al mondo sotterraneo/degli inferi (\"di sotto\"), secondo la cosmologia popolare greca legata alla tradizione classica; sottolinea la volontà di lasciare il mondo terreno per scendere in quello dei morti.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1789984832791",
       "offsets": {},
@@ -12706,10 +12862,9 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/perpiniadis.jpg",
       "roles": [
-        "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "voce, chitarra"
     },
     {
       "id": "p_1785385492809",
@@ -13625,9 +13780,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "voce, chitarra"
     },
     {
       "id": "p_1785773325740",
@@ -13990,14 +14145,15 @@
       "nameit": "Stràtos Paghiumtzìs",
       "born": "1904,  Aivalí, Asia Minore",
       "died": "16 novembre 1971,  New York",
-      "bio": "Soprannominato \"Τεμπέλης\", il pigro,\n\nCantante rebetiko, tra le voci maschili più importanti dell'epoca classica del genere\n\nArrivò in Grecia con la famiglia prima della Catastrofe dell'Asia Minore, stabilendosi al Pireo. Lavorò fin da bambino, ma la sua vera passione era la musica e il canto. Entrò presto in contatto con i rebetes del Pireo: insieme a Márkos Vamvakáris, Anéstis Delías e Yórgos Bátis formò la prima vera orchestra di rebetiko puro.\n\nDivenne interprete quasi per caso: quando Bátis non riusciva a cantare un brano durante le prove, fu la voce di Παγιουμτζής a essere incisa al suo posto. Da lì iniziò una collaborazione lunghissima con tutti i grandi compositori del rebetiko — Τούντας, Σκαρβέλης, Παπάζογλου, Ογδοντάκης, Σέμσης, Παντελίδης, Κηρομύτης, Μπαγιαντέρας, Παπαϊωάννου, Χατζηχρήστος, il giovane Χιώτης, e soprattutto Βασίλης Τσιτσάνης, che gli affidò metà delle sue canzoni prebelliche — molte delle quali, secondo gli esperti, devono parte del loro successo proprio alla sua voce. Fu proprio lui, insieme a Τσιτσάνης, a incidere per primo, nel 1946, «Μπαξέ Τσιφλίκι».\n\nA metà degli anni '30 la sua voce era già leggendaria — al punto che sulle etichette dei dischi veniva citato semplicemente col nome di battesimo, \"Στράτος\". Tra i suoi successi più celebri: «Ένας μάγκας στο Βοτανικό», «Τα νέα της Αλεξάνδρας», «Βαγγελιώ, δεν είσαι εντάξει», «Φαληριώτισσα».\n\nMorì a New York nel 1971, a 67 anni — lontano dalla sua patria, letteralmente esalando l'ultimo respiro sul palcoscenico durante un'esibizione.",
+      "bio": "Soprannominato \"Τεμπέλης\", il pigro\n\nCantante rebetiko, tra le voci maschili più importanti dell'epoca classica del genere\n\nArrivò in Grecia con la famiglia prima della Catastrofe dell'Asia Minore, stabilendosi al Pireo. Lavorò fin da bambino, ma la sua vera passione era la musica e il canto. Entrò presto in contatto con i rebetes del Pireo: insieme a Márkos Vamvakáris, Anéstis Delías e Yórgos Bátis formò la prima vera orchestra di rebetiko puro.\n\nDivenne interprete quasi per caso: quando Bátis non riusciva a cantare un brano durante le prove, fu la voce di Παγιουμτζής a essere incisa al suo posto. Da lì iniziò una collaborazione lunghissima con tutti i grandi compositori del rebetiko — Τούντας, Σκαρβέλης, Παπάζογλου, Ογδοντάκης, Σέμσης, Παντελίδης, Κηρομύτης, Μπαγιαντέρας, Παπαϊωάννου, Χατζηχρήστος, il giovane Χιώτης, e soprattutto Βασίλης Τσιτσάνης, che gli affidò metà delle sue canzoni prebelliche — molte delle quali, secondo gli esperti, devono parte del loro successo proprio alla sua voce. Fu proprio lui, insieme a Τσιτσάνης, a incidere per primo, nel 1946, «Μπαξέ Τσιφλίκι».\n\nA metà degli anni '30 la sua voce era già leggendaria — al punto che sulle etichette dei dischi veniva citato semplicemente col nome di battesimo, \"Στράτος\". Tra i suoi successi più celebri: «Ένας μάγκας στο Βοτανικό», «Τα νέα της Αλεξάνδρας», «Βαγγελιώ, δεν είσαι εντάξει», «Φαληριώτισσα».\n\nMorì a New York nel 1971, a 67 anni — lontano dalla sua patria, letteralmente esalando l'ultimo respiro sul palcoscenico durante un'esibizione.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/paghiumdzis.jpg",
       "roles": [
         "at",
         "ar"
-      ]
+      ],
+      "instr": ""
     },
     {
       "id": "p_1786170055540",
@@ -15165,9 +15321,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "chitarra, voce"
     },
     {
       "id": "p_1787244398735",
@@ -16382,9 +16538,10 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/platonos.jpg",
       "roles": [
-        "ar",
-        "mu"
-      ]
+        "am",
+        "ar"
+      ],
+      "instr": "pianoforte"
     },
     {
       "id": "p_1788103967624",
@@ -16794,8 +16951,9 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/plessas.jpg",
       "roles": [
         "am",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "pianoforte"
     },
     {
       "id": "p_1788600938244",
@@ -16838,9 +16996,9 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/thodoris.jpg",
       "roles": [
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "bouzouki"
     },
     {
       "id": "p_1788666705651",
@@ -17067,9 +17225,9 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/vperpiniadis.jpg",
       "roles": [
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "bouzouki, voce"
     },
     {
       "id": "p_1788840832590",
@@ -17406,8 +17564,9 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/persidis.jpg",
       "roles": [
         "am",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "chitarra, lauto"
     },
     {
       "id": "p_1789359229140",
@@ -17845,9 +18004,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "chitarra, baglamas, voce"
     },
     {
       "id": "p_1789789461651",
