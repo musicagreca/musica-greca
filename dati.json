@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-21T10:03:19.692Z",
+  "exportedAt": "2026-09-21T10:11:05.899Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
@@ -12758,8 +12758,9 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/burnelis.jpg",
       "roles": [
         "am",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "bouzouki, voce"
     },
     {
       "id": "p_1785420365097",
@@ -15740,16 +15741,16 @@
       "nameit": "Ghiórgos Bátis",
       "born": "1886-1890 (fonti discordanti), Pireo o Méthana (Peloponneso)",
       "died": "10 marzo 1967, Pireo — sepolto poi a Méthana",
-      "bio": "Vero nome Γιώργος Τσώρος\nSoprannominato \"il Re del Pireo\"\nFondatore, insieme a Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής e Ανέστης Δελιάς, della \"Τετράς η ξακουστή του Πειραιώς\" (1934) — la prima vera compagnia rebetika della storia\nGestì il celebre caffè-τεκές \"Ζώρζ Μπατέ\" (1931-1937) e una scuola di ballo, \"Κάρμεν\" (dal 1925)\nSmise di incidere dischi nel 1937 per non sottostare alla censura di Μεταξάς\nLasciò solo 17 canzoni incise, tra cui \"Μπάτης ο δερβίσης\", \"Ο μπουφετζής\", \"Σου 'χει λάχει\"\nCelebre per il suo carattere di burlone bonario, immortalato in aneddoti diventati leggendari nell'ambiente del rebetiko\nDiónysis Savvópoulos gli dedicò la canzone \"Ζεϊμπέκικο\" (1972/75)\n\n[[2026-08-18|Approfondimento su Batis e i rebetes]]",
+      "bio": "Vero nome Γιώργος Τσώρος\nSoprannominato \"il Re del Pireo\"\nFondatore, insieme a Μάρκος Βαμβακάρης, Στράτος Παγιουμτζής e Ανέστης Δελιάς, della \"Τετράς η ξακουστή του Πειραιώς\" (1934) — la prima vera compagnia rebetika della storia\nGestì il celebre caffè-τεκές \"Ζώρζ Μπατέ\" (1931-1937) e una scuola di ballo, \"Κάρμεν\" (dal 1925)\nSmise di incidere dischi nel 1937 per non sottostare alla censura di Μεταξάς\nLasciò solo 17 canzoni incise, tra cui \"Μπάτης ο δερβίσης\", \"Ο μπουφετζής\", \"Σου 'χει λάχει\"\nCelebre per il suo carattere di burlone bonario, immortalato in aneddoti diventati leggendari nell'ambiente del rebetiko\nDiónysis Savvópoulos gli dedicò la canzone \"Ζεϊμπέκικο\" (1972/75)\n\n[[2026-08-18|Vedi approfondimento]]",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/batis6.jpg",
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "baglamas, voce"
     },
     {
       "id": "p_1787729978234",
