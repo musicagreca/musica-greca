@@ -710,6 +710,7 @@ function loadData() {
 
 /* ── UTILS ── */
 function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function jsq(s){ return String(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 /* Titolo di ripiego: se manca il titolo della canzone, usa il nome del ballo (greco o traslitterato) */
 function dispTgr(s){ return (s.tgr||'').trim() || (s.balgr||'').trim() || (s.bal||'').trim() || ''; }
 function dispTit(s){ return (s.tit||'').trim() || (s.bal||'').trim() || (s.balgr||'').trim() || ''; }
@@ -1813,9 +1814,9 @@ function renderCanzone(){
   var sg=songSemi>=0?'+':'';
   var semVal=songSemi===0?'originale':sg+songSemi+' st.';
   var metaH='';
-  if(s.at) metaH+='<span>✍ <span class="plnk" onclick="goPersonaByName(\''+esc(s.at)+'\')">'+esc(s.at)+'</span></span>';
-  if(s.am&&s.am!==s.at) metaH+='<span>♪ <span class="plnk" onclick="goPersonaByName(\''+esc(s.am)+'\')">'+esc(s.am)+'</span></span>';
-  if(s.ar){ s.ar.split(',').forEach(function(a){ a=a.trim(); metaH+='<span>🎤 <span class="plnk" onclick="goPersonaByName(\''+esc(a)+'\')">'+esc(a)+'</span></span>'; }); }
+  if(s.at) metaH+='<span>✍ <span class="plnk" onclick="goPersonaByName(\''+jsq(s.at)+'\')">'+esc(s.at)+'</span></span>';
+  if(s.am&&s.am!==s.at) metaH+='<span>♪ <span class="plnk" onclick="goPersonaByName(\''+jsq(s.am)+'\')">'+esc(s.am)+'</span></span>';
+  if(s.ar){ s.ar.split(',').forEach(function(a){ a=a.trim(); metaH+='<span>🎤 <span class="plnk" onclick="goPersonaByName(\''+jsq(a)+'\')">'+esc(a)+'</span></span>'; }); }
   if(s.yr) metaH+='<span>'+esc(s.yr)+'</span>';
   if(s.gn) metaH+='<span>'+esc(s.gn)+'</span>';
   if(s.dr) metaH+='<span>'+esc(s.dr)+'</span>';
