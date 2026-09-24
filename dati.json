@@ -1,8 +1,164 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-23T07:32:47.915Z",
+  "exportedAt": "2026-09-24T05:21:30.627Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1790226859175",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Δημήτρης \"Τζιμ\" Αποστόλου, Γιάννης Παπαϊωάννου",
+          "year": "1954",
+          "note": "USA",
+          "link": "https://www.youtube.com/watch?v=bRKtvkEb62g",
+          "vid": false
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1953",
+          "note": ": Μπουζούκια: Γιάννης Παπαϊωάννου, Γιώργος Ζαμπέτας. Κιθάρα: Στέλιος  Χρυσίνης. Μπαγλαμάς: Πάνος  Χρυσίνης. Μπάσο: Σπύρος Αναγνώστου.",
+          "link": "https://www.youtube.com/watch?v=vYhgB5IZJkk",
+          "vid": false
+        },
+        {
+          "who": "Γιάννης Παπαϊωάννου",
+          "year": "1953",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=-QgcQkj2UJM",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-24",
+      "tgr": "Βγήκε ο Χάρος να ψαρέψει",
+      "tit": "Vgìke o Chàros na psarèpsi",
+      "alias": "Ο Χάρος",
+      "at": "Ευτυχία Παπαγιαννοπούλου",
+      "am": "Γιάννης Παπαϊωάννου",
+      "yr": "1955",
+      "ar": "",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "LAm          MIm          LAm       REm        MIm | MIm LAm REm MIm ||\nΒγήκε ο Χάρος να ψαρέψει με τ' αγκίστρι του ψυχές\nMIm        REm           MIm    MIm       LAm    FA   MIm\nΑχ, και γυρεύ-ει πληγωμένους, δυστυχει--είς και πονεμένους\nFA          REm       MIm            REm   MIm\nμεσ' τις φτωχογειτονιές, βγήκε ο Χάρος για ψυχές\n\nLAm          MIm          LAm       REm        MIm | MIm LAm REm MIm ||\nΒρε κορμιά βασανισμένα, πιάστε απόψε τα στενά\nMIm        REm           MIm    MIm       LAm    FA   MIm\nΑχ, να μας δει και μας ο Χάρος, που της Γης δίνουμε βάρος\nFA          REm       MIm            REm   MIm\nνα σωθούμε απ' τον βραχνά, πιάστ' απόψε τα στενά\n\nLAm          MIm          LAm       REm        MIm | MIm LAm REm MIm ||\nΜε τη μαύρη του σφεντόνα στρίβει ο Χάρος στη γωνιά\nMIm        REm           MIm    MIm       LAm    FA   MIm\nΑχ, για πιαστείτε χέρι-χέρι να του στήσουμε καρτέρι\nFA          REm       MIm            REm   MIm\nκι όποιον πάρει η σφεντονιά, στρίβει ο Χάρος στη γωνιά",
+      "tr": "Vgìke o Chàros na psarèpsi\n\nVghíke o Cháros na psarépsi me t' angístri tu psichiés\nAch, ke ghirévi plighoménus, distichís ke ponemémus\nmes tis ftochoghitoniés, vghíke o Cháros ghia psichiés\n\nVre kormiá vasanisména, piáste apópse ta stená\nAch, na mas dei kie mas o Cháros, pu tis Ghis dínume város\nna sothúme ap' ton vrachná, piást' apópse ta stená\n\nMe ti mávri tu sfendóna strívi o Cháros sti ghoniá\nAch, ghia piastíte chiéri-chiéri na tu stísume kartéri\nki ópion pári i sfendoniá, strívi o Cháros sti ghoniá",
+      "ti": "È uscito Caronte a pescare\n\nÈ uscito Caronte1 a pescare anime con il suo amo\nAh, e cerca i feriti, gli sventurati e gli afflitti\nper i quartieri poveri, è uscito Caronte a cercare anime\n\nEhi, corpi tormentati, prendete stanotte i vicoli stretti\nAh, che ci veda anche noi Caronte, noi che diamo peso alla Terra2\nper salvarci dall'incubo3, prendete stanotte i vicoli stretti\n\nCon la sua fionda nera Caronte svolta all'angolo\nAh, prendetevi per mano per tendergli un agguato\ne chiunque la fionda colpisca, Caronte svolta all'angolo\n\n\"Χάρος\" (Charos/Caronte) è la personificazione della Morte nella tradizione popolare e folklorica greca, spesso raffigurato come un cavaliere o un cacciatore che porta via le anime dei vivi; deriva dal traghettatore mitologico Caronte ma nel folklore moderno assume un ruolo più simile a quello della Morte stessa. ↩\n\nEspressione idiomatica che indica chi è un peso per il mondo, chi vive nella miseria e nella sofferenza tale da sentirsi di troppo sulla terra. ↩\n\n\"Βραχνάς\" indica letteralmente l'incubo notturno, mma qui usato in senso figurato per indicare una condizione di vita oppressiva e angosciante da cui si desidera essere liberati. ↩",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1790225355942",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μίμης (Δημήτρης) Φωτόπουλος, Σούλη Σαμπάχ, Βασίλης Αυλωνίτης",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=YqpiqMYCc-Y",
+          "vid": false
+        },
+        {
+          "who": "Μαίρη Λω",
+          "year": "1955",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=FkUkiMEnfxg",
+          "vid": false
+        },
+        {
+          "who": "Γρηγόρης Μπιθικώτσης, Ελένη Κώτσογλου",
+          "year": "1956",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=pW-jx82Fur8",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-24",
+      "tgr": "Γαρύφαλλο στ’ αυτί",
+      "tit": "Garìfalo st'aftì",
+      "alias": "",
+      "at": "Αλέκος Σακελλάριος",
+      "am": "Μάνος Χατζιδάκις",
+      "yr": "1955",
+      "ar": "",
+      "lb": "",
+      "gn": "Laïko classico / Elafrolaïko",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "RE                    MIm        LA             RE\nΓαρύφαλλο στ' αυτί και πονηριά στο μάτι\n                  SOL MIm                   LA         RE\nΗ τσέπη άδεια πάντοτε, μα η καρδιά γεμάτη\nRE                    MIm            LA                    RE\nΓαρύφαλλο στ' αυτί και ποιος θα σου τ' αρπάξει\n                  SOL MIm                   LA         RE\nΣφιχτή γροθιά το στήθος σου, που σκίζει το μετάξι\n\nLA                              SOL              LA                    RE\nΧτύπα τα πόδια τσίφτισσα, τσιγγάνα τουρκογύφτισσα\nLA                              SOL              LA                    RE\nΤσιγγάνα τουρκογύφτισσα, χτύπα τα πόδια τσίφτισσα\n\nRE                    MIm        LA             RE\nΓαρύφαλλο στ' αυτί και στα μαλλιά μαντήλι\n                  SOL MIm                   LA         RE\nΕίναι το στόμα σου δροσιά, είναι φωτιά τα χείλη\nRE                    MIm        LA             RE\nΓαρύφαλλο στ' αυτί, στο στόμα το τσιγάρο\n                  SOL MIm                   LA         RE\nΠού είναι το τσαντίρι σου, για να 'ρθω να σε πάρω\n\nLA                              SOL              LA                    RE\nΦέρε μια βόλτα τσίφτισσα, τσιγγάνα τουρκογύφτισσα\nLA                              SOL              LA                    RE\nΤσιγγάνα τουρκογύφτισσα, φέρε μια βόλτα τσίφτισσα",
+      "tr": "Garìfalo st'aftì\n\nGarífalo st' aftí kie poniriá sto máti\nI tsépi ádia pádote, ma i kardiá ghiemáti\nGarífalo st' aftí ke pios tha su t' arpáksei\nSfichtí grothiá to stíthos su, pu skízi to metáksi\n\nChtípa ta pódia tsíftissa, tsingána turkoghíftissa\nTsingána turkoghíftissa, chtípa ta pódia tsíftissa\n\nGarífalo st' aftí ke sta malliá mantíli\nÍne to stóma su drosiá, íne fotiá ta chíli\nGarífalo st' aftí, sto stóma to tsigáro\nPu íne to tsantíri su, ghia na 'rtho na se páro\n\nFére mia vólta tsíftissa, tsingána turkoghíftissa\nTsingána turkoghíftissa, fére mia vólta tsíftissa",
+      "ti": "Un garofano dietro l'orecchio\n\nUn garofano dietro l'orecchio1 e malizia negli occhi\nla tasca sempre vuota, ma il cuore pieno\nUn garofano dietro l'orecchio, e chi mai te lo strapperà?\nPugno serrato il tuo petto, che squarcia la seta\n\nBatti i piedi, gitanella2, zingara turco-gitana3\nzingara turco-gitana, batti i piedi, gitanella\n\nUn garofano dietro l'orecchio e un fazzoletto tra i capelli\nla tua bocca è rugiada, le tue labbra sono fuoco\nUn garofano dietro l'orecchio, la sigaretta in bocca\ndov'è la tua tenda4, che venga a prenderti\n\nFatti un giro, gitanella, zingara turco-gitana\nzingara turco-gitana, fatti un giro, gitanella\n\nPortare un garofano dietro l'orecchio è, nella tradizione popolare greca, un gesto civettuolo e sfrontato, tipicamente associato a figure femminili audaci e passionali. ↩\n\n\"Τσίφτισσα\" è un termine popolare, spesso riferito a una donna vivace, ardita e disinvolta, con una connotazione di fascino un po' selvaggio. ↩\n\n\"Τουρκογύφτισσα\" indica una donna di origine rom/gitana legata all'ambiente turco-ottomano; il termine, oggi percepito come esotizzante, era comune nel repertorio popolare e rebetiko per evocare un'immagine di fascino esotico e libertà. ↩\n\n\"Τσαντίρι\" è la tenda tipica delle comunità rom itineranti; qui indica metaforicamente la dimora della donna, richiamando l'immaginario della vita nomade. ↩",
+      "no": "Dal film del 1955 Laterna, ftochia ke filotimo\nNella sua autobiografia \"Εγώ ο Σερ…\" Bithikotsis racconta — Sentì per caso il disco da un venditore ambulante di grammofoni all'angolo tra via Stadiou e Aiolou, pagò 10 dracme per riascoltarlo, non conosceva né Hatzidakis né Sakellarios. Rintracciò Hatzidakis chiedendo in giro (prima al bar \"Marios\", poi al caffè \"Floka\", dove lo trovò a guardare una partita a tavli), convinse il direttore di produzione della Columbia a fargli incidere quei due brani invece della propria quota mensile obbligatoria come compositore.",
+      "balvid": false
+    },
+    {
+      "id": "s_1790178872203",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Gadjo Dilo",
+          "year": "2016",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=K9aJhRNRtLE",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-23",
+      "tgr": "Σαν μαγεμένο το μυαλό μου",
+      "tit": "San maghiemèno to mialò mou",
+      "alias": "",
+      "at": "Δημήτρης Γκόγκος",
+      "am": "Δημήτρης Γκόγκος",
+      "yr": "1940",
+      "ar": "Δημήτρης Γκόγκος",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                LA            REm\nΣαν μαγεμένο το μυαλό μου φτερουγίζει\nREm                LA            REm\nΗ κάθε σκέψη μου κοντά σου τριγυρίζει\nREm     LA#         RE           SOLm\nΔεν ησυχάζω και στον ύπνο που κοιμάμαι\n         LA                      REm\nΕσένα πάντα αρχοντοπούλα μου θυμάμαι\n\nREm                LA            REm\nΜες στης ταβέρνας τη γωνιά για σε τα πίνω\nREm                LA            REm\nΓια την αγάπη σου ποτάμια δάκρυα χύνω\nREm     LA#         RE           SOLm\nΛυπήσου με μικρή και μη μ' αφήνεις μόνο\n         LA                      REm\nΑφού το ξέρεις πως για σένα μαραζώνω\n\nREm                LA            REm\nΑχ παιχνιδιάρα πάψε τώρα τα γινάτια\nREm                LA            REm\nκαι μη μου κάνεις την καρδούλα μου κομμάτια\nREm     LA#         RE           SOLm\nΜε μια ματιά σου σαν μου ρίξεις αχ πώς λιώνω\n         LA                      REm\nΚοντά σου ξέρεις πως ξεχνάω κάθε πόνο",
+      "tr": "San maghiemèno to mialò mou\n\nSan maghiemèno to mialó mu fterughízi\nI káthe sképsi mu kontá su trighirízi\nDen isichàzo ke ston ípno pu kimáme\nEséna pánta archontopúla mu thimáme\n\nMes stis tavérnas ti ghoniá ghia se ta píno\nGhia tin agápi su potámia dákria chino\nLipísu me mikrí ke mi m' afínis móno\nAfú to ksèris pos ghia séna marazóno\n\nAch pechnidiàra pápse tóra ta ghinàtia\nke mi mu kánis tin kardúla mu kommátia\nMe mia matiá su san mu riksis ach pos lióno\nKontá su ksèris pos ksechnào káthe póno",
+      "ti": "Come stregata la mia mente\n\nCome stregata la mia mente vola in alto1\nogni mio pensiero gira intorno a te\nNon trovo pace nemmeno nel sonno in cui dormo\nSempre te, mia nobile fanciulla2, ricordo\n\nNell'angolo della taverna bevo per te\nper il tuo amore verso fiumi di lacrime\nAbbi pietà di me, piccola, e non lasciarmi solo\npoiché sai bene che per te sto deperendo3\n\nAh, birichina, smetti ora i capricci4\ne non farmi il cuoricino a pezzi\nCon un solo tuo sguardo, se me lo lanci, ah come mi sciolgo\nVicino a te sai che dimentico ogni dolore\n\n\"Φτερουγίζει\" significa letteralmente \"sbatte le ali, svolazza\", qui usato in senso figurato per descrivere una mente che vaga inquieta come in preda a un incantesimo. ↩\n\n\"Αρχοντοπούλα\" è un termine della tradizione popolare greca che indica una giovane donna di nobili origini o comunque di grande dignità/bellezza; usato come vezzeggiativo affettuoso verso l'amata. ↩\n\n\"Μαραζώνω\" descrive uno struggimento fisico e interiore causato dalla pena d'amore, un consumarsi lentamente per la nostalgia o il desiderio. ↩\n\n\"Γινάτια\" indica i capricci, le ostinazioni o i dispetti fatti per orgoglio o testardaggine, spesso riferiti agli atteggiamenti civettuoli di una persona amata",
+      "no": "Nella primissima registrazione originale del 1940, la voce è quella dello stesso autore Bayanderas, ma ad accompagnarlo al bouzouki c'è un giovanissimo Manolis Chiotis (Μανώλης Χιώτης)",
+      "balvid": false
+    },
+    {
+      "id": "s_1790177577947",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-23",
+      "tgr": "Μια μελαχρινή",
+      "tit": "Mia Melachrinì",
+      "alias": "",
+      "at": "Παναγιώτης Κοκοντίνης",
+      "am": "Στελλάκης Περπινιάδης",
+      "yr": "1957",
+      "ar": "Γιώτα Λύδια",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=ff9VanyUM5Y",
+      "li": "",
+      "ch": "SOL#\nΜια μελαχρινή γιάλα\nSOL#\nΚούκλα ζωντανή γιάλα ε\nLAm                 MIm\nΣαν την είδα στο χορό γιάλα\nLAm            MIm\nΑχ δε βαστώ γιάλα\nRE\nΘα τρελαθώ\nLAm SOLm FA DO LA# LAm LA#SOLm\nΝα χορεύει τσιφτετέλι\nLA#            LAm\nΣ' ένα γύφτικο σκοπό\n\nLAm\nΕίχε ένα κορμί σαν χέλι\nRE LAm\nΒαϊ(5)\nSOL                                    LAm\nΕίχε ένα κορμί σαν χέλι χόρευε το τσιφτετέλι\nREm                            DOm\nΧόρευε σκορπούσε κέφι με το ντέφι της\nREm                              DOm\nΜε το ντέφι της γιάλα με το ντέφι της\nLAm SOLm FA DO LA#LAmLA#SOLm\nΚι' όλα γίναν άνω κάτω\nLA#                     LAm\nΓια γούστο και για κέφι της\n\nSOL#\nΠως να της το πω γιάλα\nSOL#\nΠως την αγαπώ γιάλα ε\nLAm                  MIm\nΘα με φάει ο καημός γιάλα\nLAm            MIm\nΠου να τη βρω γιάλα\nRE\nΝα της το πω\nLAm SOLm FA DO LA# LAm LA#SOLm\nΠως θα γίνει πια δικιά μου\nLA#            LAm\nΚαι να τη στεφανωθώ",
+      "tr": "Mia Melachrinì\n\nMia melahriní ghiála\nKúkla zontaní ghiála e\nSan tin ída sto choró ghiála\nAh de vastó ghiála\nTha trelathó\nNa horévi tsiftetéli\nS' éna gìftiko skopó\n\nÍchie éna kormí san chiéli\nVaï (5)\nÍchie éna kormí san chiéli, chórevе to tsifteléli\nChórevе skorpúse kéfi me to ntéfi tis\nMe to ntéfi tis ghiála, me to ntéfi tis\nKi' óla ghínan áno káto\nGia gústo ke ghia kéfi tis\n\nPos na tis to po ghiála\nPos tin agapó ghiála e\nTha me fái o kaimós ghiála\nPu na ti vro ghiála\nNa tis to po\nPos tha ghíni pia dikiá mu\nKhe na ti stefanothó",
+      "ti": "Una ragazza mora\n\nUna bruna1 — giala2\nuna bambola viva — giala, eh\nCome l'ho vista ballare — giala\nah, non resisto — giala\nImpazzirò\nnel vederla ballare il tsifteteli3\nsu un motivo alla zigana4\n\nAveva un corpo come un'anguilla\nVaï (5)2\nAveva un corpo come un'anguilla, ballava il tsifteteli\nBallava, spargeva allegria con il suo tamburello5\ncon il suo tamburello — giala — con il suo tamburello\nE tutto si è capovolto6\nper il suo gusto e il suo divertimento\n\nCome posso dirglielo — giala\nche la amo — giala, eh\nIl dolore mi divorerà — giala\ndove posso trovarla — giala\nper dirglielo,\nche diventerà finalmente mia\ne che la sposerò7\n\nNota:\n\n\"Μελαχρινή\" indica una donna dalla carnagione e dai capelli scuri, spesso usato come complimento nella tradizione popolare greca. ↩\n\n\"Γιάλα\" e \"Βαϊ\" sono vocaboli senza significato letterale, sillabe usate per il ritmo e il canto (simili a \"tralalà\"), tipiche del rebetiko e della musica popolare greca. ↩ ↩2\n\nIl \"τσιφτετέλι\" (tsifteteli) è una danza di origine ottomana/medio-orientale, molto diffusa nella musica greca popolare e rebetiko, caratterizzata da movimenti sinuosi del bacino. ↩\n\n\"Γύφτικο σκοπό\" significa letteralmente \"motivo zigano/gitano\", riferendosi allo stile musicale associato tradizionalmente ai musicisti rom, spesso apprezzato per la sua vivacità ritmica nel repertorio popolare greco. ↩\n\nIl \"ντέφι\" è un tamburello a cornice (simile al daf/riq mediorientale), strumento tipico dell'accompagnamento del tsifteteli. ↩\n\nEspressione idiomatica (\"άνω κάτω\", letteralmente \"sopra sotto\") che significa \"tutto sottosopra, in subbuglio\". ↩\n\n\"Στεφανωθώ\" si riferisce letteralmente all'incoronazione nuziale (\"στέφανα\", le corone) del rito matrimoniale ortodosso greco: sposarsi. ↩",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1790148676269",
       "offsets": {},
@@ -13112,6 +13268,7 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/perpiniadis.jpg",
       "roles": [
+        "am",
         "ar"
       ],
       "instr": "voce, chitarra"
@@ -16291,7 +16448,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/merilo.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1787805839668",
@@ -18590,6 +18748,99 @@
         "ar"
       ],
       "instr": "bouzouki, voce"
+    },
+    {
+      "id": "p_1790176684704",
+      "name": "Παναγιώτης Κοκοντίνης",
+      "nameit": "Panagiótis Kokontínis",
+      "born": "1918, Ampelochori, Tebe (Beozia)",
+      "died": "1 agosto 2000, Atene (quartiere Agios Pavlos)",
+      "bio": "Clarinettista di musica popolare (dimotikà), leggendario nei villaggi arvanitofoni dell'Attica e della Beozia. Fu tra i pochi musicisti dimotikà della sua generazione capaci di leggere le note musicali. Scrisse anche diverse canzoni, tra cui \"Θ' αλλάξω σπίτι και θα 'ρθώ\" e \"Πατέρα μας μεγάλωσες\", entrambe interpretate da Andreas Tsaousis.\n\nIncise con praticamente tutti i grandi nomi della canzone greca dell'epoca — Kazantzidis, Giota Lydia, Zachos, Vera, Tsaousis tra gli altri — e suonò nei migliori locali del paese. Il suo nome divenne particolarmente noto al grande pubblico grazie all'appellativo con cui lo chiama Giota Lydia nel taxími introduttivo della sua canzone \"Γύρνα πάλι, γύρνα\".\n\nDurante l'Occupazione tedesca partecipò alla Resistenza nazionale.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kokontinis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ],
+      "instr": "clarino"
+    },
+    {
+      "id": "p_1790222127232",
+      "name": "Τόλης (Απόστολος) Βοσκόπουλος",
+      "nameit": "Tólis (Apóstolos) Voskópoulos",
+      "born": "26 luglio 1940, Pireo (Kokkinia)",
+      "died": "19 luglio 2021, Atene",
+      "bio": "Considerato tra i più importanti cantanti della sua generazione, oltre che compositore e attore. Dodicesimo figlio — e primo maschio — di una famiglia di undici sorelle, profughi dell'Asia Minore del 1922 stabilitisi a Kokkinia: il padre Charalambos faceva il fruttivendolo ai Lemonadika del Pireo, la madre Aikaterini Sarafoglou era casalinga.\n\nFu il compositore Lykourgos Markeas a scoprirlo: debuttò in discografia nel 1962, a 22 anni, con il singolo \"Βήμα-βήμα / Ξαστέρωσε ο ουρανός\" per la Columbia. Il suo modo di presentarsi sul palco, di interpretare e di vestire gli valsero presto, tra i fan più accaniti, i soprannomi di \"principe\" e \"signore della pista\".\n\nLa consacrazione definitiva arrivò nel 1968 con \"Αγωνία\" (musica di Giorgos Zambetas), che superò le 300.000 copie vendute in pochissimo tempo. Ebbe collaborazioni con moltissimi grandi compositori — oltre a Zambetas, Akis Panou, Thanasis Polykandriotis, Marios Tokas, Giannis Parios, Mimis Plessas, Lefteris Katsaros, Kostas Virvos, Dervenioti — e fu legato da un sodalizio artistico importante con Stratos Dionysiou.\n\nNella vita privata restano note le relazioni con la cantante Doukissa e con l'attrice Zoi Laskari.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/voskopulos.jpg",
+      "roles": [
+        "am",
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1790222335543",
+      "name": "Έλσα Λάμπο",
+      "nameit": "Élsa Lámbo",
+      "born": "1923, Atene",
+      "died": "2010",
+      "bio": "Vero nome Ελένη Λαμπίρη; anche nota come Έλσα Μαργαρίτη\n\nCantante attiva soprattutto tra gli anni '40 e '60, esordì nel 1949 con \"Δεσποινίς, δεσποινίς\" di Jacques Iakovidis. Nel corso della carriera usò diversi nomi d'arte — oltre a \"Elsa Lambo\", anche il proprio vero nome \"Eleni Lambiri\" e \"Elsa Margariti\" (dal cognome del marito) — a seconda del disco o del periodo.\n\nTra il 1948 e il 1968 incise 210 canzoni (162 come prima voce, 48 come seconda), collaborando con moltissimi grandi nomi: Vasilis Tsitsanis, Manolis Chiotis, Kostas Roukounas, Fotis Polymeris, Kaiti Belinda, Giorgos Loukas, Spyros Zagoraios. Fu lei a incidere, nel 1962, \"Ξέρω κάποιο στενό\" di Manos Hadjidakis. Apparve anche al cinema, nel film \"Ορκίστηκα εκδίκηση\" (1952).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/lambo.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1790222606255",
+      "name": "Σπεράντζα Βρανά",
+      "nameit": "Sperántza Vraná",
+      "born": "6 febbraio 1928, Missolungi",
+      "died": "29 settembre 2009",
+      "bio": "Vero nome Ελπίδα Χωματιανού\n\nAttrice e cantante, figura simbolo della rivista teatrale (epitheorisi) greca del dopoguerra — descritta come l'ultima grande \"manghissa\" del teatro musicale greco, per la sua presenza scenica dirompente e il linguaggio diretto. Figlia di una famiglia benestante (padre ateniese, madre di Missolungi), i genitori divorziarono poco dopo essersi trasferiti ad Atene.\n\nCominciò il percorso teatrale nel 1943, a soli 15 anni, con le compagnie itineranti (\"bouloukia\"), formandosi in tutti i generi — prosa, commedia musicale, operetta. Debuttò sulla scena ateniese nel 1948, al teatro Metropolitan, nella rivista \"Άνθρωποι, Άνθρωποι\" di Alekos Sakellarios e Christos Giannakopoulos, interpretando \"Το τραμ το τελευταίο\". Divenne nota anche come cantante grazie a \"Παιδιά της Ελλάδος παιδιά\", canzone che accompagnò i soldati durante la guerra greco-italiana, guadagnandosi l'appellativo di \"cantante della vittoria\".\n\nEbbe una relazione lunga e tempestosa, tra gelosie e riconciliazioni, con l'attore Kostas Voutsas. Si sposò due volte, la seconda nel 1966 con il cantante Pavlos Patakas. Scrisse diversi libri, tra cui l'autobiografia \"Τολμώ\" (1981).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vrana.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1790223218130",
+      "name": "Μίμης (Δημήτρης) Φωτόπουλος",
+      "nameit": "Mímis (Dimítris) Fotópoulos",
+      "born": "20 aprile 1913, Zatouna, Gortynia (Arcadia)",
+      "died": "29 ottobre 1986, Atene",
+      "bio": "Uno dei più grandi attori comici del teatro, cinema e televisione greci. Figlio di Nikolaos Fotopoulos (da Zatouna) e Anna Papadopoulou (da Egio), rimase presto orfano di padre; l'infanzia difficile fu segnata anche dalla perdita di una sorella. La famiglia si trasferì ad Atene, nel quartiere Pefkakia (oggi Neapoli Exarchion).\n\nStudiò alla Scuola di Recitazione del Teatro Nazionale (allora Teatro Reale) e frequentò la Facoltà di Lettere di Atene fino al secondo anno (1933), senza completarla. Debuttò a 19 anni ne \"La locandiera\" con la compagnia Kounelaki; nel 1934 iniziò la prima tournée con il \"bouloúki\" (compagnia itinerante) di Themistoklis Nezer.\n\nPartecipò all'EAM durante la Resistenza; durante i Dekemvriana fu deportato dagli inglesi, come ostaggio, al campo di El Dabaa (Egitto) fino al marzo 1945.\n\nEsordì al cinema nel 1948 con \"Madame Sousou\" di Tsiforos. Recitò in oltre 100 film, scrivendo la sceneggiatura per due di essi. Tra i suoi maggiori successi: \"Ταξιδιώτης χωρίς αποσκευές\", \"Κάλπικη λίρα\", \"Λατέρνα, φτώχεια και φιλότιμο\" (accanto a Tzeni Karezi), \"Το σωφεράκι\", \"Ο γρουσούζης\", \"Ο Θόδωρος και το δίκανο\". In televisione apparve nella serie ERT \"Ο θείος μας ο Μίμης\" (1984).\n\nFu anche scrittore e pittore (praticò il collage di francobolli, con cinque mostre personali), membro del consiglio direttivo del Sindacato degli Attori Greci e presidente dell'Unione Panellenica del Teatro Libero. Morì improvvisamente per infarto.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/fotopulos.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1790223484785",
+      "name": "Σούλη Σαμπάχ",
+      "nameit": "Súli Sampách",
+      "born": "16 febbraio 1932, Alessandria d'Egitto",
+      "died": "2 maggio 2023, Atene",
+      "bio": "Vero nome Αναστασία Χριστοδούλου\n\nCantante e attrice, di origini cipriote per parte di padre (da Polemi, Pafo) e chiote per parte di madre. Il nome d'arte \"Sabah\" (\"Alba\"/\"Aurora\" in arabo) le fu dato agli esordi. Negli anni '50 la famiglia si trasferì ad Atene, dove cominciò a cantare nel celebre locale mondano \"Τζάκι\" (\"Gaki\").\n\nDebuttò al cinema nel 1955 con \"Λατέρνα, φτώχεια και φιλότιμο\", accanto a Vasilis Avlonitis, Mimis Fotopoulos e Tzeni Karezi. Fu attiva anche in televisione e a teatro, in produzioni e riviste importanti. Fu moglie dell'attore e regista Dimitris Nikolaidis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/sabach.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
     }
   ]
 }
