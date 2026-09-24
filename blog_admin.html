@@ -743,7 +743,7 @@ function renderAdminPersons(){
   <div class="admin-row">
     <div class="admin-row-main">
       <div class="admin-row-title">${esc(p.name)} ${p.nameit?`<span style="font-size:11px;color:var(--t3)">(${esc(p.nameit)})</span>`:''}</div>
-      <div class="admin-row-sub">${(p.roles||[]).map(r=>`<span class="role-pill ${RC[r]||''}" style="font-size:9.5px">${RL[r]||r}</span>`).join(' ')}${(p.roles||[]).includes('mu')?' <span style="font-size:9.5px;color:#b45309;background:#fef3c7;border-radius:8px;padding:1px 6px">🎻 da aggiornare</span>':''}</div>
+      <div class="admin-row-sub">${(p.roles||[]).map(r=>`<span class="role-pill ${RC[r]||''}" style="font-size:9.5px">${RL[r]||r}</span>`).join(' ')}${(p.roles||[]).includes('mu')?' <span style="font-size:9.5px;color:#b45309;background:#fef3c7;border-radius:8px;padding:1px 6px">🎻 da aggiornare</span>':''}${((p.roles||[]).includes('ar')&&!(p.instr||'').trim())?' <span style="font-size:9.5px;color:#b91c1c;background:#fee2e2;border-radius:8px;padding:1px 6px">🎤 specifica voce/strumento</span>':''}</div>
       ${p.instr?`<div class="admin-row-sub" style="font-size:10.5px;color:var(--t3)">🎸 ${esc(p.instr)}</div>`:''}
     </div>
     <div class="admin-row-actions">
