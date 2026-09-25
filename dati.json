@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-25T17:17:33.274Z",
+  "exportedAt": "2026-09-25T17:25:51.193Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
@@ -11,10 +11,10 @@
       "tgr": "Μπαγάσας",
       "tit": "Bagàsas",
       "alias": "",
-      "at": "",
-      "am": "",
-      "yr": "",
-      "ar": "",
+      "at": "Νικόλας Άσιμος",
+      "am": "Νικόλας Άσιμος",
+      "yr": "1987",
+      "ar": "Νικόλας Άσιμος",
       "lb": "",
       "gn": "",
       "zona": "",
@@ -26,7 +26,7 @@
       "ch": "REm                DO          REm\nΑφήνω πίσω τις αγορές και τα παζάρια\nREm                    DO             REm\nΘέλω να τρέξω στις καλαμιές και τα λιβάδια\n         FA         DO\nΝα ξαναγίνω καβαλάρης\nFA          DO             REm\nκαι ξαναέλα να με πάρεις, ουρανέ\nFA                         DO\nΓια δεν υπήρξα κατεργάρης\nFA                 DO          REm\nκαι τη χρειάζομαι τη χάρη σου, μωρέ\n\nREm    DO   SOLm  REm    DO  REm\nΡε μπαγάσα, περνάς καλά κει πάνω\nREm    DO   SOLm  REm    DO  REm\nΜιαν ανάσα γυρεύ-ω για να γιάνω\nDO SOLm REm   DO  SOLm   REm\nΔεν το πιστεύ-ω να με χλευάζεις\nDO SOLm  REm   DO SOLm REm\nΣα σε χαζεύ-ω δε χαμπαριάζεις\nSOLm REmDO REm SOLm REm DO REm SOLm REm DO REm SOLm REm DO REm\nΠρότεινέ μου κάποια λύση, δε θα σου παρακοστίσει\nREm              FA     DO\nΚαι θα σου φτιάχνω τραγουδάκια\nFA              DO                  REm\nμε τα πιο όμορφα στιχάκια στο ρεφρέν\nREm        FA        DO\nΓια το χαμένο μου αγώνα\nFA                       DO         REm\nπου τ' αστεράκια μείναν μόνα να τον κλαιν\n\nREm                DO          REm\nΑφήνω πίσω το σαματά και τους ανθρώπους\nREm                DO          REm\nΈχω χορτάσει κατραπακιές και ψάχνω τρόπους\nFA                    DO\nΠώς να ξεφύγω από τη μοίρα\nFA             DO          REm\nκαι έχω μέσα μου πλημμύρα, ουρανέ\nFA                   DO\nΓια δεν υπήρξα κατεργάρης\nFA               DO            REm\nκαι θα το θες να με φλερτάρεις, γαλανέ\n\nREm   DO   SOLm  REm   DO  REm\nΡε μπαγάσα, περνάς καλά κει πάνω\nREm DO SOLm   REm DO REm\nΚάνε πάσα και μια ματιά και χάμω\nDO SOLm   REm    DO SOLm REm\nΚει πού κοιμάσαι και αρμενίζεις\nDO SOLm  REm   DO    SOLm   REm\nξάφνου αστράφτεις και μπουμπουνίζεις\nSOLm REm DO REm SOLm REm DO REm SOLm REm DO REm SOLm REm DO REm\nΚι ό,τι σου 'ρθει κατεβάζεις, μη θαρρείς πως με ταράζεις\nREm            FA           DO\nγιατί σου φτιάχνω τραγουδάκια...",
       "tr": "Bagàsas\n\nAfìno pìso tis aghorès ke ta pazària\nThèlo na trèkso stis kalamiès ke ta livàdia\nNa ksanaghìno kavalàris\nke ksanaèla na me pàris, uranè\nGhia den ipìrksa katergàris\nke ti chreiàzome ti chàri su, moré\n\nRe baghàsa, pernàs kalà ki pàno\nMian anàsa ghirèvo ghia na ghiàno\nDen to pistèvo na me chlevàzis\nSa se chazèvo de chambariàzis\nPròtenè mu kàpia lìsi, de tha su parakostìsi\nKe tha su ftiàchno traghudàkia\nme ta pio òmorfa stichàkia sto refrèn\nGhia to chaméno mu aghòna\npu t'asteràkia mìnan mòna na ton klen\n\nAfìno pìso to samatà ke tus anthròpus\nÉcho chortàsi katrapakiès ke psàchno tròpus\nPos na ksefìgho apò ti mìra\nke écho mèsa mu plimmìra, uranè\nGhia den ipìrksa katergàris\nke tha to thes na me flertàris, ghalanè\n\nRe baghàsa, pernàs kalà ki pàno\nKàne pàsa ke mia matià ke chàmo\nKi pu kimàse ke armenìzis\nksàfnu astràftis ke bumbunìzis\nKi ò,ti su 'rthi katevàzis, mi tharìs pos me taràzis\nghiatì su ftiàchno traghudàkia...",
       "ti": "Lascio dietro i mercati e le contrattazioni¹,\nvoglio correre tra i canneti e i prati,\nper tornare a essere un cavaliere,\ne vieni di nuovo a prendermi, o cielo²,\nperché non sono stato un imbroglione³,\ne ho bisogno della tua grazia, amico mio\n\nEhi, birbante⁴, te la passi bene lassù,\nun respiro cerco per guarire,\nnon ci posso credere che tu mi derida,\nmentre ti fisso incantato⁵ tu non ti curi di me\n\nProponimi qualche soluzione, non ti costerà nulla,\ne ti farò canzoncine\ncon i versi più belli nel ritornello,\nper la mia battaglia perduta,\nche sono rimaste sole le stelline a piangerla\n\nLascio dietro il chiasso e la gente,\nsono sazio di batoste⁶ e cerco modi\nper sfuggire al destino,\ne ho dentro di me un'alluvione, o cielo,\nperché non sono stato un imbroglione,\ne magari vorrai corteggiarmi⁷, cielo azzurro\n\nEhi, birbante, te la passi bene lassù,\nfammi un cenno⁸ e dai un'occhiata anche quaggiù,\nlì dove dormi e navighi⁹,\nall'improvviso lampeggi e tuoni,\ne qualunque cosa ti venga, la scarichi giù, non pensare di turbarmi\nperché ti faccio canzoncine...\n\nNote\n\nΑγορές και παζάρια (\"mercati e contrattazioni\") – immagine del caos e delle trattative della vita quotidiana urbana, da cui il protagonista desidera fuggire verso una natura più libera e semplice.\nΟυρανέ – vocativo poetico rivolto direttamente al cielo, personificato come interlocutore/confidente a cui rivolgere lamentele e richieste, tono quasi fiabesco-ironico.\nΚατεργάρης – \"imbroglione, furbo, mascalzone\"; il protagonista si difende affermando di non aver mai agito con disonestà, per giustificare la richiesta di \"grazia\" al cielo.\nΜπαγάσας – termine colloquiale per \"birbante, mattacchione\", qui usato scherzosamente per rivolgersi al cielo/al destino personificato come un tipo dispettoso e sfuggente.\nΣε χαζεύω (\"ti fisso incantato/rimbambito\") – espressione colloquiale per \"guardare con ammirazione o stupore\", qui riferito al rapporto quasi ossessivo del protagonista con il cielo/destino a cui si rivolge.\nΚατραπακιές – termine gergale per \"batoste, colpi duri della vita\"; immagine informale delle difficoltà accumulate.\nΝα με φλερτάρεις (\"corteggiarmi\") – uso scherzoso e paradossale del verbo \"flirtare\" riferito al cielo, personificato quasi come un amante capriccioso e ambiguo con cui il protagonista ha un rapporto di amore-odio.\nΚάνε πάσα – espressione colloquiale mutuata dal linguaggio sportivo (calcio, \"fai un passaggio\"), qui usata in senso figurato per \"dammi un segnale, fammi un favore\".\nΚει πού κοιμάσαι και αρμενίζεις (\"lì dove dormi e navighi\") – immagine poetica del cielo che \"dorme\" quieto tra le nuvole ma anche \"naviga\", muovendosi con esse, prima di scatenare improvvisamente tuoni e fulmini, metafora dell'imprevedibilità del destino/della natura.",
-      "no": "",
+      "no": "[[2026-09-07|Vai all'approfondimento]]",
       "balvid": false
     },
     {
@@ -37,10 +37,10 @@
       "tgr": "Το παπάκι",
       "tit": "To papàki",
       "alias": "",
-      "at": "",
-      "am": "",
-      "yr": "",
-      "ar": "",
+      "at": "Νικόλας Άσιμος",
+      "am": "Νικόλας Άσιμος",
+      "yr": "1987",
+      "ar": "Χάρις Αλεξίου, Νικόλας Άσιμος",
       "lb": "",
       "gn": "Entechno",
       "zona": "",
