@@ -1,8 +1,164 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-24T17:49:10.767Z",
+  "exportedAt": "2026-09-25T17:17:33.274Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1790355979185",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-25",
+      "tgr": "Μπαγάσας",
+      "tit": "Bagàsas",
+      "alias": "",
+      "at": "",
+      "am": "",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=YD0CWJE7gQQ",
+      "li": "",
+      "ch": "REm                DO          REm\nΑφήνω πίσω τις αγορές και τα παζάρια\nREm                    DO             REm\nΘέλω να τρέξω στις καλαμιές και τα λιβάδια\n         FA         DO\nΝα ξαναγίνω καβαλάρης\nFA          DO             REm\nκαι ξαναέλα να με πάρεις, ουρανέ\nFA                         DO\nΓια δεν υπήρξα κατεργάρης\nFA                 DO          REm\nκαι τη χρειάζομαι τη χάρη σου, μωρέ\n\nREm    DO   SOLm  REm    DO  REm\nΡε μπαγάσα, περνάς καλά κει πάνω\nREm    DO   SOLm  REm    DO  REm\nΜιαν ανάσα γυρεύ-ω για να γιάνω\nDO SOLm REm   DO  SOLm   REm\nΔεν το πιστεύ-ω να με χλευάζεις\nDO SOLm  REm   DO SOLm REm\nΣα σε χαζεύ-ω δε χαμπαριάζεις\nSOLm REmDO REm SOLm REm DO REm SOLm REm DO REm SOLm REm DO REm\nΠρότεινέ μου κάποια λύση, δε θα σου παρακοστίσει\nREm              FA     DO\nΚαι θα σου φτιάχνω τραγουδάκια\nFA              DO                  REm\nμε τα πιο όμορφα στιχάκια στο ρεφρέν\nREm        FA        DO\nΓια το χαμένο μου αγώνα\nFA                       DO         REm\nπου τ' αστεράκια μείναν μόνα να τον κλαιν\n\nREm                DO          REm\nΑφήνω πίσω το σαματά και τους ανθρώπους\nREm                DO          REm\nΈχω χορτάσει κατραπακιές και ψάχνω τρόπους\nFA                    DO\nΠώς να ξεφύγω από τη μοίρα\nFA             DO          REm\nκαι έχω μέσα μου πλημμύρα, ουρανέ\nFA                   DO\nΓια δεν υπήρξα κατεργάρης\nFA               DO            REm\nκαι θα το θες να με φλερτάρεις, γαλανέ\n\nREm   DO   SOLm  REm   DO  REm\nΡε μπαγάσα, περνάς καλά κει πάνω\nREm DO SOLm   REm DO REm\nΚάνε πάσα και μια ματιά και χάμω\nDO SOLm   REm    DO SOLm REm\nΚει πού κοιμάσαι και αρμενίζεις\nDO SOLm  REm   DO    SOLm   REm\nξάφνου αστράφτεις και μπουμπουνίζεις\nSOLm REm DO REm SOLm REm DO REm SOLm REm DO REm SOLm REm DO REm\nΚι ό,τι σου 'ρθει κατεβάζεις, μη θαρρείς πως με ταράζεις\nREm            FA           DO\nγιατί σου φτιάχνω τραγουδάκια...",
+      "tr": "Bagàsas\n\nAfìno pìso tis aghorès ke ta pazària\nThèlo na trèkso stis kalamiès ke ta livàdia\nNa ksanaghìno kavalàris\nke ksanaèla na me pàris, uranè\nGhia den ipìrksa katergàris\nke ti chreiàzome ti chàri su, moré\n\nRe baghàsa, pernàs kalà ki pàno\nMian anàsa ghirèvo ghia na ghiàno\nDen to pistèvo na me chlevàzis\nSa se chazèvo de chambariàzis\nPròtenè mu kàpia lìsi, de tha su parakostìsi\nKe tha su ftiàchno traghudàkia\nme ta pio òmorfa stichàkia sto refrèn\nGhia to chaméno mu aghòna\npu t'asteràkia mìnan mòna na ton klen\n\nAfìno pìso to samatà ke tus anthròpus\nÉcho chortàsi katrapakiès ke psàchno tròpus\nPos na ksefìgho apò ti mìra\nke écho mèsa mu plimmìra, uranè\nGhia den ipìrksa katergàris\nke tha to thes na me flertàris, ghalanè\n\nRe baghàsa, pernàs kalà ki pàno\nKàne pàsa ke mia matià ke chàmo\nKi pu kimàse ke armenìzis\nksàfnu astràftis ke bumbunìzis\nKi ò,ti su 'rthi katevàzis, mi tharìs pos me taràzis\nghiatì su ftiàchno traghudàkia...",
+      "ti": "Lascio dietro i mercati e le contrattazioni¹,\nvoglio correre tra i canneti e i prati,\nper tornare a essere un cavaliere,\ne vieni di nuovo a prendermi, o cielo²,\nperché non sono stato un imbroglione³,\ne ho bisogno della tua grazia, amico mio\n\nEhi, birbante⁴, te la passi bene lassù,\nun respiro cerco per guarire,\nnon ci posso credere che tu mi derida,\nmentre ti fisso incantato⁵ tu non ti curi di me\n\nProponimi qualche soluzione, non ti costerà nulla,\ne ti farò canzoncine\ncon i versi più belli nel ritornello,\nper la mia battaglia perduta,\nche sono rimaste sole le stelline a piangerla\n\nLascio dietro il chiasso e la gente,\nsono sazio di batoste⁶ e cerco modi\nper sfuggire al destino,\ne ho dentro di me un'alluvione, o cielo,\nperché non sono stato un imbroglione,\ne magari vorrai corteggiarmi⁷, cielo azzurro\n\nEhi, birbante, te la passi bene lassù,\nfammi un cenno⁸ e dai un'occhiata anche quaggiù,\nlì dove dormi e navighi⁹,\nall'improvviso lampeggi e tuoni,\ne qualunque cosa ti venga, la scarichi giù, non pensare di turbarmi\nperché ti faccio canzoncine...\n\nNote\n\nΑγορές και παζάρια (\"mercati e contrattazioni\") – immagine del caos e delle trattative della vita quotidiana urbana, da cui il protagonista desidera fuggire verso una natura più libera e semplice.\nΟυρανέ – vocativo poetico rivolto direttamente al cielo, personificato come interlocutore/confidente a cui rivolgere lamentele e richieste, tono quasi fiabesco-ironico.\nΚατεργάρης – \"imbroglione, furbo, mascalzone\"; il protagonista si difende affermando di non aver mai agito con disonestà, per giustificare la richiesta di \"grazia\" al cielo.\nΜπαγάσας – termine colloquiale per \"birbante, mattacchione\", qui usato scherzosamente per rivolgersi al cielo/al destino personificato come un tipo dispettoso e sfuggente.\nΣε χαζεύω (\"ti fisso incantato/rimbambito\") – espressione colloquiale per \"guardare con ammirazione o stupore\", qui riferito al rapporto quasi ossessivo del protagonista con il cielo/destino a cui si rivolge.\nΚατραπακιές – termine gergale per \"batoste, colpi duri della vita\"; immagine informale delle difficoltà accumulate.\nΝα με φλερτάρεις (\"corteggiarmi\") – uso scherzoso e paradossale del verbo \"flirtare\" riferito al cielo, personificato quasi come un amante capriccioso e ambiguo con cui il protagonista ha un rapporto di amore-odio.\nΚάνε πάσα – espressione colloquiale mutuata dal linguaggio sportivo (calcio, \"fai un passaggio\"), qui usata in senso figurato per \"dammi un segnale, fammi un favore\".\nΚει πού κοιμάσαι και αρμενίζεις (\"lì dove dormi e navighi\") – immagine poetica del cielo che \"dorme\" quieto tra le nuvole ma anche \"naviga\", muovendosi con esse, prima di scatenare improvvisamente tuoni e fulmini, metafora dell'imprevedibilità del destino/della natura.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1790355426472",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-25",
+      "tgr": "Το παπάκι",
+      "tit": "To papàki",
+      "alias": "",
+      "at": "",
+      "am": "",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=ZyqNvdocg44",
+      "li": "",
+      "ch": "LAm                     MI\nΈχω ένα παπάκι να μου κάνει πα\n  MI              LAm\nνα μου κάνει πα, πα, πα\nLAm                            MI\nΚαι ένα κουνελάκι που όλο μου κουνάει\n  MI                    LAm\nπου όλο μου κουνάει τ' αφτιά\n\nLAm            REm      MI\nΚαι δε μου καίγεται καρφί\nMI                           LAm\nαν εσύ περνάς και δε μου ξαναμιλάς\nLAm            REm      MI\nΚαι δε μου καίγεται καρφί\nMI                           LAm\nαν εσύ περνάς και δε μου ξαναμιλάς\n\nLAm                     MI\nΊσως να ξανάρθεις όταν θα' χω πια\n  MI              LAm\nόταν, θα' χω πια χαθεί\nLAm                            MI\nή θα μ' έχουν θάψει ή θα έχω μα-\n  MI         LAm \nή θα έχω μαραθεί\n\nLAm            REm      MI\nΚαι δε μου καίγεται καρφί\nMI                                 LAm\nΚαι ας συνήθισες και ας συνήθισες και εσύ\nLAm            REm      MI\nΚαι δε μου καίγεται καρφί\nMI                                 LAm\nΚαι ας συνήθισες και ας συνήθισες και εσύ",
+      "tr": "To papàki\n\nÉcho éna papàki na mu kàni pa\nna mu kàni pa, pa, pa\nKe éna kunelàki pu òlo mu kunài\npu òlo mu kunài t'aftià\n\nKe de mu kèghete karfì\nKe de mu kèghete karfì\nan esì pernàs ke de mu ksanamilàs\nan esì pernàs ke de mu ksanamilàs\n\nÌsos na ksanàrthis òtan tha' cho pia\nòtan, tha' cho pia chathì\ni tha m'échun thàpsi i tha écho ma-\ni tha écho marathì\n\nKe as mi su kèghete karfì\nKe as mi su kèghete karfì\nKe as sinìthises ke as sinìthises ke esì\nKe as sinìthises ke as sinìthises ke esì\neghò ti na tin kàno",
+      "ti": "La paperella\n\nHo una paperella che mi fa \"qua\"¹,\nche mi fa qua, qua, qua,\ne un coniglietto che continua a muovermi\nche continua a muovermi le orecchie\n\nE non me ne importa un fico secco²\nse tu passi e non mi rivolgi più la parola\n\nForse tornerai quando ormai sarò\nquando, sarò ormai scomparso,\no mi avranno seppellito, o sarò appas-\no sarò appassito³\n\nE anche se a te non importa un fico secco,\ne anche se ti sei abituata, anche tu,\nio cosa me ne faccio⁴\n\nNote\n\nΠα, πα, πα – onomatopea del verso dell'anatra/papero, gioco infantile scherzoso che apre la canzone con tono leggero prima del contrasto con il tema più amaro del disamore.\nΔε μου καίγεται καρφί – espressione idiomatica, letteralmente \"non mi si brucia un chiodo\", equivalente a \"non me ne importa niente, me ne infischio\", usata qui con tono di orgoglio ferito verso chi non parla più al protagonista.\nΘα έχω μαραθεί (\"sarò appassito\") – metafora della morte/consunzione lenta, paragonando la fine della vita all'appassire di un fiore, immagine poetica per esprimere il logorio dell'abbandono.\nΕγώ τι να την κάνω (\"io cosa me ne faccio\") – espressione idiomatica colloquiale di rassegnazione/disillusione, riferita implicitamente all'abitudine dell'altra persona al distacco, sottintendendo \"a che mi serve/che ci faccio con questa situazione\".",
+      "no": "[[2026-09-07|Vai all'approfondimento]]",
+      "balvid": false
+    },
+    {
+      "id": "s_1790332336481",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-25",
+      "tgr": "Ο τρόπος",
+      "tit": "O tròpos",
+      "alias": "",
+      "at": "Πασχάλης",
+      "am": "Πασχάλης",
+      "yr": "1966",
+      "ar": "Οι Ολύμπιανς",
+      "lb": "",
+      "gn": "pop",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=tmTsyR_QgL8",
+      "li": "",
+      "ch": "SOLm                               DOm             RE\nΠόσο μ' αρέσει ο τρόπος που μ' αγαπάς, όταν με φιλάς το πόσο με ζητάς\nSOLm                           DOm                     RE               SOLm\nΑγαπώ τον τρόπο που χτυπάει η καρδιά σου, όταν βρίσκομαι μες την αγκαλιά σου\nSOLm                           DOm                     RE               SOLm\nΑγαπώ τον τρόπο που χτυπάει η καρδιά σου, όταν βρίσκομαι μες την αγκαλιά σου\n\nSOLm                                     DOm     RE\nΣ' αγαπώ γιατί τα μάτια σου, είναι πιο γαλάζια κι από τον ουρανό\nSOLm                    DOm                 RE              SOLm\nΑγάπη μου πόσο με σκέφτεσαι, πόσο μ' αγαπάς γιατί δεν μου το λες\nSOLm                    DOm                 RE              SOLm\nΑγάπη μου πόσο με σκέφτεσαι, πόσο μ' αγαπάς γιατί δεν μου το λες\n\nSOLm                               DOm             RE\nΤώρα δεν μπορώ να δω χωρίς εσένα, είσαι εσύ για μένα αυτή που αγαπώ\nSOLm                    DOm                     RE           SOLm\nΑγάπη μου πόσο με σκέφτεσαι, πόσο μ' αγαπάς γιατί δεν μου το λες\nSOLm                    DOm                     RE           SOLm\nΑγάπη μου πόσο με σκέφτεσαι, πόσο μ' αγαπάς γιατί δεν μου το λες",
+      "tr": "O tròpos\n\nPòso m'arèsi o tròpos pu m'aghapàs, òtan me filàs to pòso me zitàs\nAghapò ton tròpo pu chtipài i kardià su, òtan vrìskome mes tin anghaliá su\n\nS'aghapò ghiatì ta màtia su, ìne pio ghalàzia ki apò ton uranò\nAghàpi mu pòso me skèftese, pòso m'aghapàs ghiatì den mu to les\n\nTòra den borò na do chorìs esèna, ìse esì ghia ména aftì pu aghapò\nAghàpi mu pòso me skèftese, pòso m'aghapàs ghiatì den mu to les",
+      "ti": "Quanto mi piace il modo in cui mi ami, quando mi baci, quanto mi desideri¹,\namo il modo in cui batte il tuo cuore, quando mi trovo tra le tue braccia\n\nTi amo perché i tuoi occhi sono più azzurri del cielo,\namore mio, quanto pensi a me, quanto mi ami, perché non me lo dici?\n\nOra non riesco a vedere senza di te, sei tu per me quella che amo,\namore mio, quanto pensi a me, quanto mi ami, perché non me lo dici?\n\nNote\n\nΤο πόσο με ζητάς (\"quanto mi desideri/cerchi\") – espressione che unisce il senso fisico del desiderio con quello più ampio del bisogno/ricerca dell'altro, tipica del linguaggio diretto e sensuale delle canzoni d'amore pop greche contemporanee.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1790330428016",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-25",
+      "tgr": "Ο Αλέξης",
+      "tit": "O Alèksis",
+      "alias": "",
+      "at": "Λευτέρης Παπαδόπουλος",
+      "am": "Βαγγέλης Πιτσιλαδής",
+      "yr": "1968",
+      "ar": "Οι Ολύμπιανς",
+      "lb": "",
+      "gn": "pop",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=s-1Z1pzyMBY",
+      "li": "",
+      "ch": "REm                  SOLm\nΣτα μαθητικά σου τα βιβλία\nLA\nπίσω από τις λέξεις έρχεται ο Αλέξης\nLA#                   SOLm\nΚαι σε πιάνει μια μελαγχολία\nREm LA REm\nΚλείσε κοριτσάκι τα βιβλία\nLA#                  SOLm\nΚαι σε πιάνει μια μελαγχολία\nREm LA REm\nΚλείσε κοριτσάκι τα βιβλία\n\nREm                  SOLm\nΚάθισε στο πιάνο σου λιγάκι\nLA\nΜα για ποιόν να παίξεις, έφυγε ο Αλέξης\nLA#                SOLm\nόπως το ξανθό καλοκαιράκι\nREm         LA           REm\nΚλείσε και το πιάνο, κοριτσάκι\nLA#                  SOLm\nόπως το ξανθό καλοκαιράκι\nREm LA REm\nΚλείσε και το πιάνο, κοριτσάκι\n\nREm                     SOLm\nΑύριο η γιορτή σου ξημερώνει\nLA\nΌ,τι κι αν διαλέξεις λείπει ο Αλέξης\nLA#                          SOLm\nΚι ήρθε στην καρδούλα σου το χιόνι\nREm       LA            REm\nΚλείσε κοριτσάκι το μπαλκόνι\nLA#                            SOLm\nΚι ήρθε στην καρδούλα σου το χιόνι\nREm       LA            REm\nΚλείσε κοριτσάκι το μπαλκόνι",
+      "tr": "O Alèksis\n\nSta mathitikà su ta vivlìa\npìso apò tis lèksis èrchete o Alèksis\nKe se piàni mia melancholìa\nKlìse koritsàki ta vivlìa\n\nKàthise sto piàno su lighàki\nMa ghia piòn na pèksis, éfighe o Alèksis\nòpos to ksanthò kalokeràki\nKlìse ke to piàno, koritsàki\n\nÀvrio i ghiortì su ksimeròni\nÒ,ti ki an dialèksis lìpi o Alèksis\nKi ìrthe stin kardùla su to chiòni\nKlìse koritsàki to balkòni",
+      "ti": "Aleksis\n\nNei tuoi libri di scuola,\ndietro le parole arriva Alexis¹\n\nE ti prende una malinconia,\nchiudi, ragazzina, i libri\n\nSiediti un po' al tuo pianoforte,\nma per chi suonerai, Alexis se n'è andato,\ncome la bionda estate²,\nchiudi anche il pianoforte, ragazzina\n\nDomani spunta il tuo onomastico³,\nqualunque cosa tu scelga, manca Alexis,\ned è arrivata nel tuo cuoricino la neve⁴,\nchiudi, ragazzina, il balcone\n\nNote\n\nΑλέξης – nome proprio maschile (diminutivo di Alexandros), qui il ragazzo assente/perduto di cui la protagonista continua a percepire la presenza in ogni cosa che fa (libri, pianoforte, festa), tema della malinconia adolescenziale per un amore finito.\nΤο ξανθό καλοκαιράκι (\"la bionda estate\") – immagine poetica che associa la stagione estiva, forse vissuta insieme ad Alexis, a un ricordo dorato e ormai svanito, come la sua stessa presenza.\nΓιορτή – \"festa/onomastico\"; nella tradizione greca ortodossa si festeggia il giorno del proprio santo patrono più che il compleanno; qui la ricorrenza diventa dolorosa perché priva della persona amata.\nΉρθε στην καρδούλα σου το χιόνι (\"è arrivata nel tuo cuoricino la neve\") – metafora poetica del gelo/tristezza che si è insediata nel cuore della ragazza, contrapposta calorosamente all'immagine calda dell'estate perduta, rafforzando il tono malinconico della canzone.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1790328978443",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-25",
+      "tgr": "Τίποτα δεν πάει χαμένο",
+      "tit": "Tìpota den pài chamèno",
+      "alias": "",
+      "at": "Μανώλης Ρασούλης",
+      "am": "Μάνος Λοΐζος",
+      "yr": "1979",
+      "ar": "Χάρις Αλεξίου",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=-jcIUyLtkCI",
+      "li": "",
+      "ch": "MI           LAm         MI         LAm\nΣχεδόν πενήντα χρόνια βάσανα και διωγμοί\nSOL         REm   LAm   DO    REm   MI\nΤώρα στη μαύρη αρρώστια ανάξια πλερωμή\nSOL         REm   LAm   DO    MI    LAm\nΤώρα στη μαύρη αρρώστια ανάξια πλερωμή\n\nMI           LAm       MI       LAm\nΤο δίκιο του αγώνα πολλά σου στέρησε\nSOL   REm   LAm   DO  REm   MI\nμα η ζωή λεχώνα ελπίδες γέννησε\nSOL   REm   LAm   DO   MI    LAm\nμα η ζωή λεχώνα ελπίδες γέννησε\n\n   DO             MI               LAm\nΤίποτα δεν πάει χαμένο στη χαμένη σου ζωή\nFA           SOL    LAm    DO   FA        MI\nΤ' όνειρό σου ανασταίνω και το κάθε σου γιατί\nFA           SOL    LAm    DO    MI       LAm        \nΤ' όνειρό σου ανασταίνω και το κάθε σου γιατί\n\nMI           LAm       MI      LAm\nΠοτέ δε λες η μοίρα πως σε αδίκησε\nSOL     REm   LAm   DO    REm   MI\nμα μόνο η ιστορία αλλιώς σου μίλησε\nSOL       REm   LAm   DO    MI  LAm\nμα μόνο η ιστορία αλλιώς σου μίλησε\n\nMI           LAm              MI         LAm\nΣκυφτός στα καφενεία, στους δρόμους σκεφτικός\nSOL         REm   LAm   DO    REm       MI\nμα χτες μες στην πορεία περνούσες γελαστός\nSOL       REm   LAm   DO    MI  LAm\nμα χτες μες στην πορεία περνούσες γελαστός\n\n   DO             MI               LAm\nΤίποτα δεν πάει χαμένο στη χαμένη σου ζωή\nFA           SOL    LAm    DO   FA        MI\nΤ' όνειρό σου ανασταίνω και το κάθε σου γιατί\nSOL   REm   LAm   DO   MI    LAm\nΤ' όνειρό σου ανασταίνω και το κάθε σου γιατί\n\n   DO             MI               LAm\nΤίποτα δεν πάει χαμένο στη χαμένη σου ζωή\nFA           SOL    LAm    DO   FA        MI\nΤ' όνειρό σου ανασταίνω και το κάθε σου γιατί\nSOL   REm   LAm   DO   MI    LAm\nΤ' όνειρό σου ανασταίνω και το κάθε σου γιατί",
+      "tr": "Tìpota den pài chamèno \n\nSchedòn penìnda chrònia vàsana kιe dιoghmì\nTòra sti màvri arròstia anàksia pleromì\nTòra sti màvri arròstia anàksia pleromì\n\nTo dìkio tu aghòna pollà su stèrise\nma i zoì lechòna elpìdes ghιènnise\n\nTìpota den pài chaméno sti chaméni su zoì\nT'òniro su anastèno kιe to kàthe su ghiatì\nT'òniro su anastèno kιe to kàthe su ghiatì\n\nPotè de les i mìra pos se adìkise\nma mòno i istorìa alliòs su mìlise\n\nSkiftòs sta kafenìa, stus dròmus skeftikòs\nma chtes mes stin porìa pernùses ghιelastòs\n\nTìpota den pài chaméno sti chaméni su zoì\nT'òniro su anastèno ke to kàthe su ghiatì\nT'òniro su anastèno ke to kàthe su ghiatì\n\nTìpota den pài chaméno sti chaméni su zoì\nT'òniro su anastèno kιe to kàthe su ghiatì\nT'òniro su anastèno kιe to kàthe su ghiatì",
+      "ti": "Niente va perduto\n\nQuasi cinquant'anni di tormenti e persecuzioni¹,\nora, con la nera malattia², un compenso immeritato³,\nora, con la nera malattia, un compenso immeritato\n\nIl diritto della lotta⁴ ti ha tolto molto,\nma la vita, puerpera⁵, ha generato speranze\n\nNiente va perduto nella tua vita perduta,\nresuscito⁶ il tuo sogno e ogni tuo perché\nresuscito il tuo sogno e ogni tuo perché\n\nNon dici mai che il destino ti ha fatto torto,\nma solo che la storia ti ha parlato diversamente\n\nCurvo nei caffè, pensieroso per le strade,\nma ieri nel corteo⁷ passavi sorridente\n\nNiente va perduto nella tua vita perduta,\nresuscito il tuo sogno e ogni tuo perché\nresuscito il tuo sogno e ogni tuo perché\n\nNote\n\nΔιωγμοί – \"persecuzioni\"; termine che allude a un contesto storico-politico di repressione, verosimilmente riferito a un militante di sinistra perseguitato durante i regimi autoritari greci del Novecento (dittature, guerra civile).\nΜαύρη αρρώστια (\"nera malattia\") – espressione eufemistica per una grave malattia (probabilmente il cancro), il colore nero come simbolo di lutto/gravità.\nΑνάξια πλερωμή (\"compenso immeritato\") – espressione amara che sottolinea l'ingiustizia di essere colpiti da una malattia mortale dopo una vita già segnata da sofferenze e lotte, quasi un ulteriore \"pagamento\" non dovuto.\nΤο δίκιο του αγώνα (\"il diritto della lotta\") – riferimento alla giustizia della causa politica/sociale per cui il protagonista ha combattuto, nonostante le privazioni subite.\nΛεχώνα – \"puerpera, donna che ha appena partorito\"; metafora poetica che paragona la vita a una madre che, nonostante le sofferenze del parto, genera nuove speranze.\nΑνασταίνω – \"resuscito, faccio risorgere\" (da \"ανασταίνω\", termine con forte connotazione religiosa legata alla Resurrezione); esprime l'intento di mantenere vivo il ricordo e l'eredità ideale della persona nonostante la malattia/morte incombente.\nΠορεία – \"corteo, manifestazione\"; conferma il contesto di impegno politico/sindacale del protagonista, ritratto mentre sfila sorridente nonostante le difficoltà.",
+      "no": "da 7:19a 9:15 https://www.youtube.com/watch?v=6zpU5R1cyEo rara registrazione in casa",
+      "balvid": false
+    },
+    {
+      "id": "s_1790316033818",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-25",
+      "tgr": "Βαδίζω με παράπονο",
+      "tit": "Vadìzo me paràpono",
+      "alias": "Πήρα τον δρόμο τον στενό",
+      "at": "Γιώργος Φωτίδας",
+      "am": "Γιάννης Παπαϊωάννου",
+      "yr": "1939",
+      "ar": "Γιάννης Παπαϊωάννου",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=lkxeXjpIGOw",
+      "li": "",
+      "ch": "RE         RE#      RE         RE#   RE\nΠήρα το δρόμο το στενό πήρα το μονοπάτι\n  SOLm      RE          DOm    RE RE# RE\nΓιατί έχω τη καρδούλα μου όλο πληγές γεμάτη\n\nRE         RE#      RE         RE#   RE\n  SOLm      RE          DOm          RE RE# RE\nχωρίς να ξέρω που θα βγω που θα με βγάλει η άκρη\n\nRE               RE#      RE         RE#   RE\nΚι έτσι γυρνώ παντέρημος κι απ' όλους ξεχασμένος\n  SOLm      RE          DOm    RE RE# RE\nδίχως ελπίδα στην καρδιά και περιφρονεμένος\n\nRE         RE#      RE         RE#   RE\nΚαι συ σκληρή το θέλησες να περπατώ μονάχος\n  SOLm      RE          DOm         RE RE# RE\nμα θα με σώσει απ' τους καημούς πολύ γοργά ο τάφος",
+      "tr": "Vadìzo me paràpono\n\nPìra to dròmo to stenò pìra to monopàti\nGhiatì écho ti kardùla mu òlo plighès ghemàti\n\nVadìzo me paràpono kie chìno màvro dàkri\nchorìs na ksèro pu tha vgho pu tha me vgàli i àkri\n\nKi étsi ghirnò pandèrimos ki ap'òlus ksechaz̯ménos\ndìchos elpìda stin kardià kie perifroneménos\n\nKie si sklirì to thèlises na perpatò monàchos\nma tha me sòsi ap' tus kaimùs polì ghorghà o tàfos",
+      "ti": "Cammino con rammarico\n\nHo preso la strada stretta, ho preso il sentiero¹,\nperché ho il mio cuoricino tutto pieno di ferite\n\nCammino con angoscia² e verso nera lacrima³,\nsenza sapere dove uscirò, dove mi porterà la fine\n\nE così vago del tutto solo⁴ e da tutti dimenticato,\nsenza speranza nel cuore e disprezzato\n\nE tu, crudele, hai voluto che camminassi da solo,\nma mi salverà dalle pene, molto presto, la tomba\n\nNote\n\nΔρόμο το στενό... το μονοπάτι (\"la strada stretta... il sentiero\") – immagine metaforica del cammino difficile e solitario della vita, richiamo quasi biblico alla \"via stretta\" della sofferenza, contrapposta a una vita più facile.\nΠαράπονο – \"lamento, rammarico, angoscia\"; sentimento di afflizione mista a risentimento per un torto subito.\nΜαύρο δάκρυ (\"nera lacrima\") – immagine iperbolica tipica della tradizione popolare greca, il colore nero associato al lutto e al dolore più profondo, per sottolineare l'intensità della sofferenza.\nΠαντέρημος – forma rafforzata di \"έρημος\" (solo, deserto) con il prefisso \"παν-\" (tutto/completamente), per esprimere una solitudine totale e assoluta.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1790226859175",
       "offsets": {},
@@ -12665,6 +12821,14 @@
   ],
   "args": [
     {
+      "id": "a_1790353054988",
+      "title": "Νικόλας Άσιμος — \"il Santo di Exarcheia\"",
+      "tag": "storie di persone",
+      "date": "2026-09-07",
+      "body": "Vero nome: Νικόλαος Ασημόπουλος\nNato: 20 agosto 1949, Salonicco (dove i genitori si recarono apposta per il parto, tornando subito dopo a Kozani, dove la famiglia viveva) — segno di quanto fosse poco conosciuto al grande pubblico: un quotidiano nazionale (Τα Νέα, 18 marzo 1988), nel trafiletto dedicato alla sua morte, ne sbagliò persino il luogo di nascita, scrivendo Creta al posto di Salonicco\nMorto: 17 marzo 1988, Atene (Exarcheia), 38 anni\n________________________________________\nCantautore, poeta e attore, tra le figure più anticonformiste e controverse della scena musicale ateniese degli anni '70-'80. Sull'origine del suo nome d'arte esistono due spiegazioni diverse, date in momenti diversi: secondo un'intervista, iniziò a firmarsi \"Άσιμος\" già da studente, come pseudonimo giornalistico, perché significa \"colui che non si fa avvicinare facilmente\" (da \"σιμώνω\", avvicinarsi); secondo un'altra fonte (ERT), teneva invece a precisare che si scrive con la iota, a differenza della parola omofona che scritta con eta significherebbe \"sconosciuto/oscuro\" — un cognome, non un aggettivo su se stesso.\nFiglio di Lazaros Asimopoulos, che gestiva un negozio di commercio generale nel centro di Kozani, e di Marika Asimopoulou (nata Pinelidi), casalinga di origine microasiatica. Da ragazzo amava la scrittura tagliente del poeta satirico Georgios Souris, che tentò di imitare nei suoi primi versi. Da adolescente si distinse anche nello sport (terzo posto nel salto in alto ai giochi studenteschi della Macedonia, 1965; un'offerta calcistica dalla squadra di Kozani, poi sfumata). A 18 anni si iscrisse a Studi Neogreci, nella Facoltà di Filosofia dell'Università Aristotele di Salonicco, dedicandosi al teatro universitario, mettendo in scena tra l'altro opere di Aristofane e Molière. Nella primavera del 1972 comprò la sua prima chitarra, imparando a suonare con l'aiuto di un certo Dimitris Dimitrakopoulos, e cominciò a lavorare nelle bouâtes dell'epoca. Non completò mai la laurea, pur mancandogli solo sei esami. Abbandonò definitivamente gli studi nel maggio 1973, trasferendosi ad Atene con la sola chitarra. Debuttò comunque già in pubblico nel dicembre 1972, come cantautore e attore insieme, interpretando l'atto unico \"Το Πανηγύρι\" di Jean Cocteau sulla terrazza del Lefkos Pyrgos.\n{{img:https://musicagreca.com/images/asimos2.jpg|centro}}\nAd Atene entrò in contatto con grandi nomi dell'epoca — da Giannis Zouganelis, Haris Alexiou e Dionysis Savvopoulos, fino a Thanos Mikroutsikos, Sotiria Leonardou e Vasilis Papakonstantinou. Nelle bouâtes della Plaka mise in scena un proprio spettacolo fatto di musica, testi, sketch, prosa e conversazione diretta col pubblico, in collaborazione con artisti come Panos Tzavelas, Thanasis Gaifyllias, Sakis Boulas, Thanos Adrianos, Periklis Charvas, Marianna Toli e il duo Lida-Spyros. Già durante la dittatura, per il suo linguaggio tagliente e il teatro di strada eversivo, venne arrestato più volte dalla polizia, con cui avrebbe avuto da allora un rapporto \"stretto\" fino alla fine. Parallelamente inventò due forme di performance di strada improvvisata: le \"Κροκ\" (anni '70) e le \"Βόλτα\" (dal 1980).\nNonostante la vita sregolata, era monogamo. La sua compagna, mai sposata, fu Lilian Charitaki: una relazione lunga e spesso complicata per il suo carattere esplosivo, ma con un amore profondo tra i due. Nel maggio 1976 ebbero una figlia, a cui diedero lo stesso nome della madre — Lilian —, ma la nascita, invece di unirli, li separò: Asimos rimase solo a crescerla. Nel quartiere la bambina, conosciuta come \"Niouniou\", divenne quasi una mascotte della piazza di Exarcheia, restando sotto la sua protezione fino alla sua morte, quando aveva 12 anni.\nIl servizio militare — date discordanti tra le fonti. Nel 1973, anno in cui avrebbe dovuto presentarsi alla leva, si incamminò a piedi da Salonicco fino a Patrasso, dove ottenne un'esenzione temporanea. Una fonte (Musicpaper) colloca l'esenzione definitiva solo nel 1980, con un congedo per \"Psicosi Schizoide\" — un'altra (ERT) parla invece già del 1978, ottenuta fingendo lo stesso disturbo. Sul congedo, commentò con la sua consueta ironia sarcastica che avrebbe dovuto scriverci un termine di sua invenzione, \"σχιζοφρενοβλαβίωση\", insistendo comunque di stare benissimo lui.\n{{img:https://musicagreca.com/images/asimos3.jpg|centro}}\n\nNel 1977 fu incarcerato per due mesi nelle carceri di Egina, insieme ad altri cinque editori di stampa politica, con l'accusa ufficiale di \"istigazione morale e incitamento al turbamento della quiete pubblica\", in seguito a manifestazioni ai Propilei. Il giorno della scarcerazione dichiarò sfrontatamente: \"Tornerò!\". Rifiutò sempre ogni etichetta ideologica: \"Sono un uomo senza alcuna ideologia [...] mi hanno etichettato di tutto — io mi sono dichiarato solo 'stupido'\".\nIl primo disco, e la prima censura. L'unico suo 45 giri ufficiale, \"Ο Μηχανισμός - Ο Ρωμιός\" (Lyra/Zodiac), testo e musica sue, fu registrato negli studi Columbia ai primi di maggio 1975 e pubblicato lo stesso mese — ma bandito dalla radiotelevisione pubblica in agosto.\nLe \"Παράνομες Κασέτες\" (Cassette Illegali), 1978-1987. Tre anni dopo la censura, conobbe Stelios Logothetis, che lo aiutò a registrare le prime quattro delle otto cassette illegali nel proprio studio. La prima, \"00001 – Με το βαρέλι που για να βγει το σπάει\", uscì in appena 500 copie, vendute a 100 dracme l'una — di persona, ai Propilei, al Politecnico, a Exarcheia e a Monastiraki, tra negozi, locali notturni e bar, o nei vari \"negozi-casa\" in cui visse, il più celebre dei quali fu il seminterrato di via Arachovis 41, a Exarcheia, la sua celebre \"υπόγα\":\n•\tNº 1 — \"Με το βαρέλι που για να βγει το σπάει\" (settembre 1978): Μηχανισμός, Ρωμιός, Παπάς, Τιράντες, Σιόρ Ιδιοκτήτης, Βαρέλι — πιάστηκα σκοινί κορδόνι, Θα το δείξει κι ο καιρός / Δεν πα να μας χτυπάν, Θανάσαινα, Έλα κουτέ, Καλέ στρατιώτη, Σαν θα με καλέσει η πατρίδα, Μην καρτεράτε, Παράτα τα\n•\tNº 2 — \"Είμαι παλιάνθρωπος\" (autunno 1979): Ουλαλούμ (su versi del poeta Giannis Skaribas), Σαν στα παραμύθια, Σχιζοφρενοβλαβίωση, Η γαλανόλευκος / Είμαστε τρομοκράτες, Κουρδιστέ χαμάλη, Να μην αρχίσεις να ξεφτάς, Γιουσουρούμ\n•\tNº 3 — \"Γιατί φοράς κλουβί\" (autunno 1979): Της κωλοφωτιάς, Της επανάστασης, Χαμογέλα / Με μπαταρία, Μόρο, Μαραθωνοδρόμος (su versi di Argyris Marneros), Ιδιαίτερος χαβάς\n•\tNº 4 — \"Klaste Eleftheros\" (autunno 1979): Πανηγύρι, Ματογυάλια, Την αντίσταση βαρέθηκα, Μου λες πως σε παραμελώ (musica di Nikos Deligiannis) / Πουτσόμουνο-Sonata amanes (Μουνακόπουτσα), Στων συντρόφων μου τις μύτες, Το φανάρι, Παράτα τα\n•\tNº 5 — \"Ο Σάλιαγκας\" (1986): Καυσαεριώδεις θυμιάσεις, Χάνι μπάνι, Λάντζα γιόγκα, Στην πιο σκληρή σου φάμπρικα, Δεν αποκαρδιώθηκα, Ο Σάλιαγκας, Καμιά φορά / Δε μου 'χει μείνει φωνή, Μπλουζ μπουζ, Μου βγήκες στο μπαλκόνι, Παξιμαδάκι, Όλα τα 'χαμε\n•\tNº 6 — \"Η Ζαβολιά\" (1986): Σταυραϊτέ, Τη φάτσα μου την έδειξαν, Θα σου κλέψω το σακκάκι, Ο άτριχος πίθηκος, Στο φαλημέντο / Τα αδιέξοδά σου, Πινακωτή, Ο Μπουμπούνας, Η ζαβολιά, Venceremos, Όλοι δηλώνετε ιδιότητα\n•\tNº 7 — \"Πάλι στην ξεφτίλα\" (1986): Είσαι παιδί ωραίο, Τα βλαχαδερά, Δωμάτιο στο Άμστερνταμ, Ούζα, Τι πα να πει γυναίκα, Πάλι στην ξεφτίλα / Τραβεστί, Μάρα, Σε ζελοφάν, Σα το Δευκαλίωνα, Πώς θες να πάμε μαζί\n•\tNº 8 — \"Στο φανάρι του Διογένη\" (marzo 1987, con Sotiria Leonardou): Μπαγάσας, Πανηγύρι, Ουλαλούμ, Λίνα, Δε θέλω καρδιά μου να κλαις, Τρομοκράτες / Πας φιρί φιρί, Οϊμέ, Εγώ με τις ιδέες μου, Μπαταρία, Γιουσουρούμ, Πολεμάτε κοιμισμένα, Το φανάρι του Διογένη\nSu un totale di 118 canzoni conosciute in tutta la sua carriera, solo 17 furono pubblicate mentre era in vita. Nel 1981 pubblicò anche, in 1500 copie, il libro \"Αναζητώντας Κροκανθρώπους\".\n\"Ο Ξαναπές\" (novembre 1982) — il suo unico LP ufficiale in vita, e la storia di \"Το παπάκι\". Pubblicato dalla Minos, arrangiato da Thanasis Bikos, prodotto da Ilias Benetos negli studi RDR, vide la partecipazione di Haris Alexiou (due brani: \"Άμα σε λέγαν Βάσω\" e \"Το παπάκι\"), Vasilis Papakonstantinou (altri due) e l'Athinaiki Kompania (il cui nome fu omesso in copertina, giudicato \"troppo commerciale\" per lui). \"Το παπάκι\" era nata come ninna nanna per la figlia Lilian, e Asimos non aveva alcuna intenzione di inciderla — fu Haris Alexiou a implorarlo di farla almeno provare in studio. Durante quella prova, il fonico registrò di nascosto, su indicazione di Benetos: a metà prova Asimos si alzò, entrò nella sala, provò senza riuscirci a mettersi le cuffie, e si limitò a girare intorno ad Alexiou, finché non iniziò a cantare insieme a lei, commosso fino alle lacrime, senza mai avvicinarsi al microfono. Fu quella registrazione \"rubata\" a restare per sempre sul disco.\n{{img:https://musicagreca.com/images/asimos4.jpg|centro}}\n\nIl primo ricovero psichiatrico, 1980-81. In occasione di un episodio non meglio specificato, fu condotto al Dafni. Per la sua liberazione si mobilitò il mondo artistico, tra cui la poetessa Katerina Gogou e Dionysis Savvopoulos — il primo di una serie di ricoveri il cui timore lo avrebbe accompagnato fino alla fine.\nIl rapporto complesso con Vasilis Papakonstantinou. Fu proprio grazie a lui — non per un'amicizia fraterna leggendaria, come si crede spesso, ma per la sincera passione che nutriva per le sue canzoni — che gran parte dell'opera di Asimos è arrivata fino a noi. Nei momenti difficili, sempre \"a distanza di sicurezza\", Papakonstantinou lo sostenne anche economicamente e moralmente, garantì percentuali maggiorate sui diritti d'uso delle sue canzoni, e in seguito si accollò le spese del funerale a Nea Smyrni, facendo poi collocare sulla tomba una lapide di marmo con incisi i versi di \"Μπαγάσας\".\nGli ultimi mesi, la lettera aperta e la morte. Divenuto ormai bersaglio abituale della polizia, con l'equilibrio psichico minato da percosse, elettroshock e iniezioni, nel giugno 1987 fu arrestato dopo un paranoico \"rito di iniziazione\" a cui una giovane donna aveva preso parte — si scoprì poi — volontariamente; l'accusa fu di stupro continuato e sequestro illegale, e fu condotto in detenzione preventiva al carcere di Korydallos. La ragazza ritirò la denuncia durante la detenzione, ma il pubblico ministero rifiutò comunque la scarcerazione: Asimos restò a Korydallos fino a fine giugno, quando uscì su cauzione pagata dalla famiglia. In ottobre fu condotto con la forza, per ordine esplicito del padre, nella clinica psichiatrica privata \"Galini\" — uscendone, secondo le fonti, \"ridotto a un rottame dagli psicofarmaci\", con un rinvio a giudizio per stupro ad attenderlo.\nPoco prima di togliersi la vita, inviò ai media, tramite il proprio avvocato, una lunga lettera aperta, \"Μήνυμα προς όλους, για όλα\". Racconta un episodio di violenza subita il 6 ottobre, mentre faceva teatro di strada davanti a casa sua: ammanettato con la forza, con le costole rotte, fu condotto prima all'ospedale psichiatrico Eginitio e poi, nonostante le promesse contrarie, trasferito legato al Dafni, dove denuncia iniezioni pesantissime e di essere stato derubato persino dell'orologio e dell'ultima sigaretta da altri pazienti. Scrive di aver detto loro \"verità che i libri non dicono\", e di essere stato per questo dichiarato pazzo — arrivando persino a far ridere chi lo picchiava. Rivendica di non essere pazzo, invita chi non lo capisce a leggere autori come Orwell, Hermann Hesse, Euripide, Eschilo, Aristofane, oltre al proprio libro, e chiede pubblicamente scuse alle autorità invece di un risarcimento, offrendosi provocatoriamente come bersaglio pubblico piuttosto che continuare a subire quella che definisce un'ingiustizia. Ringrazia in particolare Katerina Gogou, che lasciò il Festival di Salonicco per stargli vicino, Dionysis Savvopoulos e l'amico psichiatra Dimitris Mantouvalos. Chiude la lettera con un rimando ai versi di Andreas Kalvos incisi al Politecnico e all'epitaffio sulla tomba di Nikos Kazantzakis.\nNella notte tra mercoledì 16 e giovedì 17 marzo 1988, dopo due precedenti tentativi non riusciti, si tolse la vita nel suo ultimo negozio-casa di via Kallidromiou 55, a Exarcheia — quello che lui stesso chiamava il \"Χώρος Προετοιμασίας\".\n{{img:https://musicagreca.com/images/asimos1.jpg|centro}}\n\nI due dischi postumi, realizzati per iniziativa personale di Papakonstantinou, furono costruiti interamente a partire dal materiale delle cassette illegali, con nuove orchestrazioni mescolate a parti delle registrazioni originali. Un esempio rivelatore: \"Μπαγάσας\", nella cassetta originale del 1987, era un duetto tra Asimos e Sotiria Leonardou — nella versione ufficiale postuma resta solo la voce di lui.\n•\t\"Το φανάρι του Διογένη\" (febbraio 1989, Minos): Μπαγάσας, Λίνα, Εγώ με τις ιδέες μου, Γιουσουρούμ / Δεν θέλω καρδιά μου να κλαις, Το φανάρι του Διογένη, Πας φιρί φιρί, Οϊμέ, Ουλαλούμ\n•\t\"Στο φαλημέντο του κόσμου - Γιουσουρούμ\" (1992, MBI, con Vasilis Papakonstantinou): Ο άτριχος πίθηκος, Πας φιρί φιρί, Όλοι δηλώνετε ιδιότητα, Το μπλουζ του κουδουνιστή, Στο φαλημέντο του κόσμου / Γιουσουρούμ, Μάρα, Μπαταρία, Θα σου κλέψω το σακκάκι\nI diritti d'autore appartengono oggi congiuntamente alla famiglia Asimopoulos e alla figlia Lilian.\nAltre riprese e omaggi. Vasilis Papakonstantinou gli dedicò anche un intero album personale, \"Χαιρετίσματα\" (aprile 1987, Minos), con cinque suoi brani. Le uniche registrazioni dal vivo di Asimos che cantava di persona sopravvivono in \"Ήχοι του χειμώνα\" (1988, Lyra) di Panos Iliopoulos. Negli anni successivi: Eleni Vitali (1991) reincise \"Μπαταρία\"; Giorgos Ntalaras e Vasilis Papakonstantinou, nel doppio live \"Ζωντανή Ηχογράφηση στο Αττικόν\" (1991, Minos), cantarono tre suoi brani; Sotiria Leonardou (1995) reincise \"Εγώ με τις ιδέες μου\"; i Magic de Spell (1997) reinterpretarono \"Μπαταρία\"; e ancora Papakonstantinou, nel CD tributo \"Πες μου ένα ψέμα ν' αποκοιμηθώ\" (1997), incise cinque suoi brani.\nUn ultimo, amaro scherzo del destino. Nel giugno 2012 — 24 anni dopo la sua morte — il Ministero delle Finanze greco gli inviò un avviso ufficiale per regolarizzare la propria posizione fiscale da libero professionista.\nUna firma-scherzo. Nel suo libro \"Αναζητώντας Κροκανθρώπους\" dedicò il volume a un certo \"Σαλόκιν Σόμισα\" — nome che, letto al contrario, è \"Νικόλας Άσιμος\" stesso. Ha lasciato anche un secondo libro, la raccolta dei testi \"Τα τραγούδια\" (2020).\n{{img:https://musicagreca.com/images/asimos6.jpg|centro}}\n\n________________________________________\nFonti principali: un thread del forum ufficiale di Giorgos Ntalaras (dalaras.com/forum, utente \"albert\", 2008), basato sui libri di Giorgos I. Allamanis e dello stesso Asimos; un articolo di ERT News (2024); un articolo di Musicpaper.gr (2013) con testimonianza di Stelios Logothetis.\nNota: questo approfondimento tratta il tema del suicidio in chiave storico-biografica su una figura pubblica. Se tu o qualcuno che conosci state attraversando un momento difficile, ci sono risorse e persone pronte ad ascoltare — fammelo sapere se vuoi che te ne indichi alcune.",
+      "link": ""
+    },
+    {
       "id": "a_1790271492973",
       "title": "Le origini del bouzouki (1): dalla pandoura antica al tambourás",
       "tag": "storie di strumenti musicali",
@@ -13193,14 +13357,15 @@
       "born": "20 marzo 1948, Salonicco",
       "died": "17 aprile 2011, Salonicco",
       "nat": "Greca",
-      "bio": "Nacque a Salonicco il 20 marzo 1948. I suoi genitori erano rifugiati provenienti da Nicomedia , in Asia Minore , che, dopo lo scambio di popolazioni greco-turche del 1923, soggiornarono per un anno a Mitilene , si trasferirono in un campo profughi a Salonicco e infine si stabilirono a Kormista, Serres , dove ebbero quattro figli, di cui lui era il più giovane. Trascorse l'infanzia al numero 6 di via Episkopou Ambrosiou a Salonicco, vicino a Piazza Antigonidon, e in seguito al numero 112 di via Kassandrou, nel centro della città. Suo padre, Konstantinos, gestiva un negozio all'angolo tra le vie Kassandrou e Agias Sofias , vicino alla casa dei genitori.\n\nIniziò la sua carriera negli anni '60, unendosi agli Olympians (sostituendo Paschalis che si stava assentando per il suo mandato) [ 1 ] e agli Zealots nel 1972 ad Aquisgrana , nella Germania Ovest. Nel 1975, cantava al \"Remvi\", una taverna laica di Salonicco, dove aveva formato un'orchestra, e Papazoglou cantava canzoni da ballo fino a mezzanotte. Le sue prime canzoni, \" It's Late \" e \"Blue Sea\" , furono cantate da Paschalis [ 2 ] . In seguito, e per molti anni, Papazoglou collaborò con Dionysis Savvopoulos , Manolis Rasoulis e Nikos Xydakis . Divenne ampiamente noto con l'album di Manolis Rasoulis \" The Revenge of the Gypsy \". Da questa produzione di Savvopoulos, apprendiamo che il suo soprannome era \"push-pull\", a causa della sua conoscenza tecnica. Una caratteristica distintiva di Papazoglou era la sciarpa rossa che portava al collo in tutte le sue apparizioni.\n\nÈ considerato uno dei più grandi cantanti e compositori greci. Attraverso il suo studio, Agrotikon, a Kato Toumpa, Salonicco, ha supportato diversi artisti e gruppi musicali agli inizi della loro carriera, tra cui Socrates Malamas , Thanasis Papakonstantinou e Trypes . Nikos Papazoglou ha partecipato a numerosi album realizzati in questo studio, in qualità di produttore, tecnico del suono, arrangiatore e musicista.\n\nÈ morto di cancro il 17 aprile 2011",
+      "bio": "Nacque a Salonicco il 20 marzo 1948. I suoi genitori erano rifugiati provenienti da Nicomedia , in Asia Minore , che, dopo lo scambio di popolazioni greco-turche del 1923, soggiornarono per un anno a Mitilene , si trasferirono in un campo profughi a Salonicco e infine si stabilirono a Kormista, Serres , dove ebbero quattro figli, di cui lui era il più giovane. Trascorse l'infanzia al numero 6 di via Episkopou Ambrosiou a Salonicco, vicino a Piazza Antigonidon, e in seguito al numero 112 di via Kassandrou, nel centro della città. Suo padre, Konstantinos, gestiva un negozio all'angolo tra le vie Kassandrou e Agias Sofias , vicino alla casa dei genitori.\n\nIniziò la sua carriera negli anni '60, unendosi agli Olympians (sostituendo Paschalis che si stava assentando per il suo mandato e agli Zealots nel 1972 ad Aquisgrana , nella Germania Ovest. Nel 1975, cantava al \"Remvi\", una taverna laica di Salonicco, dove aveva formato un'orchestra, e Papazoglou cantava canzoni da ballo fino a mezzanotte. Le sue prime canzoni, \" It's Late \" e \"Blue Sea\" , furono cantate da Paschalis [ 2 ] . In seguito, e per molti anni, Papazoglou collaborò con Dionysis Savvopoulos , Manolis Rasoulis e Nikos Xydakis . Divenne ampiamente noto con l'album di Manolis Rasoulis \" The Revenge of the Gypsy \". Da questa produzione di Savvopoulos, apprendiamo che il suo soprannome era \"push-pull\", a causa della sua conoscenza tecnica. Una caratteristica distintiva di Papazoglou era la sciarpa rossa che portava al collo in tutte le sue apparizioni.\n\nÈ considerato uno dei più grandi cantanti e compositori greci. Attraverso il suo studio, Agrotikon, a Kato Toumpa, Salonicco, ha supportato diversi artisti e gruppi musicali agli inizi della loro carriera, tra cui Socrates Malamas , Thanasis Papakonstantinou e Trypes . Nikos Papazoglou ha partecipato a numerosi album realizzati in questo studio, in qualità di produttore, tecnico del suono, arrangiatore e musicista.\n\nÈ morto di cancro il 17 aprile 2011",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/papazoglou.jpg",
       "roles": [
         "am",
         "ar"
-      ]
+      ],
+      "instr": "voce, chitarra"
     },
     {
       "id": "p_1785215530701",
@@ -13926,9 +14091,9 @@
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/papaghika.jpg",
       "roles": [
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1785736554783",
@@ -14138,14 +14303,14 @@
       "died": "3 agosto 1972, Pérama",
       "bio": "Soprannomi: \"Ψηλός\" (l'Alto), \"Πατσάς\" (Patsás), \"Μπάρμπα-Γιάννης\" (Barba-Yánnis), \"ο Άχραντος\" (l'Immacolato — appellativo dato da Stávros Xarchákos)\n\nA due anni rimase orfano di padre, e sei anni dopo visse la Catastrofe dell'Asia Minore. Con la madre e la nonna si stabilì dapprima a Samotracia, per poi trasferirsi ad Atene, nel quartiere dei Tzitzifiés, dove crebbe come \"profugo\" — un'esperienza che segnò profondamente la sua vena artistica. \n\nIniziò a dedicarsi professionalmente al canto dal 1933, e in due anni la sua prima canzone era già sulla bocca di tutti; venne pubblicata ufficialmente su disco nel 1937 — si trattava della celebre \"Φαληριώτισσα\" (Falirótissa), che divenne subito un successo e gli aprì le porte dei palchi musicali. Da quel momento, il ventenne ragazzo dei Tzitzifiés conobbe tutti i grandi rebetes dell'epoca e scrisse moltissime canzoni che lo consacrarono tra i principali compositori popolari greci. \n\nFu il primo compositore laiko greco a viaggiare in America, nel 1953, per cantare per i greci emigrati. Le sue canzoni sono caratterizzate da una fusione di kantáda, mpálos e sonorità dell'Asia Minore; è considerato il primo, nel rebetiko/laiko, ad aver usato in registrazione il cosiddetto \"primo-secondo\" (canto a due voci). Al ritorno rimase collaboratore stabile di Vasílis Tsitsánis. \n\n\nFu membro inseparabile della grande compagnia di Vamvakáris, Tsitsánis e degli altri rebetes dell'epoca. Anche se la sua produzione compositiva non fu enorme — circa 300 canzoni — la maggior parte di esse divennero amate e classiche, collocandolo giustamente tra i pionieri del laiko e del rebetiko. Per tutta la vita fu una persona modesta, onesta e sincera, sia come uomo che come artista, e aiutò molti artisti oggi affermati agli inizi della loro carriera. \n\nMorì tragicamente in un incidente stradale tornando dal lavoro.",
       "link": "",
-      "listen": "",
+      "listen": "https://www.youtube.com/watch?v=9pwZsAkjHtg",
       "photo": "https://musicagreca.github.io/musica-greca/images/papaioanu.jpg",
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "bouzouki, voce"
     },
     {
       "id": "p_1785767141851",
@@ -14253,7 +14418,8 @@
       "bio": "Musicista, capo di una compagnia rebetiko che eseguì per la prima volta ad Atene, intorno al 1927, la canzone \"Μισιρλού\" (con il titolo originale \"Μουσουρλού\", pronunciato con forte accento smirneico). Musicista di Smirne, arrivò in Grecia con l'ondata di profughi della Catastrofe dell'Asia Minore.\n\nLe fonti sono discordi sul suo nome di battesimo (Michalis o Dimitris) — probabilmente uno pseudonimo — e sul luogo di nascita (secondo alcune fonti la Mani, secondo altre Smirne). Secondo una versione, il suo vero nome sarebbe stato Konstantinos Kalogeras; trascorse circa 15 anni in America, per poi tornare a Patrasso, dove prese il soprannome \"Πατρινός\" (il Patrasino). In America era noto anche come Mike Patrinos o Dinos Theodoropoulos, e secondo alcune fonti fu anche un famoso karagiozopaìchtis (artista del teatro d'ombre Karagiozis) attivo a Patrasso — identificazione però non confermata con certezza.\n\nSu \"Μισιρλού\" — come accadeva per quasi tutte le prime canzoni rebetiko, il vero compositore del brano rimase sconosciuto, e la paternità fu registrata a nome del capo della compagnia; la melodia fu quasi certamente composta collettivamente dai musicisti, mentre il testo era quasi certamente dello stesso Patrinos. Esiste anche un'altra storica incisione del brano, quella del 1927 a New York con la voce di Tetos Dimitriadis per la Columbia — ma quella di Patrinos ad Atene resta legata alla prima esecuzione dal vivo della composizione con la propria compagnia.",
       "link": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%83%CE%B9%CF%81%CE%BB%CE%BF%CF%8D",
       "listen": "",
-      "photo": ""
+      "photo": "",
+      "instr": "voce"
     },
     {
       "id": "p_1785836343299_4",
@@ -14282,7 +14448,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/protopsalti.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1785852868919",
@@ -14296,7 +14463,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/petridu.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1785854507176",
@@ -14583,7 +14751,7 @@
         "at",
         "ar"
       ],
-      "instr": ""
+      "instr": "voce"
     },
     {
       "id": "p_1786170055540",
@@ -15541,7 +15709,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/papastefanu.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1786860087136",
@@ -15735,7 +15904,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/panu.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1787205668497",
@@ -16324,7 +16494,8 @@
         "at",
         "am",
         "ar"
-      ]
+      ],
+      "instr": "voce, strumenti a corde"
     },
     {
       "id": "p_1787677161298",
@@ -16447,7 +16618,8 @@
       "photo": "",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1787757736893",
@@ -16455,14 +16627,15 @@
       "nameit": "Vanghélis Prékas",
       "born": "sconosciuto",
       "died": "sconosciuto",
-      "bio": "Ruoli: Autore testo / Esecutore vocale\n\nParoliere e cantante attivo nell'epoca del grammofono degli anni '50\nScrisse il testo del celebre \"Το βουνό\", portato al successo da Λουκάς Νταράλας (musica accreditata a Παναγιώτης Κόντης secondo alcune fonti, anche se una copertina d'epoca lo attribuì erroneamente a Βασίλης Τσιτσάνης — segno di quanto fosse approssimativa la documentazione discografica dell'epoca)\nScrisse anche il testo di \"Αφήνω το βουνό και φεύγω\" (1954), pubblicata lo stesso anno come \"risposta\" a \"Το βουνό\", interpretata da Θανάσης Ευγενικός\nAltri testi noti: \"Αυτό το βράδυ κάθισα\", \"Για κρατήστε με πια φίλοι\" (Π. Γαβαλάς), \"Ραγίσαν τα τοιχώματα\" (Ανθούλα Αλιφραγκή), \"Θλιμμένο ερημόσπιτο\", \"Αλήτης του λιμανιού\" (Βαγγέλης Περπινιάδης)\nUna sua canzone, \"Θα σκίσω το φυλλάδιο\", risulta ancora oggi introvabile in nessuna registrazione conosciuta, pur essendo nota per tradizione orale sull'isola di Σύρος (secondo una discussione su un forum specializzato di rebetiko)\nCome esecutore (non solo paroliere), compare accreditato in almeno due incisioni: \"Ο Χάρος\" / \"Πρόσεχε καλά την μάνα\" (Olympic Records, testo e musica di Αργύρης Νικολέσκο e Δημήτρης Μπατάγιας) e \"Κι' εγώ μεγάλωσα παιδιά\" / \"Στα δυο σου χέρια πάρε με\" (insieme a Μ. Παπαβραμίδου, Σπύρος Σκορδίλης, Λένα Νταϊνά)",
+      "bio": "Paroliere e cantante attivo nell'epoca del grammofono degli anni '50\nScrisse il testo del celebre \"Το βουνό\", portato al successo da Λουκάς Νταράλας (musica accreditata a Παναγιώτης Κόντης secondo alcune fonti, anche se una copertina d'epoca lo attribuì erroneamente a Βασίλης Τσιτσάνης — segno di quanto fosse approssimativa la documentazione discografica dell'epoca)\nScrisse anche il testo di \"Αφήνω το βουνό και φεύγω\" (1954), pubblicata lo stesso anno come \"risposta\" a \"Το βουνό\", interpretata da Θανάσης Ευγενικός\nAltri testi noti: \"Αυτό το βράδυ κάθισα\", \"Για κρατήστε με πια φίλοι\" (Π. Γαβαλάς), \"Ραγίσαν τα τοιχώματα\" (Ανθούλα Αλιφραγκή), \"Θλιμμένο ερημόσπιτο\", \"Αλήτης του λιμανιού\" (Βαγγέλης Περπινιάδης)\nUna sua canzone, \"Θα σκίσω το φυλλάδιο\", risulta ancora oggi introvabile in nessuna registrazione conosciuta, pur essendo nota per tradizione orale sull'isola di Σύρος (secondo una discussione su un forum specializzato di rebetiko)\nCome esecutore (non solo paroliere), compare accreditato in almeno due incisioni: \"Ο Χάρος\" / \"Πρόσεχε καλά την μάνα\" (Olympic Records, testo e musica di Αργύρης Νικολέσκο e Δημήτρης Μπατάγιας) e \"Κι' εγώ μεγάλωσα παιδιά\" / \"Στα δυο σου χέρια πάρε με\" (insieme a Μ. Παπαβραμίδου, Σπύρος Σκορδίλης, Λένα Νταϊνά)",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/prekas.jpg",
       "roles": [
         "at",
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1787758735738",
@@ -16804,7 +16977,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/palla.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1787977468588",
@@ -16841,13 +17015,16 @@
       "nameit": "Giòrgios Papasiderìs",
       "born": "14 settembre 1902,Salamina",
       "died": "8 ottobre 1977, Salamina",
-      "bio": "Dopo aver lasciatp la scuola elementare ha lavorato su lavori manuali come marinaio e agricoltore.\nPubblica il suo primo album nel 1928, all'età di 26 anni, eseguendo un'amanes. \nHa cantato con grande successo rebetika e amanedes. \nHa registrato centinaia di canzoni. Circa la metà di loro erano le sue creazioni (lirica / musica) e il resto del folk tradizionale che ha salvato e registrato\nDurante la guerra greco-italiana, contribuì all'incoraggiamento dei soldati sul fronte albanese con canzoni storiche come la \"Dentro la Cleistura le montagne\" e la \"Voi montagne di Korçë\". \nHa avuto una grande influenza sulla casa discografica Columbia e ha contribuito a entrare nel campo grandi artisti, come Tassia Verra, Sofia Kollitiri e il famoso clarinetto Yannis Vpoulos.",
+      "bio": "Dopo aver lasciato la scuola elementare ha lavorato su lavori manuali come marinaio e agricoltore.\nPubblica il suo primo album nel 1928, all'età di 26 anni, eseguendo un'amanes. \nHa cantato con grande successo rebetika e amanedes. \nHa registrato centinaia di canzoni. Circa la metà di loro erano le sue creazioni (lirica / musica) e il resto del folk tradizionale che ha salvato e registrato\nDurante la guerra greco-italiana, contribuì all'incoraggiamento dei soldati sul fronte albanese con canzoni storiche come la \"Dentro la Cleistura le montagne\" e la \"Voi montagne di Korçë\". \nHa avuto una grande influenza sulla casa discografica Columbia e ha contribuito a entrare nel campo grandi artisti, come Tassia Verra, Sofia Kollitiri e il famoso clarinetto Yannis Vpoulos.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/papasideris.jpg",
       "roles": [
+        "at",
+        "am",
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1787986367057",
@@ -16878,7 +17055,8 @@
         "at",
         "am",
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1788066778455",
@@ -16967,7 +17145,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/polimeris.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1788102197231",
@@ -17114,7 +17293,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/pappa.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1788352664665",
@@ -17122,7 +17302,7 @@
       "nameit": "Tzímis Panoúsis",
       "born": "12 febbraio 1954, Ampelokipoi, Atene",
       "died": "13 gennaio 2018, Atene",
-      "bio": "Vero nome: Dimítrios Panoúsis\n\nFiglio di profughi micrasiati (Theodoros e Fotini), musicista, cantautore, comico satirico, produttore radiofonico, attore e scrittore. Considerato un pioniere dello stand-up comedy in Grecia e un \"Aristofane contemporaneo\", noto per la satira senza confini e l'umorismo caustico e originale, rivolto tanto alla situazione politico-sociale greca quanto alla psiche umana in generale.\n\nGuidò per anni il gruppo rock \"Μουσικές Ταξιαρχίες\" (Brigate Musicali), riunitosi anche nel 2015 per una serie di concerti al mitico Kyttaro, dopo 30 anni di assenza. Oltre alla musica, fu attivo nella radio come produttore per Top FM, Kanali 15, Och FM, Flash 9.61, SKAI 100.3, City FM 99.5 — celebre il suo programma \"Δούρειος Ήχος\".\n\nPubblicò anche sei libri, in gran parte basati sui suoi programmi radiofonici: \"Η Ζάλη των Τάξεων\" (1989), \"Πικρέ, Μικρέ Μου Αράπη\" (1990, radiosoap in 22 episodi), \"Το Κυνήγι της Γκόμενας\" (1992), fino a \"Υγιεινή Διαστροφή\" (1996, per i 20 anni di carriera, con il CD \"Disco Tsoutsouni\" e la raccolta completa dei suoi testi).\n\nEbbe un malore sul palco del Kyttaro il 2 dicembre 2017 mentre cantava, venendo ricoverato; morì poco più di un mese dopo, il 13 gennaio 2018.\n\nPerché Tzimis Panousis\n\nDifficilmente troverete un'altra sua canzone su questo sito — non era un cantante nel senso tradizionale, ma una delle voci più originali e caustiche della scena satirica greca degli anni '80 e '90. Lo includiamo qui con una versione a cappella di questo brano per poterlo  ricordare: dietro l'umorismo tagliente e fuori dagli schemi, Panousis era anche un musicista capace di momenti di autentica bellezza. Una figura che merita di essere citata.",
+      "bio": "Vero nome: Dimítrios Panoúsis\n\nFiglio di profughi micrasiatici (Theodoros e Fotini), musicista, cantautore, comico satirico, produttore radiofonico, attore e scrittore. Considerato un pioniere dello stand-up comedy in Grecia e un \"Aristofane contemporaneo\", noto per la satira senza confini e l'umorismo caustico e originale, rivolto tanto alla situazione politico-sociale greca quanto alla psiche umana in generale.\n\nGuidò per anni il gruppo rock \"Μουσικές Ταξιαρχίες\" (Brigate Musicali), riunitosi anche nel 2015 per una serie di concerti al mitico Kyttaro, dopo 30 anni di assenza. Oltre alla musica, fu attivo nella radio come produttore per Top FM, Kanali 15, Och FM, Flash 9.61, SKAI 100.3, City FM 99.5 — celebre il suo programma \"Δούρειος Ήχος\".\n\nPubblicò anche sei libri, in gran parte basati sui suoi programmi radiofonici: \"Η Ζάλη των Τάξεων\" (1989), \"Πικρέ, Μικρέ Μου Αράπη\" (1990, radiosoap in 22 episodi), \"Το Κυνήγι της Γκόμενας\" (1992), fino a \"Υγιεινή Διαστροφή\" (1996, per i 20 anni di carriera, con il CD \"Disco Tsoutsouni\" e la raccolta completa dei suoi testi).\n\nEbbe un malore sul palco del Kyttaro il 2 dicembre 2017 mentre cantava, venendo ricoverato; morì poco più di un mese dopo, il 13 gennaio 2018.\n\nPerché Tzimis Panousis\n\nDifficilmente troverete un'altra sua canzone su questo sito — non era un cantante nel senso tradizionale, ma una delle voci più originali e caustiche della scena satirica greca degli anni '80 e '90. Lo includiamo qui con una versione a cappella di questo brano per poterlo  ricordare: dietro l'umorismo tagliente e fuori dagli schemi, Panousis era anche un musicista capace di momenti di autentica bellezza. Una figura che merita di essere citata.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/panusis.jpg",
@@ -17130,7 +17310,8 @@
         "at",
         "am",
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1788446648838",
@@ -17231,7 +17412,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/apapaioannu.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1788510901552",
@@ -17323,7 +17505,8 @@
         "at",
         "am",
         "ar"
-      ]
+      ],
+      "instr": "voce, chitarra"
     },
     {
       "id": "p_1788535521478",
@@ -17365,7 +17548,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/papanikolau.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1788584552000",
@@ -17623,7 +17807,8 @@
       "photo": "",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1788753418562",
@@ -17834,7 +18019,8 @@
         "at",
         "am",
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1789045030389",
@@ -17893,9 +18079,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "voce, chitarra"
     },
     {
       "id": "p_1789195546778",
@@ -18112,7 +18298,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/papamichail.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1789389215911",
@@ -18541,7 +18728,7 @@
         "at",
         "ar"
       ],
-      "instr": ""
+      "instr": "voce"
     },
     {
       "id": "p_1789824694412",
@@ -18617,7 +18804,7 @@
       "roles": [
         "ar"
       ],
-      "instr": ""
+      "instr": "voce"
     },
     {
       "id": "p_1789889135499",
@@ -18893,6 +19080,73 @@
         "ar"
       ],
       "instr": "voce"
+    },
+    {
+      "id": "p_1790329544911",
+      "name": "Οι Ολύμπιανς",
+      "nameit": "The Olympians",
+      "born": "1965",
+      "died": "1972",
+      "bio": "Gruppo pop-rock greco degli anni '60, considerato tra i fondatori della musica pop greca moderna. Nato nel settembre 1965 a Salonicco, dalla fusione di quattro membri della band \"The Brahms\" (nome giudicato poi non adatto allo stile del gruppo) con un elemento dei \"Vips\": Alkis Kakaliagos (piano, organo Hammond), Paschalis Arvanitidis (voce, basso — poi noto semplicemente come \"Paschalis\"), Vangelis \"Sporos\" Koutsotolis (sassofono), Koulis Kaloyiannidis (chitarra) e Dimitris \"Jack\" Lazaridis (batteria).\n\nDebuttarono nel celebre club \"Chavai\" (Χαβάη) di Salonicco, conquistando rapidamente prima il pubblico giovanile della città, poi quello di tutta la Grecia. Il momento decisivo della loro carriera fu l'esibizione al concerto \"Chrysí Vradiá\" (\"Serata d'oro\") allo stadio Panathinaikos gremito, dove si distinsero per uno stile fortemente influenzato dai gruppi stranieri più popolari del momento (Beatles, Yardbirds).\n\nIl loro singolo d'esordio, \"Ο Τρόπος\" (febbraio 1966, testo e musica dello stesso Paschalis, scritta già nel 1964 al tempo dei Brahms), è considerato l'atto di nascita della pop music greca moderna — la prima volta, secondo lo stesso Paschalis, che un testo greco veniva cantato su un pop-song senza risultare \"buffo\" o fuori posto.\n\nTra i loro successi anche \"Το κορίτσι του Μάη\", cover di \"Venus\" degli Shocking Blue, e \"Το Σχολείο\" (cover di \"Lonesome Traveller\"), poi ridiscussa nel 2006 in una nuova versione hip-hop con i Going Through, premiata ai MAD Video Music Awards come miglior cover pop.\n\nTra le tante formazioni che si susseguirono nel gruppo (con chitarristi, sassofonisti e batteristi diversi negli anni), spicca la breve presenza, come voce, di un giovanissimo Nikos Papazoglou (1967-68) — futuro grande nome della musica entechno greca.\n\nIl gruppo si sciolse nel 1971; Paschalis tentò per un periodo di abbandonare la musica per dedicarsi a un'attività di manifattura di oggetti in plastica, prima di essere convinto dalla propria etichetta discografica a tentare la carriera da solista ad Atene nell'inverno 1972 — dove il successo arrivò immediato.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/olimpians.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ],
+      "instr": "gruppo"
+    },
+    {
+      "id": "p_1790330024335",
+      "name": "Βαγγέλης Πιτσιλαδής",
+      "nameit": "Vangélis Pitsiladís",
+      "born": "1944?",
+      "died": "",
+      "bio": "Compositore prolifico della musica leggera e laiko greca degli anni '60-'70, oltre che apprezzato musicista per il cinema e la televisione. Studiò violino al Conservatorio Nazionale dal 1957, sotto la direzione di Manolis Kalomoiris, e teoria superiore con Michalis Vourtsis. Fu membro fondatore, verso il 1960-61, della \"Piccola Orchestra di Atene\" di Mikis Theodorakis, con cui suonò in opere come \"Axion Esti\" (1964) e \"Romiosini\" (1966) — orchestra poi fusa con quella \"Sperimentale\" di Hatzidakis in una grande formazione sinfonica da 120 elementi.\n\nFu proprio come violinista dell'orchestra di Theodorakis che conobbe Grigoris Bithikotsis, diventandone amico. A 22 anni, timidamente, gli chiese di ascoltare alcune sue canzoni: convocato a casa sua per le due del pomeriggio, dovette attendere che Bithikotsis si svegliasse dal sonnellino (\"nemmeno se telefonasse il re Costantino lo sveglio\"), e gli cantò a cappella, senza pianoforte né tonalità, \"Ας ήταν τ' όνειρο να βγει\" e \"Με πέταξε η ζωή στον δρόμο\" — mentre Bithikotsis si faceva la barba. Piaciutogli all'istante, Bithikotsis chiamò subito Takis Lambropoulos della Columbia, che lo mise sotto contratto senza nemmeno ascoltarlo di persona, fidandosi del giudizio dell'amico. La prima sessione in studio fu il 23 febbraio 1965, giorno del suo compleanno.\n\nScrisse poi per Vicky Moschouliou (\"Με τα θλιμμένα μάτια μου\", \"Θα βρεθεί και για μας\", entrambe 1966; \"Άδειο το λιμάνι\", 1967) e lanciò il cantante italiano Tony Pinelli con \"Ανάμνησις\" (1966), successo enorme da 5 dischi d'oro e 3 di platino (oltre 1,5 milioni di copie contando le contraffazioni).\n\nScrisse anche due brani per gli Olympians (\"Ο Αλέξης\" e \"Η Ιστορία\", 1967, testi di Lefteris Papadopoulos), \"prestato\" dalla Columbia alla Philips per l'occasione — ricorda Paschalis arrivare in studio ancora in divisa da militare. Con l'amico di scuola Giannis Kiourkas come paroliere fisso, scrisse tra gli altri \"Στις 16 Μάη Μήνα\" per Stamatis Kokotas, che il cantante rifiutò inizialmente di incidere, giudicandolo troppo \"yé-yé\" per via della chitarra a 12 corde e del ritmo shake al posto del bouzouki — convinto solo dietro insistenza di Lambropoulos, il brano divenne comunque un successo.\n\nTra il 1965 e il 1974 scrisse 800 canzoni per la Columbia (di cui stima che solo un centinaio siano rimaste nella memoria collettiva). Ebbe una breve e infelice parentesi alla Lyra di Patsifas (1972, LP \"Τα κίτρινα ρολόγια\", con \"Φωτιά στα τρένα\" cantata da Rena Koumioti), prima di tornare alla Columbia.\n\nNel 1974 decise improvvisamente di lasciare la Grecia, chiedendo egli stesso a Lambropoulos una clausola penale a proprio carico pur di essere sciolto dal contratto. Si trasferì prima in Svizzera, poi a Parigi, dove con musicisti della band di Demis Roussos (incluso Argyris Koulouris, \"Silver\") incise negli storici Studio Decca un successo mondiale, \"Yes I Do\" — cantato da lui stesso.\n\nNegli anni successivi si specializzò in musica per il cinema e la televisione: \"Αναδυομένη\" (1978, con Nora Valsami), \"Κραυγή των Λύκων\" (1981, con Maria Aliferi), \"Ημέρες Οργής\" (1991) e numerose serie TV. Durante il boom delle videocassette degli anni '80 arrivò a comporre le musiche per 54 film in un anno e mezzo, lavorando di notte in uno studio casalingo, sincronizzando ogni scena al secondo esatto secondo le richieste dei registi. Negli anni '90 gestì un proprio studio di registrazione e una casa editrice musicale tramite l'AEPI, curando anche circa 50 produzioni di canzoni per bambini.\n\nSi descrive come un uomo \"del giorno e dello studio\", mai stato \"della notte\": a differenza di molti colleghi, non frequentò mai i locali notturni né i cantanti fuori dal contesto professionale, restando volutamente defilato dai riflettori nonostante il grande successo commerciale.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/pitsiladis.jpg",
+      "roles": [
+        "am",
+        "ar"
+      ],
+      "instr": "voce, violino"
+    },
+    {
+      "id": "p_1790330846680",
+      "name": "Πασχάλης",
+      "nameit": "Paschális",
+      "born": "24 agosto 1946, Doxato, Nomo di Drama",
+      "died": "",
+      "bio": "Nome completo   Πασχάλης Αρβανιτίδης  Paschális Arvanitídis\n\nUna delle figure fondatrici della scena pop greca moderna. Il padre Giannis era originario della Tracia orientale (Malgara-Karatzachali), la madre Vasiliki della Macedonia (Agios Georgios, Grevena). A metà degli anni '50 la famiglia, numerosa (quattro maschi e una femmina), si trasferì a Salonicco.\n\nCominciò giovanissimo: a 16 anni fondò il suo primo gruppo, i Drugstoremen, seguiti dai Brahms e, a 18 anni, dagli Olympians (1965), di cui fu voce e bassista. Con loro scrisse \"Ο Τρόπος\" (1966), testo e musica sue, considerata l'atto fondativo della pop music greca moderna.\n\nNel 1971, con lo scioglimento degli Olympians, tentò per un periodo di abbandonare la musica dedicandosi a una piccola manifattura di oggetti in plastica; nell'inverno 1972, su spinta della propria etichetta, tornò ad Atene per tentare la carriera da solista — con successo immediato. Nel 1975 cantò anche in tedesco, prodotto da Leo Leandros (padre della famosa Vicky Leandros), entrando nella top ten della classifica tedesca con \"Oh Maria\".\n\nNel 1977 fu tappa fondamentale la partecipazione all'Eurovision, dove rappresentò la Grecia insieme a Marianna Toli, Robert Williams e Bessy Argyraki con \"Μάθημα Σολφέζ\" (musica Giorgos Hatzinasios, testo Sevi Tiliakou), classificandosi quinto.\n\nNello stesso anno sposò Aliki, dopo otto anni di relazione; l'anno seguente nacque la figlia Zina (Zinovia), che nel 1991-92 il grande pubblico conobbe accanto a lui nel grande successo \"Οι καταπληκτικοί\" (Alexis Papadimitriou/Evi Droutsa) — Zina ha poi intrapreso a sua volta una carriera come musicista e compositrice. Ha anche un figlio, Giannis, e due nipoti.\n\nTra gli altri suoi successi: \"Πώς\", \"Αν μια μέρα σε χάσω\", \"Τώρα είν' αργά\", \"Κοπακαμπάνα\", \"Η τρομπέτα\". Con oltre cinquant'anni di carriera, resta una delle figure più amate e rispettate della musica popolare greca.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/paschalis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ],
+      "instr": "voce, basso"
+    },
+    {
+      "id": "p_1790354264302",
+      "name": "Νικόλας Άσιμος",
+      "nameit": "Nikólas Ásimos",
+      "born": "20 agosto 1949, Salonicco",
+      "died": "17 marzo 1988, Atene",
+      "bio": "Vero nome Νικόλαος Ασημόπουλος\n\n\nCantautore, poeta e attore, tra le figure più anticonformiste della scena musicale ateniese degli anni '70-'80 — cantò rock greco, canzone politica, ballate e brani in stile laiko, restando sempre ai margini del sistema discografico ufficiale, soprannominato \"il Santo di Exarcheia\". Debuttò nel dicembre 1972 come cantautore e attore, trasferendosi ad Atene l'anno dopo. Il suo unico 45 giri ufficiale fu censurato nel 1975; di fronte all'ostracismo discografico, si autoprodusse pubblicando otto musicassette artigianali tra il 1978 e il 1987. Il suo unico LP in vita, \"Ο Ξαναπές\" (1982, Minos), vide la partecipazione di Haris Alexiou e Vasilis Papakonstantinou — fu proprio quest'ultimo, con la sua passione per le sue canzoni, a garantire che gran parte dell'opera di Asimos sopravvivesse dopo la sua morte, arrivata per suicidio nel marzo 1988, in un periodo di grave crisi psichiatrica. Ha lasciato una figlia, Lilian, e due dischi postumi.\n\n[[2026-09-07|Vedi approfondimento]]",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/asimos5.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ],
+      "instr": "voce, chitarra"
     }
   ]
 }
