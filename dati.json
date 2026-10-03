@@ -1,8 +1,164 @@
 {
   "version": 1,
-  "exportedAt": "2026-09-25T17:25:51.193Z",
+  "exportedAt": "2026-10-03T02:40:48.461Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1790995231933",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Απόστολος Χατζηχρήστος, Ευάγγελος Χατζηχρήστος, Μάρκος Βαμβακάρης",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=3cNbD7iYZ3I",
+          "vid": false
+        },
+        {
+          "who": "Hüsnü Şenlendirici ve Trio Chios",
+          "year": "",
+          "note": "Gel Gel Kayıkçı",
+          "link": "https://www.youtube.com/watch?v=stEPG0Pn6os",
+          "vid": false
+        }
+      ],
+      "date": "2026-10-03",
+      "tgr": "Ο Καϊξής",
+      "tit": "O Kaïksís",
+      "alias": "",
+      "at": "Γιώργος Φωτίδας",
+      "am": "Απόστολος Χατζηχρήστος, Μάρκος Βαμβακάρης",
+      "yr": "1948",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm   DO       REm     DO     REm\nΓκελ, γκελ, καϊξή, γιαβάς, γιαβάς\n LA#       FA     SOLm    REm     SOLm\nΜες στης πόλης τ' ακρογιάλι, μες στη σιγαλιά\nLA#       FA     SOLm    REm\nΜες στου χαρεμιού τη λίμνη\nREm   DO       REm\nΓκελ, γκελ, καϊξή\n \nREm   DO       REm     DO     REm\nΝα κλέψω την Γκιουζέλ-Χανούμ\n LA#       FA     SOLm    REm     SOLm\nΣκλάβα μέσα στο κελί της κλαίει και θρηνεί\nLA#       FA     SOLm    REm\nΚαι ζητάει τη λευτεριά της\nREm   DO       REm\nΓκελ, γκελ, καϊξή",
+      "tr": "O Kaïksís\n\nGhel, ghel kaiksì, ghiavàs. ghiavàs\nmes stis pòlis t'akroghiàli, mes sti sigalià\nmes stu charemioù ti lìmni\nghel, ghel, kaiksì\n\nNa klèpso tin Ghiuzèl-Chanùm\nSklàva mèsa sto kelì tis klèi kie thrinì\nkie zitài ti lefterià tis\nGhel, ghel kaiksì",
+      "ti": "Il barcaiolo\n\nVieni vieni barcaiolo\nlentamente lentamente\nsulla spiaggia di Costantinopoli\nnel silenzio\nnel lago dello Harem\nvieni vieni barcaiolo\n\na rapire\nla bella dama\nschiava nella sua cella\npiange e geme\ne cerca la sua libertà\nvieni vieni barcaiolo\n\nNote alla traduzione: \n\nΠόλης: Costantinopoli, la Città per eccellenza (per inciso Istanbul viene proprio da εις την Πόλιν)\n\nκαϊξή: dal turco. kayıkçı = conducente del caicco io lo tradurro' semplicemente caicco\n\nγκελ: dal turco. gelmek = venire. qui all' imperativo Gel!= vieni!\n\nγιαβάς: dal turco. yavaş = lentamente\n\nΓκιουζέλ: dal turco güzel = bello\n\nΧανούμ: dal turco e a sua volta dal persiano hanım/chanum=ragazza, dama (termine onorifico)",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1790578028725",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ζωή Φυτούση",
+          "year": "1961",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=xEu1NClPvBo",
+          "vid": false
+        },
+        {
+          "who": "Νίκος Ξυλούρης",
+          "year": "1976",
+          "note": "live trasmissione televisiva",
+          "link": "https://www.youtube.com/watch?v=D13Tg5p4ngc",
+          "vid": false
+        },
+        {
+          "who": "Ζωρζ  Μουστακί",
+          "year": "1965",
+          "note": "Le facteur",
+          "link": "https://www.youtube.com/watch?v=s5dJXWU0V4A",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-28",
+      "tgr": "Ο ταχυδρόμος πέθανε",
+      "tit": "O tachidròmos pèthane",
+      "alias": "",
+      "at": "Μάνος Χατζιδάκις",
+      "am": "Μάνος Χατζιδάκις",
+      "yr": "1961",
+      "ar": "",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "MIm       SOL           RE\nΚι ήταν παιδί στα δεκαεφτά\nMIm                SI\nπου τώρα έχει πετάξει\nMIm       SOL           RE\nΚι ήταν παιδί στα δεκαεφτά\nMIm                SI\nπου τώρα έχει πετάξει\n\n\nMIm                         RE\nΠοιος θα σου φέρει, αγάπη μου\nDO           SI     MIm\nτο γράμμα που 'χω τά-ξει\nMIm                         RE\nΠοιος θα σου φέρει, αγάπη μου\nDO           SI     MIm\nτο γράμμα που 'χω τά-ξει\n\n\nMIm       SOL         RE\nΚαι σαν πουλί που πέταξε\nMIm               SI\nη πικραμένη του ζωή\nMIm       SOL         RE\nΠέταξε, πάει και τού 'φυγε\nMIm               SI\nη δροσερή, η δροσερή πνοή\n\nMIm                         RE\nΠοιος θα σου δώσει, αγάπη μου\nDO          SI   MIm\nτο τελευταίο φιλί μου\nMIm                         RE\nΠοιος θα σου δώσει, αγάπη μου\nDO          SI   MIm\nτο τελευταίο φιλί μου\n\n\nDO         SOL    DO                   SOL\nΟ ταχυδρόμος πέθανε στα δεκαεφτά του χρόνια\nFA  SOL      FA   DO   SOL           DO\nκι ήταν αυτός η αγάπη μου, -ου, -ου, -ου, -ου, -ου\nDO         SOL    DO                   SOL\nΗ κουρασμένη του σκιά τώρα πετά στα κλώνια\nFA    SOL       FA     DO    SOL    MIm\nΦέρνει δροσιά στ' αηδόνια, α, α, α, α, α\n\n\nMIm       SOL         RE\nΠοιος θα σου δείξει, αγάπη μου\nMIm                         SI\nπού είναι του ονείρου ο δρόμος\nMIm             RE\nΑφού πεθάναμε μαζί\nDO   SI          MIm\nεγώ κι ο ταχυδρόμος",
+      "tr": "O tachidròmos pèthane\n\nKi ítan pedí sta dekaeftá\npu tóra échi petáksi\n\nPios tha su féri, aghápi mu\nto ghráma pu 'cho táksi\n\nKie san pulí pu pétakse\ni pikraméni tu zoí\nPétakse, pái kie tu 'fighe\ni droserí, i droserí pnoí\n\nPios tha su dósi, aghápi mu\nto teleftéo fili mu\n\nO tachidrómos péthane sta dekaeftá tu chrónia\nki ítan aftós i aghápi mu, -u, -u, -u, -u, -u\nI kurasméni tu skiá tóra petá sta klónia\nFérni drosiá st' aidónia, a, a, a, a, a\n\nPios tha su díksi, aghápi mu\npu íne tu onírhu o drómos\nAfú pethánane mazí\neghó ki o tachidrómos",
+      "ti": "Il postino è morto\n\nEd era un ragazzo di diciassette anni\nche ora è volato via\n\nChi ti porterà, amore mio,\nla lettera che ho promesso\n\nE come un uccello è volata via\nla sua vita amareggiata\nVolò via, se n'è andato e gli è sfuggito\nil soffio fresco, il soffio fresco\n\nChi ti darà, amore mio,\nil mio ultimo bacio\n\nIl postino è morto a diciassette anni\ned era lui il mio amore, -ore, -ore, -ore\nLa sua ombra stanca ora vola tra i rami\nporta freschezza agli usignoli, ah, ah, ah, ah\n\nChi ti mostrerà, amore mio,\ndov'è la strada del sogno\nDato che siamo morti insieme\nio e il postino\n\nNote di traduzione\n\n\"στα δεκαεφτά\" — \"a diciassette anni\": l'età scelta sottolinea la giovinezza spezzata del protagonista, ancora quasi un ragazzo quando la vita gli è stata tolta.\n\n\"που τώρα έχει πετάξει\" — \"che ora è volato via\": in greco, come in italiano, \"volare via\" è un modo delicato per dire morire; l'immagine dell'uccello che vola prepara quella successiva.\n\n\"το γράμμα που 'χω τάξει\" — \"la lettera che ho promesso\": il verbo τάζω significa promettere solennemente, spesso come voto o impegno d'onore, quindi la lettera è un impegno che chi parla non potrà più mantenere.\n\n\"σαν πουλί που πέταξε η πικραμένη του ζωή\" — \"come un uccello è volata via la sua vita amareggiata\": la vita è paragonata a un uccello che sfugge di mano, immagine di fragilità e di libertà ritrovata solo nella morte.\n\n\"η δροσερή πνοή\" — \"il soffio fresco\": la πνοή è il respiro, la vita stessa; l'aggettivo \"fresco\" ne sottolinea la giovinezza, e la sua perdita è sentita come la fine di qualcosa di vitale e puro.\n\n\"ο ταχυδρόμος\" — \"il postino\": figura che porta messaggi tra chi è lontano, quindi legame d'amore per eccellenza; qui, morendo, non può più consegnare le lettere, e la comunicazione tra gli innamorati si interrompe.\n\n\"η κουρασμένη του σκιά\" — \"la sua ombra stanca\": l'ombra, cioè l'anima del defunto, è descritta ancora affaticata dalla vita, ma ora libera di volare.\n\n\"φέρνει δροσιά στ' αηδόνια\" — \"porta freschezza agli usignoli\": l'usignolo è nella tradizione poetica greca l'uccello del canto d'amore e di dolore; l'ombra del giovane morto continua a servire da messaggero, portando refrigerio ai cantori dell'amore.\n\n\"του ονείρου ο δρόμος\" — \"la strada del sogno\": immagine del cammino verso un luogo ideale dove gli innamorati potrebbero ritrovarsi; chi parla si chiede chi potrà indicarlo ora che sono entrambi morti.\n\n\"Αφού πεθάναμε μαζί\" — \"dato che siamo morti insieme\": verso finale che rivela che anche chi parla è morta, forse d'amore o di dolore, e che la coppia è ormai riunita nella morte.",
+      "no": "Il brano nasce all'interno di un progetto culturale importantissimo: fu scritto appositamente per l'adattamento greco della celebre opera teatrale “Stasera si recita a soggetto” (Apopse aftoschediazoume) di Luigi Pirandello. La rappresentazione andò in scena nell'ottobre del 1961 al Teatro \"Athinon\" di Atene, con la regia di Dimitris Myrat. Lo spettacolo registrò un successo clamoroso, e gran parte del merito andò alla straordinaria colonna sonora curata da Chadzidakis, che comprendeva altre pietre miliari come O odopos (Il viandante) e Tora pou pas stin xenitia (Ora che vai in terra straniera)",
+      "balvid": false
+    },
+    {
+      "id": "s_1790564523837",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-09-28",
+      "tgr": "Ο κόσμος έγινε για μας",
+      "tit": "O kòsmos èghine ghia mas",
+      "alias": "Ταξί ταξί",
+      "at": "Γιώργος Γιαννακόπουλος",
+      "am": "Μιχάλης Σουγιούλ, Τάκης Μωράκης",
+      "yr": "1955",
+      "ar": "Τρίο Κιτάρα",
+      "lb": "",
+      "gn": "archontorembétiko",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=Y3Wnk0q1pCY",
+      "li": "",
+      "ch": "Ταξί, ταξί, ταξί, ταξί\nμπες με το πόδι το δεξί\nκαι σαν πασάς ξαπλώσου \n\nΚαι μια και ανυπομονώ\nγια το φιλί σου το μονό\nκαι να και το διπλό σου \n\nΑπόψε μη βαρυγκομάς\nο κόσμος έγινε για μας\nΟ κόσμος έγινε για μας\nαπόψε μη βαρυγκομάς\n\nΓκαρσόν, γκαρσόν, γκαρσόν, γκαρσόν\nπάρε πενήντα τιρμπουσόν\nκαι άνοιγε μπουκάλια \n\nΚαι κάτσε πλάι μου εσύ\nνα πιούμε αγάπη και κρασί\nκαι γινούμε χάλια \n\nΜην είσαι άπιστος Θωμάς\nο κόσμος έγινε για μας\nΟ κόσμος έγινε για μας\nμην είσαι άπιστος Θωμάς\n\nΑμάν, αμάν, αμάν, αμάν\nείμαι γκιουζέλ είμαι σαρμάν\nκι ο κόσμος μου γελάει \n\nΤρελές κομψές πριγκηπικές\nπιοτά μεζέδες μουσικές\nκι ο άνθρωπός μου πλάι \n\nΓια μας στενάζει ο μπαγλαμάς\nο κόσμος έγινε για μας\nΟ κόσμος έγινε για μας\nγια μας στενάζει ο μπαγλαμάς",
+      "tr": "O kòsmos èghine ghia mas\n\nTaksí, taksí, taksí, taksí, \nbes me to pódi to deksí\nkie san pashá ksaplósu\nKie mia kie anipomonó ghia to fílisu to monó\nkie na kie to dipló su\nApópse mi varighomás, o kósmos éghine ghia mas\nO kósmos éghine ghia mas, apópse mi varighomás\n\nGkarsón, gkarsón, gkarsón, gkarsón, \npare penínda tirbusón\nkie ánighe bukália\nKie kátse plái mu esí na piúme aghápi kie krasí\nkie ghinúme cháli\nMin íse ápistos Thomás, o kósmos éghine ghia mas\nO kósmos éghine ghia mas, min íse ápistos Thomás\n\nAmán, amán, amán, amán, íme ghiuzél, íme sarmán\nki o kósmos mu ghelái\nTrelés kompsés prigkipikés, piotá mezédes musikés\nki o ánthropós mu plái\nGhia mas stenázi o baghlamás, o kósmos éghine ghia mas\nO kósmos éghine ghia mas, ghia mas stenázi o baghlamás",
+      "ti": "Il mondo è fatto per noi\n\nTaxi, taxi, taxi, taxi, sali con il piede destro\ne stenditi come un pascià\nE siccome non vedo l'ora di avere il tuo bacio singolo\necco anche il tuo doppio\nStasera non brontolare, il mondo è fatto per noi\nIl mondo è fatto per noi, stasera non brontolare\n\nCameriere, cameriere, cameriere, cameriere, prendi cinquanta cavatappi\ne apri bottiglie\nE siediti accanto a me, che beviamo amore e vino\ne ci riduciamo in uno stato pietoso\nNon essere un Tommaso incredulo, il mondo è fatto per noi\nIl mondo è fatto per noi, non essere un Tommaso incredulo\n\nAhimè, ahimè, ahimè, ahimè, sono bellissima, sono affascinante\ne il mio mondo mi sorride\nPazze, eleganti, principesche, bevande, stuzzichini, musiche\ne il mio uomo accanto a me\nPer noi sospira il baglamàs, il mondo è fatto per noi\nIl mondo è fatto per noi, per noi sospira il baglamàs\n\nNote di traduzione\n\n\"μπες με το πόδι το δεξί\" — \"sali con il piede destro\": secondo una credenza popolare greca, entrare in un luogo o iniziare qualcosa con il piede destro porta fortuna; qui è un augurio per la serata che comincia.\n\n\"σαν πασάς ξαπλώσου\" — \"stenditi come un pascià\": il pascià era un alto dignitario ottomano, simbolo di agio e lusso; l'espressione invita a stare comodi e a godersi la serata come un signore.\n\n\"φιλί το μονό... το διπλό σου\" — \"il bacio singolo... il tuo doppio\": gioco scherzoso sulla quantità, in cui chi parla è così impaziente da non accontentarsi di un solo bacio.\n\n\"μη βαρυγκομάς\" — \"non brontolare\": da βαρυγκομώ, lamentarsi in modo pesante e borbottante; qui è un invito bonario a lasciare da parte i musi lunghi.\n\n\"γκαρσόν\" — \"cameriere\": prestito dal francese garçon, diffuso nel greco colloquiale per chiamare il cameriere nei locali.\n\n\"πενήντα τιρμπουσόν\" — \"cinquanta cavatappi\": τιρμπουσόν viene dal francese tire-bouchon (cavatappi); chiederne cinquanta è un'iperbole che promette un numero infinito di bottiglie da stappare.\n\n\"να γινούμε χάλια\" — \"ridurci in uno stato pietoso\": espressione colloquiale per dire \"ubriacarsi fino a non reggersi più\", usata con allegria e senza vergogna.\n\n\"άπιστος Θωμάς\" — \"Tommaso incredulo\": l'apostolo che volle toccare le ferite di Cristo per credere alla Resurrezione; nel linguaggio comune indica chi non si fida se non vede con i propri occhi, qui rivolto a chi dubita che la serata sia davvero tutta per loro.\n\n\"αμάν\" — interiezione di origine turca, usata come esclamazione di lamento o, come in questo caso, di sfogo e vivacità; lasciata non tradotta o resa con \"ahimè\".\n\n\"γκιουζέλ\" — \"bellissima\" (dal turco güzel): parola turca entrata nel greco popolare per dire bella, graziosa.\n\n\"σαρμάν\" — \"affascinante\" (dal francese charmant): un altro prestito che dà al brano un tono elegante e un po' mondano.\n\n\"πριγκηπικές\" — \"principesche\": attributo scherzoso che vuole dare alle cose della serata un tono da corte, in contrasto con l'ambiente popolare della taverna.\n\n\"μεζέδες\" — \"stuzzichini\": i mezés sono i piccoli piatti che accompagnano il vino o l'ouzo nelle taverne greche, parte essenziale della convivialità.\n\n\"στενάζει ο μπαγλαμάς\" — \"sospira il baglamàs\": il baglamàs è un piccolo strumento a corda simile al bouzouki, dal suono acuto; dire che \"sospira\" lo personifica, come se suonasse per la coppia con partecipazione affettuosa.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1790563864268",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Μάγια Μελάγια",
+          "year": "1952",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=CaWbIgPgM_E",
+          "vid": false
+        },
+        {
+          "who": "Καίτη Μπελίντα",
+          "year": "1952",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=v01eEcQ4wfU",
+          "vid": false
+        }
+      ],
+      "date": "2026-09-28",
+      "tgr": "Της γυναίκας η καρδιά",
+      "tit": "Tis ghinèkas i kardià",
+      "alias": "",
+      "at": "Ασημακόπουλος – Σπυρόπουλος – Παπαδούκας",
+      "am": "Γιώργος Μουζάκης",
+      "yr": "1952",
+      "ar": "",
+      "lb": "",
+      "gn": "archontorembétiko",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Κάθε γυναίκα μια ζαλάδα\nΆσσος σπαθί στην εξυπνάδα\nσου παριστάνει την αρσακειάδα\nκι είναι μεγάλη κατεργάρα και αλεπού\n\nΚι ενώ την τρως πως είσαι ο πρώτος\nκαι της καρδιάς της ο πιλότος\nΜαθαίνεις πως και σ' άλλους πέφτει ο λότος\nκαι μη ρωτήσεις το γιατί, το πώς και τι\n\nΒρε παιδιά δεν έχει μπέσα\nτης γυναίκας η καρδιά\nΛες πως είσαι μόνος μέσα\nκι είναι καμιά δεκαριά\n\nΓια να μπεις υπάρχουν μέσα\nκαι λογιών-λογιών κλειδιά\nΒρε παιδιά είναι μπαμπέσα\nτης γυναίκας η καρδιά\n\nΕίναι μυστήρια η γυναίκα\nτο 'παν σοφοί τριακόσιοι δέκα\nΤην πονηριά μαθαίνει από μπεμπέκα\nκι είναι μαέστρος στης αγάπης το βιολί\n\nΝα σε δουλεύει είναι μάνα\nΠότε παρών, πότε κοπάνα\nΚαι παίζει έξυπνα σε δύο πιάνα\nκαι είναι μάτσο οι συνεταίροι και πολλοί\n\nΒρε παιδιά δεν έχει μπέσα...\n\nΓια να μπεις υπάρχουν μέσα...",
+      "tr": "Tis ghinèkas i kardià\n\nKáthe ghinéka mia zaláda\nÁsos spathí stin eksipnáda\nsu paristáni tin arsakiáda\nki íne meghálí katergára kie alepú\n\nKi enó tin trós pos íse o prótos\nkie tis kardiás tis o pilótos\nMathénis pos kie s' állus péftii o lótos\nkie mi rotísis to ghiatí, to pos kie ti\n\nVre pediá den échi bésa\ntis ghinékas i kardiá\nLes pos íse mónos mésa\nki íne kamiá dekariá\n\nGhia na bis ipárchun mésa\nkie loghión-loghión klidiá\nVre pediá íne bambésa\ntis ghinékas i kardiá\n\nÍne mistíria i ghinéka\nto 'pan sofí triakósii déka\nTin poniriá mathéni apó bebéka\nki íne maéstros stis aghápis to violí\n\nNa se dulévi íne mána\nPóte parón, póte kopána\nKie pési éksipna se dío piána\nkie íne mátso i sinetéri kie polí\n\nVre pediá den échi bésa...\n\nGhia na bis ipárchun mésa...",
+      "ti": "Il cuore della donna\n\nOgni donna è un giramento di testa\nAsso di spade in astuzia\nti fa la parte della ragazza da collegio\ned è una grande furbacchiona e una volpe\n\nE mentre te la godi, credendoti il primo\ne il pilota del suo cuore\nscopri che anche ad altri tocca la stessa sorte\ne non chiedere il perché, il come e il cosa\n\nRagazzi, non ha parola\nil cuore di una donna\nDici di essere l'unico lì dentro\ne ce ne sono una decina\n\nPer entrarci ci sono mezzi\ne chiavi di ogni genere\nRagazzi, è traditore\nil cuore di una donna\n\nÈ un mistero la donna\nl'hanno detto i trecentodieci saggi\nL'astuzia la impara fin da neonata\ned è un maestro nel violino dell'amore\n\nSa prenderti in giro come nessuno\nun giorno presente, un giorno assente\ne gioca con abilità su due pianoforti\ne i soci in affari sono un mucchio, e tanti\n\nRagazzi, non ha parola...\n\nPer entrarci ci sono mezzi...\n\nNote di traduzione\n\n\"ζαλάδα\" — \"giramento di testa, stordimento\": la donna è descritta come qualcosa che fa girare la testa, un fastidio e insieme una vertigine, con tono scherzosamente lamentoso.\n\n\"Άσσος σπαθί στην εξυπνάδα\" — \"asso di spade in astuzia\": immagine dal gioco delle carte; l'asso di spade (ο άσσος σπαθί) è una delle carte più forti e temute, per cui la donna è \"imbattibile\" in furbizia.\n\n\"αρσακειάδα\" — \"ragazza da collegio\": l'Arsakeio era un prestigioso istituto femminile di Atene, per cui la parola indica una giovane educata, pudica e irreprensibile; qui la donna finge questa innocenza per ingannare.\n\n\"αλεπού\" — \"volpe\": come in italiano, simbolo di astuzia e furbizia.\n\n\"ο πιλότος της καρδιάς\" — \"il pilota del cuore\": l'uomo si illude di essere colui che guida e comanda i sentimenti di lei, salvo scoprire che non è l'unico.\n\n\"πέφτει ο λότος\" — \"tocca la stessa sorte\" (letteralmente \"cade il lotto/l'estrazione\"): modo di dire per indicare che anche ad altri capita la stessa fortuna, cioè che la donna concede le sue attenzioni a più uomini.\n\n\"δεν έχει μπέσα\" — \"non ha parola d'onore\": la μπέσα (dall'albanese/turco \"besa\") è la parola data, la fedeltà a un patto, valore d'onore molto forte nei Balcani; dire che qualcuno \"non ha μπέσα\" è accusarlo di inaffidabilità totale.\n\n\"μπαμπέσα\" — \"traditore, sleale\": è l'opposto di chi ha \"μπέσα\", cioè chi non mantiene la parola data; qui usato come rima scherzosa per il cuore femminile.\n\n\"κάνα δεκαριά\" — \"una decina\": iperbole scherzosa per dire che il posto \"esclusivo\" nel cuore di lei è in realtà occupato da molti.\n\n\"σοφοί τριακόσιοι δέκα\" — \"i trecentodieci saggi\": riferimento ai 318 padri del Concilio di Nicea o, più genericamente, a un numero solenne di sapienti; espressione popolare per dire \"lo sanno tutti, l'hanno stabilito i più saggi\" con ironia.\n\n\"μπεμπέκα\" — \"neonata, bebè\": la donna impara l'astuzia fin dalla culla.\n\n\"μαέστρος στης αγάπης το βιολί\" — \"maestro nel violino dell'amore\": immagine musicale per indicare che sa suonare i sentimenti altrui come uno strumento, con abilità da direttore d'orchestra.\n\n\"να σε δουλεύει είναι μάνα\" — \"prenderti in giro è una madre\" (cioè \"ne è maestra\"): costruzione gergale che indica una bravura estrema nell'ingannare o nel prendere in giro.\n\n\"πότε παρών, πότε κοπάνα\" — \"un giorno presente, un giorno assente\": \"κοπάνα\" è il gergo scolastico per \"bigiare\", quindi lei alterna presenza e sparizioni a piacere.\n\n\"παίζει έξυπνα σε δύο πιάνα\" — \"gioca con abilità su due pianoforti\": metafora per indicare che porta avanti due relazioni contemporaneamente, senza farsi scoprire.\n\n\"συνεταίροι\" — \"soci\": termine commerciale usato ironicamente per gli altri uomini con cui lei intrattiene relazioni, come se fossero soci di un'impresa in comune.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1790355979185",
       "offsets": {},
@@ -10211,7 +10367,8 @@
       "ch": "REm            FA                SOLm    LA       REm\nΙτιά, ιτιά λουλουδιασμένη, αχ, πώς μοσχοβολάς καημένη\n\nREm            FA                SOLm    LA       REm\nΙτιά, ιτιά μέσα στο ρέμα, πως σ' αγαπώ δεν είναι ψέμα\n\nREm        FA           SOLm    LA      REm\nΙτιά μου σε παρακαλώ, σκύψε να κόψω τον ανθό\n\nREm         FA             SOLm    LA       REm\nΣτη Ρούμελη και στο Μοριά, όλοι χορεύουν την ιτιά",
       "tr": "Itià, Itià lulediasméni, ach, pos moschovolàs kaiméni\n\nItià,Itià mésa sto réma, pos s'aghapò den ìne pséma\n\nItià mu se parakalò, skìpse na kòpso ton anthò\n\nSti Rùmeli ke sto Morià, òli chorèvun tin Itià",
       "ti": "Salice\n\nSalice, salice fiorito, ah, come profumi, cara mia¹\n\nSalice, salice in mezzo al torrente², come ti amo non è bugia\n\nSalice mio, ti prego, chinati che colga il fiore\n\nA Rumeli³ e nel Moria⁴, tutti danzano l'itià⁵\n\nNote\n\nΚαημένη – letteralmente \"poverina, sventurata\" (da \"καημός\", pena/dolore), qui usato in tono affettuoso-vezzeggiativo verso il salice personificato, come si direbbe a una persona cara.\nΡέμα – \"torrente, corso d'acqua stagionale\"; ambientazione tipica dei salici, che crescono lungo le rive.\nΡούμελη (Rumeli) – nome storico-geografico della Grecia centrale continentale (a nord del Peloponneso), usato tradizionalmente per indicare quella regione nei canti popolari.\nΜοριάς (Moria) – antico nome popolare del Peloponneso, usato spesso in coppia con \"Ρούμελη\" nei canti della tradizione greca per indicare simbolicamente \"tutta la Grecia continentale del sud\".\nΗ ιτιά – oltre a essere il salice della canzone, \"Η Ιτιά\" è anche il nome di una danza popolare tradizionale greca (spesso associata alla musica della Grecia centrale), qui probabile doppio senso tra l'albero e il ballo omonimo.",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1786362119141",
@@ -19147,6 +19304,82 @@
         "ar"
       ],
       "instr": "voce, chitarra"
+    },
+    {
+      "id": "p_1790562249961",
+      "name": "Μάγια Μελάγια",
+      "nameit": "Mághia Melághia",
+      "born": "29 febbraio 1928, Plaka, Atene",
+      "died": "27 dicembre 2014, Atene",
+      "bio": "Vero nome Μελπομένη Τσιριγώτη\n\nCantante e attrice, una delle voci simbolo del \"archontorembetiko\" (il rebetiko elegante, da salotto e da locale di lusso) e del canto leggero-popolare del dopoguerra, attiva anche a teatro (soprattutto nella rivista) e al cinema. Nacque il 29 febbraio, giorno bisestile, nel quartiere della Plaka.\n\nIl nome d'arte glielo diede nel 1946 il regista Orestis Laskos, quando lei aveva 18 anni: da Melpomeni Tsirigoti divenne \"Mágia Melágia\", e da allora il nome restò un mito ovunque ci fossero greci. Cominciò la carriera nel 1946 e raggiunse il successo nei decenni '50 e '60, tra locali notturni, palcoscenico teatrale e cinema. Fu la compagna e musa del compositore Giorgos Mouzakis, di cui interpretò molte canzoni; secondo Wikipedia la relazione durò dal 1947 al 1954, mentre altre fonti la fanno proseguire fino al 1965 — le fonti divergono.\n\nUn aneddoto che dà la misura della sua popolarità: si racconta che, quando Katina Paxinou cercò di raggiungere in auto il teatro di Epidauro, il vigile la fermò e, sentendone il nome, rispose \"non mi interessa signora, non passa nemmeno se fosse Mágia Melágia!\". E nel 1957, durante le riprese del film \"Il ragazzo e il delfino\" a Idra, fu lei a insegnare a Sophia Loren la canzone \"Τι είναι αυτό που το λένε αγάπη\".\n\nNel 1965 partì per una tournée in America, si innamorò di un gestore di locali greco-americano e vi restò circa quindici anni, cantando nei locali della comunità e vivendo una seconda carriera; rimasta vedova (1978 o 1980, secondo le fonti), tornò in Grecia, dove quasi nessuno la ricordava più: trovò molte porte chiuse e lavorò in locali di secondo piano e nei paesi di provincia. Nel 1981, mentre cantava in un locale a Pyrgos, fu colpita da un ictus (aveva 53 anni) e da allora non cantò più professionalmente. Gli ultimi anni furono difficili, con gravi problemi di salute.\n\nChi la conobbe la descrive come una persona schiva, di toni bassi, nonostante la fama. Le poche parole che scrisse per un suo disco: \"Il canto, la mia vita intera.\"",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/melaghia.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1790562605033",
+      "name": "Γιώργος Μουζάκης",
+      "nameit": "Giórgos Mouzákis",
+      "born": "15 agosto 1922, Metaxourgeio, Atene",
+      "died": "27 agosto 2005",
+      "bio": "Compositore di canzone leggera e soprattutto di rivista teatrale, la cui musica segnò gli anni d'oro della rivista greca tra gli anni '50 e '70. Suonava tromba, pianoforte, flicorno e trombone.\n\nSecondo di tre figli, da bambino fu mandato dal padre Giannis, per domarne il carattere indisciplinato, come interno all'istituto Emperikeio di Syros, dove restò fino agli 8 anni: fu lì che incontrò la musica per la prima volta e capì di voler fare il musicista. Da allora studiò tromba ogni giorno, con l'unico aiuto di alcuni libri di musica. Raccontò poi che già a 12 anni scriveva canzoni, ma era costretto a venderle perché non aveva da mangiare, e così altri se ne appropriavano.\n\nDebuttò come trombettista nel 1938 e dal 1940 aveva una propria orchestra. Studiò al Conservatorio di Atene (1939-1947) e proseguì la formazione in Austria e Germania (1952-1954). Il suo primo disco uscì nel 1946, lo stesso anno in cui esordì la cantante Mágia Melágia, di cui fu compagno e musa ispiratrice (secondo Wikipedia dal 1947 al 1954; altre fonti prolungano la relazione fino al 1965).\n\nIl suo esordio nella rivista fu lo spettacolo \"Βίρα τις άγκυρες\"; lavorò anche nei locali notturni e collaborò con artiste come Nana Mouskouri e Jenny Vanou. Scrisse \"Μαρία\" per la madre, e ricordava con commozione l'unica volta in cui lei lo vide dirigere l'orchestra a teatro, mentre suonava proprio quella canzone.\n\nLe cifre della sua produzione variano molto a seconda della fonte: secondo l'archivio ERT scrisse musica per circa 2.500 canzoni, 223 riviste, 50 commedie musicali e 50 film; un'altra fonte parla di oltre 450 canzoni più migliaia di melodie per spettacoli e riviste. Tra i riconoscimenti: primo premio per l'orchestrazione al SOPOT in Polonia (1966), primo premio per la canzone al Festival di Salonicco (1967), tre premi Xenopouleio consecutivi (1952-54) e il premio dei Letterati Greci (1973). Una fonte gli attribuisce anche la melodia legata all'inno del Panathinaikos.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/muzakis.jpg",
+      "roles": [
+        "am",
+        "ar"
+      ],
+      "instr": "tromba, pianoforte, flicorno, trombone."
+    },
+    {
+      "id": "p_1790562895706",
+      "name": "Ασημακόπουλος – Σπυρόπουλος – Παπαδούκας",
+      "nameit": "Asimakópoulos – Spyrópoulos – Papadoúkas",
+      "born": "",
+      "died": "",
+      "bio": "Γιώργος Ασημακόπουλος, Βασίλης Σπυρόπουλος, Παναγιώτης \"Πάνος\" Παπαδούκας\n\nTrio di paroliere della rivista teatrale greca degli anni '50-'60, che firmavano i testi insieme, spesso per musiche di Giorgos Mouzakis. Tra i loro brani: \"Ομόνοια Πλαζ\" (1954, musica Menelaos Theofanidis, cantata da Mary Linda e Manolis Chiotis, dalla rivista \"Το τραγούδι της Αθήνας\"), \"Ταραντέλα\", \"Πού θα με πας\" (interpretata da Vicky Moscholiou) e i versi greci di \"Νάνι-νάνι\", adattamento di \"Dormi bambina\".\n\nDei tre non si conoscono date di nascita e morte né altri dati biografici.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "at"
+      ],
+      "instr": ""
+    },
+    {
+      "id": "p_1790563794476",
+      "name": "Καίτη Μπελίντα",
+      "nameit": "Kaíti Belínta",
+      "born": "1° marzo 1923, Argos",
+      "died": "21 settembre 1978, Atene",
+      "bio": "Vero nome Αικατερίνη Πολιτοπούλου\n\n\nCantante e attrice, una delle grandi stelle del canto leggero e della rivista del dopoguerra. Nata ad Argos, crebbe a Kallithea, dove studiò al Conservatorio e lavorò in una scuola di danza. Si sposò durante l'Occupazione con il compositore Giannis Vellas: agli inizi si faceva chiamare \"Kaiti Vellinta\", e solo dopo la separazione divenne Kaiti Belinta e, ben presto, semplicemente \"Belinta\".\n\nDebuttò in teatro nel 1950 con la rivista \"Σκάνδαλα γυναικών\" (teatro Akropol) e da allora cantò e recitò ruoli principali in vari teatri di rivista. Fu consacrata nel mondo della musica leggera dall'impresario teatrale Vasilis Bournellis; in disco esordì come \"seconda voce\". Nel 1958 formò una propria compagnia con Nikos Stavridis e Maro Nezer. Nel 1961-62 lavorò brevemente con Rena Vlachopoulou nel \"Teatro delle Donne\" delle sorelle Kalouta, nello spettacolo \"Της φυλακής τα σίδερα\", che andò male al botteghino. Era grande amica della cantante Lena Pamela.\n\nFu una delle poche cantanti di canzone leggera a incidere brani di Manos Hadjidakis (\"Ο ταχυδρόμος πέθανε\" e \"Το μαντολίνο\"). Tra i suoi successi più celebri \"Κόσμος πάει κι έρχεται\" di Menelaos Theofanidis. Marinella ha ricordato più volte quanto il suo modo di interpretare l'abbia influenzata.\n\nMorì di cancro il 21 settembre 1978; si racconta che al suo funerale centinaia di ammiratori inconsolabili cantassero proprio \"Κόσμος πάει κι έρχεται\". Le sue canzoni sono state ripubblicate in vari LP e CD, tra cui \"Μπελίντα\" (1969, 1976 e 1979) e \"Μουσικό πορτραίτο\" (1988).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/belinda.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1790577186787",
+      "name": "Ζωή Φυτούση",
+      "nameit": "Zoì Fitùsi",
+      "born": "4 settembre 1933, Atene",
+      "died": "24 luglio 2017",
+      "bio": "E' stata un'attrice teatrale greca (ha collaborato con molte compagnie e ha partecipato a molte rappresentazioni teatrali di ogni tipo), al cinema (apparso in diversi film), televisione e radio, scrittrice (aveva scritto 7 libri, poetessa, editorialista, sindacalista e cantante. Ha anche fatto una carriera speciale nel campo del canto, con una performance più nota nella composizione di Manos Chadzidakis \"Φέρτε μου ένα μαντολίνο\". Nel 1996 è stata onorata per la sua poesia \"Nessuno, ma nessuno\".",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/fitusi.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
     }
   ]
 }
