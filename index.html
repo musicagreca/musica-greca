@@ -1250,10 +1250,34 @@ function applyState(state, doScroll){
   else if(pid==='persona') renderPersona();
   else if(pid==='info') {}
 }
+function navUrl(state){
+  var h='';
+  if(state.page==='canzone' && state.songId) h='#'+state.songId;
+  else if(state.page==='persona' && state.personId) h='#'+state.personId;
+  return location.pathname+location.search+h;
+}
 function pushNav(state){
-  history.pushState(state, '');
+  history.pushState(state, '', navUrl(state));
   applyState(state, true);
 }
+/* ── INDIRIZZO DIRETTO: musicagreca.com/#s_123 apre la canzone, #p12 la persona, #Titolo cerca per titolo ── */
+function stateFromHash(){
+  var h=decodeURIComponent((location.hash||'').slice(1)).trim();
+  if(!h) return null;
+  var s=songs.filter(function(x){return x.id===h;})[0];
+  if(s) return {page:'canzone', songId:s.id};
+  var p=persons.filter(function(x){return x.id===h;})[0];
+  if(p) return {page:'persona', personId:p.id};
+  var k=function(t){return stripAccents(t).toLowerCase().replace(/ς/g,'σ').replace(/[^0-9a-zα-ω]+/g,' ').trim();};
+  var kh=k(h);
+  s=songs.filter(function(x){return k(x.tgr)===kh||k(x.tit)===kh;})[0];
+  if(s) return {page:'canzone', songId:s.id};
+  return null;
+}
+window.addEventListener('hashchange', function(){
+  var st=stateFromHash();
+  if(st && !(st.songId===curSongId && st.personId===curPersonId)){ history.replaceState(st,'',navUrl(st)); applyState(st,true); }
+});
 window.addEventListener('popstate', function(ev){
   if(ev.state){ applyState(ev.state, true); }
   else { applyState({page:'home'}, true); }
@@ -2362,6 +2386,8 @@ function renderArgomento(){
 
 /* ── INIT ── */
 function init(){
+  var st=stateFromHash();
+  if(st){ history.replaceState(st,'',navUrl(st)); applyState(st,true); return; }
   history.replaceState({page:'home'}, '');
   renderHome();
 }
