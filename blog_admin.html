@@ -251,6 +251,7 @@ body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14
     <div class="apage-title">👤 Gestione persone <span class="admin-badge">ADMIN</span></div>
     <div style="margin-bottom:.5rem;display:flex;gap:8px;align-items:center">
       <button class="abtn primary" onclick="openPersonForm()">+ Nuova persona</button>
+      <button class="abtn" onclick="pasteFromDischi()" title="Dati copiati da «I miei dischi»">📋 Incolla dai dischi</button>
       <input type="text" id="admin-srch-persons" placeholder="Cerca per cognome…" oninput="renderAdminPersons()" style="flex:1;padding:5px 9px;border:1px solid var(--bor);border-radius:var(--rad);font-size:12px;font-family:'Arial',sans-serif">
     </div>
     <div id="admin-alpha-persons" style="display:flex;flex-wrap:wrap;gap:3px;margin-bottom:.6rem"></div>
@@ -277,6 +278,7 @@ body{background:var(--bg);font-family:var(--font);color:var(--text);font-size:14
         </div>
       </div>
       <div class="form-section"><label>Strumenti suonati (separati da virgola, es. "lira, laouto")</label><input type="text" id="pf-instr" placeholder="es. lira cretese, laouto"></div>
+      <div id="pf-dischi-info" style="display:none;font-size:12px;background:#fbf6e9;border:1px solid #e6d7b0;border-radius:6px;padding:8px 10px;margin:.4rem 0;max-height:220px;overflow:auto"></div>
       <div class="form-section"><label>Biografia e note</label><textarea id="pf-bio" rows="6"></textarea></div>
       <div class="form-grid">
         <div class="form-section"><label>Link Wikipedia / sito</label><input type="url" id="pf-link"></div>
@@ -754,7 +756,7 @@ function renderAdminPersons(){
 }
 
 function openPersonForm(){
-  editingPersonId=null;
+  editingPersonId=null;if(g('pf-dischi-info'))g('pf-dischi-info').style.display='none';
   g('person-form-mode-label').textContent='Nuova persona';
   ['pf-name','pf-nameit','pf-born','pf-died','pf-bio','pf-link','pf-listen','pf-photo'].forEach(id=>{const e=g(id);if(e)e.value='';});
   ['pf-r-at','pf-r-am','pf-r-ar'].forEach(id=>{const e=g(id);if(e)e.checked=false;});
@@ -762,9 +764,27 @@ function openPersonForm(){
   g('person-form-wrap').style.display='block';
   g('person-form-wrap').scrollIntoView({behavior:'smooth'});
 }
+async function readDischi(){
+  let t='';try{t=await navigator.clipboard.readText()}catch(e){}
+  if(!t||t.indexOf('SCHEDA-DISCHI:')<0)t=prompt('Incolla qui i dati copiati da «I miei dischi» (Ctrl+V) e premi OK:')||'';
+  const i=t.indexOf('SCHEDA-DISCHI:');if(i<0){if(t)alert('Non trovo i dati: in «I miei dischi» premi prima «✍️ Scrivi la scheda».');return null}
+  try{return JSON.parse(t.slice(i+14))}catch(e){alert('I dati copiati non sono completi: riprova.');return null}
+}
+function showDischiInfo(d){const el=g('pf-dischi-info');if(!el)return;
+  el.innerHTML='<b>Dai tuoi dischi</b>'+(d.nick?' · soprannome «'+esc(d.nick)+'»':'')+' · '+d.tot+' brani'+(d.ruoli?' · '+esc(d.ruoli):'')+'<br>'+(d.discs||[]).map(x=>'• '+esc(x)).join('<br>');el.style.display='block';}
+async function pasteFromDischi(){
+  const d=await readDischi();if(!d)return;
+  const n=(d.name||'').trim();const ex=persons.find(p=>(p.name||'').trim()===n);
+  if(ex){editPerson(ex.id);showDischiInfo(d);showAlert('person-form-alert','Questa persona ha già una scheda: l\'ho aperta.','ok');return}
+  openPersonForm();
+  g('pf-name').value=n;g('pf-nameit').value=d.nameit||'';g('pf-born').value=d.born||'';g('pf-died').value=d.died||'';
+  (d.roles||[]).forEach(r=>{const e=g('pf-r-'+r);if(e)e.checked=true});
+  if(g('pf-instr'))g('pf-instr').value=d.instr||'';
+  showDischiInfo(d);
+}
 function closePersonForm(){g('person-form-wrap').style.display='none';editingPersonId=null;}
 function editPerson(id){
-  const p=persons.find(x=>x.id===id);if(!p)return;editingPersonId=id;
+  const p=persons.find(x=>x.id===id);if(!p)return;editingPersonId=id;if(g('pf-dischi-info'))g('pf-dischi-info').style.display='none';
   g('person-form-mode-label').textContent='Modifica: '+p.name;
   g('pf-name').value=p.name||'';g('pf-nameit').value=p.nameit||'';
   g('pf-born').value=p.born||'';g('pf-died').value=p.died||'';
