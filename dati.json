@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-03T02:40:48.461Z",
+  "exportedAt": "2026-10-20T10:47:19.074Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
@@ -6878,29 +6878,6 @@
       "no": "Kaldaras, noto per essere un perfezionista rigoroso, trovò in Aggelopoulos l'esecutore perfetto per le sue canzoni più struggenti. Si dice che in studio di registrazione ad Atene, nel 1967, Aggelopoulos incise la traccia vocale quasi \"buona alla prima\", lasciando i musicisti e lo stesso compositore sbalorditi per la pulizia delle note alte e l'emozione naturale espressa."
     },
     {
-      "id": "s_1787933166393",
-      "offsets": {},
-      "executions": [],
-      "date": "2026-08-28",
-      "tgr": "Ο καϊξής",
-      "tit": "O Kaïksís",
-      "alias": "",
-      "at": "Γιώργος Φωτίδας",
-      "am": "Απόστολος Χατζηχρήστος",
-      "yr": "1948",
-      "ar": "Απόστολος Χατζηχρήστος, Ευάγγελος Χατζηχρήστος, Μάρκος Βαμβακάρης",
-      "lb": "",
-      "gn": "Rembetico",
-      "dr": "Minore Armonico",
-      "bal": "Zeibekiko",
-      "ll": "https://www.youtube.com/watch?v=3cNbD7iYZ3I&list=RD3cNbD7iYZ3I&start_radio=1",
-      "li": "",
-      "ch": "REm            DO      REm\nΓκελ, γκελ, καϊξή, γιαβάς, γιαβάς\nLA#            FA      SOLm    REm     SOLm\nΜες στης πόλης τ' ακρογιάλι, μες στη σιγαλιά\nLA#            FA      SOLm    REm\nΜες στου χαρεμιού τη λίμνη\nREm            DO      REm\nΓκελ, γκελ, καϊξή\n\nREm            DO      REm\nΝα κλέψω την Γκιουζέλ-Χανούμ\nLA#            FA      SOLm    REm     SOLm\nΣκλάβα μέσα στο κελί της κλαίει και θρηνεί\nLA#            FA      SOLm    REm\nΚαι ζητάει τη λευτεριά της\nREm            DO      REm\nΓκελ, γκελ, καϊξή",
-      "tr": "O Kaïksís\n\nGkel, gkel, kaïksí, yiavás, yiavás\nMes stis pόlis t'akroyáli, mes sti sighaliá\nMes stu charemiú ti límni\nGkel, gkel, kaïksí\n\nNa klépso tin Gkiuzél-Chanúm\nSklάva mésa sto kelí tis kléi ke thriní\nKe zitái ti lefteriá tis\nGkel, gkel, kaïksí",
-      "ti": "Il barcaiolo \n\nVieni, vieni, barcaiolo, piano piano\nlungo la riva della Città, nella quiete\ndentro il lago dell'harem\nvieni, vieni, barcaiolo\n\nPer rapire la bella Ghiuzel-Hanum\nschiava, dentro la sua cella piange e si lamenta\ne chiede la sua libertà\nvieni, vieni, barcaiolo\n\nNote:\n\nκαϊξής — barcaiolo, conducente di piccola imbarcazione (dal turco \"kayıkçı\")\nγιαβάς-γιαβάς — \"piano piano\" (dal turco \"yavaş yavaş\"), già incontrato in \"Γκιουλμπαχάρ\"\nη Πόλη — Costantinopoli, già incontrato in altre canzoni\nΓκιουζέλ-Χανούμ — nome composto: \"γκιουζέλ\" (bella, dal turco \"güzel\") + \"χανούμ\" (signora/donna turca, già incontrato)\nil brano appartiene al filone \"ανατολίτικα\" (orientaleggiante), con l'immaginario tipico di harem, schiave prigioniere e rapimenti romantici via acqua, già visto in canzoni come \"Η Σεράχ\" e \"Γκιουλμπαχάρ\"",
-      "no": "Il brano abbonda di parole turche entrate nel gergo greco (Gkel, gkel = vieni, vieni; Giavas = piano; Chanum = signora/donna d'oriente). Questa commistione linguistica non era solo un omaggio al passato, ma un modo per aggirare l'occhio vigile della censura post-bellica: mentre le canzoni sui locali clandestini (tekedes) venivano severamente vietate, i brani romantici e d'evasione ambientati in un Oriente da Mille e una notte passavano senza problemi."
-    },
-    {
       "id": "s_1787911744189",
       "offsets": {},
       "executions": [
@@ -13703,9 +13680,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "bouzouki, baglamas, voce, pianoforte, chitarra, fisarmonica, bouzouki, baglamas"
     },
     {
       "id": "p_1785423027069",
@@ -14687,7 +14664,7 @@
         "am",
         "ar"
       ],
-      "instr": "lira cretese, strumenti a corda"
+      "instr": "voce, lira cretese, strumenti a corda"
     },
     {
       "id": "p_1786029403585",
@@ -15926,9 +15903,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "voce, chitarra, baglama"
     },
     {
       "id": "p_1786946915451",
@@ -15942,7 +15919,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/charma.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1786948742586",
@@ -17120,7 +17098,8 @@
       "photo": "",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1787975743200",
@@ -18158,9 +18137,9 @@
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "voce, chitarra"
     },
     {
       "id": "p_1789044137610",
@@ -18246,16 +18225,16 @@
       "nameit": "Stélios Foustalierákis",
       "born": "domenica 19 giugno 1911, Rethymno alle tre del pomeriggio (un dettaglio che amava precisare lui stesso)",
       "died": "4 aprile 1992",
-      "bio": "Conosciuto anche come Φουσταλιέρης\n\nPrese il nome del padre, morto in un incidente prima della sua nascita. Crebbe ascoltando canzoni micrasiatiche e divenne un virtuoso del bulgarí (il tamburà cretese). Dagli 11 anni iniziò ad apprendere anche il mestiere di orologiaio — la sua seconda grande passione dopo il bulgarí — aprendo poi un proprio negozio in via Arkadiou a Rethymno, dove era conosciuto anche come \"barba Stelios il orologiaio\".\n\nCantante, strumentista e compositore di molte celebri canzoni cretesi, creò una propria \"scuola\" nella musica cretese, elevando il bulgarí a strumento melodico e solistico. Suonò con i grandi maestri della musica cretese, ma fu anche un caso unico capace di intendersi con i grandi rebetes: tra il 1933 e il 1937 — il periodo di massima fioritura del rembetiko — visse ad Atene, dove la conoscenza con Markos Vamvakaris, Giorgos Batis, Panagiotis Tountas, Giannis Papaioannou, Stratos Pagioumtzis e altri influenzò in modo determinante la sua formazione musicale.\n\nUn dettaglio curioso sulla discografia: sulle etichette dei dischi dell'epoca risulta scritto che suonasse il \"buzuki\" — un errore dovuto al fatto che i responsabili delle case discografiche, durante le registrazioni ad Atene, non conoscevano né il nome né la tecnica esecutiva del bulgarí (strumento della famiglia del tambourá, simile morfologicamente al saz micrasiatico, ma con divisioni diverse sul manico). Il fatto che dal 1930 le registrazioni si tenessero nello stabilimento Columbia di Perissós rendeva inoltre difficile la presenza frequente di esecutori di provincia — da qui la sproporzione tra la ricchezza della musica cretese e la sua scarsa documentazione discografica dell'epoca.\n\nFu descritto come persona molto amabile, di statura media, con un sorriso dolcissimo e un'innata nobiltà d'animo. È annoverato a pieno titolo tra i vertici della tradizione musicale popolare urbana di Rethymno e di Creta.",
+      "bio": "Conosciuto anche come Φουσταλιέρης\n\nPrese il nome del padre, morto in un incidente prima della sua nascita. Crebbe ascoltando canzoni micrasiatiche e divenne un virtuoso del bulgarí (il tamburà cretese). Dagli 11 anni iniziò ad apprendere anche il mestiere di orologiaio — la sua seconda grande passione dopo il bulgarí — aprendo poi un proprio negozio in via Arkadiou a Rethymno, dove era conosciuto anche come \"barba Stelios il orologiaio\".\n\nCantante, strumentista e compositore di molte celebri canzoni cretesi, creò una propria \"scuola\" nella musica cretese, elevando il bulgarí a strumento melodico e solistico. Suonò con i grandi maestri della musica cretese, ma fu anche un caso unico capace di intendersi con i grandi rebetes: tra il 1933 e il 1937 — il periodo di massima fioritura del rembetiko — visse ad Atene, dove la conoscenza con Markos Vamvakaris, Giorgos Batis, Panagiotis Tountas, Giannis Papaioannou, Stratos Pagioumtzis e altri influenzò in modo determinante la sua formazione musicale.\n\nUn dettaglio curioso sulla discografia: sulle etichette dei dischi dell'epoca risulta scritto che suonasse il \"bouzouki\" — un errore dovuto al fatto che i responsabili delle case discografiche, durante le registrazioni ad Atene, non conoscevano né il nome né la tecnica esecutiva del bulgarí (strumento della famiglia del tambourá, simile morfologicamente al saz micrasiatico, ma con divisioni diverse sul manico). Il fatto che dal 1930 le registrazioni si tenessero nello stabilimento Columbia di Perissós rendeva inoltre difficile la presenza frequente di esecutori di provincia — da qui la sproporzione tra la ricchezza della musica cretese e la sua scarsa documentazione discografica dell'epoca.\n\nFu descritto come persona molto amabile, di statura media, con un sorriso dolcissimo e un'innata nobiltà d'animo. È annoverato a pieno titolo tra i vertici della tradizione musicale popolare urbana di Rethymno e di Creta.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/fustalieris.jpg",
       "roles": [
         "at",
         "am",
-        "ar",
-        "mu"
-      ]
+        "ar"
+      ],
+      "instr": "voce, bulgarì"
     },
     {
       "id": "p_1789198782857",
@@ -18487,7 +18466,8 @@
       "photo": "https://musicagreca.github.io/musica-greca/images/aachatzidaki.jpg",
       "roles": [
         "ar"
-      ]
+      ],
+      "instr": "voce"
     },
     {
       "id": "p_1789545743570",
@@ -19380,6 +19360,68 @@
         "ar"
       ],
       "instr": "voce"
+    },
+    {
+      "id": "p_1792490783667",
+      "name": "Κώστας Πίτσος",
+      "nameit": "Kóstas Pítsos",
+      "born": "1946, Atene",
+      "died": "",
+      "bio": "Cresciuto a Lidoriki in una famiglia di musicisti, ha iniziato a suonare il clarinetto insieme a suo padre. Successivamente si è dedicato alla chitarra folk e al liuto.\nHa fatto la sua prima apparizione professionale nel 1957, a soli 11 anni. Dal 1961 si è stabilito permanentemente ad Atene.\nCon una carriera che supera i cinquant'anni, ha partecipato a oltre 25.000 registrazioni in studio, oltre a centinaia di trasmissioni televisive e radiofoniche, diventando uno dei musicisti più registrati nella storia della musica greca.\nÈ considerato un maestro della chitarra applicata alla musica tradizionale. Il suo stile unico, l'uso innovativo dell'armonia e i suoi arrangiamenti elaborati hanno rivoluzionato il modo in cui la chitarra accompagna i canti popolari greci. Ha collaborato con i più grandi interpreti del genere e ha pubblicato importanti collezioni personali, come la celebre serie di album «Themelia kai Rizes sto Dimotiko Tragoudi» (Fondamenta e Radici nella Canzone Tradizionale).",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/pitsos.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "laouto, chitarra"
+    },
+    {
+      "id": "p_1792491458108",
+      "name": "Βραζιλιάνος",
+      "nameit": "Vraziliános",
+      "born": "Lepanto (Nafpaktos), Grecia Centrale",
+      "died": "2 maggio 2016, Lygias (funerale)",
+      "bio": "Vero nome  Vassilis Vassilaris (Βασίλης Βασιλάρης)\nVassilis Vassilaris proveniva da Lepanto (Nafpaktos), una storica città fortificata affacciata sul Golfo di Corinto, nella regione della Grecia Centrale. Questa macro-area geografica (che confina con l'Epiro a nord e il Peloponneso a sud) è una delle culle più vive e feconde della musica dimotika (la musica folk e tradizionale greca).\nIn queste province, la vita comunitaria e musicale estiva ruota totalmente attorno ai panigyria (πανηγύρια): i grandi festival all'aperto celebrati nelle piazze dei paesi in occasione delle feste patronali. Erano proprio queste feste il \"palcoscenico naturale\" di Vrazilianos.\nIl motore ritmico degli studi ad Atene\nSebbene le sue radici fossero salde nella Grecia Centrale, la sua attività professionale principale si è sviluppata negli studi di registrazione di Atene, dove la sua incredibile precisione ritmica lo ha reso il turnista più richiesto in assoluto.\nNelle locandine delle feste di paese dell'epoca d'oro, il suo pseudonimo \"Vrazilianos\" compariva fisso sotto il nome delle grandi stelle del genere (come Filio Pyrgaki). Il suo tocco sul toubeleki e sulla batteria fungeva da vero e proprio \"metronomo umano\" della band d'élite completata da Kostas Pitsos alla chitarra, lasciando un'eredità di centinaia di registrazioni che ancora oggi definiscono lo standard del folk greco moderno",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vrazilianos.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "percussioni, toumberleki, ντέφι, τουμπελέκι"
+    },
+    {
+      "id": "p_1792492775880",
+      "name": "Στάθης Κουκουλάρης",
+      "nameit": "Státhis Koukouláris",
+      "born": "1945",
+      "died": "",
+      "bio": "Nato in un villaggio dall'immensa tradizione musicale (Kinidaros), inizia a suonare il violino a soli 13 anni. Per prendere le sue prime lezioni dal maestro Stamatis Bardanis ad Apeiranthos, affrontava regolarmente ore di cammino a piedi. Apprende giovanissimo i pilastri del repertorio tradizionale, tra cui il Balo, l'Amorgiano e i canti di Costantinopoli (Politika).\n\nNel 1959 si trasferisce ad Atene. Notato per il suo immenso talento, viene ammesso al prestigioso Conservatorio di Atene sotto la guida dei maestri spagnoli Joseph ed Elena Bustindui. Gli insegnanti vedevano in lui un futuro virtuoso della musica classica, ma a causa di una progressiva atrofia del nervo ottico perde completamente la vista. Questo evento, anziché fermarlo, lo spinge a dedicarsi anima e corpo alla musica tradizionale e popolare, arrivando a suonare – come lui stesso ama dire – \"con gli occhi dell'anima\".\n\nKoukoularis è diventato il punto di riferimento assoluto per il suono delle isole dell'Egeo. Tra il 1968 e il 1976 si trasferisce temporaneamente in Australia, esibendosi con enorme successo per le folte comunità della diaspora greca. Nella sua straordinaria carriera ultra-sessantennale ha partecipato a oltre 5.000 registrazioni in studio e a più di 1.000 album. Ha collaborato con i più grandi nomi della musica tradizionale e popolare greca, tra cui Simon Karas, Anna Karabesini, la famiglia Konitopoulos e persino con giganti del genere Laïko come Stelios Kazantzidis. I suoi figli, Vangelis e Niki Koukoularis, hanno ereditato la tradizione di famiglia e sono a loro volta musicisti professionisti.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/kukularis.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "violino"
+    },
+    {
+      "id": "p_1792492992683",
+      "name": "Σταμάτης Σπανουδάκης",
+      "nameit": "Stamátis Spanoudákis",
+      "born": "11 dicembre 1948, Atene",
+      "died": "",
+      "bio": "Cresciuto ad Atene, ha iniziato studiando chitarra classica fin da bambino. Durante gli anni '60 e '70 è stato travolto dalla passione per il rock, trasferendosi prima a Parigi e poi a Londra, dove ha suonato il basso e le tastiere in diverse band dell'epoca registrando i suoi primi veri dischi. Tuttavia, il richiamo della grande tradizione orchestrale lo ha spinto a tornare alla musica classica: si è trasferito in Germania per studiare composizione al Conservatorio Statale di Würzburg sotto la guida di Bertold Hummel, per poi completare la sua formazione accademica ad Atene con Konstantinos Kydoniatis. Successivamente, si è dedicato anche allo studio specialistico della musica bizantina.\n\nTornato stabilmente in Grecia, Spanoudakis ha firmato le colonne sonore di alcuni dei film più importanti della cinematografia ellenica moderna, come Stone Years (Πέτρινα Χρόνια) e il pluripremiato Brides (Νύφες, 2004) diretto da Pantelis Voulgaris. Al contempo ha scritto testi e musiche per i più famosi cantanti pop e laïko del Paese, dominando le classifiche discografiche con canzoni che combinavano pop d'autore ed elementi orchestrali.\n\nA partire dalla metà degli anni '90, Spanoudakis ha scelto di abbandonare quasi totalmente la musica leggera per dedicarsi esclusivamente alla musica strumentale e corale di ispirazione storica, patriottica e religiosa. I suoi album monumentali (come Alexandros, Monastiri, o marbled king) fondono cori bizantini, sintetizzatori elettronici e grandi orchestre sinfoniche. Le sue imponenti esibizioni dal vivo in luoghi iconici – come l'Odeon di Erode Attico ad Atene, Pechino o la Royal Albert Hall di Londra – richiamano da decenni migliaia di spettatori.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/spanudakis.jpg",
+      "roles": [
+        "at",
+        "am",
+        "ar"
+      ],
+      "instr": "Chitarra acustica ed elettrica, basso, tastiere e sintetizzatori"
     }
   ]
 }
