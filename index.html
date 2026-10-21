@@ -1652,8 +1652,12 @@ function renderElencoCanzoni(){
   for(var i=0;i<list.length;i++){
     allItems.push({type:'song',s:list[i],sortKey:list[i].tgr||''});
     if(list[i].alias && list[i].alias.trim()){
-      var al=list[i].alias.trim();
-      allItems.push({type:'alias',s:list[i],aliasName:al,sortKey:al});
+      // più alias separati da " / " (barra con spazi) o da "|"; le virgole restano nel titolo
+      var als=list[i].alias.split(/\s+\/\s+|\s*\|\s*/);
+      for(var ai=0;ai<als.length;ai++){
+        var al=als[ai].trim();
+        if(al) allItems.push({type:'alias',s:list[i],aliasName:al,sortKey:al});
+      }
     }
   }
   allItems.sort(function(a,b){return a.sortKey.localeCompare(b.sortKey,'el');});
