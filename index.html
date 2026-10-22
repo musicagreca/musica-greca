@@ -1465,6 +1465,10 @@ function personPanelHTML(set, srchAutoreVal, type){
 }
 var dispScript='el'; // 'el' = grafia greca, 'it' = traslitterata
 function stripAccents(s){return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+// ricerca "elastica": senza accenti, senza apostrofi/segni, e con le grafie che si confondono (ω/ο, η/ι/υ/ει/οι)
+function looseG(s){return stripAccents((s||'').toLowerCase()).replace(/ς/g,'σ').replace(/[^\p{L}\p{N}]+/gu,' ').replace(/ει|οι|η|υ/g,'ι').replace(/ω/g,'ο').replace(/\s+/g,' ').trim();}
+// prima lettera vera del titolo (salta apostrofi, virgolette, parentesi)
+function firstLetter(s){var m=stripAccents(s||'').match(/\p{L}/u);return m?m[0].toUpperCase():'?';}
 function scriptToggleHTML(){
   return '<div class="script-toggle" style="display:flex;gap:6px;margin-bottom:.5rem;align-items:center">'+
     '<span style="font-size:10px;font-style:italic;color:var(--t3);background:var(--s2);padding:3px 8px;border-radius:16px">Grafia:</span>'+
@@ -1489,10 +1493,10 @@ function renderElencoCanzoni(){
   // Lettere alfabetiche
   var grLetters=[], itLetters=[];
   songs.forEach(function(s){
-    var lg=stripAccents((s.tgr||'?')[0]).toUpperCase();
+    var lg=firstLetter(s.tgr||'?');
     if(grLetters.indexOf(lg)<0) grLetters.push(lg);
-    var li=(dispTit(s))[0];
-    if(li){ li=li.toUpperCase(); if(itLetters.indexOf(li)<0) itLetters.push(li); }
+    var li=dispTit(s)?firstLetter(dispTit(s)):'';
+    if(li){ if(itLetters.indexOf(li)<0) itLetters.push(li); }
   });
   grLetters.sort(function(a,b){return a.localeCompare(b,'el');});
   itLetters.sort(function(a,b){return a.localeCompare(b,'it');});
@@ -1523,6 +1527,7 @@ function renderElencoCanzoni(){
 
   // Filtro
   var qNorm = stripAccents(q);
+  var qLoose = looseG(q);
   var list=songs.filter(function(s){
     var alias=(s.alias||'').toLowerCase();
     var matchQ = srchMode!=='titolo' || !q
@@ -1539,12 +1544,14 @@ function renderElencoCanzoni(){
       ||stripAccents((s.ch||'').toLowerCase()).indexOf(qNorm)>=0
       ||stripAccents((s.tr||'').toLowerCase()).indexOf(qNorm)>=0
       ||stripAccents((s.ti||'').toLowerCase()).indexOf(qNorm)>=0
-      ||stripAccents((s.no||'').toLowerCase()).indexOf(qNorm)>=0;
+      ||stripAccents((s.no||'').toLowerCase()).indexOf(qNorm)>=0
+      // ── stessa ricerca ma "elastica" su titolo, titolo italiano e alias ──
+      ||(qLoose && (looseG(s.tgr).indexOf(qLoose)>=0||looseG(dispTit(s)).indexOf(qLoose)>=0||looseG(s.alias).indexOf(qLoose)>=0));
     var matchG = srchMode!=='genere' || (srchGenere!==undefined && (!srchGenere || normGenereKey((s.gn||''))===srchGenere));
     var matchBal = srchMode!=='ballo' || (srchBallo!==undefined && (!srchBallo || (s.bal||'').trim()===srchBallo));
     var matchA = srchMode!=='alfabetico' || !srchAlpha || (
-      stripAccents((s.tgr||'')[0]).toUpperCase()===srchAlpha||
-      ((dispTit(s))[0]||'').toUpperCase()===srchAlpha
+      firstLetter(s.tgr)===srchAlpha||
+      (dispTit(s)?firstLetter(dispTit(s)):'')===srchAlpha
     );
     var matchAM = srchMode!=='autore-musica' || (!!srchAutoreMusica && (s.am||'').trim()===srchAutoreMusica);
     var matchAT = srchMode!=='autore-testo' || (!!srchAutoreTesto && (s.at||'').trim()===srchAutoreTesto);
@@ -1660,7 +1667,7 @@ function renderElencoCanzoni(){
       }
     }
   }
-  allItems.sort(function(a,b){return a.sortKey.localeCompare(b.sortKey,'el');});
+  allItems.sort(function(a,b){return looseG(a.sortKey).localeCompare(looseG(b.sortKey),'el');});
 
   var h=''; var num=0;
   for(var i=0;i<allItems.length;i++){
