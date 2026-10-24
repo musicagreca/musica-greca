@@ -1,8 +1,201 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-22T05:25:10.314Z",
+  "exportedAt": "2026-10-24T05:36:23.417Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1792820154990",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-10-24",
+      "tgr": "Όχι δεν πουλάμε",
+      "tit": "Óchi den pulàme",
+      "alias": "",
+      "at": "Θωμάς Μπακαλάκος",
+      "am": "Θωμάς Μπακαλάκος",
+      "yr": "1975",
+      "ar": "Βασίλης Παπακωνσταντίνου",
+      "lb": "",
+      "gn": "Entechno",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=eu1JhRWUvO4",
+      "li": "",
+      "ch": "MIm      FAm         MIm\n \nMIm\nΠάει καλά φέτος η χρονιά, πάει καλά\nLA                 MIm\nπροκόψαν όλα τα σπαρτά\nMIm\nΠάει καλά φέτος η χρονιά, πάει καλά\nLA                MIm\nπροκόψαν όλα τα σπαρτά\n \nMIm\nΘα 'ρθουν πάλι τσούρμο οι μεσάζοντες\nMIm                      LAm\nΘα κερδοσκοπήσουν οι μεσάζοντες\nLAm                   MIm             LAm \nκαι εμείς τα ίδια θα 'μαστε άλλη μια φορά\nLAm                    MIm    \nμας παίρνουν τη σοδειά φτηνά \nMIm \nΌχι δεν πουλάμε Όχι δεν πουλάμε \nMIm \nΌχι δεν πουλάμε Όχι δεν πουλάμε\n\nMIm      FAm         MIm\n\nMIm \nΤα παιδιά κάνουνε χαρά, τα παιδιά\nLA                 MIm\nβλέπουνε μπόλικη σοδειά \nMIm \nΤα παιδιά κάνουνε χαρά, τα παιδιά\nLA                 MIm\nβλέπουνε μπόλικη σοδειά \n \nMIm\nΘα 'ρθουν πάλι τσούρμο οι μεσάζοντες\nMIm                      LAm\nΘα κερδοσκοπήσουν οι μεσάζοντες\nLAm                   MIm             LAm \nκαι εμείς τα ίδια θα 'μαστε άλλη μια φορά\nLAm                    MIm    \nμας παίρνουν τη σοδειά φτηνά \nMIm \nΌχι δεν πουλάμε Όχι δεν πουλάμε \nMIm \nΌχι δεν πουλάμε Όχι δεν πουλάμε",
+      "tr": "Óchi den pulàme\n\nPái kalá fétos i chroniá, pái kalá\nprokópsan óla ta spartá\nPái kalá fétos i chroniá, pái kalá\nprokópsan óla ta spartá\n\nTha 'rthun páli tsúrmo i mesázondes\nTha kerdoskopísun i mesázondes\nkie emís ta ídia tha 'maste álli mia forá\nmas pérnun ti sodiá ftiná\n\nÓchi den pulàme òchi den pulàme \nÓchi den pulàme òchi den pulàme \n\nTa pediá kánune chará, ta pediá\nvlépune bóliki sodiá\nTa pediá kánune chará, ta pediá\nvlépune bóliki sodiá\n\nTha 'rthun páli tsúrmo i mesázondes\nTha kerdoskopísun i mesázondes\nkie emís ta ídia tha 'maste álli mia forá\nmas pérnun ti sodiá ftiná\n\nÓchi den pulàme òchi den pulàme \nÓchi den pulàme òchi den pulàme",
+      "ti": "No, non vendiamo\n\nQuest'anno va bene l'annata, va bene\nsono venuti su tutti i seminati \n\nVerranno di nuovo in massa gli intermediari¹ ²\nspeculeranno³ gli intermediari\ne noi saremo gli stessi di sempre, ancora una volta⁴\nci prendono il raccolto⁵ a poco prezzo\n\nNo, non vendiamo \n\nI bambini fanno festa, i bambini\nvedono un raccolto abbondante \n\n\nNote\n\nτσούρμο (tsúrmo): parola colloquiale per un gruppo numeroso e un po' chiassoso, una \"banda\" o \"frotta\". Qui ha un tono sprezzante.\nμεσάζοντες (mesázondes): gli intermediari, cioè i commercianti che si mettono in mezzo tra chi produce e chi compra. Comprano dai contadini a prezzi bassi e rivendono a prezzi più alti, tenendosi il guadagno.\nκερδοσκοπώ (kerdoskopó): trarre profitto speculando, cioè guadagnare sul lavoro altrui senza produrre nulla.\nθα 'μαστε: forma contratta di θα είμαστε («saremo»), tipica del parlato e del canto.\nσοδειά (sodiá): il raccolto dell'anno, il frutto del lavoro dei campi. Qui è anche il motivo del contrasto: l'annata è buona, ma i contadini rischiano di non guadagnarci, perché il prezzo lo fanno gli intermediari.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1792746426974",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-10-23",
+      "tgr": "Ώρες με θρέφει ο Λουλάς",
+      "tit": "Ores me threfi o lulas",
+      "alias": "",
+      "at": "Μάρκος Βαμβακάρης",
+      "am": "Μάρκος Βαμβακάρης",
+      "yr": "1933",
+      "ar": "Μάρκος Βαμβακάρης",
+      "lb": "",
+      "gn": "Rembetico",
+      "zona": "",
+      "dr": "",
+      "bal": "Chasàpiko",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=ZD30LD08jKM&list=RDZD30LD08jKM&start_radio=1",
+      "li": "",
+      "ch": "RE\nΏρες με θρέφει ο λουλάς Ώρες αδυνατάω,\nRE\nΏρες με θρέφει ο λουλάς Ώρες αδυνατάω,\nRE\nΏρες με ρίχνει σε νταλκά κι ανθρώπου δε μιλάω.\nRE                             LA          RE\nΏρες με ρίχνει σε νταλκά κι ανθρώπου δε μιλάω. \n\n\nRE\nΓυρίζει ο νους μου εδώ κι εκεί κι όλος ο λογισμός μου\nRE\nΓυρίζει ο νους μου εδώ κι εκεί κι όλος ο λογισμός μου\nRE\nκι αισθάνομαι πώς μια στιγμή θα 'ρθει ο θάνατός μου.\nRE                             LA          RE\nκι αισθάνομαι πώς μια στιγμή θα 'ρθει ο θάνατός μου.\n \nRE\nΔεν θα μπορέσω ούτε στιγμής ποτές να τα ξεχάσω,\nRE\nΔεν θα μπορέσω ούτε στιγμής ποτές να τα ξεχάσω,\nRE\nστον κόσμο που γεννήθηκα ποτές να ησυχάσω\nRE                        LA          RE\nστον κόσμο που γεννήθηκα ποτές να ησυχάσω.\n \nRE\nΡεμπελεμένη μου ζωή πάψε πια για τα μένα\nRE\nΡεμπελεμένη μου ζωή πάψε πια για τα μένα\nRE\nΤι σου 'κανα και μου 'κανες τα μάτια βουρκωμένα\nRE                             LA          RE\nΤι σου 'κανα και μου 'κανες τα μάτια βουρκωμένα",
+      "tr": "Óres me thréfi o lulás\n\nÓres me thréfi o lulás\nÓres adinatáo,\nÓres me ríchni se ndalká\nki anthrópu de miláo.\n\nGhirízi o nus mu edó ki ekí\nki ólos o loghismós mu\nki esthánome pos mia stigmí\ntha 'rthi o thánatós mu.\n\nDen tha boréso úte stigmís\npotés na ta ksecháso,\nston kósmo pu ghienníthika\npotés na isicháso.\n\nRembeleméni mu zoí\npápse pia ghia ta ména\nTi su 'kana kie mu 'kanes\nta mátia vurkoména",
+      "ti": "A volte il narghilè mi nutre\n\nA volte il narghilè¹ mi nutre,\na volte mi fa deperire,\na volte mi getta nella malinconia²\ne non rivolgo parola a nessuno.\n\nLa mente mi gira qua e là,\ne così tutti i miei pensieri,\ne sento che da un momento all'altro\narriverà la mia morte.\n\nNon riuscirò neanche per un istante,\nmai³, a dimenticare queste cose,\nné, nel mondo in cui sono nato,\na trovare mai pace.\n\nMia vita sregolata⁴,\nsmettila ormai con me⁵.\nChe cosa ti ho fatto, che mi hai reso\ngli occhi gonfi di lacrime⁶?\n\nNote\n\nλουλάς: in origine è il fornelletto del narghilè, dove si mette il tabacco, o più spesso l'hashish. Qui indica il narghilè stesso e il fumo di hashish, che nel rebetiko è legato al mondo dei tekés, i locali dove si fumava. Θρέφει è la forma popolare di τρέφει, «nutre».\nνταλκάς: viene dal turco dalga, «onda». Vuol dire malinconia, struggimento, spesso per amore. È una parola tipica del rebetiko.\nποτές: forma popolare di ποτέ, «mai».\nρεμπελεμένη: da ρεμπέλης, «scansafatiche, scapestrato», che a sua volta viene dall'italiano «ribelle». Una ρεμπελεμένη ζωή è una vita disordinata e dissoluta.\nγια τα μένα: forma popolare e affettiva di για μένα, «per me».\nβουρκωμένα: detto di occhi pieni di lacrime che stanno per scendere. Viene da βούρκος, «fango, pantano»: gli occhi sono come velati, torbidi.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1792732087608",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-10-23",
+      "tgr": "Είν' όλα μαύρα",
+      "tit": "In'òla màvra",
+      "alias": "",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1953",
+      "ar": "Στέλιος Καζαντζίδης, Ρένα Στάμου",
+      "lb": "His Master's Voice (codice AO 5112)",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "Zeibekiko",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=qcWkuuIdzgk&list=RDqcWkuuIdzgk&start_radio=1",
+      "li": "",
+      "ch": "MIm           SOL      MIm LAm          SOL   MIm\nΤι να μου κάνει το πιοτό σαν η καρδιά πονά....ει\nLAm\nΑπ' ότου σ' έχασα και πια δεν σε ξανάβρα   \nMIm         SOL  REm         MIm\nΕίναι όλα μαύρα είναι όλα μαύρα          \nLAm\nΑπ' ότου σ' έχασα και πια δεν σε ξανάβρα   \nMIm         SOL  REm         MIm\nΕίναι όλα μαύρα είναι όλα μαύρα   \n\nMIm           SOL      MIm LAm          SOL   MIm\nΤι να τα κάνω τα λεφτά και το γλυκό μεθύσι\nLAm\nΑφού μου άναψες εσύ φωτιά και λαύρα  \nMIm         SOL  REm         MIm\nΕίναι όλα μαύρα είναι όλα μαύρα     \nLAm\nΑφού μου άναψες εσύ φωτιά και λαύρα  \nMIm         SOL  REm         MIm\nΕίναι όλα μαύρα είναι όλα μαύρα   \n\nMIm           SOL      MIm LAm          SOL   MIm\nΤι να την κάνω την ζωή χωρίς εσένα τώρα\nLAm\nΑφού με πρόδωσες και πήγες μ' άλλον άντρα   \nMIm         SOL  REm         MIm\nΕίναι όλα μαύρα είναι όλα μαύρα  \nLAm\nΑφού με πρόδωσες και πήγες μ' άλλον άντρα   \nMIm         SOL  REm         MIm\nΕίναι όλα μαύρα είναι όλα μαύρα",
+      "tr": "In'òla màvra\n\nTi na mu káni to piotò san i kardiá ponái\nAp' ótu s' échasa kie pia den se ksanávra\nÍne óla mávra, íne óla mávra\n\nTi na ta káno ta leftá kie to glikó methísi\nAfu mu ánapses esí fotiá kie lávra\nÍne óla mávra, íne óla mávra\n\nTi na tin káno tin zoí chorís eséna tóra\nAfu me pródoses kie píghies m' állon ándra\nÍne óla mávra, íne óla mávra",
+      "ti": "È tutto nero\n\nChe me ne faccio¹ del bere² quando il cuore fa male\nDa quando ti ho persa e non ti ritrovo più\nÈ tutto nero³, è tutto nero\n\nChe me ne faccio dei soldi e della dolce ebbrezza⁴\nDato che sei stata tu ad accendermi fuoco e vampa⁵\nÈ tutto nero, è tutto nero\n\nChe me ne faccio della vita senza di te adesso\nDato che mi hai tradito⁶ e sei andata con un altro uomo\nÈ tutto nero, è tutto nero\n\nNote\n\nΤι να μου κάνει / Τι να τα κάνω: letteralmente «che cosa ne faccio». È una domanda retorica molto comune in greco per dire «a che serve?» o «non me ne importa niente».\nΠιοτό: il bere, l'alcol; è una parola colloquiale per il vino o il liquore che si beve per dimenticare.\nΕίναι όλα μαύρα: «è tutto nero». Come in italiano, vuol dire che tutto sembra buio e senza speranza.\nΓλυκό μεθύσι: la «dolce ebbrezza», cioè la leggerezza piacevole che dà il vino.\nΦωτιά και λαύρα: «fuoco e vampa». La λαύρα è un'ondata di caldo bruciante; l'espressione dice che l'amore, o il dolore dell'amore, brucia dentro.\nΠρόδωσες: dal verbo προδίδω, «tradire»: qui vuol dire che la persona amata lo ha lasciato per un altro.",
+      "no": "",
+      "balvid": false
+    },
+    {
+      "id": "s_1792730628411",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ρένα Στέλλα, Τάκης Καραολής",
+          "year": "1966",
+          "note": "film comico del 1966 \"Fifis o aktypiros\", la canzone viene eseguita dal vivo in una scena di taverna da Rena Stella e Takis Karaolis, accompagnati al bouzouki sul set dallo stesso compositore Giorgos Mitsakis.",
+          "link": "https://www.youtube.com/watch?v=e-zabMZL3pk&list=RDe-zabMZL3pk&start_radio=1",
+          "vid": false
+        },
+        {
+          "who": "Μάριον Σίβα",
+          "year": "1964",
+          "note": "l'attrice Marion Siva canta il brano con il titolo \"Thanasis\"",
+          "link": "https://www.youtube.com/watch?v=0Sud_R-3Yhg&list=RD0Sud_R-3Yhg&start_radio=1",
+          "vid": false
+        }
+      ],
+      "date": "2026-10-23",
+      "tgr": "Το δικό μου πάπλωμα",
+      "tit": "To dikò mu pàploma",
+      "alias": "Το πάπλωμα / Στην καλύβα την δική μου",
+      "at": "Γιώργος Μητσάκης",
+      "am": "Γιώργος Μητσάκης",
+      "yr": "1965",
+      "ar": "Στέλιος Καζαντζίδης, Μαρινέλλα",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "kalamatianòs",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm                        DO               REm\nΗ καρδιά μου είναι μεγάλη, η καλύβα μου μικρή\nFA                          DO              FA\nΑπό σένα κι από μένα άλλος δεν χωράει να μπει\n\nSOLm        REm  DO         REm SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nREm    DO         REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα\n\nREm                        DO               REm\nΤ' άλογο του καβαλάρη ξέρει ένα αφεντικό\nFA                          DO              FA\nΣτην καλύβα την δική μου νοικοκύρης είμαι 'γω\n\nSOLm        REm  DO         REm SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nREm    DO         REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα\n\nREm                        DO               REm\nΤο τραπέζι είναι στρωμένο για τα μάτια π' αγαπώ\nFA                          DO              FA\nκαι το πάπλωμα θα φτάσει να σκεπάσει και τους δυο\n\nSOLm        REm  DO         REm SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nREm    DO         REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα   \nSOLm        REm  DO         REm SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nREm    DO         REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα",
+      "tr": "To dikó mu páploma\n\nI kardiá mu íne megáli, i kalíva mu mikrí\nApó séna ki apó ména állos den chorái na bi\n\nTo dikó mu páploma íne ghia dio átoma\nkie den pérni báloma to dikó mu páploma\n\nT'álogo tu kavalári kséri éna afendikó\nStin kalíva tin dikí mu nikokíris íme 'go\n\nTo dikó mu páploma íne ghia dio átoma\nkie den pérni báloma to dikó mu páploma\n\nTo trapézi íne stroméno ghia ta mátia p' agapó\nkie to páploma tha ftási na skepási kie tus dio\n\nTo dikó mu páploma íne ghia dio átoma\nkie den pérni báloma to dikó mu páploma",
+      "ti": "La mia coperta\n\nIl mio cuore è grande, la mia capanna¹ è piccola\nOltre a te e a me, non c'è posto perché entri qualcun altro\n\nLa mia coperta² è per due persone\ne la mia coperta non accetta toppe³\n\nIl cavallo del cavaliere conosce un solo padrone⁴\nNella mia capanna il padrone di casa⁵ sono io\n\nLa tavola è apparecchiata per gli occhi che amo⁶\ne la coperta basterà a coprire tutti e due\n\nNote\n\nΚαλύβα: capanna, una casa povera e piccola. Qui è il contrario del cuore: la casa è piccola, ma c'è posto per due.\nΠάπλωμα: la coperta imbottita (trapunta o piumone) che si usa sul letto.\nΔεν παίρνει μπάλωμα: letteralmente «non prende toppa». Una toppa serve a riparare un buco: dire che la coperta non ne ha bisogno vuol dire che è intera e perfetta, e che nessun terzo può entrarci.\nΞέρει ένα αφεντικό: «conosce un solo padrone». È un modo per parlare di fedeltà: come il cavallo è legato a un solo padrone, così chi canta è legato a una sola persona.\nΝοικοκύρης: chi comanda e si occupa della casa, il padrone di casa.\nΤα μάτια π' αγαπώ: «gli occhi che amo». È un modo poetico per dire la persona amata (qui sta per «per la persona che amo»).",
+      "no": "• La versione cinematografica \"fantasma\" (1964): Prima che il testo definitivo diventasse famoso nel 1965, Giorgos Mitsakis aveva originariamente usato la stessa melodia nel 1964 per il film \"Exo ftochia kai kali kardia\". In quella pellicola, l'attrice Marion Siva cantava il brano con il titolo \"Thanasis\" e con un testo completamente diverso.\n• Il cambio di prospettiva (\"Sulla tua capanna\"): Esiste un'ulteriore rarità discografica stampata sempre nel 1965 (Odeon DSOG-3173) dal titolo \"Sti kalyva ti diki sou\" (Nella tua capanna). Sebbene la musica fosse identica, le parole differivano a tal punto da renderla, di fatto, un'altra traccia parallela.\n• Il cameo del Maestro: Nel film comico del 1966 \"Fifis o aktypiros\", la canzone viene eseguita dal vivo in una scena di taverna da Rena Stella e Takis Karaolis, accompagnati al bouzouki sul set dallo stesso compositore Giorgos Mitsakis.",
+      "balvid": false
+    },
+    {
+      "id": "s_1792654233916",
+      "offsets": {},
+      "executions": [],
+      "date": "2026-10-22",
+      "tgr": "Κοτσάκια Νάξου",
+      "tit": "Kotsàkia di Naksos",
+      "alias": "Κοτσάκια",
+      "at": "",
+      "am": "",
+      "yr": "",
+      "ar": "",
+      "lb": "",
+      "gn": "",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "https://www.youtube.com/watch?v=jgnNgaIIaEY&list=RDjgnNgaIIaEY&start_radio=1",
+      "li": "",
+      "ch": "",
+      "tr": "",
+      "ti": "",
+      "no": "Δόρα Στράτου 2013",
+      "balvid": true
+    },
+    {
+      "id": "s_1792649528556",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "Ιωάννα Γεωργακοπούλου, Πρόδρομος Τσαουσάκης",
+          "year": "1948",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=WxEh8LvFHlY&list=RDWxEh8LvFHlY&start_radio=1",
+          "vid": false
+        },
+        {
+          "who": "Στέλιος Καζαντζίδης",
+          "year": "1989",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=t7nKNrnj0tc&list=RDt7nKNrnj0tc&start_radio=1",
+          "vid": false
+        },
+        {
+          "who": "Βασίλης Τσιτσάνης",
+          "year": "1983",
+          "note": "live Iraklion",
+          "link": "https://www.youtube.com/watch?v=znYES8JxNaI&list=RDznYES8JxNaI&start_radio=1",
+          "vid": false
+        }
+      ],
+      "date": "2026-10-22",
+      "tgr": "Γιατί με ξύπνησες πρωί",
+      "tit": "Ghiatì me ksìpnises proì",
+      "alias": "",
+      "at": "Βασίλης Τσιτσάνης",
+      "am": "Βασίλης Τσιτσάνης",
+      "yr": "1948",
+      "ar": "",
+      "lb": "",
+      "gn": "Laikà",
+      "zona": "",
+      "dr": "",
+      "bal": "",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "REm            LA    REm\nΓιατί με ξύπνησες πρωί\nLA#      LA          REm\nμέσα στον ύπνο τον βαρύ\nDO         FA     RE    SOLm LA# RE SOLm\nΓιατί την πόρτα μου χτυπάς          \nDO                    FA  SOLm LA  LA#\nτι θέλεις τώρα, τι ζητάς, ω, ω, ω   \nSOLm       LA          REm\nΔεν θέλω πια να μ' αγαπάς  \nDO         FA     RE    SOLm LA# RE SOLm\nΓιατί την πόρτα μου χτυπάς          \nDO                    FA  SOLm LA  LA#\nτι θέλεις τώρα, τι ζητάς, ω, ω, ω   \nSOLm       LA          REm\nΔεν θέλω πια να μ' αγαπάς         \n\nREm            LA    REm\nΝα με γελάς κουράστηκα¹\nLA#      LA          REm\nβαριά σε καταράστηκα²\nDO         FA     RE    SOLm LA# RE SOLm\nΑπ' τη ζωή μου πέρασες              \nDO                    FA  SOLm LA  LA#\nμε τσάκισες³, με γέρασες, ω, ω, ω   \nSOLm       LA          REm\nΜε τσάκισες, με γέρασες             \nDO         FA     RE    SOLm LA# RE SOLm\nΑπ' τη ζωή μου πέρασες              \nDO                    FA  SOLm LA  LA#\nμε τσάκισες³, με γέρασες, ω, ω, ω   \nSOLm       LA          REm\nΜε τσάκισες, με γέρασες \n\nREm            LA    REm\nΣτον ύπνο είχα βυθιστεί\nLA#      LA          REm\nκαι όλα είχαν ξεχαστεί\nDO         FA     RE    SOLm LA# RE SOLm\nΓιατί την πόρτα μου χτυπάς          \nDO                    FA  SOLm LA  LA#\nπρωί-πρωί⁴ και με ξυπνάς, ω, ω, ω  \nSOLm       LA          REm\nΔεν θέλω πια να μ' αγαπάς  \nDO         FA     RE    SOLm LA# RE SOLm\nΓιατί την πόρτα μου χτυπάς          \nDO                    FA  SOLm LA  LA#\nπρωί-πρωί⁴ και με ξυπνάς, ω, ω, ω  \nSOLm       LA          REm\nΔεν θέλω πια να μ' αγαπάς",
+      "tr": "Ghiatì me ksìpnises proì\n\nGhiatí me ksípnises proí\nmésa ston ípno ton varí\nGhiatí tin pórta mu chtipás\nti thélis tóra, ti zitás, o, o, o\nDen thélo pia na m' agapás\n\nNa me ghielás kurástika\nvariá se katarástika\nAp' ti zoí mu pérases\nme tsákises, me ghiérases, o, o, o\nMe tsákises, me ghiérases\n\nSton ípno íchа vithistí\nkie óla íchan ksechastí\nGhiatí tin pórta mu chtipás\nproí-proí kie me ksipnás, o, o, o\nDen thélo pia na m' agapás",
+      "ti": "Perché mi hai svegliato presto\n\nPerché mi hai svegliato presto,\ndentro il mio sonno pesante?\nPerché bussi alla mia porta?\nCosa vuoi adesso, cosa chiedi, oh, oh, oh\nNon voglio più che tu mi ami.\n\nSono stanco/a di essere preso/a in giro,\nti ho maledetto/a con tutta la forza.\nSei passato/a nella mia vita,\nmi hai spezzato/a, mi hai fatto invecchiare, oh, oh, oh\nMi hai spezzato/a, mi hai fatto invecchiare.\n\nEro sprofondato/a nel sonno\ne tutto era stato dimenticato.\nPerché bussi alla mia porta\ndi primo mattino e mi svegli, oh, oh, oh\nNon voglio più che tu mi ami.\n\nNote\n\n«Να με γελάς»: qui il verbo γελάω non vuol dire «ridere» ma «prendere in giro, ingannare».\n«Βαριά» significa letteralmente «pesantemente»: rafforza la maledizione, come dire «ti ho maledetto sul serio».\n«Τσακίζω» vuol dire spezzare, schiantare; in senso figurato, distruggere una persona.\n«Πρωί-πρωί»: la ripetizione indica «prestissimo, appena fa giorno».\nIn greco i verbi non indicano il genere di chi parla, per questo ho scritto «stanco/a», «preso/a» e così via.",
+      "no": "",
+      "balvid": false
+    },
     {
       "id": "s_1792573602367",
       "offsets": {},
@@ -75,24 +268,24 @@
       "offsets": {},
       "executions": [
         {
-          "who": "Μάρκος Βαμβακάρης",
-          "year": "1940",
-          "note": "",
-          "link": "https://www.youtube.com/watch?v=rAdqi2MOoH4&list=RDrAdqi2MOoH4&start_radio=1",
-          "vid": false
-        },
-        {
           "who": "Γρηγόρης Μπιθικώτσης",
           "year": "1960",
           "note": "",
           "link": "https://www.youtube.com/watch?v=DWbVo8Utg08&list=RDDWbVo8Utg08&start_radio=1",
+          "vid": false
+        },
+        {
+          "who": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
+          "year": "1940",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=rAdqi2MOoH4&list=RDrAdqi2MOoH4&start_radio=1",
           "vid": false
         }
       ],
       "date": "2026-10-21",
       "tgr": "Τα δυο σου χέρια πήρανε",
       "tit": "Ta dio su chièria pìrane",
-      "alias": "Οι βεργούλες",
+      "alias": "Οι βεργούλες / Βεργούλες",
       "at": "Μάρκος Βαμβακάρης",
       "am": "Μάρκος Βαμβακάρης",
       "yr": "1940",
@@ -159,7 +352,7 @@
       "date": "2026-10-03",
       "tgr": "Ο Καϊξής",
       "tit": "O Kaïksís",
-      "alias": "",
+      "alias": "Καϊξής",
       "at": "Γιώργος Φωτίδας",
       "am": "Απόστολος Χατζηχρήστος, Μάρκος Βαμβακάρης",
       "yr": "1948",
@@ -976,7 +1169,7 @@
       "date": "2026-09-21",
       "tgr": "Μπάτης ο δερβίσης",
       "tit": "Bàtis o dervìsis",
-      "alias": "",
+      "alias": "Ο Μπάτης ο δερβίσης",
       "at": "Γιώργος Μπάτης",
       "am": "Γιώργος Μπάτης",
       "yr": "1932",
@@ -1800,7 +1993,7 @@
       "date": "2026-09-20",
       "tgr": "Δεν ξαναπαίζω ζάρια πια",
       "tit": "Den ksanapèzo zària pia",
-      "alias": "",
+      "alias": "Δεν ξαναπαίζω ζάρια",
       "at": "Κώστας Φραγκούλης",
       "am": "Βαγγέλης Περπινιάδης",
       "yr": "1960",
@@ -2301,7 +2494,7 @@
       "date": "2026-09-17",
       "tgr": "Κι αν έσβησε σαν ίσκιος",
       "tit": "Ki an esvise san iskios",
-      "alias": "",
+      "alias": "Κι αν έσβησε",
       "at": "Κώστας Καρυωτάκης",
       "am": "Λουκάς Θάνος",
       "yr": "1976",
@@ -2625,7 +2818,7 @@
       "date": "2026-09-16",
       "tgr": "Τα λόγια και τα χρόνια",
       "tit": "Ta Lòghia Ke Ta chrònia Ta chamèna",
-      "alias": "",
+      "alias": "Τα λόγια και τα χρόνια τα χαμένα",
       "at": "Μάνος Ελευθερίου",
       "am": "Γιάννης Μαρκόπουλος",
       "yr": "1974",
@@ -2926,7 +3119,7 @@
       "date": "2026-09-14",
       "tgr": "Σε ψηλό βουνό",
       "tit": "Se psiló vounó",
-      "alias": "Ο αϊτός",
+      "alias": "Ο αϊτός / Ψηλό βουνό / Αητός",
       "at": "tradizionale",
       "am": "tradizionale",
       "yr": "tradizionale",
@@ -3057,47 +3250,6 @@
       "tr": "Andromèda\n\nÁnde, mes tis ghis to piroméno kéndro\nánde, dio puliá filiúnde s'éna déndro\nÁnde, péfti láva láva ap' ta filiá tus\nánde, kie ftérá apolithoména ap' ta kormiá tus\n\nÁnde, ki makriá, makriá stin Andromeda\nánde, pínun tsípuro ke tron lakérda\nánde, káti ónda períerga ki oréa\nánde, pu 'ne móna ke psáchnun ghia paréa\n\nÁnde, kei psilá stin ákarpi Melúna\nánde, fítrose, fítrose mia paparúna\nánde, pu 'chi stóma, stóma ke dangáni\nánde, ki ólo léi pos den to ksanakáni\n\nÁnde, kei vathiá, vathiá sta sothiká mu\nánde, káti ghínete kirá mu\nánde, chília áloga tyflá ghirízun\nánde, éksodo zitán ke m'alonízun\n\nÁnde do simá, kondá dio métra váthos\nánde, len pos filakízune to páthos\nánde, ríchnun chóma, me lulúdia rénun\nánde ke tharrún, tharrún pos ksemberdévun",
       "ti": "Andròmeda\n\nDai, nel centro infuocato della terra\ndai, due uccelli si baciano su un albero\nDai, cade lava lava dai loro baci\ndai, e piume pietrificate dai loro corpi\n\nDai, e lontano, lontano su Andromeda¹\ndai, bevono tsipouro² e mangiano lakerda³\ndai, certi esseri strani e belli\ndai, che sono soli e cercano compagnia\n\nDai, lassù nell'arida Meluna⁴\ndai, è spuntato, è spuntato un papavero\ndai, che ha bocca, bocca e morde\ndai, e dice sempre che non lo rifarà più\n\nDai, laggiù in fondo, in fondo alle mie viscere\ndai, sta succedendo qualcosa, signora mia\ndai, mille cavalli ciechi girano\ndai, chiedono di uscire e mi calpestano\n\nDai, qui vicino, a due metri di profondità\ndai, dicono che imprigionano la passione\ndai, gettano terra, la cospargono di fiori\ndai e credono, credono di essersene sbarazzati\n\n¹ Ανδρομέδα (Andromeda) è qui usata come immagine di un luogo lontanissimo, quasi fiabesco — non un riferimento mitologico diretto ma un modo poetico per dire \"lontano tra le stelle\".\n\n² Τσίπουρο (tsipouro) è un distillato tradizionale greco simile alla grappa, ottenuto dalle vinacce.\n\n³ Λακέρδα (lakerda) è un piatto tradizionale a base di tonno o palamita salata e affumicata, tipico degli antipasti (meze) da accompagnare con ouzo o tsipouro.\n\n⁴ Μελούνα (Meluna) è un valico montano tra Tessaglia e Macedonia, in Grecia — qui probabilmente usato come immagine di un luogo brullo e sterile (\"άκαρπη\" = infruttuosa).",
       "no": "Per un periodo, alle serate live si avvicinava gente che sembrava interessata a tutt'altro rispetto alla musica, dicendogli frasi tipo \"Thanasi, sappiamo cosa nascondi davvero in quel testo\". Anni dopo, a Larissa, un vicino di casa gli disse: \"Vieni a vedere, ti citano in un libro!\" — si trattava di un libro sulle presunte origini aliene dei greci, secondo cui i greci sarebbero extraterrestri arrivati proprio dalla galassia di Andromeda — con tanto di nota a piè di pagina che rimandava proprio ad \"ascoltare la canzone Andromeda di Thanasis Papakonstantinou\" come fonte di approfondimento sull'argomento!",
-      "balvid": false
-    },
-    {
-      "id": "s_1789144443041",
-      "offsets": {},
-      "executions": [
-        {
-          "who": "Μάρκος Βαμβακάρης, Απόστολος Χατζηχρήστος",
-          "year": "1940",
-          "note": "",
-          "link": "https://www.youtube.com/watch?v=rAdqi2MOoH4",
-          "vid": false
-        },
-        {
-          "who": "Γρηγόρης Μπιθικώτσης",
-          "year": "1959",
-          "note": "",
-          "link": "https://www.youtube.com/watch?v=LS9pcP5rGYE",
-          "vid": false
-        }
-      ],
-      "date": "2026-09-11",
-      "tgr": "Τα δυο σου χέρια πήρανε",
-      "tit": "Ta diò su chièria pìrane",
-      "alias": "Βεργούλες",
-      "at": "Μάρκος Βαμβακάρης",
-      "am": "Μάρκος Βαμβακάρης",
-      "yr": "1940",
-      "ar": "",
-      "lb": "",
-      "gn": "Rembetico",
-      "zona": "",
-      "dr": "",
-      "bal": "Aptaliko",
-      "balgr": "",
-      "ll": "",
-      "li": "",
-      "ch": "REm\nΤα δυο σου χέρια πήρανε\nREm\nβεργούλες και με δείρανε\n  FA         DO       FA\nΒεργούλες και με δείρανε\nDO    LA           REm\nκαι την χαρά μου πήρανε\n\nREm\nΤα χέρια σου με κάψανε\nREm\nπου άλλον αγκαλιάσανε\n  FA         DO       FA\nΠου άλλον αγκαλιάσανε\nDO    LA           REm\nκαι δεν με λογαριάσανε\n\nREm\nM' αυτά τα χέρια σου τα δυο\nREm\nσκάψε την γης βαθιά να μπω\n  FA         DO       FA\nΣκάψε την γης βαθιά να μπω\nDO    LA           REm\nνα μην σε βλέπω και πονώ",
-      "tr": "Ta diò su chièria pìrane\n\nTa dio su chiéria pírane\nvergúles kie me dírane\nVergúles kie me dírane\nkie tin chará mu pírane\n\nTa chiéria su me kápsane\npu állon angaliásane\nPu állon angaliásane\nkie den me loghariásane\n\nM' aftá ta chiéria su ta dio\nskápse tin ghis vathiá na bo\nSkápse tin ghis vathiá na bo\nna min se vlépo kie ponó",
-      "ti": "Le tue due mani hanno preso\n\nLe tue due mani hanno preso\ndelle verghette e mi hanno picchiato\nVerghette e mi hanno picchiato\ne mi hanno portato via la gioia\n\nLe tue mani mi hanno bruciato\nperché ne hanno abbracciato un altro\nPerché ne hanno abbracciato un altro\ne non mi hanno considerato\n\nCon queste tue due mani\nscava la terra profonda perché io ci entri\nScava la terra profonda perché io ci entri\nper non vederti più e soffrire\n\nNote di traduzione\n\n\"βεργούλες\" — diminutivo di \"βέργα\" (verga/bastoncino sottile), \"verghette\": immagine che paragona il dolore causato dalle mani dell'amata a un castigo fisico con delle bacchette, metafora del dolore emotivo del tradimento reso fisico e concreto.\n\n\"Τα χέρια σου με κάψανε\" — \"le tue mani mi hanno bruciato\": ancora un'immagine di dolore fisico (il bruciore) per esprimere la sofferenza causata dal fatto che le stesse mani un tempo affettuose ora abbracciano un'altra persona.\n\n\"και δεν με λογαριάσανε\" — \"e non mi hanno considerato/tenuto in conto\": espressione colloquiale per dire che non si è stati minimamente presi in considerazione nei sentimenti o nelle aspettative, sottolineando il senso di abbandono e indifferenza subito.\n\n\"σκάψε την γης βαθιά να μπω\" — \"scava la terra profonda perché io ci entri\": immagine iperbolica di disperazione estrema, tipica della canzone d'amore greca (vedi note precedenti su espressioni simili di \"morte per amore\"), dove l'unico modo per sfuggire al dolore della vista dell'amata con un altro è sparire sottoterra, in un gesto di resa totale al dolore.",
-      "no": "",
       "balvid": false
     },
     {
@@ -3338,7 +3490,7 @@
       "date": "2026-09-11",
       "tgr": "Χίλια Μύρια Κύματα Μακρυά Τ' Αϊβαλί",
       "tit": "Chìlia mìria kìmata makrià t'Aivalì",
-      "alias": "",
+      "alias": "Χίλια μύρια κύματα",
       "at": "Κ.Χ. Μύρης",
       "am": "Γιάννης Μαρκόπουλος",
       "yr": "1972",
@@ -3412,7 +3564,7 @@
       "date": "2026-09-11",
       "tgr": "Το Καφενείον Η Ελλάς",
       "tit": "To kafenìon I Ellas",
-      "alias": "1950",
+      "alias": "1950 / Καφενείον η Ελλάς",
       "at": "Κ.Χ. Μύρης",
       "am": "Γιάννης Μαρκόπουλος",
       "yr": "1967",
@@ -4404,7 +4556,7 @@
       "date": "2026-09-06",
       "tgr": "Το πιτσιρικάκι",
       "tit": "To pitsirikàki",
-      "alias": "",
+      "alias": "Πιτσιρικάκι",
       "at": "Αργύρης Νικολέσκο",
       "am": "Γιώργος Ροβερτάκης",
       "yr": "1961",
@@ -4418,7 +4570,8 @@
       "ch": "REm     DO          FA      REm\nΈνα πιτσιρίκι είναι ξαπλωμένο\n REm     DO          FA      REm\nμες στα χορταράκια παραπονεμένο\nFA               DO         FA\nΘέλει να φουμάρει ένα τσιγαράκι\n     FA              DO         REm\nΜα δεν έχει φράγκο, είναι μπατιράκι\nDO         FA      DO         FA\nΘέλει να φουμάρει ένα τσιγαράκι\nDO        FA        DO        REm\nΜα δεν έχει φράγκο, είναι μπατιράκι\n\nREm     DO          FA      REm\nΤου 'ρθε μια ιδέα, κάπου να τη στήσει\n REm     DO          FA       REm\nΌποιος κι αν περάσει, τσιγάρο να ζητήσει\n     FA              DO         REm\nΜα κακή του τύχη, λίγο παραπάνω\n     FA              DO         REm\nΣτη γωνιά του δρόμου τρακάρει πολιτσμάνο\nDO         FA      DO         FA\nΜα κακή του τύχη, λίγο παραπάνω\nDO FA DO REm\nΣτη γωνιά του δρόμου τρακάρει πολιτσμάνο\n\nREm     DO          FA      REm\nΚάνει το κορόιδο, ζούλα τον κοιτάει\n REm     DO          FA       REm\nκαι με κόλπο έξυπνο τον εχαιρετάει\n     FA              DO         REm\nΔίχως να τα χάσει το πιτσιρικάκι\n     FA              DO         REm\nαπ' τον πολισμάνο ζητάει τσιγαράκι\nDO         FA      DO         FA\nΔίχως να τα χάσει το πιτσιρικάκι\nDO        FA        DO        REm\nαπ' τον πολισμάνο ζητάει τσιγαράκι",
       "tr": "To pitsirikàki\n\nÉna pitsirìki ìne ksaploméno\nmes sta chortаràkia paraponeméno\nThèli na fumàri éna tsighаràki\nMa den échi fràngko, ìne batiràki\nThèli na fumàri éna tsighаràki\nMa den échi fràngko, ìne batiràki\n\nTu 'rthe mia idèa, kàpu na ti stìsi\nÒpios ki an peràsi, tsigàro na zitìsi\nMa kakì tu tìchi, lìgho parapàno\nSti ghonià tu dròmu trakàri politsmàno\nMa kakì tu tìchi, lìgho parapàno\nSti ghonià tu dròmu trakàri politsmàno\n\nKàni to koròido, zùla ton kitài\nke me kòlpo éksipno ton echeretài\nDìchos na ta chàsi to pitsirikàki\nap' ton polismàno zitài tsighаràki\nDìchos na ta chàsi to pitsirikàki\nap' ton polismàno zitài tsighаràki",
       "ti": "Il ragazzino  \n\nUn ragazzino se ne sta sdraiato\ntra l'erbetta, tutto imbronciato¹\nvuole fumarsi una sigaretta\nma non ha un soldo², è squattrinato³\nvuole fumarsi una sigaretta\nma non ha un soldo, è squattrinato\n\nGli è venuta un'idea, di organizzarla da qualche parte,\nchiunque passi, chiedergli una sigaretta\nma sua sfortuna, poco più avanti,\nall'angolo della strada si imbatte in un poliziotto⁴\nma sua sfortuna, poco più avanti,\nall'angolo della strada si imbatte in un poliziotto\n\nFa il finto tonto⁵, lo guarda di sottecchi⁶,\ne con un trucco astuto lo saluta,\nsenza perdersi d'animo, il ragazzino\nal poliziotto chiede una sigaretta\nsenza perdersi d'animo, il ragazzino\nal poliziotto chiede una sigaretta\n\nNote\n\nΠαραπονεμένο – \"imbronciato, che si lamenta\", participio che descrive lo stato d'animo scontroso/malinconico del ragazzino per la sua situazione di povertà.\nΦράγκο – termine gergale per \"soldi\" (dal francese \"franco\"), uso comune nel linguaggio popolare greco.\nΜπατιράκι – diminutivo di \"μπατίρης\" (dal turco \"batır\", fallito/al verde), termine colloquiale per \"squattrinato, senza un soldo\".\nΠολιτσμάνο/πολισμάνο – storpiatura popolare/scherzosa dell'inglese \"policeman\", termine gergale per \"poliziotto\", diffuso nel linguaggio informale greco.\nΚάνει το κορόιδο – espressione idiomatica, letteralmente \"fa il fesso/il finto tonto\", cioè finge ingenuità o distrazione per non destare sospetti.\nΖούλα τον κοιτάει – \"lo guarda di nascosto/di sottecchi\" (da \"ζούλα\", termine gergale per \"di nascosto\"), sguardo furtivo e calcolatore tipico della scena comica descritta.",
-      "no": "Si narra un aneddoto curioso: la canzone sarebbe stata scritta perché il figlio di Tsaousakis, Dimitris, fu sorpreso a fumare — da qui l'ispirazione per il testo."
+      "no": "Si narra un aneddoto curioso: la canzone sarebbe stata scritta perché il figlio di Tsaousakis, Dimitris, fu sorpreso a fumare — da qui l'ispirazione per il testo.",
+      "balgr": ""
     },
     {
       "id": "s_1788684341712",
@@ -4585,29 +4738,6 @@
       "ch": "REm                    SOLm      REm\nΚάθε φορά που ανοίγεις δρόμο στη ζωή\n           DO                      FA\nμην περιμένεις να σε βρει το μεσονύχτι\n         SOLm                  REm\nΈχε τα μάτια σου ανοιχτά βράδυ-πρωί\n           LA                           LA7\nΓιατί μπροστά σου πάντα απλώνεται ένα δίχτυ \n         SOLm                  REm\nΈχε τα μάτια σου ανοιχτά βράδυ-πρωί\n               LA                 REm LA REm\nΓιατί μπροστά σου πάντα απλώνεται ένα δίχτυ\n\nLA#\nΑν κάποτε στα βρόχια του πιαστείς\n  DO                           FA\nκανείς δεν θα μπορέσει να σε βγάλει\n     SOLm                    REm\nΜονάχος βρες την άκρη της κλωστής\n                 LA            LA7\nκι αν είσαι τυχερός, ξεκίνα πάλι \nLA#\nΑν κάποτε στα βρόχια του πιαστείς\n  DO                           FA\nκανείς δεν θα μπορέσει να σε βγάλει\n     SOLm                    REm\nΜονάχος βρες την άκρη της κλωστής\n                 LA         REm LA REm\nκι αν είσαι τυχερός, ξεκίνα πάλι\n\nREm               SOLm      REm\nΑυτό το δίχτυ έχει ονόματα βαριά\n              DO                      FA\nπου είναι γραμμένα σ' εφτασφράγιστο κιτάπι\n         SOLm                  REm\nΆλλοι το λεν του κάτω κόσμου πονηριά\n           LA                           LA7\nκι άλλοι το λεν της πρώτης άνοιξης αγάπη \n         SOLm                  REm\nΆλλοι το λεν του κάτω κόσμου πονηριά\n           LA                     REm LA REm\nκι άλλοι το λεν της πρώτης άνοιξης αγάπη \n\nLA#\nΑν κάποτε στα βρόχια του πιαστείς\n  DO                           FA\nκανείς δεν θα μπορέσει να σε βγάλει\n     SOLm                    REm\nΜονάχος βρες την άκρη της κλωστής\n                 LA            LA7\nκι αν είσαι τυχερός, ξεκίνα πάλι \nLA#\nΑν κάποτε στα βρόχια του πιαστείς\n  DO                           FA\nκανείς δεν θα μπορέσει να σε βγάλει\n     SOLm                    REm\nΜονάχος βρες την άκρη της κλωστής\n                 LA          REm LA REm\nκι αν είσαι τυχερός, ξεκίνα πάλι",
       "tr": "To dìchti\n\nKàthe forà pu anìghis dròmo sti zoì\nmin periménis na se vri to mesonìchti\nÈche ta màtia su anichtà vràdi-proì\nGhiatì brostà su pànda aplònete éna dìchti\n\nAn kàpote sta vròchia tu piastìs\nkanìs den tha borèsi na se vgàli\nMonàchos vres tin àkri tis klostìs\nki an ìse tichièros, ksekìna pàli\n\nAftò to dìchti échi onòmata varià\npu ìne ghraména s' eftasfràghisto kitàpi\nÀlli to len tu kàto kòsmu poniría\nki àlli to len tis pròtis àniksis aghàpi\n\nAn kàpote sta vròchia tu piastìs\nkanìs den tha borèsi na se vgàli\nMonàchos vres tin àkri tis klostìs\nki an ìse tichièros, ksekìna pàli",
       "ti": "La rete\n\nOgni volta che apri una strada nella vita\nnon aspettarti che sia la mezzanotte a trovarti¹\nTieni gli occhi aperti sera e mattina\nperché davanti a te si stende sempre una rete²\n\nSe un giorno resti impigliato nei suoi lacci³,\nnessuno potrà tirarti fuori,\nda solo dovrai trovare il capo del filo⁴,\ne se sei fortunato, ricomincia da capo\n\nQuesta rete ha nomi pesanti⁵,\nche sono scritti in un libro sigillato a sette chiavi⁶,\nalcuni la chiamano l'astuzia del mondo sotterraneo⁷,\ne altri la chiamano l'amore della prima primavera\n\nSe un giorno resti impigliato nei suoi lacci,\nnessuno potrà tirarti fuori,\nda solo dovrai trovare il capo del filo,\ne se sei fortunato, ricomincia da capo\n\nNote\n\nΝα σε βρει το μεσονύχτι (\"che sia la mezzanotte a trovarti\") – espressione poetica per \"essere colto di sorpresa/impreparato\", la mezzanotte come metafora del momento critico o pericoloso della vita.\nΔίχτυ – \"rete\", immagine simbolica ricorrente nel testo per indicare l'insidia, il destino o le trappole della vita/dell'amore che ci attendono lungo il cammino.\nΒρόχια – \"lacci, nodi scorsoi\" (della rete); rafforza l'immagine della trappola da cui è difficile liberarsi una volta caduti.\nΒρες την άκρη της κλωστής (\"trova il capo del filo\") – espressione idiomatica greca, equivalente a \"trova una via d'uscita, un bandolo della matassa\", per risolvere una situazione ingarbugliata.\nΟνόματα βαριά (\"nomi pesanti\") – espressione che allude a concetti/parole di grande peso esistenziale (come \"destino\", \"amore\", \"morte\"), non meglio specificati ma allusi nei versi successivi.\nΕφτασφράγιστο κιτάπι (\"libro sigillato con sette sigilli\") – riferimento biblico all'Apocalisse (libro dai sette sigilli), qui usato metaforicamente per indicare un mistero insondabile, una verità nascosta e inaccessibile ai più.\nΚάτω κόσμος (\"mondo sotterraneo/degli inferi\") – riferimento mitologico-popolare all'oltretomba, qui contrapposto simbolicamente all'amore come le due facce ambivalenti e misteriose di questa \"rete\" del destino.",
-      "no": ""
-    },
-    {
-      "id": "s_1788674691869",
-      "offsets": {},
-      "executions": [],
-      "date": "2026-09-06",
-      "tgr": "Το δικό μου πάπλωμα",
-      "tit": "To dikò mu pàploma",
-      "alias": "",
-      "at": "Γιώργος Μητσάκης",
-      "am": "Γιώργος Μητσάκης",
-      "yr": "1963",
-      "ar": "Στέλιος Καζαντζίδης, Μαρινέλλα",
-      "lb": "",
-      "gn": "Laikà",
-      "dr": "",
-      "bal": "Karsilamàs",
-      "ll": "https://www.youtube.com/watch?v=LXBjwlxTjJo",
-      "li": "",
-      "ch": "REm                        DO            REm\nΗ καρδιά μου είναι μεγάλη, η καλύβα μου μικρή\nFA                      DO                FA\nΑπό σένα κι από μένα άλλος δεν χωράει να μπει\n\nSOLm          REm     DO         REm   SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nSOLm            REm             DO      REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα\n\nREm                     DO            REm\nΤ' άλογο του καβαλάρη ξέρει ένα αφεντικό\nFA                      DO                FA\nΣτην καλύβα την δική μου νοικοκύρης είμαι 'γω\n\nSOLm          REm     DO         REm   SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nSOLm            REm             DO      REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα\n\nREm                        DO            REm\nΤο τραπέζι είναι στρωμένο για τα μάτια π' αγαπώ\nFA                      DO                FA\nκαι το πάπλωμα θα φτάσει να σκεπάσει και τους δυο\n\nSOLm          REm     DO         REm   SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nSOLm            REm             DO      REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα\nSOLm          REm     DO         REm   SOLm\nΤο δικό μου πάπλωμα είναι για δυο άτομα\nSOLm            REm             DO      REm\nκαι δεν παίρνει μπάλωμα το δικό μου πάπλωμα",
-      "tr": "Το δικό μου πάπλωμα\n\nI kardià mu ìne meghàli, i kalìva mu mikrì\nApò sèna ki apò ména àllos den chorài na bi\n\nTo dikò mu pàploma ìne ghia dio àtoma\nke den pèrni bàloma to dikò mu pàploma\n\nT'àlogho tu kavalàri kséri éna afendikò\nStin kalìva tin dikì mu nikokìris ìme 'gho\n\nTo dikò mu pàploma ìne ghia dio àtoma\nke den pèrni bàloma to dikò mu pàploma\n\nTo trapèzi ìne stroméno ghia ta màtia p'aghapò\nke to pàploma tha ftàsi na skepàsi ke tus dio\n\nTo dikò mu pàploma ìne ghia dio àtoma\nke den pèrni bàloma to dikò mu pàploma",
-      "ti": "Il mio piumino è fatto per due persone\n\nIl mio cuore è grande, la mia capanna¹ è piccola,\ntra me e te non c'è posto per nessun altro\n\nIl mio piumino² è fatto per due persone\ne il mio piumino non ammette rattoppi³\n\nIl cavallo del cavaliere conosce un solo padrone,\nnella mia capanna il padrone di casa sono io\n\nIl mio piumino è fatto per due persone\ne il mio piumino non ammette rattoppi\n\nLa tavola è apparecchiata per gli occhi che amo,\ne il piumino basterà a coprire entrambi\n\nIl mio piumino è fatto per due persone\ne il mio piumino non ammette rattoppi \n\nNote\n\nΚαλύβα – \"capanna, casupola\"; immagine di umiltà e semplicità abitativa, tipica del linguaggio popolare per descrivere una vita modesta ma dignitosa e sufficiente per l'amore.\nΠάπλωμα – \"piumino, trapunta\"; simbolo dell'intimità di coppia, dello spazio esclusivo riservato a due persone che si amano.\nΔεν παίρνει μπάλωμα (\"non ammette rattoppi\") – espressione idiomatica figurata: il piumino/la relazione non tollera \"toppe\", cioè non c'è spazio per compromessi o intrusi esterni nella coppia, l'amore dev'essere integro ed esclusivo.",
       "no": ""
     },
     {
@@ -5839,7 +5969,7 @@
       "date": "2026-09-02",
       "tgr": "Οι Ψαράδες",
       "tit": "I psaràdes",
-      "alias": "Σε καινούρια βάρκα μπήκα",
+      "alias": "Σε καινούρια βάρκα μπήκα / Σε καινούρια βάρκα",
       "at": "tradizionale",
       "am": "tradizionale",
       "yr": "tradizionale",
@@ -5853,7 +5983,8 @@
       "ch": "LAm\nΕεε\nLAm                 MIm\nΣε καινούρια βάρκα μπήκα\nLAm                  MIm\nΣε καινούρια βάρκα μπήκα\nSOL                  MIm\nΣε καινούρια βάρκα μπήκα\nRE      REm      MIm\nκαι στον Αϊ-Γιώργη βγήκα\nRE      REm      MIm\nκαι στον Αϊ-Γιώργη βγήκα\n\nLAm\nΕεε\nLAm                MIm\nΒρήκα ναύτες παλικάρια \nLAm                MIm\nΒρήκα ναύτες παλικάρια \nSOL                  MIm\nΒρήκα ναύτες παλικάρια \nLAm              MIm\nπου ψαρεύανε τα ψάρια \nLAm              MIm\nπου ψαρεύανε τα ψάρια \n\nLAm\nΕεε\nLAm              MIm\nΈχετε ψαράδες ψάρια \nLAm             MIm\nΈχετε ψαράδες ψάρια\nSOL              MIm\nΈχετε ψαράδες ψάρια\nLAm                MIm\nαστακούς και καλαμάρια \nLAm                MIm\nαστακούς και καλαμάρια \n\nLAm\nΕεε\nLAm              MIm\nΈμπα μέσα, διάλεξέ τα \nLAm              MIm\nΈμπα μέσα, διάλεξέ τα \nSOL              MIm\nΈμπα μέσα, διάλεξέ τα \nLAm                    MIm\nκαι στην παλάντζα ζύγισέ τα \nLAm                   MIm\nκαι στην παλάντζα ζύγισέ τα\n\nLAm\nΕεε\nLAm             MIm\nΠάρε βούρλα, περασέ τα \nLAm             MIm\nΠάρε βούρλα, περασέ τα \nSOL              MIm\nΠάρε βούρλα, περασέ τα \nLAm                 MIm\nκι όσο θέλεις πλήρωσέ τα \nLAm                  MIm\nκι όσο θέλεις πλήρωσέ τα\n\nLAm\nΕεε\nLAm                MIm\nΠου να έβρω τόσα βούρλα \nLAm                MIm\nΠου να έβρω τόσα βούρλα \nSOL              MIm\nΠου να έβρω τόσα βούρλα \nLAm               MIm\nΓια να τα πλερώσω ούλα \nLAm             MIm\nΓια να τα πλερώσω ούλα \n\nLAm\nΕεε\nLAm                  MIm\nΚάνε τα μαλλιά σου βούρλα\nLAm                  MIm\nΚάνε τα μαλλιά σου βούρλα\nSOL                MIm\nΚάνε τα μαλλιά σου βούρλα\nLAm                 MIm\nΓια να τα πλερώσεις ούλα\nLAm                 MIm\nΓια να τα πλερώσεις ούλα",
       "tr": "I psaràdes\n\nEee\nSe kenúria várka bíka\nSe kenúria várka bíka\nSe kenúria várka bíka\nke ston Ai-Yiόrghi vgíka\nke ston Ai-Yiόrghi vgíka\n\nEee\nVríka náftes palikária\npu psarévane ta psária\n\nEee\nÉchete psarádes psária\nastakús ke kalamária\n\nEee\nÉmba mésa, diáleksé ta\nke stin paládza zíyisé ta\n\nEee\nPáre vúrla, perasé ta\nki όso thélis plírosé ta\n\nEee\nPu na évro tόsa vúrla\nGia na ta plerόso úla\n\nEee\nKáne ta maliá su vúrla\nGia na ta plerόsis úla",
       "ti": "I pescatori\n\nEee\nSono salito su una barca nuova\nsono salito su una barca nuova\nsono salito su una barca nuova\ne sono sbarcato a Ai-Yiorgis\ne sono sbarcato a Ai-Yiorgis\n\nEee\nHo trovato marinai valorosi\nche pescavano i pesci\n\nEee\nAvete, pescatori, pesci\naragoste e calamari?\n\nEee\nEntra dentro, scegliteli\ne sulla bilancia pesali\n\nEee\nPrendi giunchi, infilaceli (come spago per legarli)\ne pagali quanto vuoi\n\nEee\nDove troverò tanti giunchi\nper pagarli tutti\n\nEee\nFai dei tuoi capelli dei giunchi\nper pagarli tutti\n\nNote:\n\nΑϊ-Γιώργης — Sant'Aghia Yioris, comune toponimo greco per chiese/paesi dedicati a San Giorgio\nπαλάντζα — bilancia (turchismo/italianismo, da \"bilancia\")\nβούρλα — giunchi (piante palustri), con doppio senso nella canzone, il primo sono i giunchi usati per il trasporto (un metodo tradizionale, come uno spago naturale che si infilava tra le branchie dei pesci). Il verbo \"βούρλισέ τα\" significa proprio \"infilzali sui giunchi\", il secondo senso è la \"moneta\" scherzosa/improbabile per pagare il pesce, dando il via alla battuta finale sul \"pagare con i capelli fatti a giunchi\" — gioco di parole tipico dei canti popolari con finale a sorpresa scherzosa",
-      "no": "Il brano proviene originariamente dal komidyllio (commedia musicale leggera) \"Η τράτα του Καπετάν Κωνσταντή\" (\"La rete a strascico del Capitan Costantis\"), testo di Ioannis Laios e musica di Ludovikos Spinellis, andato in scena per la prima volta il 3 settembre 1894 al Teatro Tsocha di Atene. La melodia si staccò presto dall'opera originale, diventando una canzone popolare a sé, incisa più volte tra il 1926 e il 1928 sia in Grecia (Atene) che a Costantinopoli e negli Stati Uniti (New York, con Marika Papangika).\n\nIl testo racconta l'incontro scherzoso tra un cliente e dei pescatori: dopo la contrattazione sul pesce, il venditore propone di pagarlo con \"βούρλα\" — i giunchi tradizionalmente usati per infilzare/legare il pesce — scatenando un botta e risposta comico: il cliente si lamenta di non poterne trovare abbastanza per pagare tutto, e il pescatore rilancia invitandolo scherzosamente a trasformarsi i capelli in giunchi (\"κάνε τα μαλλιά σου βούρλα\"). Proprio per questa battuta, alcune incisioni storiche del brano portano il titolo alternativo \"Τα κομμένα μαλλιά\" (\"I capelli tagliati\")."
+      "no": "Il brano proviene originariamente dal komidyllio (commedia musicale leggera) \"Η τράτα του Καπετάν Κωνσταντή\" (\"La rete a strascico del Capitan Costantis\"), testo di Ioannis Laios e musica di Ludovikos Spinellis, andato in scena per la prima volta il 3 settembre 1894 al Teatro Tsocha di Atene. La melodia si staccò presto dall'opera originale, diventando una canzone popolare a sé, incisa più volte tra il 1926 e il 1928 sia in Grecia (Atene) che a Costantinopoli e negli Stati Uniti (New York, con Marika Papangika).\n\nIl testo racconta l'incontro scherzoso tra un cliente e dei pescatori: dopo la contrattazione sul pesce, il venditore propone di pagarlo con \"βούρλα\" — i giunchi tradizionalmente usati per infilzare/legare il pesce — scatenando un botta e risposta comico: il cliente si lamenta di non poterne trovare abbastanza per pagare tutto, e il pescatore rilancia invitandolo scherzosamente a trasformarsi i capelli in giunchi (\"κάνε τα μαλλιά σου βούρλα\"). Proprio per questa battuta, alcune incisioni storiche del brano portano il titolo alternativo \"Τα κομμένα μαλλιά\" (\"I capelli tagliati\").",
+      "balgr": ""
     },
     {
       "id": "s_1788323631762",
@@ -6545,7 +6676,7 @@
       "date": "2026-08-30",
       "tgr": "Μια όμορφη μελαχροινή",
       "tit": "Mià òmorfi melachrinì",
-      "alias": "",
+      "alias": "Όμορφη μελαχροινή",
       "at": "Μάρκος Βαμβακάρης",
       "am": "Μάρκος Βαμβακάρης",
       "yr": "1939",
@@ -6559,7 +6690,8 @@
       "ch": "RE\nΜια όμορφη μελαχρινή ναζιάρα και σκερτσόζα  \nRE\nΜια όμορφη μελαχρινή ναζιάρα και σκερτσόζα \nSOLm            RE           DOm      RE\nτόσο πολύ με τυραννεί και μου κρατάει πόζα\nSOLm            RE      DOm   RE   RE#   RE\nτόσο πολύ με τυραννεί και μου κρατάει πόζα \n\nRE \nΘα την ζυγώσω μια βραδιά και θα την αρωτήσω         \nRE \nΘα την ζυγώσω μια βραδιά και θα την αρωτήσω   \nSOLm            RE           DOm      RE\nπως γίνεσαι τόσο κακιά για σένα θα αρρωστήσω   \nSOLm            RE      DOm   RE   RE#   RE\nπως γίνεσαι τόσο κακιά για σένα θα αρρωστήσω  \n \nRE\nΤα κατσαρά σου τα μαλλιά τα μάτια σου τα μαύρα \nRE\nΤα κατσαρά σου τα μαλλιά τα μάτια σου τα μαύρα \nSOLm            RE           DOm      RE    \nμες την δική μου αγκαλιά θα σβήσουν κάθε λαύρα      \nSOLm            RE      DOm   RE   RE#   RE\nμες την δική μου αγκαλιά θα σβήσουν κάθε λαύρα \n\n\nSOLm            RE           DOm      RE  \nΜες την δική μου αγκαλιά θα σβήσουν κάθε λαύρα \nSOLm            RE      DOm   RE   RE#   RE\nΤα κατσαρά σου τα μαλλιά τα μάτια σου τα μαύρα",
       "tr": "Mià òmorfi melachrinì\n\nMia όmorfi melachriní\nnaziára ke skertsόza\ntόso polí me tiranní\n\nke mu kratái pόza\ntόso polí me tiranní\nke mu kratái pόza\n\nTha tin zighόso mia vradiá\nke tha tin arotíso\npos ghínese tόso kakiá\ngia séna tha arostíso\n\nTa katsará su ta maliá\nta mátia su ta mávra\nmes tin dikí mu anghaliá\ntha svísun káthe lávra\n\nMes tin dikí mu anghaliá\ntha svísun káthe lávra",
       "ti": "Una bella ragazza bruna\n\nUna bella ragazza bruna\ncapricciosa e civettuola\nmi tormenta così tanto\n\ne mi tiene sulle spine\nmi tormenta così tanto\ne mi tiene sulle spine\n\nLe mi avvicinerò una sera\ne le chiederò\ncome fai a essere così cattiva\nper te mi ammalerò\n\nI tuoi capelli ricci\ni tuoi occhi neri\ntra le mie braccia\nspegneranno ogni bruciore\n\nTra le mie braccia\nspegneranno ogni bruciore\n\nNote:\n\nσκερτσόζα — civettuola, brillante e maliziosa, già incontrato in altre canzoni (\"σκέρτσο-πεταχτό\")\nκρατάει πόζα — idiomatico: \"mi tiene in posa/mi fa aspettare con distacco\", cioè mantiene un atteggiamento altezzoso e distante\nλαύρα — bruciore/vampata intensa (anche di lava), qui usato figurativamente per il tormento/ardore d'amore",
-      "no": "Orchestra con bouzouki, chitarra e baglama. Al bouzouki  Spiros Peristeris."
+      "no": "Orchestra con bouzouki, chitarra e baglama. Al bouzouki  Spiros Peristeris.",
+      "balgr": ""
     },
     {
       "id": "s_1788028392024",
@@ -6604,7 +6736,7 @@
       "date": "2026-08-29",
       "tgr": "Μες στης πόλης το χαμάμ",
       "tit": "Mes stis polis to chamam",
-      "alias": "Το χαρέμι στο χαμάμ",
+      "alias": "Το χαρέμι στο χαμάμ / Χαρέμι στο χαμάμ",
       "at": "Ανέστης Δελιάς",
       "am": "Ανέστης Δελιάς",
       "yr": "1936",
@@ -6618,7 +6750,8 @@
       "ch": "SOL\nΜες στης πόλης το χαμάμ ένα χαρέμι κολυμπά\nMIm      REm      MIm  REm  MIm  FA SOL LAm MIm\nΑραπάκια το φυλάνε, στον Αλή Πασά το πάνε\nMIm            REm        MIm\nΝτιριντάχτα, ντιρι-ντιριντάχτα...\n\nSOL\nΔιατάζει τη φρουρά του, να το φέρουνε μπροστά του\nMIm      REm      MIm  REm  MIm  FA SOL LAm MIm\nνα το βάλει να χορέψει και μπουζούκι να τού παίξει\nMIm            REm        MIm\nΝτιριντάχτα, ντιρι-ντιριντάχτα...\n\nSOL\nΈτσι την περνάνε όλοι οι πασάδες στο ντουνιά\nMIm      REm      MIm  REm  MIm  FA SOL LAm MIm\nμε χορό και με τραγούδι, μ' αγκαλιές και με φιλιά\nMIm            REm        MIm\nΝτιριντάχτα, ντιρι-ντιριντάχτα...\n\nSOL\nΣτην Περσία το χασίσι το πουλάν με την οκά\nMIm      REm      MIm  REm  MIm  FA SOL LAm MIm\nΣτην Αθήνα δεν το βρίσκεις, ούτε και για μυρουδιά\nMIm            REm        MIm\nΝτιριντάχτα, ντιρι-ντιριντάχτα...",
       "tr": "Mes stis pόlis to chamάm\n\nMes stis pόlis to chamάm éna charémi kolimbά\nArapάkia to filάne, ston Alí Pasά to páne\nNdirindάchta, ndiri-ndirindάchta...\n\nDiatάzi ti frurά tu, na to férune brostά tu\nna to vάli na chorέpsi ke buzúki na tu péksi\nNdirindάchta, ndiri-ndirindάchta...\n\nÉtsi tin pernάne όli i pasάdes sto nduniά\nme chorό ke me traghúdi, m'anghaliés ke me filiά\nNdirindάchta, ndiri-ndirindάchta...\n\nStin Persía to chasísi to pulάn me tin oká\nStin Athína den to vrískis, úte ke gia mirudiά\nNdirindάchta, ndiri-ndirindάchta...",
       "ti": "Nel bagno turco della città\n\nNel bagno turco della città nuota un harem\ni moretti lo custodiscono, lo portano ad Ali Pascià\n(ritornello onomatopeico senza significato letterale)\n\nOrdina alla sua guardia di portarlo davanti a sé\ndi farlo ballare e di suonargli il bouzouki\n(ritornello)\n\nCosì se la passano tutti i pascià del mondo\ncon danza e canto, con abbracci e con baci\n(ritornello)\n\nIn Persia l'hashish lo vendono a peso (all'oca)\nad Atene non lo trovi, neanche per odorarlo\n(ritornello)\n\nNote:\n\nχαρέμι — harem; qui il termine è usato collettivamente e trattato quasi come un singolo oggetto/entità (\"το φυλάνε\", \"το πάνε\" al neutro singolare), tipico di questo genere di canzoni esotizzanti\nαραπάκια — diminutivo di \"αράπηδες\" (uomini di colore/mori), guardie del harem nell'immaginario orientaleggiante\nοκά — antica unità di misura per liquidi/solidi, già incontrata in altre canzoni\nντιριντάχτα — ritornello onomatopeico/esotizzante senza traduzione letterale, tipico delle canzoni \"ανατολίτικα\"",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1788011719924",
@@ -6884,7 +7017,7 @@
       "date": "2026-08-29",
       "tgr": "Κόβω μια κλάρα",
       "tit": "Kóvo mia klára",
-      "alias": "",
+      "alias": "Κόβω μια κλάρα λεμονιά",
       "at": "tradizionale",
       "am": "tradizionale",
       "yr": "tradizionale",
@@ -6898,7 +7031,8 @@
       "ch": "LAm\nΚόβω μια κλάρα, να ζεις, κουμπάρα,\nREm          MI     LAm\nΚόβω μια κλάρα, λεμονιά.\nLAm\nΚόβω μια κλάρα, λεμονιά,\nREm          MI     LAm\nΜε δυο λεμόνια δίφορα.\n\n \nLAm\nΚαι τη φυτεύω, σε κοροϊδεύω,\nREm          MI     LAm\nΚαι τη φυτεύω στο γιαλό.\nLAm\nΚαι τη φυτεύω στο γιαλό,\nREm          MI     LAm\nΚι αν μαραθεί, δεν σ’ αγαπώ.\n\n \nLAm\nΚι η κλάρα ε…, να ζεις, κουμπάρα,\nREm          MI     LAm\nΚι η κλάρα εμαράθηκε.\nLAm\nΚι η κλάρα εμαράθηκε,\nREm       MI     LAm\nΗ αγάπη με παράτησε.",
       "tr": "Kóvo mia klára\n\nKóvo mia klára, na zis, kumbára,\nKóvo mia klára, lemoniá.\nKóvo mia klára, lemoniá,\nMe dío lemónia dífora.\n\nKe ti fitévo, se koroidévo,\nKe ti fitévo sto yialó.\nKe ti fitévo sto yialó,\nKi an marathí, den s'aghapó.\n\nKi i klára e..., na zis, kumbára,\nKi i klára emaráthike.\nKi i klára emaráthike,\nI aghápi me parátise.",
       "ti": "Taglio un ramo\n\nTaglio un ramo, che tu viva, comare,\ntaglio un ramo di limone.\nTaglio un ramo di limone,\ncon due limoni che danno frutto due volte l'anno.\n\nE lo pianto, ti prendo in giro,\ne lo pianto sulla riva.\nE lo pianto sulla riva,\ne se appassisce, non ti amo.\n\nE il ramo si è..., che tu viva, comare,\ne il ramo è appassito.\nE il ramo è appassito,\nl'amore mi ha abbandonato.\n\nNote:\n\nκουμπάρα — comare, termine che indica un legame di parentela spirituale (madrina di nozze/battesimo, o testimone di matrimonio), qui usato come vezzeggiativo affettuoso rivolto all'ascoltatrice/interlocutrice nel canto\nδίφορα — che dà frutto due volte l'anno (aggettivo riferito agli agrumi, come il limone \"bifero\")\nτσάμικος — indicazione di genere: danza/ritmo tradizionale greco in 3/4, tipico della Grecia continentale (Epiro, Grecia centrale)\nil canto usa il tradizionale espediente popolare del \"ramo piantato come presagio d'amore\": se il ramo attecchisce e fiorisce, l'amore è vero; se appassisce, l'amore finisce — qui infatti il ramo appassisce, segnando la fine della storia",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1787979149810",
@@ -7080,7 +7214,7 @@
       "date": "2026-08-28",
       "tgr": "Ο μπουφετζής",
       "tit": "O Bufetzìs",
-      "alias": "Θέλω να γίνω μπουφετζής",
+      "alias": "Θέλω να γίνω μπουφετζής / Μπουφετζής",
       "at": "Γιώργος Μπάτης",
       "am": "tradizionale",
       "yr": "1935",
@@ -7661,7 +7795,7 @@
       "date": "2026-08-26",
       "tgr": "Το βουνό",
       "tit": "To vounò",
-      "alias": "",
+      "alias": "Βουνό",
       "at": "Βαγγέλης Πρέκας",
       "am": "Λουκάς Νταράλας",
       "yr": "1954",
@@ -7675,7 +7809,8 @@
       "ch": "REm                  FA\nΘ' ανέβω και θα τραγουδήσω\n       DOm      REm\nστο πιο ψηλότερο βουνό\nLA#            RE\nν' ακούγεται στην ερημιά \n   REm       DOm     REm\nο πόνος μου με την πενιά \nLA#            RE\nν' ακούγεται στην ερημιά \n   REm       DOm     REm\nο πόνος μου με την πενιά\n\nREm                  FA\nΜε το βουνό θα γίνω φίλος\n       DOm      REm\nκαι με τα πεύκα συντροφιά\nLA#            RE\nκι όταν θα κλαίω και πονώ \n   REm       DOm     REm\nθ' αναστενάζει το βουνό \nLA#            RE\nκι όταν θα κλαίω και πονώ \n   REm       DOm     REm\nθ' αναστενάζει το βουνό\n\nREm                  FA\nΑπάνω στο βουνό θα μείνω\n       DOm      REm\nκι από τον κόσμο μακριά\nLA#            RE\nθα κλαίω μόνος, θα πονώ\n   REm       DOm     REm\nκαι θα μ' ακούει το βουνό \nLA#            RE\nθα κλαίω μόνος, θα πονώ\n   REm       DOm     REm\nκαι θα μ' ακούει το βουνό",
       "tr": "To vounò\n\nTh'anévo ke tha traghudíso\nsto pio psilótero vunó\nn'akúyete stin erimiá\no pónos mu me tin peniá\n\nMe to vunó tha ghíno fílos\nke me ta pévka sindrofiá\nki ótan tha kléo ke ponó\nth'anastenázi to vunó\n\nApáno sto vunó tha míno\nki apó ton kósmo makriá\ntha kléo mónos, tha ponó\nke tha m'akúi to vunó",
       "ti": "La montagna\n\nSalirò e canterò\nsulla montagna più alta\nperché si senta nel deserto\nil mio dolore con il plettro\n\nCon la montagna diventerò amico\ne con i pini farò compagnia\ne quando piangerò e soffrirò\nla montagna sospirerà\n\nIn cima alla montagna resterò\ne lontano dal mondo\npiangerò da solo, soffrirò\ne la montagna mi ascolterà\n\nNote:\n\nπενιά — colpo di plettro (sul bouzouki o strumento a corde), qui usato metonimicamente per indicare il canto/suono accompagnato dallo strumento\nερημιά — deserto/solitudine, luogo desolato senza presenza umana\nil testo personifica la montagna come unica confidente/compagna del cantante, tema ricorrente nella poesia popolare greca del dolore in solitudine e dell'isolamento dal mondo",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1787741596808",
@@ -8034,7 +8169,7 @@
       "date": "2026-08-25",
       "tgr": "Βρε μάγκα το μαχαίρι σου",
       "tit": "Vre mànga to machieri sou",
-      "alias": "το Κουτσαβάκι",
+      "alias": "Το Κουτσαβάκι / Κουτσαβάκι",
       "at": "Νίκος Μάθεσης",
       "am": "Ανέστης Δελιάς",
       "yr": "1936",
@@ -9513,7 +9648,7 @@
       "date": "2026-08-17",
       "tgr": "Η τράτα μας η κουρελού",
       "tit": "I tràta mas i kurelù",
-      "alias": "",
+      "alias": "Η τράτα μας",
       "at": "tradizionale",
       "am": "tradizionale",
       "yr": "tradizionale",
@@ -9527,7 +9662,8 @@
       "ch": "LAm          REm            LAm      REm\nΗ τράτα μας η κουρελού, η χιλιομπαλωμένη\nLAm            REm        SOL         LAm\nΌλο την εμπαλώναμε κι αυτή ήταν ξηλωμένη\n\nLAm   REm   SOL LAm    REm    SOL     LAm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nLAm   REm       SOL    LAm\nΕβίρα τρεις, στο σπίτι της\n\nLAm            REm           LAm          REm\nΑν το 'ξερε η μάνα μου πως δούλευα στην τράτα\nLAm                  REm            SOL          LAm\nθα μου 'στελνε τα ρούχα μου και την παλιά μου βράκα\n\nLAm   REm   SOL LAm    REm    SOL     LAm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nLAm   REm       SOL    LAm\nΕβίρα τρεις, στο σπίτι της\n\nLAm           REm         LAm     REm\nΠήγαμε και καλάραμε κάτω στα Διονυσάρια\nLAm            REm            SOL       LAm\nκαι γέμισε η τράτα μας σουπιές και καλαμάρια\n\nLAm   REm   SOL LAm    REm    SOL     LAm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nLAm   REm       SOL    LAm\nΕβίρα τρεις, στο σπίτι της\n\nLAm                 REm       LAm      REm\nΤην τράτα μου την πούλησα στην Θεσσαλονίκη\nLAm              REm          SOL      LAm\nκαι γύρισα στη μάνα μου με δίχως μεταλλίκι\n\nLAm   REm   SOL LAm    REm    SOL     LAm\nΕβίρα μια, στα πανιά, εβίρα δυο, στο χωριό\nLAm   REm       SOL    LAm\nΕβίρα τρεις, στο σπίτι της.",
       "tr": "I tràta mas i kureloù\n\nI tràta mas i kureloù, i chiliobalomèni\nÒlo tin embalòname ki aftì ìtan ksilomèni\n\nEvìra mia, sta pianiá, evìra dio, sto chorió\nEvìra tris, sto spìti tis\n\nAn to 'ksere i màna mu pos dùleva stin tràta\ntha mu 'stelne ta rùcha mu ke tin paliá mu vràka\n\nEvìra mia...\n\nPìghame ke kalàrame kàto sta Dionisária\nke ghèmise i tràta mas supiès ke kalamária\n\nEvìra mia...\n\nTin tràta mu tin pùlisa stin Thesalonìki\nke ghìrisa sti màna mu me dìchos metallìki\n\nEvìra mia...",
       "ti": "La nostra barca\n\nLa nostra tratta (rete da pesca a strascico), tutta stracci, rattoppata mille volte\nLa rattoppavamo sempre e lei si disfaceva di nuovo\n\nHo tirato un colpo, sulle vele, ho tirato due, verso il villaggio\nHo tirato tre, verso casa sua\n\nSe mia madre sapesse che lavoravo sulla tratta\nmi manderebbe i vestiti e i miei vecchi pantaloni\n\nHo tirato un colpo...\n\nSiamo andati a calare (le reti) giù a Dionysaria\ne si è riempita la nostra tratta di seppie e calamari\n\nHo tirato un colpo...\n\nHo venduto la mia tratta a Salonicco\ne sono tornato da mia madre senza un soldo\n\nHo tirato un colpo...\n\nNote alla traduzione\n\nτράτα (tràta) è un tipo di rete da pesca a strascico trainata da una barca, ma per estensione indica anche la barca stessa usata per questo tipo di pesca.\nεβίρα (evìra) deriva dal verbo marinaresco \"βιράρω\" (virare/tirare su una cima o una rete), qui usato come ritornello ritmico che scandisce i colpi di tirata della rete.\nκαλάραμε (kalàrame), da \"καλάρω\", è un termine marinaresco che significa \"calare\" (le reti in mare).\nμεταλλίκι (metallìki) è un termine popolare/dialettale per indicare denaro spicciolo/soldi (da \"μέταλλο\", metallo, riferito alle monete); \"δίχως μεταλλίκι\" significa \"senza un soldo\".\nIl brano appartiene al filone delle canzoni di lavoro marinaro-popolari, che raccontano con ironia e leggerezza la vita dura e precaria dei pescatori, qui narrata in prima persona da chi, dopo essersi indebitato o aver fallito con la pesca, torna a casa dalla madre a mani vuote.",
-      "no": "Il brano nasce originariamente nelle comunità costiere e nelle isole greche come canto di lavoro dei pescatori. Il ritmo cadenzato serviva a sincronizzare i movimenti dei marinai mentre tiravano a riva le reti da pesca.Con il tempo, grazie alla sua melodia orecchiabile e ripetitiva e al testo allegro e stravagante, si è trasformato in una delle più celebri canzoni d'infanzia della Grecia, insegnata ancora oggi in tutti gli asili e le scuole elementari.Il testo gioca sull'ironia e sull'assurdità della vita a bordo di questa barca sgangherata:Descrive una barca fatta di stracci che, nonostante sia vecchia e piena di buchi, continua a navigare e a pescare.Contiene rime divertenti sui membri dell'equipaggio e sui pesci che, invece di essere catturati, sembrano farsi beffe dei pescatori.Ha una struttura cumulativa o ripetitiva, ideale per i giochi di movimento dei bambini, che spesso si prendono per mano simulando il movimento delle onde o l'atto di tirare le reti."
+      "no": "Il brano nasce originariamente nelle comunità costiere e nelle isole greche come canto di lavoro dei pescatori. Il ritmo cadenzato serviva a sincronizzare i movimenti dei marinai mentre tiravano a riva le reti da pesca.Con il tempo, grazie alla sua melodia orecchiabile e ripetitiva e al testo allegro e stravagante, si è trasformato in una delle più celebri canzoni d'infanzia della Grecia, insegnata ancora oggi in tutti gli asili e le scuole elementari.Il testo gioca sull'ironia e sull'assurdità della vita a bordo di questa barca sgangherata:Descrive una barca fatta di stracci che, nonostante sia vecchia e piena di buchi, continua a navigare e a pescare.Contiene rime divertenti sui membri dell'equipaggio e sui pesci che, invece di essere catturati, sembrano farsi beffe dei pescatori.Ha una struttura cumulativa o ripetitiva, ideale per i giochi di movimento dei bambini, che spesso si prendono per mano simulando il movimento delle onde o l'atto di tirare le reti.",
+      "balgr": ""
     },
     {
       "id": "s_1786944182199",
@@ -9806,7 +9942,7 @@
       "date": "2026-08-12",
       "tgr": "Θέλω στα μπουζούκια να με πας",
       "tit": "Thèlo sta buzùkia na me pas",
-      "alias": "",
+      "alias": "Θέλω στα μπουζούκια / Στα μπουζούκια να με πας",
       "at": "Γιώργος Μητσάκης",
       "am": "Γιώργος Μητσάκης",
       "yr": "1950",
@@ -9820,7 +9956,8 @@
       "ch": "RE             RE7              RE\nΘέλω στα μπουζούκια απόψε να με πας\nRE             RE7              RE\nγια δικό μου κέφι τα φράγκα να σκορπάς\nRE\nΚι όταν χορέψω παλαμάκια να χτυπάς\nRE          LA       RE\nαν μ' αγαπάς, αν μ' αγαπάς\nRE\nΚι όταν χορέψω παλαμάκια να χτυπάς\nRE               LA       RE\nαν μ' αγαπάς, αν μ' αγαπάς\n\nRE                 RE7          RE\nΕίμαι σαν και σένα, μποέμισσα κι εγώ\nRE                RE7                  RE\nκι ό,τι να μου κάνεις, μπουζούκια νοσταλγώ\nRE\nΓιατί είσαι μάγκας, σε παντρεύτηκα κι εγώ\nRE           LA      RE\nστ' ομολογώ, στ' ομολογώ\nRE\nΓιατί είσαι μάγκας, σε παντρεύτηκα κι εγώ\nRE         LA         RE\nστ' ομολογώ, στ' ομολογώ\n\nRE                 RE7            RE\nΚι όταν θα γυρνούμε στο σπίτι την αυγή\nRE              RE7               RE\nνα με αγκαλιάσεις μ' αγάπη και στοργή\nRE\nΜες στα φιλιά σου ο καημός μου να πνιγεί\nRE          LA          RE\nκαι όπου βγει, και όπου βγει\nRE\nΜες στα φιλιά σου ο καημός μου να πνιγεί\nRE          LA           RE\nκαι όπου βγει, και όπου βγει",
       "tr": "Thélo sta buzùkia na me pas\n\nThélo sta buzùkia apòpse na me pas\nghia dikò mu kèfi ta fràngka na skorpàs\nKi òtan chorèpso palamàkia na chtipàs\nan m'aghapàs, an m'aghapàs\n\nÌme san ke sèna, boèmissa ki eghò\nki ò,ti na mu kànis, buzùkia nostalghò\nGhiatì ìse mànghas, se pandrèftika ki eghò\nst'omologhò, st'omologhò\n\nKi òtan tha ghirnùme sto spìti tin avghì\nna me anghaliàsis m'aghàpi ke storghì\nMes sta filià su o kaimòs mu na pnighì\nke òpu vghi, ke òpu vghi",
       "ti": "Voglio che  mi porti tra i bouzouki\n\nVoglio che stanotte tu mi porti tra i bouzouki¹,\nper farmi divertire, sperpera pure i soldi²\nE quando ballerò, batti le mani a ritmo,\nse mi ami, se mi ami\n\nSono come te, bohémienne³ anch'io,\ne qualunque cosa tu mi faccia, ho nostalgia dei bouzouki\nPerché sei un màngas⁴, ti ho sposato anch'io,\nte lo confesso, te lo confesso\n\nE quando torneremo a casa all'alba,\nabbracciami con amore e tenerezza\nChe nei tuoi baci affoghi la mia pena⁵,\ne vada come vada⁶\n\nNote\n\nΣτα μπουζούκια (\"tra i bouzouki\") – espressione idiomatica per indicare i locali dove si suona dal vivo musica rebetika/laika, luoghi di festa e sfogo notturno.\nΤα φράγκα να σκορπάς (\"sperpera i soldi\") – \"φράγκα\" è termine gergale per \"soldi\" (dal francese \"franco\"); l'invito a spendere senza risparmio per la serata di festa è un topos classico delle canzoni da locale notturno.\nΜποέμισσα – \"bohémienne\", donna dallo spirito libero e anticonformista, che vive senza convenzioni, in linea con lo stile di vita del marito \"μάγκας\".\nΜάγκας – figura tipica della cultura urbana greca (soprattutto del Pireo), l'uomo disinvolto, dallo stile di vita libero, spesso ai margini della legalità, personaggio centrale dell'immaginario rebetiko.\nΚαημός – termine chiave della sensibilità popolare greca, indica una pena profonda, un dolore struggente, spesso d'amore.\nΚι όπου βγει – espressione idiomatica colloquiale, letteralmente \"e dove esce/porta\", equivalente a \"e vada come vada, qualunque cosa succeda\", atteggiamento di abbandono fatalista tipico del sentire rebetiko.",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1786548216713",
@@ -10200,7 +10337,7 @@
       "date": "2026-08-11",
       "tgr": "Το κουκλάκι",
       "tit": "To kuklàki",
-      "alias": "",
+      "alias": "Κουκλάκι",
       "at": "Παναγιώτης Τούντας",
       "am": "Παναγιώτης Τούντας",
       "yr": "1929",
@@ -10214,7 +10351,8 @@
       "ch": "RE                             DO                  RE\nΦίλα με στο στόμα, δε βαστώ, δώσ' μου ένα φιλάκι πεταχτό\n    REm                               DO                      REm\nσε αγάπησα, μικράκι μου, πολύ, κουκλάκι μου, χάθηκα στο λάγνο σου φιλί\n    REm                               DO                      REm\nσε αγάπησα, μικράκι μου, πολύ, κουκλάκι μου, φως μου δε μου άφησες πνοή\n\n SOLm SOL                                     RE\nΤι κακό, τι απονιά, που 'χεις για μένα, φως μου, μέσα στην καρδιά\n SOLm SOL                                     RE\nΤι κακό, τι απονιά, που 'χεις για μένα, φως μου, μέσα στην καρδιά\nREm                                           DO       REm\nστο σεβντά σου μ' έριξες, για να πονώ, κουκλάκι μου, ντέρτι μου 'βαλες παντοτινό\nREm                                           DO       REm\nστο σεβντά σου μ' έριξες, για να πονώ, κουκλάκι μου, ντέρτι μου 'βαλες παντοτινό\n\nRE                             DO                  RE\nΑχ, αυτή η θολή σου η ματιά μ' άναψε μικράκι μου φωτιά\n    REm                               DO                      REm\nμου φαρμάκωσε τη δόλια μου ζωή, κουκλάκι μου, φως μου, δε μου άφησε πνοή\n    REm                               DO                      REm\nμου φαρμάκωσε τη δόλια μου ζωή, κουκλάκι μου, φως μου, δε μου άφησε πνοή\n\n SOLm SOL                                     RE\nΤι κακό, τι απονιά, πού 'χεις για μένα, φως μου, μέσα στην καρδιά\n SOLm SOL                                     RE\nΤι κακό, τι απονιά, πού 'χεις για μένα, φως μου, μέσα στην καρδιά\nREm                                           DO       REm\nστο σεβντά σου μ' έριξες, για να πονώ, κουκλάκι μου, ντέρτι μου 'βαλες παντοτινό\nREm                                           DO       REm\nστο σεβντά σου μ' έριξες, για να πονώ, κουκλάκι μου, ντέρτι μου 'βαλες παντοτινό",
       "tr": "To kuklàki\n\nFìla me sto stòma, de vastò, dos mu éna filàki petachtò\nse aghàpisa, mikràki mu, polì, kuklàki mu, chàthika sto làghno su filì\nse aghàpisa, mikràki mu, polì, kuklàki mu, fos mu de mu àfises pnoì\n\nTi kakò, ti aponià, pu 'chis ghia ména, fos mu, mésa stin kardià\nTi kakò, ti aponià, pu 'chis ghia ména, fos mu, mésa stin kardià\nsto sevdà su m'érikses, ghia na ponò, kuklàki mu, ndèrti mu 'vales pandotinò\nsto sevdà su m'érikses, ghia na ponò, kuklàki mu, ndèrti mu 'vales pandotinò\n\nAch, aftì i tholì su i matià m'ànapse mikràki mu fotià\nmu farmàkose ti dòlia mu zoì, kuklàki mu, fos mu, de mu àfise pnoì\n\nTi kakò, ti aponià, pu 'chis ghia ména, fos mu, mésa stin kardià\nTi kakò, ti aponià, pu 'chis ghia ména, fos mu, mésa stin kardià\nsto sevdà su m'érikses, ghia na ponò, kuklàki mu, ndèrti mu 'vales pandotinò\nsto sevdà su m'érikses, ghia na ponò, kuklàki mu, ndèrti mu 'vales pandotinò",
       "ti": "Bambolina mia\n\nBaciami sulla bocca, non resisto più, dammi un bacino veloce,\nti ho amata, piccola mia, tanto, bambolina mia, mi sono perso nel tuo bacio voluttuoso¹,\nti ho amata, piccola mia, tanto, bambolina mia, luce mia, non mi hai lasciato respiro\n\nChe cattiveria, che spietatezza², che hai per me, luce mia, dentro il cuore,\nche cattiveria, che spietatezza, che hai per me, luce mia, dentro il cuore,\nmi hai gettato nel tuo sevdà³, per farmi soffrire, bambolina mia, mi hai messo un dolore⁴ perenne,\nmi hai gettato nel tuo sevdà, per farmi soffrire, bambolina mia, mi hai messo un dolore perenne\n\nAh, questo tuo sguardo torbido⁵ mi ha acceso, piccola mia, un fuoco,\nmi ha avvelenato la mia povera vita, bambolina mia, luce mia, non mi ha lasciato respiro\n\nChe cattiveria, che spietatezza, che hai per me, luce mia, dentro il cuore,\nche cattiveria, che spietatezza, che hai per me, luce mia, dentro il cuore,\nmi hai gettato nel tuo sevdà, per farmi soffrire, bambolina mia, mi hai messo un dolore perenne,\nmi hai gettato nel tuo sevdà, per farmi soffrire, bambolina mia, mi hai messo un dolore perenne\n\nNote alla traduzione\n\nΛάγνο φιλί (\"bacio voluttuoso/lascivo\") – aggettivo che indica un bacio carico di desiderio sensuale, tipico del lessico appassionato delle canzoni d'amore greche popolari.\nΑπονιά – \"spietatezza, insensibilità, mancanza di pietà\"; termine che sottolinea la crudeltà, anche involontaria, dell'amata verso chi la ama.\nΣεβντάς – parola di origine turca (sevda), molto diffusa nel rebetiko e nella canzone popolare greca, indica una \"passione d'amore travolgente e dolorosa\", spesso associata a sofferenza e tormento amoroso.\nΝτέρτι – altro turchismo comune nel greco popolare, significa \"pena, cruccio, dolore dell'anima\", spesso usato in coppia con \"σεβντάς\" per descrivere la sofferenza d'amore.\nΘολή ματιά (\"sguardo torbido/velato\") – espressione poetica per uno sguardo intenso, quasi annebbiato dal desiderio o dalla seduzione, che \"accende\" la passione dell'innamorato.",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1786430519531",
@@ -10513,7 +10651,7 @@
       "date": "2026-08-10",
       "tgr": "Ποιος, μωρό μου, ποιος",
       "tit": "Pios, morò mu, pios",
-      "alias": "",
+      "alias": "Ποιος μωρό μου",
       "at": "tradizionale",
       "am": "tradizionale",
       "yr": "tradizionale",
@@ -10527,7 +10665,8 @@
       "ch": "RE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος\nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος\nRE               MIm      LA               RE\nΠοιος σε έχει φιλημένη και στα χείλη δαγκωμένη\nRE               MIm      LA               RE\nΚαι στα χείλη δαγκωμένη, ποιος σε έχει φιλημένη\n\nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος \nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος\n\nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος \nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος\nRE               MIm      LA               RE\nΠοιος σε πήγαινε βαρκάδα πίσω στη βαθιά λαγκάδα\nRE               MIm      LA               RE\nΠίσω στη βαθιά λαγκάδα ποιος σε πήγαινε βαρκάδα\n\nRE       SOL          LA       RE\nΠοιος, ποιος, θέλω να ξέρω ποιος \nRE       SOL          LA       RE\nΠοιος, ποιος, θέλω να ξέρω ποιος \n\nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος \nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος \nRE               MIm      LA               RE\nΠοιος σε πήγαινε σεργιάνι μες της Πάρου το λιμάνι\nRE               MIm      LA               RE\nΜες της Πάρου το λιμάνι ποιος σε πήγαινε σεργιάνι\n\nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος\nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος\n \nRE       SOL          LA         RE\nΠοιος, ποιος, ποιος μωρό μου ποιος \nRE       SOL          LA         RE\nΠοιος, ποιος, θέλω να ξέρω ποιος\n\nRE               MIm      LA               RE\nΠοιος σε πήγαινε το βράδυ μες στο πίσω το λιβάδι\nRE               MIm      LA               RE\nΜες στο πίσω το λιβάδι ποιος σε πήγαινε το βράδυ\nRE       SOL          LA     RE\nΠοιος, ποιος, θέλω να ξέρω ποιος \nRE       SOL          LA     RE\nΠοιος, ποιος, θέλω να ξέρω ποιος",
       "tr": "Pios moró mu pios\n\nPios, pios, pios moró mu pios\nPios se échi filiméni ke sta chìli daghoméni\nKe sta chìli daghoméni, pios se échi filiméni\nPios, pios, thélo na kséro pios\n\nPios, pios, pios moró mu pios\nPios se pìghene varkàda pìso sti vathià langhàda\nPìso sti vathià langhàda pios se pìghene varkàda\nPios, pios, thélo na kséro pios\n\nPios, pios, pios moró mu pios\nPios se pìghene serghiàni mes tis Pàru to limàni\nMes tis Pàru to limàni pios se pìghene serghiàni\nPios, pios, thélo na kséro pios\n\nPios, pios, pios moró mu pios\nPios se pìghene to vràdi mes sto pìso to livàdi\nMes sto pìso to livàdi pios se pìghene to vràdi\nPios, pios, thélo na kséro pios",
       "ti": "Chi, piccola mia, chi\n\nChi, chi, chi, piccola mia, chi\nchi ti ha baciata e morsa sulle labbra\ne morsa sulle labbra, chi ti ha baciata\nchi, chi, voglio sapere chi\n\nChi, chi, chi, piccola mia, chi\nchi ti portava in barca giù nella valle profonda¹\ngiù nella valle profonda chi ti portava in barca\nchi, chi, voglio sapere chi\n\nChi, chi, chi, piccola mia, chi\nchi ti portava a passeggio² nel porto di Paros³\nnel porto di Paros chi ti portava a passeggio\nchi, chi, voglio sapere chi\n\nChi, chi, chi, piccola mia, chi\nchi ti portava la sera nel prato qui dietro\nnel prato qui dietro chi ti portava la sera\nchi, chi, voglio sapere chi\n\nNote\n\nΛαγκάδα – termine popolare greco per \"vallata/gola\", spesso usato in senso geografico ma anche con una sfumatura romantica/appartata, luogo nascosto adatto a incontri segreti.\nΣεργιάνι – dal turco \"seyran\", significa \"passeggiata, giro\" (spesso romantico o di svago); parola di uso comune nel greco popolare e nel rebetiko.\nΠάρος (Paros) – isola delle Cicladi, nel mar Egeo, qui citata come luogo reale della vicenda narrata nella canzone.",
-      "no": ""
+      "no": "Ιn alcuni dischi è attribuita a Κονιτόπουλος per via dell’arrangiamento.",
+      "balgr": ""
     },
     {
       "id": "s_1786352922627",
@@ -10696,7 +10835,7 @@
       "date": "2026-08-10",
       "tgr": "Παλαμάκια-παλαμάκια",
       "tit": "Palamàkia- palamàkia",
-      "alias": "",
+      "alias": "Παλαμάκια",
       "at": "Γιώργος Μητσάκης",
       "am": "Γιώργος Μητσάκης",
       "yr": "1951",
@@ -10710,7 +10849,8 @@
       "ch": "REm           DOm                   SOLm\nΣύρμα πάνω, σύρμα κάτω παίζω εγώ το μπαγλαμά\nREm           DOm                SOLm\nκαι η βλάμισσα χορεύει όμορφο καρσιλαμά\nREm           DOm                SOLm\nκαι η βλάμισσα χορεύει όμορφο καρσιλαμά\n\nSOLm            FA            RE#        REm\nΠαλαμάκια-παλαμάκια να χτυπούν τα τακουνάκια\nSOLm            FA            RE#        REm\nνα χτυπούν τα τακουνάκια, στο τσιμέντο, στα πλακάκια\n\nREm           DOm                   SOLm\nΜε τρελαίνεις, με πεθαίνεις με τον όμορφο χορό\nREm DOm SOLm\nσπάστα όλα, σπάστα όλα και θα τα πληρώσω εγώ\n\nSOLm            FA            RE#        REm\nΠαλαμάκια-παλαμάκια να χτυπούν τα τακουνάκια\nSOLm            FA            RE#        REm\nνα χτυπούν τα τακουνάκια, στο τσιμέντο, στα πλακάκια\n\n\nREm           DOm                   SOLm\nΝα σε χαίρεται που σ' έχει κείνο τ' όμορφο παιδί\nREm           DOm                   SOLm\nκαι ο μπαγλαμάς που παίζω, δυο στη μέση ας κοπεί\n\nSOLm            FA            RE#        REm\nΠαλαμάκια-παλαμάκια να χτυπούν τα τακουνάκια\nSOLm            FA            RE#        REm\nνα χτυπούν τα τακουνάκια, στο τσιμέντο, στα πλακάκια",
       "tr": "Palamàkia-palamàkia\n\nSirma pàno, sirma kato pezo eghò to baglamà\nke i vlàmissa chorevi òmorfo karsilamà\nke i vlàmissa chorevi òmorfo karsilamà\n\nPalamàkia-palamàkia na chtipùn ta takunàkia\nna chtipùn ta takunàkia, sto tsimento, sta plakàkia\n\nMe trelènis, me pethènis me ton òmorfo choró\nspàsta òla, spàsta òla ke tha ta pliròso eghò\n\nPalamàkia-palamàkia...\n\nNa se chièrete pu s'echi kìno t'òmorfo pedì\nke o baglamàs pu pezo, dio sti mesi as kopì\n\nPalamàkia-palamàkia...",
       "ti": "Battimani-battiman\n\nFilo sopra, filo sotto suono io il baglamàs\ne la \"vlamissa\" balla un bel karsilamàs\ne la \"vlamissa\" balla un bel karsilamàs\n\nBattimani-battimani che battono i tacchetti\nche battono i tacchetti, sul cemento, sulle piastrelle\n\nMi fai impazzire, mi fai morire con questo bel ballo\nrompi tutto, rompi tutto e pagherò io\n\nBattimani-battimani...\n\nChe tu sia felice con quel bel ragazzo che hai\ne il mio baglamàs, che si spezzi in due\n\nBattimani-battimani...\n\nNote alla traduzione\n\nΣύρμα πάνω, σύρμα κάτω (\"filo sopra, filo sotto\") – descrive il movimento del plettro/dito sulle corde nel modo di suonare il baglamàs, su e giù.\nΜπαγλαμάς (baglamàs) – piccolo strumento a corde della famiglia del bouzouki, tipico del rebetiko.\nΒλάμισσα (vlàmissa) – femminile di \"βλάμης\" (vlamis), termine gergale rebetiko/della malavita per \"amico/compagno fidato\"; qui indica una donna del giro, una ragazza \"vera\", scaltra e ammirata nell'ambiente.\nΚαρσιλαμάς (karsilamàs) – danza popolare greca (di origine turca, \"karşılama\" = \"faccia a faccia\"), ballata in coppia, tipica anche del rebetiko.\nΠαλαμάκια – diminutivo di \"παλάμη\" (palmo), letteralmente \"battere le mani a ritmo\", un incoraggiamento tipico durante il ballo.\nΣπάστα όλα (\"rompi tutto\") – espressione idiomatica da taverna greca: invito a rompere piatti/bicchieri per esaltazione durante il ballo, offerta di pagare i danni per far festa.\nΝα σε χαίρεται – espressione augurale idiomatica, letteralmente \"che (lui) goda di te\", cioè \"che tu sia felice/fortunata nell'averlo accanto\".\nΔυο στη μέση ας κοπεί (\"che si spezzi in due\") – iperbole tipica rebetiko: il musicista è così coinvolto/rassegnato dal dolore d'amore che augura persino allo strumento (simbolo di sé) di spezzarsi in due dall'intensità del sentimento.",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1786289276468",
@@ -10908,7 +11048,7 @@
       "date": "2026-08-09",
       "tgr": "Τα Λαδάδικα",
       "tit": "Ta Ladàdika",
-      "alias": "",
+      "alias": "Λαδάδικα",
       "at": "Φίλιππος Γράψας",
       "am": "Μάριος Τόκας",
       "yr": "1994",
@@ -10922,7 +11062,8 @@
       "ch": "LAm                             REm\nΣε συζητάν δίχως γιατί και όχι άδικα\n                   SOL         LAm\nόπως κοιμάσαι στα στενά παλιά λαδάδικα\nLAm                             REm\nΈγινες φήμη και γι αυτό δε φυλακίζεσαι\n                   SOL         LAm\nΖεις στο σκοτάδι παστρικά μα δεν ορκίζεσαι\n \nLAm                             REm\nΛάμπεις στα κόκκινα σατέν που σε τυλίγουνε\n                   SOL         LAm\nΆσπροι και σέρτικοι καπνοί σε καταπίνουνε\nLAm                             REm\nΣε καλντερίμια ξενυχτάς υγρά, λιθόστρωτα\n                   SOL         LAm\nστου πληρωμένου παραδείσου την αυλόπορτα\n \nLAm              REm\nΤόσα δίνω, πόσα θες\n      SOL                      LAm MI\nστα λαδάδικα πουλάν αυτό που θε-ς\nLAm          REm\nΚάθε κάμαρα κελί\n       SOL                LAm\nμε βαριά, παλικαρίσια αναπνοή\n \nLAm                             REm\nΜύριες χαμένες μοναξιές με σένα σμίγανε\n                   SOL         LAm\nΦεύγαν καράβια μα πριν φύγουν σου σφυρίζανε\nLAm                             REm\nΠόσα παιδιά ήρθαν να βρουν το αντριλίκι τους\n                   SOL         LAm\nκαι σου ακουμπήσανε δειλά το χαρτζιλίκι τους\n \nLAm              REm\nΤόσα δίνω, πόσα θες\n      SOL                      LAm MI\nστα λαδάδικα πουλάν αυτό που θε-ς\nLAm          REm\nΚάθε κάμαρα κελί\n       SOL                LAm\nμε βαριά, παλικαρίσια αναπνοή\n \nΤόσα παίρνω κι ό,τι θες\nστην τιμή περιλαμβάνεται ο καφές",
       "tr": "Se sizitàn díchos ghiatí ke óchi ádika\nópos kimáse sta stená paliá ladádika\nÉghines fími ke ghi aftó de filakízese\nZis sto skotádi pastrikà ma den orkízese\n\nLámbis sta kókkina satén pou se tilígune\nÁspri ke sértiki kapní se katapínune\nSe kalderímia ksenichtás ygrá, lithóstrota\nstu pliroménu paradísu tin avlóporta\n\nTósa díno, pósa thes\nsta ladádika puláne aftó pu thes\nKáthe kámara kielí\nme variá, palikarísia anapnoí\n\nMìries chaménes monaksiés me séna smígane\nFévgan karávia ma prin fìgoun sou sfirízane\nPósa pediá írthan na vrun to antrilíki tus\nke su akumbísane dilá to chartzilíki tus\n\nTósa díno, pósa thes...\n\nTósa pérno ki óti thes\nstin timí perilamvánete o kafés",
       "ti": "Ladàdika\n\nSi parla di te senza motivo, e non a torto,\ncome dormi nei vicoli stretti dei vecchi magazzini d'olio.\nSei diventata leggenda, per questo non ti arrestano,\nvivi nell'ombra, pulita, ma non giuri fedeltà a nessuno.\n\nSplendi tra i raso rossi che ti avvolgono,\nfumi bianchi e forti ti inghiottono.\nNei vicoli acciottolati vegli fino a notte fonda, umidi, lastricati,\nsulla porta del cortile del paradiso già pagato.\n\nTanto do, quanto vuoi —\nnei \"ladadika\" vendono ciò che vuoi.\nOgni stanza una cella,\ncon un respiro pesante, da uomo vero.\n\nMille solitudini perdute si univano a te,\npartivano le navi ma prima di partire ti fischiavano.\nQuanti ragazzi vennero a trovare la propria virilità\ne ti porsero, timidi, i loro spiccioli.\n\nTanto do, quanto vuoi...\n\nTanto prendo e quel che vuoi,\nnel prezzo è compreso anche il caffè.\n\nNote alla traduzione\nΛαδάδικα (ladádika) – letteralmente \"botteghe/magazzini dell'olio\": era il nome storico di un quartiere di Salonicco dove un tempo si commerciava olio d'oliva, poi diventato zona di prostituzione. Ho scelto di lasciarlo traslitterato/spiegato tra parentesi perché non ha un vero equivalente italiano — \"case di tolleranza\" renderebbe il senso ma perderebbe il riferimento geografico-storico specifico.\n\"δε φυλακίζεσαι\" / \"δεν ορκίζεσαι\" – i verbi sono alla seconda persona singolare passiva/riflessiva (\"non vieni imprigionata\", \"non giuri\"). Ho reso con \"non ti arrestano\" e \"non giuri fedeltà\" per mantenere la scorrevolezza in italiano, anche se il greco è più letterale (\"non ti imprigionano/non giuri\").\n\"παλικαρίσια αναπνοή\" – \"παλικάρι\" indica il giovane coraggioso, virile, quasi un ideale di mascolinità greca popolare. \"Respiro da παλικάρι\" ho reso con \"respiro... da uomo vero\" per mantenere la connotazione di virilità/orgoglio maschile insita nel termine, difficile da rendere con una sola parola italiana.\n\"το αντριλίκι τους\" – da \"άντρας\" (uomo), indica la \"virilità\" o il \"diventare uomini\" nel senso di iniziazione/rito di passaggio. Tradotto con \"la propria virilità\".\nΤο χαρτζιλίκι – letteralmente la \"paghetta\" (di solito quella dei ragazzi/studenti). L'ho reso con \"spiccioli\" per mantenere il registro leggermente sminuente/tenero dell'originale (sono ragazzi giovani con pochi soldi da spendere).\nIl testo gioca su un doppio registro: da un lato l'ammirazione quasi mitica per questa figura femminile (\"γίνεσαι φήμη\" – \"diventi leggenda\"), dall'altro la crudezza economica del rapporto (\"τόσα δίνω, πόσα θες\" – \"tanto do, quanto vuoi\"), culminando nell'ironia finale del caffè incluso nel prezzo, dettaglio quasi umoristico e disincantato tipico del genere rebetiko.",
-      "no": "Prende il nome dallo storico quartiere di Salonicco (\"Ladadika\", letteralmente \"i negozi di olio\"). Un tempo mercato e zona malfamata di bordelli, il brano ne descrive l'atmosfera nostalgica, cupa e passionale prima della sua riqualificazione urbana avvenuta a fine anni '80"
+      "no": "Prende il nome dallo storico quartiere di Salonicco (\"Ladadika\", letteralmente \"i negozi di olio\"). Un tempo mercato e zona malfamata di bordelli, il brano ne descrive l'atmosfera nostalgica, cupa e passionale prima della sua riqualificazione urbana avvenuta a fine anni '80",
+      "balgr": ""
     },
     {
       "id": "s_1786206983129",
@@ -10977,7 +11118,7 @@
       "date": "2026-08-08",
       "tgr": "Το ακορντεόν",
       "tit": "To akordèon",
-      "alias": "",
+      "alias": "Τ' ακορντεόν",
       "at": "Γιάννης Νεγρεπόντης",
       "am": "Μάνος Λοΐζος",
       "yr": "1974",
@@ -10991,7 +11132,8 @@
       "ch": "RE                             SOL\nΣτη γειτονιά μου την παλιά είχα ένα φίλο\nSOL            RE      LA      RE\nπου ήξερε και έπαιζε τ' ακορντεόν\nRE                              SOL\nΌταν τραγούδαγε, φτυστός ήταν ο ήλιος\nSOL            RE      LA      RE\nφωτιές στα χέρια του άναβε τ' ακορντεόν\n\nRE                             SOL\nΜα ένα βράδυ σκοτεινό σαν όλα τ' άλλα\nSOL            RE      LA      RE\nκράταγε τσίλιες παίζοντας ακορντεόν\nRE                             SOL\nΓερμανικά καμιόνια στάθηκαν στη μάντρα\nSOL            RE      LA      RE\nκαι μια ριπή σταμάτησε τ' ακορντεόν\n\nRE                             SOL\nΤ' αρχινισμένο σύνθημα πάντα μου μένει\nSOL            RE      LA      RE\nόποτε ακούω από τότε ακορντεόν\nRE                             SOL\nΚι έχει σα στάμπα τη ζωή μου σημαδέψει\nSOL            RE      LA      RE\nΔεν θα περά-, δεν θα περάσει ο φασισμός",
       "tr": "To akordèon\n\nSti ghitoniá mou tin paliá eícha éna fílo\npou íksere ki épeze t' akordeón\nÓtan tragúdage, ftistós ítan o ílios\nfotiés sta chiéria tou ánave t' akordeón\n\nMa éna vrádi skotinó san óla t' álla\nkrátage tsílies pèzontas akordeón\nGermaniká kamiónia státhikan sti mándra\nkai mia ripí stamátise t' akordeón\n\nT' archinisméno sínthima pánta mou ménei\nópote akoúo apó tóte akordeón\nKi échei sa stámpa ti zoí mou simadépsei\nDen tha perá-, den tha perásei o fasismós",
       "ti": "To akordèon\n\nNel mio vecchio quartiere avevo un amico\nche sapeva suonare la fisarmonica\nQuando cantava, era il sole sputato\naccendeva fuochi con le sue mani sulla fisarmonica\n\nMa una sera buia come tutte le altre\nfaceva il palo suonando la fisarmonica\nCamion tedeschi si fermarono nel cortile\ne una raffica fermò la fisarmonica\n\nLo slogan iniziato mi resta sempre dentro\nogni volta che sento, da allora, una fisarmonica\nE ha segnato la mia vita come un marchio\nNon passerà, non passerà il fascismo\n\nNote di traduzione\n\n\"φτυστός ήταν ο ήλιος\" — letteralmente \"era il sole sputato\": modo di dire greco per indicare somiglianza fortissima o splendore assoluto (l'equivalente del nostro \"sputato\", come in \"è suo padre sputato\"), qui usato in senso figurato per descrivere il calore/luminosità del canto dell'amico.\n\n\"κράταγε τσίλιες\" — espressione idiomatica gergale che significa \"fare il palo/la sentinella\" (avvisare in caso di pericolo, tipicamente durante attività illegali o clandestine); qui nel contesto della Resistenza contro l'occupazione tedesca, tradotto con \"faceva il palo\".\n\n\"μάντρα\" — letteralmente \"recinto/cortile/deposito\"; qui indica probabilmente il luogo dove si radunava il gruppo clandestino, reso con \"cortile\".\n\n\"Τ' αρχινισμένο σύνθημα\" — \"lo slogan iniziato/interrotto\": si riferisce al grido di resistenza \"Δεν θα περάσει ο φασισμός\" (Non passerà il fascismo) che l'amico non riuscì a finire di gridare/suonare perché ucciso; l'interruzione stessa (perá-, perásei) nel testo originale riproduce graficamente lo spezzarsi della frase/della vita.\n\n\"Δεν θα περάσει ο φασισμός\" — \"Non passerà il fascismo\": celebre slogan antifascista internazionale (dallo spagnolo \"¡No pasarán!\"), diffuso durante la Resistenza greca contro l'occupazione nazista.",
-      "no": "Il brano fu composto da Mános Loïzos nel 1967, ma la censura della dittatura militare dei Colonnelli (1967-1974) ne bloccò la diffusione a causa del forte testo antifascista. Pur non potendo essere trasmesso in radio, il brano veniva cantato clandestinamente durante le proteste studentesche e divenne uno dei simboli della rivolta del Politecnico di Atene nel 1973."
+      "no": "Il brano fu composto da Mános Loïzos nel 1967, ma la censura della dittatura militare dei Colonnelli (1967-1974) ne bloccò la diffusione a causa del forte testo antifascista. Pur non potendo essere trasmesso in radio, il brano veniva cantato clandestinamente durante le proteste studentesche e divenne uno dei simboli della rivolta del Politecnico di Atene nel 1973.",
+      "balgr": ""
     },
     {
       "id": "s_1786201962849",
@@ -11000,7 +11142,7 @@
       "date": "2026-08-08",
       "tgr": "Το μινόρε της αυγής",
       "tit": "To minòre tis avghìs",
-      "alias": "",
+      "alias": "Μινόρε της αυγής",
       "at": "Μίνως Μάτσας",
       "am": "Σπύρος Περιστέρης",
       "yr": "1936",
@@ -11014,7 +11156,8 @@
       "ch": "LAm                MI\nΞύπνα μικρό μου κι άκουσε\nREm         MI  LAm\nΆκου μινόρε της αυγής\nREm                  LAm\nΓια σένανε είναι γραμμένο\nMI                 LAm\nαπό το κλάμα κάποιας ψυχής\n\nLAm              MI\nΤο παραθύρι σου άνοιξε\nREm      MI        LAm\nΡίξε μου μια γλυκιά ματιά\nREm                  LAm\nΚι ας σβήσω πια τότε μικρό μου\nMI                       LAm\nμπροστά στο σπίτι σου σε μια γωνιά",
       "tr": "To minòre tis avghìs\n\nXìpna mikró mou ki ákouse\nÁkou minóre tis avgís\nGia sénane eínai graménο\napó to kláma kápias psichís\n\nTo parathìri sou ánikse\nRíkse mou mia glikiá matiá\nKi as svíso pia tóte mikró mou\nbrostá sto spíti sou se mia gonía",
       "ti": "Il minore dell'alba\n\nSvegliati, piccola mia, e ascolta\nAscolta il minore dell'alba\nÈ scritto per te\ndal pianto di un'anima\n\nLa tua finestra si è aperta\nDammi uno sguardo dolce\nE che io mi spenga allora, piccola mia,\ndavanti a casa tua, in un angolo\n\nNote di traduzione\n\n\"μικρό μου\" — letteralmente \"mio piccolo/a\", vezzeggiativo affettuoso molto comune nel greco popolare per rivolgersi alla persona amata, indipendentemente dall'età; reso con \"piccola mia\" mantenendo il registro affettuoso.\n\n\"μινόρε της αυγής\" — \"il minore dell'alba\": riferimento musicale, la scala/tonalità minore associata all'alba, tipica delle canzoni malinconiche cantate all'aube; qui non è un modo di dire ma un'immagine poetica diretta, lasciata invariata.\n\n\"ας σβήσω\" — letteralmente \"che io mi spenga/mi estingua\"; espressione poetica per \"che io muoia\", spesso usata nei testi d'amore greci in senso iperbolico (morire d'amore), non letterale.",
-      "no": "La composizione ufficiale del brano è accreditata al celebre musicista Spyros Peristeris, allora direttore artistico della casa discografica Odeon, con il testo firmato da Minos Matsas (spesso nascosto sotto lo pseudonimo di Pipo).Esiste tuttavia un'affascinante disputa storica sulla reale paternità: secondo molte testimonianze dell'epoca, la melodia fu creata originariamente dal compositore e cantante Apostolos Chatzichristos durante gli anni precedenti alla guerra. Trattandosi di un'epoca in cui i direttori artistici registravano spesso i brani a proprio nome, la canzone fu pubblicata formalmente a nome di Peristeris"
+      "no": "La composizione ufficiale del brano è accreditata al celebre musicista Spyros Peristeris, allora direttore artistico della casa discografica Odeon, con il testo firmato da Minos Matsas (spesso nascosto sotto lo pseudonimo di Pipo).Esiste tuttavia un'affascinante disputa storica sulla reale paternità: secondo molte testimonianze dell'epoca, la melodia fu creata originariamente dal compositore e cantante Apostolos Chatzichristos durante gli anni precedenti alla guerra. Trattandosi di un'epoca in cui i direttori artistici registravano spesso i brani a proprio nome, la canzone fu pubblicata formalmente a nome di Peristeris",
+      "balgr": ""
     },
     {
       "id": "s_1786199975800",
@@ -11023,7 +11166,7 @@
       "date": "2026-08-08",
       "tgr": "Σβήσε το φως να κοιμηθούμε",
       "tit": "Svìse to fos na kimithùme",
-      "alias": "",
+      "alias": "Σβήσε το φως",
       "at": "Χαράλαμπος Βασιλειάδης",
       "am": "Γιάννης Παπαϊωάννου",
       "yr": "1948",
@@ -11037,7 +11180,8 @@
       "ch": "LA    RE       MI      LA\nΆσε με στη βαθιά σκοτούρα\n     RE         MI            LA\nκαι μη μ' αρχίζεις τη μουρμούρα\n   FA#m MI     FA#       SIm\nΚόφ' το γαζί, μην το τραβούμε\n     LA         MI     LA\nΣβήσε το φως να κοιμηθούμε\n\nLA    RE       MI      LA\nΜου 'χεις ζαλίσει το κεφάλι\n     RE      MI      LA\nΆσε τη γκρίνια τη μεγάλη\n FA#m MI     FA#       SIm\nΣαν ξημερώσει θα τα πούμε\n   LA         MI     LA\nΣβήσε το φως να κοιμηθούμε\n\nLA    RE       MI      LA\nΈλα γλυκά και φίλησέ με\n RE      MI      LA\nΣβήσε το φως κι αγκάλιασέ με\n FA#m MI     FA#       SIm\nΜε γκρίνιες άκρη δε θα βρούμε\n   LA         MI     LA\nΣβήσε το φως να κοιμηθούμε",
       "tr": "Svìse to fos na kimithùme\n\nÁse me sti vathiá skotoúra\nki mi m' archízeis ti mourmoúra\nKóf' to gazí, min to travoúme\nSvíse to fos na koimithoúme\n\nMou 'cheis zalísei to kefáli\nÁse ti gkrínia ti megáli\nSan ximerósei tha ta poúme\nSvíse to fos na koimithoúme\n\nÉla glyká ki fílisé me\nSvíse to fos ki angkáliasé me\nMe gkrínies ákri de tha vroúme\nSvíse to fos na koimithoúme",
       "ti": "Spegni la luce, dormiamo\n\nLasciami nel mio profondo affanno\ne non cominciare a brontolare\nTaglia il filo, non tiriamola per le lunghe\nSpegni la luce, dormiamo\n\nMi hai stordito la testa\nLascia stare le lamentele infinite\nQuando spunterà l'alba ne parleremo\nSpegni la luce, dormiamo\n\nVieni, baciami dolcemente\nSpegni la luce e abbracciami\nCon i brontolii non troveremo una via d'uscita\nSpegni la luce, dormiamo\n\nNote di traduzione\n\n\"σκοτούρα\" — non è semplice preoccupazione ma un affanno cupo, un pensiero che \"fa buio\" (da σκοτάδι, buio); reso qui con \"profondo affanno\".\n\n\"Κόφ' το γαζί\" — letteralmente \"taglia la cucitura\" (γαζί = punto di cucito a macchina), espressione colloquiale che significa \"smettila\", \"taglia corto\"; qui reso con \"taglia il filo\" per mantenere l'immagine del cucito.\n\n\"μην το τραβούμε\" — letteralmente \"non tiriamolo\"; modo di dire equivalente al nostro \"non tiriamola per le lunghe\" / \"non prolunghiamo la cosa\".\n\n\"Μου 'χεις ζαλίσει το κεφάλι\" — letteralmente \"mi hai fatto girare la testa\"; espressione per dire che qualcuno ha esasperato/stordito l'altro a forza di insistere, resa con \"mi hai stordito la testa\".\n\n\"γκρίνια\" — brontolio/lamentela insistente e ripetitiva, tipica di litigi domestici; non ha un corrispettivo italiano a una sola parola altrettanto colloquiale, tradotto con \"brontolii/lamentele\".",
-      "no": "La canzone è nata da un vero e proprio dialogo domestico notturno tra il compositore Giannis Papaioannou e sua moglie. Papaioannou era rientrato a casa a tarda notte dopo aver suonato nella taverna e la moglie aveva iniziato a lamentarsi e a fare \"mormorii\" (μουρμούρα). Lui le rispose: \"Lasciami nei miei pensieri cupi, non iniziare a brontolare, parleremo all'alba per non svegliare i bambini... spegni la luce e andiamo a dormire\". Il paroliere Charalampos Vasileiadis, soprannominato \"Tsantas\", assistette per caso a questo scambio e scrisse il testo della canzone la mattina successiva"
+      "no": "La canzone è nata da un vero e proprio dialogo domestico notturno tra il compositore Giannis Papaioannou e sua moglie. Papaioannou era rientrato a casa a tarda notte dopo aver suonato nella taverna e la moglie aveva iniziato a lamentarsi e a fare \"mormorii\" (μουρμούρα). Lui le rispose: \"Lasciami nei miei pensieri cupi, non iniziare a brontolare, parleremo all'alba per non svegliare i bambini... spegni la luce e andiamo a dormire\". Il paroliere Charalampos Vasileiadis, soprannominato \"Tsantas\", assistette per caso a questo scambio e scrisse il testo della canzone la mattina successiva",
+      "balgr": ""
     },
     {
       "id": "s_1786198836724",
@@ -11612,7 +11756,7 @@
       "date": "2026-08-06",
       "tgr": "Μάουκας",
       "tit": "Màukas",
-      "alias": "Θα Πάρω Μια Ψαρόβαρκα",
+      "alias": "Θα Πάρω Μια Ψαρόβαρκα / Ο Μάουκας",
       "at": "tradizionale",
       "am": "tradizionale",
       "yr": "tradizionale",
@@ -11626,7 +11770,8 @@
       "ch": "RE         FA#m      LA        RE\nΘα πάρω μια ψα--ρόβαρκα, το μωρό μου\nRE  FA#m   LA      RE\nΘα πάρω μια ψα--ρόβαρκα\nRE          MIm              LA          RE\nΝα πάω να βγω στην Πάρο, να πάω να βγω στην Πάρο\n\nRE         FA#m      LA        RE\nΘα πάω να βρω το Μάουκα, το μωρό μου\nRE  FA#m   LA      RE\nθα πάω να βρω το Μάουκα\nRE          MIm              LA          RE\nμαζί του να καλάρω, θα πάω να βγω στην Πάρο\n\nRE         FA#m      LA        RE\nΠού έχει μες στο τσούρμο του, το μωρό μου\nRE  FA#m   LA      RE\nπού έχει μες στο τσούρμο του\nRE          MIm              LA          RE\nΌλο λεβέντες νέοι, όλο λεβέντες νέοι\n\nRE         FA#m      LA        RE\nΠαριώτες και τσιπιδιανοί, το μωρό μου\nRE  FA#m   LA      RE\nπαριώτες και τσιπιδιανοί\nRE          MIm              LA          RE\nκι οι άλλοι ναουσαίοι, όλο λεβέντες νέοι\n\nRE         FA#m      LA        RE\nΘα πάω να βρω τον Βεντούρη, το μωρό μου\nRE  FA#m   LA      RE\nθα πάω να βρω τον Βεντούρη\nRE          MIm              LA          RE\nπου 'χει το τρεχαντήρι, που 'χει το τρεχαντήρι\n\nRE         FA#m      LA        RE\nΝ' αράξουμε στον Αμπελά, το μωρό μου\nRE  FA#m   LA      RE\nν' αράξουμε στον Αμπελά\nRE          MIm              LA          RE\nπου 'ναι το πανηγύρι, που 'χει το τρεχαντήρι\n\nRE         FA#m      LA        RE\nΝα πάμε να καλάρουμε, το μωρό μου\nRE  FA#m   LA      RE\nνα πάμε να καλάρουμε\nRE          MIm              LA          RE\nστη Νάξο ένα βράδυ, στη Νάξο ένα βράδυ\n\nRE         FA#m      LA        RE\nΚαι το πρωί θ' αράξουμε, το μωρό μου\nRE  FA#m   LA      RE\nκαι το πρωί θ' αράξουμε\nRE          MIm              LA          RE\nστο πίσω το λιβάδι, στη Νάξο ένα βράδυ",
       "tr": "Màukas\n\nTha páo na vro to Maoká, moró mu\ntha páo na vro to Maoká,\nmazí tu na kaláro\nna páo na vgho stin Páro\n\nPu échi mes to tsúrmo tu, moró mu\npu échi mes to tsúrmo tu,\nólo levéndes néi\nólo levéndes néi\n\nPariótes ke Tsipidhianí, moró mu\nPariótes ke Tsipidhianí,\nki álli Naousséi\nólo levéndes néi\n\nTha páo na vro to Vendurí, moró mu\ntha páo na vro to Vendurí,\npu 'chi to trechandíri\nke ghio karavokýri\n\nNa 'ráksume ston Ambelá, moró mu\nna 'ráksume ston Ambelá,\npu 'ne to paniyíri\npu 'ne to paniyíri",
       "ti": "Màukas\n\nAndrò a cercare il Maoukàs, bimba mia\nandrò a cercare il Maoukàs,\nper imbarcarmi con lui\nper andare fino a Paros\n\nChe ha nella sua ciurma, bimba mia\nche ha nella sua ciurma,\ntutti giovani valorosi\ntutti giovani valorosi\n\nGente di Paros e di Tsipida, bimba mia\ngente di Paros e di Tsipida,\ne altri di Naoussa\ntutti giovani valorosi\n\nAndrò a cercare il Ventourís, bimba mia\nandrò a cercare il Ventourís,\nche ha la piccola barca da pesca\ne un figlio capitano\n\nAttracheremo ad Ambelàs, bimba mia\nattracheremo ad Ambelàs,\ndove c'è la festa del villaggio\ndove c'è la festa del villaggio\n\nNote alla traduzione\n\n\"καλάρω\" — termine marinaresco: imbarcarsi/salpare come membro dell'equipaggio.\n\"τρεχαντήρι\" — piccola barca da pesca/cabotaggio tradizionale delle isole greche (la stessa parola del titolo di \"Ένα τρεχαντηράκι\" che avevamo tradotto).\nΤσιπίδα, Ναούσα, Αμπελάς — villaggi e località dell'isola di Paros, che rendono il canto radicato in una geografia locale precisa, tipica dei canti d'imbarco delle Cicladi.",
-      "no": "\"Μάουκας\" sembra essere il nome/soprannome di una persona reale — un capitano/padrone di barca a cui ci si rivolge nel canto tradizionale, con versi come:\n\n\"Να πάω να βρω το Μαουκά, μαζί του να καλάρω, να πάω να βγω στην Πάρο... Που έχει μέσ' το τσούρμο του όλο λεβέντες νέοι, Παριώτες και Τσιπιδιανοί, κι άλλοι Ναουσαίοι...\"\n\n(Vado a cercare il Maoukàs, per salpare con lui e andare a Paros... che ha nel suo equipaggio tutti giovani valorosi, gente di Paros, di Tsipída e di Naoussa)\n\nSembra quindi un canto di imbarco/marineria, dove ci si rivolge a un capitano locale ben noto (forse realmente esistito, un \"personaggio\" della tradizione orale delle Cicladi) per unirsi al suo equipaggio di giovani marinai delle isole vicine."
+      "no": "\"Μάουκας\" sembra essere il nome/soprannome di una persona reale — un capitano/padrone di barca a cui ci si rivolge nel canto tradizionale, con versi come:\n\n\"Να πάω να βρω το Μαουκά, μαζί του να καλάρω, να πάω να βγω στην Πάρο... Που έχει μέσ' το τσούρμο του όλο λεβέντες νέοι, Παριώτες και Τσιπιδιανοί, κι άλλοι Ναουσαίοι...\"\n\n(Vado a cercare il Maoukàs, per salpare con lui e andare a Paros... che ha nel suo equipaggio tutti giovani valorosi, gente di Paros, di Tsipída e di Naoussa)\n\nSembra quindi un canto di imbarco/marineria, dove ci si rivolge a un capitano locale ben noto (forse realmente esistito, un \"personaggio\" della tradizione orale delle Cicladi) per unirsi al suo equipaggio di giovani marinai delle isole vicine.",
+      "balgr": ""
     },
     {
       "id": "s_1785851586837",
@@ -11711,7 +11856,7 @@
       "date": "2026-08-03",
       "tgr": "Ένα τρεχαντηράκι",
       "tit": "Ena trechandiràki",
-      "alias": "",
+      "alias": "Τρεχαντηράκι",
       "at": "tradizionale",
       "am": "tradizionale",
       "yr": "tradizionale",
@@ -11725,7 +11870,8 @@
       "ch": "LAm           MI    REm         LAm \nΈνα τρεχαντηράκι, ένα τρεχαντηράκι\nLAm           MI    REm         LAm\nΈνα τρεχαντηράκι βοριάς το 'μπόδισε\n REm             LAm\nκαι μια μελαχρινούλα, τζόγια μου, αμάν   \n        MIm  LAm\nτο κληρονόμησε  \n REm             LAm\nκαι μια μελαχρινούλα, τζόγια μου, αμάν   \n        MIm  LAm\nτο κληρονόμησε                                                \n \nLAm           MI    REm         LAm \nΤα δίχτυα θα πουλήσω τα δίχτυα θα πουλήσω\nLAm           MI    REm         LAm\nτα δίχτυα θα πουλήσω και τη βαρκούλα μου\n REm             LAm\nκι όλα θα στα χαρίσω, τζόγια μου, αμάν   \n        MIm  LAm\nμελαχρινούλα μου\n REm             LAm\nκι όλα θα στα χαρίσω, τζόγια μου, αμάν   \n        MIm  LAm\nμελαχρινούλα μου                         \n \nLAm           MI    REm         LAm \nΘάλασσα μην θυμώνεις Θάλασσα μην θυμώνεις\nLAm           MI    REm         LAm\nΘάλασσα μην θυμώνεις μην κάνεις κύματα\n REm             LAm\nστην π' αγαπώ τα στέλνω, τζόγια μου, αμάν   \n REm             LAm\nτα χαιρετίσματα  \n REm             LAm\nστην π' αγαπώ τα στέλνω, τζόγια μου, αμάν   \n REm             LAm\nτα χαιρετίσματα",
       "tr": "Éna trechandiráki\n\nÉna trechandiráki, éna trechandiráki\néna trechandiráki voriás to 'bódise\nke mia melachrinúla, tzóya mu, amán\nto klironómise\n\nTa díchtia tha pulíso\nke ti varkúla mu\nki óla tha sta charíso, tzóya mu, amán\nmelachrinúla mu\n\nThálassa min thimónis\nmin kánis kímata\nstin p'agapó ta stélno, tzóya mu, amán\nta chairetísmata",
       "ti": "Una piccola barca da pesca\n\nUna piccola barca da pesca, una piccola barca da pesca\nuna piccola barca da pesca, il vento di tramontana la fermò\ne una ragazza dai capelli scuri, gioia mia, ahimè\nla ereditò\n\nVenderò le reti\ne la mia barchetta\ne ti regalerò tutto, gioia mia, ahimè\nragazza mia dai capelli scuri\n\nMare, non arrabbiarti\nnon fare onde\na chi amo mando, gioia mia, ahimè\ni miei saluti\n\nNote alla traduzione\n\n\"τζόγια μου\" — dal veneziano \"gioia mia\", entrato nel dialetto delle isole greche per l'influenza veneziana.\n\"μελαχρινούλα\" — diminutivo affettuoso di \"μελαχρινή\" (dalla carnagione/capelli scuri), reso con \"ragazza dai capelli scuri\" per mantenere il tono vezzeggiativo.",
-      "no": ""
+      "no": "",
+      "balgr": ""
     },
     {
       "id": "s_1785768532854",
@@ -19978,6 +20124,95 @@
         "ar"
       ],
       "instr": "voce, laouto"
+    },
+    {
+      "id": "p_1792729242906",
+      "name": "Ρένα Στέλλα",
+      "nameit": "Réna Stélla",
+      "born": "sconosciuta",
+      "died": "sconosciuta",
+      "bio": "Cantante di musica popolare greca degli anni Sessanta, di cui sono rimaste pochissime notizie.\n\nÈ ricordata soprattutto per la sua apparizione nel film comico «Φίφης ο ακτύπητος» (1966), di Κώστας Λυχναράς, con Σταύρος Παράβας. In una scena ambientata in una taverna canta dal vivo insieme a Τάκης Καραολής, accompagnata al bouzouki da Γιώργος Μητσάκης in persona.\n\nNon si conoscono altre notizie certe sulla sua vita e sulla sua carriera.",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1792729312645",
+      "name": "Τάκης Καραολής",
+      "nameit": "Tákis Karaolís",
+      "born": "sconosciuta",
+      "died": "sconosciuta",
+      "bio": "Cantante di musica popolare greca attivo negli anni Sessanta.\n\nCompare come cantante in tre film del cinema greco di quegli anni: «Με ιδρώτα και δάκρυα» (1965), «Αιχμάλωτοι του πεπρωμένου» (1966) e «Φίφης ο ακτύπητος» (1966). In quest’ultimo canta in una scena di taverna con Ρένα Στέλλα, accompagnato al bouzouki da Γιώργος Μητσάκης.\n\nHa inciso alcuni dischi a 45 giri, uno con Ρούλα Καλάκη («Εγώ είμαι δημοκράτης») e uno con Μαρία Κορδερά («Νύχτες που περάσαμε»).",
+      "link": "",
+      "listen": "",
+      "photo": "",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1792730075691",
+      "name": "Μάριον Σίβα",
+      "nameit": "Márion Síva",
+      "born": "1939, Mitilene (Lesbo)",
+      "died": "12 agosto 1981, Atene",
+      "bio": "Vero nome: Ζαχαρούλα Μπούρμπουλα (Zacharoúla Boúrboula)\n\nCantante e attrice, nata a Mitilene. Fu scoperta a Salonicco da Γιώργος Οικονομίδης, il presentatore più famoso dei locali notturni dell’epoca.\n\nNel 1962 vinse il primo premio al concorso di canzoni del Comune di Atene con «Αθήνα, άνθρωποι και θεοί», musica di Τάκης Μωράκης. L’anno dopo partecipò al Festival della canzone di Salonicco con due canzoni di Σταύρος Κουγιουμτζής, «Νυχτερινές φωτιές» e «Δώσ' μου το χέρι αγάπη μου». Con lo stesso Κουγιουμτζής cantò in duetto «Αν δεις στον ύπνο σου ερημιά».\n\nIncise molti 45 giri, soprattutto di musica leggera e d’autore: canzoni di Νίνη Ζαχά, Μίμης Πλέσσας, Λυκούργος Μαρκέας, Μενέλαος Θεοφανίδης, e «Αλίμονο» di Αλέκος Σπάθης con il Trio Rodeo. Cantò anche canzoni popolari, come «Ο Θανάσης» di Γιώργος Μητσάκης.\n\nNei locali notturni lavorò accanto a Καίτη Μπελίντα, Μαρινέλλα e allo stesso Οικονομίδης.\n\nNegli anni Sessanta recitò in quattro film: «Καλημέρα Αθήνα» (1960), «Συμβαίνει στην Αθήνα» (1962), «Ο Σταμάτης και ο Γρηγόρης» (1962) e «Έξω φτώχεια και καλή καρδιά» (1964).\n\nAll’inizio degli anni Settanta, dopo una grande delusione d’amore, emigrò negli Stati Uniti. Cantò nelle principali città americane e a Manhattan sposò un greco-americano.\n\nTornata in Grecia, morì ad Atene il 12 agosto 1981, a 42 anni, cadendo dal balcone della sua casa.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/siva.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "voce"
+    },
+    {
+      "id": "p_1792774029444",
+      "name": "Βασίλης Σαλέας (1958)",
+      "nameit": "Vasílis Saléas",
+      "born": "11 dicembre 1958, Messolongi",
+      "died": "",
+      "bio": "Clarinettista di famiglia di musicisti di origine rom. Il padre, Nikos Saleas, suonava il clarino nei panigíria e nei locali di musica tradizionale di Atene. Lo zio, Vasilis Saleas, fu uno dei più grandi clarinettisti del suo tempo: lui stesso ha raccontato di voler diventare «famoso come mio zio». Il fratello Sarantis è cantante e tastierista.\n\nUn anno dopo la nascita la famiglia si trasferì a Petroupoli, alla periferia di Atene.\n\nA 9 anni suonava già il clarino. A 11 suonava di nascosto nei panigíria, che chiama la sua «grande università». Il padre all’inizio era contrario, per paura delle risse alle feste, e cedette quando vide quanto il figlio era bravo. Lasciò la scuola per la musica. Frequentò il conservatorio per un anno, ma lo abbandonò perché la tecnica di soffio che gli insegnavano non era quella del padre, che voleva continuare. È di fatto autodidatta.\n\nA 14 anni incise il primo 45 giri per la Columbia.\n\nIl passaggio dal repertorio dimotikó a quello laïkó avvenne con Eleni Vitali, al locale «Ντέφι» di Galatsi, dove suonò con lei per sette anni.\n\nNel 1983 accompagnò Dionysis Savvopoulos nella tournée «20 χρόνια δρόμος» e nel periodo di «Τα τραπεζάκια έξω».\n\nDecisivo fu l’incontro con Stamatis Spanoudakis, conosciuto in un locale a Sofikó di Corinzia, che diventò poi suo koumbaros. Ne nacquero la musica del film «Πέτρινα χρόνια», «Αλέξανδρος» e «Γλυκύ μου έαρ».\n\nDopo un suo concerto all’Odeon di Erode Attico, Vangelis Papathanassiou andò a complimentarsi con lui in camerino. Cominciò così una collaborazione che portò al disco «Όραμα» (1996), con musiche di Vangelis, e gli aprì la carriera internazionale. Seguirono «Litany» (1997) su musiche di Mikis Theodorakis, e un disco su musiche di Mimis Plessas.\n\nManos Hatzidakis gli propose di incidere le sue canzoni in versione strumentale. Lui rifiutò, perché era legato a Spanoudakis, e ha detto più volte che è il più grande rimpianto della sua vita.\n\nHa suonato anche con Giannis Parios, George Dalaras, Haris Alexiou e Nikos Papazoglou. Giannis Parios ha detto di lui che «canta» con il clarino.\n\nHa tenuto concerti a Parigi, Francoforte, Monaco, Sydney, New York, Toronto, Dubai e Bahrein. A Costantinopoli, dove ha registrato più concerti dal vivo, gli è stato regalato un clarino d’avorio. Il clarino dello zio, passato al padre e poi a lui, gli è stato rubato.\n\nDei suoi figli, Nikos suona il clarino e Stamatis il violino. Stamatis porta il nome di Spanoudakis.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vsaleas58.jpg",
+      "roles": [
+        "am",
+        "ar"
+      ],
+      "instr": "clarinO"
+    },
+    {
+      "id": "p_1792774838723",
+      "name": "Βασίλης Σαλέας",
+      "nameit": "Vasílis Saléas",
+      "born": "1929, Missolungi",
+      "died": "17 novembre 1972, Atene",
+      "bio": "Vero nome: Βασίλης Παναγιωτόπουλος (Saleas era il nome della famiglia nell’ambiente musicale)\n\nClarinettista di una famiglia rom di musicisti di Missolungi, considerato da molti il più grande clarinettista della musica tradizionale greca.\n\nEra registrato all’anagrafe di Missolungi, ma secondo alcuni nacque in uno dei villaggi di pianura del basso Acheloo. Crebbe in povertà.\n\nIl padre, Kostas Saleas, era un virtuoso dello zournás. Vasilis cominciò da bambino con un flauto di canna, passò allo zournás e infine al clarino. Ebbe come maestri il padre, Theodoros Antonopoulos e Charalambos Margelis di Missolungi.\n\nA 17 anni era già conosciuto in tutti i panigíria della zona.\n\nDurante l’occupazione tedesca partecipò alla Resistenza.\n\nVisse otto anni negli Stati Uniti, dove incise con cantanti della comunità greca. Negli anni successivi suonò con tutti i grandi interpreti del canto dimotikó e laïkó. Nel 1961, per esempio, incise con Poly Panou e Manolis Fotiou. Era soprannominato «il maresciallo del clarino».\n\nIl poeta Thomas Gorpas lo definì il «rock duro» della musica popolare del dopoguerra: anarchico, intransigente, esplosivo. Spesso faceva salire i clienti sul palco, oppure scendeva lui fra i tavoli. Suonava fino all’alba melodie scure e strane che, scrive Gorpas, non si sono più sentite.\n\nEra elegante e passionale: orgoglioso come musicista, ma buono e generoso. Aiutò come poteva la sua comunità rom.\n\nMorì ad Atene nel 1972, a soli 43 anni. Al funerale cinque clarini accompagnarono la bara in chiesa e altri cinque suonarono sulla tomba.\n\nIl suo clarino passò al fratello Nikos e poi al nipote Vasilis Saleas (1958), al quale fu rubato.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/vsaleas.jpg",
+      "roles": [
+        "ar"
+      ],
+      "instr": "clarino"
+    },
+    {
+      "id": "p_1792774977632",
+      "name": "Νίκος Σαλέας",
+      "nameit": "Níkos Saléas",
+      "born": "Missolungi",
+      "died": "sconosciuto",
+      "bio": "Clarinettista di una famiglia rom di musicisti di Missolungi. Era fratello del grande clarinettista Vasilis Saleas (1929–1972).\n\nViveva a Missolungi con la moglie Nefeli, che cantava canti tradizionali. Lì nacque il primo figlio, Vasilis. Il secondo, Sarantis, nacque a Patrasso mentre lui faceva il servizio militare. Poco dopo la famiglia si trasferì a Petroupoli, alla periferia di Atene, in cerca di una vita migliore.\n\nEra un clarinettista conosciuto. Suonava nei panigíria e nei locali di musica tradizionale di Atene, e fece tournée in America, Australia e Canada.\n\nAveva un soffio dolce ed espressivo, che il figlio Vasilis ha preso a modello, al punto da lasciare il conservatorio per non perderlo.\nconosciuto\nNon voleva che i figli facessero i musicisti, anche per paura delle risse ai panigíria. Cambiò idea quando vide quanto ci tenevano. Divennero entrambi musicisti: Vasilis clarinettista e Sarantis cantante e tastierista.\n\nIl clarino di famiglia, appartenuto al fratello Vasilis, passò a lui e poi al figlio.",
+      "link": "",
+      "listen": "",
+      "photo": "https://musicagreca.github.io/musica-greca/images/nsaleas.jpg",
+      "roles": [],
+      "instr": "clarino"
     }
   ]
 }
