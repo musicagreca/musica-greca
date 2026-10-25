@@ -473,6 +473,17 @@ function tryRestoreFromGithub(){
 function sv(){try{localStorage.setItem(SK,JSON.stringify(songs))}catch(e){alert('⚠️ ATTENZIONE: salvataggio canzoni fallito! La memoria del browser è piena.\n\nLe modifiche NON sono state salvate. Esporta subito i dati (pulsante Esporta) prima di ricaricare o chiudere la pagina, altrimenti le perderai.\n\nErrore tecnico: '+e.message);}}
 function sva(){try{localStorage.setItem(AK,JSON.stringify(args))}catch(e){alert('⚠️ ATTENZIONE: salvataggio approfondimenti fallito! La memoria del browser è piena.\n\nEsporta subito i dati prima di ricaricare la pagina.\n\nErrore tecnico: '+e.message);}}
 function svp(){try{localStorage.setItem(PK,JSON.stringify(persons))}catch(e){alert('⚠️ ATTENZIONE: salvataggio persone fallito! La memoria del browser è piena.\n\nEsporta subito i dati prima di ricaricare la pagina.\n\nErrore tecnico: '+e.message);}}
+// Riga «chi» nell'elenco canzoni: musica, testo, cantante
+function songWho(s){
+  const am=(s.am||'').trim(),at=(s.at||'').trim();
+  let ar=(s.ar||'').trim();
+  if(!ar){const e=(s.executions||[]).find(e=>(e.who||'').trim());if(e)ar=e.who.trim();}
+  const p=[];
+  if(am&&am===at)p.push('🎼✍ '+esc(am));
+  else{if(am)p.push('🎼 '+esc(am));if(at)p.push('✍ '+esc(at));}
+  if(ar)p.push('🎤 '+esc(ar));
+  return p.join(' · ');
+}
 function initSongs(){songs=[{id:'s1',tgr:'Συννεφιασμένη Κυριακή',tit:'Domenica nuvolosa',at:'Βασίλης Τσιτσάνης',am:'Βασίλης Τσιτσάνης',yr:'1943',ar:'Σωτηρία Μπέλλου',lb:'',gn:'Ρεμπέτικο / Dromos Ousak',ll:'https://www.youtube.com/results?search_query=Συννεφιασμένη+Κυριακή',li:'',ch:'Am      Dm    E7      Am\nΣυννεφιασμένη Κυριακή\n\nAm         Dm        E7    Am\nμε κάνεις και αναστενάζω',tr:'Sinnefiasméni Kiriakí\nme kánis ke anastenázo',ti:'Domenica nuvolosa\nmi fai sospirare',no:"Dromos Ousak su La. Scritto durante l'occupazione tedesca.",date:'1943',executions:[{who:'Σωτηρία Μπέλλου',year:'1948',note:'Prima registrazione'},{who:'Χάρις Αλεξίου',year:'1975',note:'Reinterpretazione'}],offsets:{}},{id:'s2',tgr:'Τα παιδιά του Πειραιά',tit:'I ragazzi del Pireo',at:'Νίκος Γκάτσος',am:'Μάνος Χατζιδάκις',yr:'1960',ar:'Μελίνα Μερκούρη',lb:'Columbia',gn:'Laïká',ll:'',li:'',ch:'Dm    Am      E7\nΤα παιδιά του Πειραιά\n\nAm      Dm    Am\nπηγαίνουν στη δουλειά',tr:'Ta pediá tu Pireá',ti:'I ragazzi del Pireo',no:'Dal film Mai di domenica (1960). Oscar per la migliore canzone originale.',date:'1960',executions:[{who:'Μελίνα Μερκούρη',year:'1960',note:'Versione originale del film'}],offsets:{}}];sv();}
 function initArgs(){args=[{id:'a1',title:'I dromoi nella musica greca',tag:'Musica',date:new Date().toISOString().slice(0,10),body:"Il dromos è una scala modale con preciso carattere espressivo.\n\n• Ousak — minore naturale, malinconico\n• Hijaz — seconda aumentata, orientale\n• Saba — lugubre, profondo\n• Rast — maggiore, luminoso",link:''}];sva();}
 function initPersons(){persons=[{id:'p1',name:'Βασίλης Τσιτσάνης',nameit:'Vasilis Tsitsanis',born:'1915, Trikala',died:'1984, Londra',nat:'Greco',roles:['at','am'],bio:"Uno dei più grandi compositori di rembetiko.",link:'https://el.wikipedia.org/wiki/Βασίλης_Τσιτσάνης',listen:''},{id:'p2',name:'Σωτηρία Μπέλλου',nameit:'Sotiria Bellou',born:'1921, Halkida',died:'1997, Atene',nat:'Greca',roles:['ar'],bio:"Voce iconica del rembetiko.",link:'',listen:''},{id:'p3',name:'Μελίνα Μερκούρη',nameit:'Melina Mercouri',born:'1920, Atene',died:'1994, New York',nat:'Greca',roles:['ar'],bio:"Attrice e cantante.",link:'',listen:''},{id:'p4',name:'Μάνος Χατζιδάκις',nameit:'Manos Hadjidakis',born:'1925, Xanthi',died:'1994, Atene',nat:'Greco',roles:['am'],bio:"Compositore, Oscar 1961.",link:'',listen:''},{id:'p5',name:'Νίκος Γκάτσος',nameit:'Nikos Gatsos',born:'1911, Asea',died:'1992, Atene',nat:'Greco',roles:['at'],bio:"Poeta e paroliere.",link:'',listen:''}];svp();}
@@ -592,13 +603,14 @@ function renderAdminSongs(){
 
   // Filtri
   if(adminAlphaS) list=list.filter(s=>stripAccents((s.tgr||'?')[0]).toUpperCase()===adminAlphaS);
-  if(q) list=list.filter(s=>(s.tgr||'').toLowerCase().includes(q)||(s.tit||'').toLowerCase().includes(q));
+  if(q) list=list.filter(s=>[s.tgr,s.tit,s.am,s.at,s.ar,...(s.executions||[]).map(e=>e.who)].some(x=>(x||'').toLowerCase().includes(q)));
 
   el.innerHTML=list.length?list.map(s=>`
   <div class="admin-row">
     <div class="admin-row-main">
       <div class="admin-row-title">${esc(s.tgr)}</div>
-      <div class="admin-row-sub">${[s.tit,s.yr,s.gn,s.at?'✍'+s.at:''].filter(Boolean).join(' · ')}</div>
+      <div class="admin-row-sub">${[s.tit,s.yr,s.gn].filter(Boolean).map(esc).join(' · ')}</div>
+      <div class="admin-row-sub">${songWho(s)}</div>
     </div>
     <div class="admin-row-actions">
       <button class="abtn" onclick="editSong('${s.id}')">✎ Modifica</button>
