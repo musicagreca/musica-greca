@@ -427,17 +427,56 @@ let CH=8;
 const SK='mousg_songs',AK='mousg_args',PK='mousg_persons';
 let songs=[],args=[],persons=[];
 var GITHUB_DATI_URL='https://raw.githubusercontent.com/musicagreca/musica-greca/main/dati.json';
-function loadData(){
-  try{songs=JSON.parse(localStorage.getItem(SK)||'[]')}catch(e){songs=[]}
-  try{args=JSON.parse(localStorage.getItem(AK)||'[]')}catch(e){args=[]}
-  try{persons=JSON.parse(localStorage.getItem(PK)||'[]')}catch(e){persons=[]}
+/* Memoria grande del browser (IndexedDB): niente più limite dei 5 MB.
+   I dati vecchi del localStorage vengono spostati qui la prima volta. */
+const IDBN='musicagreca_admin';let IDB=null;
+function idbOpen(){return new Promise(function(res,rej){try{var r=indexedDB.open(IDBN,1);r.onupgradeneeded=function(){r.result.createObjectStore('kv')};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error)}}catch(e){rej(e)}})}
+function idbGet(k){return new Promise(function(res,rej){var q=IDB.transaction('kv').objectStore('kv').get(k);q.onsuccess=function(){res(q.result)};q.onerror=function(){rej(q.error)}})}
+function idbSet(k,v){return new Promise(function(res,rej){var t=IDB.transaction('kv','readwrite');t.objectStore('kv').put(v,k);t.oncomplete=function(){res()};t.onerror=function(){rej(t.error)};t.onabort=function(){rej(t.error||new Error('scrittura annullata'))}})}
+function idbKeys(){return new Promise(function(res,rej){var q=IDB.transaction('kv').objectStore('kv').getAllKeys();q.onsuccess=function(){res(q.result)};q.onerror=function(){rej(q.error)}})}
+function idbDel(k){return new Promise(function(res){var t=IDB.transaction('kv','readwrite');t.objectStore('kv').delete(k);t.oncomplete=function(){res()};t.onerror=function(){res()}})}
+function lsRead(k){try{return JSON.parse(localStorage.getItem(k)||'[]')}catch(e){return []}}
+async function loadData(){
+  try{IDB=await idbOpen();}catch(e){IDB=null;}
+  if(IDB){
+    try{if(navigator.storage&&navigator.storage.persist)navigator.storage.persist();}catch(e){}
+    var a=await idbGet(SK),b=await idbGet(AK),c=await idbGet(PK);
+    if(a===undefined&&b===undefined&&c===undefined){
+      // Primo avvio con la memoria nuova: sposto i dati dal localStorage
+      songs=lsRead(SK);args=lsRead(AK);persons=lsRead(PK);
+      if(songs.length||args.length||persons.length){
+        await idbSet(SK,songs);await idbSet(AK,args);await idbSet(PK,persons);
+        try{localStorage.removeItem(SK);localStorage.removeItem(AK);localStorage.removeItem(PK);}catch(e){}
+      }
+    } else {songs=a||[];args=b||[];persons=c||[];}
+  } else {
+    songs=lsRead(SK);args=lsRead(AK);persons=lsRead(PK);
+    storeBanner('⚠️ La memoria grande del browser non è disponibile: uso quella vecchia (limite 5 MB). Esporta spesso!','#993c1d');
+  }
   if(!songs.length && !args.length && !persons.length){
-    // Memoria locale vuota: prova a recuperare i dati veri da GitHub prima di caricare i dati d'esempio
+    // Memoria vuota: prova a recuperare i dati veri da GitHub
     tryRestoreFromGithub();
     return;
   }
-  if(!songs.length)initSongs();if(!args.length)initArgs();if(!persons.length)initPersons();
+  // Mai più dati d'esempio sopra quelli veri: se manca una parte, avviso
+  var vuoti=[!songs.length&&'canzoni',!persons.length&&'persone',!args.length&&'approfondimenti'].filter(Boolean);
+  if(vuoti.length)storeBanner('⚠️ Attenzione: mancano le '+vuoti.join(' e le ')+'. Non salvare niente: importa l\'ultimo dati.json (Esporta → Importa) oppure scarica una copia automatica.','#993c1d');
+  backupDaily();
 }
+function storeBanner(msg,bg){var b=document.getElementById('store-banner');if(!b){b=document.createElement('div');b.id='store-banner';b.style.cssText='position:fixed;bottom:0;left:0;right:0;z-index:99999;color:#fff;text-align:center;padding:10px 40px 10px 10px;font-family:Arial,sans-serif;font-size:13px';var x=document.createElement('button');x.textContent='✕';x.style.cssText='position:absolute;right:8px;top:6px;border:none;background:none;color:#fff;font-size:16px;cursor:pointer';x.onclick=function(){b.remove()};document.body.appendChild(b);b.appendChild(document.createElement('span'));b.appendChild(x);}b.style.background=bg;b.firstChild.textContent=msg;}
+/* Copia automatica: una al giorno, tengo le ultime 10 */
+async function backupDaily(){
+  if(!IDB||!songs.length)return;
+  try{
+    var k='backup-'+new Date().toISOString().slice(0,10);
+    if(await idbGet(k))return;
+    await idbSet(k,{date:new Date().toISOString(),songs:songs,args:args,persons:persons});
+    var ks=(await idbKeys()).filter(function(x){return String(x).indexOf('backup-')===0}).sort();
+    while(ks.length>10){await idbDel(ks.shift());}
+  }catch(e){}
+}
+async function listBackups(){if(!IDB)return [];try{return (await idbKeys()).filter(function(x){return String(x).indexOf('backup-')===0}).sort().reverse()}catch(e){return []}}
+async function downloadBackup(k){var d=await idbGet(k);if(!d)return;var blob=new Blob([JSON.stringify({version:1,exportedAt:d.date,homeImg:(function(){try{return localStorage.getItem('mousg_home_img')||''}catch(e){return ''}})(),songs:d.songs,args:d.args,persons:d.persons},null,2)],{type:'application/json'});var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='dati_copia_'+k.slice(7)+'.json';document.body.appendChild(a);a.click();a.remove();}
 function tryRestoreFromGithub(){
   var banner=document.createElement('div');
   banner.id='restore-banner';
@@ -448,7 +487,9 @@ function tryRestoreFromGithub(){
     .then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
     .then(function(data){
       songs=data.songs||[]; args=data.args||[]; persons=data.persons||[];
-      sv(); sva(); svp();
+      return Promise.all([sv(),sva(),svp()]).then(function(){return data});
+    })
+    .then(function(data){
       if(typeof data.homeImg==='string' && data.homeImg){
         try{ localStorage.setItem('mousg_home_img', data.homeImg); }catch(e){}
       }
@@ -464,15 +505,18 @@ function tryRestoreFromGithub(){
       closeBtn.style.cssText='margin-left:10px;padding:4px 10px;border-radius:4px;border:none;cursor:pointer';
       closeBtn.onclick=function(){
         banner.remove();
-        if(!songs.length)initSongs();if(!args.length)initArgs();if(!persons.length)initPersons();
-        location.reload();
+        banner.remove();
       };
       banner.appendChild(closeBtn);
     });
 }
-function sv(){try{localStorage.setItem(SK,JSON.stringify(songs))}catch(e){alert('⚠️ ATTENZIONE: salvataggio canzoni fallito! La memoria del browser è piena.\n\nLe modifiche NON sono state salvate. Esporta subito i dati (pulsante Esporta) prima di ricaricare o chiudere la pagina, altrimenti le perderai.\n\nErrore tecnico: '+e.message);}}
-function sva(){try{localStorage.setItem(AK,JSON.stringify(args))}catch(e){alert('⚠️ ATTENZIONE: salvataggio approfondimenti fallito! La memoria del browser è piena.\n\nEsporta subito i dati prima di ricaricare la pagina.\n\nErrore tecnico: '+e.message);}}
-function svp(){try{localStorage.setItem(PK,JSON.stringify(persons))}catch(e){alert('⚠️ ATTENZIONE: salvataggio persone fallito! La memoria del browser è piena.\n\nEsporta subito i dati prima di ricaricare la pagina.\n\nErrore tecnico: '+e.message);}}
+function saveKey(k,v,nome){
+  if(IDB){return idbSet(k,v).catch(function(e){alert('⚠️ ATTENZIONE: salvataggio '+nome+' fallito!\n\nLe modifiche NON sono state salvate. Esporta subito i dati (pulsante Esporta) prima di chiudere la pagina.\n\nErrore tecnico: '+(e&&e.message));throw e;});}
+  try{localStorage.setItem(k,JSON.stringify(v));return Promise.resolve();}catch(e){alert('⚠️ ATTENZIONE: salvataggio '+nome+' fallito! La memoria del browser è piena.\n\nLe modifiche NON sono state salvate. Esporta subito i dati (pulsante Esporta) prima di chiudere la pagina.\n\nErrore tecnico: '+e.message);return Promise.reject(e);}
+}
+function sv(){return saveKey(SK,songs,'canzoni');}
+function sva(){return saveKey(AK,args,'approfondimenti');}
+function svp(){return saveKey(PK,persons,'persone');}
 // Riga «chi» nell'elenco canzoni: musica, testo, cantante
 function songWho(s){
   const am=(s.am||'').trim(),at=(s.at||'').trim();
@@ -555,8 +599,8 @@ function showAPage(name){
     showHomeImgPreview(savedImg);
   }
 }
-function initAdmin(){
-  loadData();
+async function initAdmin(){
+  await loadData();
   renderAdminSongs();
   renderAdminPersons();
   renderAdminArgs();
@@ -688,22 +732,12 @@ function saveSong(){
       showAlert('song-form-alert','Canzone salvata come nuova (id precedente non trovato).','ok');
     } else {
       // Aggiornamento normale
-      const campi=[['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']];
+      const campi=[['sf-tgr','tgr'],['sf-tit','tit'],['sf-alias','alias'],['sf-at','at'],['sf-am','am'],['sf-yr','yr'],['sf-ar','ar'],['sf-lb','lb'],['sf-gn','gn'],['sf-zona','zona'],['sf-dr','dr'],['sf-bal','bal'],['sf-balgr','balgr'],['sf-ll','ll'],['sf-li','li'],['sf-ch','ch'],['sf-tr','tr'],['sf-ti','ti'],['sf-no','no']];
       campi.forEach(([f,k])=>{songs[idx][k]=gv(f);});
       songs[idx].executions=[...tempExecutions];
-      // Salva e verifica
-      try{
-        localStorage.setItem(SK,JSON.stringify(songs));
-        const verifica=JSON.parse(localStorage.getItem(SK)||'[]');
-        const ok=verifica.find(x=>x.id===editingSongId);
-        if(ok){
-          showAlert('song-form-alert','✓ Salvato: '+esc(ok.tgr),'ok');
-        } else {
-          showAlert('song-form-alert','Attenzione: salvataggio non verificato. Riprova.','err');
-        }
-      }catch(e){
-        showAlert('song-form-alert','Errore salvataggio: '+e.message,'err');
-      }
+      {const _bv=g('sf-balvid'); if(_bv) songs[idx].balvid=_bv.checked;}
+      const tit=songs[idx].tgr;
+      sv().then(()=>showAlert('song-form-alert','✓ Salvato: '+esc(tit),'ok')).catch(e=>showAlert('song-form-alert','Errore salvataggio: '+(e&&e.message),'err'));
     }
   } else {
     // Nuova canzone
@@ -1072,13 +1106,11 @@ async function exportData(){
 }
 function renderExportPreview(){
   const el=g('export-preview');if(!el)return;
-  // Legge direttamente dal localStorage per mostrare i dati realmente salvati
-  let lsSongs=[],lsPersons=[],lsArgs=[];
-  try{lsSongs=JSON.parse(localStorage.getItem(SK)||'[]')}catch(e){}
-  try{lsPersons=JSON.parse(localStorage.getItem(PK)||'[]')}catch(e){}
-  try{lsArgs=JSON.parse(localStorage.getItem(AK)||'[]')}catch(e){}
+  const lsSongs=songs,lsPersons=persons,lsArgs=args;
+  listBackups().then(function(ks){const b=g('backup-list');if(!b)return;b.innerHTML=ks.length?'<div style="font-weight:700;margin:.6rem 0 2px;font-size:11.5px">Copie automatiche (una al giorno, le ultime 10):</div>'+ks.map(k=>`<button class="abtn" style="margin:2px 4px 2px 0;font-size:11px" onclick="downloadBackup('${k}')">⬇ ${k.slice(7).split('-').reverse().join('/')}</button>`).join(''):'';});
   el.innerHTML=`
-    <div style="font-size:11px;color:var(--t3);margin-bottom:.3rem">Dati nel localStorage (quelli che verranno esportati):</div>
+    <div id="backup-list"></div>
+    <div style="font-size:11px;color:var(--t3);margin:.5rem 0 .3rem">Dati salvati ${IDB?'nella memoria grande del browser':'nel localStorage'} (quelli che verranno esportati):</div>
     <div>📀 <strong>${lsSongs.length}</strong> canzoni &nbsp;·&nbsp; 👤 <strong>${lsPersons.length}</strong> persone &nbsp;·&nbsp; 📖 <strong>${lsArgs.length}</strong> approfondimenti</div>
     <div style="margin-top:.4rem;color:var(--t3);font-size:11px">Ultima lettura: ${new Date().toLocaleString('it-IT')}</div>
     <div style="margin-top:.6rem;font-size:11.5px">
