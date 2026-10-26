@@ -744,7 +744,7 @@ function formatArgBody(raw){
   function linkOrImg(url, align){
     if(isImgUrl(url)){
       var cls = align==='centro' ? 'imgC' : (align==='destra' ? 'imgR' : 'imgL');
-      return '<a href="'+url+'" target="_blank" rel="noopener" class="arg-img-link '+cls+'"><img src="'+url+'" class="arg-inline-img" loading="lazy" alt=""></a>';
+      return '<a href="'+url+'" target="_blank" rel="noopener" class="arg-img-link '+cls+'"><img src="'+url+'" class="arg-inline-img" loading="lazy" alt="" onerror="hideImg(this)"></a>';
     }
     if(isAudioUrl(url)){
       return '<a class="arg-link-btn arg-link-audio" href="'+url+'" target="_blank" rel="noopener">&#127925; Ascolta <span class="arg-link-ico">↗</span></a>';
@@ -763,7 +763,7 @@ function formatArgBody(raw){
     out = out.replace(/\{\{imgrow:([^}]+)\}\}/g, function(m, urls){
       var list = urls.split('|').map(function(u){return u.trim();}).filter(Boolean);
       var items = list.map(function(u){
-        return '<span class="arg-img-row-item"><a href="'+u+'" target="_blank" rel="noopener"><img src="'+u+'" loading="lazy" alt=""></a></span>';
+        return '<span class="arg-img-row-item"><a href="'+u+'" target="_blank" rel="noopener"><img src="'+u+'" loading="lazy" alt="" onerror="hideImg(this)"></a></span>';
       }).join('');
       return '<span class="arg-img-row">'+items+'</span>';
     });
