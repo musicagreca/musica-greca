@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-10-26T10:42:43.969Z",
+  "exportedAt": "2026-10-27T05:43:11.511Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
     {
@@ -265,8 +265,8 @@
       "yr": "",
       "ar": "",
       "lb": "",
-      "gn": "",
-      "zona": "",
+      "gn": "dimotikò",
+      "zona": "Naxos",
       "dr": "",
       "bal": "",
       "balgr": "",
@@ -387,7 +387,7 @@
       "yr": "1939",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -428,7 +428,7 @@
       "yr": "1940",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "zona": "",
       "dr": "",
       "bal": "Aptaliko",
@@ -469,7 +469,7 @@
       "yr": "1948",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -610,7 +610,7 @@
       "yr": "1987",
       "ar": "Νικόλας Άσιμος",
       "lb": "",
-      "gn": "",
+      "gn": "Entechno",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -836,7 +836,7 @@
       "yr": "1955",
       "ar": "",
       "lb": "",
-      "gn": "Laïko classico / Elafrolaïko",
+      "gn": "Laikà",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -1182,7 +1182,7 @@
       "yr": "1934",
       "ar": "Στράτος Παγιουμτζής, Γιώργος Μπάτης",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -1260,7 +1260,7 @@
       "yr": "1932",
       "ar": "Γιώργος Μπάτης",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -1327,7 +1327,7 @@
       "yr": "1960",
       "ar": "",
       "lb": "HIS MASTER'S VOICE A.O. 5643",
-      "gn": "",
+      "gn": "Laikà",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -1713,7 +1713,7 @@
       "yr": "1953",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -1773,7 +1773,7 @@
       "yr": "1946",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -2121,7 +2121,7 @@
       "yr": "1961",
       "ar": "Δημήτρης Στεργίου",
       "lb": "",
-      "gn": "",
+      "gn": "Laikà",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -2466,7 +2466,7 @@
       "yr": "1961",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Laikà",
       "zona": "",
       "dr": "ουσάκ",
       "bal": "Tsifteteli",
@@ -2669,24 +2669,10 @@
           "vid": false
         },
         {
-          "who": "Γιώργης Κουτσουρέλης",
-          "year": "",
-          "note": "",
-          "link": "https://www.youtube.com/watch?v=hYya8qgaZBU",
-          "vid": false
-        },
-        {
           "who": "Θανάσης Σκορδαλός",
           "year": "",
           "note": "Μια τουρκοπουλα στο τζαμι",
           "link": "https://www.youtube.com/watch?v=LqyEE75-Rcw",
-          "vid": false
-        },
-        {
-          "who": "Στέλιος Φουσταλιεράκης",
-          "year": "",
-          "note": "",
-          "link": "https://www.youtube.com/watch?v=3vJpm9htezc",
           "vid": false
         },
         {
@@ -2708,6 +2694,20 @@
           "year": "",
           "note": "",
           "link": "https://www.youtube.com/watch?v=kcQkStRXqRM",
+          "vid": false
+        },
+        {
+          "who": "Γιώργης Κουτσουρέλης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=hYya8qgaZBU",
+          "vid": false
+        },
+        {
+          "who": "Στέλιος Φουσταλιέρης",
+          "year": "",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=3vJpm9htezc",
           "vid": false
         }
       ],
@@ -2972,7 +2972,7 @@
       "yr": "1972",
       "ar": "Μανώλης Μητσιάς",
       "lb": "",
-      "gn": "",
+      "gn": "Entechno",
       "zona": "",
       "dr": "",
       "bal": "Chasaposèrvikos",
@@ -3221,7 +3221,7 @@
       "yr": "1974",
       "ar": "Ευστράτιος Δημητρίου",
       "lb": "",
-      "gn": "",
+      "gn": "Rock",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -3238,13 +3238,6 @@
       "id": "s_1789206529580",
       "offsets": {},
       "executions": [
-        {
-          "who": "Γιάννης Μπερνιδάκης, Στέλιος Φουσταλιεράκης",
-          "year": "1940",
-          "note": "",
-          "link": "https://www.youtube.com/watch?v=td0JNRrrOqw",
-          "vid": false
-        },
         {
           "who": "Κώστας Μουντάκης",
           "year": "1986",
@@ -3272,6 +3265,13 @@
           "note": "",
           "link": "https://www.youtube.com/watch?v=4oJlgX8vGSA",
           "vid": false
+        },
+        {
+          "who": "Γιάννης Μπερνιδάκης,Στέλιος Φουσταλιέρης",
+          "year": "1940",
+          "note": "",
+          "link": "https://www.youtube.com/watch?v=td0JNRrrOqw",
+          "vid": false
         }
       ],
       "date": "2026-09-12",
@@ -3279,11 +3279,11 @@
       "tit": "San ìchies alon stin kardià",
       "alias": "Πονεμένη καρδιά",
       "at": "Γιάννης Μπερνιδάκης",
-      "am": "Στέλιος Φουσταλιεράκης",
+      "am": "Στέλιος Φουσταλιέρης",
       "yr": "1940",
       "ar": "",
       "lb": "",
-      "gn": "canzone urbana cretese",
+      "gn": "Ταμπαχανιώτικα",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -3309,7 +3309,7 @@
       "yr": "1995",
       "ar": "Θανάσης Παπακωνσταντίνου, Σωκράτης Μάλαμας",
       "lb": "",
-      "gn": "",
+      "gn": "Entechno",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -3384,8 +3384,8 @@
       "yr": "tradizionale",
       "ar": "",
       "lb": "",
-      "gn": "",
-      "zona": "",
+      "gn": "dimotikò",
+      "zona": "Epiro",
       "dr": "",
       "bal": "",
       "balgr": "",
@@ -3741,7 +3741,7 @@
       "yr": "1961",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Entechno",
       "zona": "",
       "dr": "",
       "bal": "",
@@ -4107,7 +4107,7 @@
       "yr": "1963",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Laikà",
       "dr": "",
       "bal": "",
       "balgr": "",
@@ -4117,7 +4117,8 @@
       "tr": "Áma thes na fíghis, fíghie\n\nKáthe méra me gkriniázis, óti se parameló\nki afú sto 'cho apodíksi, móno eséna agapó\n\nÁma thes na fíghis, fíghie\náma thes na klápsis klápse\nna gkriniázis móno pápse\nden boró na t' anechtó\nÁma thes na fíghis, fíghe\nsto 'pa kie sto ksanaléo\nmi mu pis metá pos ftéo\nótan m' álli tha blechtó\n\nChérome pu me latrévis, chérome pu m' agapás\nÓmos me kurázi i gkrínia, ótan tin paratravás\n\nÁma thes na fíghis, fíghie...\n\nÉrchome stin agkaliá su lígho na ksekurastó\nkie stis pio ómorfes stighmés mu, kánis kie varygkomó\n\nÁma thes na fíghis, fíghie...",
       "ti": "Se vuoi andartene, vattene\n\nOgni giorno mi rimproveri, che ti trascuro\ne anche se te l'ho già dimostrato, amo solo te\n\nSe vuoi andartene, vattene\nse vuoi piangere, piangi\ndi lamentarti smettila e basta\nnon riesco a sopportarlo\nSe vuoi andartene, vattene\nte l'ho detto e te lo ripeto\nnon dirmi poi che la colpa è mia\nquando mi legherò a un'altra\n\nSono felice che tu mi adori, sono felice che tu mi ami\nMa mi stanca la lamentela, quando la tiri troppo per le lunghe\n\nSe vuoi andartene, vattene...\n\nVengo tra le tue braccia un po' per riposarmi\ne nei miei momenti più belli, ti metti pure a brontolare\n\nSe vuoi andartene, vattene...\n\nNote di traduzione\n\n\"με γκρινιάζεις\" — \"mi rimproveri/mi fai le lamentele\": verbo già incontrato in altre canzoni (γκρίνια), qui riferito a un rimprovero ripetuto e insistente, tipico di litigi di coppia quotidiani.\n\n\"θα μπλεχτώ\" — letteralmente \"mi imbroglierò/mi ingarbuglierò\": espressione colloquiale per \"avere una relazione/storia con un'altra persona\", qui reso con \"mi legherò a un'altra\" per mantenere il senso minaccioso/di avvertimento.\n\n\"όταν την παρατραβάς\" — \"quando la tiri troppo per le lunghe\" (da \"τραβάω\", tirare): modo di dire per indicare che si esagera con qualcosa, in questo caso con le lamentele, portandole oltre il limite della sopportazione.\n\n\"κάνεις και βαρυγκωμώ\" — \"ti metti pure a brontolare/lamentarti pesantemente\" (da \"βαρυγκομώ\", borbottare con pesantezza): sottolinea con leggero sarcasmo che l'altra persona si lamenta persino nei momenti belli della relazione, aggravando il malcontento generale espresso nella canzone.",
       "no": "",
-      "balvid": false
+      "balvid": false,
+      "zona": ""
     },
     {
       "id": "s_1788924747335",
@@ -4693,7 +4694,7 @@
       "yr": "1953",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "archontorembétiko",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -4701,7 +4702,10 @@
       "ch": "LAm\nΈξω ο βοριάς σφυρίζει\nMI         LAm\nκι είμαι μοναχός\nLAm\nμε κλειστό το μαγκαλάκι\nMIm       LAm\nμένω ο φτωχός\n\nLAm        FA    DO    REm\nΓύρισε κι άναψε το μαγκαλάκι\nLAm       FA    DO   MI    LAm\nόπως μου τ' άναβες κάθε βραδάκι\n\nLAm\nΣτης αγάπης μας τη στάχτη\nMI         LAm\nψάχνω προσπαθώ\nLAm\nμήπως βρω καμία σπίθα\nMI         LAm\nγια να ζεσταθώ\n\nLAm        FA    DO    REm\nΓύρισε κι άναψε το μαγκαλάκι\nLAm       FA    DO   MI    LAm\nόπως μου τ' άναβες κάθε βραδάκι\nLAm\nΕίναι κρύο αυτό το βράδυ\nMI         LAm\nπέφτει κι η βροχή\nLAm\nκαι νεκρό χωρίς μαγκάλι\nMI                LAm\nθα μ' εύρουν την αυγή\n\nLAm        FA    DO    REm\nΓύρισε κι άναψε το μαγκαλάκι\nLAm       FA    DO   MI    LAm\nόπως μου τ' άναβες κάθε βραδάκι",
       "tr": "To mangalàki\n\nÉkso o vorià sfirìzi\nki ìme monachòs\nme klistò to manghalàki\nméno o ftochòs\n\nGhìrise ki ànapse to manghalàki\nòpos mu t'ànaves kàthe vradàki\n\nStis aghàpis mas ti stàchti\npsàchno prospathò\nmìpos vro kamìa spìtha\nghia na zestathò\n\nGhìrise ki ànapse to manghalàki\nòpos mu t'ànaves kàthe vradàki\n\nÌne krìo aftò to vràdi\npèfti ki i vrochì\nke nekrò chorìs manghàli\ntha m'èvrun tin avghì\n\nGhìrise ki ànapse to manghalàki\nòpos mu t'ànaves kàthe vradàki",
       "ti": "Il braciere\n\nFuori fischia la tramontana¹\ne sono solo,\ncon il braciere spento²\nresto, povero me\n\nTorna e accendi il braciere,\ncome me lo accendevi ogni sera\n\nNella cenere del nostro amore\ncerco, provo,\nforse trovo qualche scintilla\nper riscaldarmi\n\nTorna e accendi il braciere,\ncome me lo accendevi ogni sera\n\nFa freddo stanotte,\ncade anche la pioggia,\ne morto senza braciere\nmi troveranno all'alba\n\nTorna e accendi il braciere,\ncome me lo accendevi ogni sera\n\nNote\n\nΒοριάς – \"tramontana, vento del nord\", spesso usato in senso poetico per rappresentare freddo, solitudine e avversità, sia meteorologica che emotiva.\nΜαγκάλι/μαγκαλάκι – braciere tradizionale (recipiente con carboni ardenti usato per riscaldare gli ambienti prima dell'avvento del riscaldamento moderno); qui diventa metafora centrale del calore dell'amore perduto: senza la persona amata a \"accenderlo\", sia fisicamente che simbolicamente, il protagonista rischia di morire di freddo/solitudine.",
-      "no": "Il magali era un braciere portatile metallico all'interno del quale si bruciava il carbone o la carbonella. Prima dell'arrivo del riscaldamento moderno, era l'unica fonte di calore nelle povere case dei quartieri popolari greci. Le persone si sedevano in cerchio intorno a esso per riscaldarsi le mani e l'anima."
+      "no": "Il magali era un braciere portatile metallico all'interno del quale si bruciava il carbone o la carbonella. Prima dell'arrivo del riscaldamento moderno, era l'unica fonte di calore nelle povere case dei quartieri popolari greci. Le persone si sedevano in cerchio intorno a esso per riscaldarsi le mani e l'anima.",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1788679388314",
@@ -5042,7 +5046,7 @@
       "yr": "1968",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Laikà",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -5050,7 +5054,10 @@
       "ch": "Πες μου για δε μ' αφήνεις\nΜε δυο φιλιά να πάρω\nΑπ' τα θολά σου μάτια\nΤη μαύρη συννεφιά\n\nLAm\nΤι σου 'κανα και πίνεις\nMI       LAm    MI\nΤσιγάρο στο τσιγάρο\nLAm\nΚι είν τα πικρά σου μάτια\nMI       LAm\nΣτο πάτωμα καρφιά\n\nREm\nΠες μου για δε μ' αφήνεις\nMI       LAm    MI    LAm\nΜε δυο φιλιά να πάρω\nREm         MI\nΑπ' τα θολά σου μάτια\nLAm         LA7\nΤη μαύρη συννεφιά\n\nREm\nΠες μου για δε μ' αφήνεις\nSOL      DO      SOL    LAm\nΜε δυο φιλιά να πάρω\nREm         MI\nΑπ' τα θολά σου μάτια\nLAm\nΤη μαύρη συννεφιά\n\nLAm\nΟι πόνοι που σε σφάζουν\nMI       LAm    MI\nΠόνοι διπλοί για μένα\nLAm\nΣταλάζουν στην καρδιά μου\nMI       LAm\nΤα δάκρυα που κλαις\n\nREm\nΝα 'ξερες πώς σπαράζουν\nMI       LAm    MI    LAm\nΤα μέσα μου για σένα\nREm         MI\nΠου στέκεσαι μακριά μου\nLAm         LA7\nΚαι λόγια δε μου λες\n\nREm\nΝα 'ξερες πώς σπαράζουν\nSOL      DO      SOL    LAm\nΤα μέσα μου για σένα\nREm         MI\nΠου στέκεσαι μακριά μου\nLAm       MI      LAm\nΚαι λόγια δε μου λες\n\nLAm\nΑμίλητό μου στόμα\nMI       LAm    MI\nφεγγάρι μου σβησμένο\nLAm\nανάθεμα την ώρα\nMI       LAm\nκαι τη βαριά στιγμή\n \nREm\nΌλα για σε τα δίνω\nMI       LAm    MI    LAm\nτα δίνω και πεθαίνω\nREm         MI\nγια να μη σε αγγίξουν\nLAm         LA7\nξανά οι στεναγμοί\n\nREm\nΌλα για σε τα δίνω\nMI       LAm    MI    LAm\nτα δίνω και πεθαίνω\nREm         MI\nγια να μη σε αγγίξουν\nLAm         \nξανά οι στεναγμοί",
       "tr": "Ti su kana kie pinis\n\nPes mu ghia de m'afìnis\nMe dio filià na pàro\nAp' ta tholà su màtia\nTi màvri sinnefià\n\nTi su 'kana ke pìnis\nTsighàro sto tsighàro\nKi ìn ta pikrà su màtia\nSto pàtoma karfià\n\nPes mu ghia de m'afìnis\nMe dio filià na pàro\nAp' ta tholà su màtia\nTi màvri sinnefià\n\nPes mu ghia de m'afìnis\nMe dio filià na pàro\nAp' ta tholà su màtia\nTi màvri sinnefià\n\nI pòni pu se sfàzun\nPòni diplì ghia ména\nStalàzun stin kardià mu\nTa dàkria pu kles\n\nNa 'kseres pos sparàzun\nTa mèsa mu ghia sèna\nPu stèkese makrià mu\nKe lòghia de mu les\n\nNa 'kseres pos sparàzun\nTa mèsa mu ghia sèna\nPu stèkese makrià mu\nKe lòghia de mu les\n\nAmìlitò mu stòma\nfengàri mu svisméno\nanàthema tin òra\nke ti varià stighmì\n\nÒla ghia se ta dìno\nta dìno ke pethèno\nghia na mi se anghìksun\nksanà i stenaghmì",
       "ti": "Cosa ti ho fatto perché tu beva\n\nDimmi perché non mi lasci\ntogliere con due baci\ndai tuoi occhi velati\nla nera nube di tristezza\n\nCosa ti ho fatto perché tu beva\nsigaretta dopo sigaretta,\ne i tuoi occhi amari sono\nchiodi conficcati nel pavimento\n\nDimmi perché non mi lasci\ntogliere con due baci\ndai tuoi occhi velati\nla nera nube di tristezza\n\nI dolori che ti squarciano\nsono dolori doppi per me,\ngocciolano nel mio cuore\nle lacrime che piangi\n\nSe sapessi come si lacerano\nle mie viscere per te,\nche stai lontana da me\ne non mi dici parola\n\nSe sapessi come si lacerano\nle mie viscere per te,\nche stai lontana da me\ne non mi dici parola\n\nBocca mia ammutolita,\nluna mia spenta,\nmaledetta  l'ora\ne il momento pesante\n\nTutto per te lo do,\nlo do e muoio,\nperché non ti tocchino\ndi nuovo i sospiri\n\nNote\n\nΘολά μάτια (\"occhi velati/torbidi\") – espressione poetica per occhi offuscati dal pianto, dalla tristezza o dall'alcol, immagine ricorrente nella lirica popolare greca.\nΜαύρη συννεφιά (\"nera nube\") – metafora della tristezza/malinconia profonda che oscura lo sguardo e l'animo della persona amata.\nΣτο πάτωμα καρφιά (\"chiodi nel pavimento\") – immagine intensa: lo sguardo abbassato e fisso a terra, carico di amarezza, viene paragonato a chiodi piantati nel pavimento, per l'intensità del dolore silenzioso.\nΠόνοι που σε σφάζουν (\"dolori che ti squarciano/scannano\") – iperbole tipica del linguaggio passionale greco, \"σφάζω\" letteralmente significa \"sgozzare\", usato qui in senso figurato per un dolore fisico-emotivo lancinante.\nΣπαράζουν τα μέσα μου (\"si lacerano le mie viscere\") – espressione idiomatica per un dolore interiore profondissimo, letteralmente \"le mie interiora si spezzano/dilaniano\", immagine viscerale tipica della sofferenza d'amore nella tradizione popolare.\nΑμίλητο στόμα (\"bocca ammutolita\") – immagine poetica di silenzio forzato dal dolore, come se la sofferenza avesse tolto la parola stessa.\nΑνάθεμα – espressione idiomatica di maledizione/esecrazione, letteralmente \"anatema\"; usata colloquialmente per esprimere rammarico intenso verso un momento o un evento doloroso.\nΣτεναγμοί (\"sospiri\") – qui i sospiri sono personificati come qualcosa che può \"toccare\" e ferire nuovamente la persona amata, immagine che rafforza il sacrificio del poeta disposto a morire pur di proteggerla dal dolore.",
-      "no": ""
+      "no": "",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1788592403287",
@@ -5343,7 +5350,7 @@
       "yr": "1959",
       "ar": "Αλίκη Βουγιουκλάκη",
       "lb": "",
-      "gn": "Elafrò",
+      "gn": "Laikà",
       "dr": "",
       "bal": "",
       "ll": "https://www.youtube.com/watch?v=wq8zHr0gw3Y",
@@ -5351,7 +5358,10 @@
       "ch": "LAm              MI               LAm\nT' αγόρι μου, τ' αγόρι μου, τ' αγόρι μου\nFA                        MI\nγλυκό και τραγανό σαν καραμέλα\nLAm                             MI\nKαι πόζες όταν παίρνει άντρα ώριμου\nMI                                 LAm\nτ' αγόρι μου είναι μούρλια, είναι τρέλα\n\nDO      REm             SOL         DO\nXειλάκι πετροκέρασο και μάγουλο βερίκοκο\nFA      DO        SOL          DO\nPίκο, ρίκο, ρίκοκο, ρίκοκο, ρίκοκο\nFA      DO         SOL      DO\nPίκο, ρίκο, ρίκοκο, ρίκο, ρικοκό\n\nLAm              MI              LAm\nT' αγόρι μου είναι πλάσμα αξιοζήλευτο\nFA                              MI\nTο βλέμμα του, το γέλιο του ροσόλι\nLAm                            MI\nMπροστά του δεν αξίζουν ούτε δίλεπτο\nMI                             LAm\nΔεν πιάνουν χαρτωσιά οι άντρες όλοι\n\nDO      REm             SOL         DO\nXειλάκι πετροκέρασο και μάγουλο βερίκοκο\nFA      DO        SOL          DO\nPίκο, ρίκο, ρίκοκο, ρίκοκο, ρίκοκο\nFA      DO         SOL      DO\nPίκο, ρίκο, ρίκοκο, ρίκο, ρικοκό\n\nDO      REm             SOL         DO\nXειλάκι πετροκέρασο και μάγουλο βερίκοκο\nFA      DO        SOL          DO\nPίκο, ρίκο, ρίκοκο, ρίκοκο, ρίκοκο\nFA      DO         SOL      DO\nPίκο, ρίκο, ρίκοκο, ρίκο, ρικοκό\n\nLAm              MI      LAm\nAνήσυχο, θερμόαιμο, ζιζάνιο\nFA                          MI\nγεμάτο φλόγα, αίσθημα, νευράκι\nLAm                          MI\nΠικάντικο, ανεκτίμητο και σπάνιο\nMI                         LAm\nτ' αγόρι, το γλυκό μου τ' αγοράκι\n\nDO      REm             SOL         DO\nXειλάκι πετροκέρασο και μάγουλο βερίκοκο\nFA      DO        SOL          DO\nPίκο, ρίκο, ρίκοκο, ρίκοκο, ρίκοκο\nFA      DO         SOL      DO\nPίκο, ρίκο, ρίκοκο, ρίκο, ρικοκό",
       "tr": "Rìko, rìko, rìkoko\n\nT'aghόri mu, t'aghόri mu, t'aghόri mu\nghlikό ke traghanό san karaméla\nKe pόzes όtan pérni ándra όrimu\nt'aghόri mu íne múrlia, íne tréla\n\nChiláki petrokéraso ke mágulo veríkoko\nRíko, ríko, ríkoko, ríkoko, ríkoko\nRíko, ríko, ríkoko, ríko, rikokό\n\nT'aghόri mu íne pláma aksiozíleftο\nTo vléma tu, to ghiélio tu rosόli\nBrostά tu den axízun úte dίlepto\nDen piánun chartosiá i ándres όli\n\nAnísicho, thermόemo, zizánio\ngemáto flόga, ésthima, nevráki\nPikándiko, anektímito ke spánio\nt'agόri, to ghlikό mu t'aghorάki",
       "ti": "Il mio ragazzo\n\nIl mio ragazzo, il mio ragazzo, il mio ragazzo\ndolce e croccante come una caramella\ne fa pose quando assume l'aria di un uomo maturo\nil mio ragazzo è meraviglioso, è una pazzia\n\nLabbrino ciliegia selvatica e guancia albicocca\nrico, rico, ricoco, ricoco, ricoco\nrico, rico, ricoco, rico, ricocò\n\nIl mio ragazzo è una creatura invidiabile\nil suo sguardo, il suo riso è un liquore dolce\ndavanti a lui non valgono neanche due soldi\nnon hanno chance tutti gli altri uomini\n\nLabbrino ciliegia selvatica...\n\nLabbrino ciliegia selvatica...\n\nIrrequieto, dal sangue caldo, birichino (zizzania)\npieno di fuoco, sentimento, nervosetto\npiccante, inestimabile e raro\nil ragazzo, il mio dolce ragazzino\n\nLabbrino ciliegia selvatica...\n\nNote:\n\nτραγανό σαν καραμέλα — \"croccante come una caramella\", immagine affettuosa/golosa per descrivere il fascino del ragazzo\nρίκοκο/ρικοκό — ritornello onomatopeico giocoso, gioco fonetico su \"βερίκοκο\" (albicocca)\nροσόλι — liquore dolce tradizionale (dal veneziano/italiano \"rosolio\"), usato qui per descrivere la dolcezza del sorriso\nδεν πιάνουν χαρτωσιά — idiomatico: \"non valgono/non contano nulla\", letteralmente riferito a carte da gioco che \"non fanno presa\"\nζιζάνιο — letteralmente \"zizzania/erbaccia\", usato affettuosamente per indicare un carattere vivace e birichino",
-      "no": ""
+      "no": "",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1788528731553",
@@ -5366,7 +5376,7 @@
       "yr": "1951",
       "ar": "Σωτηρία Μπέλλου",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
       "bal": "",
       "ll": "https://www.youtube.com/watch?v=oOkvMXo3KI8",
@@ -5374,7 +5384,10 @@
       "ch": "REm      DOm      REm      SOLm     DOm REm\nΠώς θα περάσει η βραδιά και πώς θα ησυχάσω\nREm      DOm      REm      SOLm      REm\nπου σκέφτομαι εσένανε μην τύχει και σε χάσω\nREm      DOm      REm      SOLm    DOm REm\nπου σκέφτομαι εσένανε μην τύχει και σε χάσω\n\nREm      DOm      REm      SOLm    DOm  REm\nΠολλές γυναίκες γνώρισα, εσένα σε φοβάμαι\nREm      DOm      REm      SOLm      REm\nνα μη σε ξεμυαλίσουνε γι' αυτό και δε κοιμάμαι\nREm      DOm      REm      SOLm     DOm  REm\nνα μη σε ξεμυαλίσουνε γι' αυτό και δε κοιμάμαι\n\nREm      DOm      REm      SOLm      DOm  REm\nΗ αγωνία μου αυτή με λιώνει και με δέρνει\nREm      DOm      REm      SOLm      REm\nνα ξημερώσει ήθελα, γιατί ύπνος δε με παίρνει\nREm      DOm      REm      SOLm      DOm  REm\nνα ξημερώσει ήθελα, γιατί ύπνος δε με παίρνει",
       "tr": "Pos tha peràsi i vradià\n\nPos tha perási i vradiá ke pos tha isicháso\npu skéftome esénane min tíchi ke se cháso\npu skéftome esénane min tíchi ke se cháso\n\nPolés yinékes ghnόrisa, eséna se fováme\nna mi se ksemialísune gi'aftό ke de kimáme\nna mi se ksemialísune gi'aftό ke de kimáme\n\nI aghonía mu aftí me lióni ke me dérni\nna ksimerόsi íthela, giatí ípnos de me pérni\nna ksimerόsi íthela, giatí ípnos de me pérni",
       "ti": "Come passerà la serata\n\nCome passerà la serata e come mi calmerò\nvisto che penso a te, che per caso non ti perda\nvisto che penso a te, che per caso non ti perda\n\nHo conosciuto molte donne, ma di te ho paura\nche qualcuno ti faccia perdere la testa, per questo non dormo\nche qualcuno ti faccia perdere la testa, per questo non dormo\n\nQuesta mia angoscia mi consuma e mi tormenta\nvorrei che spuntasse l'alba, perché il sonno non mi prende\nvorrei che spuntasse l'alba, perché il sonno non mi prende\n\nNote:\n\nξεμυαλίζω — far perdere la testa a qualcuno, sedurre/confondere (verbo composto da \"μυαλό\", cervello, col prefisso \"ξε-\")",
-      "no": ""
+      "no": "",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1788512531723",
@@ -5408,7 +5421,7 @@
       "yr": "sconosciuto",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -5416,7 +5429,10 @@
       "ch": "REm      SOLm      REm      SOLm      REm      LA\nREm      SOLm      REm      SOLm      REm      LA\n\nREm\nΘεέ μου μεγαλοδύναμε\nDO      REm\nπου 'σαι ψηλά κει πάνω\nSOLm      REm\nΡίξε λιγάκι τουμπεκί Θεούλη μου\nDO      REm\nστον ναργιλέ μου απάνω\n\nSOLm      REm\nΡίξε λιγάκι τουμπεκί Θεούλη μου\nDO      REm\nστον ναργιλέ μου απάνω\n\nREm      SOLm      REm      SOLm      REm      LA\nREm      SOLm      REm      SOLm      REm      LA\n\nREm      SOLm      REm\nΑνάμεσα στης εκκλησιάς\nLA      REm\nτις αψηλές καμάρες\nREm      SOLm\nΑρχίσαμε τις ντουμανιές Θεούλη μου\nLA      REm\nσα να 'τανε λαμπάδες\n\nREm      SOLm\nΑρχίσαμε τις ντουμανιές Θεούλη μου\nLA      REm\nσα να 'τανε λαμπάδες\n\nREm      SOLm      REm      SOLm      REm      LA\nREm      SOLm      REm      SOLm      REm      LA\n\nREm      SOLm      REm\nΜπρος στον Άγιο Σπυρίδωνα\nLA      REm\nμε τ' άσπρα του τα γένια\nREm      SOLm\nτραβάω μία ντουμανιά Θεούλη μου\nLA      REm\nξεραίνεται στα γέλια\n\nREm      SOLm\nτραβάω μία ντουμανιά Θεούλη μου\nLA      REm\nξεραίνεται στα γέλια\n\nREm      SOLm      REm      SOLm      REm      LA\nREm      SOLm      REm      SOLm      REm      LA\n\nREm      SOLm      REm\nΌταν φουντώσει ο ναργιλές\nLA      REm\nΚι' έρθουμε σε ντουμάνι\nREm      SOLm\nβάλ' όλους τους αγγέλους σου Θεούλη μου\nLA      REm\nνα πουν το νάνι νάνι\n\nREm      SOLm\nβάλ' όλους τους αγγέλους σου Θεούλη μου\nLA      REm\nνα πουν το νάνι νάνι\n\nREm      SOLm      REm      SOLm      REm\nREm      SOLm      REm      SOLm      REm\nREm      SOLm      REm      SOLm      REm",
       "tr": "I prosefchì tu mànga\n\nTheé mu meghalodíname\npu 'se psilá kí páno\nRíkse ligháki tumbekí Theúli mu\nston narghilé mu apáno\n\nRíkse ligháki tumbekí Theúli mu\nston narghilé mu apáno\n\nAnámesa stis eklisiás\ntis apsilés kamáres\nArchísame tis ndumaniés Theúli mu\nsa na 'tane labádes\n\nArchísame tis ndumaniés Theúli mu\nsa na 'tane labádes\n\nBros ston Áyio Spirídona\nme t'áspra tu ta yénia\ntravávo mia ndumaniá Theúli mu\nkseréinete sta yélia\n\ntravávo mia ndumaniá Theúli mu\nkseréinete sta yélia\n\nΌtan fundόsi o narghilés\nKi'érthume se ndumáni\nvál'όlus tus anghélus su Theúli mu\nna pun to náni náni\n\nvál'όlus tus anghélus su Theúli mu\nna pun to náni náni",
       "ti": "La preghiera del mangas\n\nDio mio onnipotente\nche sei lassù in alto\ngetta un po' di tabacco, Diosino mio\nsul mio narghilè\n\ngetta un po' di tabacco, Diosino mio\nsul mio narghilè\n\nTra le alte volte\ndella chiesa\nabbiamo iniziato le nuvole di fumo, Diosino mio\ncome se fossero candele\n\nabbiamo iniziato le nuvole di fumo, Diosino mio\ncome se fossero candele\n\nDavanti a Sant'Spiridione\ncon la sua barba bianca\ntiro una boccata, Diosino mio\nsi secca (lui stesso) dalle risate\n\ntiro una boccata, Diosino mio\nsi secca dalle risate\n\nQuando si accenderà bene il narghilè\ne ci troveremo nel fumo\nmanda tutti i tuoi angeli, Diosino mio\na cantarci la ninna nanna\n\nmanda tutti i tuoi angeli, Diosino mio\na cantarci la ninna nanna\n\nNote:\n\nτουμπεκί — tabacco/miscela per narghilè\nΘεούλης — vezzeggiativo affettuoso/irriverente per \"Θεός\" (Dio), reso come \"Diosino\"\nντουμάνι/ντουμανιά — nuvola di fumo densa\nξεραίνεται στα γέλια — idiomatico: \"si secca dalle risate\", cioè \"scoppia a ridere fino a non poterne più\"",
-      "no": "Secondo una leggenda metropolitana dei bassifondi di Salonicco, questo pezzo veniva tradizionalmente cantato a bassa voce dai frequentatori dei tekes (i locali clandestini di fumo) ogni volta che uno di loro moriva, quasi a voler propiziare il suo viaggio verso un paradiso a misura di \"mangas\".\nTrattandosi di un brano della tradizione orale dei bassifondi, non esiste una datazione certa, ma si stima sia nato nei primi decenni del XX secolo (probabilmente tra gli anni '10 e '20)."
+      "no": "Secondo una leggenda metropolitana dei bassifondi di Salonicco, questo pezzo veniva tradizionalmente cantato a bassa voce dai frequentatori dei tekes (i locali clandestini di fumo) ogni volta che uno di loro moriva, quasi a voler propiziare il suo viaggio verso un paradiso a misura di \"mangas\".\nTrattandosi di un brano della tradizione orale dei bassifondi, non esiste una datazione certa, ma si stima sia nato nei primi decenni del XX secolo (probabilmente tra gli anni '10 e '20).",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1788512084668",
@@ -5927,7 +5943,7 @@
       "yr": "1972",
       "ar": "Χάρις Αλεξίου",
       "lb": "",
-      "gn": "",
+      "gn": "Entechno",
       "dr": "",
       "bal": "",
       "ll": "https://www.youtube.com/watch?v=iG7IA5LLExI",
@@ -5935,7 +5951,10 @@
       "ch": "LAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nπου λένε τα γραμμένα\nLAm      REm      SOL\nΤο 'να σκοτώθηκε, τ' άλλο λαβώθηκε\nLAm\nδεν γύρισε κανένα\nLAm      REm      SOL\nΤο 'να σκοτώθηκε, τ' άλλο λαβώθηκε\nLAm\nδεν γύρισε κανένα\nLAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nπου λένε τα γραμμένα\n\nLAm      MIm\nΓια το μαρμαρωμένο βασιλιά\nMIm      LAm\nούτε φωνή, ούτε λαλιά\nLAm      MIm\nΤον τραγουδάει όμως στα παιδιά\nMIm      MI7\nσαν παραμύθι η γιαγιά\n\nLAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nπου λένε τα γραμμένα...\n\nLAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nδυο πετροχελιδόνια\nLAm      REm      SOL\nΜα εκεί εμείνανε κι όνειρο γίνανε\nLAm\nκαι δακρυσμένα χρόνια\nLAm      REm      SOL\nΜα εκεί εμείνανε...\n\nLAm      MIm\nΓια το μαρμαρωμένο βασιλιά...\n\nLAm      REm      SOL\nΈστειλα δυο πουλιά στην κόκκινη Μηλιά\nLAm\nδυο πετροχελιδόνια...",
       "tr": "O marmaromènos vasiliàs\n\nÉsteila dío pulyά stin kόkini Miliá\npu léne ta ghraména\nTo 'na skotόthike, t'álo lavόthike\nden ghίrise kanéna\nTo 'na skotόthike, t'álo lavόthike\nden ghίrise kanéna\nÉsteila dío pulyά stin kόkini Miliá\npu léne ta ghraména\n\nGia to marmaroméno vasiliá\núte foní, úte laliá\nTon traghudái όmos sta pediá\nsan paramíthi i yiayiá\n\nÉsteila dío pulyά stin kόkini Miliá\npu léne ta ghraména...\n\nÉsteila dío pulyά stin kόkini Miliá\ndío petrochelidόnia\nMa ekí eμίnane ki όniro yίnane\nke dakrisména chrόnia\nMa ekí eμίnane...\n\nGia to marmaroméno vasiliá...\n\nÉsteila dío pulyά stin kόkini Miliá\ndío petrochelidόnia...",
       "ti": "Il re di marmo\n\nHo mandato due uccelli verso la Mela Rossa\ncome dice il destino scritto\nuno è morto, l'altro è stato ferito\nnessuno dei due è tornato\nuno è morto, l'altro è stato ferito\nnessuno dei due è tornato\nho mandato due uccelli verso la Mela Rossa\ncome dice il destino scritto\n\nDel re di marmo\nnon c'è né voce né parola\nlo canta però ai bambini\ncome una favola la nonna\n\nHo mandato due uccelli verso la Mela Rossa\ncome dice il destino scritto...\n\nHo mandato due uccelli verso la Mela Rossa\ndue rondini di pietra\nma là sono rimasti e sono diventati un sogno\ne anni pieni di lacrime\nma là sono rimasti...\n\nDel re di marmo...\n\nHo mandato due uccelli verso la Mela Rossa\ndue rondini di pietra...\n\nNote:\n\nτα γραμμένα — \"le cose scritte\", cioè il destino/fato prestabilito (espressione idiomatica popolare)\nπετροχελιδόνι — letteralmente \"rondine di pietra\" (topino/balestruccio), qui scelto probabilmente anche per l'assonanza poetica con la pietra/marmo del re",
-      "no": "Quando Costantinopoli cadde in mano ottomana il 29 maggio 1453, l'ultimo imperatore bizantino, Costantino XI Paleologo, morì combattendo alle porte della città. Ma la tradizione popolare greca non si è mai rassegnata a quella fine: secondo la leggenda, un angelo lo salvò all'ultimo istante, trasformandolo in marmo e nascondendolo in una grotta segreta vicino alla Porta d'Oro di Costantinopoli — pronto a risvegliarsi un giorno, riprendere la spada, e liberare la città per restituirla ai greci.\n\nLa \"Κόκκινη Μηλιά\" (Mela Rossa) citata nella canzone è un altro luogo leggendario del folklore greco: una terra ai confini estremi del mondo, simbolo di un destino lontano e forse irraggiungibile — qui, gli uccelli mandati a cercare notizie del re non tornano mai."
+      "no": "Quando Costantinopoli cadde in mano ottomana il 29 maggio 1453, l'ultimo imperatore bizantino, Costantino XI Paleologo, morì combattendo alle porte della città. Ma la tradizione popolare greca non si è mai rassegnata a quella fine: secondo la leggenda, un angelo lo salvò all'ultimo istante, trasformandolo in marmo e nascondendolo in una grotta segreta vicino alla Porta d'Oro di Costantinopoli — pronto a risvegliarsi un giorno, riprendere la spada, e liberare la città per restituirla ai greci.\n\nLa \"Κόκκινη Μηλιά\" (Mela Rossa) citata nella canzone è un altro luogo leggendario del folklore greco: una terra ai confini estremi del mondo, simbolo di un destino lontano e forse irraggiungibile — qui, gli uccelli mandati a cercare notizie del re non tornano mai.",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1788332386483",
@@ -6300,15 +6319,18 @@
       "yr": "1947",
       "ar": "Στελλάκης Περπινιάδης, Ιωάννα Γεωργακοπούλου",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
-      "bal": "",
+      "bal": "Sirtòs",
       "ll": "https://www.youtube.com/watch?v=z5M6AZc7Fqo",
       "li": "",
       "ch": "RE                    LA          RE  LA  RE\nΞεκινά μια ψαροπούλα απ' το γιαλό, απ' το γιαλό\nSOL                          RE\nξεκινά μια ψαροπούλα απ' την Ύδρα τη μικρούλα\nMIm                              LA  RE  LA RE\nκαι πηγαίνει για σφουγγάρια, όλο γιαλό, όλο γιαλό\n\nRE                    LA          RE  LA  RE\nΈχει μέσα παλικάρια απ' το γιαλό, απ' το γιαλό\nSOL                          RE\nέχει μέσα παλικάρια, που βουτάνε για σφουγγάρια\nMIm                              LA  RE  LA RE\nγιούσερ και μαργαριτάρια, απ' το γιαλό, απ' το γιαλό\n\nRE                    LA          RE  LA  RE\nΓεια-χαρά σας παλικάρια, και στο καλό, και στο καλό\nSOL                          RE\nγεια-χαρά σας παλικάρια, να μάς φέρετε σφουγγάρια\nMIm                              LA  RE  LA RE\nγιούσερ κι όμορφα κοράλλια, απ' το γιαλό\n\nRE                    LA          RE  LA  RE\nΈχει συμιανούς, καλύμνιους απ' το γιαλό, απ' το γιαλό\nSOL                          RE\nΈχει υδραίους και ποριώτες, αιγινήτες και σπετσιώτες\nMIm                              LA  RE  LA RE\nπου 'ναι όλοι παλικάρια απ' το γιαλό, απ' το γιαλό",
       "tr": "Ksekinά mia psaropúla\n\nKsekinά mia psaropúla ap'to ghialό, ap'to ghialό\nksekinά mia psaropúla ap'tin Ídra ti mikrúla\nke piyéni gia sfunghária, όlo ghialό, όlo ghialό\n\nÉchi mésa palikária ap'to ghialό, ap'to ghialό\néchi mésa palikária, pu vutáne gia sfunghária\nghiúser ke margaritária, ap'to ghialό, ap'to ghialό\n\nGhia-chará sas palikária, ke sto kaló, ke sto kaló\nghia-chará sas palikária, na mas férete sfunghária\nghiúser ki όmorfa korália, ap'to ghialό\n\nÉchi simianús, kalímnius ap'to ghialό, ap'to ghialό\nÉchi idréus ke poriόtes, eyinítes ke spetsiόtes\npu 'ne όli palikária ap'to ghialό, ap'to ghialό",
       "ti": "Parte una barchetta da pesca\n\nParte una barchetta da pesca dalla riva, dalla riva\nparte una barchetta da pesca dalla piccola Idra\ne va a raccogliere spugne, sempre lungo la riva, sempre lungo la riva\n\nHa a bordo giovani coraggiosi dalla riva, dalla riva\nha a bordo giovani coraggiosi, che si tuffano per le spugne\nmadreperla e perle, dalla riva, dalla riva\n\nSalute a voi, giovani coraggiosi, e buon viaggio, buon viaggio\nsalute a voi, giovani coraggiosi, portateci spugne\nmadreperla e bei coralli, dalla riva\n\nHa a bordo uomini di Symi, di Kalymnos, dalla riva, dalla riva\nha uomini di Idra e di Poros, di Egina e di Spetses\nche sono tutti giovani coraggiosi, dalla riva, dalla riva\n\nNote:\n\nψαροπούλα — piccola barca da pesca, già incontrata in \"Μια ψαροπούλα είναι αραγμένη\"\nπαλικάρια — giovani coraggiosi/valorosi, termine ricorrente per i marinai/pescatori di spugne\nγιούσερ — madreperla (dal turco \"sedef\" o simile termine mediterraneo per la sostanza perlacea)\nil brano elenca gli uomini provenienti dalle principali isole greche storicamente dedite alla pesca delle spugne (Symi, Kalymnos, Idra, Poros, Egina, Spetses), attività fondamentale dell'economia dell'Egeo e del Dodecaneso fino al XX secolo",
-      "no": "Come coautore del testo figura Δ. Αρμπατζόγλου, che era la moglie di Baghiaderas a cui lui cointestò i diritti.\nSecondo quanto rivelato dallo stesso autore al ricercatore Kostas Chatzidoulis, la sessione di registrazione del 1947 vide al bouzouki una collaborazione d'eccezione: il leggendario Vasilis Tsitsanis registrò le tracce di accompagnamento strumentale, sebbene la direzione d'orchestra ufficiale fosse affidata al violinista Dimitris Semsis."
+      "no": "Come coautore del testo figura Δ. Αρμπατζόγλου, che era la moglie di Baghiaderas a cui lui cointestò i diritti.\nSecondo quanto rivelato dallo stesso autore al ricercatore Kostas Chatzidoulis, la sessione di registrazione del 1947 vide al bouzouki una collaborazione d'eccezione: il leggendario Vasilis Tsitsanis registrò le tracce di accompagnamento strumentale, sebbene la direzione d'orchestra ufficiale fosse affidata al violinista Dimitris Semsis.",
+      "zona": "",
+      "balgr": "Συρτός νησιώτικος",
+      "balvid": false
     },
     {
       "id": "s_1788077489081",
@@ -6502,7 +6524,7 @@
       "yr": "ignoto",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -6510,7 +6532,10 @@
       "ch": "RE\nΟύζο, ούζο ούζο, ούζο ούζο, μπάρμπα ούζο\nRE                           REm          RE\nμε, φωνάζουν όλοι, σαν με βλέπουν οι διαβόλοι\n\nRE            LA    RE        LA        RE\nΒρε, κωθώνια τι γελάτε, γιατί πίνω δε ρωτάτε\n \nRE\nΟύζο, ούζο ούζο, ούζο φέρτε, καραφάκια\nRE                           REm          RE\nαχ, για, να σκεπάσω, πόνους πίκρες και φαρμάκια\n\nRE            LA    RE        LA        RE\nΜες, το ούζο να τα πνίξω, όλα να τα λησμονήσω\n \nRE\nΟύζο, ούζο ούζο, όσο ούζο, κι αν θα ρουφήξω\nRE                      REm          RE\nδεν μπορώ, αχ δεν μπορώ για να τα πνίξω\n\nRE            LA    RE        LA        RE\nέμαθαν και κολυμπάνε, και, στη, κορυφή πετάνε\n \nRE\nΟύζο, ούζο ούζο, ούζο μπάρμπα ούζο ούζο\nRE                           REm          RE\nμε, φωνάζουν όλοι, σαν με βλέπουν οι διαβόλοι\n\nRE            LA    RE        LA        RE\nΒρε, κωθώνια τι γελάτε, γιατί πίνω δε ρωτάτε",
       "tr": "Barbaùzo\n\nÚzo, úzo úzo, úzo úzo, bárba úzo\nme, fonázun óli, san me vlépun i diávoli\nVre, kothónia ti gheláte, giatí píno de rotáte\n\nÚzo, úzo úzo, úzo férte, karafákia\nach, gia, na skepáso, pόnus píkres ke farmákia\nMes, to úzo na ta pníkso, όla na ta lismoníso\n\nÚzo, úzo úzo, όso úzo, ki an tha rufíkso\nden boró, ach den boró gia na ta pníkso\némathan ke kolimbáne, ke, sti, korifí petáne\n\nÚzo, úzo úzo, úzo bárba úzo úzo\nme, fonázun óli, san me vlépun i diávoli\nVre, kothónia ti gheláte, giatí píno de rotáte",
       "ti": "Ouzo\n\nOuzo, ouzo ouzo, ouzo ouzo, zio ouzo\nmi chiamano tutti così, appena mi vedono i diavoli\nEhi, sciocchi, di cosa ridete, perché bevo non me lo chiedete\n\nOuzo, ouzo ouzo, ouzo portatemi le caraffe\nah, per coprire dolori, amarezze e veleni\nnell'ouzo voglio affogarli, dimenticarli tutti\n\nOuzo, ouzo ouzo, per quanto ouzo io tiri su\nnon ce la faccio, ah non ce la faccio ad affogarli\nhanno imparato a nuotare, e fino in cima galleggiano\n\nOuzo, ouzo ouzo, ouzo zio ouzo ouzo\nmi chiamano tutti così, appena mi vedono i diavoli\nEhi, sciocchi, di cosa ridete, perché bevo non me lo chiedete\n\nNote:\n\nμπάρμπα ούζο — \"zio ouzo\", soprannome scherzoso che il protagonista si è guadagnato per il suo bere abituale\nκωθώνια — termine gergale/volgare per \"sciocchi/idioti\" (letteralmente riferito ai testicoli, usato come insulto blando o scherzoso)\nδιάβολοι — \"diavoli\", qui usati scherzosamente per indicare la gente/i conoscenti che lo prendono in giro vedendolo bere",
-      "no": "La paternità del brano è attribuita a Antonis Sakelariou, ma è certo solo che lui arrangiò e diresse l'orchestra per l'edizione americana"
+      "no": "La paternità del brano è attribuita a Antonis Sakelariou, ma è certo solo che lui arrangiò e diresse l'orchestra per l'edizione americana",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1788065672243",
@@ -7308,7 +7333,7 @@
       "yr": "1940",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -7316,7 +7341,10 @@
       "ch": "REm                          SOLm         LA\nΘα πάω εκεί στην Αραπιά γιατί μ' έχουν μιλήσει\nREm                   SOLm         LA          REm\nγια μια μεγάλη μάγισσα, τα μάγια να μου λύσει\nREm                   SOLm         LA          REm\nγια μια μεγάλη μάγισσα, τα μάγια να μου λύσει\n\nREm                          SOLm         LA\nΚαι θα τής πω τα βάσανα, αυτά π' έχω τραβήξει\nREm                 SOLm         LA          REm\nκαι τα σημάδια της τρελής σε μια φωτιά να ρίξει \nREm                 SOLm         LA          REm\nκαι τα σημάδια της τρελής σε μια φωτιά να ρίξει \n\nREm                          SOLm         LA\nΝ' ανάψουνε και να καούν, πως έκαψαν και μένα\nREm               SOLm         LA          REm\nτα μάγια να τής πιάσουνε, να σέρνεται στα ξένα \nREm               SOLm         LA          REm\nτα μάγια να τής πιάσουνε, να σέρνεται στα ξένα",
       "tr": "I Màghissa tis Arapiàs\n\nTha páo ekí stin Arapiá ghiatí m'échun milísi\ngia mia meghάli mághisa, ta máyia na mu lίsi\n\nKe tha tis po ta vásana, aftá p'écho travíksi\nke ta simádia tis trelís se mia fotiá na ríksi\n\nN'anápsune ke na kaún, pos ékapsan ke ména\nta mághia na tis piásune, na sérnete sta kséna",
       "ti": "La strega dell'Arabia\n\nAndrò là nella terra degli arabi, perché mi hanno parlato\ndi una grande maga, perché mi sciolga il malocchio\n\nE le racconterò le pene, quelle che ho patito\ne i segni della pazzia getterò nel fuoco\n\nChe si accendano e brucino, come hanno bruciato anche me\nche il sortilegio colpisca lei, che si trascini in terra straniera\n\nNote:\n\nΑραπιά — \"terra degli arabi\", regione araba/esotica genericamente intesa, già incontrata in altre canzoni\nτα μάγια να λύσει — \"sciogliere il malocchio/l'incantesimo\", pratica popolare tradizionale contro sortilegi e sofferenze d'amore attribuite a magie\nνα σέρνεται στα ξένα — idiomatico: \"che si trascini in terra straniera\", augurio di sofferenza ed esilio rivolto a chi ha causato il male al protagonista\nil brano appartiene al genere del \"χασάπικο προπολεμικό\" (hasapiko prebellico), e riflette un tema popolare diffuso: il ricorso a maghe/streghe per liberarsi da un amore tormentato, con desiderio di vendetta simmetrica verso chi ha causato la sofferenza",
-      "no": "Questa melodia era così straordinaria e ipnotica da affascinare persino i compositori di musica colta greca.\n Il celebre compositore d'avanguardia Nikos Skalkottas ne rimase folgorato e utilizzò il tema musicale di Tsitsanis per scriverci sopra una serie di variazioni orchestrali classiche e spettrali.\nAnche il leggendario premio Oscar Manos Hadjidakis celebrò la canzone, includendola in una raffinata veste per pianoforte e voce nel suo monumentale lavoro del 1947, «Pasqua crudele del '45» (Σκληρός Απρίλης του '45), contribuendo a sdoganare il rebetiko presso l'alta borghesia intellettuale greca."
+      "no": "Questa melodia era così straordinaria e ipnotica da affascinare persino i compositori di musica colta greca.\n Il celebre compositore d'avanguardia Nikos Skalkottas ne rimase folgorato e utilizzò il tema musicale di Tsitsanis per scriverci sopra una serie di variazioni orchestrali classiche e spettrali.\nAnche il leggendario premio Oscar Manos Hadjidakis celebrò la canzone, includendola in una raffinata veste per pianoforte e voce nel suo monumentale lavoro del 1947, «Pasqua crudele del '45» (Σκληρός Απρίλης του '45), contribuendo a sdoganare il rebetiko presso l'alta borghesia intellettuale greca.",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1787897409537",
@@ -7664,7 +7692,7 @@
       "yr": "1946",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "archontorembétiko",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -7672,7 +7700,10 @@
       "ch": "RE\nΗ άμαξα μες στη βροχή\nSOL          LA      RE\nτράβα αμαξά μη μου βραχεί\nSIm           SOL\nΤο κορίτσι που 'ναι μέσα\nLA        SOL      RE\nόμορφο σαν πριγκηπέσα\nLAm      RE\nμη μου βραχεί\nSIm           SOL\nΤο κορίτσι που 'ναι μέσα\nLA        SOL      RE\nόμορφο σαν πριγκηπέσα\nLA          RE   LA      RE\nμην τυχόν και μου βραχεί\n\nRE\nΤράβα αμαξά μου να χαρείς\nSOL          LA      RE\nόσο πιο γρήγορα μπορείς\nSIm           SOL\nΗ βροχή όλο δυναμώνει\nLA        SOL      RE\nτο κορίτσι μου κρυώνει\nLAm      RE\nμη μου βραχεί\nSIm           SOL\nΗ βροχή όλο δυναμώνει\nLA        SOL      RE\nτο κορίτσι μου κρυώνει\nLA          RE   LA      RE\nμην τυχόν και μου βραχεί\n\nRE\nΈβγα στην άσφαλτο αμαξά\nSOL          LA      RE\nκαι στρίψε πάλι απ' τη γωνιά\nSIm           SOL\nΝα μάς πας για το τσαρδί μας\nLA        SOL      RE\nστη φωλίτσα τη δική μας\nLAm      RE\nτράβα αμαξά\nSIm           SOL\nΝα μάς πας για το τσαρδί μας\nLA        SOL      RE\nστη φωλίτσα τη δική μας\nLA          RE   LA      RE\nτράβηξε βρε αμαξά",
       "tr": "I ámaksa mes sti vrochí\n\nI ámaksa mes sti vrochí\ntráva amaksá mi mu vrachí\nTo korítsi pu 'ne mésa\nómorfo san prighkipésa\nmi mu vrachí\nTo korítsi pu 'ne mésa\nómorfo san prighkipésa\nmin tichón ke mu vrachí\n\nTráva amaksá mu na charís\nóso pio ghríghora borís\nI vrochí ólo dinamóni\nto korítsi mu kriόni\nmi mu vrachí\nI vrochí ólo dinamóni\nto korítsi mu kriόni\nmin tichón ke mu vrachí\n\nÉvgha stin ásfalto amaksá\nke strípse páli ap'ti ghoniá\nNa mas pas gia to tsardí mas\nsti folítsa ti dikí mas\ntráva amaksá\nNa mas pas gia to tsardí mas\nsti folítsa ti dikí mas\ntráviikse vre amaksá",
       "ti": "La carrozza sotto la pioggia\n\nLa carrozza sotto la pioggia\ntira, cocchiere, che non si bagni\nla ragazza che è dentro\nbella come una principessa\nche non si bagni\nla ragazza che è dentro\nbella come una principessa\nche per caso non si bagni\n\nTira, cocchiere mio, che tu possa gioire\nil più veloce che puoi\nla pioggia aumenta sempre di più\nla mia ragazza si raffredda\nche non si bagni\nla pioggia aumenta sempre di più\nla mia ragazza si raffredda\nche per caso non si bagni\n\nEsci sull'asfalto, cocchiere\ne gira di nuovo dall'angolo\nportaci al nostro nido\nal nostro piccolo rifugio\ntira, cocchiere\nportaci al nostro nido\nal nostro piccolo rifugio\ntira, ehi cocchiere\n\nNote:\n\nαμαξάς — cocchiere, conducente di carrozza (da \"άμαξα\", carrozza)\nπριγκηπέσα — principessa, già incontrata in altre canzoni come vezzeggiativo per la donna amata\nτσαρδί — covo, tana, rifugio informale, già incontrato in altre canzoni del rebetiko\nφωλίτσα — diminutivo affettuoso di \"φωλιά\" (nido), qui nel senso di piccolo rifugio d'amore\nil testo ha un tono romantico-popolare, con l'immagine tradizionale della carrozza sotto la pioggia come cornice per un momento intimo tra gli innamorati",
-      "no": ""
+      "no": "",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1787811224281",
@@ -7756,7 +7787,7 @@
       "yr": "tradizionale",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "dimotikò",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -7764,7 +7795,10 @@
       "ch": "LA                         SOLm        LA\nΣτο Γαλατά ψιλή βροχή και στα Ταταύλα μπόρα\nLA          SOLm\nΒασίλισσα των κοριτσιών είναι η μαυροφόρα \nLA          SOLm\nΒασίλισσα των κοριτσιών είναι η μαυροφόρα \n\nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε \nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε\n\n                           \nLA                         SOLm        LA\nΣτο Γαλατά θα πιω κρασί, στο Πέρα θα μεθύσω\nLA          SOLm\nκαι μέσα απ' το Γεντί Κουλέ κοπέλα θ' αγαπήσω \nLA          SOLm\nκαι μέσα απ' το Γεντί Κουλέ κοπέλα θ' αγαπήσω \n\nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε \nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε\n\nLA                            SOLm        LA\nΓεντί Κουλέ και Θεραπιά, Ταταύλα και Νιχώρι\nLA          SOLm\nΑυτά τα τέσσερα χωριά 'μορφαίνουνε την Πόλη \nLA          SOLm\nΑυτά τα τέσσερα χωριά 'μορφαίνουνε την Πόλη \n\nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε \nLA\nΈχε γεια Παναγιά, τα μιλήσαμε \nSOLm             LA#     LA\nΌνειρο ήτανε, τα λησμονήσαμε",
       "tr": "Eche ghià Panaghià\n\nSto Ghalatá psilí vrochí ke sta Tatávla bóra\nVasílisa ton koritsión íne i mavrofóra\n\nÉche ghia Panaghiá, ta milísame\nÓniro ítane, ta lismonísame\n\nSto Ghalatá tha pio krasí, sto Péra tha methíso\nke mésa ap'to Yendí Kulé kopéla th'aghapíso\n\nÉche ghia Panaghiá...\n\nYendí Kulé ke Therapiá, Tatávla ke Nichóri\nAftá ta téssera choriá 'morféinune tin Póli\n\nÉche ghia Panaghiá...",
       "ti": "Addio Madonna\n\nA Galatà pioggerella fine e a Tatavla temporale\nregina delle ragazze è quella vestita di nero\n\nAddio Madonna, ne abbiamo parlato\nera un sogno, l'abbiamo dimenticato\n\nA Galatà berrò vino, a Pera mi ubriacherò\ne dentro Yedi Kule una ragazza amerò\n\nAddio Madonna...\n\nYedi Kule e Terapia, Tatavla e Nihori\nquesti quattro quartieri abbelliscono la Città (Costantinopoli)\n\nAddio Madonna...\n\nNote:\n\nΓαλατάς, Ταταύλα, Πέρα, Γεντί Κουλέ, Θεραπιά, Νιχώρι — storici quartieri/zone di Costantinopoli (Galata, Tatavla oggi Kurtuluş, Pera/Beyoğlu, Yedikule, Tarabya, Nihori), popolati un tempo da comunità greche\nη Πόλη — \"la Città\" per antonomasia, modo tradizionale con cui i greci si riferiscono a Costantinopoli (dal greco \"εις την Πόλιν\", origine anche del nome turco \"İstanbul\")\nμαυροφόρα — donna vestita di nero (spesso riferito a lutto, ma qui usato come immagine di fascino/bellezza malinconica, tipica figura poetica)\nΈχε γεια — espressione di saluto/commiato, \"stammi bene/addio\"\nil brano è un canto nostalgico sulla vita e la geografia della comunità greca di Costantinopoli, con richiami a luoghi simbolo della presenza greca nella città",
-      "no": "Il dilemma del titolo: Nella tradizione orale, c'è una forte assonanza tra l'invocazione «Παναγιά» (Panagia, la Vergine) e l'espressione di saluto «πάντα γεια» (panta geia, addio per sempre). La stessa ricerca sul campo ha mostrato come i cantori passassero fluidamente da una formula all'altra."
+      "no": "Il dilemma del titolo: Nella tradizione orale, c'è una forte assonanza tra l'invocazione «Παναγιά» (Panagia, la Vergine) e l'espressione di saluto «πάντα γεια» (panta geia, addio per sempre). La stessa ricerca sul campo ha mostrato come i cantori passassero fluidamente da una formula all'altra.",
+      "zona": "Asia Minore",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1787805868508",
@@ -7846,7 +7880,7 @@
       "yr": "1954",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Laikà",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -7855,7 +7889,9 @@
       "tr": "To vounò\n\nTh'anévo ke tha traghudíso\nsto pio psilótero vunó\nn'akúyete stin erimiá\no pónos mu me tin peniá\n\nMe to vunó tha ghíno fílos\nke me ta pévka sindrofiá\nki ótan tha kléo ke ponó\nth'anastenázi to vunó\n\nApáno sto vunó tha míno\nki apó ton kósmo makriá\ntha kléo mónos, tha ponó\nke tha m'akúi to vunó",
       "ti": "La montagna\n\nSalirò e canterò\nsulla montagna più alta\nperché si senta nel deserto\nil mio dolore con il plettro\n\nCon la montagna diventerò amico\ne con i pini farò compagnia\ne quando piangerò e soffrirò\nla montagna sospirerà\n\nIn cima alla montagna resterò\ne lontano dal mondo\npiangerò da solo, soffrirò\ne la montagna mi ascolterà\n\nNote:\n\nπενιά — colpo di plettro (sul bouzouki o strumento a corde), qui usato metonimicamente per indicare il canto/suono accompagnato dallo strumento\nερημιά — deserto/solitudine, luogo desolato senza presenza umana\nil testo personifica la montagna come unica confidente/compagna del cantante, tema ricorrente nella poesia popolare greca del dolore in solitudine e dell'isolamento dal mondo",
       "no": "",
-      "balgr": ""
+      "balgr": "",
+      "zona": "",
+      "balvid": false
     },
     {
       "id": "s_1787741596808",
@@ -7895,7 +7931,7 @@
       "yr": "1934",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -7903,7 +7939,10 @@
       "ch": "SI\nΑπό το βράδυ ως το πρωί με πρέζα στέκω στη ζωή\nLAm            MIm  SI       LAm         SI\nκαι όλο τον κόσμο κατακτώ, την άσπρη σκόνη σαν ρουφώ\n\nSI\nΌλος ο κόσμος είναι κτήμα μου, σαν έχω πρέζα και ρουφάω\nSI            MIm  LAm        SI\nκι οι πολιτσμάνοι όταν θα με δουν, μελανή αμολάω\n\nLAm      SI    LAm\nΣαν μαστουρωθείς, γίνεσαι ευθύς\nSI\nΒασιλιάς, δικτάτορας, θεός και κοσμοκράτορας\nSI          LAm\nΠρέζα όταν πιεις, ρε θα ευφρανθείς\nSI\nκι όλα πια στον κόσμο ρόδινα θε να τα δεις\n\nSI\nΔική μου είναι η Ελλάς που στην κατάντια της γελάς\nLAm            MIm  SI       LAm         SI\nΤης λείπει το 'να της ποδάρι, βρε και το παίξανε στο ζάρι\nSI\nΕγώ θα είμαι ρε δικτάτορας κι ο κόσμος στάχτη αν θα γίνει\nSI            MIm  LAm        SI\nΟ ένας θα μ' ανάβει το λουλά κι ο άλλος θα τον σβήνει\n\nLAm      SI    LAm\nΣαν μαστουρωθείς, γίνεσαι ευθύς\nSI\nΒασιλιάς, δικτάτορας, θεός και κοσμοκράτορας\nSI          LAm\nΠρέζα όταν πιεις, ρε θα ευφρανθείς\nSI\nκι όλα πια στον κόσμο ρόδινα θε να τα δεις",
       "tr": "Apó to vrádi os to proí me préza stéko sti zoí\nke ólo ton kósmo katakτó, tin áspri skóni san rufó\n\nÓlos o kósmos íne ktíma mu, san écho préza ke rufáo\nki i politsmáni ótan tha me dun, melaní amoláo\n\nSan masturothis, ghínese eftís\nVasiliás, diktátoras, theós ke kosmokrátoras\nPréza ótan pis, re tha efranθís\nki óla pia ston kósmo ródina the na ta dis\n\nDikí mu íne i Elás pu stin katándia tis yelás\nTis lípi to 'na tis podári, vre ke to pézane sto zári\nEghó tha íme re diktátoras ki o kósmos stáchti an tha ghíni\nO énas tha m'anávi to lulá ki o álos tha ton svíni\n\nSan masturothís...",
       "ti": "Sono drogato\n\nDa sera a mattina con l'eroina resto in piedi nella vita\ne conquisto tutto il mondo, tirando su la polvere bianca\n\nTutto il mondo è cosa mia, quando ho eroina e la tiro\ne i poliziotti, quando mi vedono, mi rannuvolo di rabbia\n\nQuando ti sballi, diventi subito\nun re, un dittatore, un dio e un padrone del mondo\nquando fai un tiro, accidenti, ti rallegri\ne tutto nel mondo ti sembra roseo da vedere\n\nMia è la Grecia che ride della sua rovina\nle manca una gamba, gliel'hanno giocata ai dadi\nio sarò dittatore, e il mondo, che diventi pure cenere\nuno accende la mia pipa d'oppio, l'altro la spegne\n\nQuando ti sballi...\n\nNote:\n\nquesta è una versione parodistica/alternativa dello stesso brano (\"Ούζο όταν πιεις\"), intitolata \"Είμαι πρεζάκιας\" (\"Sono un tossico di eroina\"), dove il tema dell'ubriachezza da ouzo viene sostituito con quello della tossicodipendenza da eroina — pratica comune nel rebetiko di riscrivere testi su melodie già note\nπρέζα — eroina (gergale)\nπρεζάκιας — tossicodipendente da eroina, già incontrato in altre canzoni\nπολιτσμάνος — poliziotto (storpiatura popolare/gergale dell'italiano \"poliziotto\" o affine)\nμελανή αμολάω — idiomatico oscuro/gergale, reso liberamente come \"mi rannuvolo di rabbia/mi infurio\", forse riferito al cambiare umore/aspetto bruscamente\nλουλάς — pipa per oppio/hashish, strumento tipico associato ai tekè",
-      "no": "Nota sulla censura: durante la dittatura di Ιωάννης Μεταξάς, il brano (inciso per la prima volta da Ρόζα Εσκενάζυ nel 1934) fu censurato per due motivi: da un lato conteneva riferimenti espliciti alla droga, dall'altro il testo ironizzava sulla \"decadenza\" della Grecia stessa. Quando, decenni dopo, Χάρις Αλεξίου la reincise per il suo album \"24 τραγούδια\" (1977), la sostanza citata venne sostituita con un innocuo liquore locale, cambiando così il senso originale del testo.\n\nCuriosità paradossale: il paroliere Αιμίλιος Σαββίδης, che aveva scritto questo stesso testo, fu — dopo l'instaurazione della dittatura — uno dei tre membri fondatori della Commissione di Censura musicale voluta da Μεταξάς (insieme a Χρήστος Ζαλοκώστας e Ιωάννης Ψαρούδας), diventando così un fermo oppositore proprio del genere musicale a cui aveva contribuito, e sostenitore attivo della persecuzione delle canzoni legate alla droga."
+      "no": "Nota sulla censura: durante la dittatura di Ιωάννης Μεταξάς, il brano (inciso per la prima volta da Ρόζα Εσκενάζυ nel 1934) fu censurato per due motivi: da un lato conteneva riferimenti espliciti alla droga, dall'altro il testo ironizzava sulla \"decadenza\" della Grecia stessa. Quando, decenni dopo, Χάρις Αλεξίου la reincise per il suo album \"24 τραγούδια\" (1977), la sostanza citata venne sostituita con un innocuo liquore locale, cambiando così il senso originale del testo.\n\nCuriosità paradossale: il paroliere Αιμίλιος Σαββίδης, che aveva scritto questo stesso testo, fu — dopo l'instaurazione della dittatura — uno dei tre membri fondatori della Commissione di Censura musicale voluta da Μεταξάς (insieme a Χρήστος Ζαλοκώστας e Ιωάννης Ψαρούδας), diventando così un fermo oppositore proprio del genere musicale a cui aveva contribuito, e sostenitore attivo della persecuzione delle canzoni legate alla droga.",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1787738839162",
@@ -7984,7 +8023,7 @@
       "yr": "1928",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Rembetico",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -7992,7 +8031,10 @@
       "ch": "REm\nΒρε μερακλή και μάγκα τι θέλεις και περνάς\nSOLm\nΑπό την γειτονιά μου για να με τυρανάς\n\nREm       LA         REm\nΌπλα μάγκα δεν σε θέλω πια\nREm         LA              REm\nΝα μην περάσεις πάλι από την γειτονιά\n\nREm\nΤο ξέρω πια βρε μάγκα για άλλωνε πονείς\nSOLm\nμ' εμέ τις θες να παίζεις και να με τυραννείς\n\nREm       LA         REm\nΌπλα μάγκα δεν σε θέλω πια\nREm         LA              REm\nΝα μην περάσεις πάλι από την γειτονιά\n\nREm\nΒρε μάγκα αφού το ξέρω τι θέλω και πονώ\nSOLm\nΠρέπει να αποφασίζω και άλλου αγαπώ\n\nREm       LA         REm\nΌπλα μάγκα δεν σε θέλω πια\nREm         LA              REm\nΝα μην περάσεις πάλι από την γειτονιά",
       "tr": "O màngas\n\nVre merakli ke mánga ti thélis ke pernás\nApó tin ghitoniá mu gia na me tiranás\n\nÓpla mánga den se thélo pia\nNa min perásis páli apó tin ghitoniá\n\nTo kséro pia vre mánga gia álone poní̱s\nm'emé tis thes na pézis ke na me tiranís\n\nÓpla mánga den se thélo pia\nNa min perásis páli apó tin ghitoniá\n\nVre mánga afú to kséro ti thélo ke ponó\nPrépi na apofasízo ke álu aghapó\n\nÓpla mánga den se thélo pia\nNa min perásis páli apó tin ghitoniá",
       "ti": "Il màngas\n\nEhi appassionato e mangas, cosa vuoi e continui a passare\ndal mio quartiere per tormentarmi\n\nBasta, mangas, non ti voglio più\nnon passare più dal mio quartiere\n\nLo so ormai, ehi mangas, che soffri per un'altra\ne con me vuoi solo giocare e tormentarmi\n\nBasta, mangas, non ti voglio più\nnon passare più dal mio quartiere\n\nEhi mangas, dato che so cosa voglio e cosa mi fa soffrire\ndevo decidere, e amo un altro\n\nBasta, mangas, non ti voglio più\nnon passare più dal mio quartiere\n\nNote:\n\nμερακλής — persona che fa le cose con passione/gusto, già incontrato in altre canzoni; qui usato come appellativo verso l'uomo corteggiatore\nόπλα — letteralmente \"armi\", ma qui usato come esclamazione popolare nel senso di \"basta! fermati!\" (espressione idiomatica di rifiuto/stop)\nχασαποσέρβικο σμυρνέικο — indicazione di genere/ritmo del brano: una variante del hasaposerviko (danza popolare greco-balcanica) in stile smirneico (della tradizione musicale di Smirne/Asia Minore)\nil testo presenta alcuni piccoli refusi di battitura nell'originale scansionato (es. \"θεσνα\" per \"θες να\", \"περάσειςπάλι\" senza spazio) che ho sciolto correttamente nella trascrizione",
-      "no": ""
+      "no": "",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1787733464669",
@@ -8154,7 +8196,7 @@
       "yr": "1968",
       "ar": "Στράτος Διονυσίου",
       "lb": "",
-      "gn": "",
+      "gn": "Laikà",
       "dr": "",
       "bal": "",
       "ll": "https://www.youtube.com/watch?v=p5DV3MfjhN4&list=RDp5DV3MfjhN4&start_radio=1",
@@ -8162,7 +8204,10 @@
       "ch": "MIm       SOL           SOL#   SOL          MIm\nΒρήκα την πόρτα σου κλειστή και το κλειδί παρμένο\nMIm  SOL  SOL#  SOL         MIm\nΚοντεύουνε χαράματα κι απ' έξω περιμένω\n\nMIm                                  SOL\nΓιατί καλέ γειτόνισσα, αφού σου τηλεφώνησα\nSOL\nκαι είπες πως θ' αφήσεις το κλειδί\nMIm                                          SOL\nΓιατί σκληρή γειτόνισσα παιδεύεις την καρδούλα μου\nSOL#  SOL  RE  MIm\nΓιατί με βασανίζεις δηλαδή\n\nMIm  SOL  SOL#  SOL  MIm\nΠότε μου λες πως δε με θες και πότε με γυρεύεις\nMIm  SOL  SOL#  SOL  MIm\nΑς ήξερα πώς σκέφτεσαι και τι Θεό λατρεύεις\n\nMIm      SOL\nΓιατί καλέ γειτόνισσα, αφού σου τηλεφώνησα\nSOL\nκαι είπες πως θ' αφήσεις το κλειδί\nMIm                                SOL\nΓιατί σκληρή γειτόνισσα παιδεύεις την καρδούλα μου\nSOL#  SOL  RE        MIm\nΓιατί με βασανίζεις δηλαδή",
       "tr": "Ghiatì kalè ghitònissa\n\nVríka tin pórta su klistí ke to klidí parméno\nKondévune charámata ki ap'ékso periméno\n\nGiatí kalé ghitónisa, afú su tilefónisa\nke ípes pos th'afísis to klidí\nGiatí sklirí ghitónisa pedévis tin kardúla mu\nGiatí me vasanízis diladí\n\nPóte mu les pos de me thes ke póte me ghirévis\nAs íksera pos skéftese ke ti theó latrévis\n\nGiatí kalé ghitónisa, afú su tilefónisa\nke ípes pos th'afísis to klidí\nGiatí sklirí ghitónisa pedévis tin kardúla mu\nGiatí me vasanízis diladí",
       "ti": "Perché cara vicina\n\nHo trovato la tua porta chiusa e la chiave presa\nsi avvicina l'alba e io aspetto fuori\n\nPerché, cara vicina, dopo che ti ho telefonato\ne mi avevi detto che avresti lasciato la chiave\nperché, dura vicina, tormenti il mio piccolo cuore\nperché mi fai soffrire, insomma\n\nA volte mi dici che non mi vuoi e a volte mi cerchi\nse solo sapessi come pensi e quale dio adori\n\nPerché, cara vicina, dopo che ti ho telefonato\ne mi avevi detto che avresti lasciato la chiave\nperché, dura vicina, tormenti il mio piccolo cuore\nperché mi fai soffrire, insomma\n\nNote:\n\nγειτόνισσα — vicina di casa; qui usata come vezzeggiativo/appellativo affettuoso verso l'amata, gioco tipico su vicinato e amore clandestino\nκαρδούλα — diminutivo affettuoso di \"καρδιά\" (cuore), \"piccolo cuore/cuoricino\"\nδηλαδή — \"insomma/cioè\", intercalare colloquiale usato qui a fine verso con funzione quasi rassegnata/enfatica\nτι Θεό λατρεύεις — idiomatico: \"quale dio adori\", espressione retorica per dire \"non capisco proprio cosa pensi/cosa ti guida\"",
-      "no": ""
+      "no": "",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1787676015446",
@@ -8257,7 +8302,7 @@
       "yr": "1934",
       "ar": "",
       "lb": "",
-      "gn": "",
+      "gn": "Smirneico",
       "dr": "Ousák",
       "bal": "Zeibekiko",
       "ll": "",
@@ -8265,7 +8310,10 @@
       "ch": "LAm\nΒάλε με στην αγκαλιά σου, βάλε με στην αγκαλιά σου\nLAm\nβάλε με στην αγκαλιά σου για να κοιμηθώ κοντά σου\nLAm                                       REm\nΒάλε με στην αγκαλιά σου για να κοιμηθώ κοντά σου\nLAm                          SOLm              LAm\nΒάλε με, φως μου, βάλε με και πριν να φέξει βγάλε με\n\nLAm\nΜη φοβάσαι τη μαμά σου, μη φοβάσαι τη μαμά σου\nLAm\nμη φοβάσαι τη μαμά σου, βάλε με στην κάμαρά σου\nLAm                                   REm\nΜη φοβάσαι τη μαμά σου, βάλε με στην κάμαρά σου\nLAm                          SOLm              LAm\nΒάλε με, φως μου, βάλε με και πριν να φέξει βγάλε με\n\nLAm\nΒάλε μ' από το πορτί σου, βάλε μ' από το πορτί σου\nLAm\nβάλε μ' από το πορτί σου για να κοιμηθώ μαζί σου\nLAm                                   REm\nΒάλε μ' από το πορτί σου για να κοιμηθώ μαζί σου\nLAm                          SOLm              LAm\nΒάλε με, φως μου, βάλε με και πριν να φέξει βγάλε με\n\nLAm\nΒάλε μ' από το ντουβάρι, βάλε μ' από το ντουβάρι\nLAm\nβάλε μ' από το ντουβάρι, μη μάς πάρουνε χαμπάρι\nLAm                                   REm\nΒάλε μ' από το ντουβάρι, μη μάς πάρουνε χαμπάρι\nLAm                          SOLm              LAm\nΒάλε με, φως μου, βάλε με κι από τη μάντρα βγάλε με",
       "tr": "Vàle me stin angalià su\n\nVále me stin anghaliá su, vále me stin anghaliá su\nvále me stin anghaliá su gia na kimithó kondá su\nVále me stin anghaliá su gia na kimithó kondá su\nVále me, fos mu, vále me ke prin na féksi vghále me\n\nMi fováse ti mamá su, mi fováse ti mamá su\nmi fováse ti mamá su, vále me stin kámará su\nMi fováse ti mamá su, vále me stin kámará su\nVále me, fos mu, vále me ke prin na féksi vghále me\n\nVále m'apó to portí su, vále m'apó to portí su\nvále m'apó to portí su gia na kimithó mazí su\nVále m'apó to portí su gia na kimithó mazí su\nVále me, fos mu, vále me ke prin na féksi vghále me\n\nVále m'apó to nduvári, vále m'apó to nduvári\nvále m'apó to nduvári, mi mas párune chabári\nVále m'apó to nduvári, mi mas párune chabári\nVále me, fos mu, vále me ki apó ti mándra vghále me",
       "ti": "Mettimi tra le tue braccia\n\nMettimi tra le tue braccia, mettimi tra le tue braccia\nmettimi tra le tue braccia per dormire vicino a te\nmettimi tra le tue braccia per dormire vicino a te\nmettimi, luce mia, mettimi, e prima che spunti l'alba tirami fuori\n\nNon temere tua madre, non temere tua madre\nnon temere tua madre, portami nella tua stanza\nnon temere tua madre, portami nella tua stanza\nmettimi, luce mia, mettimi, e prima che spunti l'alba tirami fuori\n\nFammi entrare dal tuo cancelletto, fammi entrare dal tuo cancelletto\nfammi entrare dal tuo cancelletto per dormire con te\nfammi entrare dal tuo cancelletto per dormire con te\nmettimi, luce mia, mettimi, e prima che spunti l'alba tirami fuori\n\nFammi passare dal muro, fammi passare dal muro\nfammi passare dal muro, che non ci scoprano\nfammi passare dal muro, che non ci scoprano\nmettimi, luce mia, mettimi, e dal recinto tirami fuori\n\nNote:\n\nφως μου — vezzeggiativo \"luce mia\", già incontrato in altre canzoni\nπορτί — piccolo cancello/porticina (diminutivo popolare di \"πόρτα\")\nντουβάρι — muro (turchismo gergale, da \"duvar\")\nχαμπάρι — notizia/voce; \"να μη μάς πάρουνε χαμπάρι\" = \"che non se ne accorgano/non ci scoprano\" (turchismo gergale)\nμάντρα — recinto, muro di cinta di un cortile/proprietà\ntesto dal tono scherzoso-erotico, con richieste ripetute a farsi introdurre di nascosto in casa dall'amata, evitando la sorveglianza della madre e dei vicini",
-      "no": "Una sera, mentre Αγγελική, ormai cieca, aspettava il marito Βαγγέλης che suonava in un locale, si scatenò un violento temporale. La casa lasciava passare l'acqua da tutte le parti e lei, non potendo ripararsi, si mise a piangere. Quando Βαγγέλης tornò e la trovò bagnata e spaventata, la prese in braccio, la portò in un angolo asciutto del letto, aprì un ombrello e rimasero così abbracciati fino al mattino, quando smise di piovere. Ispirata da quell'episodio, Αγγελική scrisse i versi della canzone, a cui il marito mise poi la musica."
+      "no": "Una sera, mentre Αγγελική, ormai cieca, aspettava il marito Βαγγέλης che suonava in un locale, si scatenò un violento temporale. La casa lasciava passare l'acqua da tutte le parti e lei, non potendo ripararsi, si mise a piangere. Quando Βαγγέλης tornò e la trovò bagnata e spaventata, la prese in braccio, la portò in un angolo asciutto del letto, aprì un ombrello e rimasero così abbracciati fino al mattino, quando smise di piovere. Ispirata da quell'episodio, Αγγελική scrisse i versi della canzone, a cui il marito mise poi la musica.",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1787648992326",
@@ -9925,7 +9973,7 @@
       "yr": "sconosciuto",
       "ar": "sconosciuto",
       "lb": "",
-      "gn": "Rembetico cantada",
+      "gn": "Rembetico",
       "dr": "",
       "bal": "",
       "ll": "",
@@ -9933,7 +9981,10 @@
       "ch": "MIm LAm MIm LAm MIm SI7 MIm\n\nMIm       LAm    MIm\nΘεέ μου μεγαλοδύναμε\n       SI7         MIm\nπου 'σαι ψηλά εκεί απάνω\nLAm                           MIm\nρίξε λιγάκι τουμπεκί, Θεούλη μου\n       SI7      MIm\nστο ναργιλέ μου απάνω\nLAm                           MIm\nρίξε λιγάκι τουμπεκί, Θεούλη μου\n       SI7      MIm\nστο ναργιλέ μου απάνω\n\nMIm LAm MIm LAm MIm SI7 MIm\n\nMIm        LAm    MIm\nΑνάμεσα στης εκκλησιάς\n        SI7   MIm\nτις αψηλές καμάρες\n        LAm      MIm\nανάβαμε τις λουλαδιές Θεούλη μου\n  SI7           MIm\nσα να 'τανε λαμπάδες\n        LAm      MIm\nανάβαμε τις λουλαδιές Θεούλη μου\n     SI7       MIm\nσα να 'τανε λαμπάδες\n\nMIm    LAm          MIm\nΜπρος στον Άγιο Σπυρίδωνα\n      SI7          MIm\nμε τ' άσπρα του τα γένια\n    LAm          MIm\nτραβάω μία ντουμανιά Θεούλη μου\n SI7  MIm\nξεραίνεται στα γέλια\n    LAm          MIm\nτραβάω μία ντουμανιά Θεούλη μου\n SI7  MIm\nξεραίνεται στα γέλια\n\nMIm LAm MIm LAm MIm SI7 MIm\n\nMIm    LAm           MIm\nΚι όταν ανάψει ο ναργιλές\n       SI7       MIm\nκι έρθουμε σε ντουμάνι\n         LAm               MIm\nστείλε όλους τους αγγέλους σου Θεούλη μου \n     SI7        MIm\nνα πουν το νάνι νάνι\n         LAm               MIm\nστείλε όλους τους αγγέλους σου Θεούλη μου \n     SI7        MIm\nνα πουν το νάνι νάνι",
       "tr": "Theè mu meghalodìname\n\nTheè mu meghalodìname\npu 'se psilà ekì apàno\nrìkse lighàki tumbekì, Theùli mu\nsto narghilè mu apàno\n\nAnàmesa stis eklisiàs\ntis apsilès kamàres\nanàvame tis luladiès\nTheùli mu\nsa na 'tane labàdes\n\nBros ston Àghio Spirìdona\nme t' àspra tu ta ghènia\ntravào mìa dumaniá\nTheùli mu\nkseréneте sta ghèlia\n\nKi òtan anàpsi o narghilès\nki èrthume se dumàni\nstìle òlus tus anghèlus su\nTheùli mu\nna pun to nàni nàni",
       "ti": "Dio mio onnipotente\n\nDio mio onnipotente\nmanda un po' di tabacco, Dio mio\nsul mio narghilè\n\nIn mezzo, tra le\nalte arcate della chiesa\naccendevamo le boccate di fumo\nDio mio\ncome fossero candele\n\nDavanti a Sant'Spiridione\ncon la sua barba bianca\ntiro una boccata di fumo\nDio mio\nsi secca dalle risate\n\nE quando si accenderà il narghilè\ne arriveremo nel fumo (nell'estasi)\nmanda tutti i tuoi angeli\nDio mio\na cantarci la ninna nanna\n\nNote alla traduzione\n\nτουμπεκί (tumbekì): il tabacco (spesso misto ad altre sostanze) usato nel narghilè.\nναργιλές (narghilès): il narghilè, la pipa ad acqua.\nλουλαδιά (luladiá): boccata/tiro di fumo dal narghilè, sinonimo qui di τσιμπουκιά.\nντουμάνι/ντουμανιά (dumàni/dumaniá): propriamente \"fumo denso\"; in senso figurato lo stato di intontimento/estasi provocato dal fumo — da cui \"έρθουμε σε ντουμάνι\" (arriviamo nel fumo, cioè raggiungiamo quello stato alterato).\nCome nella versione precedente, il testo è una parodia scherzosa e irriverente della preghiera cristiana, tipica dell'umorismo dei tekedes rebetika: paragona i tiri di narghilè alle candele in chiesa e chiede a Dio e agli angeli di accompagnare l'estasi del fumo.",
-      "no": "E' uno dei brani più singolari del rebetiko greco, di provenienza sconosciuta, senza compositore né paroliere accertati, orfano di genitori e di un mito preciso, ma appartiene chiaramente al repertorio dei tekedes (le tane/fumerie dove si suonava il rebetiko), come confermano del resto tutti i suoi versi. \n\nAnno di uscita: non determinabile con certezza. Secondo il cantante Dimitris Kontoyannis, che lo riportò in auge negli anni '80, il brano esisterebbe in una versione zeibekiko, incisa da un cantante di Larissa probabilmente nel 1964 — ma questa registrazione non è mai stata rintracciata né confermata con certezza. \n\nGenere/ritmo: Rebetiko-kantadoriko. Ciò che colpisce è che la musica non assomiglia né agli smyrneika da tekes né ai pireotika (lo stile del Pireo); ha un ritmo che a tratti ricorda il tsamiko e a tratti il belcanto. \n\nInterpreti principali:\n\nΔημήτρης Κοντογιάννης — colui che fece riscoprire il brano negli anni '80 \nΓιώργος Μουσταΐρας\nVersione più recente (2016/2017), registrata al Rana Studio di Ioannina \n\nStoria del brano: È un pezzo avvolto nel mistero: da tempo si cerca ancora di individuarne con certezza gli autori, e le ipotesi sulla paternità del testo e della musica restano numerose e incerte. Si tratta di una \"preghiera\" ironico-blasfema tipica dell'ambiente dei tekedes: il \"mangas\" (il guappo/uomo di strada del rebetiko) si rivolge a Dio chiedendogli scherzosamente di benedire il narghilè (αργιλές) e il fumo di hashish, invocando persino gli angeli per accompagnare l'estasi del fumo — un capovolgimento giocoso e irriverente dell'iconografia religiosa, molto comune nel rebetiko delle origini legato alla subcultura dei fumatori di hashish."
+      "no": "E' uno dei brani più singolari del rebetiko greco, di provenienza sconosciuta, senza compositore né paroliere accertati, orfano di genitori e di un mito preciso, ma appartiene chiaramente al repertorio dei tekedes (le tane/fumerie dove si suonava il rebetiko), come confermano del resto tutti i suoi versi. \n\nAnno di uscita: non determinabile con certezza. Secondo il cantante Dimitris Kontoyannis, che lo riportò in auge negli anni '80, il brano esisterebbe in una versione zeibekiko, incisa da un cantante di Larissa probabilmente nel 1964 — ma questa registrazione non è mai stata rintracciata né confermata con certezza. \n\nGenere/ritmo: Rebetiko-kantadoriko. Ciò che colpisce è che la musica non assomiglia né agli smyrneika da tekes né ai pireotika (lo stile del Pireo); ha un ritmo che a tratti ricorda il tsamiko e a tratti il belcanto. \n\nInterpreti principali:\n\nΔημήτρης Κοντογιάννης — colui che fece riscoprire il brano negli anni '80 \nΓιώργος Μουσταΐρας\nVersione più recente (2016/2017), registrata al Rana Studio di Ioannina \n\nStoria del brano: È un pezzo avvolto nel mistero: da tempo si cerca ancora di individuarne con certezza gli autori, e le ipotesi sulla paternità del testo e della musica restano numerose e incerte. Si tratta di una \"preghiera\" ironico-blasfema tipica dell'ambiente dei tekedes: il \"mangas\" (il guappo/uomo di strada del rebetiko) si rivolge a Dio chiedendogli scherzosamente di benedire il narghilè (αργιλές) e il fumo di hashish, invocando persino gli angeli per accompagnare l'estasi del fumo — un capovolgimento giocoso e irriverente dell'iconografia religiosa, molto comune nel rebetiko delle origini legato alla subcultura dei fumatori di hashish.",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1786719761303",
@@ -11191,10 +11242,10 @@
       "alias": "Μινόρε της αυγής",
       "at": "Μίνως Μάτσας",
       "am": "Σπύρος Περιστέρης",
-      "yr": "1936",
+      "yr": "1947",
       "ar": "Απόστολος Χατζηχρήστος, Μάρκος Βαμβακάρης, Γιάννης Σταμούλης",
       "lb": "",
-      "gn": "Rembetico cantada",
+      "gn": "archontorembétiko",
       "dr": "Νεβά",
       "bal": "",
       "ll": "https://www.youtube.com/watch?v=S2MynMibAAM",
@@ -11202,8 +11253,10 @@
       "ch": "LAm                MI\nΞύπνα μικρό μου κι άκουσε\nREm         MI  LAm\nΆκου μινόρε της αυγής\nREm                  LAm\nΓια σένανε είναι γραμμένο\nMI                 LAm\nαπό το κλάμα κάποιας ψυχής\n\nLAm              MI\nΤο παραθύρι σου άνοιξε\nREm      MI        LAm\nΡίξε μου μια γλυκιά ματιά\nREm                  LAm\nΚι ας σβήσω πια τότε μικρό μου\nMI                       LAm\nμπροστά στο σπίτι σου σε μια γωνιά",
       "tr": "To minòre tis avghìs\n\nXìpna mikró mou ki ákouse\nÁkou minóre tis avgís\nGia sénane eínai graménο\napó to kláma kápias psichís\n\nTo parathìri sou ánikse\nRíkse mou mia glikiá matiá\nKi as svíso pia tóte mikró mou\nbrostá sto spíti sou se mia gonía",
       "ti": "Il minore dell'alba\n\nSvegliati, piccola mia, e ascolta\nAscolta il minore dell'alba\nÈ scritto per te\ndal pianto di un'anima\n\nLa tua finestra si è aperta\nDammi uno sguardo dolce\nE che io mi spenga allora, piccola mia,\ndavanti a casa tua, in un angolo\n\nNote di traduzione\n\n\"μικρό μου\" — letteralmente \"mio piccolo/a\", vezzeggiativo affettuoso molto comune nel greco popolare per rivolgersi alla persona amata, indipendentemente dall'età; reso con \"piccola mia\" mantenendo il registro affettuoso.\n\n\"μινόρε της αυγής\" — \"il minore dell'alba\": riferimento musicale, la scala/tonalità minore associata all'alba, tipica delle canzoni malinconiche cantate all'aube; qui non è un modo di dire ma un'immagine poetica diretta, lasciata invariata.\n\n\"ας σβήσω\" — letteralmente \"che io mi spenga/mi estingua\"; espressione poetica per \"che io muoia\", spesso usata nei testi d'amore greci in senso iperbolico (morire d'amore), non letterale.",
-      "no": "La composizione ufficiale del brano è accreditata al celebre musicista Spyros Peristeris, allora direttore artistico della casa discografica Odeon, con il testo firmato da Minos Matsas (spesso nascosto sotto lo pseudonimo di Pipo).Esiste tuttavia un'affascinante disputa storica sulla reale paternità: secondo molte testimonianze dell'epoca, la melodia fu creata originariamente dal compositore e cantante Apostolos Chatzichristos durante gli anni precedenti alla guerra. Trattandosi di un'epoca in cui i direttori artistici registravano spesso i brani a proprio nome, la canzone fu pubblicata formalmente a nome di Peristeris",
-      "balgr": ""
+      "no": "Scritta nel 1946 da Spyros Peristeris su testo di Minos Matsas, la canzone nasce dal «Σμυρνέικο μινόρε», il «minore smirneico». Secondo Panagiotis Kounadis è la canzone-madre con la storia più lunga di tutto il rebetiko: portata a Smirne dal violinista Giankos Alexiou «Giovanikas», che era vissuto a lungo in Romania, ha una melodia dal colore rumeno su un ritmo di habanera. Il Μινόρε της αυγής ne è la continuazione e l’evoluzione.\n\nPeristeris era direttore artistico della casa discografica, e in quegli anni capitava spesso che chi lavorava nelle case discografiche firmasse canzoni scritte da altri. Matsas stesso usava diversi pseudonimi, fra cui «Τσάμας» e «Πιπίτσα Οικονόμου», dal nome di una sua impiegata. Per questo una voce mai documentata attribuisce la melodia ad Apostolos Chatzichristos, e il testo a Ch. Vasiliadis.\n\nLa prima incisione è del 1947: un terzetto con Apostolos Chatzichristos, Markos Vamvakaris e Giannis Stamoulis, con Kostas Kaplanis al bouzouki. Romantica e raffinata, è nel pieno gusto dell’archontorembétiko.\n\nΠαναγιώτης Κουνάδης, Εις ανάμνησιν στιγμών ελκυστικών, vol. A, Κατάρτι 2003.",
+      "balgr": "",
+      "zona": "",
+      "balvid": false
     },
     {
       "id": "s_1786199975800",
@@ -12490,7 +12543,7 @@
       "yr": "1968",
       "ar": "Γιάννης Καλατζής, Λίτσα Διαμάντη",
       "lb": "",
-      "gn": "Laïko classico / Elafrolaïko",
+      "gn": "Laikà",
       "dr": "maggiore",
       "bal": "Chasàpiko",
       "ll": "",
@@ -12498,7 +12551,10 @@
       "ch": "LA                   REm             LA\nΚυρά Γιώργαινα, ο Γιώργος σου πού πάει\nLA                   REm             LA\nγια πού το 'βαλε και πού το ξενυχτάει\nMI                   RE\nΈβαλε το σκούρο του, άναψε το πούρο του\n  MI                  LA\nμπήκε στο αμάξι του και εντάξει του\n \nLA                FA#  SIm\nΟ Γιώργος είναι πονηρός        \n             MI           LA\nκι αυτά που λέει μην τα τρως   \n           FA#           SIm\nκι από τις έντεκα και μπρος    \n        RE            LA\nκυκλοφοράει για γαμπρός    \nLA                FA#  SIm\nΟ Γιώργος είναι πονηρός        \n             MI           LA\nκι αυτά που λέει μην τα τρως   \n           FA#           SIm\nκι από τις έντεκα και μπρος    \n        RE            LA\nκυκλοφοράει για γαμπρός       \n \nLA                   REm             LA\nΚυρά Γιώργαινα, στο λέω υπευθύνως\nLA                   REm             LA\nο Γιωργάκης σου είν' ένας θεατρίνος\nMI                   RE\nΓια δουλειά σου μίλησε, πονηρά σε φίλησε\n MI                  LA\nη αυγούλα μύρισε και δεν γύρισε\n \nLA                FA#  SIm\nΟ Γιώργος είναι πονηρός        \n             MI           LA\nκι αυτά που λέει μην τα τρως   \n           FA#           SIm\nκι από τις έντεκα και μπρος    \n        RE            LA\nκυκλοφοράει για γαμπρός",
       "tr": "Kirá Ghiórghena\n\nKirá Ghiórghena, o Ghiórghos su pu pái\nghia pu to 'vale ke pu to ksenichatái\nÉvale to skúro tu, ánapse to púro tu\nbéke sto amáksi tu ke entáksi tu\n\nO Ghiórghos íne ponirós\nki aftá pu léi min ta tros\nki apó tis éndeka ke bros\nkikloforáei ghia ghambrós\n\nKirá Ghiórghena, sto léo ipefthínos\no Ghiorghákis su in' énas theatrínos\nGhia duliá su mílise, ponirá se fílise\ni avghúla mírise ke den ghírise",
       "ti": "Signora Giorgena\n\nSignora Giorgena, il tuo Giorgio dove va, \ndove l'ha messa e dove passa la notte? \nHa messo il suo abito scuro, ha acceso il suo sigaro, \nè salito sulla sua macchina e via tranquillo.\n\nGiorgio è furbo, e quello che dice non berlo — \ndalle undici in poi gira da futuro genero.\n\nSignora Giorgena, te lo dico con certezza: il tuo Giorgino è un attore. Ti ha parlato di lavoro, ti ha baciato con malizia —\n è spuntata l'alba e non è tornato.\n\nNote: Κυρά Γιώργαινα è \"Signora moglie di Giorgio\" — il suffisso -αινα indica la moglie di qualcuno, tipico del greco popolare. Σκούρο è l'abito scuro elegante. Πούρο è il sigaro. Θεατρίνος è l'attore, il commediante — nel senso di uno che recita, fa finta. Η αυγούλα μύρισε — \"è profumata l'albetta\" — modo poetico per dire che è spuntata l'alba. Κυκλοφοράει για γαμπρός — \"gira da genero\" — cioè fa il cascamorto, cerca conquiste.",
-      "no": "[[2026-07-25|Leggi l'approfondimento su Kirá Ghiórghena ]]"
+      "no": "[[2026-07-25|Leggi l'approfondimento su Kirá Ghiórghena ]]",
+      "zona": "",
+      "balgr": "",
+      "balvid": false
     },
     {
       "id": "s_1785576920474",
@@ -13297,6 +13353,14 @@
   ],
   "args": [
     {
+      "id": "a_1793079780663",
+      "title": "Ταμπαχανιώτικα: le canzoni dei porti di Creta",
+      "tag": "storie di luoghi",
+      "date": "2026-10-01",
+      "body": "Esiste un'altra Creta, accanto a quella delle lire e dei balli in cerchio che si fanno in tutta l'isola, dalle feste di paese ai matrimoni fino agli antichi balli guerrieri come il pentozali, e accanto a quella dei ριζίτικα, i canti antichi senza strumenti dei paesi ai piedi dei Λευκά Όρη, cantati a tavola. È la Creta delle città e dei porti, dei caffè e delle botteghe, dove fra la fine dell'Ottocento e la metà del Novecento si cantava una musica lenta, appassionata, piena di Oriente, da ascoltare più che da ballare: i ταμπαχανιώτικα (tabachaniòtika). C'è chi li chiama «il rebetiko di Creta», e non a torto.\n\nUn nome che nessuno sa spiegare\nIl nome è più giovane delle canzoni: si usa da settanta-ottant'anni. Prima questi canti avevano tanti nomi: αμανέδες (amanèdes), τουρκοκρητικά (turco-cretesi), σταφιδιανά, μερακλήδικα (da intenditori), της παρέας (della compagnia), παθητικά (appassionati). Già questi nomi raccontano molto: l'Oriente, i turco-cretesi, l'uomo che ha dato il nome al più famoso di questi canti, e il fatto che non si ballavano, si ascoltavano fra amici.\nSull'origine della parola ci sono tre spiegazioni, e nessuna è sicura:\n– dalle ταμπακαριά, le concerie di pelle, dove i lavoratori si ritrovavano a cantare con i musicisti; la parola viene dal turco tabakhane, conceria;\n– dal tabacco (ταμπάκ χανές): i locali dove si fumava, forse non solo tabacco, mentre si suonava;\n– dal quartiere Ταμπαχανά di Smirne, dove si cantava in uno stile molto simile. Anche lo studioso Γ. Τσίβης scrive che i vecchi musicisti cretesi consideravano il Σταφιδιανός «parente» del ταμπαχανιώτικος αμανές di Smirne.\n\nLe concerie di Chania\n[FOTO: tabakaria_epoca.jpg — Le Ταμπακαριά fra il 1880 e il 1900 (fonte: tampakaria.gr)]\nLe concerie di Chania esistono ancora. Si trovano a est del porto veneziano, giù sul mare, sulla costa rocciosa ai piedi della Χαλέπα (Chalèpa). Quando nacquero, prima della metà dell'Ottocento, erano fuori dalle mura, in una zona quasi di campagna. Solo più tardi, sulla collina sopra, la Χαλέπα diventò il quartiere elegante dove i funzionari turchi e i consoli europei avevano le loro case. Così, a pochi passi di distanza, vivevano due mondi: in alto le ville con i giardini, in basso le concerie, con la fatica e l'odore delle pelli.\nI primi conciatori furono alcuni contadini scesi dall'Αποκόρωνας, la zona a est di Chania, che si stabilirono sul mare. Ci lavorava gente povera: scaricatori di porto, braccianti, chi non aveva altro. È da questo mondo di fatica e di porto che sembrano venire queste canzoni.\nLe concerie crebbero soprattutto fra le due guerre, si modernizzarono verso il 1925 e, dopo la Seconda guerra mondiale, arrivarono le macchine. Poi, verso il 1970, la crisi: le concerie chiusero una dopo l'altra e gli edifici rimasero abbandonati.\n[FOTO: tabakaria_chania.jpg — Le Ταμπακαριά nel 2017, ancora abbandonate (foto: ΕΡΤ / ert.gr, via archaiologia.gr)]\nNel 2017 diciassette edifici furono proposti come monumenti protetti, per salvarli dal crollo, e dal 2022 tutta la zona è stata riqualificata, con una passeggiata sul mare. Oggi le vecchie concerie sono case, laboratori, uffici, piccoli alberghi e taverne di pesce. Due funzionano ancora.\n[FOTO: tabakaria_oggi.jpg — Le Ταμπακαριά oggi (foto: discovercrete.com)]\nVedi la posizione su Google Maps: https://www.google.com/maps/search/Ταμπακαριά+Χανιά\n\nCristiani e musulmani\nQuesta musica è nata in una Creta dove vivevano insieme cristiani e musulmani. Per più di quattro secoli, dal 1211, Creta era stata di Venezia: il «Regno di Candia». Gli Ottomani la strapparono ai veneziani dopo una lunga guerra: Chania cadde nel 1645, Candia nel 1669, dopo un assedio di ventun anni, uno dei più lunghi della storia. Di quei secoli restarono le fortezze e i porti, l'Ερωτόκριτος, scritto in cretese da Βιτσέντζος Κορνάρος, e molte famiglie di origine veneziana. Alcune lasciarono l'isola, altre restarono cristiane, e alcune, come vedremo, si convertirono all'Islam. Dopo la conquista, molti cretesi si convertirono all'Islam: per pagare meno tasse, per non perdere le terre, per fare carriera. Ma restarono cretesi. Prendevano un nome musulmano e lo adattavano al greco, Σελίμης, Σουλεϊμάνης, Τζεμάλης, Φατμέ. Spesso tenevano il cognome di famiglia, come Αμπντούλ Καλημεράκης. E chi arrivava dall'Anatolia, per sembrare del posto, aggiungeva al suo cognome turco il cretesissimo -άκης: Μουλαδάκης, Αλιδάκης. Per dire che uno si era convertito, a Creta si diceva semplicemente «ετούρκεψε», «è diventato turco».\n(A Creta si racconta anche che i cognomi in -άκης, che vuol dire «piccolo», fossero stati imposti dai turchi per disprezzo, e che ne siano rimasti senza solo i paesi più ribelli, come Anoghia e Sfakià. È un'ipotesi, e non l'unica. Secondo un'altra, -άκης sarebbe semplicemente il modo cretese di dire «figlio di», come -όπουλος nel Peloponneso, -ίδης fra i greci del Ponto o -άτος nelle isole Ionie, e si sarebbe fissato nei registri proprio negli anni del dominio ottomano. Comunque sia, dice molto dell'orgoglio cretese.)\nI «turchi» di Creta parlavano greco, il dialetto cretese, e avevano gli stessi balli, le stesse mantinades, le stesse canzoni e le stesse feste dei loro vicini cristiani, tranne quelle religiose. Molti sapevano a memoria l'Ερωτόκριτος. E nel cretese restano ancora parole turche che altrove in Grecia non si usano, come καβές al posto di καφές.\nAi vertici, fra il potere ottomano e i cristiani che si ribellavano, i conflitti furono continui e spesso sanguinosi. Ma nella vita di tutti i giorni, al porto, nelle botteghe, nei caffè, la gente lavorava, beveva e cantava insieme. Lo racconta bene questa mantinada, dove il greco e il turco si mescolano nello stesso verso:\n\nΑμάν κουζούμ, αμάν γιαβρούμ, κάνε χανούμ ινσάφι,\nμουδέ καλέμι μουδέ ουλούμι το ντέρτι μου δε γράφει.\nAmàn kuzùm, amàn ghiavrùm, kàne chanùm insàfi,\nmudè kalèmi mudè ulùmi to dèrti mu de gràfi.\n«Ah agnellino mio, ah piccolo mio, signora, abbi pietà: né la penna né la scienza possono scrivere il mio dolore.»\n\nΜεχμέτ μπέης Σταφιδάκης e Φατμέ\nIl più famoso di questi canti porta il nome di un musulmano. Μεχμέτ μπέης era nato a Chania nel 1878, figlio unico ed erede del latifondista Μουσταφά μπέης. Tutti lo chiamavano Σταφιδάκης, perché nella provincia di Chania la sua famiglia era quasi l'unica ad avere grandi vigneti di uva passa (σταφίδα). Viveva una vita ricca, spensierata e allegra, fatta di feste che organizzava e pagava lui stesso. Aveva tanti amici, turchi e greci. Suonava il μπουλγαρί, cantava e ballava.\nAveva sposato Φατμέ, una turco-cretese ricca e bella, della famiglia dei Βεργέρηδες, discendenti di nobili feudatari veneziani. L'amava appassionatamente. Per lei creò una melodia nuova, piena di passione, che prese il suo nome: il Σταφιδιανός. Ogni festa la apriva cantando, su quella melodia, una mantinada dedicata a lei:\n\nΟ σεβντάς σου μ' άναψε γιαγκίνι στην καρδιά μου,\nμα να σβήσει δεν μπορεί, γκιούλ μπαξέ κυρά μου.\nO sevdàs su m'ànapse ghiangìni stin kardià mu,\nma na svìsi den borì, giùl baksè kirà mu.\n«Il tuo amore mi ha acceso un incendio nel cuore, e non si può spegnere, mia signora giardino di rose.»\n\nAnche qui il turco entra nel verso: σεβντάς è l'amore, γιαγκίνι l'incendio (yangın), γκιούλ μπαξέ il giardino di rose (gül bahçe).\nMa la felicità non durò. Qualcuno gli disse che Φατμέ lo tradiva con Νουρεδδίν Νουρή Εφέντης, un bell'uomo, maestro della scuola turca e figura importante della società musulmana di Chania. Μεχμέτ μπέης non riuscì mai a sapere se era vero. La gelosia e il dubbio lo divorarono: cacciò la moglie e si chiuse in casa. Poco dopo si ammalò di quella che allora chiamavano «tisi galoppante», la forma di tubercolosi che non lasciava scampo. La gente disse che era morto di malinconia. Sul letto di morte la fece chiamare. Quando lei arrivò, con i suoi genitori, la guardò negli occhi e improvvisò:\n\nΕγώ παθαίνω και ξεγνοιώ και συ που ζεις γλιτώνεις,\nκι αν έχω δίκιο απάνω σου, στον Άδη το πλερώνεις.\nEgò pathèno ke kseghniò ke si pu zis ghlitònis,\nki an ècho dìkio apàno su, ston Àdi to plerònis.\n«Io soffro e mi libero, e tu che vivi te la cavi; ma se ho ragione su di te, lo pagherai nell'Ade.»\n\nPoi raccolse le ultime forze, si sollevò sul letto e salutò il mondo cantando a voce alta, sul suo Σταφιδιανός:\n\nΕσύ μωρέ καπέ ντουνιά σε μένα μη καυχάσαι,\nμα 'γώ 'μαι που σε γλέντησα και τώρα μ' απαρνάσαι.\nEsì morè kapè dunià se mèna mi kafchàse,\nma 'ghò 'me pu se ghlèndisa ke tòra m'aparnàse.\n«Tu, mondo traditore (kahpe dünya), non vantarti con me: sono io che ti ho goduto, e ora sei tu che mi rinneghi.»\n\nMorì nel maggio del 1908, a trent'anni. Lo piansero musulmani e cristiani, e al suo funerale andò tutta la città. Lo storico Μιχάλης Κατσανεβάκης pensa che il presunto amante possa aver ispirato il Νουρή μπέης del «Καπετάν Μιχάλης» di Καζαντζάκης.\nMa il Σταφιδιανός è davvero suo? Lo studioso Γ. Τσίβης, che racconta questa storia, onestamente si chiede: forse la melodia gliel'hanno attribuita perché la cantava con tanto dolore, «chi può saperlo davvero?».\n\nIl Σταφιδιανός nei dischi\n[FOTO: stafidianos_polydor.jpg — L'etichetta del Σταφιδιανός di Ν. Κουφιανός, Polydor 1930 (archivio Ε. Βεληβασάκης / Πολιτισμική Κρήτη, via Αεράκης)]\nLa più antica incisione che conosciamo è del 1930, solo ventidue anni dopo la morte di Σταφιδάκης. Sull'etichetta non c'è nessun autore: c'è scritto soltanto «δημώδες», popolare. La melodia era già diventata di tutti. La canta Νικόλαος Κουφιανός, che suona anche la lira, accompagnato dal santouri.\nAscolta la registrazione del 1930 (Νικόλαος Κουφιανός, lira e canto, con il santouri; Polydor V 51095): https://www.youtube.com/watch?v=ejkotd6Qbvs\nOtto anni dopo, nel 1938, lo incisero i due grandi dei ταμπαχανιώτικα: Γιάννης Μπερνιδάκης «Μπαξεβάνης» alla voce e Στέλιος Φουσταλιέρης al μπουλγαρί, lo strumento dello stesso Σταφιδάκης. Il titolo è «Χανιώτικος Σταφιδιανός», e i versi parlano proprio della melodia:\n\nΜα ο σταφιδιανός σκοπός παλιώνει μα δε λιώνει,\nκι απού 'χει αγάπη στα κρυφά, αυτός τη φανερώνει.\nΜε το σταφιδιανό σκοπό θα σου το πω μικρή μου,\nπως λιώνει και μαραίνεται για σένα το κορμί μου.\nMa o stafidianòs skopòs paliòni ma de liòni,\nki apù 'chi agàpi sta krifà, aftòs ti faneròni.\nMe to stafidianò skopò tha su to po mikrì mu,\npos liòni ke marènete ghia sèna to kormì mu.\n«Il motivo di Stafidakis invecchia ma non si consuma, e chi ha un amore nascosto, lui lo rivela. Con il motivo di Stafidakis te lo dirò, piccola mia: che per te il mio corpo si strugge e appassisce.»\n\nAscolta il «Χανιώτικος Σταφιδιανός» del 1938 (Γιάννης Μπερνιδάκης «Μπαξεβάνης» canto, Στέλιος Φουσταλιέρης μπουλγαρί; HMV AO 2488): https://www.youtube.com/watch?v=BODJvKMuDkM\n\nGli altri musicisti turco-cretesi\nΣταφιδάκης non era un caso isolato. Fra i musulmani di Creta ci furono molti musicisti e ballerini famosi, che suonavano e cantavano in cretese. Di molti di loro ci restano soprattutto ricordi e racconti tramandati a voce, che possono essere veri o abbelliti dal tempo, ma che dicono molto di come venivano ricordati.\nΧασάν Αγάς ο Χανιώτης, verso il 1850, era un suonatore di lira leggendario. Quando suonava con passione appoggiava la lira a terra, e si diceva che il suono facesse «tremare e ballare la terra».\nΜουσταφάς Καραγκιουλές (1845–1930), di Καλλεργιανά, nella provincia di Κίσσαμος, era un ricco proprietario e un violinista amatissimo. Si racconta che non facesse nessuna differenza fra cristiani e musulmani. Un suo συρτός è ancora oggi fra i brani cretesi più suonati. Con lo scambio di popolazioni dovette partire, e a Smirne aprì un caffè. Lì, durante la guerra d'Asia Minore, accoglieva i soldati cretesi dell'esercito greco, e a uno di loro disse soltanto:\n«Άχι… φύγαμε απ' τον τόπο μας!»\n«Àchi… fìgame ap' ton tòpo mas!»\n«Ah… ce ne siamo andati dalla nostra terra!»\nΑμπντούλ Καλημεράκης, di Chania, suonava e costruiva lire. Partì anche lui nel 1923.\nΧουσεΐν Τζίνης, di Σέλινο, era un ballerino famoso, discendente di un nobile veneziano convertito. Si raccontava che durante il pentozali tenesse in mano una capra appena macellata, mentre gli altri cercavano di scuoiarla, senza perdere il passo.\nUna fonte turca ricorda anche Αλής Σουμάνης di Ierapetra, considerato all'inizio del Novecento il più grande violinista di Creta: quando suonava alle feste cristiane, lasciava le mance alla chiesa.\nNon tutte le storie finiscono bene. Negli anni delle rivolte la violenza colpì da tutte e due le parti, anche i musicisti. La stessa fonte turca racconta che il lirista Ναΐμης fu ucciso da un musulmano perché troppo amico dei cristiani, e che il poeta di mantinades Χουσεΐν Ζαρωνάκης fu ucciso dai ribelli cristiani a Sitia, nel 1897. Due morti, una per parte: la violenza arrivava dall'alto, dalle guerre, e travolgeva anche chi aveva cantato insieme.\n\nLe partenze\nNel 1897 Creta si ribellò ancora una volta, e l'anno dopo diventò uno Stato autonomo. Per i musulmani dell'isola cominciò un'altra storia: molti partirono già allora, fra il 1897 e il 1912, verso le coste dell'Anatolia, a Smirne, ad Ayvalık, a Mersin, ad Antalya. Solo ad Antalya ne arrivarono circa cinquemila. Nel 1913 Creta si unì alla Grecia, e nel 1923, con lo scambio di popolazioni fra Grecia e Turchia, partirono anche gli ultimi. Al loro posto arrivarono a Creta i profughi greci dell'Asia Minore, con la loro musica.\nIn Turchia quei «turchi» di Creta non sapevano quasi il turco: parlavano cretese. Gli anatolici li chiamavano «yarım gâvur», «mezzi infedeli». I loro figli e nipoti hanno imparato il turco a scuola, e poco a poco il cretese si è perso. Ma ancora oggi, nelle feste delle loro associazioni ad Antalya, i più anziani cantano mantinades in cretese. E quando vanno a Creta parlano la lingua di cent'anni fa, e i cretesi di oggi, stupiti, chiedono subito: «Di che paese siete?».\nUna delle mantinades che cantano dice:\n\nΚρήτη δε θα σε ξεχάσουνε οι Κρητικοί στα ξένα,\nΚρήτη μου, σου τ' ορκίζομαι, στη μάνα που μας γέννα.\nKrìti de tha se ksechàsune i Kritikì sta ksèna,\nKrìti mu, su t' orkìzome, sti màna pu mas ghièna.\n«Creta, non ti dimenticheranno i cretesi in terra straniera: Creta mia, te lo giuro sulla madre che ci ha messi al mondo.»\n\nE un'altra:\n\nΌπου κι α πάω θα βαστώ χώμα απ' τον Ψηλορείτη,\nνα το σκορπίζω να γενεί όλος ο κόσμος Κρήτη.\nÒpu ki a pào tha vastò chòma ap' ton Psilorìti,\nna to skorpìzo na ghienì òlos o kòsmos Krìti.\n«Dovunque andrò porterò terra dello Psiloritis, e la spargerò perché tutto il mondo diventi Creta.»\n\nIl μπουλγαρί e i suoi maestri\n[FOTO: bulgari.jpg — Il μπουλγαρί, il liuto a manico lungo dei ταμπαχανιώτικα]\nLo strumento di questi canti è il μπουλγαρί (bulgarì), un liuto dal manico lungo della famiglia del tambouràs, con tre corde doppie e i tasti mobili: un parente stretto del bağlama turco e del bouzouki. Più tardi si aggiunsero la chitarra, il violino e la lira. Sono canti lenti, spesso improvvisati, costruiti sui δρόμοι (dròmi), i modi orientali, che parlano soprattutto d'amore: passione, gelosia, dolore, nostalgia.\nIl più grande maestro del μπουλγαρί fu Στέλιος Φουσταλιέρης (1911–1993), di Rethymno, che di mestiere faceva l'orologiaio. Molti lo chiamavano Φουσταλιεράκης, «il piccolo Φουσταλιέρης». Suonò con i grandi maestri della musica cretese, ma fu anche un caso unico capace di intendersi con i grandi rebetes: fra il 1933 e il 1937, negli anni d'oro del rebetiko, visse ad Atene, dove conobbe Μάρκος Βαμβακάρης, Γιώργος Μπάτης, Παναγιώτης Τούντας, Γιάννης Παπαϊωάννου, Στράτος Παγιουμτζής e altri. Tornando a Creta si portò dietro tutto quello che aveva imparato. E viene da chiedersi se sia un caso che sia tornato proprio nel 1937, quando la censura di Μεταξάς cominciava a colpire il rebetiko. Fu lui a far conoscere in tutta la Grecia «Όσο βαρούν τα σίδερα», la prima canzone di questo genere a diventare famosa fuori da Creta. Accanto a lui va ricordato il cantante Γιάννης Μπερνιδάκης «Μπαξεβάνης».\nPiù tardi Νίκος Μανιάς diede di questi canti interpretazioni considerate perfette, a partire dal disco «Κρητική λεβεντιά» (1974), con le canzoni del grande solista di laouto Βαγγέλης Μαρκογιαννάκης «Μαρκοβαγγέλης», che ha inventato un nuovo modo di suonare il laouto e ancora nel 2020 presentava canzoni nuove. Oggi a Chania se ne occupano Στέλιος e Λεωνίδας Λαϊνάκης, padre e figlio: Λεωνίδας costruisce μπουλγαρί e insegna a suonarli, e nel 2012 hanno pubblicato il libro «Ταμπαχανιώτικα, αστικά τραγούδια της Δυτικής Κρήτης», con un CD di sedici canzoni.\n\nHeraklion e il Λάκκος\nCome il rebetiko del Pireo, anche i ταμπαχανιώτικα crebbero in un mondo di porto e di lavoro pesante. Ma mentre al Pireo la miseria dei profughi cambiò i temi delle canzoni, con la galera, l'hashish e la vita dei μάγκες, a Chania e a Rethymno si continuò a cantare soprattutto l'amore e il dolore di vivere, come a Smirne. Forse perché ad ascoltare, nello stesso caffè, c'erano il conciatore e il signore.\nIl rebetiko «di strada», a Creta, nacque altrove: a Heraklion, nel quartiere del Λάκκος (Làkkos), il quartiere delle case di tolleranza, nella prima metà del Novecento. Lo storico Γιάννης Ζαϊμάκης, dell'Università di Creta, lo ha studiato a lungo. Era un mondo di μάγκες, di commerci illeciti e di popoli mescolati, dove si suonava rebetiko prima ancora che arrivassero le case discografiche. Le persone «per bene» lo guardavano con disprezzo, e non solo per i temi di malavita: quelle melodie orientali, così vicine alla musica dei turchi, davano fastidio a chi voleva costruire un'identità greca «pura». Una storia che ricorda quella del rebetiko ad Atene.\n\nLe canzoni\n– «Όσο βαρούν τα σίδερα», la più famosa, cantata da Φουσταλιέρης.\n– «Φιλεντέμ», che hanno portato al grande pubblico anche Νίκος Ξυλούρης e Γιώργος Νταλάρας.\n– «Πες μου και γιάντα», di Μαρκογιαννάκης. Il titolo vuol dire «dimmi perché», ma in cretese: per chiedere «perché» si dice γιάντα, mentre γιατί si usa per rispondere.\n– «Νενέ μου», «Καρότσα», «Χτικιάρης».\n– E naturalmente il Σταφιδιανός.\nPer chi vuole ascoltarli in un'interpretazione di oggi c'è il doppio CD «Ταμπαχανιώτικα» di Λάμπης Ξυλούρης (Σείστρον), con Ψαραντώνης, Νίκη Ξυλούρη e altri. Dentro ci sono il Σταφιδιανός, «Όσο βαρούν τα σίδερα», «Νενέ μου», «Φιλεντέμ», «Πες μου και γιάντα», e perfino un «Χαλεπιανός μανές», il manés della Χαλέπα, il quartiere sopra le concerie. Da Σταφιδάκης alla famiglia Ξυλούρης di Anoghia, il filo non si è mai spezzato.\n\nFonti\n– Γ. Δ. Τσίβης, 1993, pp. 113–114\n– Μιχάλης Κατσανεβάκης, «Τουρκοκρατία στην Κρήτη: οι Κρήτες μουσουλμάνοι μουσικοί και χορευτές», Χανιώτικα Νέα, 5 febbraio 2026 (dal suo libro «Κρήτες Μουσουλμάνοι»): https://www.haniotika-nea.gr/toyrkokratia-stin-kriti-iasi-oi-krites-moysoyl-anoi-oysikoi-kai-choreytes/\n– Hakkı Bilgehan, «Girit Müziği ve Girit Türkleri» (dal libro «Her yönü ile Girit», 2011)\n– Pınar Şimşek, «Identity, language and communication concerns of subcultures: The case of Antalya Cretans», PLOS ONE, 2025: https://pmc.ncbi.nlm.nih.gov/articles/PMC11703064/\n– «Το Στελάκι απ' την Κρήτη», εκδόσεις Αεράκης, Κρητικό Μουσικό Εργαστήρι\n– Λεωνίδας Λαϊνάκης, intervista all'ΑΠΕ-ΜΠΕ, ekriti.gr, 6 novembre 2022: https://www.ekriti.gr/politismos/tampahaniotika-ta-xehorista-astika-tragoydia-tis-dytikis-kritis\n– womantoc.gr, «Ταμπαχανιώτικα: οι αμανέδες του Ρεθύμνου και των Χανίων»: https://www.womantoc.gr/news/364512/tampaxaniotika-oi-amanedes-tou-rethumnou-kai-ton-xanion/\n– Nikos Manias, «Tabachaniotika»: https://www.nikosmanias.gr/tabachaniotika.html\n– tampakaria.gr, «Tampakaria area»: https://www.tampakaria.gr/en/tampakaria-area.html\n– archaiologia.gr, «Ταμπακαριά: Ανοίγει ο δρόμος για την αξιοποίηση 17 παραδοσιακών κτισμάτων», 8 giugno 2017\n– ΣΚΑΪ, «Λίφτινγκ στα Ταμπακαριά», 2 novembre 2022: https://www.skai.gr/news/greece/liftingk-sta-tampakaria-mia-apo-tis-pio-istorikes-geitonies-ton-xanion\n– Γιάννης Ζαϊμάκης, «Music-making in the social world of a Cretan town (Heraklion 1900-1960)», Popular Music, 2011\n– Γιάννης Ζαϊμάκης, «Καταγώγια ακμάζοντα: Μάγκες και ρεμπέτικα στα χαμαιτυπεία του Λάκκου»\n– Ray Berry, «Crete: Rebetiko, The Cretan Blues»: https://rayiberry.substack.com/p/crete-rebetiko-the-cretan-blues",
+      "link": ""
+    },
+    {
       "id": "a_1790353054988",
       "title": "Νικόλας Άσιμος — \"il Santo di Exarcheia\"",
       "tag": "storie di persone",
@@ -13946,10 +14010,10 @@
       "id": "p_1785396705467",
       "name": "Μίνως Μάτσας",
       "nameit": "Mìnos Màtsas",
-      "born": "1903 Preveza Epiro",
+      "born": "1903, Preveza Epiro",
       "died": "1970",
       "nat": "",
-      "bio": "Mìnos Màtsas (1903-1970) è stato un paroliere, compositore e dirigente discografico greco specializzato in rebetiko.\nNacque a Preveza, in Epiro, Grecia, nel 1903, in una famiglia ebrea romaniota originaria di Ioannina. Nei suoi primi anni, Minos Matsas scrisse testi e musiche per canzoni rebetiko, con il suo nome o spesso con altri nove pseudonimi tra cui ricordiamo  \"Tsamas\" (Τσάμας), invertendo le sillabe del suo nome, e Pipitsa Oikonomou (Πιπίτσα Οικονόμου) (dal nome variato di una sua impiegata, Pipitsa Papaoikonomou, con un successo relativamente modesto. Alcuni dei suoi testi più famosi sono: To Minore tis Avgis (Το Μινόρε της Αυγής), O Andonis o Varkaris (Ο Αντώνης ο Βαρκάρης, O Zorikos (Ο Ζόρικος). Il suo successo arrivò più tardi nella vita come dirigente dell'Odeon-Parlophon dove ebbe molto successo scoprendo e ingaggiando nuovi talenti.\nEssendo ebreo, Minos Matsas trascorse gli anni della guerra e dell'occupazione tedesca nascondendosi nella casa del collega compositore rebetika Yiannis Papaioannou\n\nΜάτσας (και Υιός), il \"figlio\" essendo Makis Matsas che ha seguito l'esempio del padre. Makis Matsas è attualmente il presidente di Minos-Emi Greece.",
+      "bio": "Mìnos Màtsas (1903-1970) è stato un paroliere, compositore e dirigente discografico greco specializzato in rebetiko.\nNacque a Preveza, in Epiro, Grecia, nel 1903, in una famiglia ebrea romaniota originaria di Ioannina. Nei suoi primi anni, Minos Matsas scrisse testi e musiche per canzoni rebetiko, con il suo nome o con altri nove pseudonimi, fra cui «Tsamas» (Τσάμας), ottenuto invertendo le sillabe del suo nome, e «Pipitsa Oikonomou» (Πιπίτσα Οικονόμου), dal nome, leggermente modificato, di una sua impiegata, Pipitsa Papaoikonomou. In questi primi anni ebbe un successo relativamente modesto.\nAlcuni dei suoi testi più famosi sono: To Minore tis Avgis (Το Μινόρε της Αυγής), O Andonis o Varkaris (Ο Αντώνης ο Βαρκάρης, O Zorikos (Ο Ζόρικος). Il suo successo arrivò più tardi nella vita come dirigente dell'Odeon-Parlophon dove ebbe molto successo scoprendo e ingaggiando nuovi talenti.\nEssendo ebreo, Minos Matsas trascorse gli anni della guerra e dell'occupazione tedesca nascondendosi nella casa del collega compositore rebetika Yiannis Papaioannou\n\nΜάτσας (και Υιός), il \"figlio\" essendo Makis Matsas che ha seguito l'esempio del padre. Makis Matsas è attualmente il presidente di Minos-Emi Greece.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/matsas.jpg",
@@ -18568,11 +18632,11 @@
     },
     {
       "id": "p_1789195546778",
-      "name": "Στέλιος Φουσταλιεράκης",
-      "nameit": "Stélios Foustalierákis",
+      "name": "Στέλιος Φουσταλιέρης",
+      "nameit": "Stélios Foustalièris",
       "born": "domenica 19 giugno 1911, Rethymno alle tre del pomeriggio (un dettaglio che amava precisare lui stesso)",
       "died": "4 aprile 1992",
-      "bio": "Conosciuto anche come Φουσταλιέρης\n\nPrese il nome del padre, morto in un incidente prima della sua nascita. Crebbe ascoltando canzoni micrasiatiche e divenne un virtuoso del bulgarí (il tamburà cretese). Dagli 11 anni iniziò ad apprendere anche il mestiere di orologiaio — la sua seconda grande passione dopo il bulgarí — aprendo poi un proprio negozio in via Arkadiou a Rethymno, dove era conosciuto anche come \"barba Stelios il orologiaio\".\n\nCantante, strumentista e compositore di molte celebri canzoni cretesi, creò una propria \"scuola\" nella musica cretese, elevando il bulgarí a strumento melodico e solistico. Suonò con i grandi maestri della musica cretese, ma fu anche un caso unico capace di intendersi con i grandi rebetes: tra il 1933 e il 1937 — il periodo di massima fioritura del rembetiko — visse ad Atene, dove la conoscenza con Markos Vamvakaris, Giorgos Batis, Panagiotis Tountas, Giannis Papaioannou, Stratos Pagioumtzis e altri influenzò in modo determinante la sua formazione musicale.\n\nUn dettaglio curioso sulla discografia: sulle etichette dei dischi dell'epoca risulta scritto che suonasse il \"bouzouki\" — un errore dovuto al fatto che i responsabili delle case discografiche, durante le registrazioni ad Atene, non conoscevano né il nome né la tecnica esecutiva del bulgarí (strumento della famiglia del tambourá, simile morfologicamente al saz micrasiatico, ma con divisioni diverse sul manico). Il fatto che dal 1930 le registrazioni si tenessero nello stabilimento Columbia di Perissós rendeva inoltre difficile la presenza frequente di esecutori di provincia — da qui la sproporzione tra la ricchezza della musica cretese e la sua scarsa documentazione discografica dell'epoca.\n\nFu descritto come persona molto amabile, di statura media, con un sorriso dolcissimo e un'innata nobiltà d'animo. È annoverato a pieno titolo tra i vertici della tradizione musicale popolare urbana di Rethymno e di Creta.",
+      "bio": "Conosciuto anche come Φουσταλιεράκης\n\nPrese il nome del padre, morto in un incidente prima della sua nascita. Crebbe ascoltando canzoni micrasiatiche e divenne un virtuoso del bulgarí (il tamburà cretese). Dagli 11 anni iniziò ad apprendere anche il mestiere di orologiaio — la sua seconda grande passione dopo il bulgarí — aprendo poi un proprio negozio in via Arkadiou a Rethymno, dove era conosciuto anche come \"barba Stelios il orologiaio\".\n\nCantante, strumentista e compositore di molte celebri canzoni cretesi, creò una propria \"scuola\" nella musica cretese, elevando il bulgarí a strumento melodico e solistico. Suonò con i grandi maestri della musica cretese, ma fu anche un caso unico capace di intendersi con i grandi rebetes: tra il 1933 e il 1937 — il periodo di massima fioritura del rembetiko — visse ad Atene, dove la conoscenza con Markos Vamvakaris, Giorgos Batis, Panagiotis Tountas, Giannis Papaioannou, Stratos Pagioumtzis e altri influenzò in modo determinante la sua formazione musicale.\n\nUn dettaglio curioso sulla discografia: sulle etichette dei dischi dell'epoca risulta scritto che suonasse il \"bouzouki\" — un errore dovuto al fatto che i responsabili delle case discografiche, durante le registrazioni ad Atene, non conoscevano né il nome né la tecnica esecutiva del bulgarí (strumento della famiglia del tambourá, simile morfologicamente al saz micrasiatico, ma con divisioni diverse sul manico). Il fatto che dal 1930 le registrazioni si tenessero nello stabilimento Columbia di Perissós rendeva inoltre difficile la presenza frequente di esecutori di provincia — da qui la sproporzione tra la ricchezza della musica cretese e la sua scarsa documentazione discografica dell'epoca.\n\nFu descritto come persona molto amabile, di statura media, con un sorriso dolcissimo e un'innata nobiltà d'animo. È annoverato a pieno titolo tra i vertici della tradizione musicale popolare urbana di Rethymno e di Creta.",
       "link": "",
       "listen": "",
       "photo": "https://musicagreca.github.io/musica-greca/images/fustalieris.jpg",
