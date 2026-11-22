@@ -1,8 +1,49 @@
 {
   "version": 1,
-  "exportedAt": "2026-11-22T11:17:43.913Z",
+  "exportedAt": "2026-11-22T18:17:25.850Z",
   "homeImg": "https://raw.githubusercontent.com/musicagreca/musica-greca/main/images/Μία%20ακουαρέλα%20του%20Νίκου%20Μάθεση%20Τρελακια.jpg",
   "songs": [
+    {
+      "id": "s_1795371413930",
+      "offsets": {},
+      "executions": [
+        {
+          "who": "",
+          "year": "",
+          "note": "canale Al Paris",
+          "link": "https://www.youtube.com/watch?v=Uqwedb66lic",
+          "vid": true
+        },
+        {
+          "who": "Δόμνα Σαμίου",
+          "year": "1984",
+          "note": "",
+          "link": "https://domnasamiou.gr/song/giorgitsa/?lang=en",
+          "vid": false
+        }
+      ],
+      "date": "2026-11-22",
+      "tgr": "Γιωργίτσα",
+      "tit": "Ghiorghìtsa",
+      "alias": "Έλα Γιούλα; Γιούλα; Γιωργίτσα μου",
+      "at": "Παραδοσιακό",
+      "am": "Παραδοσιακό",
+      "yr": "",
+      "ar": "Παραδοσιακό",
+      "lb": "",
+      "gn": "dimotikò",
+      "zona": "Asia Minore",
+      "dr": "",
+      "bal": "Argòs Karsilamàs",
+      "balgr": "",
+      "ll": "",
+      "li": "",
+      "ch": "Εγώ 'λεγα να σ' αγαπώ, Γιωργίτσα μου,\nκανείς να μη, κανείς να μη το ξέρει,\nτώρα το 'μαθαν οι δικοί, Γιωργίτσα μου,\nτο μάθανε, το μάθανε κι οι ξένοι.\n\nΈλα Γιούλα, Γιούλα, Γιούλα, έλα πάρε με,\nάνοιξε τις δυο σου αγκάλες, μέσα βάλε με,\nάνοιξε τις δυο σου αγκάλες, μέσα βάλε με,\nέλα Γιούλα, Γιούλα, Γιούλα, έλα πάρε με.\n\nΤο γιασεμί στην πόρτα σου, Γιωργίτσα μου,\nάνθισε και, άνθισε και θα δέσει,\nτ' αγγελικό σου το κορμί, Γιωργίτσα μου,\nστα χέρια μου, στα χέρια μου θα πέσει.\n\nΈλα Γιούλα, Γιούλα, Γιούλα και Γιωργούλα μου,\nσυ μου 'χεις καμμένη, φως μου, την καρδούλα μου,\nσυ μου 'χεις καμμένη, φως μου, την καρδούλα μου,\nέλα Γιούλα, Γιούλα, Γιούλα και Γιωργούλα μου.\n\nΜάζεψε συ τα γιασεμιά, Γιωργίτσα μου,\nκαι 'γω τα βε-, και 'γω τα βελονιάζω,\nπούλησε την αγάπη σου, Γιωργίτσα μου,\nκαι 'γω την α-, και 'γω την αγοράζω.\n\nΈλα Γιούλα, Γιούλα, Γιούλα, έλα πάρε με,\nάνοιξε τις δυο σου αγκάλες, μέσα βάλε με.",
+      "tr": "Ghiorghìtsa\n\nEghó 'lega na s' aghapó, Ghiorghítsa mu\nkanís na mi, kanís na mi to ksére\nTóra to 'mathan i dikí, Ghiorghítsa mu\nto máthane, to máthane ki kséni\n\nÉla Ghiúla, Ghiúla, Ghiúla, éla páre me\nÁnikse tis dio su angáles, mésa vále me\n\nTo ghiasemí stin pórta su, Ghiorghítsa mu\nánthise kie ánthise kie tha dése\nT' anghelikó su to kormí, Ghiorghítsa mu\nsta chieriá mu, sta chiéria mu tha pési\n\nÉla Ghiúla...\n\nMázepse esí ta ghiasemiá, Ghiorghítsa mu\nkie eghó ta ve-, kie eghó ta veloniazó\nPúlise tin aghápi su, Ghiorghítsa mu\nkie 'ghó tin a-, kie 'ghó tin aghorázo\n\nÉla Ghiúla...",
+      "ti": "Giorgina\n\nIo dicevo di amarti, Giorgitsa mia¹\nche nessuno, che nessuno lo sapesse\nOra l'hanno saputo i miei², Giorgitsa mia\nl'hanno saputo, l'hanno saputo, e anche gli estranei³\n\nVieni Giula⁴, Giula, Giula, vieni, prendimi\nApri le tue due braccia, mettimi dentro\n\nIl gelsomino alla tua porta, Giorgitsa mia\nè fiorito, è fiorito e metterà frutto⁵\nIl tuo corpo d'angelo, Giorgitsa mia\nnelle mie mani, nelle mie mani cadrà⁶\n\nVieni Giula...\n\nRaccogli tu i gelsomini, Giorgitsa mia\ne io li in-, e io li infilo con l'ago⁷\nVendi il tuo amore, Giorgitsa mia\ne io lo com-, e io lo compro⁸\n\nVieni Giula...\n\nNote\n\nΓιωργίτσα è un vezzeggiativo affettuoso di un nome femminile (Γεωργία, Giorgia). È la ragazza a cui canta l'uomo.\nΟι δικοί (i miei) significa \"i familiari\", cioè la famiglia. La storia d'amore era segreta e ora la famiglia l'ha scoperta.\nΞένοι sono gli estranei, quelli fuori dalla famiglia. Il segreto è uscito di casa e lo sa tutto il paese.\nΓιούλα è un altro vezzeggiativo femminile, qui usato come secondo nome della stessa ragazza.\nΝα δέσει si dice di un fiore che \"lega\", cioè diventa frutto. Il gelsomino alla porta è l'immagine dell'amore che matura.\nÈ un'immagine di desiderio e di attesa: lui è sicuro che prima o poi lei cadrà tra le sue braccia.\nΒελονιάζω viene da βελόνα (ago) e vuol dire \"infilare con l'ago\". Qui è l'infilare i fiori di gelsomino in una collana.\nIl gioco è fra vendere e comprare: lei vende il suo amore e lui lo compra. È un modo scherzoso di dire che lui è pronto a pagare qualsiasi prezzo.",
+      "no": "Canzone d'amore tradizionale della costa occidentale dell'Asia Minore, dalla penisola di Ερυθραία, a ovest di Smirne, e in particolare da Αλάτσατα (oggi Alaçatı). È in 9 tempi (2+2+2+3) e si balla come karsilamàs lento, «αργός καρσιλαμάς», detto anche «αντικριστός» perché i ballerini stanno uno di fronte all'altro. Δόμνα Σαμίου la imparò da Κλεονίκη Τζωανάκη e la incise nel 1984. «Γιούλα» e «Γιωργούλα» sono vezzeggiativi dello stesso nome, Γιωργίτσα.\n\nIl senso: lui voleva amarla senza che nessuno lo sapesse, e ora lo sanno i parenti e gli estranei. Il gelsomino alla sua porta è fiorito, e lei finirà fra le sue braccia. Lei raccolga i gelsomini e lui li infilerà con l'ago; lei venda il suo amore, e lui lo comprerà. Il ritornello: «Vieni, Giula, prendimi, apri le tue braccia e stringimi».",
+      "balvid": false
+    },
     {
       "id": "s_1795339508309",
       "offsets": {},
