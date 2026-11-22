@@ -176,6 +176,7 @@ body{background:var(--bg);font-family:'Noto Sans',Arial,sans-serif;color:var(--t
 .arg-card-ttl{font-size:1rem;font-weight:700;margin-bottom:.5rem}
 .arg-card-body{font-size:13px;line-height:1.75;color:var(--t2);white-space:pre-wrap}
 .arg-card-body .arg-p{margin:0 0 10px 0;white-space:normal}
+.arg-card-body .arg-p.arg-caption{text-align:center;font-style:italic;font-size:.9em;opacity:.85;margin:-.2rem auto 14px auto;max-width:90%}
 .arg-spazio{height:2.2rem}
 .arg-card-body .arg-h2{font-size:15px;font-weight:700;color:var(--txt);margin:16px 0 8px 0}
 .arg-card-body .arg-h3{font-size:13px;font-weight:700;color:var(--txt);margin:12px 0 6px 0}
@@ -823,7 +824,11 @@ function formatArgBody(raw){
     } else if(/^\s*$/.test(line)){
       html += '';
     } else {
-      html += '<p class="arg-p">'+inlineFormat(line)+'</p>';
+      var prevLine = i>0 ? lines[i-1] : '';
+      var isCaption = /^\s*\{\{img:[^}]+\|centro\}\}\s*$/.test(prevLine) &&
+        line.trim().length <= 300 &&
+        !/^\s*(\{\{|[–\-•*]|Ascolta)/.test(line);
+      html += '<p class="arg-p'+(isCaption?' arg-caption':'')+'">'+inlineFormat(line)+'</p>';
     }
   }
   if(inTable) flushTable();
